@@ -1,0 +1,195 @@
+{
+  "key": "stranded-alien-dawn",
+  "name": "Stranded: Alien Dawn",
+  "description": "Brave a new world in Stranded: Alien Dawn, a planet survival sim placing the fate of a small marooned group in your hands. Forge your story through compelling and immersive strategic gameplay as you make vital decisions to protect your survivors.",
+  "developers": [
+    "Haemimont Games"
+  ],
+  "publishers": [
+    "Paradox Interactive"
+  ],
+  "release_date": "2023-04-25",
+  "website": "https://www.strandedaliendawn.com/",
+  "tags": [
+    "simulation",
+    "strategy",
+    "survival",
+    "base-building",
+    "crafting",
+    "colony-sim",
+    "3d",
+    "combat",
+    "management",
+    "hunting",
+    "destruction",
+    "cooking",
+    "resource-management",
+    "inventory-management",
+    "choices-matter",
+    "sci-fi",
+    "singleplayer",
+    "building",
+    "tutorial",
+    "space"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "StrandedSteam.exe",
+          "description": "Play Stranded: Alien Dawn",
+          "type": "default"
+        },
+        {
+          "executable": "StrandedSteamDebug.exe",
+          "description": "Debugging mode for mod creators",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Stranded: Alien Dawn",
+    "StrandedSteam",
+    "StrandedSteamDebug"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1324130/60cef5d6b1dc33c8b21518590f4af19244a3552e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324130/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324130/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324130/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324130/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324130/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324130/ss_5470a6be5e662ccfe2a9146cb1a80d1d8927983b.1920x1080.jpg?t=1759746262"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324130/ss_a829ed20bd1654bc1d241c6ab984177925adff67.1920x1080.jpg?t=1759746262"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324130/ss_2829ce01ec92768b08d18e7bbde6d2614dcb0ba4.1920x1080.jpg?t=1759746262"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324130/ss_b50e39e21469555160a709edd81c4cea6a346f5b.1920x1080.jpg?t=1759746262"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324130/ss_f9564919b1f7c236c75b8e68ac2e34a2fa3225c8.1920x1080.jpg?t=1759746262"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324130/ss_c351af505e7a5966e446d93d4ca0862d143f868a.1920x1080.jpg?t=1759746262"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324130/ss_1d4feb05c8b4276170635c87470f63c1707bbe1b.1920x1080.jpg?t=1759746262"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324130/ss_f4f6df32429586e6e7c4f536fa34f5cf4b3953c7.1920x1080.jpg?t=1759746262"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324130/ss_cf60903c8f1034ef1711ed2df25971330146394e.1920x1080.jpg?t=1759746262"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324130/ss_5000f6feaef30af32bba022f971db4a392b01fa9.1920x1080.jpg?t=1759746262"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324130/ss_ee9fddf6d6677e8124f0a7449a82b9734fd16cf4.1920x1080.jpg?t=1759746262"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324130/ss_5b24d0e1ec72a85422246e0fdef1e93fd984a7c1.1920x1080.jpg?t=1759746262"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Stranded Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256942941/movie.293x165.jpg?t=1688115607",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1324130/561061/31e78829fed406fc0b4d1af025a99f8ec85a9d0c/1750672289/dash_h264.mpd?t=1688115607"
+    },
+    {
+      "name": "Stranded Jungle Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256955735/movie.293x165.jpg?t=1688115611",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1324130/582992/ed08483959baef21e36cfe437fcd9c4f3e0f4716/1750672298/dash_h264.mpd?t=1688115611"
+    },
+    {
+      "name": "Stranded_Military Update_Unrated",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256941045/movie.293x165.jpg?t=1684745523",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1324130/557728/d15b21532dd6c0862b2d4bb75d3e657daaea1dae/1750672279/dash_h264.mpd?t=1684745523"
+    },
+    {
+      "name": "Stranded_Gameplay_ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256910484/movie.293x165.jpg?t=1684745531",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1324130/504127/2bb7c1e1a30882a0b83f8e1ad8b20bd6ce423c58/1750672218/dash_h264.mpd?t=1684745531"
+    }
+  ],
+  "metacritic": {
+    "score": 81,
+    "url": "https://www.metacritic.com/game/pc/stranded-alien-dawn?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1324130,
+    "store_url": "https://store.steampowered.com/app/1324130/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Survival",
+      "Base Building",
+      "Simulation",
+      "Strategy",
+      "Crafting",
+      "Colony Sim",
+      "3D",
+      "Combat",
+      "Management",
+      "Hunting",
+      "Destruction",
+      "Cooking",
+      "Resource Management",
+      "Inventory Management",
+      "Choices Matter",
+      "Sci-fi",
+      "Singleplayer",
+      "Building",
+      "Tutorial",
+      "Space"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 9381,
+    "review_negative": 1729,
+    "review_total": 11110,
+    "review_positive_percent": 84.44
+  }
+}

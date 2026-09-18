@@ -1,0 +1,222 @@
+{
+  "key": "the-invincible",
+  "name": "The Invincible",
+  "description": "Rethink human’s dominion in The Invincible: a story-driven adventure set in a hard sci-fi world by Stanisław Lem. Discover planet Regis III as scientist Yasna, use atompunk tools looking for a missing crew and face unforeseen threats. Make choices in a philosophical story that’s driven by science.",
+  "developers": [
+    "Starward Industries"
+  ],
+  "publishers": [
+    "11 bit studios"
+  ],
+  "release_date": "2023-11-06",
+  "website": "https://invinciblethegame.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "dialogue-heavy",
+    "robots",
+    "walking-simulator",
+    "futuristic",
+    "sci-fi",
+    "choices-matter",
+    "female-protagonist",
+    "space",
+    "mystery",
+    "multiple-endings",
+    "story-rich",
+    "singleplayer",
+    "science",
+    "thriller",
+    "aliens",
+    "first-person",
+    "interactive-fiction",
+    "nonlinear",
+    "exploration"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "无敌号",
+    "tchinese": "無敵號"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "TheInvincible.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "TheInvincible\\Saved\\SaveGames\\",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The Invincible",
+    "TheInvincible",
+    "无敌号",
+    "無敵號"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/731040/b27694fcee732620a7bd863ea47a5979c349ff6b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731040/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731040/a6fe005bbd6281ff4f0947c54ba6153694c88b39/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731040/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731040/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731040/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731040/ss_409daae6d5bdf72530c91c928ac5064b52fabe80.1920x1080.jpg?t=1782459751"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731040/ss_d76fbbbfba71a6c38e5ee20ffd618614131490c2.1920x1080.jpg?t=1782459751"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731040/ss_3de9dfea502490e46aa0bfb0d2b9d531280437ea.1920x1080.jpg?t=1782459751"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731040/ss_5410991c2944829fa70198bcefb5b1e4602fa0b4.1920x1080.jpg?t=1782459751"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731040/ss_fa380fbf33435973b411e33da23665b2fe5395bc.1920x1080.jpg?t=1782459751"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731040/ss_54a4ece9e49a9d0ac3ca20f8c34df134f47bc9ab.1920x1080.jpg?t=1782459751"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731040/ss_d76668281ca5a0c25bcfe01616e623e71500d493.1920x1080.jpg?t=1782459751"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731040/ss_cb53bf348a91833457b6e2798cb2673652719208.1920x1080.jpg?t=1782459751"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731040/ss_2cccd0bc07af2a590bd501cf26fb51634801bb46.1920x1080.jpg?t=1782459751"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731040/ss_5bd00cb46772285c531d6d0ab26fb7c557a22095.1920x1080.jpg?t=1782459751"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731040/ss_ab08d6c77c1ae1c563bb81735944285eb32a8eba.1920x1080.jpg?t=1782459751"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256974850/movie.293x165.jpg?t=1696939231",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/731040/616770/855d5157fa63ca46fb8daa5d5b39e9a5c6d16323/1750576366/dash_h264.mpd?t=1696939231"
+    },
+    {
+      "name": "11 Facts Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256992938/movie.293x165.jpg?t=1704818635",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/731040/647998/e8a3fa7e3875f0f1cf05bd43e7f30ad825e80277/1750576369/dash_h264.mpd?t=1704818635"
+    },
+    {
+      "name": "Voyager Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257021133/movie.293x165.jpg?t=1715000472",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/731040/696496/30bfec26fded0883cb23b4d38f954983685fca8a/1750576379/dash_h264.mpd?t=1715000472"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256979917/movie.293x165.jpg?t=1700494993",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/731040/625563/6d3a1f953161582b9795eb46c919a5caed074f44/1750576368/dash_h264.mpd?t=1700494993"
+    },
+    {
+      "name": "Yasna Story Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256953339/movie.293x165.jpg?t=1686916875",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/731040/578930/8a4000ac7abb3f013b2cd7447990add364f2be3b/1750576352/dash_h264.mpd?t=1686916875"
+    },
+    {
+      "name": "The Invincible - First Gameplay Showcase",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256891400/movie.293x165.jpg?t=1685019322",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/731040/471313/0185a8b573982dc8195bfa123cb0dd9fbfaff9c4/1750836156/dash_h264.mpd?t=1685019322"
+    },
+    {
+      "name": "Not everything everywhere is for us",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256931622/movie.293x165.jpg?t=1685025128",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/731040/540887/a82d9d3c9a9291c5b1432fa3d231b21d286b1cff/1750576321/dash_h264.mpd?t=1685025128"
+    },
+    {
+      "name": "Life on Regis III | The Invincible Documentary",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256917614/movie.293x165.jpg?t=1685025133",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/731040/516202/c921eea6272e39d40f3399abb13527d7adcf360e/1750576289/dash_h264.mpd?t=1685025133"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 731040,
+    "store_url": "https://store.steampowered.com/app/731040/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Dialogue Heavy",
+      "Adventure",
+      "Robots",
+      "Walking Simulator",
+      "Futuristic",
+      "Sci-fi",
+      "Choices Matter",
+      "Female Protagonist",
+      "Space",
+      "Mystery",
+      "Multiple Endings",
+      "Story Rich",
+      "Singleplayer",
+      "Science",
+      "Thriller",
+      "Aliens",
+      "First-Person",
+      "Interactive Fiction",
+      "Nonlinear",
+      "Exploration"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 9388,
+    "review_negative": 1248,
+    "review_total": 10636,
+    "review_positive_percent": 88.27
+  }
+}

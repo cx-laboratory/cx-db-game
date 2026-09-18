@@ -1,0 +1,191 @@
+{
+  "key": "unbeatable",
+  "name": "UNBEATABLE",
+  "description": "UNBEATABLE is a rhythm adventure where music is illegal and you do crimes. Follow the story of Beat and her band on the run, in a narrative experience full of big emotions powered by arcade-flawless rhythm gameplay.",
+  "developers": [
+    "D-CELL GAMES"
+  ],
+  "publishers": [
+    "Playstack"
+  ],
+  "release_date": "2025-12-10",
+  "website": "https://www.unbeatablegame.com/",
+  "tags": [
+    "adventure",
+    "rhythm",
+    "female-protagonist",
+    "music",
+    "story-rich",
+    "anime",
+    "exploration",
+    "lgbtq",
+    "arcade",
+    "hand-drawn",
+    "visual-novel",
+    "colorful",
+    "1990-s",
+    "choices-matter",
+    "singleplayer",
+    "3d",
+    "2d",
+    "action-adventure",
+    "controller",
+    "dialogue-heavy"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "UNBEATABLE.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "UNBEATABLE.exe",
+          "description": "Beatmap Testing (custom songs+arcade)",
+          "type": "default"
+        },
+        {
+          "executable": "UNBEATABLE.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "D-CELL GAMES/UNBEATABLE/PROFILES",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "LinuxHome",
+          "path": ".config/unity3d/D-CELL GAMES/UNBEATABLE/PROFILES",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "UNBEATABLE"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2240620/36fd4cfa34bc6737e129e2afb93e8388a48ea351.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2240620/a3fe80f8848d0583be61f24292799e7f796e6319/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2240620/edfd3b280a3327c98115f2a2b0167ec2b5f840e7/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2240620/8ac1dfb34e4bb5a2408eda2825fcd9513ec29f21/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2240620/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2240620/1b6926d3b31709ecca155ca90eb39e7ed37d3ec0/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2240620/ss_d58ef74e7145e0e27467d3623bf0383e070a00be.1920x1080.jpg?t=1782928272"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2240620/ss_2f40f20342ee6e0eb21ae04d1ca13ed383b74376.1920x1080.jpg?t=1782928272"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2240620/ss_6151f4f1d8c8a80cf4e98f7381b775f3e405fb3b.1920x1080.jpg?t=1782928272"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2240620/ss_4478a525e9e4b5f5a00322e09b7e92c5138922a5.1920x1080.jpg?t=1782928272"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2240620/ss_b35128f66cda1fee8bee0576df34b2915c77077c.1920x1080.jpg?t=1782928272"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2240620/ss_dafb550c7e71f44c1372bd2fe660a99d2490ceaa.1920x1080.jpg?t=1782928272"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2240620/ss_2966ad41a3c35b7c00dae022718585ed2c0b412c.1920x1080.jpg?t=1782928272"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2240620/ss_4c09da1db2545f102af6382b65e61ead7447bb78.1920x1080.jpg?t=1782928272"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2240620/ss_45eb08f57e1be593126959e55c055c9bafc7381a.1920x1080.jpg?t=1782928272"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2240620/ss_5d635a886ae5b855c517a8a6aff57d1fd9755247.1920x1080.jpg?t=1782928272"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2240620/ss_dd77a6e1b7e41801ba6dd06a6a6332fdfa28fdf2.1920x1080.jpg?t=1782928272"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2240620/ss_286a4f03bba46a450bacf40969221a73742b3986.1920x1080.jpg?t=1782928272"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gameplay Video",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257028873/movie.293x165.jpg?t=1717965819",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2240620/710213/90ddf744e777c23a8965329fdac73ff59207ff1a/1751094251/dash_h264.mpd?t=1717965819"
+    },
+    {
+      "name": "Animated Announce Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257028557/movie.293x165.jpg?t=1717965825",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2240620/709701/85311ffa7f6ba1f18deae54f168aeee93cee15b2/1751096016/dash_h264.mpd?t=1717965825"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2240620,
+    "store_url": "https://store.steampowered.com/app/2240620/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Rhythm",
+      "Female Protagonist",
+      "Music",
+      "Story Rich",
+      "Anime",
+      "Exploration",
+      "LGBTQ+",
+      "Arcade",
+      "Hand-drawn",
+      "Visual Novel",
+      "Adventure",
+      "Colorful",
+      "1990's",
+      "Choices Matter",
+      "Singleplayer",
+      "3D",
+      "2D",
+      "Action-Adventure",
+      "Controller",
+      "Dialogue Heavy"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 6085,
+    "review_negative": 503,
+    "review_total": 6588,
+    "review_positive_percent": 92.36
+  }
+}

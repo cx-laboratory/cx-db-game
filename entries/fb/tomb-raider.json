@@ -1,0 +1,196 @@
+{
+  "key": "tomb-raider",
+  "name": "Tomb Raider",
+  "description": "Tomb Raider explores the intense origin story of Lara Croft and her ascent from a young woman to a hardened survivor.",
+  "developers": [
+    "Crystal Dynamics"
+  ],
+  "publishers": [
+    "Crystal Dynamics"
+  ],
+  "release_date": "2013-03-04",
+  "website": "http://www.tombraider.com",
+  "tags": [
+    "action",
+    "adventure",
+    "multiplayer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "dutch",
+    "czech",
+    "arabic",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "古墓丽影 (2013年游戏)"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "TombRaider.exe",
+          "description": "Tomb Raider (GM)",
+          "type": "default"
+        },
+        {
+          "executable": "TRAS_win32_final.exe",
+          "description": "Launch TRAS Final",
+          "type": "default"
+        },
+        {
+          "executable": "TRAS_win32_release.exe",
+          "description": "Launch TRAS Release",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Tomb Raider.app",
+          "description": "Mac Main Game",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "TombRaider.sh",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Tomb Raider",
+    "TombRaider",
+    "TRAS_win32_final",
+    "TRAS_win32_release",
+    "Tomb Raider.app",
+    "TombRaider.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/203160/3ee640a8aba6992678e36f4e40cba9c71c02348b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/9e67774e97cdd155f287146e62611eb445514ac6/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/2155072e0f151e8bd3fe142cfcb2397d8b30f026/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/6cf7bf60b8dbbbcf693f0456819bbdcfe6187c8c/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ff2a976c619394bb2bd42c2ff139233a890d7917/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/e774d6ae1bba588318a1c7ff3edeb6ed78c6b147/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ss_65861a8ea2efcb01fca8aa4b1233663bb053ab54.1920x1080.jpg?t=1765220424"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ss_cd920308517efb19c11b44e251af89e40fb412d5.1920x1080.jpg?t=1765220424"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ss_8f34a87469f3a0c73049cbd0469bdff6e3d22713.1920x1080.jpg?t=1765220424"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ss_822faf14b04eac6140067109e75a5a859f4f42db.1920x1080.jpg?t=1765220424"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ss_7d3c4be984498b4374210a3291e5cf266fa6dd32.1920x1080.jpg?t=1765220424"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ss_c93f9a97f2fd890f21c829cf8781850484eec7f3.1920x1080.jpg?t=1765220424"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ss_846fd1166a03b1d3147618aaba1ff7ef4477085d.1920x1080.jpg?t=1765220424"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ss_b49a25cb879b6dbaa6f851eae3b5bf6d3fc04478.1920x1080.jpg?t=1765220424"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ss_d846ccc3ea1e73a8828568a84b853632d0ad603b.1920x1080.jpg?t=1765220424"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ss_73efb9bc2ccd0b783fb6408339495780cac87446.1920x1080.jpg?t=1765220424"
+    }
+  ],
+  "videos": [
+    {
+      "name": "TR- Launch and Accolades ESRB ENG",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256663328/movie.293x165.jpg?t=1461666307",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/203160/57098/4bcab49b1ca8854f48021efbdbf1ea4e18d78c7a/1750498846/dash_h264.mpd?t=1461666307"
+    },
+    {
+      "name": "Tomb Raider - Turning Point Trailer ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028388/movie.293x165.jpg?t=1447357498",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/203160/10727/bc433a91a02e76d1ea82a1bfaa6b9bf118a27429/1750498724/dash_h264.mpd?t=1447357498"
+    },
+    {
+      "name": "Tomb Raider - Crossroads Trailer ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028390/movie.293x165.jpg?t=1654549859",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/203160/10729/ab842cc1a8d751375de2b5817d292f0cd1fb5965/1750498759/dash_h264.mpd?t=1654549859"
+    },
+    {
+      "name": "Tomb Raider - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028427/movie.293x165.jpg?t=1447357555",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/203160/10821/81963c732f768a8d12c7c98e976c908429e91112/1750498792/dash_h264.mpd?t=1447357555"
+    },
+    {
+      "name": "Tomb Raider - Survivor Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028426/movie.293x165.jpg?t=1447357554",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/203160/10820/a8ef94ad9e7ff324ecf609a88a62e17317344c39/1750498786/dash_h264.mpd?t=1447357554"
+    }
+  ],
+  "metacritic": {
+    "score": 86,
+    "url": "https://www.metacritic.com/game/pc/tomb-raider?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 203160,
+    "store_url": "https://store.steampowered.com/app/203160/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 256474,
+    "review_negative": 10600,
+    "review_total": 267074,
+    "review_positive_percent": 96.03
+  }
+}

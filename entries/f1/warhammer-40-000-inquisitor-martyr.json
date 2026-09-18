@@ -1,0 +1,214 @@
+{
+  "key": "warhammer-40-000-inquisitor-martyr",
+  "name": "Warhammer 40,000: Inquisitor - Martyr",
+  "description": "Enter the Chaos-infested Caligari Sector and purge the unclean with the most powerful agents of the Imperium of Man! W40k: Inquisitor – Martyr is a grim Action-RPG featuring multiple classes of the Inquisition who will carry out the Emperor’s will.",
+  "developers": [
+    "NeocoreGames"
+  ],
+  "publishers": [
+    "NeocoreGames"
+  ],
+  "release_date": "2018-06-06",
+  "website": "https://neocoregames.com/en/games/warhammer-40k-inquisitor-martyr",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "action-rpg",
+    "hack-and-slash",
+    "loot",
+    "dark",
+    "space",
+    "isometric",
+    "violent",
+    "sci-fi",
+    "singleplayer",
+    "war",
+    "inventory-management",
+    "gore",
+    "open-world"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Hungarian",
+    "Korean",
+    "Polish",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Japanese*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Warhammer.exe",
+          "description": "Launch the game",
+          "type": "default"
+        },
+        {
+          "executable": "Warhammer.exe",
+          "description": "Offline version",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "NeocoreGames\\Warhammer Martyr\\{64BitSteamID}\\Save",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Warhammer 40,000: Inquisitor - Martyr",
+    "Warhammer"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/527430/0679e210754d3036b52f46297e5514473ef101e4.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/ss_0d4dacd11343e9f46fcbabc4883cd2b43f92ba3f.1920x1080.jpg?t=1731442765"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/ss_59ad3d21ec0959f21613679457abfb1ea33a524d.1920x1080.jpg?t=1731442765"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/ss_10acd786da958b590a1ca9564fd2db629e6bc0bc.1920x1080.jpg?t=1731442765"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/ss_09cf95aca496c197b7816d91ece3a08ae0dd41b5.1920x1080.jpg?t=1731442765"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/ss_6ee8fe9329246a3457d5d1a8d11ebadb72b1210b.1920x1080.jpg?t=1731442765"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/ss_50a0c224f6ab645fc3324397993289843e5d2abb.1920x1080.jpg?t=1731442765"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/ss_dab35841d6bc511d6d44f4383625cfda5ecca302.1920x1080.jpg?t=1731442765"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/ss_b886521837bcc572db9cc046a848f33f9ee0ca93.1920x1080.jpg?t=1731442765"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/ss_6c2e0ea23d0bbfd192daac40958beef4de785b92.1920x1080.jpg?t=1731442765"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/ss_91840c99282e6ccc7223b58ff1264f95e20cca5b.1920x1080.jpg?t=1731442765"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Hierophant Release",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257072826/0bf6a8eb7409bc5e9762d68b026969f00610ed85/movie_600x337.jpg?t=1731442757",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/527430/784850/f3d018cdd0785d512964ed7fa2f7d42b0de9fb4a/1750544551/dash_h264.mpd?t=1731442757"
+    },
+    {
+      "name": "Hierophant Teaser Offline",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257025293/movie.293x165.jpg?t=1716480926",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/527430/704016/f8a20875f54fc75c9e7a91fd3dd7b146a559242c/1750544542/dash_h264.mpd?t=1716480926"
+    },
+    {
+      "name": "AllSeasonsTrailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256993356/movie.293x165.jpg?t=1704981702",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/527430/648804/ef04ee127466b2fd0bc8f2f78a6b0d3e88845d1e/1750544538/dash_h264.mpd?t=1704981702"
+    },
+    {
+      "name": "Release trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256718954/movie.293x165.jpg?t=1704982695",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/527430/166596/37b621de0f1cb7cbc90c5ca1c167229cc04b4361/1750544505/dash_h264.mpd?t=1704982695"
+    },
+    {
+      "name": "2.0 release trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256754609/movie.293x165.jpg?t=1704982699",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/527430/230202/d8f678925c72cb64ce203dd8f3984342aecffde9/1750544524/dash_h264.mpd?t=1704982699"
+    },
+    {
+      "name": "Feature trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256718825/movie.293x165.jpg?t=1528131257",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/527430/166393/d9269db0afa17764bf7dc06e55eaa2d2d4e0c9ad/1750544491/dash_h264.mpd?t=1528131257"
+    }
+  ],
+  "metacritic": {
+    "score": 67,
+    "url": "https://www.metacritic.com/game/pc/warhammer-40000-inquisitor---martyr?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 527430,
+    "store_url": "https://store.steampowered.com/app/527430/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Action RPG",
+      "Hack and Slash",
+      "RPG",
+      "Action",
+      "Loot",
+      "Dark",
+      "Co-op",
+      "Adventure",
+      "Space",
+      "Indie",
+      "Isometric",
+      "Online Co-Op",
+      "Violent",
+      "Sci-fi",
+      "Singleplayer",
+      "Multiplayer",
+      "War",
+      "Inventory Management",
+      "Gore",
+      "Open World"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 16837,
+    "review_negative": 5314,
+    "review_total": 22151,
+    "review_positive_percent": 76.01
+  }
+}

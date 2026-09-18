@@ -1,0 +1,251 @@
+{
+  "key": "dcs-world-steam-edition",
+  "name": "DCS World Steam Edition",
+  "description": "Feel the excitement of flying the Su-25T &quot;Frogfoot&quot; attack jet and the TF-51D &quot;Mustang&quot; in the free-to-play Digital Combat Simulator World!",
+  "developers": [
+    "Eagle Dynamics SA"
+  ],
+  "publishers": [
+    "Eagle Dynamics SA"
+  ],
+  "release_date": "2013-08-03",
+  "website": "http://www.digitalcombatsimulator.com/en/",
+  "tags": [
+    "simulation",
+    "free-to-play",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "flight",
+    "military",
+    "realistic",
+    "vr",
+    "war",
+    "open-world",
+    "singleplayer",
+    "shooter",
+    "action",
+    "sandbox",
+    "trackir",
+    "first-person",
+    "tanks",
+    "strategy",
+    "fps",
+    "massively-multiplayer"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "spanish",
+    "russian",
+    "czech"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "bin\\DCS.exe",
+          "description": "Default Launch",
+          "type": "default"
+        },
+        {
+          "executable": "bin\\DCS.exe",
+          "description": "",
+          "type": "openxr"
+        },
+        {
+          "executable": "bin\\DCS.exe",
+          "description": "",
+          "type": "othervr"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "SavesDir",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "DCS World Steam Edition",
+    "bin\\DCS"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/223750/f709dbfd1d2ad385ae5baaa1824422c11a4a2dea.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/ea56ed1a2714a51abbf73357fdc533f1ce990a6a/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/ss_ca737b2d32aa9dd7eeffc5cffb32a2701cbf9778.1920x1080.jpg?t=1781602931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/ss_d78c0a3eb87a6d894b47b5028d668b76aac4a9a0.1920x1080.jpg?t=1781602931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/ss_35ad5f67042f7ad6f85820ef1bbead9d5a3577e5.1920x1080.jpg?t=1781602931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/ss_935d86811059ec985b5841395cbca3193b531ef9.1920x1080.jpg?t=1781602931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/ss_398a864bcb237ead0c73b4e6d7c4b67282b22ffd.1920x1080.jpg?t=1781602931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/ss_e17c4a7559651104361708707b01a354b4c896b2.1920x1080.jpg?t=1781602931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/ss_7fe72f8c4353588769339a177405a095a5379eea.1920x1080.jpg?t=1781602931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/ss_484e98709d7579e427611aaadf7e4fff2c7a320d.1920x1080.jpg?t=1781602931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/ss_d91a50b00faa673ac8d5eb402281bf0e543f5464.1920x1080.jpg?t=1781602931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/ss_d0464bc1496e7a275da4a7915c5b12a515b3fa3e.1920x1080.jpg?t=1781602931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/ss_df10dbd598af1fb51f4805cb54ff88ffdc2736ce.1920x1080.jpg?t=1781602931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/ss_cfe23f665d26881129b90d4f7c11eded236af515.1920x1080.jpg?t=1781602931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/ss_ec697318fda9ab0aa5c20777711150bd363f5cdb.1920x1080.jpg?t=1781602931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/ss_cc177b04789cb8e65e25925ae7e7b74a8c096869.1920x1080.jpg?t=1781602931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/ss_7795571965ab89e227a77262b1bdaeffc3d94483.1920x1080.jpg?t=1781602931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/ss_97bd318e0389c14348f5abc214dc26007238f10f.1920x1080.jpg?t=1781602931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/ss_725f37de5c304ee7ac889d0a2eff6eb37ffecd9b.1920x1080.jpg?t=1781602931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/ss_0981f012ceb9f7b36cf698a951435b4baf1df0db.1920x1080.jpg?t=1781602931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/ss_f322f905cc17c24d803dce4667c88837d1574fe7.1920x1080.jpg?t=1781602931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/ss_48b201e58c082128d94df0ed8fdb004d8c574811.1920x1080.jpg?t=1781602931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/ss_2fbc801ab89f5cd48ffcdb23b9dc76548980268c.1920x1080.jpg?t=1781602931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/ss_98ed59ecbf95f5253f007628a272ffd085f2182f.1920x1080.jpg?t=1781602931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/ss_318409632a2aae16c1318ac13e1c78faa39d8b05.1920x1080.jpg?t=1781602931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/ss_5c6405c224ad540173ab7fc8db9093616ca0131c.1920x1080.jpg?t=1781602931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223750/ss_cffad3b9e718de27c262e6d06b953ffa3e80e084.1920x1080.jpg?t=1781602931"
+    }
+  ],
+  "videos": [
+    {
+      "name": "2026 & Beyond Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257306854/624ab7d142a2a989d6d98ab888dca39e71783788/movie_600x337.jpg?t=1774257197",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/223750/2118497424/a72d5892258b86f82db490157b7155867c14fd39/1774034923/dash_h264.mpd?t=1774257197"
+    },
+    {
+      "name": "10 Things About DCS World",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256745473/movie.293x165.jpg?t=1726841029",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/223750/213680/021f1e707fec90ee482de7a5854b02ea9ac64a25/1750481800/dash_h264.mpd?t=1726841029"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 223750,
+    "store_url": "https://store.steampowered.com/app/223750/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Simulation",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Tracked Controller Support",
+      "VR Supported",
+      "Captions available",
+      "VR Support",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Keyboard Only Option",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Stereo Sound",
+      "Surround Sound",
+      "Touch Only Option",
+      "Partial Controller Support",
+      "Includes level editor"
+    ],
+    "tags": [
+      "Simulation",
+      "Flight",
+      "Free to Play",
+      "Military",
+      "Multiplayer",
+      "Realistic",
+      "VR",
+      "War",
+      "Open World",
+      "Singleplayer",
+      "Shooter",
+      "Action",
+      "Co-op",
+      "Sandbox",
+      "TrackIR",
+      "First-Person",
+      "Tanks",
+      "Strategy",
+      "FPS",
+      "Massively Multiplayer"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 34559,
+    "review_negative": 6072,
+    "review_total": 40631,
+    "review_positive_percent": 85.06
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "key": "little-nightmares",
+  "name": "Little Nightmares",
+  "description": "Take on the role of Six, a lone child lost in a massive metal vessel known as the Maw, surrounded by dangerous, distorted versions of adults. You’ll need to do your best to escape in one piece or your fate will be worse than you ever dared dream.",
+  "developers": [
+    "Tarsier Studios"
+  ],
+  "publishers": [
+    "BANDAI NAMCO Entertainment"
+  ],
+  "release_date": "2017-04-28",
+  "website": "http://www.little-nightmares.com",
+  "tags": [
+    "adventure",
+    "horror",
+    "atmospheric",
+    "singleplayer",
+    "puzzle-platformer",
+    "dark",
+    "puzzle",
+    "indie",
+    "story-rich",
+    "stealth",
+    "platformer",
+    "great-soundtrack",
+    "2-5d",
+    "third-person",
+    "multiplayer",
+    "female-protagonist",
+    "short",
+    "action"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "swedish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "小小梦魇"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Atlas\\Binaries\\Win64\\LittleNightmares.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "game.exe",
+          "description": "Enhanced Edition",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Atlas/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Little Nightmares",
+    "Atlas\\Binaries\\Win64\\LittleNightmares",
+    "game"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/424840/1904c041f963b5e2cb22b56c370444517cc4e288.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/facf9a7a675c6d7f210d96d6b111caffe0386cd5/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/2bdbdbe316dba829ab67ea61528ab87a156fc2ed/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/61f07d0288ff0d62cfb718dcab0a0eb33d9241c0/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/9473dd9fac07ef16e8dc1f161bb20582ec45d446/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/cda046278952a504b8693a296ff69107f6d3984f/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/8942672a817424d426e65ade0253e428a3f449ee/ss_8942672a817424d426e65ade0253e428a3f449ee.1920x1080.jpg?t=1773135169"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/659c0e9407e6886ed3e27320db598274c0e352a2/ss_659c0e9407e6886ed3e27320db598274c0e352a2.1920x1080.jpg?t=1773135169"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/24d7518ab72df4608de04f4ad4bc04ee479e3911/ss_24d7518ab72df4608de04f4ad4bc04ee479e3911.1920x1080.jpg?t=1773135169"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/351e2a93274cadae4952a1d05847c9a4ea723129/ss_351e2a93274cadae4952a1d05847c9a4ea723129.1920x1080.jpg?t=1773135169"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/f44ce606d6d5cb2c2d04c32488c3c751bfb3747c/ss_f44ce606d6d5cb2c2d04c32488c3c751bfb3747c.1920x1080.jpg?t=1773135169"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/9e419d670f0e7887e06180f5333e3582b3b41c8e/ss_9e419d670f0e7887e06180f5333e3582b3b41c8e.1920x1080.jpg?t=1773135169"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/c4f1d9bc136530748c244f6ff217c58472e86f66/ss_c4f1d9bc136530748c244f6ff217c58472e86f66.1920x1080.jpg?t=1773135169"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/fb2d90eee30e81b055f105f2250cd4db4ebd2224/ss_fb2d90eee30e81b055f105f2250cd4db4ebd2224.1920x1080.jpg?t=1773135169"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/18d77bf3b77f97bcf614f6b8716775b04b0c0b90/ss_18d77bf3b77f97bcf614f6b8716775b04b0c0b90.1920x1080.jpg?t=1773135169"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/5eb2cbdb54a15773baa3d97df21434c1116cefae/ss_5eb2cbdb54a15773baa3d97df21434c1116cefae.1920x1080.jpg?t=1773135169"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Little Nightmares Accolade Trailer ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256697668/movie.293x165.jpg?t=1507652088",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/424840/127256/2b3b03da446faada11132a61cd2c710fc0d92af1/1750529351/dash_h264.mpd?t=1507652088"
+    },
+    {
+      "name": "Little Nightmares Launch Trailer ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256683916/movie.293x165.jpg?t=1493296060",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/424840/99863/087e469ec9968603f37c24deb57837b6d791e4d8/1750529278/dash_h264.mpd?t=1493296060"
+    },
+    {
+      "name": "9 Deaths of Six ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256678039/movie.293x165.jpg?t=1484668805",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/424840/86898/283bed49d704c8fa2cbf1f9dcee17f2e8020dc4a/1750529247/dash_h264.mpd?t=1484668805"
+    },
+    {
+      "name": "Deep Below the Waves ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256668433/movie.293x165.jpg?t=1484705345",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/424840/67634/ffa3f138c366f573576f4c5205fd7152688b54cf/1750529182/dash_h264.mpd?t=1484705345"
+    }
+  ],
+  "metacritic": {
+    "score": 81,
+    "url": "https://www.metacritic.com/game/pc/little-nightmares?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 424840,
+    "store_url": "https://store.steampowered.com/app/424840/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Horror",
+      "Atmospheric",
+      "Adventure",
+      "Singleplayer",
+      "Puzzle Platformer",
+      "Dark",
+      "Puzzle",
+      "Indie",
+      "Story Rich",
+      "Stealth",
+      "Psychological Horror",
+      "Platformer",
+      "Great Soundtrack",
+      "2.5D",
+      "Survival Horror",
+      "Third Person",
+      "Multiplayer",
+      "Female Protagonist",
+      "Short",
+      "Action"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 110058,
+    "review_negative": 6094,
+    "review_total": 116152,
+    "review_positive_percent": 94.75
+  }
+}

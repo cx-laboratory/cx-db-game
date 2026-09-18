@@ -1,0 +1,265 @@
+{
+  "key": "prison-architect",
+  "name": "Prison Architect",
+  "description": "Only the world’s most ruthless Warden can contain the world’s most ruthless inmates. Design and develop your personalized penitentiary in Prison Architect.",
+  "developers": [
+    "Introversion Software"
+  ],
+  "publishers": [
+    "Paradox Interactive"
+  ],
+  "release_date": "2015-10-06",
+  "website": "https://www.prisonarchitect.com/",
+  "tags": [
+    "indie",
+    "simulation",
+    "strategy",
+    "building",
+    "sandbox",
+    "base-building",
+    "colony-sim",
+    "management",
+    "city-builder",
+    "2d",
+    "top-down",
+    "multiplayer",
+    "resource-management",
+    "economy",
+    "singleplayer",
+    "moddable",
+    "capitalism",
+    "funny",
+    "replay-value",
+    "casual"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "dutch",
+    "swedish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Launcher\\dowser.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "prison architect64.exe",
+          "description": "Launch in SAFE MODE",
+          "type": "default"
+        },
+        {
+          "executable": "Prison Architect.exe",
+          "description": "Prison Architect Anniversary - 2015 version",
+          "type": "option1"
+        },
+        {
+          "executable": "Prison Architect.exe",
+          "description": "Prison Architect Anniversary - 2018 version",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Launcher\\dowser",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "Prison Architect.app",
+          "description": "Launch in SAFE MODE",
+          "type": "default"
+        },
+        {
+          "executable": "Prison Architect.app",
+          "description": "Prison Architect Anniversary - 2015 version",
+          "type": "option1"
+        },
+        {
+          "executable": "Prison Architect.app",
+          "description": "Prison Architect Anniversary - 2018 version",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Launcher\\dowser",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "PrisonArchitect",
+          "description": "Launch in SAFE MODE",
+          "type": "default"
+        },
+        {
+          "executable": "PrisonArchitect",
+          "description": "Prison Architect Anniversary - 2015 version",
+          "type": "option1"
+        },
+        {
+          "executable": "PrisonArchitect",
+          "description": "Prison Architect Anniversary - 2018 version",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Prison Architect",
+    "Launcher\\dowser",
+    "prison architect64",
+    "Prison Architect.app",
+    "PrisonArchitect"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/233450/c166c7911beec4d63a74cdddf25f26b73c84556b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_0c13ec061d922fbe8ad518eb58487cff09d3fd40.1920x1080.jpg?t=1759221867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_8fd05248e9f657baea9f26d2dbd154573c29b33e.1920x1080.jpg?t=1759221867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_bc52fdefa87f4dd54f2e0c4268ebf6d3d859d682.1920x1080.jpg?t=1759221867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_71a9f3d9bbc42df3ed320f6072353be9dd3b65fd.1920x1080.jpg?t=1759221867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_b3380ae2e73a41723b9dd377a68a52c327762f4b.1920x1080.jpg?t=1759221867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_9409f165fe4f7b747e16e84f1c557a37c0bccfc1.1920x1080.jpg?t=1759221867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_6e55db68121786b01fd3408efe024901bdded602.1920x1080.jpg?t=1759221867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_e2192114d3722f729b54caf5ca94b9d07ebf7bd8.1920x1080.jpg?t=1759221867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_d366c2fa8ad3d34a12d273c046c30ec6fc24aa47.1920x1080.jpg?t=1759221867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_2e0bad57b5c02840950837f034d2280e2e24b65a.1920x1080.jpg?t=1759221867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_a294cf1d6c3b208452832fe743f3c731de2876f5.1920x1080.jpg?t=1759221867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_f398279d60b83b0a261534658cf67cc89037831d.1920x1080.jpg?t=1759221867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_d5555831d6721d697b1a0fc1cfbd1079a4bf2ae6.1920x1080.jpg?t=1759221867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_e5e93b24c2280e32a17d8855089b2e67d816fd45.1920x1080.jpg?t=1759221867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_547f7ffbcde4b4fb7765c01b5030fc8196424712.1920x1080.jpg?t=1759221867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_9f9e4cc544c7bdf755625ab234304ffe9947d73d.1920x1080.jpg?t=1759221867"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Prison Architect V1.0 trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256657032/movie.293x165.jpg?t=1447378356",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/233450/44205/a60887680466f46c3a1d02feb3c60d4547937e11/1750491714/dash_h264.mpd?t=1447378356"
+    },
+    {
+      "name": "Sunset Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256947053/movie.293x165.jpg?t=1684242210",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/233450/568107/14507c450421963d4eb76c2154e9d0c3b6b324b0/1750491724/dash_h264.mpd?t=1684242210"
+    }
+  ],
+  "metacritic": {
+    "score": 83,
+    "url": "https://www.metacritic.com/game/pc/prison-architect?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 233450,
+    "store_url": "https://store.steampowered.com/app/233450/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Building",
+      "Sandbox",
+      "Base Building",
+      "Colony Sim",
+      "Strategy",
+      "Management",
+      "City Builder",
+      "2D",
+      "Top-Down",
+      "Multiplayer",
+      "Resource Management",
+      "Economy",
+      "Singleplayer",
+      "Moddable",
+      "Capitalism",
+      "Funny",
+      "Replay Value",
+      "Indie",
+      "Casual"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 65622,
+    "review_negative": 7886,
+    "review_total": 73508,
+    "review_positive_percent": 89.27
+  }
+}

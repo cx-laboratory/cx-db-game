@@ -1,0 +1,267 @@
+{
+  "key": "soulmask",
+  "name": "Soulmask",
+  "description": "Don the Ancient Mask. Wield the power of gods. Possess any of your tribespeople, recruit followers, and build a thriving automated civilization. Survive, expand, and forge your own legacy across a vast ancient open world — together with friends.",
+  "developers": [
+    "CampFire Studio"
+  ],
+  "publishers": [
+    "Qooland Games"
+  ],
+  "release_date": "2026-04-10",
+  "website": "https://mask.qoolandgames.com/",
+  "tags": [
+    "adventure",
+    "indie",
+    "rpg",
+    "simulation",
+    "free-to-play",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "open-world-survival-craft",
+    "survival",
+    "base-building",
+    "crafting",
+    "open-world",
+    "pve",
+    "hunting",
+    "sandbox",
+    "singleplayer",
+    "action-adventure",
+    "automation",
+    "exploration",
+    "naval-combat",
+    "resource-management",
+    "mythology",
+    "colony-sim"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "灵魂面甲(Soulmask)",
+    "sc_schinese": "灵魂面甲"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "WS.exe",
+          "description": "(DirectX 12)",
+          "type": "option1"
+        },
+        {
+          "executable": "WS.exe",
+          "description": "(DirectX 11)",
+          "type": "option2"
+        },
+        {
+          "executable": "WS.exe",
+          "description": "(SafeMode)",
+          "type": "option3"
+        },
+        {
+          "executable": "WS.exe",
+          "description": "(Uninstall Game security services)",
+          "type": "option3"
+        },
+        {
+          "executable": "WS.exe",
+          "description": "(Steam China)",
+          "type": "option3"
+        },
+        {
+          "executable": "WS.exe",
+          "description": "(SafeMode)",
+          "type": "option3"
+        },
+        {
+          "executable": "WS.exe",
+          "description": "(Uninstall Game security services)",
+          "type": "option3"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Soulmask",
+    "WS",
+    "灵魂面甲(Soulmask)",
+    "灵魂面甲"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2646460/a6e8a3962f1110deb848aeb979e306c6416972fd.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/0871f08237fc0829756f0e6de4c8b8f0eed2181d/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/cc111069d4063d830db24c41a777ccff43066d3a/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/eea336412787e2b803fd9d6b5bd8ada887fa990a/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/1b7752b9d6b7c96afc04310503243fb91132571f/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/3e135f72c8edda38a19d162ed8b1388a80249a11/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/253a0d981a4ff3cfb217e263b108a46036057b65/ss_253a0d981a4ff3cfb217e263b108a46036057b65.1920x1080.jpg?t=1782700719"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/5e3d6a48915334a7466a130dd629956c5219bf4d/ss_5e3d6a48915334a7466a130dd629956c5219bf4d.1920x1080.jpg?t=1782700719"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/ss_7ef7045926393971406f85db88bdb0cc2dd91b65.1920x1080.jpg?t=1782700719"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/70e0a4c2930dbbbf3f49ef059f8868379eab5323/ss_70e0a4c2930dbbbf3f49ef059f8868379eab5323.1920x1080.jpg?t=1782700719"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/ss_d5567b5624d5ddd0bca6b93c0dfd18e9d8e8c8f9.1920x1080.jpg?t=1782700719"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/a7eb710e7fb83e5fddd193d14cf703a4d19e771c/ss_a7eb710e7fb83e5fddd193d14cf703a4d19e771c.1920x1080.jpg?t=1782700719"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/e81ff69920bee4e8bfce74792e7164b7a4ec2136/ss_e81ff69920bee4e8bfce74792e7164b7a4ec2136.1920x1080.jpg?t=1782700719"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/767db97f228c6da936b11e980aa0f0eca1123129/ss_767db97f228c6da936b11e980aa0f0eca1123129.1920x1080.jpg?t=1782700719"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/a518c9036ec40ce1bb8705efb5bd8f1131107160/ss_a518c9036ec40ce1bb8705efb5bd8f1131107160.1920x1080.jpg?t=1782700719"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/391bc8f8b77ba186c3bdea7431cf6b39b2dfe26a/ss_391bc8f8b77ba186c3bdea7431cf6b39b2dfe26a.1920x1080.jpg?t=1782700719"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/ss_3e19bd0f48a050d493102e4625084ae942d45b72.1920x1080.jpg?t=1782700719"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/ss_8b1539b573ceebd791b571278ba91879047c9295.1920x1080.jpg?t=1782700719"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/ss_ace70ce21f32a3844b792a71c46c4c9299c197b8.1920x1080.jpg?t=1782700719"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/c89f403f30e7dd27468c9403c9228823d2cfa361/ss_c89f403f30e7dd27468c9403c9228823d2cfa361.1920x1080.jpg?t=1782700719"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/ss_f9a8e68b2d6f24a9b03e51bd3f567d0647b4d172.1920x1080.jpg?t=1782700719"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/ss_557a9acf9bde213ae2907b92601d2014d64692de.1920x1080.jpg?t=1782700719"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/ss_4d11eee0bcd31f43d593ea798272641c6169485d.1920x1080.jpg?t=1782700719"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Soulmask 1.0&Egypt DLC Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257316814/5eb5d89a62f80d15383c4ef7e223ab33c3b78c65/movie_600x337.jpg?t=1778518455",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2646460/1479784412/595f17577f6ff467244227815714b519b0febbb8/1778469731/dash_h264.mpd?t=1778518455"
+    },
+    {
+      "name": "Soulmask 1.0 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257304381/5afbb7e5a55ea9c88dfcfed1b4ad85356807ae37/movie_600x337.jpg?t=1773669787",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2646460/232356889/cc4be0baf7f774a303f119c56a278f223f08684e/1773663948/dash_h264.mpd?t=1773669787"
+    },
+    {
+      "name": "The Golden Legend",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257151045/b6f054085cd4a77519e9dde5515d445990121b5e/movie_600x337.jpg?t=1749092204",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2646460/1538161938/c50a937d29245b830ee843134c703975f0c1229b/1750817941/dash_h264.mpd?t=1749092204"
+    },
+    {
+      "name": "Abilities of mask",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257018621/movie.293x165.jpg?t=1772798540",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2646460/692074/7bf19e1b127374a5ab35cb7163dd75fa7a72b191/1750817928/dash_h264.mpd?t=1772798540"
+    },
+    {
+      "name": "Soulmask official Trailer 02- Build Your Own Tribe",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256999306/movie.293x165.jpg?t=1772798542",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2646460/659381/f4802748c3d2f0c378d2566409f6f136ab96fb16/1750817924/dash_h264.mpd?t=1772798542"
+    },
+    {
+      "name": "Soulmask | Survive trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256994249/movie.293x165.jpg?t=1772798543",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2646460/650431/0db0a6adba2617a0f66f00bfbf2829c7170628ee/1750817923/dash_h264.mpd?t=1772798543"
+    },
+    {
+      "name": "Soulmask | Survive Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256992303/movie.293x165.jpg?t=1772798544",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2646460/646762/a1ea9c8365fdae9263b9e01db4d53a45f5534330/1750817920/dash_h264.mpd?t=1772798544"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2646460,
+    "store_url": "https://store.steampowered.com/app/2646460/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Open World Survival Craft",
+      "Survival",
+      "Base Building",
+      "Crafting",
+      "Open World",
+      "PvE",
+      "PvP",
+      "Hunting",
+      "Sandbox",
+      "Singleplayer",
+      "Adventure",
+      "Action-Adventure",
+      "Automation",
+      "Co-op",
+      "Exploration",
+      "Naval Combat",
+      "RPG",
+      "Resource Management",
+      "Mythology",
+      "Colony Sim"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 16905,
+    "review_negative": 4989,
+    "review_total": 21894,
+    "review_positive_percent": 77.21
+  }
+}

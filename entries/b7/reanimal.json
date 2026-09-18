@@ -1,0 +1,210 @@
+{
+  "key": "reanimal",
+  "name": "REANIMAL",
+  "description": "The creators of Little Nightmares™ I &amp; II have returned to take you on a darker, more terrifying journey than ever before. In this horror adventure game, a brother &amp; sister go through hell to rescue their missing friends and escape the island that they used to call home.",
+  "developers": [
+    "Tarsier Studios"
+  ],
+  "publishers": [
+    "THQ Nordic"
+  ],
+  "release_date": "2026-02-13",
+  "website": "https://reanimal.thqnordic.com",
+  "tags": [
+    "adventure",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "split-screen"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "czech",
+    "arabic",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "tchinese": "生灵重塑",
+    "schinese": "生灵重塑"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Everholm/Binaries/Win64/REANIMAL.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Everholm/Binaries/Win64/Everholm.exe",
+          "description": "REVIEW copy of REANIMAL",
+          "type": "option1"
+        },
+        {
+          "executable": "Everholm/Binaries/Win64/Everholm.exe",
+          "description": "REANIMAL for External Review",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "REANIMAL/Saved/SaveGames/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Everholm/Saved/SaveGames/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "REANIMAL",
+    "Everholm/Binaries/Win64/REANIMAL",
+    "Everholm/Binaries/Win64/Everholm",
+    "生灵重塑"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2129530/b50a746147735dbbd2db7539eda28686f9ccc1af.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/4cdda917a0155258a2e7909d7869f35d8f980f96/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/0e28f1b3446dd979013ca3df83a3ced5d7ca611b/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/d4453d651e8e438e5d376a6455694bf79fa63419/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/69fca251a9b4ae48d89283b0ba1fdac37742d818/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/4fb239e69b21f3879053e365ae0b9e747460938b/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/19a638fbf5e2821fae387f88e492c44801f47885/ss_19a638fbf5e2821fae387f88e492c44801f47885.1920x1080.jpg?t=1771918402"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/dccf798f7e98af871edc4b625700f2005854e9cb/ss_dccf798f7e98af871edc4b625700f2005854e9cb.1920x1080.jpg?t=1771918402"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/82ca7105ed03969d014465312fb15050b029fc94/ss_82ca7105ed03969d014465312fb15050b029fc94.1920x1080.jpg?t=1771918402"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/aab121e5bdaf552e60ed7e7503368fcc4e3bfaab/ss_aab121e5bdaf552e60ed7e7503368fcc4e3bfaab.1920x1080.jpg?t=1771918402"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/f61e62d193307ea39c7f9efaeb751070bc2b1758/ss_f61e62d193307ea39c7f9efaeb751070bc2b1758.1920x1080.jpg?t=1771918402"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/7c4e789ddae8dbaaa8705f98ac3e77a58baee2d0/ss_7c4e789ddae8dbaaa8705f98ac3e77a58baee2d0.1920x1080.jpg?t=1771918402"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/29ada835c47d05899c13a40062cabc127fcef005/ss_29ada835c47d05899c13a40062cabc127fcef005.1920x1080.jpg?t=1771918402"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/3763aea5b665fada46d2cc4904bd59da97c26f17/ss_3763aea5b665fada46d2cc4904bd59da97c26f17.1920x1080.jpg?t=1771918402"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/0fb71e936ed9c74819ba5d69a7b07d0a3bb17596/ss_0fb71e936ed9c74819ba5d69a7b07d0a3bb17596.1920x1080.jpg?t=1771918402"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/70363d3cba70dcfa66f3f9d597a41457fd12e8c1/ss_70363d3cba70dcfa66f3f9d597a41457fd12e8c1.1920x1080.jpg?t=1771918402"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/92c3eb6156d25e14e027d4ed5ca9d9ddcb842d4b/ss_92c3eb6156d25e14e027d4ed5ca9d9ddcb842d4b.1920x1080.jpg?t=1771918402"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/0923ddc522f0d2c562f63913ee352ec2bc506127/ss_0923ddc522f0d2c562f63913ee352ec2bc506127.1920x1080.jpg?t=1771918402"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/fe100219e1f44869953287bed2af7633d665f61c/ss_fe100219e1f44869953287bed2af7633d665f61c.1920x1080.jpg?t=1771918402"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/150a405fce85bcbe3f2170ee5e570c39a6966780/ss_150a405fce85bcbe3f2170ee5e570c39a6966780.1920x1080.jpg?t=1771918402"
+    }
+  ],
+  "videos": [
+    {
+      "name": "REANIMAL Accolades  Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257293488/e9a7c9783c3958700bbf5befb742e242e4ccd84e/movie_600x337.jpg?t=1771918401",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2129530/263149291/9e773f2c15cd32915819471deffe1196dfb63abd/1771917237/dash_h264.mpd?t=1771918401"
+    },
+    {
+      "name": "REANIMAL Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257279091/8f2e542640b118ccb6dc6c04b01e24f8cb5b886b/movie_600x337.jpg?t=1770991072",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2129530/102384489/3f2de1879715ec17d808b62bf0c409076787d781/1770202167/dash_h264.mpd?t=1770991072"
+    },
+    {
+      "name": "REANIMAL Preorder Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257235285/a7893b8833bb7e961743818ea412f54d05bd4c7f/movie_600x337.jpg?t=1763663890",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2129530/1098099823/0a85b864bad4c1e0319f07a9dc97912102ab1368/1763651292/dash_h264.mpd?t=1763663890"
+    },
+    {
+      "name": "Showcase 2025 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257176914/fe9f8cf90731586784006e7c18f0f22be3099331/movie_600x337.jpg?t=1754075960",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2129530/1033882352/e3495094f2edc6e228d0455019df8be0c7e586a1/1754063337/dash_h264.mpd?t=1754075960"
+    },
+    {
+      "name": "REANIMAL - Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257048044/movie.293x165.jpg?t=1724215494",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2129530/743492/dbe3229d3c6c3500a7bfe46e5fcbc0c94fead746/1751079788/dash_h264.mpd?t=1724215494"
+    }
+  ],
+  "metacritic": {
+    "score": 80,
+    "url": "https://www.metacritic.com/game/pc/reanimal?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 2129530,
+    "store_url": "https://store.steampowered.com/app/2129530/",
+    "required_age": 18,
+    "is_free": false,
+    "genres": [
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Custom Volume Controls",
+      "Gamepad Recommended",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Surround Sound",
+      "Steam Cloud",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 17297,
+    "review_negative": 5979,
+    "review_total": 23276,
+    "review_positive_percent": 74.31
+  }
+}

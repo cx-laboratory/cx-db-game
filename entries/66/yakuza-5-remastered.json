@@ -1,0 +1,134 @@
+{
+  "key": "yakuza-5-remastered",
+  "name": "Yakuza 5 Remastered",
+  "description": "Get ready for a Yakuza experience of unprecedented scale! Follow five characters across five Japanese cities, each trying to achieve their dream. The connections between them bring them together, but the conflict that unfolds is nothing any of them could have predicted.",
+  "developers": [
+    "RGG Studio"
+  ],
+  "publishers": [
+    "SEGA"
+  ],
+  "release_date": "2021-01-28",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "koreana",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "koreana": "용과 같이5 꿈을 이루는 자",
+    "schinese": "人中之龙５　实现梦想者",
+    "tchinese": "人中之龍５　實現夢想者",
+    "japanese": "龍が如く５　夢、叶えし者"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "main\\Yakuza5.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "main\\devil_release.exe",
+          "description": "Release_executable",
+          "type": "option2"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Yakuza 5 Remastered",
+    "main\\Yakuza5",
+    "main\\devil_release",
+    "용과 같이5 꿈을 이루는 자",
+    "人中之龙５　实现梦想者",
+    "人中之龍５　實現夢想者",
+    "龍が如く５　夢、叶えし者"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1105510/0aa99cea8b752b22bd167752798d60bd1c112663.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105510/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105510/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105510/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105510/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105510/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105510/ss_57fe9f86473ba42bb82cb7cef19d439605a8c881.1920x1080.jpg?t=1781264288"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105510/ss_ac0e05c0cd52dc11929ac2626f0d9564d50bae5e.1920x1080.jpg?t=1781264288"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105510/ss_30206c83cf83039b64dff144095a6a9b18dbd122.1920x1080.jpg?t=1781264288"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105510/ss_502364d91fe31ce0cce3f89ac3787d55348e2c8a.1920x1080.jpg?t=1781264288"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105510/ss_6d2b9f289e5150dd4c4a8b9bad1e697d36d7a35e.1920x1080.jpg?t=1781264288"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105510/ss_db5089a87f89995b841c802fde6525ceefe417c0.1920x1080.jpg?t=1781264288"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105510/ss_d17d773ef79bb106fbb092e338627fbd1accf97c.1920x1080.jpg?t=1781264288"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105510/ss_1eb8151a370444f8ccecac9cfc322ed4da089576.1920x1080.jpg?t=1781264288"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Yakuza Bundle ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256820042/movie.293x165.jpg?t=1611846179",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1105510/343893/2e7f8fab7c31360e4b031890c85b269c26f8cb33/1750620013/dash_h264.mpd?t=1611846179"
+    },
+    {
+      "name": "Yakuza 5 Rmstd Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256813053/movie.293x165.jpg?t=1716552555",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1105510/332632/61726a60281de6d7cf3c64df3a92523d77104a2b/1750619974/dash_h264.mpd?t=1716552555"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1105510,
+    "store_url": "https://store.steampowered.com/app/1105510/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 6436,
+    "review_negative": 822,
+    "review_total": 7258,
+    "review_positive_percent": 88.67
+  }
+}

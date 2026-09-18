@@ -1,0 +1,244 @@
+{
+  "key": "speedrunners",
+  "name": "SpeedRunners",
+  "description": "Cut-throat multiplayer running game that pits 4 players against each other, locally and/or online. Run, jump, swing around, and use devious weapons and pick-ups to knock opponents off-screen! One of the most competitive games you'll ever play.",
+  "developers": [
+    "DoubleDutch Games"
+  ],
+  "publishers": [
+    "tinyBuild"
+  ],
+  "release_date": "2016-04-20",
+  "website": "http://tinyBuild.com/speedrunners",
+  "tags": [
+    "action",
+    "casual",
+    "indie",
+    "racing",
+    "sports",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "local-multiplayer",
+    "competitive",
+    "fast-paced",
+    "platformer",
+    "2d",
+    "4-player-local",
+    "funny",
+    "parkour",
+    "controller",
+    "co-op",
+    "level-editor",
+    "singleplayer",
+    "arcade",
+    "superhero"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "hungarian",
+    "czech",
+    "romanian",
+    "turkish",
+    "brazilian",
+    "greek",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "极速奔跑者"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SpeedRunners.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "SpeedRunners.app/Contents/MacOS/SpeedRunners",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "./SpeedRunners.bin.x86",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "./SpeedRunners.bin.x86_64",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "SpeedRunners",
+    "SpeedRunners.app/Contents/MacOS/SpeedRunners",
+    "./SpeedRunners.bin.x86",
+    "./SpeedRunners.bin.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/207140/65cfa21149c415430fe36d83c23e079e6db476cc.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207140/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207140/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207140/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207140/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207140/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207140/ss_abffe8a3421836849b3c11ec5d04b469e23f8569.1920x1080.jpg?t=1781537454"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207140/ss_73d9c1e6158ad8da10d87d57f7887845e7f88d6f.1920x1080.jpg?t=1781537454"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207140/ss_acc4042e5a39a80147b24259f167fe6d83ae1bd5.1920x1080.jpg?t=1781537454"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207140/ss_42f8ad6706b3303c0307a756fc98976bf6073654.1920x1080.jpg?t=1781537454"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207140/ss_50d5ce858ad67550755ef98d21bb237ef458ec98.1920x1080.jpg?t=1781537454"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207140/ss_c16914d0de1250fb59837aed30e440274824af19.1920x1080.jpg?t=1781537454"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207140/ss_370c0eeba886cc48341c12f0077acfb6b0ba1239.1920x1080.jpg?t=1781537454"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207140/ss_738f7b7560eed291849a7fe64348317c0d016a31.1920x1080.jpg?t=1781537454"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207140/ss_2e6252b3a165b4fb2d095d1c8409df02a2ccf699.1920x1080.jpg?t=1781537454"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207140/ss_5b951ea4fdf2a934e49eaa15a49e48c9726718ac.1920x1080.jpg?t=1781537454"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207140/ss_b0fc1a8d22567b1e1ac796f504be1602fa8ad4bd.1920x1080.jpg?t=1781537454"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207140/ss_7b7828155cabd42b6daa60a5a8939aca0f6f1b8a.1920x1080.jpg?t=1781537454"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256663106/movie.293x165.jpg?t=1461085702",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/207140/56745/1aba37a0f97a71c5f8a94878376b31b72e2701a4/1750493140/dash_h264.mpd?t=1461085702"
+    },
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256657005/movie.293x165.jpg?t=1447378343",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/207140/44138/4ca0724552b38f75d33ba3a678940a882aa0cea7/1750493139/dash_h264.mpd?t=1447378343"
+    }
+  ],
+  "metacritic": {
+    "score": 84,
+    "url": "https://www.metacritic.com/game/pc/speedrunners?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 207140,
+    "store_url": "https://store.steampowered.com/app/207140/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Racing",
+      "Sports"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Input API Support",
+      "Steam Cloud",
+      "Stats",
+      "Includes level editor",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Racing",
+      "Local Multiplayer",
+      "Indie",
+      "Competitive",
+      "Fast-Paced",
+      "Platformer",
+      "Action",
+      "2D",
+      "4 Player Local",
+      "Funny",
+      "Parkour",
+      "Sports",
+      "Controller",
+      "Local Co-Op",
+      "Co-op",
+      "Level Editor",
+      "Singleplayer",
+      "Arcade",
+      "Superhero"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 34887,
+    "review_negative": 2225,
+    "review_total": 37112,
+    "review_positive_percent": 94
+  }
+}

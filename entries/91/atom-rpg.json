@@ -1,0 +1,290 @@
+{
+  "key": "atom-rpg",
+  "name": "ATOM RPG",
+  "description": "ATOM RPG is a post-apocalyptic indie game, inspired by classic CRPGs: Fallout, Wasteland, Deus Ex, Baldur's Gate and many others.",
+  "developers": [
+    "AtomTeam"
+  ],
+  "publishers": [
+    "AtomTeam"
+  ],
+  "release_date": "2018-12-20",
+  "website": "http://atomrpg.com",
+  "tags": [
+    "rpg",
+    "crpg",
+    "exploration",
+    "turn-based",
+    "survival",
+    "post-apocalyptic",
+    "puzzle",
+    "sandbox",
+    "isometric",
+    "strategy",
+    "alternate-history",
+    "open-world",
+    "turn-based-combat",
+    "story-rich",
+    "tactical",
+    "simulation",
+    "atmospheric",
+    "singleplayer",
+    "mystery",
+    "indie"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "italian",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "czech",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "AtomRPG_x64.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "AtomTeam/Atom",
+          "pattern": "*.as",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "AtomRPG.app",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "AtomTeam/Atom",
+          "pattern": "*.as",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "AtomRPG.x86_64",
+          "description": "with Vulkan",
+          "type": "default"
+        },
+        {
+          "executable": "AtomRPG.x86_64",
+          "description": "ATOM RPG with OpenGL (safe mode)",
+          "type": "option2"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "AtomTeam/Atom",
+          "pattern": "*.as",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "ATOM RPG",
+    "AtomRPG_x64",
+    "AtomRPG.app",
+    "AtomRPG.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/552620/1926ef5150c7c110b0413f53cc23fb7dfab798f4.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_0f54ee3ba1059a0c62a47585417e45ce62d553f3.1920x1080.jpg?t=1769382047"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_a8b8c42ae071b47752d285cc8fcfc527ac48eecb.1920x1080.jpg?t=1769382047"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_e68f9bff761d0e19de393c3cf437314b674678f9.1920x1080.jpg?t=1769382047"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_7d52ff5070310f9d6261a31fad7b014fe734a9b0.1920x1080.jpg?t=1769382047"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_d397bcabffb47f17dd0c72254518f60cc8005f80.1920x1080.jpg?t=1769382047"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_28218d76d4028c8283432bd402ad299dbacafa12.1920x1080.jpg?t=1769382047"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_b43050c32e67abe92225912e75b05afc4b004424.1920x1080.jpg?t=1769382047"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_dcf4a34891ccaa7b50749e181ea86dbe7ae5f258.1920x1080.jpg?t=1769382047"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_86135f0ff4f6d3eb2f82c25a0a02a48f9c088004.1920x1080.jpg?t=1769382047"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_77076eb8f18cdd59add504a65d0ebc2e7b779995.1920x1080.jpg?t=1769382047"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_20d55d98ac24194781990169fe8336c5bac1c686.1920x1080.jpg?t=1769382047"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_163431cb2a7522f00b9e197392b20e507b4fc59f.1920x1080.jpg?t=1769382047"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_4819be6dcd1e7618ee6a4cdcfc6e55bae0948dfa.1920x1080.jpg?t=1769382047"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_5aa57b59a7ebe512f901e4442bcc7fb3c08a3335.1920x1080.jpg?t=1769382047"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_cb8e87fb791fe69a0c8e5d667289bc6a0637c202.1920x1080.jpg?t=1769382047"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_c9901eb725a03e4f0a86516ea3e8937fccf58af1.1920x1080.jpg?t=1769382047"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_02454c3c78d1e38e6ad3211a75d6eaf1482f875b.1920x1080.jpg?t=1769382047"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_e23e1819d17fcff4e3cd62328d61ea7dcc82a8ce.1920x1080.jpg?t=1769382047"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_5e8bbe2046a297f5f0d57b5d1a22cf836a560a71.1920x1080.jpg?t=1769382047"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_badffbcace4f4f00adf02665f24ea2f33b3e0944.1920x1080.jpg?t=1769382047"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_53bb91153addd5bc50dec0f1b5919e97e0c23a50.1920x1080.jpg?t=1769382047"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_435028f5351318134dcf267b5b5a58d65fdbcc16.1920x1080.jpg?t=1769382047"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_b234997b93912bd8986cba710cddda129f89abed.1920x1080.jpg?t=1769382047"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_97531b2bde34305362299b67ed4965837967cd69.1920x1080.jpg?t=1769382047"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_038881c0b8a82a38f6b421c8b520dc81b4650e64.1920x1080.jpg?t=1769382047"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_7353c9a0290eac89eb8f542c36ab03d67c0e4ba7.1920x1080.jpg?t=1769382047"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_bc8623d2b650a08871b863a9bbc6a49f74f92128.1920x1080.jpg?t=1769382047"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552620/ss_6f6b6627e106a6906b51209e4396a0becff607ca.1920x1080.jpg?t=1769382047"
+    }
+  ],
+  "videos": [
+    {
+      "name": "ATOM RPG - Dead City",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256752032/movie.293x165.jpg?t=1559153695",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/552620/225608/51daa55b5889b86614e0cd38c6f533dd3a54f7ba/1750549530/dash_h264.mpd?t=1559153695"
+    },
+    {
+      "name": "ATOM RPG - EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256738982/movie.293x165.jpg?t=1545322930",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/552620/201887/a91ccae1138e71da9fd617f97d3e957477ac3e0a/1750549522/dash_h264.mpd?t=1545322930"
+    },
+    {
+      "name": "Atom RPG - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256738210/movie.293x165.jpg?t=1544650351",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/552620/200646/ba5f56b75b2edacb91cda760d321209711fd90e3/1750549517/dash_h264.mpd?t=1544650351"
+    }
+  ],
+  "metacritic": {
+    "score": 70,
+    "url": "https://www.metacritic.com/game/pc/atom-rpg-post-apocalyptic-indie-game?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 552620,
+    "store_url": "https://store.steampowered.com/app/552620/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Input API Support",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "CRPG",
+      "Exploration",
+      "Turn-Based",
+      "Survival",
+      "RPG",
+      "Post-apocalyptic",
+      "Puzzle",
+      "Sandbox",
+      "Isometric",
+      "Strategy",
+      "Alternate History",
+      "Open World",
+      "Turn-Based Combat",
+      "Story Rich",
+      "Tactical",
+      "Simulation",
+      "Atmospheric",
+      "Singleplayer",
+      "Mystery",
+      "Indie"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8904,
+    "review_negative": 1592,
+    "review_total": 10496,
+    "review_positive_percent": 84.83
+  }
+}

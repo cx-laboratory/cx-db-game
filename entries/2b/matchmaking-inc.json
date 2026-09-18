@@ -1,0 +1,226 @@
+{
+  "key": "matchmaking-inc",
+  "name": "Matchmaking Inc.",
+  "description": "A young single man returns to his hometown and takes over the family's matchmaking business. Matchmaking Inc. is a modern-themed RPG designed for men that combines gameplay elements of simulation management and text adventure.",
+  "developers": [
+    "Wave Games"
+  ],
+  "publishers": [
+    "Lightning Games"
+  ],
+  "release_date": "2025-01-21",
+  "website": "",
+  "tags": [
+    "casual",
+    "indie",
+    "rpg",
+    "simulation",
+    "dating-sim",
+    "time-management",
+    "multiple-endings",
+    "card-game",
+    "choices-matter",
+    "exploration",
+    "story-rich",
+    "pixel-graphics",
+    "word-game",
+    "romance",
+    "deckbuilding",
+    "sandbox",
+    "2d",
+    "cute",
+    "top-down",
+    "funny",
+    "management"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "koreana",
+    "schinese",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "english": "Matchmaking Inc.",
+    "schinese": "中国式相亲",
+    "tchinese": "中國式相親",
+    "japanese": "中国式ブラインドデート Matchmaking Inc.",
+    "koreana": "중국식 소개팅 Matchmaking Inc."
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ChineseDating.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BoLang2/ChineseDating",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "ChineseDating.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BoLang2/ChineseDating",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "ChineseDating.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BoLang2/ChineseDating",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Matchmaking Inc.",
+    "ChineseDating",
+    "ChineseDating.app",
+    "ChineseDating.x86_64",
+    "中国式相亲",
+    "中國式相親",
+    "中国式ブラインドデート Matchmaking Inc.",
+    "중국식 소개팅 Matchmaking Inc."
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2103130/2885acbf4c7d1c7de44d18e9460e18a5a980618a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2103130/597205a9383cf6dec6b2085be95c75d8d6a0ef1e/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2103130/3a079a3739717c571c2d7ad521e32f573e5613d6/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2103130/5ef17523a103a4ff21631db8edf6caf1c09c9b02/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2103130/7f43a0603b2d7c7e4f47c153590962ea9d7c57b5/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2103130/a676ad5953b8282e463261d9dfb7697265679d3b/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2103130/210b85399ab303d89f69883d4e480b10423219a5/ss_210b85399ab303d89f69883d4e480b10423219a5.1920x1080.jpg?t=1778665921"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2103130/2d9e891813a9da7499b4400992d4592a69d2d694/ss_2d9e891813a9da7499b4400992d4592a69d2d694.1920x1080.jpg?t=1778665921"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2103130/ss_b085ac58aa62d1d138ba915daddc34b6457dcbf2.1920x1080.jpg?t=1778665921"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2103130/ss_e5e6a5a9d7a814ac2c7479efc40449fdcd263ec0.1920x1080.jpg?t=1778665921"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2103130/ss_3498a6cc494950105743a85eb0f379fb51297ccb.1920x1080.jpg?t=1778665921"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2103130/009037002ae59fdf4e2d28af7d059c375020955b/ss_009037002ae59fdf4e2d28af7d059c375020955b.1920x1080.jpg?t=1778665921"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2103130/978eae6f012b6a9137bc269655bb7847942fb926/ss_978eae6f012b6a9137bc269655bb7847942fb926.1920x1080.jpg?t=1778665921"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2103130/ss_a6ce4eb772497bb42c3e57aa66eb04a25d55e18e.1920x1080.jpg?t=1778665921"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2103130/ss_61f64a4fdc1b0a1ff837e9605c245cdc987e6b4b.1920x1080.jpg?t=1778665921"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2103130/ss_75aa4b4452376247a3e154eab948febba5bf54da.1920x1080.jpg?t=1778665921"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2103130/ss_40994a27a56f4a944329f77f788b53af16cdc7d6.1920x1080.jpg?t=1778665921"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Matchmaking Inc. - Update trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257159051/519cbfa8a7810badb6e0a9dd710bc1da36b9c9e4/movie_600x337.jpg?t=1750837888",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2103130/359509803/9a5297bb0dca9e2344a1c9daf05fa87d2496e24f/1750387253/dash_h264.mpd?t=1750837888"
+    },
+    {
+      "name": "Matchmaking Inc. - launch trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257090817/016f15ef7b4702a8346367fc96d37fa66a0c20cf/movie_600x337.jpg?t=1737446120",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2103130/815967/680be6feb071ad832889c5c7283c93c5388cd207/1751076436/dash_h264.mpd?t=1737446120"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2103130,
+    "store_url": "https://store.steampowered.com/app/2103130/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Casual",
+      "Dating Sim",
+      "RPG",
+      "Time Management",
+      "Multiple Endings",
+      "Card Game",
+      "Psychological Horror",
+      "Choices Matter",
+      "Exploration",
+      "Story Rich",
+      "Pixel Graphics",
+      "Word Game",
+      "Romance",
+      "Deckbuilding",
+      "Sandbox",
+      "2D",
+      "Cute",
+      "Top-Down",
+      "Funny",
+      "Management"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 6285,
+    "review_negative": 819,
+    "review_total": 7104,
+    "review_positive_percent": 88.47
+  }
+}

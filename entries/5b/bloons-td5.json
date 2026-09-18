@@ -1,0 +1,175 @@
+{
+  "key": "bloons-td5",
+  "name": "Bloons TD5",
+  "description": "Five-star tower defense with unrivaled depth and replayability. The Bloons are back in full HD glory and this time they mean business! Build awesome towers, choose your favorite upgrades, hire new Special Agents, and pop every last invading Bloon in the most popular tower defense series in history.",
+  "developers": [
+    "Ninja Kiwi"
+  ],
+  "publishers": [
+    "Ninja Kiwi"
+  ],
+  "release_date": "2014-11-19",
+  "website": "http://ninjakiwi.com",
+  "tags": [
+    "action",
+    "strategy",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "tower-defense",
+    "family-friendly",
+    "casual",
+    "singleplayer",
+    "2d",
+    "funny",
+    "colorful",
+    "sandbox",
+    "replay-value",
+    "difficult",
+    "great-soundtrack",
+    "survival",
+    "indie",
+    "cute",
+    "relaxing"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "russian",
+    "japanese",
+    "danish",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "turkish",
+    "arabic",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "气球塔防5"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "BTD5-Win.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "btd5steam.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Bloons TD5",
+    "BTD5-Win",
+    "btd5steam.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/306020/b584e669fff85196944f692bebce56200d52bd92.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306020/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306020/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306020/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306020/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306020/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306020/ss_c87683b8acc39e3c16c0b3cd70da19c96ff74c2f.1920x1080.jpg?t=1770223235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306020/ss_538eb0ecbb0f25f04988e5de7f513467da16b906.1920x1080.jpg?t=1770223235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306020/ss_bf7140c7c5851af296899e12c4e066286e716b6b.1920x1080.jpg?t=1770223235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306020/ss_120db945e84b2d99f0dce31dede8b3d3e98dd0b1.1920x1080.jpg?t=1770223235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306020/ss_b06ec953181f3dbde11ac1faeeefc3a31b37118d.1920x1080.jpg?t=1770223235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306020/ss_1af210bf6b8ad1b38e5acb22fdbabbacf333d7e5.1920x1080.jpg?t=1770223235"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Bloons TD5 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2035538/movie.293x165.jpg?t=1447365069",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/306020/27508/91684593dd506f60f2e6ba90526c3af7bd52e66b/1750504330/dash_h264.mpd?t=1447365069"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 306020,
+    "store_url": "https://store.steampowered.com/app/306020/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Tower Defense",
+      "Strategy",
+      "Co-op",
+      "Family Friendly",
+      "Action",
+      "Casual",
+      "Multiplayer",
+      "Singleplayer",
+      "Online Co-Op",
+      "2D",
+      "Funny",
+      "Colorful",
+      "Sandbox",
+      "Replay Value",
+      "Difficult",
+      "Great Soundtrack",
+      "Survival",
+      "Indie",
+      "Cute",
+      "Relaxing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 11256,
+    "review_negative": 634,
+    "review_total": 11890,
+    "review_positive_percent": 94.67
+  }
+}

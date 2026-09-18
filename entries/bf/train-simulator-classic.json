@@ -1,0 +1,174 @@
+{
+  "key": "train-simulator-classic",
+  "name": "Train Simulator Classic",
+  "description": "The ultimate railway hobby for more than 15 years! From historic steam locomotives to modern high-speed and heavy freight trains, and routes around the world, Train Simulator Classic is the simulation made by railfans for railfans.",
+  "developers": [
+    "Dovetail Games"
+  ],
+  "publishers": [
+    "Dovetail Games - Trains"
+  ],
+  "release_date": "2015-09-18",
+  "website": "https://live.dovetailgames.com/live/train-simulator",
+  "tags": [
+    "simulation",
+    "trains",
+    "singleplayer",
+    "realistic",
+    "driving",
+    "relaxing",
+    "casual",
+    "open-world",
+    "moddable",
+    "building",
+    "sandbox",
+    "level-editor",
+    "trackir",
+    "atmospheric",
+    "transportation",
+    "action",
+    "adventure",
+    "vr",
+    "strategy",
+    "city-builder"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "russian",
+    "polish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "RailWorks64.exe",
+          "description": "Train Simulator 64-bit Edition",
+          "type": "option1"
+        },
+        {
+          "executable": "Railworks.exe",
+          "description": "Play Train Simulator 32-bit Edition",
+          "type": "default"
+        },
+        {
+          "executable": "RailWorksDX12_64.exe",
+          "description": "Train Simulator 64-bit Edition (DX12 Experimental)",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Train Simulator Classic",
+    "RailWorks64",
+    "Railworks",
+    "RailWorksDX12_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/24010/90b406bf8dc2e7d52090580248dd6353146b04ce.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24010/1323454fa36647dd6ee09f1f05c1e6e0d1d09d92/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24010/8f8ee9925d0a635d72961567338768ab41aa0896/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24010/42d171a0e9c4c3aaeb7af8fe85045368f671c5ea/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24010/29719301be493cf4f9d084a71734572b5c6c7958/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24010/8d828b7da69c2859aa616fd6dc5b383ae4cf2343/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24010/81e7112f593ed57ec66ad75aa5b63000779b4895/ss_81e7112f593ed57ec66ad75aa5b63000779b4895.1920x1080.jpg?t=1782997339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24010/4dcf17f75c238678d4bb9e6909b6dbc13869f758/ss_4dcf17f75c238678d4bb9e6909b6dbc13869f758.1920x1080.jpg?t=1782997339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24010/f99b984a257077e64a5009a9d1bf820c89eae3be/ss_f99b984a257077e64a5009a9d1bf820c89eae3be.1920x1080.jpg?t=1782997339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24010/d913cb6d9ac3e16972e7c9ac4af43e7352220e73/ss_d913cb6d9ac3e16972e7c9ac4af43e7352220e73.1920x1080.jpg?t=1782997339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24010/9d54a7dbb3ded8e37addd3e89e65f7f54d5d7a46/ss_9d54a7dbb3ded8e37addd3e89e65f7f54d5d7a46.1920x1080.jpg?t=1782997339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24010/6a75df9cd97dce0dfde5c343686c6635c9265507/ss_6a75df9cd97dce0dfde5c343686c6635c9265507.1920x1080.jpg?t=1782997339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24010/e5df1dd531899ea7beb9f761d54d014153d87882/ss_e5df1dd531899ea7beb9f761d54d014153d87882.1920x1080.jpg?t=1782997339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24010/282f460163b89085fcd6fd10e0a3c17e465448b9/ss_282f460163b89085fcd6fd10e0a3c17e465448b9.1920x1080.jpg?t=1782997339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24010/1a1a2d175770825a663258f3892f51bee275dcbd/ss_1a1a2d175770825a663258f3892f51bee275dcbd.1920x1080.jpg?t=1782997339"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Train Simulator Classic - Launch Trailer - 2025",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257220528/283effac161aad182b8cbc81a52827b084e31620/movie_600x337.jpg?t=1761152492",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/24010/1458853278/67dde5e1bd0d23d4562b593712eb93621471cf21/1761057137/dash_h264.mpd?t=1761152492"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 24010,
+    "store_url": "https://store.steampowered.com/app/24010/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "In-App Purchases",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Trains",
+      "Singleplayer",
+      "Realistic",
+      "Driving",
+      "Relaxing",
+      "Casual",
+      "Open World",
+      "Moddable",
+      "Building",
+      "Sandbox",
+      "Level Editor",
+      "TrackIR",
+      "Atmospheric",
+      "Transportation",
+      "Action",
+      "Adventure",
+      "VR",
+      "Strategy",
+      "City Builder"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 20931,
+    "review_negative": 8306,
+    "review_total": 29237,
+    "review_positive_percent": 71.59
+  }
+}

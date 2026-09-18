@@ -1,0 +1,287 @@
+{
+  "key": "superhot-mind-control-delete",
+  "name": "SUPERHOT: MIND CONTROL DELETE",
+  "description": "The long-awaited third game in the groundbreaking SUPERHOT franchise - MIND CONTROL DELETE gives you more insight into the world of SUPERHOT, more story, more signature gameplay. Keep dancing the slow-motion ballet of destruction for so much longer than ever before.",
+  "developers": [
+    "SUPERHOT Team"
+  ],
+  "publishers": [
+    "SUPERHOT Team"
+  ],
+  "release_date": "2020-07-17",
+  "website": "http://superhotgame.com",
+  "tags": [
+    "action",
+    "indie",
+    "fps",
+    "time-manipulation",
+    "bullet-time",
+    "roguelike",
+    "action-roguelike",
+    "shooter",
+    "difficult",
+    "experimental",
+    "minimalist",
+    "first-person",
+    "puzzle",
+    "stylized",
+    "dystopian",
+    "atmospheric",
+    "cyberpunk",
+    "beautiful",
+    "singleplayer",
+    "transhumanism",
+    "cinematic",
+    "old-school"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "hungarian",
+    "czech",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SUPERHOTMCD.exe",
+          "description": "Launch",
+          "type": "none"
+        },
+        {
+          "executable": "SUPERHOT-Launcher.lnk",
+          "description": "Superhot Launcher",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "SUPERHOT_Team/SHMCD",
+          "pattern": "*.mcd",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "SUPERHOT_Team/SHMCD",
+          "pattern": "*.save",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "SUPERHOT_Team/SHMCD",
+          "pattern": "*.index",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "SUPERHOT_Team/SHMCD",
+          "pattern": "*.cfg",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "SUPERHOTMCD.app",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "SUPERHOT_Team/SHMCD",
+          "pattern": "*.mcd",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "SUPERHOT_Team/SHMCD",
+          "pattern": "*.save",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "SUPERHOT_Team/SHMCD",
+          "pattern": "*.index",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "SUPERHOT_Team/SHMCD",
+          "pattern": "*.cfg",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "SUPERHOTMCD.x86_64",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "SUPERHOT_Team/SHMCD",
+          "pattern": "*.mcd",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "SUPERHOT_Team/SHMCD",
+          "pattern": "*.save",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "SUPERHOT_Team/SHMCD",
+          "pattern": "*.index",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "SUPERHOT_Team/SHMCD",
+          "pattern": "*.cfg",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "SUPERHOT: MIND CONTROL DELETE",
+    "SUPERHOTMCD",
+    "SUPERHOT-Launcher.lnk",
+    "SUPERHOTMCD.app",
+    "SUPERHOTMCD.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/690040/b559e2f04cd42ef1d8fad23e735516bd7d155d5c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690040/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690040/b2f19804e41edd4d9fdbe28bf60724e792abf95d/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690040/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690040/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690040/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690040/ss_2aa74cc135fcc68fca7d18cbcf5233a73fd6fa25.1920x1080.jpg?t=1726508997"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690040/ss_3534fce79a0dc8899451a081c2c9deae674e9b7d.1920x1080.jpg?t=1726508997"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690040/ss_ab67cbe1377e73eb7c0375f454c00d2f636cae3f.1920x1080.jpg?t=1726508997"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690040/ss_d1b37ceb67d8916a719fad1af842bc7a315dac00.1920x1080.jpg?t=1726508997"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690040/ss_dea8a97bdc43937547adcd95ed4b3fbc58f49c9c.1920x1080.jpg?t=1726508997"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690040/ss_3c90e79c0bca3e25793ec2d809fd599591baff8c.1920x1080.jpg?t=1726508997"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690040/ss_f7adb4dc3b1c88964e4a2caed5b4303eb5a5e711.1920x1080.jpg?t=1726508997"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690040/ss_b40a8807acf0ced77d27579f6b399d2d8180bb58.1920x1080.jpg?t=1726508997"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690040/ss_6c455aa2b939d7b4b8326b8778b93c15a8b33337.1920x1080.jpg?t=1726508997"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690040/ss_3bb2b9778b513fcb75b737029e1784bd965ad858.1920x1080.jpg?t=1726508997"
+    }
+  ],
+  "videos": [
+    {
+      "name": "SUPERHOT: MIND CONTROL DELETE | Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256791704/movie.293x165.jpg?t=1683786658",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/690040/296502/c01a996e336b853bbad3f6b126160b77b202f91b/1750571143/dash_h264.mpd?t=1683786658"
+    },
+    {
+      "name": "SUPERHOT: MIND CONTROL DELETE | Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256791702/movie.293x165.jpg?t=1683786662",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/690040/296500/1e4d99b21191266d928d64c162bff338abab7ad9/1750571142/dash_h264.mpd?t=1683786662"
+    }
+  ],
+  "metacritic": {
+    "score": 78,
+    "url": "https://www.metacritic.com/game/pc/superhot-mind-control-delete?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 690040,
+    "store_url": "https://store.steampowered.com/app/690040/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "FPS",
+      "Time Manipulation",
+      "Bullet Time",
+      "Action Roguelike",
+      "Shooter",
+      "Action",
+      "Difficult",
+      "Experimental",
+      "Minimalist",
+      "First-Person",
+      "Puzzle",
+      "Stylized",
+      "Dystopian ",
+      "Atmospheric",
+      "Cyberpunk",
+      "Beautiful",
+      "Singleplayer",
+      "Transhumanism",
+      "Cinematic",
+      "Old School"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 10632,
+    "review_negative": 2031,
+    "review_total": 12663,
+    "review_positive_percent": 83.96
+  }
+}

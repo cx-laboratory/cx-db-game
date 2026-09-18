@@ -1,0 +1,284 @@
+{
+  "key": "aragami",
+  "name": "Aragami",
+  "description": "Aragami is a third person stealth game that casts you as an undead assassin with the power to control the shadows. Teleport to any shadow, become invisible, materialize weapons or even summon a shadow dragon to infiltrate the enemy ranks and dispose of your targets.",
+  "developers": [
+    "Lince Works"
+  ],
+  "publishers": [
+    "Lince Works"
+  ],
+  "release_date": "2016-10-04",
+  "website": "http://www.aragami-game.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "stealth",
+    "ninja",
+    "assassins",
+    "third-person",
+    "singleplayer",
+    "anime",
+    "atmospheric",
+    "great-soundtrack",
+    "gore",
+    "magic",
+    "strategy",
+    "violent",
+    "open-world",
+    "story-rich"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Aragami.exe",
+          "description": "Aragami x64",
+          "type": "default"
+        },
+        {
+          "executable": "Aragami.exe",
+          "description": "Aragami x86",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": " ",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": " ",
+          "pattern": "*.cfg",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Lince Works/Aragami/",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Lince Works/Aragami/",
+          "pattern": "*.cfg",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Aragami.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": " ",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": " ",
+          "pattern": "*.cfg",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Lince Works/Aragami/",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Lince Works/Aragami/",
+          "pattern": "*.cfg",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Aragami.x86_64",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Aragami.x86",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": " ",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": " ",
+          "pattern": "*.cfg",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Lince Works/Aragami/",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Lince Works/Aragami/",
+          "pattern": "*.cfg",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Aragami",
+    "Aragami.app",
+    "Aragami.x86_64",
+    "Aragami.x86"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/280160/4f3198a154bdf5866b78f67bbe8e797bd0dedd55.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/280160/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/280160/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/280160/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/280160/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/280160/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/280160/ss_2047600dc10e3d47f1e12f6dc72275f45c207be0.1920x1080.jpg?t=1776370640"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/280160/ss_b1bdbf4d5a5f712ab54ac1f70ec46d71cc924909.1920x1080.jpg?t=1776370640"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/280160/ss_fb3293afb45faa76170d205fbeae6c59b2aeee09.1920x1080.jpg?t=1776370640"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/280160/ss_7a339788238c2ff3522973434b865475964e5c53.1920x1080.jpg?t=1776370640"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/280160/ss_8526922c7f04224a1049ebe78be764fd4e4a7463.1920x1080.jpg?t=1776370640"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/280160/ss_704d83260cbc7735e3943e4968253e4f06bbbe58.1920x1080.jpg?t=1776370640"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Aragami - Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256663213/movie.293x165.jpg?t=1475231621",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/280160/56916/890c553f3534064fa9961c75422507c5a4cbcd87/1751258815/dash_h264.mpd?t=1475231621"
+    },
+    {
+      "name": "Aragami - Online co-op multiplayer gameplay",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256671760/movie.293x165.jpg?t=1475231631",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/280160/74789/8171067a5262a7b23a6ae6c3f2f305170afd69a0/1751258815/dash_h264.mpd?t=1475231631"
+    }
+  ],
+  "metacritic": {
+    "score": 71,
+    "url": "https://www.metacritic.com/game/pc/aragami?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 280160,
+    "store_url": "https://store.steampowered.com/app/280160/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Workshop",
+      "Gamepad Recommended",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Includes level editor",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Stealth",
+      "Ninja",
+      "Assassins",
+      "Action",
+      "Co-op",
+      "Indie",
+      "Adventure",
+      "Multiplayer",
+      "Third Person",
+      "Singleplayer",
+      "Anime",
+      "Atmospheric",
+      "Great Soundtrack",
+      "Online Co-Op",
+      "Gore",
+      "Magic",
+      "Strategy",
+      "Violent",
+      "Open World",
+      "Story Rich"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 11670,
+    "review_negative": 1294,
+    "review_total": 12964,
+    "review_positive_percent": 90.02
+  }
+}

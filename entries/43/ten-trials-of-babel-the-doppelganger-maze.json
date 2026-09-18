@@ -1,0 +1,199 @@
+{
+  "key": "ten-trials-of-babel-the-doppelganger-maze",
+  "name": "Ten Trials of Babel: The Doppelganger Maze",
+  "description": "Otome × Death Game × Mild Horror Multiple Endings Puzzle RPG",
+  "developers": [
+    "红渊"
+  ],
+  "publishers": [
+    "NVLMaker"
+  ],
+  "release_date": "2022-03-14",
+  "website": "",
+  "tags": [
+    "adventure",
+    "indie",
+    "female-protagonist",
+    "multiple-endings",
+    "pixel-graphics",
+    "story-rich",
+    "rpg",
+    "otome",
+    "choose-your-own-adventure",
+    "2d",
+    "mystery",
+    "choices-matter",
+    "fantasy",
+    "puzzle",
+    "singleplayer",
+    "dating-sim",
+    "romance",
+    "anime"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "schinese",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "schinese": "巴别十书：如何逃离二重迷宫",
+    "tchinese": "巴別十書：如何逃離二重迷宮",
+    "japanese": "バベル十書 -ドッペルゲンガー・ラビリンス-"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "package/babel.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "save",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Babel.app/Contents/MacOS/Babel",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "save",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "package/run.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "save",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Ten Trials of Babel: The Doppelganger Maze",
+    "package/babel",
+    "Babel.app/Contents/MacOS/Babel",
+    "package/run.sh",
+    "巴别十书：如何逃离二重迷宫",
+    "巴別十書：如何逃離二重迷宮",
+    "バベル十書 -ドッペルゲンガー・ラビリンス-"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1900340/b6df5811927af407a8e45c4721fb198dbdc17e4e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1900340/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1900340/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1900340/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1900340/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1900340/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1900340/ss_5a864fc4d1100a0cc0756d4c6c833fc24820db7d.1920x1080.jpg?t=1726195547"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1900340/ss_a75c35a04e189cca2575f617b824dc54e09f3b37.1920x1080.jpg?t=1726195547"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1900340/ss_486d19ed5ce3290fa22aa054324d3d3cf607e98d.1920x1080.jpg?t=1726195547"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1900340/ss_ddb08014dcc59dcbe4b7faedc5d1dbaf77e2c644.1920x1080.jpg?t=1726195547"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1900340/ss_b998e5b7223ccd87f92cd4a307cd84c9f847e20e.1920x1080.jpg?t=1726195547"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1900340/ss_33974f07b3b2be01a5a5dfd044cb3a14a3788964.1920x1080.jpg?t=1726195547"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1900340/ss_d47150b95d7c3c5f36fb5161baf7a61e9a6ad759.1920x1080.jpg?t=1726195547"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1900340/ss_5927be826d809f5581df8ad7498c7e15faa6c023.1920x1080.jpg?t=1726195547"
+    }
+  ],
+  "videos": [
+    {
+      "name": "pv_all",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256980170/movie.293x165.jpg?t=1699362321",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1900340/626006/1cc8c55e03f64e21dab9db75c5ef4f1cbf94f699/1751045413/dash_h264.mpd?t=1699362321"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1900340,
+    "store_url": "https://store.steampowered.com/app/1900340/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Female Protagonist",
+      "Multiple Endings",
+      "Pixel Graphics",
+      "Story Rich",
+      "RPG",
+      "Otome",
+      "Choose Your Own Adventure",
+      "Adventure",
+      "2D",
+      "Mystery",
+      "Choices Matter",
+      "Fantasy",
+      "Puzzle",
+      "Indie",
+      "Singleplayer",
+      "Dating Sim",
+      "Romance",
+      "Anime"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 4072,
+    "review_negative": 318,
+    "review_total": 4390,
+    "review_positive_percent": 92.76
+  }
+}

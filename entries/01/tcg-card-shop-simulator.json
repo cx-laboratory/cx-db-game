@@ -1,0 +1,239 @@
+{
+  "key": "tcg-card-shop-simulator",
+  "name": "TCG Card Shop Simulator",
+  "description": "Open your own local game store. Stock shelves with the latest booster packs, or crack them and collect the cards for yourself. Set your own prices, hire staff, host events, and expand your card shop.",
+  "developers": [
+    "OPNeon Games"
+  ],
+  "publishers": [
+    "OPNeon Games"
+  ],
+  "release_date": "2024-09-15",
+  "website": "",
+  "tags": [
+    "simulation",
+    "early-access",
+    "management",
+    "economy",
+    "singleplayer",
+    "collectathon",
+    "capitalism",
+    "trading-card-game",
+    "card-game",
+    "trading",
+    "life-sim",
+    "shop-keeper",
+    "3d",
+    "first-person",
+    "relaxing",
+    "immersive-sim",
+    "casual",
+    "job-simulator",
+    "indie",
+    "sandbox"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Portuguese - Brazil"
+  ],
+  "name_localized": {
+    "schinese": "TCG卡牌店模拟器",
+    "tchinese": "TCG卡牌店模擬器"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Card Shop Simulator.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "OPNeonGames/Card Shop Simulator/",
+          "pattern": "*.gd",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "OPNeonGames/Card Shop Simulator/",
+          "pattern": "*.json",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "TCG Card Shop Simulator",
+    "Card Shop Simulator",
+    "TCG卡牌店模拟器",
+    "TCG卡牌店模擬器"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3070070/ade567b04584ff71000ff91a8dd65aac4833206b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/b4f36532c943011a9f1600c2585ca7065ef5b1bb/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/b3dae7c79dfb4381561d0ee466dde3d2f41246c8/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/0241d5b41a17ede02c1bc07ef324c6cee5f5b283/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/6b14b6b4fbb8a386718ab9bbc227a82163733b00/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/ss_f0e2f9aa67e1b65a27349c5c2f7b941a197249da.1920x1080.jpg?t=1782439853"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/ss_f2dc20f781bdec50d68393881b718d6af8fa4302.1920x1080.jpg?t=1782439853"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/ss_6dd07bd33d535fb5224e574fd50135445c648c1a.1920x1080.jpg?t=1782439853"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/ss_0d9a0f1633a9aaf57aa6244b9bef8cd4d1b3bbfe.1920x1080.jpg?t=1782439853"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/ss_3f2209fd8ff2a2eabdaf76764769505a8031297c.1920x1080.jpg?t=1782439853"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/ss_38724682013f35f0d89cf8509427b83326679a52.1920x1080.jpg?t=1782439853"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/ss_c9bb93cb3ac5195c47b5b9dc0cd3a890d1e08e10.1920x1080.jpg?t=1782439853"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/ss_e04fce1ff4ea817b3776bd5bf5b8267ecfdf6d71.1920x1080.jpg?t=1782439853"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/ss_4091fd235ca899b84adeb1bbc93cc520693ff9b2.1920x1080.jpg?t=1782439853"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/ss_48c83059f73f83ee75d3eed2e31a25a3d3edc2de.1920x1080.jpg?t=1782439853"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/ss_68a8bc808853030fb9b63f8793cb74bb8d6ef9e4.1920x1080.jpg?t=1782439853"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/ss_0aee2e272f9fc699f7755e4b2ed706561e7ffeb9.1920x1080.jpg?t=1782439853"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/ss_37fff747422e40f717a7d001891732f92b47e5d5.1920x1080.jpg?t=1782439853"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/ss_c6218a37f73019e150b95633a2097a4ebcb74212.1920x1080.jpg?t=1782439853"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/ss_b352dbf98392b68db4011c8265199550067a43ca.1920x1080.jpg?t=1782439853"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/ss_1979863c30ebee531ca636d2d1f028d77fecd55a.1920x1080.jpg?t=1782439853"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/ss_9ab8ea778e68265082d38af00c383f8fbd31a6c4.1920x1080.jpg?t=1782439853"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/ss_9cb142f813e3cb86c060f482553d8cb464ad1a8e.1920x1080.jpg?t=1782439853"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/ss_6094bbca62c63db1aa5be9f76e42b1595fa4f572.1920x1080.jpg?t=1782439853"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/ss_66c1b13ddc882bb3caec8b579a862b9cfd688a7e.1920x1080.jpg?t=1782439853"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/ss_4f4d8278e5590ac958fc6eb66461e2feb38286fa.1920x1080.jpg?t=1782439853"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/ss_9a898a60a49517ce0619031c897a14539d2d077c.1920x1080.jpg?t=1782439853"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/ss_e30d2b36bffdd830097ddd447868dd475e2a7f82.1920x1080.jpg?t=1782439853"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/ss_6bf35ba4d62d35801430115e255a6dada27d3edd.1920x1080.jpg?t=1782439853"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/ss_87e12825c9610b6bf85cb7737939532bde2048be.1920x1080.jpg?t=1782439853"
+    }
+  ],
+  "videos": [
+    {
+      "name": "TCG Card Shop Simulator - Playable TCG Coming Soon",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257365365/e79b803c7b1d8ff94b7780210b0eaecbef061095/movie_600x337.jpg?t=1782439852",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3070070/1124884744/fd526baddc4f377962480d35fdff8f38cd3f6668/1782380755/dash_h264.mpd?t=1782439852"
+    },
+    {
+      "name": "TCG Card Shop Simulator Early Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257039617/b8e1f6f97922fdc69bcb7c6601db568430ac6ec8/movie_600x337.jpg?t=1760858932",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3070070/729227/236fee4af4d4ef3792707a3af300e7c266bad48f/1750823386/dash_h264.mpd?t=1760858932"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3070070,
+    "store_url": "https://store.steampowered.com/app/3070070/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Management",
+      "Economy",
+      "Singleplayer",
+      "Collectathon",
+      "Capitalism",
+      "Trading Card Game",
+      "Card Game",
+      "Early Access",
+      "Trading",
+      "Life Sim",
+      "Shop Keeper",
+      "3D",
+      "First-Person",
+      "Relaxing",
+      "Immersive Sim",
+      "Casual",
+      "Job Simulator",
+      "Indie",
+      "Sandbox"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 46735,
+    "review_negative": 1644,
+    "review_total": 48379,
+    "review_positive_percent": 96.6
+  }
+}

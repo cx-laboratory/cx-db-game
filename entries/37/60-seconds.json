@@ -1,0 +1,231 @@
+{
+  "key": "60-seconds",
+  "name": "60 Seconds!",
+  "description": "60 Seconds! is a dark comedy atomic adventure of scavenge and survival. Collect supplies and rescue your family before the nuke hits. Stay alive in your fallout shelter. Make difficult decisions, ration food and hunt mutant cockroaches. And maybe survive. Or not.",
+  "developers": [
+    "Robot Gentleman"
+  ],
+  "publishers": [
+    "Robot Gentleman"
+  ],
+  "release_date": "2015-05-26",
+  "website": "http://60secondsgame.com",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "simulation",
+    "strategy",
+    "turn-based-tactics",
+    "exploration",
+    "choose-your-own-adventure",
+    "outbreak-sim",
+    "immersive-sim",
+    "difficult",
+    "point-and-click",
+    "wrestling",
+    "2d",
+    "text-based",
+    "post-apocalyptic",
+    "dark-comedy",
+    "3d",
+    "dark-humor",
+    "funny",
+    "choices-matter",
+    "management",
+    "survival",
+    "story-rich"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "60Seconds.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Robot Gentleman\\60 Seconds",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Robot Gentleman\\60 Seconds",
+          "pattern": "*.png",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "60Seconds.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Robot Gentleman\\60 Seconds",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Robot Gentleman\\60 Seconds",
+          "pattern": "*.png",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "60 Seconds!",
+    "60Seconds",
+    "60Seconds.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/368360/ab552d13eee21a2654589d7e348b13f46bcc0abb.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368360/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368360/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368360/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368360/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368360/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368360/ss_126c785fa276a762d85f38e9591c3bdbc445a4d8.1920x1080.jpg?t=1781619221"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368360/ss_f21f4fb091a2a6d684f2a4f235afe8094c5334e9.1920x1080.jpg?t=1781619221"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368360/ss_bcf5263af52aac0c9d964ec83a25b0df160e2c44.1920x1080.jpg?t=1781619221"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368360/ss_0c7361555f53a6eba4e5b18887b9b532eec155d5.1920x1080.jpg?t=1781619221"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368360/ss_3b70a8780eb817f88141654f0774987c93e13a06.1920x1080.jpg?t=1781619221"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368360/ss_022b0dc44bef86978c1400f2e33a4e92d29fa6fd.1920x1080.jpg?t=1781619221"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368360/ss_8b25951910c719f3dfe7ef861e4d672fcd7f0563.1920x1080.jpg?t=1781619221"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368360/ss_8e316388dccaba31a5308588d0671f691a6bd6f1.1920x1080.jpg?t=1781619221"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368360/ss_ee3678b208da75b7e53bd3122949f07764cdb9cf.1920x1080.jpg?t=1781619221"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368360/ss_ac8f5dbfcf322b1191943a5f942f8d1dbe2e7a1c.1920x1080.jpg?t=1781619221"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368360/ss_cd1c90aa0fb73c3e4c143a52be33a035f5a81856.1920x1080.jpg?t=1781619221"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368360/ss_5cfbd4397d291182c9619db3a7d101c88b78236a.1920x1080.jpg?t=1781619221"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368360/ss_9b65e7962224bca274b9dec1532154c737f7d476.1920x1080.jpg?t=1781619221"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368360/ss_f0a59719c2f89a57b64be0d80ebae2dcf651abb4.1920x1080.jpg?t=1781619221"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368360/ss_9384ea16789f43c6964cb1ecb3b9e6f017425313.1920x1080.jpg?t=1781619221"
+    }
+  ],
+  "videos": [
+    {
+      "name": "60 Seconds! Game Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2039058/movie.293x165.jpg?t=1447373894",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/368360/35278/d41a921ef6acac49b309214a9ee84f3d66b232fa/1750518313/dash_h264.mpd?t=1447373894"
+    },
+    {
+      "name": "60 Seconds! Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2039060/movie.293x165.jpg?t=1447373897",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/368360/35281/44699f8f7b7d8c2e3958ccb1e8a52f82cb545888/1750518318/dash_h264.mpd?t=1447373897"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 368360,
+    "store_url": "https://store.steampowered.com/app/368360/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Turn-Based Tactics",
+      "Exploration",
+      "Choose Your Own Adventure",
+      "Outbreak Sim",
+      "Immersive Sim",
+      "Difficult",
+      "Point & Click",
+      "Strategy",
+      "Wrestling",
+      "2D",
+      "Text-Based",
+      "Post-apocalyptic",
+      "Dark Comedy",
+      "3D",
+      "Dark Humor",
+      "Funny",
+      "Choices Matter",
+      "Management",
+      "Survival",
+      "Story Rich"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 9912,
+    "review_negative": 1763,
+    "review_total": 11675,
+    "review_positive_percent": 84.9
+  }
+}

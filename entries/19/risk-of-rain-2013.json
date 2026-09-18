@@ -1,0 +1,208 @@
+{
+  "key": "risk-of-rain-2013",
+  "name": "Risk of Rain (2013)",
+  "description": "Risk of Rain is an action platformer with roguelike elements. With permanent death as a primary feature, players will have to play their best to get as far as possible. Fight on a mysterious planet with randomly spawning enemies and bosses, either alone or with 3 friends in online co-op.",
+  "developers": [
+    "Hopoo Games"
+  ],
+  "publishers": [
+    "Gearbox Publishing"
+  ],
+  "release_date": "2013-11-09",
+  "website": "http://riskofraingame.com",
+  "tags": [
+    "action",
+    "indie",
+    "rpg",
+    "multiplayer",
+    "co-op",
+    "action-roguelike",
+    "roguelike",
+    "platformer",
+    "pixel-graphics",
+    "great-soundtrack",
+    "online-co-op",
+    "difficult",
+    "perma-death",
+    "2d",
+    "local-multiplayer",
+    "roguelite",
+    "singleplayer",
+    "addictive",
+    "replay-value",
+    "survival"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {
+    "schinese": "雨中冒险"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Risk of Rain.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": ".",
+          "pattern": "save.ini",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Risk of Rain.app",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": ".",
+          "pattern": "save.ini",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "run.sh",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": ".",
+          "pattern": "save.ini",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Risk of Rain (2013)",
+    "Risk of Rain",
+    "Risk of Rain.app",
+    "run.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/248820/27c63bdc153de52355c8e6983baa4bc0aedc3699.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248820/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248820/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248820/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248820/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248820/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248820/ss_9b26bb93397ea5bbb7906950c4ffa0d6e9203f7d.1920x1080.jpg?t=1782157778"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248820/ss_9e1919fe4e37de4d153333fb012586fb63cb8999.1920x1080.jpg?t=1782157778"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248820/ss_1538d1e9b9693caddf83be07670960173e37fa2f.1920x1080.jpg?t=1782157778"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248820/ss_d470578d7945689fb108cc5e68dc9b2ae12fe528.1920x1080.jpg?t=1782157778"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248820/ss_20e92e121ba7ada0c21262ee3b78f24e1d6e7866.1920x1080.jpg?t=1782157778"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248820/ss_631b48c74a1105bf58db0c68ab6c06ae2345d371.1920x1080.jpg?t=1782157778"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248820/ss_bad30e7c79c66b1717b1259042bf9566762931d4.1920x1080.jpg?t=1782157778"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Risk of Rain Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2029758/movie.293x165.jpg?t=1447359202",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/248820/14440/f5e933307db87bd962ff313be46c72a6f40647fc/1750487603/dash_h264.mpd?t=1447359202"
+    }
+  ],
+  "metacritic": {
+    "score": 77,
+    "url": "https://www.metacritic.com/game/pc/risk-of-rain?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 248820,
+    "store_url": "https://store.steampowered.com/app/248820/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Adjustable Text Size",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Keyboard Only Option",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Partial Controller Support",
+      "Remote Play on Tablet",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Roguelike",
+      "Indie",
+      "Platformer",
+      "Action",
+      "Pixel Graphics",
+      "Great Soundtrack",
+      "Online Co-Op",
+      "Difficult",
+      "Perma Death",
+      "Co-op",
+      "2D",
+      "Local Co-Op",
+      "Roguelite",
+      "Multiplayer",
+      "Singleplayer",
+      "RPG",
+      "Addictive",
+      "Replay Value",
+      "Survival"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 27744,
+    "review_negative": 2074,
+    "review_total": 29818,
+    "review_positive_percent": 93.04
+  }
+}

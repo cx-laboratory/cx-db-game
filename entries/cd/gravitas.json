@@ -1,0 +1,188 @@
+{
+  "key": "gravitas",
+  "name": "Gravitas",
+  "description": "Gravitas is a short first-person puzzle platforming game that transports you to the Gallery of Refined Gravity. Manipulate gravity and the gallery itself to prove yourself a pupil worthy of the Curator’s masterwork.",
+  "developers": [
+    "Galaxy Shark Studios"
+  ],
+  "publishers": [
+    "Galaxy Shark Studios"
+  ],
+  "release_date": "2019-08-24",
+  "website": "https://spacesharkstudios.wixsite.com/gravitas-game",
+  "tags": [
+    "action",
+    "adventure",
+    "free-to-play",
+    "indie",
+    "puzzle",
+    "puzzle-platformer",
+    "singleplayer",
+    "first-person",
+    "funny",
+    "sci-fi",
+    "3d-platformer",
+    "comedy",
+    "space",
+    "parkour",
+    "short",
+    "dark-humor",
+    "platformer",
+    "3d",
+    "physics"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "Spanish - Spain",
+    "Portuguese - Brazil",
+    "Traditional Chinese",
+    "Italian",
+    "Russian",
+    "French",
+    "Norwegian",
+    "German*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Drop.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "SkyArk/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Gravitas",
+    "Drop"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1067310/43746feff014032e993378db0e62218960d53533.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067310/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067310/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067310/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067310/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067310/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067310/ss_ea16743267a32a89d7eee28a20d87f262f848eb7.1920x1080.jpg?t=1676827574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067310/ss_b0fbd9f7d4fd139de0cd03e2ec7e48d71f489880.1920x1080.jpg?t=1676827574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067310/ss_9030d25f281193670968b839e4c4e45a6c5cd7cc.1920x1080.jpg?t=1676827574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067310/ss_3afe9e35ca1064d4f64ae9bda1ba4216dcd79e29.1920x1080.jpg?t=1676827574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067310/ss_a488dd035391ac5fc5919d4a31d5bbf2b7526631.1920x1080.jpg?t=1676827574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067310/ss_d3ff08643b6d9748a68a94d246055931eef7079c.1920x1080.jpg?t=1676827574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067310/ss_efa5eadf528460d96158e61b05c64e34a16ef59d.1920x1080.jpg?t=1676827574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067310/ss_dc8feeb769bd155d670b56d723a5611435a1e9b6.1920x1080.jpg?t=1676827574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067310/ss_960fc780051c36728ee5fad1d65e28f229735cf7.1920x1080.jpg?t=1676827574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067310/ss_a2eda1915ae6efe9e925c1c2b53d7ecbe683abd6.1920x1080.jpg?t=1676827574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067310/ss_d6d16f60ca23539bc3ef601e4a9f2c926379b119.1920x1080.jpg?t=1676827574"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gravitas Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256757914/movie.293x165.jpg?t=1564652249",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1067310/236078/ab7512a131771b8c1ebbcc889aceb050b6f0c8b5/1751526424/dash_h264.mpd?t=1564652249"
+    },
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256756432/movie.293x165.jpg?t=1564652257",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1067310/233579/8e026bb29a7614dc7e390d4e8bd667930b698409/1751183922/dash_h264.mpd?t=1564652257"
+    },
+    {
+      "name": "Meet the Curator",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256756433/movie.293x165.jpg?t=1564652263",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1067310/233580/b7fd66a472cefe99bea766ef617410a23178815f/1751183922/dash_h264.mpd?t=1564652263"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1067310,
+    "store_url": "https://store.steampowered.com/app/1067310/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Free To Play",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Puzzle",
+      "Puzzle Platformer",
+      "Singleplayer",
+      "Indie",
+      "First-Person",
+      "Adventure",
+      "Funny",
+      "Sci-fi",
+      "3D Platformer",
+      "Comedy",
+      "Space",
+      "Parkour",
+      "Short",
+      "Dark Humor",
+      "Platformer",
+      "3D",
+      "Physics"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 6942,
+    "review_negative": 145,
+    "review_total": 7087,
+    "review_positive_percent": 97.95
+  }
+}

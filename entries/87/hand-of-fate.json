@@ -1,0 +1,200 @@
+{
+  "key": "hand-of-fate",
+  "name": "Hand of Fate",
+  "description": "Deckbuilding comes to life in Hand of Fate! An infinitely replayable series of quests - earn new cards, build your deck, then try to defeat it! In a cabin at the end of the world, the game of life and death is played. Draw your cards, play your hand, and discover your fate.",
+  "developers": [
+    "Defiant Development"
+  ],
+  "publishers": [
+    "Defiant Development"
+  ],
+  "release_date": "2015-02-17",
+  "website": "http://www.defiantdev.com/hof1.html",
+  "tags": [
+    "action",
+    "indie",
+    "rpg",
+    "roguelike-deckbuilder",
+    "roguelike",
+    "deckbuilding",
+    "action-roguelike",
+    "card-game",
+    "singleplayer",
+    "fantasy",
+    "choose-your-own-adventure",
+    "adventure",
+    "roguelite",
+    "third-person",
+    "action-rpg",
+    "board-game",
+    "hack-and-slash",
+    "atmospheric",
+    "difficult",
+    "tabletop"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "schinese",
+    "russian",
+    "japanese",
+    "hungarian",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Hand of Fate.exe",
+          "description": "Hand of Fate DirectX 11",
+          "type": "default"
+        },
+        {
+          "executable": "Hand of Fate.exe",
+          "description": "Hand of Fate DirectX 9",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Hand of Fate.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Hand of Fate.x86",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "Hand of Fate.x86_64",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Hand of Fate",
+    "Hand of Fate.app",
+    "Hand of Fate.x86",
+    "Hand of Fate.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/266510/28c3fe65c79dd16ddff8c7207bc96631004fb50a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266510/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266510/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266510/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266510/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266510/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266510/ss_88e5006f7baae4b041af4930b033427fc6e7d78a.1920x1080.jpg?t=1764738555"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266510/ss_742f41023e6821f19963cd67c3b88b44b10791e5.1920x1080.jpg?t=1764738555"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266510/ss_bc844cde045f4db7f01c9819fc622fd525863d99.1920x1080.jpg?t=1764738555"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266510/ss_5135fbc830d7f5805e3eba22c958d4d4c668ef2f.1920x1080.jpg?t=1764738555"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266510/ss_dfa0a3bfd9397be71a1f9c07ccb21078833e381c.1920x1080.jpg?t=1764738555"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266510/ss_54960e4e81eac61edd837af898153e33f7a5bcdf.1920x1080.jpg?t=1764738555"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266510/ss_0553343e1787187b21fe7ca281475455b5ee1ee9.1920x1080.jpg?t=1764738555"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266510/ss_97deee0e910988f128bbe17c72bc7fab0bd4db55.1920x1080.jpg?t=1764738555"
+    }
+  ],
+  "videos": [
+    {
+      "name": "1.0 Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2037285/movie.293x165.jpg?t=1494560797",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/266510/31507/74cef4fefce00da18b46192cf318eaa6da10a273/1751261124/dash_h264.mpd?t=1494560797"
+    }
+  ],
+  "metacritic": {
+    "score": 78,
+    "url": "https://www.metacritic.com/game/pc/hand-of-fate?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 266510,
+    "store_url": "https://store.steampowered.com/app/266510/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Roguelike Deckbuilder",
+      "Roguelike",
+      "Deckbuilding",
+      "Action Roguelike",
+      "Card Game",
+      "RPG",
+      "Singleplayer",
+      "Action",
+      "Fantasy",
+      "Indie",
+      "Choose Your Own Adventure",
+      "Adventure",
+      "Roguelite",
+      "Third Person",
+      "Action RPG",
+      "Board Game",
+      "Hack and Slash",
+      "Atmospheric",
+      "Difficult",
+      "Tabletop"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 9501,
+    "review_negative": 1156,
+    "review_total": 10657,
+    "review_positive_percent": 89.15
+  }
+}

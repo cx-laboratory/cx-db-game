@@ -1,0 +1,250 @@
+{
+  "key": "trove",
+  "name": "Trove",
+  "description": "Grab your friends, hone your blades, and set off for an epic procedurally generated adventure in Trove! Battle the Shadow in realms filled with dungeons and items created by your fellow players. Whether hunting treasure or building realms of your own, it’s never been this good to be square!",
+  "developers": [
+    "gamigo US Inc."
+  ],
+  "publishers": [
+    "gamigo US Inc."
+  ],
+  "release_date": "2015-07-10",
+  "website": "https://trovegame.com/?affiliateId=steamtrove",
+  "tags": [
+    "action",
+    "adventure",
+    "casual",
+    "massively-multiplayer",
+    "rpg",
+    "free-to-play",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "voxel",
+    "mmorpg",
+    "sandbox",
+    "open-world",
+    "pixel-graphics",
+    "procedural-generation",
+    "fantasy",
+    "crafting",
+    "building",
+    "family-friendly",
+    "replay-value",
+    "dungeon-crawler",
+    "nostalgia",
+    "platformer"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "German",
+    "Portuguese - Brazil",
+    "Spanish - Spain",
+    "Simplified Chinese*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "宝藏世界"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "GlyphClient.exe",
+          "description": "Launch Windows",
+          "type": "default"
+        },
+        {
+          "executable": "GlyphClientInternal.exe",
+          "description": "GlyphInternal",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Trove",
+    "GlyphClient",
+    "GlyphClientInternal",
+    "宝藏世界"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/304050/76b62601bb6f0551c415697fe92a6653340f4a5e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304050/8aef81520b394d978a55c7d43c0445237a4cd1a3/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304050/04c57886a2f70b551023c83e582b4f83635a87a0/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304050/d63386bfb404f36cd5f38796da0260e9c71ad378/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304050/e3900ff823c01a6071c6378ceb3aa7f2eab3a632/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304050/2323e4be0e40a31eefe11fef9e21757ef50fa613/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304050/ss_58c0f25b023d15d56b9782b1d374b6ac3b5cf5ee.1920x1080.jpg?t=1779185776"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304050/ss_518fb4ea0c748cf9b25537c8d686cfe874d79566.1920x1080.jpg?t=1779185776"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304050/ss_d3281d2f6d4afe5d89c04d44cad3b475e145551a.1920x1080.jpg?t=1779185776"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304050/ss_aaeceb5d727c11ab49b124b8055f413aa372c477.1920x1080.jpg?t=1779185776"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304050/ss_441520e804edad74ac721fef41da8e4b2ef7bbbf.1920x1080.jpg?t=1779185776"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304050/ss_b7c893fefa8b64e4fa8bd488f797696c5e5c9a6f.1920x1080.jpg?t=1779185776"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304050/ss_5f31839d48be2db228a87ab32a33841968a889c7.1920x1080.jpg?t=1779185776"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304050/ss_607289c8281f83252219a0d7e9844ac07d48fc5c.1920x1080.jpg?t=1779185776"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304050/ss_fc4bdc2f833907d6b22af8a989699f32ed727234.1920x1080.jpg?t=1779185776"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304050/ss_c251ce7af67040d9045f056b5cd27030c74b2a86.1920x1080.jpg?t=1779185776"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304050/ss_d0be61bd2973d6592e616db95fd69d1b7e939c96.1920x1080.jpg?t=1779185776"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Rising Tides",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257032088/movie.293x165.jpg?t=1718729219",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/304050/715511/f2c360e2a262152b42afe969b46d684ef8e58aea/1750503998/dash_h264.mpd?t=1718729219"
+    },
+    {
+      "name": "Gear Up! Date",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257011302/movie.293x165.jpg?t=1711468766",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/304050/679772/d84beedc3a4fd82aebcacffdbe4c939415d8c933/1750503980/dash_h264.mpd?t=1711468766"
+    },
+    {
+      "name": "Punches & Potions",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256984275/movie.293x165.jpg?t=1700690727",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/304050/632632/e880a323ec3af6e147dbb48308cc761d3c12f825/1750503952/dash_h264.mpd?t=1700690727"
+    },
+    {
+      "name": "Reeling in the Stars",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256917487/movie.293x165.jpg?t=1683201023",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/304050/515997/8f88c37dde3f8250b28753b5f057969cb2384a39/1750503939/dash_h264.mpd?t=1683201023"
+    },
+    {
+      "name": "Sunrise Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256945142/movie.293x165.jpg?t=1683201031",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/304050/564584/9bc7e98d6f5b841e029ae9ed9e06c9f40b33178b/1750503951/dash_h264.mpd?t=1683201031"
+    },
+    {
+      "name": "Trove Polished Paragon",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256863266/movie.293x165.jpg?t=1638548297",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/304050/421913/c8b2e5252ea0a145114dd49762749d0ae1fb48ea/1750503907/dash_h264.mpd?t=1638548297"
+    },
+    {
+      "name": "Trove Bard",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256839245/movie.293x165.jpg?t=1623855903",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/304050/377753/5faee8af58a3c15118e38bbba88903b785417ff5/1750503904/dash_h264.mpd?t=1623855903"
+    },
+    {
+      "name": "Trove Delves",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256784385/movie.293x165.jpg?t=1588710979",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/304050/283499/d57d41348c2eaf4a945be2ca733b003c390bfd01/1750503901/dash_h264.mpd?t=1588710979"
+    },
+    {
+      "name": "Trove Geode",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256721135/movie.293x165.jpg?t=1530042357",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/304050/170406/b1adfbc0428a706eff146727f804592789e0e6b0/1750503889/dash_h264.mpd?t=1530042357"
+    },
+    {
+      "name": "Trove Heroes",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256712317/movie.293x165.jpg?t=1522247978",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/304050/153822/d1aac4e161066089df88c9ad7eac0fe63c4892cb/1750503875/dash_h264.mpd?t=1522247978"
+    },
+    {
+      "name": "Trove Adventures",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256701085/movie.293x165.jpg?t=1530046442",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/304050/133487/31574ec6b03a3f29cb7a755d2372b63a8b9b0941/1750503874/dash_h264.mpd?t=1530046442"
+    },
+    {
+      "name": "Trove PVP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256658962/movie.293x165.jpg?t=1449686668",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/304050/48360/f84987bcf328512546bb30e604e2e3e07a0eb2ec/1750503845/dash_h264.mpd?t=1449686668"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 304050,
+    "store_url": "https://store.steampowered.com/app/304050/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "In-App Purchases",
+      "Adjustable Text Size",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Partial Controller Support"
+    ],
+    "tags": [
+      "Free to Play",
+      "Voxel",
+      "MMORPG",
+      "Sandbox",
+      "Open World",
+      "Pixel Graphics",
+      "Procedural Generation",
+      "Fantasy",
+      "Multiplayer",
+      "RPG",
+      "Crafting",
+      "Building",
+      "Family Friendly",
+      "Replay Value",
+      "Adventure",
+      "Dungeon Crawler",
+      "Massively Multiplayer",
+      "Nostalgia",
+      "Action",
+      "Platformer"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 74077,
+    "review_negative": 18635,
+    "review_total": 92712,
+    "review_positive_percent": 79.9
+  }
+}

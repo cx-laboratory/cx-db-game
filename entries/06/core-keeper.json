@@ -1,0 +1,229 @@
+{
+  "key": "core-keeper",
+  "name": "Core Keeper",
+  "description": "Explore a vast cavern of creatures, relics and resources in a mining sandbox adventure for 1-8 players. Mine, build, fight, craft and farm to unravel the mystery of the ancient Core.",
+  "developers": [
+    "Pugstorm"
+  ],
+  "publishers": [
+    "Fireshine Games"
+  ],
+  "release_date": "2024-08-27",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "simulation",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "open-world",
+    "survival",
+    "exploration",
+    "pixel-graphics",
+    "sandbox",
+    "crafting",
+    "building",
+    "base-building",
+    "procedural-generation",
+    "open-world-survival-craft",
+    "atmospheric",
+    "combat",
+    "singleplayer",
+    "2d"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "护核纪元"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "CoreKeeper.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "CoreKeeper.exe",
+          "description": "Core Keeper (no mods)",
+          "type": "option2"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "CoreKeeper",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "CoreKeeper",
+          "description": "Core Keeper (OpenGL)",
+          "type": "option1"
+        },
+        {
+          "executable": "CoreKeeper",
+          "description": "Core Keeper (no mods)",
+          "type": "option2"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Core Keeper",
+    "CoreKeeper",
+    "护核纪元"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1621690/53517a1b2eb22e22ac4a1f71c814209f1b84c063.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/5b19828e142f23d88e5213280d8e226408dabbbf/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/8e1f05bc29b662fc85a8847457a7d0eed312fbff/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/90ad55451a2d9f351655af51c8a3e33c508d17b9/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/caf269ce743eb17550814b894e6a7ab70b997428/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/632a42b91e005b2d2daf99fee946732c95a9737c/ss_632a42b91e005b2d2daf99fee946732c95a9737c.1920x1080.jpg?t=1782408107"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/bca1feb5ec1bf64543f80c74effdcaed4216033c/ss_bca1feb5ec1bf64543f80c74effdcaed4216033c.1920x1080.jpg?t=1782408107"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/804585b7772d3ae5c7d56fc80401469d5bf6fd27/ss_804585b7772d3ae5c7d56fc80401469d5bf6fd27.1920x1080.jpg?t=1782408107"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_1e162c49418038f8042c92810fe3c753449e204b.1920x1080.jpg?t=1782408107"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_2a6cdb26200932593b4edd5ab3d1cc2da5bc15ee.1920x1080.jpg?t=1782408107"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_8f3fd22bc5c385450d36309755323ca18efda4be.1920x1080.jpg?t=1782408107"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_0c317ed9fbf20c3e7fc489d570ff84192e4914c2.1920x1080.jpg?t=1782408107"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_506ef81db824857eaea549d3e78430b92ad3ee7d.1920x1080.jpg?t=1782408107"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_6431b8e98aba922d31d88725657eccb581f7a3a7.1920x1080.jpg?t=1782408107"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_f648f1cf6154cefaac69e68e1289191a53df0845.1920x1080.jpg?t=1782408107"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_3b1ea7493e5abfd20aaa1a61f406fcd5d1a5b9c8.1920x1080.jpg?t=1782408107"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_af9ddc543803fc9fc97db02c9c640eb72f17c876.1920x1080.jpg?t=1782408107"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_fae5df968cf317edccad3ea9c51821fbed889739.1920x1080.jpg?t=1782408107"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_0d1b6ca710fb0981b74fe1fabccb7b1968c1f7ba.1920x1080.jpg?t=1782408107"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_d8b36a32897c34da7db9f8e162efeef3a6fe091a.1920x1080.jpg?t=1782408107"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/ss_59f641c964670bb27dcd2f8bdc8708b8f03315ba.1920x1080.jpg?t=1782408107"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Void and Voltage - Out Now",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257294260/d9e2a3dc8a4a3636806cef1702f4944e7cc890c9/movie_600x337.jpg?t=1772014474",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1621690/2040870540/530dbddb1393f13743b7cb62575edb0e1ccab748/1772013931/dash_h264.mpd?t=1772014474"
+    },
+    {
+      "name": "Bags and Blasts ",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257192050/578598a18bd3567b26d4a89fbbe9ab37138af972/movie_600x337.jpg?t=1756801461",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1621690/1076238022/cd92107690fbe4d9c76ca7ab601e88b77f3f3b41/1756799789/dash_h264.mpd?t=1756801461"
+    }
+  ],
+  "metacritic": {
+    "score": 86,
+    "url": "https://www.metacritic.com/game/pc/core-keeper?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1621690,
+    "store_url": "https://store.steampowered.com/app/1621690/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Open World",
+      "Survival",
+      "Exploration",
+      "Pixel Graphics",
+      "Multiplayer",
+      "Sandbox",
+      "Crafting",
+      "Building",
+      "Co-op",
+      "Base Building",
+      "Action",
+      "Online Co-Op",
+      "Procedural Generation",
+      "Adventure",
+      "Open World Survival Craft",
+      "Atmospheric",
+      "Combat",
+      "Indie",
+      "Singleplayer",
+      "2D"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 60640,
+    "review_negative": 4601,
+    "review_total": 65241,
+    "review_positive_percent": 92.95
+  }
+}

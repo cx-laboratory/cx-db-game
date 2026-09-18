@@ -1,0 +1,173 @@
+{
+  "key": "robocop-rogue-city",
+  "name": "RoboCop: Rogue City",
+  "description": "Become the legendary part man, part machine, all cop hero and deliver justice in Old Detroit.",
+  "developers": [
+    "Teyon"
+  ],
+  "publishers": [
+    "Nacon"
+  ],
+  "release_date": "2023-11-03",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "tchinese": "机械战警：暴戾都市",
+    "schinese": "机械战警：暴戾都市"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "RoboCop.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "RoboCop/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "RoboCop.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "RoboCop/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "RoboCop: Rogue City",
+    "RoboCop",
+    "RoboCop.app",
+    "机械战警：暴戾都市"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1681430/4717f19c99830a1750e3a48020a106e47f33f57a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1681430/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1681430/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1681430/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1681430/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1681430/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1681430/ss_da94f75261caa350d676265699ea7d9cb86de740.1920x1080.jpg?t=1778174302"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1681430/ss_e0209a1154436c29bf3ccf4bf4b30e9f9224e9fc.1920x1080.jpg?t=1778174302"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1681430/ss_0a90680a3b4de18543a3139172b6af64d1088028.1920x1080.jpg?t=1778174302"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1681430/ss_bfcd3878dd83c72fe6fcb685e768f32bf417b2c6.1920x1080.jpg?t=1778174302"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1681430/ss_4c13ee0751921f057a0241f31c60d0b5176995e3.1920x1080.jpg?t=1778174302"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1681430/ss_bc0683629e013d41ebdd61cbb1156e96efb9ead1.1920x1080.jpg?t=1778174302"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1681430/ss_c16e85683eecbd7450cc45f831aee089ec4db3b7.1920x1080.jpg?t=1778174302"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256984902/movie.293x165.jpg?t=1701074557",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1681430/633830/d3262b9c47d1136dcd12013c5757e6ae8269dd71/1750724997/dash_h264.mpd?t=1701074557"
+    },
+    {
+      "name": "Story Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256979163/movie.293x165.jpg?t=1698675317",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1681430/624156/618b47cfe637899f44adf2680f68e876a7701574/1750724968/dash_h264.mpd?t=1698675317"
+    },
+    {
+      "name": "Future Game Show 2023 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256966837/movie.293x165.jpg?t=1693404331",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1681430/602696/572d93e48318f7258e8e8ba356c15884fecc58bb/1750724931/dash_h264.mpd?t=1693404331"
+    },
+    {
+      "name": "Gameplay Overview",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256934500/movie.293x165.jpg?t=1680771033",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1681430/546044/4caef5794abc854dc855824b301968d70a8c8359/1750724900/dash_h264.mpd?t=1680771033"
+    },
+    {
+      "name": "Gameplay Reveal",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256894397/movie.293x165.jpg?t=1657214613",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1681430/476354/c3383e4acb6454e2164c364dc986f2ee5233b6e2/1750724897/dash_h264.mpd?t=1657214613"
+    }
+  ],
+  "metacritic": {
+    "score": 76,
+    "url": "https://www.metacritic.com/game/pc/robocop-rogue-city?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1681430,
+    "store_url": "https://store.steampowered.com/app/1681430/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 30959,
+    "review_negative": 4526,
+    "review_total": 35485,
+    "review_positive_percent": 87.25
+  }
+}

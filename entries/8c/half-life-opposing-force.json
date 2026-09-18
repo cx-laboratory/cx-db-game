@@ -1,0 +1,165 @@
+{
+  "key": "half-life-opposing-force",
+  "name": "Half-Life: Opposing Force",
+  "description": "Return to the Black Mesa Research Facility as one of the military specialists assigned to eliminate Gordon Freeman. Experience an entirely new episode of single player action. Meet fierce alien opponents, and experiment with new weaponry. Named 'Game of the Year' by the Academy of Interactive Arts and Sciences.",
+  "developers": [
+    "Gearbox Software"
+  ],
+  "publishers": [
+    "Valve"
+  ],
+  "release_date": "1999-11-01",
+  "website": "http://www.gearboxsoftware.com/",
+  "tags": [
+    "action",
+    "multiplayer",
+    "fps",
+    "classic",
+    "sci-fi",
+    "singleplayer",
+    "shooter",
+    "first-person",
+    "aliens",
+    "1990-s",
+    "adventure",
+    "military",
+    "atmospheric",
+    "story-rich",
+    "silent-protagonist",
+    "great-soundtrack",
+    "gore",
+    "puzzle",
+    "retro",
+    "moddable",
+    "co-op"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German",
+    "Korean"
+  ],
+  "name_localized": {
+    "schinese": "半衰期：针锋相对"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "hl.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "hl.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "hl.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Half-Life: Opposing Force",
+    "hl",
+    "hl.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/50/04e81206c10e12416908c72c5f22aad411b3aeef.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50/0000000155.1920x1080.jpg?t=1745368539"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50/0000000156.1920x1080.jpg?t=1745368539"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50/0000000157.1920x1080.jpg?t=1745368539"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50/0000000158.1920x1080.jpg?t=1745368539"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50/0000000159.1920x1080.jpg?t=1745368539"
+    }
+  ],
+  "videos": [],
+  "metacritic": null,
+  "steam": {
+    "appid": 50,
+    "store_url": "https://store.steampowered.com/app/50/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Valve Anti-Cheat enabled",
+      "Family Sharing"
+    ],
+    "tags": [
+      "FPS",
+      "Action",
+      "Classic",
+      "Sci-fi",
+      "Singleplayer",
+      "Shooter",
+      "First-Person",
+      "Aliens",
+      "1990's",
+      "Adventure",
+      "Military",
+      "Atmospheric",
+      "Story Rich",
+      "Silent Protagonist",
+      "Great Soundtrack",
+      "Gore",
+      "Puzzle",
+      "Retro",
+      "Moddable",
+      "Co-op"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 27135,
+    "review_negative": 1324,
+    "review_total": 28459,
+    "review_positive_percent": 95.35
+  }
+}

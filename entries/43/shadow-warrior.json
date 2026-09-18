@@ -1,0 +1,289 @@
+{
+  "key": "shadow-warrior",
+  "name": "Shadow Warrior",
+  "description": "Shadow Warrior is a bold reimagining of the classic 3D Realms’ shooter from independent developer Flying Wild Hog (Hard Reset) starring the legendary and quick-witted warrior Lo Wang.",
+  "developers": [
+    "Flying Wild Hog"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "release_date": "2013-09-26",
+  "website": "http://www.shadowwarrior.com",
+  "tags": [
+    "action",
+    "adventure",
+    "fps",
+    "gore",
+    "swordplay",
+    "comedy",
+    "first-person",
+    "hack-and-slash",
+    "singleplayer",
+    "shooter",
+    "old-school",
+    "ninja",
+    "dark-humor",
+    "great-soundtrack",
+    "demons",
+    "reboot",
+    "funny",
+    "remake",
+    "classic",
+    "atmospheric"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian",
+    "japanese",
+    "polish",
+    "hungarian",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "影子武士"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "dx11\\\\launcher.exe",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "dx11\\\\launcher.exe",
+          "description": "Safe Mode",
+          "type": "default"
+        },
+        {
+          "executable": "sw.exe",
+          "description": "Play Shadow Warrior (Windows XP)",
+          "type": "default"
+        },
+        {
+          "executable": "sw.exe",
+          "description": "Safe Mode (Windows XP)",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Shadow Warrior",
+          "pattern": "profiles.cfg",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Shadow Warrior\\profiles",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Shadow Warrior DX11",
+          "pattern": "profiles.cfg",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Shadow Warrior DX11\\profiles",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "ShadowWarrior.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Shadow Warrior",
+          "pattern": "profiles.cfg",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Shadow Warrior\\profiles",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Shadow Warrior DX11",
+          "pattern": "profiles.cfg",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Shadow Warrior DX11\\profiles",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "ShadowWarrior.bin.x86",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "RunGameNoSteamRT.sh",
+          "description": "No Steam Runtime Mode",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Shadow Warrior",
+          "pattern": "profiles.cfg",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Shadow Warrior\\profiles",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Shadow Warrior DX11",
+          "pattern": "profiles.cfg",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Shadow Warrior DX11\\profiles",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Shadow Warrior",
+    "dx11\\\\launcher",
+    "sw",
+    "ShadowWarrior.app",
+    "ShadowWarrior.bin.x86",
+    "RunGameNoSteamRT.sh",
+    "影子武士"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/233130/5d7c205ce18f17a99c95ff81499c2f496e0570f2.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233130/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233130/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233130/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233130/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233130/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233130/ss_a025be749ac04d1d98a16efd38c5b4e7fa1cad8a.1920x1080.jpg?t=1710246206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233130/ss_bf1415045030553aea7099d6646d37797d4a6876.1920x1080.jpg?t=1710246206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233130/ss_81e7743f46008df9edc3186a38ad6b9d3ecd7a28.1920x1080.jpg?t=1710246206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233130/ss_5d2c8bec2bbbcb311ccc07ec67a19069dd658461.1920x1080.jpg?t=1710246206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233130/ss_72edec343fcd02beba521c3854cae896f660e5bb.1920x1080.jpg?t=1710246206"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2029543/movie.293x165.jpg?t=1447358928",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/233130/13861/a48d28146022206fdd145c74875d1e20cb06e145/1750496038/dash_h264.mpd?t=1447358928"
+    },
+    {
+      "name": "Features Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2029333/movie.293x165.jpg?t=1447358793",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/233130/13481/af11fac4583dd3d5b6b71f30bef1efa00ddd9cd6/1750496026/dash_h264.mpd?t=1447358793"
+    },
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2029195/movie.293x165.jpg?t=1447358611",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/233130/13058/60915a3f6695dfb192fb7407e3effb25f049a232/1750496003/dash_h264.mpd?t=1447358611"
+    }
+  ],
+  "metacritic": {
+    "score": 74,
+    "url": "https://www.metacritic.com/game/pc/shadow-warrior?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 233130,
+    "store_url": "https://store.steampowered.com/app/233130/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Action",
+      "FPS",
+      "Gore",
+      "Swordplay",
+      "Comedy",
+      "First-Person",
+      "Hack and Slash",
+      "Singleplayer",
+      "Shooter",
+      "Adventure",
+      "Old School",
+      "Ninja",
+      "Dark Humor",
+      "Great Soundtrack",
+      "Demons",
+      "Reboot",
+      "Funny",
+      "Remake",
+      "Classic",
+      "Atmospheric"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 24496,
+    "review_negative": 2146,
+    "review_total": 26642,
+    "review_positive_percent": 91.95
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "key": "buy-a-croquette",
+  "name": "Buy a Croquette!",
+  "description": "March 2012, Nagano. The brave and clever high school girl, Chio Aozora, is facing a major crisis: she doesn’t have enough money to buy a croquette! Navigate through the streets and alleys of Nagano, interact with a variety of characters, solve complex puzzles, collect 380 yen, and buy a croquette!",
+  "developers": [
+    "越青"
+  ],
+  "publishers": [
+    "Eternal Dream"
+  ],
+  "release_date": "2024-04-27",
+  "website": "",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "rpg",
+    "strategy",
+    "free-to-play",
+    "mystery",
+    "puzzle",
+    "sci-fi",
+    "multiple-endings",
+    "funny",
+    "female-protagonist",
+    "jrpg",
+    "exploration",
+    "interactive-fiction",
+    "pixel-graphics",
+    "visual-novel",
+    "strategy-rpg",
+    "detective",
+    "2d",
+    "anime"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "Simplified Chinese"
+  ],
+  "name_localized": {
+    "japanese": "コロッケを買おう！",
+    "tchinese": "買個可樂餅吧！ - Buy a Croquette!",
+    "schinese": "买个可乐饼吧！ - Buy a Croquette!",
+    "english": "Buy a Croquette!"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "nw.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "www/save/",
+          "pattern": "*.rpgsave",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "www/save/",
+          "pattern": "global.rpgsave",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Buy a Croquette!",
+    "nw",
+    "コロッケを買おう！",
+    "買個可樂餅吧！ - Buy a Croquette!",
+    "买个可乐饼吧！ - Buy a Croquette!"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2167960/dcdd8f27c9d9063e42bbdd1e4e2039b0887249d7.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2167960/a0356eadf036626e2187ee90ede2b46fa85cb115/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2167960/8902f48365acc2ec22e5af3a2e53f44c596dc2dc/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2167960/692f0d1f908cdf11ea470fa9f671f2d3009a0667/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2167960/c1c8ffebf3f159dfa4dd27b0bd67263d7df4d41d/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2167960/7947db2d1af1fbcd3304af79d18cb3b86b22b363/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2167960/ss_e3326b577834b0996911d62d8b9c731ff051aa64.1920x1080.jpg?t=1780519281"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2167960/ss_af7ffc3e798ea3835bbb777f110ae248c0511015.1920x1080.jpg?t=1780519281"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2167960/ss_b68862b4192288393f13b098b67aef6080fdc77b.1920x1080.jpg?t=1780519281"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2167960/ss_f3f770609bb4e4e1c95191968b344d6479b1d51b.1920x1080.jpg?t=1780519281"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2167960/ss_7f1f1153437fe2d917b8a179fb9732b260474948.1920x1080.jpg?t=1780519281"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2167960/ss_68cffe571be165c141f22a480316b1bf8336d9a8.1920x1080.jpg?t=1780519281"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2167960/ss_f43156bb8db0ff8f6bd79b7de7662d091ee8d974.1920x1080.jpg?t=1780519281"
+    }
+  ],
+  "videos": [
+    {
+      "name": "PV",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257012110/movie.293x165.jpg?t=1758256757",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2167960/681121/d7ab5f0d8919b1c28112658afd0f23600c25bc44/1751084575/dash_h264.mpd?t=1758256757"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2167960,
+    "store_url": "https://store.steampowered.com/app/2167960/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Strategy",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Mystery",
+      "Psychological Horror",
+      "Puzzle",
+      "Sci-fi",
+      "Multiple Endings",
+      "Funny",
+      "Female Protagonist",
+      "JRPG",
+      "Exploration",
+      "Strategy",
+      "Interactive Fiction",
+      "Pixel Graphics",
+      "Casual",
+      "Visual Novel",
+      "Strategy RPG",
+      "RPG",
+      "Detective",
+      "Adventure",
+      "2D",
+      "Anime"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 7758,
+    "review_negative": 98,
+    "review_total": 7856,
+    "review_positive_percent": 98.75
+  }
+}

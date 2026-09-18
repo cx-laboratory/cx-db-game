@@ -1,0 +1,194 @@
+{
+  "key": "picayune-dreams",
+  "name": "Picayune Dreams",
+  "description": "Picayune Dreams is a roguelike blend of bullet heaven horde survival, and bullet hell gameplay. Adrift across the endless void, you must fend off thousands of nightmarish and otherwordly creatures. Uncover a mysterious and surreal story. And don't forget. You mu [TRANSMISSION INTERRUPTED...]",
+  "developers": [
+    "Stepford"
+  ],
+  "publishers": [
+    "2 Left Thumbs"
+  ],
+  "release_date": "2023-12-05",
+  "website": "https://2leftthumbs.manakeep.com/picayune-dreams",
+  "tags": [
+    "action",
+    "bullet-heaven",
+    "bullet-hell",
+    "action-roguelike",
+    "psychedelic",
+    "colorful",
+    "top-down-shooter",
+    "story-rich",
+    "space",
+    "transhumanism",
+    "pixel-graphics",
+    "female-protagonist",
+    "procedural-generation",
+    "roguelike",
+    "singleplayer",
+    "surreal",
+    "sci-fi",
+    "exploration",
+    "futuristic"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "PICAYUNEDREAMS.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "PicayuneDreams",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "LinuxXdgConfigHome",
+          "path": "PicayuneDreams",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Picayune Dreams",
+    "PICAYUNEDREAMS"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2088840/dce0cd6551f5654c11844e99e705d61977d8b870.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088840/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088840/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088840/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088840/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088840/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088840/ss_1c9a3adb890c114e9c09019b86f2628addde9980.1920x1080.jpg?t=1780886488"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088840/ss_a059c8a602151a5530e8793217741d70f7245521.1920x1080.jpg?t=1780886488"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088840/ss_c5b0751e27d9f934660124f5da240adaeb1548dd.1920x1080.jpg?t=1780886488"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088840/ss_e86dda488c3a2f79b1aa888fa709536c1e76a6dd.1920x1080.jpg?t=1780886488"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088840/ss_918a43d377c810a82b07fb22da9afcba160efdc6.1920x1080.jpg?t=1780886488"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088840/ss_95fc1f01c349af4113461a65958a389f9ecffc0f.1920x1080.jpg?t=1780886488"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088840/ss_d0b8857e112eab6f816ad2eb4ea6076aa29dbcc3.1920x1080.jpg?t=1780886488"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088840/ss_527b363a5b52a394f6f5dea0b7bcf6d0664f584a.1920x1080.jpg?t=1780886488"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088840/ss_ea5595dbb9ca5c07fa0a48beb66942972028bc1a.1920x1080.jpg?t=1780886488"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088840/ss_a8494b71048133120fff832979142570792b7002.1920x1080.jpg?t=1780886488"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088840/ss_84d04833880016eff53423986ad69dc0dffedc88.1920x1080.jpg?t=1780886488"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088840/ss_2505de6471d1318dc851e53968d594ee0a180aca.1920x1080.jpg?t=1780886488"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088840/ss_d507019cfbf4f5baac80599705eebc9f341b4532.1920x1080.jpg?t=1780886488"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088840/ss_243818ffd4a0e78326a73b328c9e7dd4df4c5ca3.1920x1080.jpg?t=1780886488"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088840/ss_a25835d8468253c11a9e3d3f10c6b847368e1944.1920x1080.jpg?t=1780886488"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088840/ss_9c0f17ae8583dfd8ba40c42a4820633c28b260cb.1920x1080.jpg?t=1780886488"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Contamination Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257100537/68cfcae81d8cfe7eb28f209ef412045a4baebba2/movie_600x337.jpg?t=1740076407",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2088840/832543/129e22b99960f458347640f2a949435a8115733c/1750746326/dash_h264.mpd?t=1740076407"
+    },
+    {
+      "name": "Animated Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256986657/movie.293x165.jpg?t=1701714609",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2088840/636643/b28bc5987b3581da17f1f09c3ab17371e9b8e863/1750746326/dash_h264.mpd?t=1701714609"
+    },
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256986510/movie.293x165.jpg?t=1701675101",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2088840/636401/7c6942a79e6b3dd5ce8ab0041394b0ee859d114c/1750746325/dash_h264.mpd?t=1701675101"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2088840,
+    "store_url": "https://store.steampowered.com/app/2088840/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Bullet Heaven",
+      "Bullet Hell",
+      "Action Roguelike",
+      "Psychedelic",
+      "Colorful",
+      "Top-Down Shooter",
+      "Story Rich",
+      "Space",
+      "Transhumanism",
+      "Psychological Horror",
+      "Pixel Graphics",
+      "Female Protagonist",
+      "Procedural Generation",
+      "Action",
+      "Roguelike",
+      "Singleplayer",
+      "Surreal",
+      "Sci-fi",
+      "Exploration",
+      "Futuristic"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 4438,
+    "review_negative": 49,
+    "review_total": 4487,
+    "review_positive_percent": 98.91
+  }
+}

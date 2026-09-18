@@ -1,0 +1,232 @@
+{
+  "key": "caves-of-qud",
+  "name": "Caves of Qud",
+  "description": "Inhabit a deeply-simulated science fantasy world and chisel through layers of thousand-year-old civilizations. Build a character from over a hundred mutations and cybernetics. The award-winning sandbox roguelike &amp; RPG full of robots, deep lore, and sentient plants.",
+  "developers": [
+    "Freehold Games"
+  ],
+  "publishers": [
+    "Kitfox Games"
+  ],
+  "release_date": "2024-12-06",
+  "website": "http://www.cavesofqud.com",
+  "tags": [
+    "adventure",
+    "indie",
+    "rpg",
+    "strategy",
+    "procedural-generation",
+    "turn-based-combat",
+    "open-world",
+    "turn-based",
+    "transhumanism",
+    "sci-fi",
+    "traditional-roguelike",
+    "replay-value",
+    "roguelike",
+    "story-rich",
+    "character-customization",
+    "pixel-graphics",
+    "survival",
+    "atmospheric",
+    "crpg",
+    "difficult",
+    "singleplayer",
+    "moddable",
+    "choices-matter"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "CoQ.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Freehold Games/CavesOfQud/Synced",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "CoQ.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Freehold Games/CavesOfQud/Synced",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "CoQ.x86_64",
+          "description": "Launch 64-bit",
+          "type": "default"
+        },
+        {
+          "executable": "CoQ.x86",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Freehold Games/CavesOfQud/Synced",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Caves of Qud",
+    "CoQ",
+    "CoQ.app",
+    "CoQ.x86_64",
+    "CoQ.x86"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/333640/d301aa7d579383e6eeedf4a9cd26d703e6e5d5e0.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333640/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333640/33c8dafcca0476f3f8927a2ab09917e93665f0e3/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333640/08b49eb96720867bf18bf1feff1fa57cad93da97/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333640/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333640/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333640/ss_0d7f344e2478cf941e174078297b5d2adde21567.1920x1080.jpg?t=1779204650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333640/ss_796b188786b8978574444587bf9f4198fb18f724.1920x1080.jpg?t=1779204650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333640/ss_fc17afe945a7d81473c1b2d728aa513ff2011fc2.1920x1080.jpg?t=1779204650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333640/ss_66d82dec6de6943d34b56708f71c4287f0d8653e.1920x1080.jpg?t=1779204650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333640/ss_be0b9ec895b5b2a791400dcc72eac8b8ba6f0dbe.1920x1080.jpg?t=1779204650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333640/ss_866865918c8405c0633b54a273b9b444285abe39.1920x1080.jpg?t=1779204650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333640/ss_f207b87584bd63682a57017f6f16c45cdd4f52be.1920x1080.jpg?t=1779204650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333640/ss_e2215a2b6e31bd0469e5ad4b1e54419401d486e4.1920x1080.jpg?t=1779204650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333640/ss_ea6b9000da700c6bb5fa2afe9770ecf99082b9b5.1920x1080.jpg?t=1779204650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333640/ss_b83187611e347e316ca631224daf84179d8cd363.1920x1080.jpg?t=1779204650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333640/ss_ac94d028e1d8ae32f53c6e29eaff269d0705b026.1920x1080.jpg?t=1779204650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333640/ss_b5dd78b913069785883beb9417807dc10162b588.1920x1080.jpg?t=1779204650"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Out Now Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257079340/8c90cfdb878d57016fb69720f765784bb5c0fd38/movie_600x337.jpg?t=1743681808",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/333640/795677/dff760e4a6430bbf86051e3f339b3dfcd62adda0/1750510115/dash_h264.mpd?t=1743681808"
+    },
+    {
+      "name": "Spring Molting Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257028939/movie.293x165.jpg?t=1733423658",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/333640/710314/40b08d2f9e15d0a160d8a8513c0455e79eaf61c0/1750510113/dash_h264.mpd?t=1733423658"
+    }
+  ],
+  "metacritic": {
+    "score": 91,
+    "url": "https://www.metacritic.com/game/pc/caves-of-qud?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 333640,
+    "store_url": "https://store.steampowered.com/app/333640/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Workshop",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Procedural Generation",
+      "Turn-Based Combat",
+      "Open World",
+      "Turn-Based",
+      "Transhumanism",
+      "Sci-fi",
+      "Traditional Roguelike",
+      "Replay Value",
+      "Roguelike",
+      "RPG",
+      "Story Rich",
+      "Character Customization",
+      "Pixel Graphics",
+      "Survival",
+      "Atmospheric",
+      "CRPG",
+      "Difficult",
+      "Singleplayer",
+      "Moddable",
+      "Choices Matter"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 11818,
+    "review_negative": 606,
+    "review_total": 12424,
+    "review_positive_percent": 95.12
+  }
+}

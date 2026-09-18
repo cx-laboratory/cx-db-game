@@ -1,0 +1,222 @@
+{
+  "key": "stellaris",
+  "name": "Stellaris",
+  "description": "Explore a galaxy full of wonders in this sci-fi grand strategy game from Paradox Development Studios. Interact with diverse alien races, discover strange new worlds with unexpected events and expand the reach of your empire. Each new adventure holds almost limitless possibilities.",
+  "developers": [
+    "Paradox Development Studio"
+  ],
+  "publishers": [
+    "Paradox Interactive"
+  ],
+  "release_date": "2016-05-09",
+  "website": "https://www.stellaris.com/",
+  "tags": [
+    "simulation",
+    "strategy",
+    "multiplayer",
+    "space",
+    "grand-strategy",
+    "sci-fi",
+    "4x",
+    "exploration",
+    "sandbox",
+    "real-time-with-pause",
+    "singleplayer",
+    "moddable",
+    "management",
+    "diplomacy",
+    "military",
+    "futuristic",
+    "replay-value",
+    "great-soundtrack",
+    "procedural-generation",
+    "atmospheric"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "dowser.exe",
+          "description": "Do not use for version prior to 2.4.0",
+          "type": "default"
+        },
+        {
+          "executable": "stellaris.exe",
+          "description": "Only for versions prior to 2.4.0",
+          "type": "option1"
+        },
+        {
+          "executable": "dowser.exe",
+          "description": "Stellaris with new launcher",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "dowser",
+          "description": "Do not use for versions prior to 2.4.0",
+          "type": "default"
+        },
+        {
+          "executable": "stellaris.app",
+          "description": "Only for versions prior to 2.4.0",
+          "type": "default"
+        },
+        {
+          "executable": "dowser",
+          "description": "Stellaris with new launcher",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "dowser",
+          "description": "Do not use for versions prior to 2.4.0",
+          "type": "default"
+        },
+        {
+          "executable": "stellaris",
+          "description": "Only for versions prior to 2.4.0",
+          "type": "option1"
+        },
+        {
+          "executable": "dowser",
+          "description": "Stellaris with new launcher",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Stellaris",
+    "dowser",
+    "stellaris",
+    "stellaris.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/281990/cb4a03deab1e34ed2a5cbbdf419c66bb6459625f.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/32c71374d9617534661fbfac0ac9fa6849f62215/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/9fb67f416cc0043ce46d7cd3a45bbfc16232bf91/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/72e801b06fe78ee7885e831d23dfe19f480d5074/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/5dfcd45fee7702e8d6610f93d55098762ab2c987/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/ss_f844372cc220e3858aa17205e9fec0ae79a4e665.1920x1080.jpg?t=1782139685"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/ss_692532123e560e6b866baee59b1e310a291a110d.1920x1080.jpg?t=1782139685"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/ss_7f4d7cc160c43e77aa523e910b365e0ca436e6bb.1920x1080.jpg?t=1782139685"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/ss_034b0d55a5c370bec4709f09d0914f9d131b7788.1920x1080.jpg?t=1782139685"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/ss_ee82888c27afb4174cf4cae6298b54c7c1e2a682.1920x1080.jpg?t=1782139685"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/ss_fc94710913be85306f2fe5258d0f0d8d1c87e945.1920x1080.jpg?t=1782139685"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Anniversary Trailer 2024",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257021701/movie.293x165.jpg?t=1715273904",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/281990/697519/ffaae49b5a49dfc92b227718ab057d321e644404/1750489080/dash_h264.mpd?t=1715273904"
+    },
+    {
+      "name": "New Base Game Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256725083/movie.293x165.jpg?t=1589230189",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/281990/178042/1125f73069603ceb039a0e164326d5f10d60518a/1750489058/dash_h264.mpd?t=1589230189"
+    },
+    {
+      "name": "Stellaris 4th Anniversary Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256784480/movie.293x165.jpg?t=1589271454",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/281990/283707/c33278405bc9ac02f979f458d5127e577e2896ba/1750489076/dash_h264.mpd?t=1589271454"
+    }
+  ],
+  "metacritic": {
+    "score": 78,
+    "url": "https://www.metacritic.com/game/pc/stellaris?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 281990,
+    "store_url": "https://store.steampowered.com/app/281990/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Space",
+      "Strategy",
+      "Grand Strategy",
+      "Sci-fi",
+      "4X",
+      "Exploration",
+      "Sandbox",
+      "Simulation",
+      "Multiplayer",
+      "Real-Time with Pause",
+      "Singleplayer",
+      "Moddable",
+      "Management",
+      "Diplomacy",
+      "Military",
+      "Futuristic",
+      "Replay Value",
+      "Great Soundtrack",
+      "Procedural Generation",
+      "Atmospheric"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 167878,
+    "review_negative": 27724,
+    "review_total": 195602,
+    "review_positive_percent": 85.83
+  }
+}

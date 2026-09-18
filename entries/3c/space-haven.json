@@ -1,0 +1,243 @@
+{
+  "key": "space-haven",
+  "name": "Space Haven",
+  "description": "Embark on a space voyage with your ragtag crew of civilians in search of a new home. Build spaceships tile by tile, create optimal gas conditions, manage the needs and moods of their crew, encounter other space-faring groups, and explore the universe in this spaceship colony simulation.",
+  "developers": [
+    "Bugbyte Ltd."
+  ],
+  "publishers": [
+    "Bugbyte Ltd."
+  ],
+  "release_date": "2026-05-13",
+  "website": "http://bugbyte.fi/spacehaven/",
+  "tags": [
+    "indie",
+    "rpg",
+    "simulation",
+    "strategy",
+    "colony-sim",
+    "base-building",
+    "survival",
+    "management",
+    "space",
+    "sandbox",
+    "building",
+    "city-builder",
+    "sci-fi",
+    "resource-management",
+    "space-sim",
+    "open-world",
+    "exploration",
+    "singleplayer",
+    "pixel-graphics",
+    "post-apocalyptic",
+    "atmospheric"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish - Spain",
+    "Italian",
+    "Russian",
+    "Simplified Chinese",
+    "Japanese",
+    "Korean",
+    "Czech",
+    "Polish",
+    "Portuguese - Brazil",
+    "Turkish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "spacehaven.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "spacehaven.exe",
+          "description": "with mods",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "savegames",
+          "pattern": "*.zip",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "spacehaven.app",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "spacehaven.app",
+          "description": "with mods",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "savegames",
+          "pattern": "*.zip",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "spacehaven",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "spacehaven",
+          "description": "with mods",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "savegames",
+          "pattern": "*.zip",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Space Haven",
+    "spacehaven",
+    "spacehaven.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/979110/f4f8e60cb203035f6e4ef122ba4d137cb3c52d76.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979110/73529f7afc14ec281cad99fe0284cbed06c552f0/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979110/54abf3d574c310a2e73cd89734fb4cbd3b6a21ff/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979110/3516ff71853fccc495f7c990e2d68506ed932a64/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979110/3a748b7c0d0bfffd2379d7071dc79b4cc072b35e/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979110/0d8a693529a7bd90320bf52c5727f25c7cbb5d07/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979110/ss_b1f27d81832ec796dbeeae639e6706b746813407.1920x1080.jpg?t=1779957549"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979110/4aa2ed3080854ea5d26cc02f10c2f68b6921785b/ss_4aa2ed3080854ea5d26cc02f10c2f68b6921785b.1920x1080.jpg?t=1779957549"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979110/ss_7720a13a5b083a3837d3653ae1a6d662ad56cc8f.1920x1080.jpg?t=1779957549"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979110/169275ca339f84a42bbaeab652575aa0d68bf5c4/ss_169275ca339f84a42bbaeab652575aa0d68bf5c4.1920x1080.jpg?t=1779957549"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979110/c190af26ae7da8cdf7b86edbdca79c8bb620bf22/ss_c190af26ae7da8cdf7b86edbdca79c8bb620bf22.1920x1080.jpg?t=1779957549"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979110/69dbb1ca02a8f9a8de98e207c4d9cb7e53c3f26d/ss_69dbb1ca02a8f9a8de98e207c4d9cb7e53c3f26d.1920x1080.jpg?t=1779957549"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979110/ss_a123836641fe5c8760dc7c46a437775eaf7f9e7f.1920x1080.jpg?t=1779957549"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979110/aad11504605a39c86eef07e3006070e171bc5d52/ss_aad11504605a39c86eef07e3006070e171bc5d52.1920x1080.jpg?t=1779957549"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979110/ss_9555d4d236bff748d77123eeb03c51e52861b7b2.1920x1080.jpg?t=1779957549"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979110/ss_93660a66aa0672b1232aa73a945dddade4daa0d0.1920x1080.jpg?t=1779957549"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979110/ss_e6edbc7d3a0a9d7763401c9ac37f12551c0cfa38.1920x1080.jpg?t=1779957549"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979110/ss_99ba398ee478eb0ad81f0296f12bef42da6ef1ea.1920x1080.jpg?t=1779957549"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979110/c7e058bbd70723673fe9e00b8ce695dafa206a5b/ss_c7e058bbd70723673fe9e00b8ce695dafa206a5b.1920x1080.jpg?t=1779957549"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Space Haven Trailer 2026",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257234481/e11c3d310d119a4ac12f5b9c9d4bbb4bfa66bf10/movie_600x337.jpg?t=1775135122",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/979110/1772701820/5bede06b18540127b763ac8d733eeb8b895cc920/1775133942/dash_h264.mpd?t=1775135122"
+    }
+  ],
+  "metacritic": {
+    "score": 85,
+    "url": "https://www.metacritic.com/game/pc/space-haven?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 979110,
+    "store_url": "https://store.steampowered.com/app/979110/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Workshop",
+      "DualShock Controller Support",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Colony Sim",
+      "Base Building",
+      "Survival",
+      "Strategy",
+      "Management",
+      "Space",
+      "Sandbox",
+      "Simulation",
+      "Building",
+      "City Builder",
+      "Sci-fi",
+      "Resource Management",
+      "Space Sim",
+      "Open World",
+      "Exploration",
+      "Singleplayer",
+      "Pixel Graphics",
+      "Post-apocalyptic",
+      "Indie",
+      "Atmospheric"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 9329,
+    "review_negative": 1543,
+    "review_total": 10872,
+    "review_positive_percent": 85.81
+  }
+}

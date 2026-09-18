@@ -1,0 +1,193 @@
+{
+  "key": "donut-county",
+  "name": "Donut County",
+  "description": "Donut County is a story-based physics puzzle game where you play as an ever-growing hole in the ground. Meet cute characters, steal their trash, and throw them in a hole.",
+  "developers": [
+    "Ben Esposito"
+  ],
+  "publishers": [
+    "Annapurna Interactive"
+  ],
+  "release_date": "2018-08-28",
+  "website": "http://donutcounty.com",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "cute",
+    "funny",
+    "puzzle",
+    "physics",
+    "short",
+    "great-soundtrack",
+    "singleplayer",
+    "family-friendly",
+    "story-rich",
+    "3d",
+    "comedy",
+    "stylized",
+    "relaxing",
+    "female-protagonist",
+    "interactive-fiction",
+    "colorful",
+    "music"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "DonutCounty.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Annapurna Interactive/Donut County/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "DonutCounty.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Annapurna Interactive/Donut County/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Donut County",
+    "DonutCounty",
+    "DonutCounty.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/702670/c9a5bdbeb3d74b0926e8abbecdca904ee32d6184.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702670/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702670/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702670/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702670/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702670/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702670/ss_c239e5c7c2d64002ac68b9646866d36ad96d3e14.1920x1080.jpg?t=1729099497"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702670/ss_9cdb67986354f1e941cf17b3548ebf7a419c775b.1920x1080.jpg?t=1729099497"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702670/ss_7405195faef4577455e514343a61116f45c919f4.1920x1080.jpg?t=1729099497"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702670/ss_c47fb82dc7f0bc53a33f95295ffa4a18931ae69b.1920x1080.jpg?t=1729099497"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702670/ss_e68be680fba205ff77f075732cdd0047c7420960.1920x1080.jpg?t=1729099497"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Donut County | Trash TV Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256771665/movie.293x165.jpg?t=1578339826",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/702670/260346/78fd5141251658774299490c0e32fff2bb410a2a/1750572706/dash_h264.mpd?t=1578339826"
+    },
+    {
+      "name": "Donut County | Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256724171/movie.293x165.jpg?t=1533064244",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/702670/175965/8047751913395e3b3caa8b033d787d8f0d194e7c/1750572687/dash_h264.mpd?t=1533064244"
+    },
+    {
+      "name": "Donut County | Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256693566/movie.293x165.jpg?t=1503953346",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/702670/119658/afa1a4f2005449a06df91c2f393dad50b8b8b527/1750572683/dash_h264.mpd?t=1503953346"
+    }
+  ],
+  "metacritic": {
+    "score": 77,
+    "url": "https://www.metacritic.com/game/pc/donut-county?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 702670,
+    "store_url": "https://store.steampowered.com/app/702670/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Casual",
+      "Indie",
+      "Cute",
+      "Funny",
+      "Puzzle",
+      "Physics",
+      "Short",
+      "Adventure",
+      "Great Soundtrack",
+      "Singleplayer",
+      "Family Friendly",
+      "Story Rich",
+      "3D",
+      "Comedy",
+      "Stylized",
+      "Relaxing",
+      "Female Protagonist",
+      "Interactive Fiction",
+      "Colorful",
+      "Music"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 10925,
+    "review_negative": 940,
+    "review_total": 11865,
+    "review_positive_percent": 92.08
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "key": "stellar-blade",
+  "name": "Stellar Blade™",
+  "description": "Save humanity from extinction in post-apocalyptic action-adventure Stellar Blade™. Experience blistering combat and a twisting storyline as you unravel the mysteries of Earth’s downfall.",
+  "developers": [
+    "SHIFT UP Corporation"
+  ],
+  "publishers": [
+    "PlayStation Publishing LLC (excluding China)"
+  ],
+  "release_date": "2025-06-12",
+  "website": "https://www.playstation.com/games/stellar-blade/pc/",
+  "tags": [
+    "action",
+    "adventure",
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "turkish",
+    "arabic",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "english": "Stellar Blade™",
+    "koreana": "스텔라 블레이드™",
+    "schinese": "剑星",
+    "tchinese": "劍星"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SB.exe",
+          "description": "Shipping Build",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WindowsHome",
+          "path": "Documents/StellarBlade/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "SB/Saved/SaveGames/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "SB/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Stellar Blade™",
+    "SB",
+    "스텔라 블레이드™",
+    "剑星",
+    "劍星"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3489700/57038a59c95ccee823169ffd580adef713543d46.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/75914656cad450124a18fef914c5a5f4866ffb67/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/6f2bbe8f34fc283f42acbe4ab184e9a40f76ad51/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/7f886b630308135ac990fefd005787729fec685f/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/291969d6747b765f62141bd170b42c7d9c4c238d/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_4291827e357008499d4d5a17bc50d3e93869dd43.1920x1080.jpg?t=1776466244"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_9d4d62e118a167333d53db94354671e10416b25d.1920x1080.jpg?t=1776466244"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_bcb3946482dc5a1221c024098d2ac09e80255f3e.1920x1080.jpg?t=1776466244"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_1ae903bf4153fa2c2b3ee4381eb355532ba79eab.1920x1080.jpg?t=1776466244"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_0a156afe90170ba75773a6fe901153c4dd318980.1920x1080.jpg?t=1776466244"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_590074c0cfa8c7098358a128f656b0198af8f0be.1920x1080.jpg?t=1776466244"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_02282b4eb4c8b13129a13908b85840dbf2168644.1920x1080.jpg?t=1776466244"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_2d4ad1a81618920416e7b68d02dc266ac898f144.1920x1080.jpg?t=1776466244"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_2896b91d5498aa028b84b411875171e2a7ec11c8.1920x1080.jpg?t=1776466244"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_0d99694a69de6474cd7e0d6f59bfc7658c08450b.1920x1080.jpg?t=1776466244"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Full Launch trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257154206/1075aa34dc2b29a057a697fe443d752c3e80418e/movie_600x337.jpg?t=1749678668",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3489700/2090056095/b477a4d790ad0e1220c483843f85ce518cf9b2df/1750826285/dash_h264.mpd?t=1749678668"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3489700,
+    "store_url": "https://store.steampowered.com/app/3489700/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Input API Support",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Surround Sound",
+      "Steam Cloud",
+      "Stats",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 84335,
+    "review_negative": 5422,
+    "review_total": 89757,
+    "review_positive_percent": 93.96
+  }
+}

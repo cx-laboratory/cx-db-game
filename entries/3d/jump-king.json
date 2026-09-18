@@ -1,0 +1,172 @@
+{
+  "key": "jump-king",
+  "name": "Jump King",
+  "description": "Take up the challenge and face true high-stakes platforming in Jump King! Struggle upwards in search of the Smoking Hot Babe of legend, but explore with care; a single missed jump could lead to a long fall back down...",
+  "developers": [
+    "Nexile"
+  ],
+  "publishers": [
+    "Nexile"
+  ],
+  "release_date": "2019-05-04",
+  "website": "https://nexile.se/jump-king/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "difficult",
+    "precision-platformer",
+    "pixel-graphics",
+    "platformer",
+    "2d",
+    "singleplayer",
+    "retro",
+    "medieval",
+    "philosophical",
+    "atmospheric",
+    "funny",
+    "dark-humor",
+    "fantasy",
+    "horror",
+    "souls-like",
+    "side-scroller"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "schinese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "JumpKing.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Content/Saves/",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Content/SavesPerma/",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Jump King",
+    "JumpKing"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1061090/a55d3eacf184ccacebfea90192d11dc2c6fcecfc.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061090/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061090/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061090/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061090/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061090/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061090/ss_57eb51f796849ef3338d4d884d6f7ed4b2d0fbd8.1920x1080.jpg?t=1708097084"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061090/ss_38f2d9bb39741bc5aecd5045ee5233fc8aa45d85.1920x1080.jpg?t=1708097084"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061090/ss_23f83db1bbabfecf8fbcc69a44c8b1b46c726c6f.1920x1080.jpg?t=1708097084"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061090/ss_c2c31148aaec7b3a6912bf0afcda8ab28d5ad970.1920x1080.jpg?t=1708097084"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061090/ss_565bc2cc3fa953b982de0779225dcf15c767c17f.1920x1080.jpg?t=1708097084"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Jump King - Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256748790/movie.293x165.jpg?t=1556101579",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1061090/219664/2dff0ecbe9b26d734b7b3c4e2ee80938d0a0e765/1751182993/dash_h264.mpd?t=1556101579"
+    },
+    {
+      "name": "ghost of the babe - Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256769930/movie.293x165.jpg?t=1576321769",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1061090/257421/c817db8226fe7d74de93bc6dcb6b96f3beb47872/1751182993/dash_h264.mpd?t=1576321769"
+    },
+    {
+      "name": "New Babe+ Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256752865/movie.293x165.jpg?t=1559927068",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1061090/227106/fb4a98e251bec40ebf20a4411d442dea66643b62/1751182993/dash_h264.mpd?t=1559927068"
+    },
+    {
+      "name": "Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256746894/movie.293x165.jpg?t=1554370349",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1061090/216210/54188892755b5da906e578c874d90c2b09816362/1751182991/dash_h264.mpd?t=1554370349"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1061090,
+    "store_url": "https://store.steampowered.com/app/1061090/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Psychological Horror",
+      "Difficult",
+      "Precision Platformer",
+      "Indie",
+      "Pixel Graphics",
+      "Adventure",
+      "Platformer",
+      "2D",
+      "Action",
+      "Singleplayer",
+      "Retro",
+      "Medieval",
+      "Philosophical",
+      "Atmospheric",
+      "Funny",
+      "Dark Humor",
+      "Fantasy",
+      "Horror",
+      "Souls-like",
+      "Side Scroller"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 11933,
+    "review_negative": 1344,
+    "review_total": 13277,
+    "review_positive_percent": 89.88
+  }
+}

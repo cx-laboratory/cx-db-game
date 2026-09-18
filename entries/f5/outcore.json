@@ -1,0 +1,176 @@
+{
+  "key": "outcore",
+  "name": "Outcore",
+  "description": "All you wanted was a nice game. But now you find yourself opening Windows apps like Paint &amp; Notepad to solve puzzles, and searching for files on your computers that you didn't put there... Who is she? Why did she appear on your desktop? Let's dive into her memories and find out.",
+  "developers": [
+    "Doctor Shinobi"
+  ],
+  "publishers": [
+    "Doctor Shinobi"
+  ],
+  "release_date": "2022-09-26",
+  "website": "https://www.patreon.com/c/doctorshinobi",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "simulation",
+    "free-to-play",
+    "desktop-companion",
+    "story-rich",
+    "comedy",
+    "exploration",
+    "puzzle",
+    "cute",
+    "choices-matter",
+    "singleplayer",
+    "pixel-graphics",
+    "colorful",
+    "funny",
+    "emotional",
+    "platformer",
+    "2d"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "Spanish - Spain",
+    "Turkish",
+    "Simplified Chinese",
+    "Japanese",
+    "Russian",
+    "Korean",
+    "Polish",
+    "Italian",
+    "German",
+    "French",
+    "Portuguese - Brazil",
+    "Ukrainian",
+    "Hebrew*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Outcore.exe",
+          "description": "Outcore: Desktop Adventure",
+          "type": "default"
+        },
+        {
+          "executable": "Outcore_Data\\StreamingAssets\\BlackWindowFix.bat",
+          "description": "\"Choose this if your desktop shows up as a black screen\" edition",
+          "type": "default"
+        },
+        {
+          "executable": "Outcore.exe",
+          "description": "\"Choose this if the other options don't work\" edition",
+          "type": "default"
+        },
+        {
+          "executable": "Outcore_Data\\StreamingAssets\\CuteAnimalsLauncher.bat",
+          "description": "\"Choose this if the game works correctly, but instead of playing it, you prefer to see cute animals with clown noses\" edition",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Outcore",
+    "Outcore_Data\\StreamingAssets\\BlackWindowFix.bat",
+    "Outcore_Data\\StreamingAssets\\CuteAnimalsLauncher.bat"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1275670/06df4895a914fdef89610d2efba7ea0e484b386e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1275670/80e7fbe78cffdfe76f29ba5857105885a52dd375/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1275670/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1275670/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1275670/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1275670/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1275670/ss_64bb240ddb14b00b71aa14ecf27298007c9424d5.1920x1080.jpg?t=1770106138"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1275670/ss_8525857d6c7ec698c74eb13db1c345982441d239.1920x1080.jpg?t=1770106138"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1275670/ss_5d6f303b33a6dfe80eb0757a8c7aabb9dc12e4e4.1920x1080.jpg?t=1770106138"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1275670/f9ae4c07435a883474d61b3443960c23b53b6c5e/ss_f9ae4c07435a883474d61b3443960c23b53b6c5e.1920x1080.jpg?t=1770106138"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1275670/ss_7db8d80a96d7f7fb3dd1848438faa2e6eb5e248e.1920x1080.jpg?t=1770106138"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1275670/ss_08350648d76375244fc119d58a4dbc184a8cc592.1920x1080.jpg?t=1770106138"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Outcore trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256869683/movie.293x165.jpg?t=1664181353",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1275670/432706/e6281127b07ebef034a5b09342feb351716a2ac9/1751213395/dash_h264.mpd?t=1664181353"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1275670,
+    "store_url": "https://store.steampowered.com/app/1275670/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Desktop Companion",
+      "Psychological Horror",
+      "Story Rich",
+      "Adventure",
+      "Comedy",
+      "Free to Play",
+      "Exploration",
+      "Puzzle",
+      "Cute",
+      "Choices Matter",
+      "Singleplayer",
+      "Pixel Graphics",
+      "Colorful",
+      "Funny",
+      "Indie",
+      "Emotional",
+      "Platformer",
+      "2D",
+      "RPG",
+      "Simulation"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 17529,
+    "review_negative": 465,
+    "review_total": 17994,
+    "review_positive_percent": 97.42
+  }
+}

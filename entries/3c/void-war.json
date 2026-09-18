@@ -1,0 +1,167 @@
+{
+  "key": "void-war",
+  "name": "Void War",
+  "description": "Command an ancient starship and fight your way to the heart of a dying Empire. Fend off attacks from demented cultists, craven space pirates, and xenophobic Imperial soldiers. Discover powerful artifacts and use them to build your ship into a fearsome war engine.",
+  "developers": [
+    "Tundra"
+  ],
+  "publishers": [
+    "Tundra"
+  ],
+  "release_date": "2025-06-03",
+  "website": "",
+  "tags": [
+    "adventure",
+    "indie",
+    "rpg",
+    "simulation",
+    "strategy",
+    "space",
+    "roguelite",
+    "perma-death",
+    "choices-matter",
+    "difficult",
+    "replay-value",
+    "roguelike",
+    "resource-management",
+    "real-time-with-pause",
+    "procedural-generation",
+    "sci-fi",
+    "gothic",
+    "tactical",
+    "dark-fantasy",
+    "2d",
+    "pixel-graphics",
+    "singleplayer"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Void War.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Void_War",
+          "pattern": "*.sav",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Void War"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2853590/9a3073278e87e3781b69cbf27526d29f0f2a1ff5.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/a710892e32d035878ff6a68d57ab181026d016a7/ss_a710892e32d035878ff6a68d57ab181026d016a7.1920x1080.jpg?t=1770404391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/ss_77e4f7948a322e758a499eb235985f4c8dadebb1.1920x1080.jpg?t=1770404391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/ss_80e505b695f44c1ebc29853f33836d19a54a50d1.1920x1080.jpg?t=1770404391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/dda673f892c393bde88a15fbdfd0ae6671d2c7c7/ss_dda673f892c393bde88a15fbdfd0ae6671d2c7c7.1920x1080.jpg?t=1770404391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/ss_2d328792bd74d3bb56f0fa7179297daa2871bef0.1920x1080.jpg?t=1770404391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/ss_01db07750229368a450e5ef0ebc04d462fd3c54e.1920x1080.jpg?t=1770404391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/b153080b3ef53b393c3b2bc230a50344ec2918d6/ss_b153080b3ef53b393c3b2bc230a50344ec2918d6.1920x1080.jpg?t=1770404391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/ss_c814960006ef6c22caf868ef90f0578c64603022.1920x1080.jpg?t=1770404391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/ss_f074957516df0d3c2430f8fe18126d18f6ee5bf1.1920x1080.jpg?t=1770404391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/ss_f25f83ad1c234eedf7912a313efe882b64d94675.1920x1080.jpg?t=1770404391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853590/ss_0acc06188e0af19ad2cdf9bea4e6839ddde3321e.1920x1080.jpg?t=1770404391"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Void War - Alpha Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257059364/b93e676d932c463eae37cefaf26af77c4b1f0823/movie_600x337.jpg?t=1736816313",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2853590/762478/32e2e369cdacd45f2ab3c20fd2e172f61ab29248/1750820690/dash_h264.mpd?t=1736816313"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2853590,
+    "store_url": "https://store.steampowered.com/app/2853590/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Space",
+      "Roguelite",
+      "Perma Death",
+      "Choices Matter",
+      "Strategy",
+      "Difficult",
+      "Replay Value",
+      "Roguelike",
+      "Resource Management",
+      "Real-Time with Pause",
+      "Procedural Generation",
+      "Sci-fi",
+      "Adventure",
+      "Gothic",
+      "Simulation",
+      "Tactical",
+      "Dark Fantasy",
+      "2D",
+      "Pixel Graphics",
+      "Singleplayer"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 3578,
+    "review_negative": 218,
+    "review_total": 3796,
+    "review_positive_percent": 94.26
+  }
+}

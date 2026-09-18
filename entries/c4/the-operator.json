@@ -1,0 +1,259 @@
+{
+  "key": "the-operator",
+  "name": "The Operator",
+  "description": "Welcome to the FDI. As our newest Operator, your role is to use your detective skills to assist our field agents and investigate mysterious crimes. Use cutting-edge FDI software to dig for clues, solve puzzles, and uncover the truth.",
+  "developers": [
+    "Bureau 81"
+  ],
+  "publishers": [
+    "Bureau 81"
+  ],
+  "release_date": "2024-07-22",
+  "website": "",
+  "tags": [
+    "adventure",
+    "indie",
+    "simulation",
+    "detective",
+    "investigation",
+    "conspiracy",
+    "puzzle",
+    "atmospheric",
+    "immersive-sim",
+    "mystery",
+    "thriller",
+    "crime",
+    "point-and-click",
+    "fmv",
+    "narrative",
+    "story-rich",
+    "interactive-fiction",
+    "choose-your-own-adventure",
+    "visual-novel",
+    "rpg",
+    "singleplayer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "tchinese"
+  ],
+  "name_localized": {
+    "schinese": "接线疑云 The Operator",
+    "tchinese": "接線疑雲 The Operator"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "OPERATOR.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Bureau 81/OPERATOR",
+          "pattern": "context.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Bureau 81/OPERATOR",
+          "pattern": "settings_global.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "OPERATOR.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Bureau 81/OPERATOR",
+          "pattern": "context.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Bureau 81/OPERATOR",
+          "pattern": "settings_global.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "OPERATOR",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Bureau 81/OPERATOR",
+          "pattern": "context.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Bureau 81/OPERATOR",
+          "pattern": "settings_global.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The Operator",
+    "OPERATOR",
+    "OPERATOR.app",
+    "接线疑云 The Operator",
+    "接線疑雲 The Operator"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1771980/c6bf9f32565d95fd068febd1305ad840b72ae9eb.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771980/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771980/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771980/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771980/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771980/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771980/ss_152c464d71afa7bf2a0546cab74008d0e91b20c8.1920x1080.jpg?t=1778485297"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771980/ss_b6af536af205fdcbb0a79172bacd7e22c38326a7.1920x1080.jpg?t=1778485297"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771980/ss_613084ae51e3357660fc79c80edaf0385245d951.1920x1080.jpg?t=1778485297"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771980/ss_5f9f8137d263ed2142a81c055aa785a08695e4cf.1920x1080.jpg?t=1778485297"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771980/ss_3bc2f99d17ad9af771c0bb25c4fa727b46e152b6.1920x1080.jpg?t=1778485297"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771980/ss_44fd76d1133cb773cb10c2a06382282d95908218.1920x1080.jpg?t=1778485297"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771980/ss_bdef33ac89b4a3e0e82e652428508127ac1e597c.1920x1080.jpg?t=1778485297"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771980/ss_dfe43e63fd32175c7db4631a6e58cccaa4848138.1920x1080.jpg?t=1778485297"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771980/ss_53cdfb9a020be84bd244dba7817656b1c37a176f.1920x1080.jpg?t=1778485297"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771980/ss_5fbba35e946566baad6181525149303cafd4e4b3.1920x1080.jpg?t=1778485297"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771980/ss_51d780cd40f7bba5e3eee5ff98b17b917c3e2f33.1920x1080.jpg?t=1778485297"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771980/ss_016b45729ee402502b0784a3d1a8492a3f7996f9.1920x1080.jpg?t=1778485297"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771980/ss_8680804522ae426afb2df3c75ae928a1d03a7e26.1920x1080.jpg?t=1778485297"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Operator - Future Game Show Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257030303/movie.293x165.jpg?t=1718098683",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1771980/712385/6c84125162eb84911ba5d175e5154c5761501df8/1750734338/dash_h264.mpd?t=1718098683"
+    },
+    {
+      "name": "Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257010227/movie.293x165.jpg?t=1711056193",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1771980/677978/37800d338a6b913cd29200aafbc32e2b05065d62/1750734311/dash_h264.mpd?t=1711056193"
+    }
+  ],
+  "metacritic": {
+    "score": 78,
+    "url": "https://www.metacritic.com/game/pc/the-operator?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1771980,
+    "store_url": "https://store.steampowered.com/app/1771980/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Captions available",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Detective",
+      "Investigation",
+      "Conspiracy",
+      "Puzzle",
+      "Atmospheric",
+      "Immersive Sim",
+      "Mystery",
+      "Thriller",
+      "Simulation",
+      "Crime",
+      "Point & Click",
+      "FMV",
+      "Narrative",
+      "Story Rich",
+      "Interactive Fiction",
+      "Adventure",
+      "Choose Your Own Adventure",
+      "Visual Novel",
+      "RPG",
+      "Singleplayer"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7695,
+    "review_negative": 700,
+    "review_total": 8395,
+    "review_positive_percent": 91.66
+  }
+}

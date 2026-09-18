@@ -1,0 +1,286 @@
+{
+  "key": "vvvvvv",
+  "name": "VVVVVV",
+  "description": "VVVVVV is a platform game all about exploring one simple mechanical idea - what if you reversed gravity instead of jumping?",
+  "developers": [
+    "Terry Cavanagh"
+  ],
+  "publishers": [
+    "Terry Cavanagh"
+  ],
+  "release_date": "2010-09-08",
+  "website": "http://thelettervsixtim.es",
+  "tags": [
+    "action",
+    "indie",
+    "pixel-graphics",
+    "precision-platformer",
+    "platformer",
+    "2d-platformer",
+    "great-soundtrack",
+    "difficult",
+    "retro",
+    "2d",
+    "singleplayer",
+    "exploration",
+    "sci-fi",
+    "adventure",
+    "short",
+    "minimalist",
+    "metroidvania",
+    "puzzle",
+    "open-world",
+    "space"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "dutch",
+    "turkish",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "vvvvvv.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "VVVVVV/saves",
+          "pattern": "*.vvvvvv.vvv",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "VVVVVV/saves",
+          "pattern": "levelstats.vvv",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "VVVVVV/saves",
+          "pattern": "tsave.vvv",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "VVVVVV/saves",
+          "pattern": "unlock.vvv",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "VVVVVV/saves",
+          "pattern": "qsave.vvv",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "VVVVVV.app/Contents/MacOS/VVVVVV",
+          "description": "MacOS",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "VVVVVV/saves",
+          "pattern": "*.vvvvvv.vvv",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "VVVVVV/saves",
+          "pattern": "levelstats.vvv",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "VVVVVV/saves",
+          "pattern": "tsave.vvv",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "VVVVVV/saves",
+          "pattern": "unlock.vvv",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "VVVVVV/saves",
+          "pattern": "qsave.vvv",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "VVVVVV",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "VVVVVV/saves",
+          "pattern": "*.vvvvvv.vvv",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "VVVVVV/saves",
+          "pattern": "levelstats.vvv",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "VVVVVV/saves",
+          "pattern": "tsave.vvv",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "VVVVVV/saves",
+          "pattern": "unlock.vvv",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "VVVVVV/saves",
+          "pattern": "qsave.vvv",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "VVVVVV",
+    "vvvvvv",
+    "VVVVVV.app/Contents/MacOS/VVVVVV"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/70300/9c4bc5ef59b7d8aec664dfb73e8640b5b6832ec6.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70300/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70300/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70300/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70300/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70300/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70300/ss_4ba9fa1829414a6739bee4d7008f8e68bb03e0a8.1920x1080.jpg?t=1751298999"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70300/ss_a7dc7971405b1fa3c5640da773fc595a2b5944cd.1920x1080.jpg?t=1751298999"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70300/ss_1140656e1a643311e076553cd488a666ab5372b7.1920x1080.jpg?t=1751298999"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70300/ss_b8c0b727035975dd98fb9f61dc444dced9841a00.1920x1080.jpg?t=1751298999"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70300/ss_23cf3ae8053ae2622f380ae902915ccfe3871ced.1920x1080.jpg?t=1751298999"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70300/ss_41e8b749b3a1200eefe002edd5f743b0a6aacbfc.1920x1080.jpg?t=1751298999"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70300/ss_6405295ccc4fe7f7e584488c9fcfd6801d575968.1920x1080.jpg?t=1751298999"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70300/ss_3018b946a8a5df32f162e31f78db5863d743154b.1920x1080.jpg?t=1751298999"
+    }
+  ],
+  "videos": [
+    {
+      "name": "vvvvvv Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5911/movie.293x165.jpg?t=1447353492",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/70300/4059/329c0e3cf3a2f0c8a885d2dbf0aaada3ca44e8d7/1751249064/dash_h264.mpd?t=1447353492"
+    }
+  ],
+  "metacritic": {
+    "score": 81,
+    "url": "https://www.metacritic.com/game/pc/vvvvvv?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 70300,
+    "store_url": "https://store.steampowered.com/app/70300/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Includes level editor",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Pixel Graphics",
+      "Precision Platformer",
+      "Platformer",
+      "Indie",
+      "2D Platformer",
+      "Great Soundtrack",
+      "Difficult",
+      "Retro",
+      "2D",
+      "Singleplayer",
+      "Exploration",
+      "Action",
+      "Sci-fi",
+      "Adventure",
+      "Short",
+      "Minimalist",
+      "Metroidvania",
+      "Puzzle",
+      "Open World",
+      "Space"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 10085,
+    "review_negative": 400,
+    "review_total": 10485,
+    "review_positive_percent": 96.19
+  }
+}

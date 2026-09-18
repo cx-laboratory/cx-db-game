@@ -1,0 +1,214 @@
+{
+  "key": "i-wani-hug-that-gator",
+  "name": "I Wani Hug that Gator!",
+  "description": "I Wani Hug that Gator! Is a choice-driven narrative about teenagers struggling to find their way. Help Inco, loser highschooler extraordinaire, navigate his budding friendships (and romance!) while surviving being the only human in a dinosaur-filled school.",
+  "developers": [
+    "Cavemanon"
+  ],
+  "publishers": [
+    "Cavemanon"
+  ],
+  "release_date": "2024-02-15",
+  "website": "https://hugthegator.xyz/",
+  "tags": [
+    "casual",
+    "indie",
+    "visual-novel",
+    "story-rich",
+    "romance",
+    "choose-your-own-adventure",
+    "choices-matter",
+    "dating-sim",
+    "interactive-fiction",
+    "multiple-endings",
+    "dinosaurs",
+    "funny",
+    "cute",
+    "comedy",
+    "text-based",
+    "2d",
+    "cartoony",
+    "hand-drawn",
+    "colorful",
+    "sexual-content"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "Spanish - Spain",
+    "Spanish - Latin America",
+    "Polish",
+    "Russian",
+    "Swedish",
+    "Thai",
+    "Portuguese - Brazil",
+    "Ukrainian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "WaniGame.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "game/saves/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "game/drawings",
+          "pattern": "*.png",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "WaniGame.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "game/saves/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "game/drawings",
+          "pattern": "*.png",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "WaniGame.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "game/saves/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "game/drawings",
+          "pattern": "*.png",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "I Wani Hug that Gator!",
+    "WaniGame",
+    "WaniGame.app",
+    "WaniGame.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1895350/82728d47ddb5563e24b87152a450d5b12e289203.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895350/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895350/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895350/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895350/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895350/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895350/ss_d085932502281eaf1ba26edcc80dfb2471f08513.1920x1080.jpg?t=1779245125"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895350/ss_9ef33fe68eb925431162e65d685cca716011c42b.1920x1080.jpg?t=1779245125"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895350/ss_80ea0eda0fab932a0a08bd263a4e26e23dcb384f.1920x1080.jpg?t=1779245125"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895350/ss_35e221ffb111464bf6cf067276531bbf380cf88b.1920x1080.jpg?t=1779245125"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895350/ss_bf16d92f1d7a70b6354c743e5b49bf86ae510c03.1920x1080.jpg?t=1779245125"
+    }
+  ],
+  "videos": [
+    {
+      "name": "I Wani Hug That Gator Release Date Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256999808/movie.293x165.jpg?t=1707430248",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1895350/660253/5b7a6394508aa2feddb2d91799944fa6fa2aea1a/1750740278/dash_h264.mpd?t=1707430248"
+    },
+    {
+      "name": "I Wani Hug That Gator Demo Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256947244/movie.293x165.jpg?t=1684249320",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1895350/568456/d174e89bef580ba5557f1f0c4a86e179202c5824/1750740277/dash_h264.mpd?t=1684249320"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1895350,
+    "store_url": "https://store.steampowered.com/app/1895350/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Visual Novel",
+      "Story Rich",
+      "Romance",
+      "Choose Your Own Adventure",
+      "Choices Matter",
+      "Dating Sim",
+      "Interactive Fiction",
+      "Multiple Endings",
+      "Dinosaurs",
+      "Casual",
+      "Funny",
+      "Cute",
+      "Comedy",
+      "Text-Based",
+      "2D",
+      "Cartoony",
+      "Indie",
+      "Hand-drawn",
+      "Colorful",
+      "Sexual Content"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 5527,
+    "review_negative": 102,
+    "review_total": 5629,
+    "review_positive_percent": 98.19
+  }
+}

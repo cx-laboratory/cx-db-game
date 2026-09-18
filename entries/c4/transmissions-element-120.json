@@ -1,0 +1,179 @@
+{
+  "key": "transmissions-element-120",
+  "name": "Transmissions: Element 120",
+  "description": "TE120 is a short single player experience set in the Half-Life Universe featuring a gravity defying weapon that allows you to jump buildings and sustain large falls. The story takes place at a mysterious date &amp; location. Where are you? Why have you been sent?",
+  "developers": [
+    "Shokunin"
+  ],
+  "publishers": [
+    "Self Published"
+  ],
+  "release_date": "2016-06-16",
+  "website": "http://www.transmissions-element120.com",
+  "tags": [
+    "action",
+    "free-to-play",
+    "indie",
+    "shooter",
+    "zombies",
+    "horror",
+    "first-person",
+    "multiplayer",
+    "fps",
+    "singleplayer",
+    "mod",
+    "atmospheric",
+    "survival",
+    "sci-fi",
+    "short",
+    "puzzle",
+    "adventure",
+    "open-world",
+    "co-op",
+    "walking-simulator"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "russian"
+  ],
+  "name_localized": {
+    "schinese": "传送：元素120"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "hl2.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "te120/save",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "hl2.sh",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "te120/save",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Transmissions: Element 120",
+    "hl2",
+    "hl2.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/365300/f16fcc440fe1b6435d310b5786fe94f8c4df86f1.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365300/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365300/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365300/capsule_231x87.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365300/ss_baf6eb668e55791572d8257939235a93f7f0aaed.1920x1080.jpg?t=1467019620"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365300/ss_4cccbb34245e1d5201982ce0a53ce46f3545a0d7.1920x1080.jpg?t=1467019620"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365300/ss_e6bb092a80339523acaa3f71aa74a050a4070068.1920x1080.jpg?t=1467019620"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365300/ss_7e616f2be6fad1777ad896262a87653667f7a95e.1920x1080.jpg?t=1467019620"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365300/ss_599db4aad8b0bcb1049f74fdbdd090bfac3a2127.1920x1080.jpg?t=1467019620"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365300/ss_0cacd7f4970aeb4989dc09b855de9fc860a19a96.1920x1080.jpg?t=1467019620"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365300/ss_ea463525adc4f904ba588111596d72dc6715f048.1920x1080.jpg?t=1467019620"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2038646/movie.293x165.jpg?t=1466082040",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/365300/34516/885f5d809451dadace245f5c3d04feffe0c32424/1751277395/dash_h264.mpd?t=1466082040"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 365300,
+    "store_url": "https://store.steampowered.com/app/365300/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Captions available",
+      "VR Support",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Action",
+      "Shooter",
+      "Zombies",
+      "Horror",
+      "First-Person",
+      "Multiplayer",
+      "FPS",
+      "Singleplayer",
+      "Mod",
+      "Atmospheric",
+      "Indie",
+      "Survival",
+      "Sci-fi",
+      "Short",
+      "Puzzle",
+      "Adventure",
+      "Open World",
+      "Co-op",
+      "Walking Simulator"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 9386,
+    "review_negative": 544,
+    "review_total": 9930,
+    "review_positive_percent": 94.52
+  }
+}

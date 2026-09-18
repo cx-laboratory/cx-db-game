@@ -1,0 +1,227 @@
+{
+  "key": "911-operator",
+  "name": "911 Operator",
+  "description": "Game about the difficult work of people that manage emergency lines and services. Answer incoming calls and react properly - give first aid instructions, advise, dispatch correct number of firemen / police / ambulances, or sometimes - just ignore the call. Play on ANY CITY in the world!",
+  "developers": [
+    "Jutsu Games"
+  ],
+  "publishers": [
+    "Games Operators"
+  ],
+  "release_date": "2017-02-24",
+  "website": "http://www.jutsugames.com/911",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "strategy",
+    "management",
+    "singleplayer",
+    "realistic",
+    "choices-matter",
+    "crime",
+    "real-time-tactics",
+    "education",
+    "tactical",
+    "2d",
+    "addictive",
+    "atmospheric",
+    "modern",
+    "minimalist",
+    "moddable",
+    "multiplayer",
+    "dark-humor"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Polish",
+    "Simplified Chinese",
+    "Russian",
+    "Japanese",
+    "Czech",
+    "Korean",
+    "Portuguese - Brazil",
+    "Turkish*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "911.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "CallEditor.exe",
+          "description": "Edit Calls!",
+          "type": "editor"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "911 Operator Mac.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "911 Operator",
+    "911",
+    "CallEditor",
+    "911 Operator Mac.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/503560/823158b3e81e69f1fb9c355c86f05655575e6317.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/503560/2e5e6b78b36586e2a8fc7e0fa3bf80dc5a94a6fb/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/503560/d97a463a2a380d000f5a2bf8050ee4a3e081b36a/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/503560/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/503560/40eee3c378a99711503e58cbd358af9685d21d82/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/503560/29f16252ab7f68ade9d1d9e874b750a7cb747b9d/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/503560/ss_560e7a60bda096171f7c4ceaef1491a3cf68ac6c.1920x1080.jpg?t=1779807539"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/503560/ss_61cf91a927908f98a5d668522e20cfa48d9add0a.1920x1080.jpg?t=1779807539"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/503560/ss_3d972cb7edaeee5d8e42af015200f3e7281b422f.1920x1080.jpg?t=1779807539"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/503560/ss_9291d49632e20821f498d6ff2ad99b7475c5b9c3.1920x1080.jpg?t=1779807539"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/503560/ss_1a79b3f48def15981de37b72de46272bea223a29.1920x1080.jpg?t=1779807539"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/503560/ss_ab719cb3e70e75fb067c7bf30f85999441b12461.1920x1080.jpg?t=1779807539"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/503560/ss_1d7c073a4f751dfe4a2b10eac83f9012857ef505.1920x1080.jpg?t=1779807539"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/503560/ss_ef7d1d17bedbe84a21609b7f7dc0fe6f761773c8.1920x1080.jpg?t=1779807539"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/503560/ss_d2f13a098fe1c25cd2fe096b6fd3b6bf2601f65c.1920x1080.jpg?t=1779807539"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/503560/ss_339eeeada1e77960f51bc37d990952aa7759bbfd.1920x1080.jpg?t=1779807539"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/503560/ss_4c0666d991618f3c086a3234ca9faf80eded8a6b.1920x1080.jpg?t=1779807539"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/503560/ss_ec620eea4998f7ad180bf5b762ea606830c1af2f.1920x1080.jpg?t=1779807539"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/503560/ss_a7cd4f41f898090737134866e4c79aa64aa5ff0e.1920x1080.jpg?t=1779807539"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/503560/ss_652505e42da06788d5f530d01fed8076d9eeedcb.1920x1080.jpg?t=1779807539"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/503560/ss_77727bdd6dde9a10af9e70f17611e4802c9e6b4c.1920x1080.jpg?t=1779807539"
+    }
+  ],
+  "videos": [
+    {
+      "name": "911 Operator Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256679959/movie.293x165.jpg?t=1684158459",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/503560/91312/0ba1711043b8c83af23ad706f688e5993bb4f469/1750538862/dash_h264.mpd?t=1684158459"
+    },
+    {
+      "name": "911 Operator Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256679947/movie.293x165.jpg?t=1684158463",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/503560/91287/416481621d59d1c5f1b824837d8905c118eecdf6/1750538860/dash_h264.mpd?t=1684158463"
+    },
+    {
+      "name": "911 Operator meets Counter Terrorist Agency",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256769031/movie.293x165.jpg?t=1684158467",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/503560/255964/0686f2ee2cd1b16c61bdadca428c6f2d56c9b3ab/1750538862/dash_h264.mpd?t=1684158467"
+    },
+    {
+      "name": "911 Operator - Earthquake Event",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256679730/movie.293x165.jpg?t=1684158470",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/503560/90809/eb2f5d89316c2aafe8f7b28196ca42ec1b5e621a/1750538789/dash_h264.mpd?t=1684158470"
+    },
+    {
+      "name": "911 Operator - Bomber Event",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256679736/movie.293x165.jpg?t=1684158475",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/503560/90820/52c5941cadffac65133f4224f9f800ca8e7a2be2/1750538829/dash_h264.mpd?t=1684158475"
+    }
+  ],
+  "metacritic": {
+    "score": 68,
+    "url": "https://www.metacritic.com/game/pc/911-operator?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 503560,
+    "store_url": "https://store.steampowered.com/app/503560/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Stats",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Strategy",
+      "Management",
+      "Singleplayer",
+      "Indie",
+      "Casual",
+      "Realistic",
+      "Choices Matter",
+      "Crime",
+      "Real Time Tactics",
+      "Education",
+      "Tactical",
+      "2D",
+      "Addictive",
+      "Atmospheric",
+      "Modern",
+      "Minimalist",
+      "Moddable",
+      "Multiplayer",
+      "Dark Humor"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 17365,
+    "review_negative": 2246,
+    "review_total": 19611,
+    "review_positive_percent": 88.55
+  }
+}

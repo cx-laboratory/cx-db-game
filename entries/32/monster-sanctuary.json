@@ -1,0 +1,284 @@
+{
+  "key": "monster-sanctuary",
+  "name": "Monster Sanctuary",
+  "description": "Monster taming meets metroidvania. Collect, train and battle monsters in a lovely side-scroller pixel world.",
+  "developers": [
+    "moi rai games"
+  ],
+  "publishers": [
+    "Team17"
+  ],
+  "release_date": "2020-12-08",
+  "website": "https://monster-sanctuary.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "creature-collector",
+    "pixel-graphics",
+    "metroidvania",
+    "turn-based-tactics",
+    "singleplayer",
+    "turn-based-combat",
+    "exploration",
+    "fantasy",
+    "jrpg",
+    "2d",
+    "difficult",
+    "story-rich",
+    "turn-based",
+    "platformer",
+    "side-scroller"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "怪物圣所"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Monster Sanctuary.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Monster Sanctuary/{64BitSteamID}",
+          "pattern": "*.*",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Monster Sanctuary.app\\Contents\\MacOS\\Monster Sanctuary",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Monster Sanctuary/{64BitSteamID}",
+          "pattern": "*.*",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Monster Sanctuary.x86_64",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Monster Sanctuary.x86",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Monster Sanctuary/{64BitSteamID}",
+          "pattern": "*.*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Monster Sanctuary",
+    "Monster Sanctuary.app\\Contents\\MacOS\\Monster Sanctuary",
+    "Monster Sanctuary.x86_64",
+    "Monster Sanctuary.x86",
+    "怪物圣所"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/814370/196ebad1786ea378b1cd72a5c40064df802d6577.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814370/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814370/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814370/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814370/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814370/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814370/ss_e3ab1f39569cd006a30b6b2d42167fbe82fe1366.1920x1080.jpg?t=1780480350"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814370/ss_88390afe7108c67c2693c0cf11fd601d1e619c46.1920x1080.jpg?t=1780480350"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814370/ss_4e67fbd67b2de4618855521d5e92a04abe3e5587.1920x1080.jpg?t=1780480350"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814370/ss_d50027f09c2187eff9f8876b16b0a6a0c6d340eb.1920x1080.jpg?t=1780480350"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814370/ss_88f4d38f5dac9a5cdb1cdeb9038932d68d7eb897.1920x1080.jpg?t=1780480350"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814370/ss_f19282717bdaa4311989e361bf070b485a5f999b.1920x1080.jpg?t=1780480350"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814370/ss_e7196c269f3857f0723270a792d8c3ded55437cc.1920x1080.jpg?t=1780480350"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814370/ss_4b6494c20a90285f01ce5b96160365b83f728b4c.1920x1080.jpg?t=1780480350"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814370/ss_83e803f80209b1b15c8803c3ae93d4632f74f9b4.1920x1080.jpg?t=1780480350"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814370/ss_ee2879f5082ae400bff944d8a721628ad2a89906.1920x1080.jpg?t=1780480350"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814370/ss_49146cd1cbb752cc72a26c826980135f2105bf23.1920x1080.jpg?t=1780480350"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814370/ss_68daad4c5824ec983811bf06bc8fe147a5f2ce83.1920x1080.jpg?t=1780480350"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814370/ss_e4a2a937c728a43cbda82a23c327fc3cf747cf26.1920x1080.jpg?t=1780480350"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814370/ss_b26c24a4b0a4442157f5843c0e817423712ab43c.1920x1080.jpg?t=1780480350"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814370/ss_eac431c0a4ecf64a8cc9a0a16f201cca8e918791.1920x1080.jpg?t=1780480350"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814370/ss_707d1ee67f20ad3ac4ab9cdcffdb0fe3274b77bf.1920x1080.jpg?t=1780480350"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814370/ss_05b93db200289a8d69c6885c8972e6992d4e7082.1920x1080.jpg?t=1780480350"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814370/ss_7e8b0521f6e9288b0d4b7425808b9b9e8cf0ce37.1920x1080.jpg?t=1780480350"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814370/ss_86c9761cb4ef2feae113895bfd459541e09580e7.1920x1080.jpg?t=1780480350"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256812806/movie.293x165.jpg?t=1607436210",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/814370/332256/8d29f267964d6984ad87b83961e45ed545fc14dd/1750586300/dash_h264.mpd?t=1607436210"
+    },
+    {
+      "name": "Relics of Chaos update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256953022/movie.293x165.jpg?t=1686822305",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/814370/578450/f11c007cff7e2fbd4859768fdf4f29a3455fc5b3/1750586337/dash_h264.mpd?t=1686822305"
+    },
+    {
+      "name": "Forgotten World",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256894157/movie.293x165.jpg?t=1656583645",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/814370/475953/50dff9762b69754adc037d0c5a5ff56634fce14b/1750586326/dash_h264.mpd?t=1656583645"
+    },
+    {
+      "name": "Legendary Keeper Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256847431/movie.293x165.jpg?t=1629377456",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/814370/393958/7daa2d0a67ca13d0f38055625bd56e599d0ca875/1750586314/dash_h264.mpd?t=1629377456"
+    },
+    {
+      "name": "Date Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256805681/movie.293x165.jpg?t=1629377463",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/814370/320418/4a6305b7988e33f9dbc96d1f110c0177a1b257fa/1750586293/dash_h264.mpd?t=1629377463"
+    }
+  ],
+  "metacritic": {
+    "score": 81,
+    "url": "https://www.metacritic.com/game/pc/monster-sanctuary?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 814370,
+    "store_url": "https://store.steampowered.com/app/814370/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Gamepad Recommended",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Creature Collector",
+      "Pixel Graphics",
+      "Metroidvania",
+      "Turn-Based Tactics",
+      "Singleplayer",
+      "Turn-Based Combat",
+      "Exploration",
+      "Fantasy",
+      "Adventure",
+      "JRPG",
+      "RPG",
+      "2D",
+      "Strategy",
+      "PvP",
+      "Difficult",
+      "Indie",
+      "Story Rich",
+      "Turn-Based",
+      "Platformer",
+      "Side Scroller"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 11441,
+    "review_negative": 1096,
+    "review_total": 12537,
+    "review_positive_percent": 91.26
+  }
+}

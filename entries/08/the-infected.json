@@ -1,0 +1,196 @@
+{
+  "key": "the-infected",
+  "name": "The Infected",
+  "description": "The Infected is a sandbox, first-person, open-world survival game. Build bases, craft, farm, hunt, and survive changing seasons. Choose whether to face the hybrid “Vambies” or turn them off for a pure survival experience.",
+  "developers": [
+    "DigX Studios"
+  ],
+  "publishers": [
+    "DigX Studios"
+  ],
+  "release_date": "2020-08-07",
+  "website": "https://www.facebook.com/PlayTheInfected/",
+  "tags": [
+    "action",
+    "casual",
+    "indie",
+    "simulation",
+    "early-access",
+    "vampires",
+    "singleplayer",
+    "open-world-survival-craft",
+    "base-building",
+    "open-world",
+    "survival",
+    "crafting",
+    "building",
+    "realistic",
+    "exploration",
+    "sandbox",
+    "horror",
+    "3d",
+    "first-person",
+    "action-adventure",
+    "zombies"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Finnish",
+    "Korean",
+    "Portuguese - Brazil",
+    "Simplified Chinese",
+    "Swedish",
+    "Turkish",
+    "Russian",
+    "Czech",
+    "Greek",
+    "Japanese",
+    "Polish*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "TheInfected.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "TheInfected\\Saves",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The Infected",
+    "TheInfected"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1360000/bf3f527963bc2b7c7d44381aa29252fc7b8bff74.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1360000/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1360000/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1360000/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1360000/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1360000/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1360000/ss_28f9697d95ba43f1db9026ce76108fa4fdf7df1a.1920x1080.jpg?t=1758818264"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1360000/ss_34321bc80e6a0a140f89d6914634b959aa6b8b2f.1920x1080.jpg?t=1758818264"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1360000/ss_a746e0db4cc5be763629e01415088286f6b0b899.1920x1080.jpg?t=1758818264"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1360000/ss_e7e1bc0a0a2621ba9fccf7774525cbda7d419234.1920x1080.jpg?t=1758818264"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1360000/ss_65b0c8225af420e12aec8ca7e6a0127baca9d4a5.1920x1080.jpg?t=1758818264"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1360000/ss_f26a92dfeefaee36bff1e051ea6f9b88e6821958.1920x1080.jpg?t=1758818264"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1360000/ss_9eb637efa927ec3290cf6156761c63a76f3a49ff.1920x1080.jpg?t=1758818264"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1360000/ss_8031163a9f488eecee3dd1902f61bf689eb148e6.1920x1080.jpg?t=1758818264"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1360000/ss_6f45eabb859ebbe58db1d1c5961d5aedb7f63105.1920x1080.jpg?t=1758818264"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1360000/ss_3f116d1152124fa6c341f0c037325da23eff7642.1920x1080.jpg?t=1758818264"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1360000/ss_69346aff3c0fb5a6ce68aa9e3896272a8f08251a.1920x1080.jpg?t=1758818264"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1360000/ss_7ad3fad6694b991f983a2edac73d27b9b76ac1c8.1920x1080.jpg?t=1758818264"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1360000/ss_d8143134aa50cd8a00c3c5f6744d36aea0fa2905.1920x1080.jpg?t=1758818264"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1360000/ss_d4f63ba395f819c0e806209282b613e03832e559.1920x1080.jpg?t=1758818264"
+    }
+  ],
+  "videos": [
+    {
+      "name": "T1C",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256945473/movie.293x165.jpg?t=1683318550",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1360000/565168/bf29fa4c3da02f3630f346bdf465a5d85dc10695/1750677566/dash_h264.mpd?t=1683318550"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1360000,
+    "store_url": "https://store.steampowered.com/app/1360000/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Vampires",
+      "Singleplayer",
+      "Open World Survival Craft",
+      "Base Building",
+      "Open World",
+      "Early Access",
+      "Survival",
+      "Crafting",
+      "Action",
+      "Building",
+      "Realistic",
+      "Exploration",
+      "Sandbox",
+      "Simulation",
+      "Horror",
+      "3D",
+      "Survival Horror",
+      "First-Person",
+      "Action-Adventure",
+      "Zombies"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 5869,
+    "review_negative": 1088,
+    "review_total": 6957,
+    "review_positive_percent": 84.36
+  }
+}

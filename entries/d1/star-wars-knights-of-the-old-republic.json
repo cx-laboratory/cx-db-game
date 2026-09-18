@@ -1,0 +1,176 @@
+{
+  "key": "star-wars-knights-of-the-old-republic",
+  "name": "STAR WARS™ Knights of the Old Republic™",
+  "description": "It is four thousand years before the Galactic Empire and hundreds of Jedi Knights have fallen in battle against the ruthless Sith. You are the last hope of the Jedi Order. Can you master the awesome power of the Force on your quest to save the Republic? Or will you fall to the lure of the dark side?",
+  "developers": [
+    "BioWare"
+  ],
+  "publishers": [
+    "LucasArts"
+  ],
+  "release_date": "2009-09-05",
+  "website": "http://www.bioware.com/",
+  "tags": [
+    "adventure",
+    "rpg",
+    "story-rich",
+    "sci-fi",
+    "singleplayer",
+    "classic",
+    "party-based-rpg",
+    "real-time-with-pause",
+    "choices-matter",
+    "third-person",
+    "action",
+    "space",
+    "exploration",
+    "fantasy",
+    "atmospheric",
+    "turn-based",
+    "great-soundtrack",
+    "moddable",
+    "female-protagonist",
+    "open-world"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English*",
+    "German*",
+    "Spanish - Spain",
+    "Italian",
+    "French**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "swkotor.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Knights of the Old Republic.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "STAR WARS™ Knights of the Old Republic™",
+    "swkotor",
+    "Knights of the Old Republic.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/32370/018b6650c8de8c9c36d957cf6f8bc11d0c21d083.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/32370/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/32370/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/32370/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/32370/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/32370/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/32370/ss_ab015a5ebe59f92fc333ad9316a3c2d5cf2f19d9.1920x1080.jpg?t=1681144833"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/32370/ss_14ccffa357661c7666076d9a1b856e145574e236.1920x1080.jpg?t=1681144833"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/32370/ss_41e5bed6736c83fe3ebd72b163f10102b24a1016.1920x1080.jpg?t=1681144833"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/32370/ss_c8060a76f29d0221dd87f1e89558ff359b7b89e6.1920x1080.jpg?t=1681144833"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/32370/ss_a54ab126bac19558cf077a2b131da7773f952c0f.1920x1080.jpg?t=1681144833"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/32370/ss_5bed545299fc24b1457356cee18318f3456a5d69.1920x1080.jpg?t=1681144833"
+    }
+  ],
+  "videos": [
+    {
+      "name": "KOTOR Opening Crawl",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256668465/movie.293x165.jpg?t=1470704824",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/32370/67706/67e888c01cfec7cd9a28aa4658f9cb16dee9a4fd/1750485028/dash_h264.mpd?t=1470704824"
+    },
+    {
+      "name": "KOTOR Gameplay",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256671298/movie.293x165.jpg?t=1474662078",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/32370/73888/bd3b0a366679a88a1b3d2f39a5e9f72bd3f9f824/1750485031/dash_h264.mpd?t=1474662078"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 32370,
+    "store_url": "https://store.steampowered.com/app/32370/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "RPG",
+      "Story Rich",
+      "Sci-fi",
+      "Singleplayer",
+      "Classic",
+      "Adventure",
+      "Party-Based RPG",
+      "Real-Time with Pause",
+      "Choices Matter",
+      "Third Person",
+      "Action",
+      "Space",
+      "Exploration",
+      "Fantasy",
+      "Atmospheric",
+      "Turn-Based",
+      "Great Soundtrack",
+      "Moddable",
+      "Female Protagonist",
+      "Open World"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 30696,
+    "review_negative": 3002,
+    "review_total": 33698,
+    "review_positive_percent": 91.09
+  }
+}

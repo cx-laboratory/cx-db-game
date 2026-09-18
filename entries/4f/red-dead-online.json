@@ -1,0 +1,123 @@
+{
+  "key": "red-dead-online",
+  "name": "Red Dead Online",
+  "description": "Step into the vibrant, ever-evolving world of Red Dead Online and experience life in frontier America. Chase down bounties, battle outlaw gangs and other players, hunt, fish and trade, search for exotic treasures, run Moonshine, and much more to discover in a world of astounding depth and detail.",
+  "developers": [
+    "Rockstar Games"
+  ],
+  "publishers": [
+    "Rockstar Games"
+  ],
+  "release_date": "2020-12-05",
+  "website": "https://www.rockstargames.com/reddeadredemption2/",
+  "tags": [
+    "action",
+    "adventure",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Russian",
+    "Simplified Chinese",
+    "Spanish - Latin America",
+    "Traditional Chinese",
+    "Portuguese - Brazil*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "PlayRDR2.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Red Dead Online",
+    "PlayRDR2"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1404210/996e1730f1e06a557ce986f17b756823c402702d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404210/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404210/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404210/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404210/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404210/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404210/ss_d9df4417af3fb8689293dcfe984070df4800215f.1920x1080.jpg?t=1759502979"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404210/ss_11910cbe7b91268b17351baf2720af4f39395c08.1920x1080.jpg?t=1759502979"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404210/ss_f84914f1d33becb92037057e70f9699dda5c74e4.1920x1080.jpg?t=1759502979"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404210/ss_5d630173ec9e53bd0c6740c6b34141718a2fd6a6.1920x1080.jpg?t=1759502979"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404210/ss_74cfc4262102e698745e7004fe7726f59f67c3eb.1920x1080.jpg?t=1759502979"
+    }
+  ],
+  "videos": [
+    {
+      "name": "RDO Multi Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256824193/movie.293x165.jpg?t=1614616044",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1404210/351043/08ed0d07ff08650bb202a9cc0fdf5c18f54c2508/1750685303/dash_h264.mpd?t=1614616044"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1404210,
+    "store_url": "https://store.steampowered.com/app/1404210/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "In-App Purchases",
+      "Partial Controller Support",
+      "Remote Play on Phone",
+      "Remote Play on Tablet"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 57443,
+    "review_negative": 11708,
+    "review_total": 69151,
+    "review_positive_percent": 83.07
+  }
+}

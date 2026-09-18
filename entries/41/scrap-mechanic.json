@@ -1,0 +1,185 @@
+{
+  "key": "scrap-mechanic",
+  "name": "Scrap Mechanic",
+  "description": "Enter the creative paradise of Scrap Mechanic! Build fantastic machines, go on adventures with your friends and defend against waves of evil Farmbots in this imaginative multiplayer survival sandbox. With Scrap Mechanic’s powerful creation tools you can engineer your own adventures!",
+  "developers": [
+    "Axolot Games"
+  ],
+  "publishers": [
+    "Axolot Games"
+  ],
+  "release_date": "2016-01-20",
+  "website": "http://www.scrapmechanic.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "simulation",
+    "early-access",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "building",
+    "sandbox",
+    "survival",
+    "open-world",
+    "physics",
+    "crafting",
+    "base-building",
+    "first-person",
+    "singleplayer",
+    "third-person",
+    "funny",
+    "moddable"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Polish",
+    "Portuguese - Brazil",
+    "Simplified Chinese",
+    "Japanese",
+    "Korean",
+    "Russian"
+  ],
+  "name_localized": {
+    "schinese": "废品机械师"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "./Release/ScrapMechanic.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Scrap Mechanic",
+    "./Release/ScrapMechanic"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/387990/a912301394e90691ef6a1598e971c9b47c1806b5.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/ss_55bea7e73e0e28b62377af9602cb4ce68c793068.1920x1080.jpg?t=1727183889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/ss_dcedeb1b457c68abb6f07fe112c73599e82ecd68.1920x1080.jpg?t=1727183889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/ss_da1a73da7f67636c423eebcafde65aa21ec28e7f.1920x1080.jpg?t=1727183889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/ss_5f290f0d17091d33e25bdc4d15d37ce5feb0f3f6.1920x1080.jpg?t=1727183889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/ss_563a61bc3ea7695a042eccf63bbcc738966f47a5.1920x1080.jpg?t=1727183889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/ss_cc2c94bb34b2541b3189c84d38a6237e1394e107.1920x1080.jpg?t=1727183889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/ss_e4c21348fd565fe1de580a7f5213695f6f112386.1920x1080.jpg?t=1727183889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/ss_8f0679852d926688a900222431ab89235986ef5c.1920x1080.jpg?t=1727183889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/ss_e2039add5d6c5db4459d968848b87d3e768edfaf.1920x1080.jpg?t=1727183889"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Scrap Mechanic - Survival Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256784649/movie.293x165.jpg?t=1588870791",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/387990/284112/59dc5cf2539f01899898e7275904dfce5980fc65/1750523356/dash_h264.mpd?t=1588870791"
+    },
+    {
+      "name": "Scrap Mechanic - Creative Mode Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256659038/movie.293x165.jpg?t=1453259285",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/387990/48543/7553fb8ca05289f0882f01415a47b2d0fffeb6b4/1750523325/dash_h264.mpd?t=1453259285"
+    },
+    {
+      "name": "Scrap Mechanic - Challenge Mode Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256739107/movie.293x165.jpg?t=1545414756",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/387990/202077/1d1534ffdc4635dc8c6070d790a45a7f428d1491/1750523354/dash_h264.mpd?t=1545414756"
+    },
+    {
+      "name": "Introducing the Controller",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256659047/movie.293x165.jpg?t=1452269548",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/387990/48552/84d83aa21fb3586e82e83b00686ee45ff5237248/1750523341/dash_h264.mpd?t=1452269548"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 387990,
+    "store_url": "https://store.steampowered.com/app/387990/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Building",
+      "Sandbox",
+      "Survival",
+      "Multiplayer",
+      "Open World",
+      "Physics",
+      "Crafting",
+      "Base Building",
+      "Co-op",
+      "Adventure",
+      "First-Person",
+      "Singleplayer",
+      "Third Person",
+      "Funny",
+      "Simulation",
+      "Early Access",
+      "Action",
+      "Indie",
+      "Moddable",
+      "Online Co-Op"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 108284,
+    "review_negative": 9602,
+    "review_total": 117886,
+    "review_positive_percent": 91.85
+  }
+}

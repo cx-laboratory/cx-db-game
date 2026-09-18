@@ -1,0 +1,164 @@
+{
+  "key": "mabinogi",
+  "name": "Mabinogi",
+  "description": "Embark on amazing adventures, build lasting friendships or even find romance in this unique social game, where a welcoming community with thousands of devoted players await! Whoever you are, or whatever your heart’s desire, come express it in Mabinogi and start living your fantasy life!",
+  "developers": [
+    "NEXON Korea Corporation"
+  ],
+  "publishers": [
+    "Nexon America Inc."
+  ],
+  "release_date": "2012-12-07",
+  "website": "https://www.nexon.com/mabinogi/",
+  "tags": [
+    "action",
+    "adventure",
+    "casual",
+    "massively-multiplayer",
+    "rpg",
+    "simulation",
+    "free-to-play",
+    "multiplayer",
+    "co-op",
+    "anime",
+    "mmorpg",
+    "open-world",
+    "fantasy",
+    "character-customization",
+    "cute",
+    "sandbox",
+    "action-rpg",
+    "jrpg",
+    "great-soundtrack",
+    "story-rich",
+    "life-sim"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "nxsteam\\nxsteam.exe",
+          "description": "Launch with Console",
+          "type": "default"
+        },
+        {
+          "executable": "nxsteam\\nxsteam.exe",
+          "description": "Beta",
+          "type": "option1"
+        },
+        {
+          "executable": "nxsteam\\nxsteam.exe",
+          "description": "PTS test",
+          "type": "option1"
+        },
+        {
+          "executable": "nxsteam\\nxsteam.exe",
+          "description": "pts test test",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Mabinogi",
+    "nxsteam\\nxsteam"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/212200/3c5bb76a73fcaa61fa2407134cca04f3d60574fa.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212200/b56631ff75c1816bd38bc12d05660a1f9e408ccf/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212200/035e3f24cf7e963600b9ea08c2ed7d6d0c52158d/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212200/fcd02adbc0c2c05333bda1f71d33fc78ebdcf980/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212200/9fd086577871c30ef06fa1bdf59f95d55be6a24a/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212200/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212200/ss_b8dcc95d65310fc846cea28c35379d6fd70cca29.1920x1080.jpg?t=1780528394"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212200/ss_af541535c6c0a5e10eff7d2b3675b7b1738474d7.1920x1080.jpg?t=1780528394"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212200/ss_4f4f7da45eaaf47eb2ec09681bcf9a8aac1493f3.1920x1080.jpg?t=1780528394"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212200/ss_0dd074e98abcc854c821a226a695a6ae0229eabb.1920x1080.jpg?t=1780528394"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212200/ss_ba5fd3b5607b71030c61b8c2bf03c717c5d43fcd.1920x1080.jpg?t=1780528394"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212200/ss_5671a1ea4cac8ce08a966ee282fcd2c7cf4df6e6.1920x1080.jpg?t=1780528394"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Official Mabinogi: Fantasy Life Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256654944/50089a3400ccdce97553085551aa14130544b90c/movie_600x337.jpg?t=1753922650",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/212200/1505403723/36bf4a1dc942e9a2fdc93701ef9611249369423c/1753919922/dash_h264.mpd?t=1753922650"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 212200,
+    "store_url": "https://store.steampowered.com/app/212200/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Massively Multiplayer",
+      "RPG",
+      "Simulation",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "MMO",
+      "Co-op",
+      "Steam Trading Cards"
+    ],
+    "tags": [
+      "Free to Play",
+      "Massively Multiplayer",
+      "Anime",
+      "RPG",
+      "MMORPG",
+      "Casual",
+      "Action",
+      "Simulation",
+      "Adventure",
+      "Open World",
+      "Fantasy",
+      "Character Customization",
+      "Multiplayer",
+      "Cute",
+      "Sandbox",
+      "Action RPG",
+      "JRPG",
+      "Great Soundtrack",
+      "Story Rich",
+      "Life Sim"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 3088,
+    "review_negative": 1083,
+    "review_total": 4171,
+    "review_positive_percent": 74.04
+  }
+}

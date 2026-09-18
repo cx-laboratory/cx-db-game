@@ -1,0 +1,447 @@
+{
+  "key": "xcom-2",
+  "name": "XCOM 2",
+  "description": "XCOM 2 is the sequel to XCOM: Enemy Unknown, the 2012 award-winning strategy game of the year. Earth has changed and is now under alien rule. Facing impossible odds you must rebuild XCOM, and ignite a global resistance to reclaim our world and save humanity.",
+  "developers": [
+    "Firaxis Games"
+  ],
+  "publishers": [
+    "2K"
+  ],
+  "release_date": "2016-02-05",
+  "website": "http://www.xcom.com",
+  "tags": [
+    "strategy",
+    "tactical",
+    "turn-based-combat",
+    "character-customization",
+    "rpg",
+    "singleplayer",
+    "turn-based-tactics",
+    "war",
+    "sci-fi",
+    "military",
+    "pve",
+    "post-apocalyptic",
+    "isometric",
+    "perma-death",
+    "turn-based-strategy",
+    "turn-based",
+    "alternate-history",
+    "grid-based-movement",
+    "top-down",
+    "logic"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "binaries\\Win64\\launcher\\ModLauncherWPF.exe",
+          "description": "2K Marketing",
+          "type": "none"
+        },
+        {
+          "executable": "binaries\\Win64\\launcher\\ModLauncherWPF.exe",
+          "description": "Lazarus Debug",
+          "type": "none"
+        },
+        {
+          "executable": "binaries\\Win64\\XCom2.exe",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "binaries\\Win64\\launcher\\ModLauncherWPF.exe",
+          "description": "Oz Debug",
+          "type": "none"
+        },
+        {
+          "executable": "binaries\\Win64\\launcher\\ModLauncherWPF.exe",
+          "description": "Oz Debug",
+          "type": "none"
+        },
+        {
+          "executable": "binaries\\Win64\\launcher\\ModLauncherWPF.exe",
+          "description": "Oz Debug",
+          "type": "none"
+        },
+        {
+          "executable": "binaries\\Win64\\launcher\\ModLauncherWPF.exe",
+          "description": "Debug",
+          "type": "none"
+        },
+        {
+          "executable": "binaries\\Win64\\launcher\\ModLauncherWPF.exe",
+          "description": "Oz Review",
+          "type": "none"
+        },
+        {
+          "executable": "binaries\\Win64\\launcher\\ModLauncherWPF.exe",
+          "description": "Oz Review",
+          "type": "none"
+        },
+        {
+          "executable": "binaries\\Win64\\launcher\\ModLauncherWPF.exe",
+          "description": "Oz Review",
+          "type": "none"
+        },
+        {
+          "executable": "binaries\\Win64\\launcher\\ModLauncherWPF.exe",
+          "description": "Oz Review",
+          "type": "none"
+        },
+        {
+          "executable": "binaries\\Win64\\launcher\\ModLauncherWPF.exe",
+          "description": "Oz Debug",
+          "type": "none"
+        },
+        {
+          "executable": "Ozzy\\Binaries\\Win64\\Launcher\\ModLauncherWPF.exe",
+          "description": "Oz Debug",
+          "type": "none"
+        },
+        {
+          "executable": "Ozzy\\Binaries\\Win64\\Launcher\\ModLauncherWPF.exe",
+          "description": "Oz Review",
+          "type": "none"
+        },
+        {
+          "executable": "Ozzy\\Binaries\\Win64\\Launcher\\ModLauncherWPF.exe",
+          "description": "Oz Compat",
+          "type": "none"
+        },
+        {
+          "executable": "Ozzy\\Binaries\\Win64\\Launcher\\ModLauncherWPF.exe",
+          "description": "Oz Compat",
+          "type": "none"
+        },
+        {
+          "executable": "binaries\\Win64\\launcher\\ModLauncherWPF.exe",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "2KLauncher\\LauncherPatcher.exe",
+          "description": "XCOM 2 - 2K Launcher",
+          "type": "default"
+        },
+        {
+          "executable": "binaries\\Win64\\XCom2.exe",
+          "description": "XCOM 2 Base Game",
+          "type": "default"
+        },
+        {
+          "executable": "\\XCom2-WarOfTheChosen\\Binaries\\Win64\\XCom2.exe",
+          "description": "War of the Chosen",
+          "type": "option3"
+        },
+        {
+          "executable": "launcher\\launcher.exe",
+          "description": "Open New Mod Launcher",
+          "type": "default"
+        },
+        {
+          "executable": "binaries\\Win64\\launcher\\ModLauncherWPF.exe",
+          "description": "Open Original Mod Launcher",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "my games/XCOM2/XComGame/SaveData",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "my games/XCOM2 War of the Chosen/XComGame/SaveData",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "XCOM 2.app",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "binaries\\Win64\\launcher\\ModLauncherWPF.exe",
+          "description": "Oz Review",
+          "type": "none"
+        },
+        {
+          "executable": "binaries\\Win64\\launcher\\ModLauncherWPF.exe",
+          "description": "Oz Review",
+          "type": "none"
+        },
+        {
+          "executable": "binaries\\Win64\\launcher\\ModLauncherWPF.exe",
+          "description": "Oz Debug",
+          "type": "none"
+        },
+        {
+          "executable": "Ozzy\\Binaries\\Win64\\Launcher\\ModLauncherWPF.exe",
+          "description": "Oz Debug",
+          "type": "none"
+        },
+        {
+          "executable": "Ozzy\\Binaries\\Win64\\Launcher\\ModLauncherWPF.exe",
+          "description": "Oz Review",
+          "type": "none"
+        },
+        {
+          "executable": "XCOM 2 WotC.app",
+          "description": "XCOM 2: War of the Chosen",
+          "type": "none"
+        },
+        {
+          "executable": "XCOM 2 WotC.app",
+          "description": "XCOM 2: War of the Chosen",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "my games/XCOM2/XComGame/SaveData",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "my games/XCOM2 War of the Chosen/XComGame/SaveData",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "XCOM2.sh",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "binaries\\Win64\\launcher\\ModLauncherWPF.exe",
+          "description": "Oz Review",
+          "type": "none"
+        },
+        {
+          "executable": "binaries\\Win64\\launcher\\ModLauncherWPF.exe",
+          "description": "Oz Review",
+          "type": "none"
+        },
+        {
+          "executable": "binaries\\Win64\\launcher\\ModLauncherWPF.exe",
+          "description": "Oz Debug",
+          "type": "none"
+        },
+        {
+          "executable": "Ozzy\\Binaries\\Win64\\Launcher\\ModLauncherWPF.exe",
+          "description": "Oz Debug",
+          "type": "none"
+        },
+        {
+          "executable": "Ozzy\\Binaries\\Win64\\Launcher\\ModLauncherWPF.exe",
+          "description": "Oz Review",
+          "type": "none"
+        },
+        {
+          "executable": "XCOM2WotC/XCOM2WotC.sh",
+          "description": "XCOM 2: War of the Chosen",
+          "type": "none"
+        },
+        {
+          "executable": "XCOM2WotC/XCOM2WotC.sh",
+          "description": "XCOM 2: War of the Chosen",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "my games/XCOM2/XComGame/SaveData",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "my games/XCOM2 War of the Chosen/XComGame/SaveData",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "XCOM 2",
+    "binaries\\Win64\\launcher\\ModLauncherWPF",
+    "binaries\\Win64\\XCom2",
+    "Ozzy\\Binaries\\Win64\\Launcher\\ModLauncherWPF",
+    "2KLauncher\\LauncherPatcher",
+    "\\XCom2-WarOfTheChosen\\Binaries\\Win64\\XCom2",
+    "launcher\\launcher",
+    "XCOM 2.app",
+    "XCOM 2 WotC.app",
+    "XCOM2.sh",
+    "XCOM2WotC/XCOM2WotC.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/268500/f275aeb0b1b947262810569356a199848c643754.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/ss_a95cdbe487dbabf6621962fc92f438e26c5fdfd3.1920x1080.jpg?t=1772813016"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/ss_ca76303e136d2ea500b8e6546d4319502ae8862a.1920x1080.jpg?t=1772813016"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/ss_200cb06b3ff1b9af8d445d349391554ac48635b4.1920x1080.jpg?t=1772813016"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/ss_b2694a32e6211c47b886ee76eabdbcc41cf4b408.1920x1080.jpg?t=1772813016"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/ss_50b987ea0074e44de58a9b4df87efb529cc8f625.1920x1080.jpg?t=1772813016"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/ss_0c78d6e8493172f6d6276eb82dc76399159f2f11.1920x1080.jpg?t=1772813016"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/ss_375a36bca7fb6374e94078f17fc7c8104a4896eb.1920x1080.jpg?t=1772813016"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/ss_3aca7c3d18a0a99c49658fc939edd27235d17e5f.1920x1080.jpg?t=1772813016"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/ss_40f86a3cb9a959b4116de2b88f1a52dd8fb7c519.1920x1080.jpg?t=1772813016"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/ss_da11c0538636cf143a3fd60dc8824144f2ba3c02.1920x1080.jpg?t=1772813016"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/ss_c42d24a1bd8a9d9d50cbda9772ca3aae5348ce0e.1920x1080.jpg?t=1772813016"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/ss_ebf8ce7259f56e92cc5fdc75d9eeb2305521e8fb.1920x1080.jpg?t=1772813016"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/ss_5ef33ec3dbbc5dbe119e0881cfd57360ca3b67bc.1920x1080.jpg?t=1772813016"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/ss_0aeb69f3b0d79e0934ba99468294f7acaae23459.1920x1080.jpg?t=1772813016"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/ss_d7c7eee81e4f9de3deac5358a0d8766c11fa83b2.1920x1080.jpg?t=1772813016"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268500/ss_306d842978f1ee39fb21bec7998715820b821b5d.1920x1080.jpg?t=1772813016"
+    }
+  ],
+  "videos": [
+    {
+      "name": "XCOM 2 - Launch Trailer - ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256660485/movie.293x165.jpg?t=1454648692",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/268500/51671/7f347059cb4a0a9fa2d45369a8391397e51fad67/1750499227/dash_h264.mpd?t=1454648692"
+    },
+    {
+      "name": "XCOM 2: Retaliation - ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256658976/movie.293x165.jpg?t=1449857303",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/268500/48381/b67baf7771582d3e0e8cd4fe7410aad3caf5d3b3/1750499167/dash_h264.mpd?t=1449857303"
+    },
+    {
+      "name": "XCOM 2: Welcome to the Avenger Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256655819/movie.293x165.jpg?t=1449857366",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/268500/41497/41c88205655d337f0cd86cfec6a100bddd420b03/1750499162/dash_h264.mpd?t=1449857366"
+    },
+    {
+      "name": "XCOM 2 Announce ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2039862/movie.293x165.jpg?t=1447375820",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/268500/37105/7d7b9e7850763aa54e58e64b99ba147c6dfc6a2e/1750499155/dash_h264.mpd?t=1447375820"
+    }
+  ],
+  "metacritic": {
+    "score": 88,
+    "url": "https://www.metacritic.com/game/pc/xcom-2?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 268500,
+    "store_url": "https://store.steampowered.com/app/268500/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "Tactical",
+      "Turn-Based Combat",
+      "Character Customization",
+      "RPG",
+      "Singleplayer",
+      "Turn-Based Tactics",
+      "War",
+      "Sci-fi",
+      "Military",
+      "PvE",
+      "Post-apocalyptic",
+      "Isometric",
+      "Perma Death",
+      "Turn-Based Strategy",
+      "Turn-Based",
+      "Alternate History",
+      "Grid-Based Movement",
+      "Top-Down",
+      "Logic"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 91654,
+    "review_negative": 16687,
+    "review_total": 108341,
+    "review_positive_percent": 84.6
+  }
+}

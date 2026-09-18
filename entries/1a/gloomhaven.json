@@ -1,0 +1,238 @@
+{
+  "key": "gloomhaven",
+  "name": "Gloomhaven",
+  "description": "Lead your band of mercenaries in the land of Gloomhaven, work with unsavoury individuals, shape the fate of the region, fight your way through horrific places and get rich or die trying in this ruthless Tactical-RPG.",
+  "developers": [
+    "Flaming Fowl Studios"
+  ],
+  "publishers": [
+    "Twin Sails Interactive"
+  ],
+  "release_date": "2021-10-20",
+  "website": "http://www.Twin-Sails.com",
+  "tags": [
+    "adventure",
+    "rpg",
+    "strategy",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "difficult",
+    "dark-fantasy",
+    "turn-based-combat",
+    "tactical-rpg",
+    "turn-based-strategy",
+    "party-based-rpg",
+    "co-op-campaign",
+    "card-game",
+    "deckbuilding",
+    "board-game",
+    "3d",
+    "tactical",
+    "turn-based-tactics",
+    "turn-based",
+    "isometric",
+    "class-based"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Polish*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "GH.exe",
+          "description": "Play Gloomhaven",
+          "type": "none"
+        },
+        {
+          "executable": "GH.exe",
+          "description": "Force DirectX 12 (better performance on newer GFX cards)",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "FlamingFowlStudios/Gloomhaven/GloomSaves",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "FlamingFowlStudios/Gloomhaven/GloomSavesOpenBeta",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "GH_OSX.app",
+          "description": "Play Gloomhaven",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "FlamingFowlStudios/Gloomhaven/GloomSaves",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "FlamingFowlStudios/Gloomhaven/GloomSavesOpenBeta",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Gloomhaven",
+    "GH",
+    "GH_OSX.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/780290/2291d20d20db087c989341397181b511f0cb99e4.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/9ee373827c5426b8b765de12c656a3a2369bbfcc/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/d1d6193e986710aa983fe704da4a0e0bc1223ac8/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/98f855fabe71f7a3c247e093c02b6bec6854ef43/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/08d5ec8bb1eede3f06bc936da456c922811bd153/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/ss_c811e2c525fa0e69576fbc6ab9b7b2db39e3caf4.1920x1080.jpg?t=1780409484"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/ss_2acbbddbdda962a3707ba0824167e2ccacd3592c.1920x1080.jpg?t=1780409484"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/ss_dfffc6bfee943d74555ba4dcad8ea17a0d9cf8dc.1920x1080.jpg?t=1780409484"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/ss_0cafcca92e725cc2b82ca470a096e1ba60c52a2f.1920x1080.jpg?t=1780409484"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/ss_aec988faa612e5c5f598a398dc1fb16181ca2f00.1920x1080.jpg?t=1780409484"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/ss_91b128234b70882c966ad5766519cc88901e322c.1920x1080.jpg?t=1780409484"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/ss_fd2f341280b4bc91e5e52b7c5bf6d26383385027.1920x1080.jpg?t=1780409484"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/ss_b803413ae8a64b2f73afd0e1245bb653d840fe8d.1920x1080.jpg?t=1780409484"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/ss_d6c6382cbfb9b8df31d7e00d0a9333113991ca98.1920x1080.jpg?t=1780409484"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/ss_c58f176eb8c4a0b38c7da74912c3022ac22d1643.1920x1080.jpg?t=1780409484"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/ss_0163873c7cf514286564d845661d219f790a6552.1920x1080.jpg?t=1780409484"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/ss_4d7389ac088635cbbf92849e0d9ef65fe9e4b09a.1920x1080.jpg?t=1780409484"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/ss_3e2bd1a4d54b37a677239dd7012af8f95de9fba0.1920x1080.jpg?t=1780409484"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/ss_b3e1a186b38572628586eb694b08cbd67fee2b56.1920x1080.jpg?t=1780409484"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/ss_e3a12a3cf6421c4bcaeda65ba66987f63d20c30d.1920x1080.jpg?t=1780409484"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gloomhaven - Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256852431/movie.293x165.jpg?t=1632328187",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/780290/402875/364ecde83ad168a4e33e2f8f74ce65080e7aaaa6/1750583223/dash_h264.mpd?t=1632328187"
+    },
+    {
+      "name": "Gloomhaven - Accolade Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256860731/movie.293x165.jpg?t=1637161228",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/780290/417509/499b6b407aebbffcfc2c4358ab2fbe2a32df711b/1750583233/dash_h264.mpd?t=1637161228"
+    },
+    {
+      "name": "Gloomhaven - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256855762/movie.293x165.jpg?t=1634735297",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/780290/408884/7c2ce562846708b185adae199b86994bc04b1e77/1750583224/dash_h264.mpd?t=1634735297"
+    }
+  ],
+  "metacritic": {
+    "score": 82,
+    "url": "https://www.metacritic.com/game/pc/gloomhaven?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 780290,
+    "store_url": "https://store.steampowered.com/app/780290/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Difficult",
+      "Online Co-Op",
+      "Dark Fantasy",
+      "Turn-Based Combat",
+      "Tactical RPG",
+      "Turn-Based Strategy",
+      "Party-Based RPG",
+      "Co-op Campaign",
+      "Strategy",
+      "Card Game",
+      "Deckbuilding",
+      "Board Game",
+      "RPG",
+      "3D",
+      "Tactical",
+      "Turn-Based Tactics",
+      "Turn-Based",
+      "Isometric",
+      "Class-Based",
+      "Adventure"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 13130,
+    "review_negative": 2864,
+    "review_total": 15994,
+    "review_positive_percent": 82.09
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "key": "tainted-grail",
+  "name": "Tainted Grail",
+  "description": "A unique, infinitely replayable, story-driven hybrid between a deck-building Roguelike and an RPG game. Explore the ever-changing maps, fight with deadly enemies, and learn what happened to the cursed island of Avalon.",
+  "developers": [
+    "Questline"
+  ],
+  "publishers": [
+    "Awaken Realms"
+  ],
+  "release_date": "2021-05-27",
+  "website": "",
+  "tags": [
+    "action",
+    "indie",
+    "rpg",
+    "deckbuilding",
+    "card-game",
+    "dark-fantasy",
+    "roguelike",
+    "story-rich",
+    "turn-based",
+    "choices-matter",
+    "singleplayer",
+    "base-building",
+    "board-game",
+    "roguelite",
+    "crpg",
+    "replay-value",
+    "card-battler",
+    "turn-based-combat",
+    "isometric",
+    "survival"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "German",
+    "Polish",
+    "Russian",
+    "Simplified Chinese",
+    "Spanish - Latin America*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "Tainted Grail: Conquest (污痕圣杯)"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Tainted Grail.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Awaken Realms/Tainted Grail/{Steam3AccountID}/Saved",
+          "pattern": "*.data",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Tainted_Grail.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Awaken Realms/Tainted Grail/{Steam3AccountID}/Saved",
+          "pattern": "*.data",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Tainted Grail",
+    "Tainted_Grail.x86_64",
+    "Tainted Grail: Conquest (污痕圣杯)"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1199030/5ebc9f32b94fdeecdab38a934f5e1b4281cd5daa.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1199030/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1199030/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1199030/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1199030/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1199030/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1199030/ss_338a18da2f82060ab2e22adf11cfd0395209fb2a.1920x1080.jpg?t=1748103885"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1199030/ss_91b71f32034edac8913efddbc0b5728f213caf23.1920x1080.jpg?t=1748103885"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1199030/ss_c41122cf08b832301a904a0655e087f812b8e47b.1920x1080.jpg?t=1748103885"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1199030/ss_85393833dcb09e4fb9fa11562bc660b7be394c27.1920x1080.jpg?t=1748103885"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1199030/ss_f86e8905668e911a5bc1312cc2864c4031acd30f.1920x1080.jpg?t=1748103885"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1199030/ss_42d1a5c68c5764c1492f55a3c3ccc025661b6fc2.1920x1080.jpg?t=1748103885"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1199030/ss_e816f04bc57990f91d2c433a401cdd25a43e9500.1920x1080.jpg?t=1748103885"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1199030/ss_7aa123569ff0b3727ccc051819fbbfac10dacbc7.1920x1080.jpg?t=1748103885"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1199030/ss_941aafa3a8314bb7513c966fd7a6aaa1d39f16fc.1920x1080.jpg?t=1748103885"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256836307/movie.293x165.jpg?t=1622122769",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1199030/372689/6090753a5809b11d31699294046b8022e1f6a525/1751202856/dash_h264.mpd?t=1622122769"
+    },
+    {
+      "name": "Release Date Announcement",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256832685/movie.293x165.jpg?t=1619698662",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1199030/365918/18adce47c202763e017c96920b8b1045cf181b3a/1751202855/dash_h264.mpd?t=1619698662"
+    }
+  ],
+  "metacritic": {
+    "score": 82,
+    "url": "https://www.metacritic.com/game/pc/tainted-grail-conquest?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1199030,
+    "store_url": "https://store.steampowered.com/app/1199030/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Deckbuilding",
+      "Card Game",
+      "Dark Fantasy",
+      "Roguelike",
+      "Story Rich",
+      "Turn-Based",
+      "RPG",
+      "Choices Matter",
+      "Singleplayer",
+      "Base Building",
+      "Indie",
+      "Board Game",
+      "Roguelite",
+      "CRPG",
+      "Replay Value",
+      "Card Battler",
+      "Turn-Based Combat",
+      "Isometric",
+      "Action",
+      "Survival"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7437,
+    "review_negative": 828,
+    "review_total": 8265,
+    "review_positive_percent": 89.98
+  }
+}

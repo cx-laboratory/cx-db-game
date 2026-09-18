@@ -1,0 +1,208 @@
+{
+  "key": "dawn-of-man",
+  "name": "Dawn of Man",
+  "description": "Command a settlement of ancient humans, guide them through the ages in their struggle for survival. Hunt, gather, craft tools, fight, research new techs and face the challenges the environment will throw at you.",
+  "developers": [
+    "Madruga Works"
+  ],
+  "publishers": [
+    "Madruga Works"
+  ],
+  "release_date": "2019-03-01",
+  "website": "http://madrugaworks.com/dawnofman",
+  "tags": [
+    "indie",
+    "simulation",
+    "strategy",
+    "city-builder",
+    "colony-sim",
+    "survival",
+    "historical",
+    "sandbox",
+    "singleplayer",
+    "open-world",
+    "economy",
+    "choices-matter",
+    "rts",
+    "resource-management",
+    "multiplayer",
+    "destruction",
+    "story-rich",
+    "management",
+    "nudity",
+    "political"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "spanish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "DawnOfMan.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "SavesDir",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "DawnOfMan.app/Contents/MacOS/DawnOfMan",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "SavesDir",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Dawn of Man",
+    "DawnOfMan",
+    "DawnOfMan.app/Contents/MacOS/DawnOfMan"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/858810/de6ddc524df651a938c94a34b3a0bcf2e5e8a833.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858810/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858810/21c1e7eb8e0a0abaa0cdf5eabb4646cd5d993e41/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858810/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858810/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858810/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858810/ss_65c2741a895ef26b352a9363bc214cf8f1a48a48.1920x1080.jpg?t=1762552523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858810/ss_76c9623ef49699be812227e35237106fee6ffece.1920x1080.jpg?t=1762552523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858810/ss_231b362ae6c31bc988adec0da2c12292785786a6.1920x1080.jpg?t=1762552523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858810/ss_a4ee4e262bfc70f3052fba6ade8e33d517105644.1920x1080.jpg?t=1762552523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858810/ss_faf19d81e647aa582245a022f6f5924352c5f480.1920x1080.jpg?t=1762552523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858810/ss_bf2912d52bed9dfcae2b704ec07bfbf72ea4ed14.1920x1080.jpg?t=1762552523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858810/ss_ea30d5faaedf2a031631500bb3f3ca41f3a5f8ca.1920x1080.jpg?t=1762552523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858810/ss_83295e79276364fcb7da6615523bc661047a7d39.1920x1080.jpg?t=1762552523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858810/ss_daa14d8e6b185500e390e2ade2d97233c48be55c.1920x1080.jpg?t=1762552523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858810/ss_f1b6b67ffb38c6b74db8e1fbd79036f98d9de7d1.1920x1080.jpg?t=1762552523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858810/ss_983cddf2e95f4c8f962fed51ffbcb8c05ba7668c.1920x1080.jpg?t=1762552523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858810/ss_68f7e45768525ec99498fd9405e8fce974cbfe36.1920x1080.jpg?t=1762552523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858810/ss_2fb0ff284e4d5f7972a5c414ca279ce665031e9e.1920x1080.jpg?t=1762552523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858810/ss_16dd26ced7b475f0883ef6443575eb3e68e7533b.1920x1080.jpg?t=1762552523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858810/ss_a48db021af80ccba49255e0486150f85165b1b0f.1920x1080.jpg?t=1762552523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858810/ss_9022abc4e2bd025f620fbecf3168bf9c3af9efd5.1920x1080.jpg?t=1762552523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858810/ss_4b991bc7d4258a9a9a89b16f1fbc93bc583d8943.1920x1080.jpg?t=1762552523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858810/ss_0a96e77ee1a727065297b34996e17e311d33f6c3.1920x1080.jpg?t=1762552523"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Dawn of Man Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256760905/a3a27da162aa05776caea296c2139431ef313a9a/movie_600x337.jpg?t=1729068899",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/858810/241174/3525c6f3291fb1279c3388bb19fe2f4608c2781f/1750589803/dash_h264.mpd?t=1729068899"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 858810,
+    "store_url": "https://store.steampowered.com/app/858810/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Family Sharing"
+    ],
+    "tags": [
+      "City Builder",
+      "Colony Sim",
+      "Survival",
+      "Strategy",
+      "Simulation",
+      "Historical",
+      "Sandbox",
+      "Singleplayer",
+      "Open World",
+      "Economy",
+      "Indie",
+      "Choices Matter",
+      "RTS",
+      "Resource Management",
+      "Multiplayer",
+      "Destruction",
+      "Story Rich",
+      "Management",
+      "Nudity",
+      "Political"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 15419,
+    "review_negative": 2345,
+    "review_total": 17764,
+    "review_positive_percent": 86.8
+  }
+}

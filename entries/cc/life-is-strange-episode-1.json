@@ -1,0 +1,252 @@
+{
+  "key": "life-is-strange-episode-1",
+  "name": "Life is Strange - Episode 1",
+  "description": "Episode 1 now FREE! Life is Strange is an award-winning and critically acclaimed episodic adventure game that allows the player to rewind time and affect the past, present and future.",
+  "developers": [
+    "DONTNOD Entertainment"
+  ],
+  "publishers": [
+    "Square Enix"
+  ],
+  "release_date": "2015-01-30",
+  "website": "http://www.lifeisstrange.com",
+  "tags": [
+    "action",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Binaries/Win32/LifeIsStrange.exe",
+          "description": "Launch Life Is Strange",
+          "type": "default"
+        },
+        {
+          "executable": "Binaries/Win32/LifeIsStrange.exe",
+          "description": "Launch Safe Mode",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "my games/Life Is Strange/Saves",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Life Is Strange.app",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "my games/Life Is Strange/Saves",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "LifeIsStrange.sh",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "my games/Life Is Strange/Saves",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Life is Strange - Episode 1",
+    "Binaries/Win32/LifeIsStrange",
+    "Life Is Strange.app",
+    "LifeIsStrange.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/319630/e54b13da0710a35e7088664a77632e79157d8332.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/ss_d74ebed52e05e7c22937e53fcf6c7bf1de70ada1.1920x1080.jpg?t=1772725755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/ss_f0cbce81ce638fca6fa8154d6b5f0178e67eb87f.1920x1080.jpg?t=1772725755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/ss_2abb901703c73f9230d0ad42846c29d263825807.1920x1080.jpg?t=1772725755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/ss_f071f2da3d45953de69f00e05c6e333954ecdf26.1920x1080.jpg?t=1772725755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/ss_a856ba29b6a4eeb12cea337d6804d3a177c86e1c.1920x1080.jpg?t=1772725755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/ss_351f0026c4ca89eef429a095750814aaf6b5ebc0.1920x1080.jpg?t=1772725755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/ss_8df8236403f5aad45eeedd33d2bd545e45435b39.1920x1080.jpg?t=1772725755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/ss_d0648fc4ed2aa5b671e5bf11819df99b72a219ff.1920x1080.jpg?t=1772725755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/ss_dc4879bb7a8305411f089fc4fb9a605d1881a862.1920x1080.jpg?t=1772725755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/ss_bf32315f4ee26c933967b8b5189baa90281fb7c6.1920x1080.jpg?t=1772725755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/ss_bd2379094bf433c9376ba5047ab54c3a601b74ef.1920x1080.jpg?t=1772725755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/ss_0e9be011d0a997c4e6ed09291bce9a625530762e.1920x1080.jpg?t=1772725755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/ss_a055d8315a360382645b6766490ee7911cae9fb2.1920x1080.jpg?t=1772725755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/ss_8cba744ebebd36ffa6cd1c38973f1216a46fc02a.1920x1080.jpg?t=1772725755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/ss_827b3e27ff69e0b4dd2a36ff14ddae4fbb0363e4.1920x1080.jpg?t=1772725755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/ss_82c36037ed7ed0037f71a285f5eb50ed754c6bd6.1920x1080.jpg?t=1772725755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/ss_08f0871f59f213497304739ee675bae9f2b77883.1920x1080.jpg?t=1772725755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/ss_4bb34c58857d28cf10de6b9c08c956d8d3b190f0.1920x1080.jpg?t=1772725755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/ss_4b6de0ccb365a09b49f0d7ac9feecb299422142c.1920x1080.jpg?t=1772725755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/ss_e96d229f90e743bb8855a417b81ee229fc83e96d.1920x1080.jpg?t=1772725755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/ss_582d8b31d940aa4ab675382be36090fd8b9ed903.1920x1080.jpg?t=1772725755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/ss_d6ab80f511623688f0497fc1b85137f453279bc7.1920x1080.jpg?t=1772725755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/ss_2f717a78e3777d04363c45490e4a26a235c2af8a.1920x1080.jpg?t=1772725755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/ss_8146f6c8fb9afaabbdd49b7bafe3aebdf6dc9053.1920x1080.jpg?t=1772725755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/ss_f7dbabdf90d2f5c558bdceeac52be468027a2896.1920x1080.jpg?t=1772725755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/ss_c170fbe46876e8ee01b711eab94f628c33b977d2.1920x1080.jpg?t=1772725755"
+    }
+  ],
+  "videos": [
+    {
+      "name": "LIS Trailer ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2036241/movie.293x165.jpg?t=1447366267",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/319630/28899/8fb4b0978203bac773f7e4a85463c8ce114f5e26/1750507976/dash_h264.mpd?t=1447366267"
+    },
+    {
+      "name": "LIS Launch Trailer ESRB ENG",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2036998/movie.293x165.jpg?t=1447368579",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/319630/30834/fac6f7533f7c387f30c22c8ed752f83a2fc1b7e9/1750507222/dash_h264.mpd?t=1447368579"
+    },
+    {
+      "name": "LIS Ep 2 Trailer ESRB ENG",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2038000/movie.293x165.jpg?t=1447371515",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/319630/33231/6372a72a5d1e2c0b52096e7ac7a45643c4b63f5a/1750507260/dash_h264.mpd?t=1447371515"
+    },
+    {
+      "name": "LIS Ep 3 Trailer ESRB ENG",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2039471/movie.293x165.jpg?t=1447375019",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/319630/36313/ea1ebc434c5299fcfc2769b00cf234c54ef185d2/1750507293/dash_h264.mpd?t=1447375019"
+    },
+    {
+      "name": "LIS Ep 4 Trailer ESRB ENG",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256655129/movie.293x165.jpg?t=1447377294",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/319630/40107/7c034637115ce5ed7e3780bc43599c167abc4112/1750507354/dash_h264.mpd?t=1447377294"
+    },
+    {
+      "name": "LIS EP 5 Trailer ESRB US",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256657486/movie.293x165.jpg?t=1447428917",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/319630/45135/5c19a21717482c80390eea4e315f5fbb60a36ac6/1750507407/dash_h264.mpd?t=1447428917"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 319630,
+    "store_url": "https://store.steampowered.com/app/319630/",
+    "required_age": 17,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Custom Volume Controls",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 167696,
+    "review_negative": 6552,
+    "review_total": 174248,
+    "review_positive_percent": 96.24
+  }
+}

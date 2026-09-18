@@ -1,0 +1,163 @@
+{
+  "key": "the-vanishing-of-ethan-carter",
+  "name": "The Vanishing of Ethan Carter",
+  "description": "The Vanishing of Ethan Carter is a first-person story-driven mystery. Purchase this game to get both the original and the Unreal Engine 4 remaster called The Vanishing of Ethan Carter Redux.",
+  "developers": [
+    "The Astronauts"
+  ],
+  "publishers": [
+    "The Astronauts"
+  ],
+  "release_date": "2014-09-26",
+  "website": "http://EthanCarterGame.com",
+  "tags": [
+    "adventure",
+    "indie",
+    "mystery",
+    "atmospheric",
+    "detective",
+    "walking-simulator",
+    "exploration",
+    "first-person",
+    "horror",
+    "story-rich",
+    "singleplayer",
+    "supernatural",
+    "puzzle",
+    "lovecraftian",
+    "open-world",
+    "great-soundtrack",
+    "short",
+    "beautiful",
+    "point-and-click"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "polish",
+    "czech"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Binaries\\Launcher.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/The Vanishing of Ethan Carter/AstronautsGame/SaveData/",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The Vanishing of Ethan Carter",
+    "Binaries\\Launcher"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/258520/d94c31f17ff27a733fd01ecf929106264b89b8b5.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/258520/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/258520/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/258520/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/258520/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/258520/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/258520/ss_69872a9956b957c31471be1cd1a58e530cc21a67.1920x1080.jpg?t=1728030755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/258520/ss_d4d1f6afd513b35f9fed4069b5859cf77d4be3b8.1920x1080.jpg?t=1728030755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/258520/ss_2bbc4e208f82fef934f437863011f12d44be310e.1920x1080.jpg?t=1728030755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/258520/ss_9b86bfc8b10ed17804f033a4a8de209fe90a1280.1920x1080.jpg?t=1728030755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/258520/ss_a7e7253cad63718ba7e29a3c0ba1f0530060f516.1920x1080.jpg?t=1728030755"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Vanishing of Ethan Carter Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2035311/movie.293x165.jpg?t=1447364660",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/258520/27008/eec91a23e89bd60b476d8962c29b359c8ee94d46/1750497330/dash_h264.mpd?t=1447364660"
+    },
+    {
+      "name": "The Vanishing of Ethan Carter - Gamescom 2014",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2033919/movie.293x165.jpg?t=1447363163",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/258520/24051/9ae7171f29b0ff67e0c45e6ad1ae9ef89fa9677f/1750837070/dash_h264.mpd?t=1447363163"
+    },
+    {
+      "name": "The Vanishing of Ethan Carter - Commented Gameplay",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2034083/movie.293x165.jpg?t=1447363340",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/258520/24377/c8b695c20a7a7c9be5eb0b2b017c72efe22a4e7b/1750497328/dash_h264.mpd?t=1447363340"
+    }
+  ],
+  "metacritic": {
+    "score": 82,
+    "url": "https://www.metacritic.com/game/pc/the-vanishing-of-ethan-carter?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 258520,
+    "store_url": "https://store.steampowered.com/app/258520/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Mystery",
+      "Atmospheric",
+      "Detective",
+      "Walking Simulator",
+      "Exploration",
+      "First-Person",
+      "Adventure",
+      "Horror",
+      "Story Rich",
+      "Singleplayer",
+      "Supernatural",
+      "Puzzle",
+      "Indie",
+      "Lovecraftian",
+      "Open World",
+      "Great Soundtrack",
+      "Short",
+      "Psychological Horror",
+      "Beautiful",
+      "Point & Click"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7915,
+    "review_negative": 1049,
+    "review_total": 8964,
+    "review_positive_percent": 88.3
+  }
+}

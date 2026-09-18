@@ -1,0 +1,231 @@
+{
+  "key": "undermine",
+  "name": "UnderMine",
+  "description": "An action-adventure roguelike with a bit of RPG tossed in. Adventure deep into the UnderMine and discover powerful relics, deadly enemies, hidden secrets, and a few friends to help along the way.",
+  "developers": [
+    "Thorium"
+  ],
+  "publishers": [
+    "Thorium"
+  ],
+  "release_date": "2020-08-06",
+  "website": "https://www.undermine.game",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "action-roguelike",
+    "roguelite",
+    "pixel-graphics",
+    "dungeon-crawler",
+    "singleplayer",
+    "top-down",
+    "procedural-generation",
+    "2d",
+    "fantasy",
+    "mining",
+    "choices-matter",
+    "funny",
+    "roguelike",
+    "retro",
+    "story-rich",
+    "early-access"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "UnderMine.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Thorium Entertainment/UnderMine/Saves",
+          "pattern": "*.json",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "UnderMine.app/Contents/MacOS/UnderMine",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Thorium Entertainment/UnderMine/Saves",
+          "pattern": "*.json",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "UnderMine",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Thorium Entertainment/UnderMine/Saves",
+          "pattern": "*.json",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "UnderMine",
+    "UnderMine.app/Contents/MacOS/UnderMine"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/656350/e80bd473b8ab8d8e261c6300d98cfdd47e06f726.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/656350/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/656350/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/656350/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/656350/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/656350/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/656350/ss_99c9aa9fc1f81f254ca49827d52e91826694c88f.1920x1080.jpg?t=1724975181"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/656350/ss_464d00f3c6ae3162f3f29197697a6fee2d37a47d.1920x1080.jpg?t=1724975181"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/656350/ss_0c4f6535bc76a9d1037e08de1aa21e11f349f156.1920x1080.jpg?t=1724975181"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/656350/ss_225deeacee76c1ac9ed2441cf0b89ecf36195060.1920x1080.jpg?t=1724975181"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/656350/ss_96360da662899f16c61e0cdbf2974e2f2f79c898.1920x1080.jpg?t=1724975181"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/656350/ss_6f2138f5c46b5778027172c38cab14167afbacd6.1920x1080.jpg?t=1724975181"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/656350/ss_1011b24ce2658f2c82cc028866c405ff30f346ac.1920x1080.jpg?t=1724975181"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/656350/ss_0687bde6b7061a4bf3e4ba30ed13a4ed7fc455dd.1920x1080.jpg?t=1724975181"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/656350/ss_9cdfe6f29f7d143817ed64785aadec4ed75af502.1920x1080.jpg?t=1724975181"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/656350/ss_0a5eba3a1a637fbcc279e9c8d5e073d04fa1d9fc.1920x1080.jpg?t=1724975181"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/656350/ss_2dcdc8e902d83697c8b05bcf1e4b8f704ecfde1f.1920x1080.jpg?t=1724975181"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/656350/ss_5ab83983ad8f22a4d0ba8efdfc81907b39fdf712.1920x1080.jpg?t=1724975181"
+    }
+  ],
+  "videos": [
+    {
+      "name": "UnderMine Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256793940/movie.293x165.jpg?t=1596086417",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/656350/300380/c44e50555e5928a7900ae3ab8e4203ad09560472/1750567535/dash_h264.mpd?t=1596086417"
+    },
+    {
+      "name": "UnderMine Early Access Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256758982/movie.293x165.jpg?t=1565725603",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/656350/238084/55da8b3aaf36d5850980e5d92f1d2287441164e3/1750567523/dash_h264.mpd?t=1565725603"
+    },
+    {
+      "name": "UnderMine Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256759001/movie.293x165.jpg?t=1565735834",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/656350/238120/2fc73f4148de427e3d1a6b339951d97953b5537c/1750567533/dash_h264.mpd?t=1565735834"
+    }
+  ],
+  "metacritic": {
+    "score": 79,
+    "url": "https://www.metacritic.com/game/pc/undermine?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 656350,
+    "store_url": "https://store.steampowered.com/app/656350/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Roguelite",
+      "Pixel Graphics",
+      "Dungeon Crawler",
+      "RPG",
+      "Indie",
+      "Action",
+      "Adventure",
+      "Singleplayer",
+      "Top-Down",
+      "Procedural Generation",
+      "2D",
+      "Fantasy",
+      "Mining",
+      "Choices Matter",
+      "Funny",
+      "Roguelike",
+      "Retro",
+      "Story Rich",
+      "Early Access"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8858,
+    "review_negative": 951,
+    "review_total": 9809,
+    "review_positive_percent": 90.3
+  }
+}

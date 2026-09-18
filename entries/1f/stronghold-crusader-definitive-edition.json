@@ -1,0 +1,274 @@
+{
+  "key": "stronghold-crusader-definitive-edition",
+  "name": "Stronghold Crusader: Definitive Edition",
+  "description": "Gird your loins and sharpen your steel! Besiege 20 unique enemy lords and battle friends online, in this expanded remaster of the classic 'castle sim'. Relive history with new units, opponents, visuals, audio, campaigns, skirmish trails, co-op and larger maps.",
+  "developers": [
+    "Firefly Studios"
+  ],
+  "publishers": [
+    "Firefly Studios"
+  ],
+  "release_date": "2025-07-15",
+  "website": "https://www.strongholdcrusader.com/",
+  "tags": [
+    "simulation",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "city-builder",
+    "real-time-tactics",
+    "medieval",
+    "colony-sim",
+    "building",
+    "war",
+    "sandbox",
+    "tower-defense",
+    "economy",
+    "base-building",
+    "rts",
+    "2d",
+    "historical",
+    "isometric",
+    "open-world",
+    "resource-management",
+    "atmospheric"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "polish",
+    "dutch",
+    "swedish",
+    "hungarian",
+    "czech",
+    "turkish",
+    "arabic",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "Stronghold Crusader: Definitive Edition 要塞十字军东征：决定版",
+    "tchinese": "Stronghold Crusader: Definitive Edition 要塞十字軍東征：決定版",
+    "koreana": "Stronghold Crusader: Definitive Edition 스트롱홀드 크루세이더: 결정판"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Stronghold Crusader Definitive Edition.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Firefly Studios/Stronghold Crusader Definitive Edition/Saves",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Firefly Studios/Stronghold Crusader Definitive Edition/Maps",
+          "pattern": "*.map",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Firefly Studios/Stronghold Crusader Definitive Edition",
+          "pattern": "skirmishmasters.cfg",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Firefly Studios/Stronghold Crusader Definitive Edition",
+          "pattern": "settings.cfg",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Firefly Studios/Stronghold Crusader Definitive Edition/Maps",
+          "pattern": "*.tmp",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Firefly Studios/Stronghold Crusader Definitive Edition/UserWorkshopMaps",
+          "pattern": "*.map",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Firefly Studios/Stronghold Crusader Definitive Edition/UserWorkshopMaps",
+          "pattern": "*.data",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Firefly Studios/Stronghold Crusader Definitive Edition/Saves",
+          "pattern": "*.msv",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Firefly Studios/Stronghold Crusader Definitive Edition",
+          "pattern": "coop.cfg",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Firefly Studios/Stronghold Crusader Definitive Edition",
+          "pattern": "missons.cfg",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Firefly Studios/Stronghold Crusader Definitive Edition/CustomTrails",
+          "pattern": "*.*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Firefly Studios/Stronghold Crusader Definitive Edition/TrailMaker",
+          "pattern": "*.*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Firefly Studios/Stronghold Crusader Definitive Edition",
+          "pattern": "custom_trails.cfg",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Firefly Studios/Stronghold Crusader Definitive Edition/CustomMedia",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Stronghold Crusader: Definitive Edition",
+    "Stronghold Crusader Definitive Edition",
+    "Stronghold Crusader: Definitive Edition 要塞十字军东征：决定版",
+    "Stronghold Crusader: Definitive Edition 要塞十字軍東征：決定版",
+    "Stronghold Crusader: Definitive Edition 스트롱홀드 크루세이더: 결정판"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3024040/17da1edb361070fead68ff8af1213dac76869492.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024040/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024040/e1b739177d2cfda1d31a371af421b744b7e5ee8e/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024040/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024040/f5ddc6d3a158506d424e29f0d5e921d90d4d669d/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024040/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024040/ss_570cd349dadf51720101ea9bcbae3893defa3ebd.1920x1080.jpg?t=1782307167"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024040/ss_247269654e5858be74a19b4777f2c06a23d1d007.1920x1080.jpg?t=1782307167"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024040/ss_7e91107d1c9354c05615bf45198c4f0bb110a85a.1920x1080.jpg?t=1782307167"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024040/ss_0cfe1aedac2b5806f5aa7f587746cdcb60d55e85.1920x1080.jpg?t=1782307167"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024040/ss_0fda1f920731ae4bc34a6a5b0753df7e2c63df62.1920x1080.jpg?t=1782307167"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Stronghold Crusader: Definitive Edition - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257167321/be7cc013451c0d3e73f126c2ff42fdcb2831806e/movie_600x337.jpg?t=1752590639",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3024040/1185678210/cd3053f61c7b5ea08c23ae5648f76cef4426da99/1752157090/dash_h264.mpd?t=1752590639"
+    },
+    {
+      "name": "Stronghold Crusader: Definitive Edition - Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257084408/bf0ff11d4f4d4b295b6cea931bd99e2b2ba7edfa/movie_600x337.jpg?t=1749488583",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3024040/803869/5eb9a4ad4afdf7fb53c282f719cd0f6cb2fd7d49/1750958772/dash_h264.mpd?t=1749488583"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3024040,
+    "store_url": "https://store.steampowered.com/app/3024040/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "City Builder",
+      "Real Time Tactics",
+      "Medieval",
+      "Colony Sim",
+      "Building",
+      "War",
+      "Sandbox",
+      "Tower Defense",
+      "Economy",
+      "Base Building",
+      "RTS",
+      "PvP",
+      "2D",
+      "Historical",
+      "Isometric",
+      "Open World",
+      "Simulation",
+      "Resource Management",
+      "Atmospheric"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 10238,
+    "review_negative": 840,
+    "review_total": 11078,
+    "review_positive_percent": 92.42
+  }
+}

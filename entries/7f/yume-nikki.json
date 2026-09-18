@@ -1,0 +1,157 @@
+{
+  "key": "yume-nikki",
+  "name": "Yume Nikki",
+  "description": "This is a game in which you traverse the extremely dark world inside a dream.",
+  "developers": [
+    "kikiyama"
+  ],
+  "publishers": [
+    "PLAYISM"
+  ],
+  "release_date": "2018-01-10",
+  "website": "http://www3.nns.ne.jp/pri/tk-mto/",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "free-to-play",
+    "surreal",
+    "pixel-graphics",
+    "exploration",
+    "horror",
+    "walking-simulator",
+    "atmospheric",
+    "female-protagonist",
+    "psychological",
+    "singleplayer",
+    "2d",
+    "dark",
+    "experimental",
+    "silent-protagonist",
+    "cute",
+    "fantasy"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "Japanese"
+  ],
+  "name_localized": {
+    "japanese": "ゆめにっき"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "yumenikki/RPG_RT.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "yumenikki/RPG_RT.exe",
+          "description": "Window mode",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Yume Nikki",
+    "yumenikki/RPG_RT",
+    "ゆめにっき"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/650700/80398b61ac057987888c5c43ac6c4e15aa1e8db7.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650700/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650700/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650700/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650700/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650700/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650700/ss_1749704571f4619fdd9dde7192743be5eeceb8be.1920x1080.jpg?t=1779843132"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650700/ss_72a560dda3e3b9a1574909cfa4d9f66de5f08d97.1920x1080.jpg?t=1779843132"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650700/ss_1eb8f0817f2192c1dbc5c6b8871e79b6b92a6a03.1920x1080.jpg?t=1779843132"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650700/ss_f74aa812e256d65316f71fb3439605ee3751d667.1920x1080.jpg?t=1779843132"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650700/ss_0536a23b38745f88e83282cd8f170f5f5e2085a2.1920x1080.jpg?t=1779843132"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650700/ss_94eb3eadcaa3371228499e9efa23062a5ba0cef4.1920x1080.jpg?t=1779843132"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650700/ss_6e99025af2f6669b7f08f35d9174bfdb925dc4c9.1920x1080.jpg?t=1779843132"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650700/ss_bb41ccd5905753fe86f7d10527c9e2808d2efb8e.1920x1080.jpg?t=1779843132"
+    }
+  ],
+  "videos": [
+    {
+      "name": "yumenikki trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256689195/movie.293x165.jpg?t=1515564261",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/650700/111618/e79e3283dcae240bd36002d0b0b919a1edac3a4c/1751128005/dash_h264.mpd?t=1515564261"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 650700,
+    "store_url": "https://store.steampowered.com/app/650700/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Indie",
+      "Free to Play",
+      "Psychological Horror",
+      "Surreal",
+      "Pixel Graphics",
+      "Exploration",
+      "Horror",
+      "Walking Simulator",
+      "Atmospheric",
+      "Female Protagonist",
+      "Psychological",
+      "Singleplayer",
+      "2D",
+      "Dark",
+      "Adventure",
+      "Experimental",
+      "Silent Protagonist",
+      "Cute",
+      "Casual",
+      "Fantasy"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 9680,
+    "review_negative": 592,
+    "review_total": 10272,
+    "review_positive_percent": 94.24
+  }
+}

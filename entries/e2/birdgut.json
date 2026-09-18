@@ -1,0 +1,144 @@
+{
+  "key": "birdgut",
+  "name": "BirdGut",
+  "description": "BirdGut is a hand-drawn 2d puzzle-platformer from the perspective of an outcast bee who gets eaten by a bird, and discovers that the bird's internal organs are not organs at all, but facilities in which the consumed insects are brainwashed and enslaved. Experience this bizarre one-man project for yourself.",
+  "developers": [
+    "Micah Boursier"
+  ],
+  "publishers": [
+    "Micah Boursier"
+  ],
+  "release_date": "2019-05-09",
+  "website": "",
+  "tags": [
+    "adventure",
+    "casual",
+    "free-to-play",
+    "indie",
+    "puzzle-platformer",
+    "hand-drawn",
+    "platformer",
+    "2d",
+    "singleplayer",
+    "funny",
+    "puzzle",
+    "difficult",
+    "great-soundtrack",
+    "surreal",
+    "memes",
+    "souls-like"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "BirdGut.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Mac_build.app\\Contents\\MacOS\\Mac_build",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "BirdGut",
+    "Mac_build.app\\Contents\\MacOS\\Mac_build"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1072390/26afdf4c7f29c77f965e685bedb1486572388c2e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072390/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072390/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072390/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072390/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072390/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072390/ss_c895416bff5d77aecbdd87f74a846fa2b346ae7a.1920x1080.jpg?t=1664760499"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072390/ss_5abbe5663ca6d66f30045cdfad6cdb28098484d6.1920x1080.jpg?t=1664760499"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072390/ss_6f5ce978d4882bb31f767e4d08350f48ae51f67a.1920x1080.jpg?t=1664760499"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072390/ss_ecd9e7a86a658b0dc5f1495692398dd2cadf7014.1920x1080.jpg?t=1664760499"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072390/ss_8e34d5e9b2aba7cd2feec2c221b983f80c9afac7.1920x1080.jpg?t=1664760499"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256749478/movie.293x165.jpg?t=1556688029",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1072390/220902/ebc03bb585a2c6aebb21dfbe20e7034cb9f34434/1751184621/dash_h264.mpd?t=1556688029"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1072390,
+    "store_url": "https://store.steampowered.com/app/1072390/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Free To Play",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Indie",
+      "Adventure",
+      "Puzzle Platformer",
+      "Hand-drawn",
+      "Platformer",
+      "Casual",
+      "2D",
+      "Singleplayer",
+      "Funny",
+      "Puzzle",
+      "Difficult",
+      "Psychological Horror",
+      "Great Soundtrack",
+      "Surreal",
+      "Memes",
+      "Souls-like"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 4924,
+    "review_negative": 241,
+    "review_total": 5165,
+    "review_positive_percent": 95.33
+  }
+}

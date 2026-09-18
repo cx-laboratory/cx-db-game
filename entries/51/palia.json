@@ -1,0 +1,213 @@
+{
+  "key": "palia",
+  "name": "Palia",
+  "description": "Discover a welcoming world in Palia, a free-to-play fantasy life sim adventure where you can craft, explore, and create the life and home of your dreams. With nearly endless ways to make Palia your home, you’ll find relaxation and joy in every corner of this vibrant, heartwarming world.",
+  "developers": [
+    "Singularity 6 Corporation"
+  ],
+  "publishers": [
+    "Singularity 6 Corporation"
+  ],
+  "release_date": "2024-03-26",
+  "website": "https://www.palia.com/",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "rpg",
+    "simulation",
+    "free-to-play",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "life-sim",
+    "cozy",
+    "farming-sim",
+    "exploration",
+    "building",
+    "crafting",
+    "relaxing",
+    "cute",
+    "dating-sim",
+    "nature",
+    "mystery",
+    "atmospheric",
+    "mmorpg"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "PaliaClientSteam.exe",
+          "description": "Launch Palia",
+          "type": "default"
+        },
+        {
+          "executable": "PaliaClientSteam-Win64-Shipping.exe",
+          "description": "Shipping configuration of Palia",
+          "type": "option2"
+        },
+        {
+          "executable": "PaliaClientSteam-Win64-Test.exe",
+          "description": "Test configuration of Palia",
+          "type": "option2"
+        },
+        {
+          "executable": "PaliaClientSteam.exe",
+          "description": "Development configuration of Palia",
+          "type": "option2"
+        },
+        {
+          "executable": "PaliaClientSteam.exe",
+          "description": "Palia in the demo environment",
+          "type": "option3"
+        },
+        {
+          "executable": "PaliaClientSteam-Win64-Shipping.exe",
+          "description": "Shipping configuration of Palia",
+          "type": "option2"
+        },
+        {
+          "executable": "PaliaClientSteam-Win64-Test.exe",
+          "description": "Test Configuration of Palia",
+          "type": "option2"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Palia",
+    "PaliaClientSteam",
+    "PaliaClientSteam-Win64-Shipping",
+    "PaliaClientSteam-Win64-Test"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2707930/98de4ad85ffe8ab6d7b73f5aeb5b8295304fa6eb.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707930/9684b2812591bfafc0085adfd1e7128e9203385e/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707930/031e3a2dd724debaa59977d6dc77319aec99b5b1/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707930/82f8dbe7615f61004f7b97caf24818c318db5488/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707930/030a6a73f0651e5567ee62856b9a3da0b0560307/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707930/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707930/6752d60d70558b1635e4c4e20bc78f949a93a53d/ss_6752d60d70558b1635e4c4e20bc78f949a93a53d.1920x1080.jpg?t=1778603601"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707930/702839b6b81aae973a18c72ffcf70f4811c518ad/ss_702839b6b81aae973a18c72ffcf70f4811c518ad.1920x1080.jpg?t=1778603601"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707930/d2110664bb348384fd4ef6d7b7159893544ed2c8/ss_d2110664bb348384fd4ef6d7b7159893544ed2c8.1920x1080.jpg?t=1778603601"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707930/daf3295808c15c3e7e5791308121b4d1369f3d19/ss_daf3295808c15c3e7e5791308121b4d1369f3d19.1920x1080.jpg?t=1778603601"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707930/f8b8298d4e9558f87b62be9d4eae718a3331c5c9/ss_f8b8298d4e9558f87b62be9d4eae718a3331c5c9.1920x1080.jpg?t=1778603601"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707930/dd609961030ed9d683a7382d7bf5a6ea288d4707/ss_dd609961030ed9d683a7382d7bf5a6ea288d4707.1920x1080.jpg?t=1778603601"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707930/d30fb0d6c087cb7eba210a6e2ef47e3c76bf3864/ss_d30fb0d6c087cb7eba210a6e2ef47e3c76bf3864.1920x1080.jpg?t=1778603601"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707930/ss_a6e07185983c22eb49a9fa5d8c758faf93bea38d.1920x1080.jpg?t=1778603601"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707930/ss_95d4f1c662cdc06c5d473d1628f384768c7e653e.1920x1080.jpg?t=1778603601"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2707930/ss_ffe092f644ac4d02d8764829438014b220128da3.1920x1080.jpg?t=1778603601"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Royal Highlands Expansion Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257011369/ed1771f614b7f70917de51d92d9cb140de8ca963/movie_600x337.jpg?t=1778601472",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2707930/838128332/892392bd530660c90d5bf3686578c11c22dc828f/1777657864/dash_h264.mpd?t=1778601472"
+    },
+    {
+      "name": "Elderwood Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257136631/4a04f562f53d797d63f260bdc26f5f459968838c/movie_600x337.jpg?t=1747071714",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2707930/891806795/5b0e58764a04cd43251e838a270466183b8599a7/1750819047/dash_h264.mpd?t=1747071714"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2707930,
+    "store_url": "https://store.steampowered.com/app/2707930/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "In-App Purchases",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Multiplayer",
+      "Life Sim",
+      "Cozy",
+      "Farming Sim",
+      "Exploration",
+      "Building",
+      "Crafting",
+      "Relaxing",
+      "Online Co-Op",
+      "Casual",
+      "Cute",
+      "Dating Sim",
+      "RPG",
+      "Co-op",
+      "Nature",
+      "Mystery",
+      "Simulation",
+      "Atmospheric",
+      "MMORPG"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 37051,
+    "review_negative": 5799,
+    "review_total": 42850,
+    "review_positive_percent": 86.47
+  }
+}

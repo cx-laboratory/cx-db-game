@@ -1,0 +1,440 @@
+{
+  "key": "farming-simulator-17",
+  "name": "Farming Simulator 17",
+  "description": "Take on the role of a modern farmer in Farming Simulator 17! Explore farming possibilities in a new North American environment. Drive over 250 farming vehicles and equipment from over 75 manufacturers, including new brands such as Challenger, Fendt, Valtra or Massey Ferguson.",
+  "developers": [
+    "GIANTS Software"
+  ],
+  "publishers": [
+    "GIANTS Software"
+  ],
+  "release_date": "2016-10-25",
+  "website": "https://www.farming-simulator.com/",
+  "tags": [
+    "simulation",
+    "multiplayer",
+    "co-op",
+    "farming-sim",
+    "automobile-sim",
+    "agriculture",
+    "open-world",
+    "realistic",
+    "economy",
+    "driving",
+    "moddable",
+    "singleplayer",
+    "management",
+    "first-person",
+    "online-co-op",
+    "family-friendly",
+    "third-person",
+    "sandbox",
+    "strategy",
+    "great-soundtrack"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "dutch",
+    "hungarian",
+    "czech",
+    "romanian",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "模拟农场17"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "x86/FarmingSimulator2017Game.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "x64/FarmingSimulator2017Game.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame1/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame2/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame3/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame4/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame5/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame6/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame7/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame8/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame9/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame10/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame11/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame12/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame13/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame14/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame15/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame16/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame17/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame18/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame19/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame20/",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Farming Simulator 2017.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame1/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame2/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame3/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame4/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame5/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame6/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame7/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame8/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame9/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame10/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame11/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame12/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame13/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame14/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame15/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame16/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame17/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame18/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame19/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2017/savegame20/",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Farming Simulator 17",
+    "x86/FarmingSimulator2017Game",
+    "x64/FarmingSimulator2017Game",
+    "Farming Simulator 2017.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/447020/85bc1e728692f6c9e97553757e19332cedd71c21.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447020/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447020/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447020/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447020/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447020/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447020/ss_5ee730132ca9e9afad7b5970943a2431f319c2ec.1920x1080.jpg?t=1658488796"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447020/ss_6449904e286d6159b4e176d58ee9f2560416afd5.1920x1080.jpg?t=1658488796"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447020/ss_f5f704c23c0f951a16dce15f9ff598ae837e2be5.1920x1080.jpg?t=1658488796"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447020/ss_a37f40e05bf659c323bd15dec70c3350bbdd87c1.1920x1080.jpg?t=1658488796"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447020/ss_be2bf95447e476cb856d8b78e775f2b571db3435.1920x1080.jpg?t=1658488796"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447020/ss_66723607e23ef9c77785beb31ca8bb90cff12e37.1920x1080.jpg?t=1658488796"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447020/ss_4c167b91ef10904b9d6ef84010fc32f530ce87b3.1920x1080.jpg?t=1658488796"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447020/ss_0459e523efe2efdf98200c7c2e003363b83f147d.1920x1080.jpg?t=1658488796"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256673177/movie.293x165.jpg?t=1608035009",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/447020/77538/bff2fc5e513fb78424c7c7b6c744af7a301ddee6/1751286530/dash_h264.mpd?t=1608035009"
+    },
+    {
+      "name": "Garage Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256673179/movie.293x165.jpg?t=1608035017",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/447020/77540/a17f3cfec30b2a43403e8b7be0870ee13c136154/1751286532/dash_h264.mpd?t=1608035017"
+    }
+  ],
+  "metacritic": {
+    "score": 69,
+    "url": "https://www.metacritic.com/game/pc/farming-simulator-17?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 447020,
+    "store_url": "https://store.steampowered.com/app/447020/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Farming Sim",
+      "Simulation",
+      "Multiplayer",
+      "Automobile Sim",
+      "Agriculture",
+      "Open World",
+      "Realistic",
+      "Economy",
+      "Driving",
+      "Moddable",
+      "Singleplayer",
+      "Management",
+      "First-Person",
+      "Co-op",
+      "Online Co-Op",
+      "Family Friendly",
+      "Third Person",
+      "Sandbox",
+      "Strategy",
+      "Great Soundtrack"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 24129,
+    "review_negative": 1683,
+    "review_total": 25812,
+    "review_positive_percent": 93.48
+  }
+}

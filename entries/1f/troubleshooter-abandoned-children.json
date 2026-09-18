@@ -1,0 +1,204 @@
+{
+  "key": "troubleshooter-abandoned-children",
+  "name": "TROUBLESHOOTER: Abandoned Children",
+  "description": "TROUBLESHOOTER: Abandoned Children is the first season of a turn-based strategy SRPG that takes place in the world of Troubleshooter.",
+  "developers": [
+    "Dandylion"
+  ],
+  "publishers": [
+    "Dandylion"
+  ],
+  "release_date": "2020-04-23",
+  "website": "http://www.dandylion.co.kr",
+  "tags": [
+    "casual",
+    "indie",
+    "rpg",
+    "strategy",
+    "turn-based-tactics",
+    "tactical-rpg",
+    "crpg",
+    "turn-based",
+    "strategy-rpg",
+    "turn-based-strategy",
+    "party-based-rpg",
+    "female-protagonist",
+    "wargame",
+    "jrpg",
+    "controller",
+    "lore-rich",
+    "colorful",
+    "turn-based-combat",
+    "story-rich",
+    "atmospheric",
+    "2d",
+    "anime"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "koreana",
+    "schinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "koreana": "트러블슈터: 버려진 아이들",
+    "schinese": "纷争终结者: 被遗弃的孩子们",
+    "japanese": "トラブルシューター: 捨てられた子供たち",
+    "tchinese": "紛爭終結者: 被遺棄的孩子們"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Release/bin/ProtoLion.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Release/bin/saves",
+          "pattern": "*.sav",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "TROUBLESHOOTER: Abandoned Children",
+    "Release/bin/ProtoLion",
+    "트러블슈터: 버려진 아이들",
+    "纷争终结者: 被遗弃的孩子们",
+    "トラブルシューター: 捨てられた子供たち",
+    "紛爭終結者: 被遺棄的孩子們"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/470310/3bf82fbc61ee907323fb8d7cfd4b1b568a81219e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470310/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470310/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470310/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470310/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470310/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470310/ss_6cea17d8b7f3dac234e1c6eeb67f17e236f15220.1920x1080.jpg?t=1747107944"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470310/ss_7a8fa5a9dd088d6d90198965395fc24697239110.1920x1080.jpg?t=1747107944"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470310/ss_0707d5852ddb9815585e183955d76d3393045851.1920x1080.jpg?t=1747107944"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470310/ss_78e0a14f401de6baa8735ab94c63f0a17d1fe38b.1920x1080.jpg?t=1747107944"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470310/ss_eb9ed643239a227e81edaf1ef96fff30f26c2e90.1920x1080.jpg?t=1747107944"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470310/ss_e229454d8dafd500ca1a545918923a4fec3aeca0.1920x1080.jpg?t=1747107944"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470310/ss_d0b9b3e407e8bb6c31188afbba3ba9a0bbfb836f.1920x1080.jpg?t=1747107944"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470310/ss_d45950d4055d4a66905b6122603db9eef6f3f965.1920x1080.jpg?t=1747107944"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470310/ss_4b82f2abd03fe7f2f4ff0f081ff1e86d7cdcf245.1920x1080.jpg?t=1747107944"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470310/ss_441caef88ec5e5003569ec861201c81e2da2dcfd.1920x1080.jpg?t=1747107944"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470310/ss_5baac199abb3bcf3422d09af12e0c0b33f6a3b8d.1920x1080.jpg?t=1747107944"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470310/ss_6af713966d950da13b3bbb1483600bbf388fb258.1920x1080.jpg?t=1747107944"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470310/ss_8c65c7a3df2ff4de1e3818f9e0d943e3e58989c7.1920x1080.jpg?t=1747107944"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470310/ss_5b98a20d836c5b414edd0a143736d557d58bbcb9.1920x1080.jpg?t=1747107944"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470310/ss_b2bf4a3eda9e14d59d881162ea649f33f5265333.1920x1080.jpg?t=1747107944"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470310/ss_389139b9efebc15ebe507b2413a01ec6f6dce09c.1920x1080.jpg?t=1747107944"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Troubleshooter early access trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256704850/movie.293x165.jpg?t=1514697825",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/470310/139896/7c639aa86b8ee818f9ccd2950fe62c591927e123/1751290405/dash_h264.mpd?t=1514697825"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 470310,
+    "store_url": "https://store.steampowered.com/app/470310/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Turn-Based Tactics",
+      "Tactical RPG",
+      "CRPG",
+      "Turn-Based",
+      "Strategy RPG",
+      "Turn-Based Strategy",
+      "Party-Based RPG",
+      "Female Protagonist",
+      "Wargame",
+      "RPG",
+      "JRPG",
+      "Strategy",
+      "Controller",
+      "Lore-Rich",
+      "Colorful",
+      "Turn-Based Combat",
+      "Story Rich",
+      "Atmospheric",
+      "2D",
+      "Anime"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 9118,
+    "review_negative": 632,
+    "review_total": 9750,
+    "review_positive_percent": 93.52
+  }
+}

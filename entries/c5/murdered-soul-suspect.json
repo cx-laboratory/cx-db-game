@@ -1,0 +1,162 @@
+{
+  "key": "murdered-soul-suspect",
+  "name": "Murdered: Soul Suspect",
+  "description": "MURDERED: SOUL SUSPECT™ takes players into a whole new realm of mystery where the case is personal and the clues just out of reach, challenging gamers to solve the hardest case of all… their own murder.",
+  "developers": [
+    "Airtight Games"
+  ],
+  "publishers": [
+    "Square Enix"
+  ],
+  "release_date": "2014-06-03",
+  "website": "http://www.murdered.com",
+  "tags": [
+    "action",
+    "adventure",
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian",
+    "japanese",
+    "polish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Binaries\\Win64\\Murdered.exe",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "Binaries\\Win64\\Murdered.exe",
+          "description": "Launch in Safe Mode",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "default",
+          "path": "SaveData/",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Murdered: Soul Suspect",
+    "Binaries\\Win64\\Murdered"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/233290/b0507554c8d39f2c4ebd45a446660e6b0d93ff52.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233290/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233290/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233290/capsule_231x87.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233290/ss_2c1a62199acb8180c5a09f626fb3cb828b036c7b.1920x1080.jpg?t=1779983016"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233290/ss_b1bd50a27f82ac5983446e50beebd924277f97cd.1920x1080.jpg?t=1779983016"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233290/ss_4ce384e13e414e41a90c4eff7e3e255192bedf13.1920x1080.jpg?t=1779983016"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233290/ss_107666e81f151ba1f74a9994526abdc89d8bd544.1920x1080.jpg?t=1779983016"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233290/ss_33ba538ece7773970e111a86ca5efeabeb125d40.1920x1080.jpg?t=1779983016"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233290/ss_b3664bd76a54c77ba4fb5b615004f4f66c3d30c1.1920x1080.jpg?t=1779983016"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Murdered Launch Trailer USA ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2032726/movie.293x165.jpg?t=1447362214",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/233290/21625/360353f0ccef7fd48cf794d1c497ea659ddf841b/1750496510/dash_h264.mpd?t=1447362214"
+    },
+    {
+      "name": "Murdered Launch Trailer EN NO RATING",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2032725/movie.293x165.jpg?t=1447362214",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/233290/21624/bdd0357b3ce21a16889697d4af5a5ef58cd6f776/1750496508/dash_h264.mpd?t=1447362214"
+    },
+    {
+      "name": "Murdered Gamescom Trailer ESRB EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2030453/movie.293x165.jpg?t=1447359833",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/233290/16047/62c427f6e99cb703a30d35de2b031af6466c0b81/1750496177/dash_h264.mpd?t=1447359833"
+    },
+    {
+      "name": "Murdered Announce Trailer ESRB EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2030465/movie.293x165.jpg?t=1447359837",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/233290/16060/5c7a4aee5fcd367d5fbb12b4585601c5a3b4adfd/1750496314/dash_h264.mpd?t=1447359837"
+    },
+    {
+      "name": "Murdered Bell Killer Trailer US ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2032658/movie.293x165.jpg?t=1447362170",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/233290/21512/097f6ddc812a798287d877e400be70aa6e5765b9/1750496488/dash_h264.mpd?t=1447362170"
+    },
+    {
+      "name": "Murdered 101 AMD QC EN NO RATING",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2032722/movie.293x165.jpg?t=1447362213",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/233290/21621/6849d7703fb1c554f947cc55e592bc2502281d9c/1750496495/dash_h264.mpd?t=1447362213"
+    },
+    {
+      "name": "Murdered 101 AMD USA",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2032723/movie.293x165.jpg?t=1447362213",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/233290/21622/f6df53bffb4e3d237fe5c2a71f50a0bde74b2c87/1750837070/dash_h264.mpd?t=1447362213"
+    }
+  ],
+  "metacritic": {
+    "score": 59,
+    "url": "https://www.metacritic.com/game/pc/murdered-soul-suspect?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 233290,
+    "store_url": "https://store.steampowered.com/app/233290/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 14844,
+    "review_negative": 2453,
+    "review_total": 17297,
+    "review_positive_percent": 85.82
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "key": "neverwinter-nights-enhanced-edition",
+  "name": "Neverwinter Nights: Enhanced Edition",
+  "description": "Return to the Forgotten Realms in this bestselling Dungeons &amp; Dragons roleplaying game. Combines all the content of Neverwinter Nights Diamond Edition with all-new enhanced features. Includes 100+ hours of award-winning adventures and the tools to create your own!",
+  "developers": [
+    "Beamdog"
+  ],
+  "publishers": [
+    "Beamdog"
+  ],
+  "release_date": "2018-03-28",
+  "website": "https://www.beamdog.com/games/neverwinter-nights-enhanced/",
+  "tags": [
+    "rpg",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "fantasy",
+    "crpg",
+    "character-customization",
+    "real-time-with-pause",
+    "story-rich",
+    "adventure",
+    "magic",
+    "moddable",
+    "retro",
+    "atmospheric",
+    "action-rpg",
+    "female-protagonist",
+    "action",
+    "singleplayer",
+    "action-adventure",
+    "dungeon-crawler"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English*",
+    "French*",
+    "Italian",
+    "German*",
+    "Spanish - Spain",
+    "Polish**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "bin/win32/nwmain.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "bin/win32/nwmain.exe",
+          "description": "Dungeon Master Client",
+          "type": "none"
+        },
+        {
+          "executable": "bin/win32/nwtoolset.exe",
+          "description": "Aurora Toolset",
+          "type": "editor"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "bin/macos/nwmain.app/Contents/MacOS/nwmain",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "bin/linux-x86/nwmain-linux",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Neverwinter Nights: Enhanced Edition",
+    "bin/win32/nwmain",
+    "bin/win32/nwtoolset",
+    "bin/macos/nwmain.app/Contents/MacOS/nwmain",
+    "bin/linux-x86/nwmain-linux"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/704450/6b1b4dbe323fcfdcaf406a2ce3dade834e5682cb.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/704450/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/704450/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/704450/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/704450/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/704450/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/704450/ss_ae79dcee2c425095af7504f6513b82c2b14b4aec.1920x1080.jpg?t=1746124805"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/704450/ss_b1f3b66031306dfbb804a37a2b4bd10e1c0bcd66.1920x1080.jpg?t=1746124805"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/704450/ss_37c356ad4983a11505fceaba95bd31360ffaa635.1920x1080.jpg?t=1746124805"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/704450/ss_74c9b9accea753316d637e03f25965002bddaa93.1920x1080.jpg?t=1746124805"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/704450/ss_af2e72e4d954db10a0ec798889e93dd5f0e867a0.1920x1080.jpg?t=1746124805"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/704450/ss_dc7a3dfcd8717561708fc6912c7ea657309e213a.1920x1080.jpg?t=1746124805"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/704450/ss_d04d8b146a0d746e02bb9b0a32567055c3556a0f.1920x1080.jpg?t=1746124805"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/704450/ss_0a9e11b96e2056f54c156f51bff2cdfa7f1f65c1.1920x1080.jpg?t=1746124805"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/704450/ss_5923382d59d008b0fce5d23200d5cc9ad2f9d9a8.1920x1080.jpg?t=1746124805"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/704450/ss_f7a06d56ccd4cb3a6b48f0cad73afbb03ffadefa.1920x1080.jpg?t=1746124805"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/704450/ss_c1e91f0b7a6fccf478f34fcf593c446147555fa2.1920x1080.jpg?t=1746124805"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/704450/ss_d6780047ab47f5bdc065c09ad277ab0763ea519a.1920x1080.jpg?t=1746124805"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/704450/ss_9e2457235205daa2cf8d2e5f199714c73127a016.1920x1080.jpg?t=1746124805"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/704450/ss_b63d8080545210b7568ec996f7c51f63d611d768.1920x1080.jpg?t=1746124805"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/704450/ss_5e3f98fbea2e385f05c32ea8ad7b9c369f64336b.1920x1080.jpg?t=1746124805"
+    }
+  ],
+  "videos": [
+    {
+      "name": "NWN:EE Coming Soon",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256701608/movie.293x165.jpg?t=1522173832",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/704450/134349/5433af426d812c5ff38b98ca55fabc73ecd3880f/1750573211/dash_h264.mpd?t=1522173832"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 704450,
+    "store_url": "https://store.steampowered.com/app/704450/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "RPG",
+      "Fantasy",
+      "CRPG",
+      "Character Customization",
+      "Multiplayer",
+      "Real-Time with Pause",
+      "Story Rich",
+      "Adventure",
+      "Magic",
+      "Moddable",
+      "Online Co-Op",
+      "Co-op",
+      "Retro",
+      "Atmospheric",
+      "Action RPG",
+      "Female Protagonist",
+      "Action",
+      "Singleplayer",
+      "Action-Adventure",
+      "Dungeon Crawler"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8528,
+    "review_negative": 918,
+    "review_total": 9446,
+    "review_positive_percent": 90.28
+  }
+}

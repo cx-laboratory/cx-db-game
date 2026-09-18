@@ -1,0 +1,302 @@
+{
+  "key": "hades",
+  "name": "Hades",
+  "description": "Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion, Transistor, and Pyre.",
+  "developers": [
+    "Supergiant Games"
+  ],
+  "publishers": [
+    "Supergiant Games"
+  ],
+  "release_date": "2020-09-17",
+  "website": "http://www.supergiantgames.com",
+  "tags": [
+    "action",
+    "indie",
+    "rpg",
+    "action-roguelike",
+    "roguelite",
+    "hack-and-slash",
+    "mythology",
+    "roguelike",
+    "singleplayer",
+    "great-soundtrack",
+    "story-rich",
+    "dungeon-crawler",
+    "replay-value",
+    "isometric",
+    "difficult",
+    "hand-drawn",
+    "action-rpg",
+    "atmospheric",
+    "lgbtq",
+    "perma-death"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "x64\\Hades.exe",
+          "description": "Hades (DirectX - Default)",
+          "type": "option1"
+        },
+        {
+          "executable": "x86\\Hades.exe",
+          "description": "32-bit",
+          "type": "default"
+        },
+        {
+          "executable": "Debug\\x64\\Hades.exe",
+          "description": "Debug",
+          "type": "option1"
+        },
+        {
+          "executable": "Debug\\x86\\Hades.exe",
+          "description": "Debug x86",
+          "type": "option1"
+        },
+        {
+          "executable": "Debug\\x64\\Hades.exe",
+          "description": "Debug",
+          "type": "option1"
+        },
+        {
+          "executable": "Debug\\x86\\Hades.exe",
+          "description": "Debug",
+          "type": "option1"
+        },
+        {
+          "executable": "Release\\x64\\Hades.exe",
+          "description": "Release",
+          "type": "option2"
+        },
+        {
+          "executable": "x64\\Hades.exe",
+          "description": "Ship",
+          "type": "option3"
+        },
+        {
+          "executable": "x64\\Hades.exe",
+          "description": "Play Hades",
+          "type": "default"
+        },
+        {
+          "executable": "Debug\\x64Vk\\Hades.exe",
+          "description": "Vulkan Debug",
+          "type": "none"
+        },
+        {
+          "executable": "Release\\x64Vk\\Hades.exe",
+          "description": "Vulkan Release",
+          "type": "none"
+        },
+        {
+          "executable": "x64Vk\\Hades.exe",
+          "description": "Vulkan Ship",
+          "type": "none"
+        },
+        {
+          "executable": "x64Vk\\Hades.exe",
+          "description": "Hades (Vulkan)",
+          "type": "option2"
+        },
+        {
+          "executable": "x86\\Hades.exe",
+          "description": "Hades (32-bit)",
+          "type": "option3"
+        },
+        {
+          "executable": "x64Vk\\Hades.exe",
+          "description": "Hades (Vulkan - Steam Deck)",
+          "type": "option3"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Saved Games/Hades",
+          "pattern": "Profile*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "./Game.macOS.app/Contents/MacOS/Game.macOS",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "./Hades.app",
+          "description": "Hades (Apple Silicon)",
+          "type": "option2"
+        },
+        {
+          "executable": "./Hades.app/Contents/MacOS/Hades",
+          "description": "Hades (Intel Mac)",
+          "type": "option3"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Saved Games/Hades",
+          "pattern": "Profile*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Hades",
+    "x64\\Hades",
+    "x86\\Hades",
+    "Debug\\x64\\Hades",
+    "Debug\\x86\\Hades",
+    "Release\\x64\\Hades",
+    "Debug\\x64Vk\\Hades",
+    "Release\\x64Vk\\Hades",
+    "x64Vk\\Hades",
+    "./Game.macOS.app/Contents/MacOS/Game.macOS",
+    "./Hades.app",
+    "./Hades.app/Contents/MacOS/Hades"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1145360/8a3fca36a00883e8066263ad35dd15d77a1f9abc.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_c0fed447426b69981cf1721756acf75369801b31.1920x1080.jpg?t=1758127023"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_8a9f0953e8a014bd3df2789c2835cb787cd3764d.1920x1080.jpg?t=1758127023"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_68300459a8c3daacb2ec687adcdbf4442fcc4f47.1920x1080.jpg?t=1758127023"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_bcb499a0dd001f4101823f99ec5094d2872ba6ee.1920x1080.jpg?t=1758127023"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_8e07e477fa7ff2f88c8984bc89b9652a655da0e9.1920x1080.jpg?t=1758127023"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_34e6660705cfe47d2b2f95189c37f7cb77f75ca6.1920x1080.jpg?t=1758127023"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_217b70678a2eea71a974fba1a4cd8baa660581bb.1920x1080.jpg?t=1758127023"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_5e52844b891b54608eb51a850d6b53313eeed0f7.1920x1080.jpg?t=1758127023"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_abb2427810a4e91cc600f37c3630b912d4e0191b.1920x1080.jpg?t=1758127023"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_2a9e3f9ad4d29d900b890d56361be5b1634225a0.1920x1080.jpg?t=1758127023"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_e0622b5a57521b76182d7e7e1ae47ee440edcf90.1920x1080.jpg?t=1758127023"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Hades - v1.0 Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256801252/movie.293x165.jpg?t=1600353465",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1145360/312686/b0312c49135823cc34946e98148abfb8da71f0fb/1750627549/dash_h264.mpd?t=1600353465"
+    },
+    {
+      "name": "Hades - v1.0 Gameplay Showcase",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256801288/movie.293x165.jpg?t=1600353474",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1145360/312747/37b96035b5c9c7b12455eadc7bbc7d2b3afbd2fd/1750627553/dash_h264.mpd?t=1600353474"
+    },
+    {
+      "name": "Hades - Early Access Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256759357/movie.293x165.jpg?t=1593023745",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1145360/238757/421575a200646e7cc71ed0cde4553b92cb1b5261/1750627523/dash_h264.mpd?t=1593023745"
+    }
+  ],
+  "metacritic": {
+    "score": 93,
+    "url": "https://www.metacritic.com/game/pc/hades?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1145360,
+    "store_url": "https://store.steampowered.com/app/1145360/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Roguelite",
+      "Hack and Slash",
+      "Indie",
+      "Mythology",
+      "Action",
+      "Roguelike",
+      "Singleplayer",
+      "Great Soundtrack",
+      "Story Rich",
+      "Dungeon Crawler",
+      "RPG",
+      "Replay Value",
+      "Isometric",
+      "Difficult",
+      "Hand-drawn",
+      "Action RPG",
+      "Atmospheric",
+      "LGBTQ+",
+      "Perma Death"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 299305,
+    "review_negative": 6021,
+    "review_total": 305326,
+    "review_positive_percent": 98.03
+  }
+}

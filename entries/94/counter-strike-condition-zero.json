@@ -1,0 +1,180 @@
+{
+  "key": "counter-strike-condition-zero",
+  "name": "Counter-Strike: Condition Zero",
+  "description": "With its extensive Tour of Duty campaign, a near-limitless number of skirmish modes, updates and new content for Counter-Strike's award-winning multiplayer game play, plus over 12 bonus single player missions, Counter-Strike: Condition Zero is a tremendous offering of single and multiplayer content.",
+  "developers": [
+    "Valve"
+  ],
+  "publishers": [
+    "Valve"
+  ],
+  "release_date": "2004-03-01",
+  "website": "http://www.cs-conditionzero.com/",
+  "tags": [
+    "action",
+    "multiplayer",
+    "fps",
+    "shooter",
+    "first-person",
+    "singleplayer",
+    "classic",
+    "tactical",
+    "team-based",
+    "competitive",
+    "military",
+    "online-co-op",
+    "strategy",
+    "adventure",
+    "survival",
+    "atmospheric",
+    "old-school",
+    "dark",
+    "violent",
+    "open-world"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish - Spain",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Korean"
+  ],
+  "name_localized": {
+    "schinese": "反恐精英：零点行动"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "hl.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "hl.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "hl.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Counter-Strike: Condition Zero",
+    "hl",
+    "hl.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/80/077b050ef3e89cd84e2c5a575d78d53b54058236.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/0000002528.1920x1080.jpg?t=1745368574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/0000002529.1920x1080.jpg?t=1745368574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/0000002530.1920x1080.jpg?t=1745368574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/0000002531.1920x1080.jpg?t=1745368574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/0000002532.1920x1080.jpg?t=1745368574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/0000002533.1920x1080.jpg?t=1745368574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/0000002534.1920x1080.jpg?t=1745368574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/0000002535.1920x1080.jpg?t=1745368574"
+    }
+  ],
+  "videos": [],
+  "metacritic": {
+    "score": 65,
+    "url": "https://www.metacritic.com/game/pc/counter-strike-condition-zero?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 80,
+    "store_url": "https://store.steampowered.com/app/80/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Stereo Sound",
+      "Valve Anti-Cheat enabled",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Action",
+      "FPS",
+      "Shooter",
+      "Multiplayer",
+      "First-Person",
+      "Singleplayer",
+      "Classic",
+      "Tactical",
+      "Team-Based",
+      "Competitive",
+      "Military",
+      "Online Co-Op",
+      "Strategy",
+      "Adventure",
+      "Survival",
+      "Atmospheric",
+      "Old School",
+      "Dark",
+      "Violent",
+      "Open World"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 25716,
+    "review_negative": 2410,
+    "review_total": 28126,
+    "review_positive_percent": 91.43
+  }
+}

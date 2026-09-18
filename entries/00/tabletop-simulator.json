@@ -1,0 +1,266 @@
+{
+  "key": "tabletop-simulator",
+  "name": "Tabletop Simulator",
+  "description": "Tabletop Simulator is the only simulator where you can let your aggression out by flipping the table! There are no rules to follow: just you, a physics sandbox, and your friends. Make your own online board games or play the thousands of community created mods. Unlimited gaming possibilities!",
+  "developers": [
+    "Berserk Games"
+  ],
+  "publishers": [
+    "Berserk Games"
+  ],
+  "release_date": "2015-06-06",
+  "website": "https://www.tabletopsimulator.com/",
+  "tags": [
+    "casual",
+    "indie",
+    "rpg",
+    "simulation",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "split-screen",
+    "tabletop",
+    "board-game",
+    "sandbox",
+    "card-game",
+    "vr",
+    "trading-card-game",
+    "moddable",
+    "physics",
+    "3d",
+    "wargame",
+    "funny",
+    "first-person"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {
+    "schinese": "桌游模拟器"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Tabletop Simulator.exe",
+          "description": "Launch Windows",
+          "type": "default"
+        },
+        {
+          "executable": "Tabletop Simulator.exe",
+          "description": "VR",
+          "type": "vr"
+        },
+        {
+          "executable": "Tabletop Simulator.exe",
+          "description": "Vulkan (Experimental)",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/Tabletop Simulator/Saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Tabletop Simulator.app",
+          "description": "Launch Mac",
+          "type": "default"
+        },
+        {
+          "executable": "Tabletop Simulator.app",
+          "description": "OpenGL Core (Legacy)",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/Tabletop Simulator/Saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Tabletop Simulator.x86_64",
+          "description": "Launch Linux",
+          "type": "default"
+        },
+        {
+          "executable": "Tabletop Simulator.x86_64",
+          "description": "Vulkan (Experimental)",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/Tabletop Simulator/Saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Tabletop Simulator",
+    "Tabletop Simulator.app",
+    "Tabletop Simulator.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/286160/19f5b90e3c7084758f885ded843631b13929fa26.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/ss_203970c1dd0b8985f9f5c59767517bb7144fb6e9.1920x1080.jpg?t=1772387518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/ss_6a40bc382133371b901af29c60c53e0bd51cef4f.1920x1080.jpg?t=1772387518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/ss_e1529236d629827c2f6c4b31196260ceaf04b100.1920x1080.jpg?t=1772387518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/ss_cf50c31b249a84b05c4d6390e1a05f91db696ef8.1920x1080.jpg?t=1772387518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/ss_db4c6ebfc66d8605cf67b95d58f0b9e2e94e49ae.1920x1080.jpg?t=1772387518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/ss_6fefa0ac09c042912901a9fc52a869f929c3bd46.1920x1080.jpg?t=1772387518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/ss_555cba3864ae79edcf4b13c4bca608d72d65c7db.1920x1080.jpg?t=1772387518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/ss_5ce53563d387f7e8fa914ff616c67a87f60c52c5.1920x1080.jpg?t=1772387518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/ss_35a489450ec2199ca6c4b41a95a98790c127db94.1920x1080.jpg?t=1772387518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/ss_3ad0167f66e038a6f3d843efba92b15c32814226.1920x1080.jpg?t=1772387518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/ss_0e791b5b0c78e6712f8566c13558a1d21b6d4727.1920x1080.jpg?t=1772387518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/ss_f82ab9646e64a35d0ac1b51e376343a6d1735dfa.1920x1080.jpg?t=1772387518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/ss_45667d38911ba4a353a6e9a81f7bc54981e1a3fb.1920x1080.jpg?t=1772387518"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Tabletop Simulator Full Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2039980/movie.293x165.jpg?t=1447376055",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/286160/37393/49e58cc87be40e58ba559a11540815db0e2697a1/1750490141/dash_h264.mpd?t=1447376055"
+    },
+    {
+      "name": "VR Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256665804/movie.293x165.jpg?t=1466531107",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/286160/62759/da60e886a73f7c9117869078b05d9e2a34087794/1750490143/dash_h264.mpd?t=1466531107"
+    },
+    {
+      "name": "Tabletop Simulator \"Serious\" Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2036260/movie.293x165.jpg?t=1447366326",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/286160/28956/c4e215435aab5147502b5b51673f4cca31fd1cb5/1750490138/dash_h264.mpd?t=1447366326"
+    },
+    {
+      "name": "Tabletop Simulator Early Access Steam Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2031796/movie.293x165.jpg?t=1447361287",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/286160/19313/c8870db028c4e0014e6c4e20c6076f93e53b5c50/1750490116/dash_h264.mpd?t=1447361287"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 286160,
+    "store_url": "https://store.steampowered.com/app/286160/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Tracked Controller Support",
+      "VR Supported",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Includes level editor",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Tabletop",
+      "Board Game",
+      "Simulation",
+      "Multiplayer",
+      "Sandbox",
+      "Card Game",
+      "VR",
+      "Trading Card Game",
+      "Moddable",
+      "Physics",
+      "Strategy",
+      "Online Co-Op",
+      "3D",
+      "Casual",
+      "Wargame",
+      "Co-op",
+      "RPG",
+      "Funny",
+      "First-Person",
+      "Indie"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 70561,
+    "review_negative": 2988,
+    "review_total": 73549,
+    "review_positive_percent": 95.94
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "key": "niche-a-genetics-survival-game",
+  "name": "Niche - a genetics survival game",
+  "description": "Niche - a genetics survival game is a turn-based strategy game combined with simulation and roguelike elements. Shape your own species of animals based on real genetics. Keep your species alive against all odds, such as predators, climate change and spreading sickness.",
+  "developers": [
+    "Stray Fawn Studio"
+  ],
+  "publishers": [
+    "Stray Fawn Publishing"
+  ],
+  "release_date": "2017-09-22",
+  "website": "http://niche-game.com/",
+  "tags": [
+    "indie",
+    "simulation",
+    "strategy",
+    "turn-based-strategy",
+    "adventure",
+    "puzzle",
+    "singleplayer",
+    "nature",
+    "turn-based",
+    "rpg",
+    "education",
+    "sandbox",
+    "survival",
+    "exploration",
+    "board-game",
+    "resource-management",
+    "family-friendly",
+    "relaxing",
+    "funny",
+    "roguelike",
+    "procedural-generation"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Windows\\64Bit\\Niche.exe",
+          "description": "Windows 64Bit",
+          "type": "default"
+        },
+        {
+          "executable": "Windows\\32Bit\\Niche.exe",
+          "description": "Windows 32Bit",
+          "type": "default"
+        },
+        {
+          "executable": "Windows\\Niche.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Windows\\Niche.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Windows\\Niche.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Windows\\Niche.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Windows\\Niche.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Windows\\Niche.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Windows\\Niche.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Team Niche/Niche - a genetics survival game/Saves",
+          "pattern": "*.nichesave",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Mac\\Niche.app\\Contents\\MacOS\\Niche",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Team Niche/Niche - a genetics survival game/Saves",
+          "pattern": "*.nichesave",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Linux\\Niche.x86_64",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Linux\\Niche.x86",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Linux\\Niche.x86",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Linux\\Niche.x86",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Linux\\Niche.x86",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Linux\\Niche.x86",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Linux\\Niche.x86",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Linux\\Niche.x86",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Linux\\Niche.x86",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Team Niche/Niche - a genetics survival game/Saves",
+          "pattern": "*.nichesave",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Niche - a genetics survival game",
+    "Windows\\64Bit\\Niche",
+    "Windows\\32Bit\\Niche",
+    "Windows\\Niche",
+    "Mac\\Niche.app\\Contents\\MacOS\\Niche",
+    "Linux\\Niche.x86_64",
+    "Linux\\Niche.x86"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/440650/c8a821f87547de4a58420636a1360f8533089c8d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440650/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440650/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440650/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440650/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440650/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440650/ss_7f87c67384838379c565cf0322fff9ee5a01d32c.1920x1080.jpg?t=1750254505"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440650/ss_65043298e4c7f7fa4adc3b8317026849d1a6d49c.1920x1080.jpg?t=1750254505"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440650/ss_81380a85a9a32a5e4e6916689dc24e1b74c6da6c.1920x1080.jpg?t=1750254505"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440650/ss_7a08272b38692e4ec9d46ec351bedaa6843bfad3.1920x1080.jpg?t=1750254505"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440650/ss_9a44d3ef8613b59c424fe7260c051a51be0e00b7.1920x1080.jpg?t=1750254505"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440650/ss_3b14e8788b0ed3f18a2e3c7c1b9cd3ebf2d4be59.1920x1080.jpg?t=1750254505"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440650/ss_53d2a186d4f8a5e50c4a4163fd7352df29945833.1920x1080.jpg?t=1750254505"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440650/ss_7034c1bd1c0398e33a58bbf14b72fbc5a29aafcb.1920x1080.jpg?t=1750254505"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440650/ss_c231795adbc1ce928cec306039162595188f1a8e.1920x1080.jpg?t=1750254505"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440650/ss_74c01c565f3935d74b57976d6aaf1ebb1e18520b.1920x1080.jpg?t=1750254505"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440650/ss_dd9b756114ba1e425a1665563973171767baa9a7.1920x1080.jpg?t=1750254505"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440650/ss_3e642b5ca7383a5c93c886d2a9e099af5fbb3350.1920x1080.jpg?t=1750254505"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256660324/movie.293x165.jpg?t=1464118209",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/440650/51324/f6ee1e48696426a05139e4e1ef85af31e76d14b0/1750530859/dash_h264.mpd?t=1464118209"
+    },
+    {
+      "name": "Release Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256696136/movie.293x165.jpg?t=1505997097",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/440650/124247/06eba27b9792f0a9db06415e28b923edcb6a5d7c/1750530876/dash_h264.mpd?t=1505997097"
+    },
+    {
+      "name": "Let's play Seri! Pixel Biologist!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256695569/movie.293x165.jpg?t=1505746275",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/440650/123251/9e27b74f375da45bf96d0b4f0278289f01998618/1750530875/dash_h264.mpd?t=1505746275"
+    },
+    {
+      "name": "Let's play by Blitz",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256696256/movie.293x165.jpg?t=1526026771",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/440650/124469/99fb5482a0a6b60d2307b3141f4fc4ffc2846b62/1750530888/dash_h264.mpd?t=1526026771"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 440650,
+    "store_url": "https://store.steampowered.com/app/440650/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Turn-Based Strategy",
+      "Adventure",
+      "Puzzle",
+      "Singleplayer",
+      "Nature",
+      "Turn-Based",
+      "RPG",
+      "Education",
+      "Sandbox",
+      "Survival",
+      "Simulation",
+      "Strategy",
+      "Exploration",
+      "Board Game",
+      "Resource Management",
+      "Family Friendly",
+      "Relaxing",
+      "Funny",
+      "Roguelike",
+      "Procedural Generation"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 4486,
+    "review_negative": 715,
+    "review_total": 5201,
+    "review_positive_percent": 86.25
+  }
+}

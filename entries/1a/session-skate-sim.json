@@ -1,0 +1,168 @@
+{
+  "key": "session-skate-sim",
+  "name": "Session: Skate Sim",
+  "description": "Made by and for skaters, the dual stick controls faithfully reproduce your feet on the skateboard for an ultra-realistic experience. Try out real-life iconic skate spots, customise your skater and equipment with items from the top brands",
+  "developers": [
+    "crea-ture Studios Inc."
+  ],
+  "publishers": [
+    "Nacon"
+  ],
+  "release_date": "2022-09-23",
+  "website": "https://session-skatesim.com/",
+  "tags": [
+    "indie",
+    "simulation",
+    "sports",
+    "strategy"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SessionGame.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "SessionGame/Saved/Replays",
+          "pattern": "*.rep",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "SessionGame/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Session: Skate Sim",
+    "SessionGame"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/861650/e59c2798923eb4f7d536dca328499a8a30ccd97f.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861650/4076026c5d7f4456b477f89d8d567aef236de713/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861650/fab2321b4c7a787f0c68f88a286aa36ce7e45dc5/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861650/96d73156660c9e35b1f839dbf35f533b959a4d9a/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861650/c024c8d4ce58b3dc4ebbb72ef442111915395f53/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861650/da9083895189689abc87b17890814730b00ddfd4/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861650/0a04d074f765ea2cea0c38823bbbd87fb15ce405/ss_0a04d074f765ea2cea0c38823bbbd87fb15ce405.1920x1080.jpg?t=1774533764"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861650/a07051d3f84e5117128efd31cf85f9b7c748f263/ss_a07051d3f84e5117128efd31cf85f9b7c748f263.1920x1080.jpg?t=1774533764"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861650/fcb2cde98bbf6dcc249281fed2001343f16765c0/ss_fcb2cde98bbf6dcc249281fed2001343f16765c0.1920x1080.jpg?t=1774533764"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861650/bf8f71094edadd662cd73abfac2b2010ddeb2329/ss_bf8f71094edadd662cd73abfac2b2010ddeb2329.1920x1080.jpg?t=1774533764"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861650/4d24add598b90d75ba02689b3504b7af06ad8f43/ss_4d24add598b90d75ba02689b3504b7af06ad8f43.1920x1080.jpg?t=1774533764"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861650/281551f8863dca31ad038f4f09ee5719d722e97e/ss_281551f8863dca31ad038f4f09ee5719d722e97e.1920x1080.jpg?t=1774533764"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861650/f819365107aa0b7082c6ab73abaa6372082d9ffa/ss_f819365107aa0b7082c6ab73abaa6372082d9ffa.1920x1080.jpg?t=1774533764"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861650/ac4d7d3bf70b8a18f9e799be173375f6945e8a4d/ss_ac4d7d3bf70b8a18f9e799be173375f6945e8a4d.1920x1080.jpg?t=1774533764"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861650/a8c74ecc80398aa7c1589ad587622c7c0d40fa44/ss_a8c74ecc80398aa7c1589ad587622c7c0d40fa44.1920x1080.jpg?t=1774533764"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861650/999e2c783e7c4021e83901707ba679af97cff588/ss_999e2c783e7c4021e83901707ba679af97cff588.1920x1080.jpg?t=1774533764"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861650/b7ca867aa908ba79bfa2389b86adbb9590edef01/ss_b7ca867aa908ba79bfa2389b86adbb9590edef01.1920x1080.jpg?t=1774533764"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861650/ebf3b6c727b7b8e9e616794ce3a6543b92cacc08/ss_ebf3b6c727b7b8e9e616794ce3a6543b92cacc08.1920x1080.jpg?t=1774533764"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861650/4fff03452bb80be148e3d4702444bd380d22becd/ss_4fff03452bb80be148e3d4702444bd380d22becd.1920x1080.jpg?t=1774533764"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861650/7d666aa13543a3363861aff4bd17d7ca6d7ce7d5/ss_7d666aa13543a3363861aff4bd17d7ca6d7ce7d5.1920x1080.jpg?t=1774533764"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256907058/movie.293x165.jpg?t=1758552814",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/861650/498354/d29d68952ef82b372fb58f0bf1caa2903690e5fe/1750590610/dash_h264.mpd?t=1758552814"
+    },
+    {
+      "name": "Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256894393/movie.293x165.jpg?t=1758552818",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/861650/476345/2832364e4ef5c822bb92dbb41dfb2ae3a36a5a51/1750590604/dash_h264.mpd?t=1758552818"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 861650,
+    "store_url": "https://store.steampowered.com/app/861650/",
+    "required_age": 13,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Gamepad Recommended",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Input API Support",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 13055,
+    "review_negative": 2660,
+    "review_total": 15715,
+    "review_positive_percent": 83.07
+  }
+}

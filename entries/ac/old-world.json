@@ -1,0 +1,282 @@
+{
+  "key": "old-world",
+  "name": "Old World",
+  "description": "Old World is a revolutionary new historical strategy game where you lead your dynasty over generations of rule against rival kings and queens. Wage massive wars, manage your court, and build a dynasty — or watch your empire crumble to dust. What legacy will you leave behind?",
+  "developers": [
+    "Mohawk Games"
+  ],
+  "publishers": [
+    "Hooded Horse"
+  ],
+  "release_date": "2022-05-19",
+  "website": "https://mohawkgames.com/oldworld",
+  "tags": [
+    "rpg",
+    "simulation",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "split-screen",
+    "grand-strategy",
+    "4x",
+    "historical",
+    "turn-based-strategy",
+    "war",
+    "tactical",
+    "management",
+    "diplomacy",
+    "turn-based",
+    "economy",
+    "singleplayer",
+    "moddable",
+    "military",
+    "alternate-history",
+    "sandbox",
+    "replay-value"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "旧世界 Old World",
+    "tchinese": "舊世界 Old World",
+    "japanese": "Old World オールド・ワールド",
+    "koreana": "Old World 올드 월드"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "OldWorld.exe",
+          "description": "Launch Old World",
+          "type": "default"
+        },
+        {
+          "executable": "OldWorld.exe",
+          "description": "Old World in Safe Mode",
+          "type": "config"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/OldWorld/Saves",
+          "pattern": "*.zip",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/OldWorld/Saves",
+          "pattern": "*.xml",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "OldWorld.app",
+          "description": "Launch Old World",
+          "type": "default"
+        },
+        {
+          "executable": "OldWorld.app",
+          "description": "Old World in Safe Mode",
+          "type": "config"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/OldWorld/Saves",
+          "pattern": "*.zip",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/OldWorld/Saves",
+          "pattern": "*.xml",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "OldWorld",
+          "description": "Launch Old World",
+          "type": "default"
+        },
+        {
+          "executable": "OldWorld",
+          "description": "Old World in Safe Mode",
+          "type": "config"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/OldWorld/Saves",
+          "pattern": "*.zip",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/OldWorld/Saves",
+          "pattern": "*.xml",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Old World",
+    "OldWorld",
+    "OldWorld.app",
+    "旧世界 Old World",
+    "舊世界 Old World",
+    "Old World オールド・ワールド",
+    "Old World 올드 월드"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/597180/015feb0aa056dd763c0ead2b98a774719ca62ac0.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597180/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597180/283817ee3881aaf6af93ee7c08b0bc5412e3b4fa/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597180/3c3c0fd790069ce4477fdf143777bd98d78908af/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597180/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597180/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597180/ss_ce4d028d09bb38a9cd25601ce80ebb0d19a7f227.1920x1080.jpg?t=1783065880"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597180/ss_beac7b76f069fa349b4c0821923467fe7b7af04c.1920x1080.jpg?t=1783065880"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597180/ss_d61c3e34afd086cecf43c7d2bccdd5fde6c2fcf1.1920x1080.jpg?t=1783065880"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597180/ss_45cb19bd1be697323a63678662493ed546ccc5a5.1920x1080.jpg?t=1783065880"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597180/ss_af3c3394ac662b0e051ddbe81f3c43737707245a.1920x1080.jpg?t=1783065880"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597180/ss_350ecd918f86eec642e02989e56cb046fbe5e6b7.1920x1080.jpg?t=1783065880"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597180/ss_07ef9dab5ffc1fe4d22c24375fccba70e25e98a1.1920x1080.jpg?t=1783065880"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597180/ss_0575d38f40f4f991a9c3946b9fbf56d5865bfb2f.1920x1080.jpg?t=1783065880"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597180/ss_868cfda3973f843942bb2271ba7017554ed5bb3f.1920x1080.jpg?t=1783065880"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597180/ca6e1200aa0f99311005344121fc5e829cebb5eb/ss_ca6e1200aa0f99311005344121fc5e829cebb5eb.1920x1080.jpg?t=1783065880"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597180/21e7887e4f228b82e1ea5651536f05cab8ea25e6/ss_21e7887e4f228b82e1ea5651536f05cab8ea25e6.1920x1080.jpg?t=1783065880"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256854813/9929b1b188dba42079a7a0cd6593d3d008cf61b9/movie_600x337.jpg?t=1743006909",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/597180/407258/81b2c01ef88390b11b473784796c5bbb0df3805d/1750559270/dash_h264.mpd?t=1743006909"
+    }
+  ],
+  "metacritic": {
+    "score": 80,
+    "url": "https://www.metacritic.com/game/pc/old-world?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 597180,
+    "store_url": "https://store.steampowered.com/app/597180/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Steam Cloud",
+      "Includes level editor",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "Grand Strategy",
+      "Simulation",
+      "4X",
+      "Historical",
+      "Turn-Based Strategy",
+      "Multiplayer",
+      "War",
+      "Tactical",
+      "Management",
+      "Diplomacy",
+      "Turn-Based",
+      "Economy",
+      "Co-op",
+      "Singleplayer",
+      "Moddable",
+      "Military",
+      "Alternate History",
+      "Sandbox",
+      "Replay Value"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 5479,
+    "review_negative": 1183,
+    "review_total": 6662,
+    "review_positive_percent": 82.24
+  }
+}

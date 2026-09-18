@@ -1,0 +1,226 @@
+{
+  "key": "an-arcade-full-of-cats",
+  "name": "An Arcade Full of Cats",
+  "description": "Journey through gaming history's time and space, while searching for adorable feline companions in 'An Arcade Full of Cats,' the ultimate pet'em up hidden object game.",
+  "developers": [
+    "Devcats"
+  ],
+  "publishers": [
+    "Devcats"
+  ],
+  "release_date": "2023-11-17",
+  "website": "",
+  "tags": [
+    "casual",
+    "indie",
+    "free-to-play",
+    "cats",
+    "hidden-object",
+    "relaxing",
+    "puzzle",
+    "wholesome",
+    "point-and-click",
+    "cozy",
+    "minimalist",
+    "cute",
+    "adventure",
+    "arcade",
+    "family-friendly",
+    "time-travel",
+    "singleplayer",
+    "hand-drawn",
+    "collectathon",
+    "mouse-only",
+    "colorful",
+    "creature-collector"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Dutch",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Spanish - Latin America",
+    "Traditional Chinese",
+    "Turkish",
+    "Ukrainian*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Arcade.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "*.cfg",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "",
+          "pattern": "*.cfg",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "/Godot/app_userdata/An Arcade Full of Cats",
+          "pattern": "*.cfg",
+          "recursive": false
+        },
+        {
+          "root": "LinuxXdgDataHome",
+          "path": "",
+          "pattern": "*.cfg",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Arcade.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "*.cfg",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "",
+          "pattern": "*.cfg",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "/Godot/app_userdata/An Arcade Full of Cats",
+          "pattern": "*.cfg",
+          "recursive": false
+        },
+        {
+          "root": "LinuxXdgDataHome",
+          "path": "",
+          "pattern": "*.cfg",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "An Arcade Full of Cats",
+    "Arcade",
+    "Arcade.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2368470/b36b8338c1c0d29ec77c8d357c709a026b3f3fc6.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2368470/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2368470/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2368470/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2368470/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2368470/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2368470/ss_4c5d3942b6433fae2045a0c89940ba26437a9482.1920x1080.jpg?t=1764106707"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2368470/ss_957f43bdadcb227bfce45a1f6c77c415f5457097.1920x1080.jpg?t=1764106707"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2368470/ss_37e0808656e4bcf1583bc6db019bdf2f6841bc50.1920x1080.jpg?t=1764106707"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2368470/d6d5e7b541f9c37ee1a3346b81b6a9241c7b23d5/ss_d6d5e7b541f9c37ee1a3346b81b6a9241c7b23d5.1920x1080.jpg?t=1764106707"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2368470/ss_5c9c036071f8040f53c08c77ff26f82fc16390fd.1920x1080.jpg?t=1764106707"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2368470/ss_d835106ca71283adfba58a74588f84dc235c2288.1920x1080.jpg?t=1764106707"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2368470/ss_de59681003814f42429ab4f7f11a14ae8fbf99e9.1920x1080.jpg?t=1764106707"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256983086/movie.293x165.jpg?t=1700165430",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2368470/630567/22add1a57a6a39dd63921801a04b62e8b5b466df/1750813151/dash_h264.mpd?t=1700165430"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2368470,
+    "store_url": "https://store.steampowered.com/app/2368470/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Cats",
+      "Hidden Object",
+      "Relaxing",
+      "Puzzle",
+      "Wholesome",
+      "Point & Click",
+      "Casual",
+      "Cozy",
+      "Minimalist",
+      "Cute",
+      "Adventure",
+      "Arcade",
+      "Family Friendly",
+      "Time Travel",
+      "Singleplayer",
+      "Hand-drawn",
+      "Collectathon",
+      "Mouse Only",
+      "Colorful",
+      "Creature Collector"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 7870,
+    "review_negative": 134,
+    "review_total": 8004,
+    "review_positive_percent": 98.33
+  }
+}

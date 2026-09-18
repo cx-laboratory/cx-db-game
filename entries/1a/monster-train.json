@@ -1,0 +1,229 @@
+{
+  "key": "monster-train",
+  "name": "Monster Train",
+  "description": "Monster Train is a strategic roguelike deck building game with a twist. Set on a train to hell, you’ll use tactical decision making to defend multiple vertical battlegrounds. With real time competitive multiplayer and endless replayability, Monster Train is always on time.",
+  "developers": [
+    "Shiny Shoe"
+  ],
+  "publishers": [
+    "Good Shepherd Entertainment"
+  ],
+  "release_date": "2020-05-22",
+  "website": "https://www.themonstertrain.com",
+  "tags": [
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "card-battler",
+    "roguelite",
+    "card-game",
+    "deckbuilding",
+    "turn-based-tactics",
+    "roguelike",
+    "turn-based-strategy",
+    "difficult",
+    "roguelike-deckbuilder",
+    "turn-based-combat",
+    "rpg",
+    "choices-matter",
+    "procedural-generation",
+    "colorful",
+    "fantasy",
+    "demons",
+    "magic",
+    "trains"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "schinese",
+    "russian",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "怪物火车"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "MonsterTrain.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Shiny Shoe/MonsterTrain",
+          "pattern": "save.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Shiny Shoe/MonsterTrain",
+          "pattern": "preferences.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Shiny Shoe/MonsterTrain",
+          "pattern": "metagameSave.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Shiny Shoe/MonsterTrain/saves",
+          "pattern": "*.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Shiny Shoe/MonsterTrain",
+          "pattern": "metagameSaveBackup.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Shiny Shoe/MonsterTrain/run-history",
+          "pattern": "*.db",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Monster Train",
+    "MonsterTrain"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1102190/71b1344e42cc348d3b1a40404ab0547f9ed860ae.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102190/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102190/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102190/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102190/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102190/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102190/ss_edce778e9006c559cc347542ba2a61ed1461c945.1920x1080.jpg?t=1779381275"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102190/ss_de1c1453ce68155196cf15143047a615f28aee34.1920x1080.jpg?t=1779381275"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102190/ss_622feb3c33c2c6cd07dc8bab01809183e0b9dce0.1920x1080.jpg?t=1779381275"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102190/ss_cd1c375e15c677f1d79a5dcd59692f918b19ebde.1920x1080.jpg?t=1779381275"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102190/ss_f8d8e271f4e51ec75660cacb70364005c7352ff1.1920x1080.jpg?t=1779381275"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102190/ss_e8c89175e27943e0b55b6e6155e23bdb7d2e1247.1920x1080.jpg?t=1779381275"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102190/ss_ad7d60d11e761c28bd49ed21ec74c134a82393d9.1920x1080.jpg?t=1779381275"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102190/ss_482b7d543a1e5773eb469b4702258b7eb34f2da1.1920x1080.jpg?t=1779381275"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102190/ss_13f43b3b31bff7891d899172799dc0dbf3a2c0c7.1920x1080.jpg?t=1779381275"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102190/ss_7375f2956e82fe063ab56ab3c2b478d629887dd2.1920x1080.jpg?t=1779381275"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Verticality",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256784313/movie.293x165.jpg?t=1631008952",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1102190/283371/b1599797d1f84b74f466c741e3563c2c068d1175/1750619474/dash_h264.mpd?t=1631008952"
+    },
+    {
+      "name": "Monster Train The Last Divinity",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256826357/movie.293x165.jpg?t=1631008961",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1102190/354851/774606051402b1c0703a1ca5f4a0929d54e544e4/1750619489/dash_h264.mpd?t=1631008961"
+    },
+    {
+      "name": "Wild Mutations",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256792970/movie.293x165.jpg?t=1613577151",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1102190/298742/ca0121ea57505f952b8388888b11e62a3361cfd9/1750619480/dash_h264.mpd?t=1613577151"
+    },
+    {
+      "name": "Mod Support",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256805947/movie.293x165.jpg?t=1666054272",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1102190/320913/5c7a9063e009a34f6e75b476fe6f09b0cf95fad3/1750619480/dash_h264.mpd?t=1666054272"
+    },
+    {
+      "name": "Story trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256786051/movie.293x165.jpg?t=1590666657",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1102190/287071/f9bc042ccaa1a2496f8d37f69836a051dc1098e8/1750619480/dash_h264.mpd?t=1590666657"
+    }
+  ],
+  "metacritic": {
+    "score": 86,
+    "url": "https://www.metacritic.com/game/pc/monster-train?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1102190,
+    "store_url": "https://store.steampowered.com/app/1102190/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Card Battler",
+      "Roguelite",
+      "Card Game",
+      "Deckbuilding",
+      "Turn-Based Tactics",
+      "Roguelike",
+      "Turn-Based Strategy",
+      "Difficult",
+      "PvP",
+      "Strategy",
+      "Roguelike Deckbuilder",
+      "Turn-Based Combat",
+      "RPG",
+      "Choices Matter",
+      "Procedural Generation",
+      "Colorful",
+      "Fantasy",
+      "Demons",
+      "Magic",
+      "Trains"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 21925,
+    "review_negative": 944,
+    "review_total": 22869,
+    "review_positive_percent": 95.87
+  }
+}

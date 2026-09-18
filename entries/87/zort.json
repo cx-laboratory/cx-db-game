@@ -1,0 +1,175 @@
+{
+  "key": "zort",
+  "name": "Zort",
+  "description": "Zort is an action, adventure, and horror game that can be played with up to 4 people. Explore maps with your friends and have fun while escaping from various creatures. Experience a realistic horror experience with in-game voice chat with your friends!",
+  "developers": [
+    "Londer Software"
+  ],
+  "publishers": [
+    "Londer Software"
+  ],
+  "release_date": "2024-12-08",
+  "website": "https://www.londersoftware.net",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "early-access",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "horror",
+    "funny",
+    "first-person",
+    "pve",
+    "atmospheric",
+    "realistic",
+    "action-adventure",
+    "cinematic",
+    "fps",
+    "3d",
+    "linear",
+    "artificial-intelligence",
+    "team-based"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "schinese",
+    "russian",
+    "japanese",
+    "turkish",
+    "arabic"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Zort.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Zort.exe",
+          "description": "with DirectX 12",
+          "type": "option1"
+        },
+        {
+          "executable": "Zort.exe",
+          "description": "with Vulkan",
+          "type": "option2"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Zort"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3121110/785d1d26402b58e537159093b604764aa69bc2fa.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121110/427d86c164dad942ec3a769cdbfa9dc358f23e37/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121110/c44c9402b7834f2ca52ba9198c8566b44234bfef/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121110/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121110/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121110/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121110/ss_dc01aa98c7b33a177239f9d4a4b58dfb7c559ee3.1920x1080.jpg?t=1760437839"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121110/ss_4b1f1567ccff3a76e1960ed041c40c893e789365.1920x1080.jpg?t=1760437839"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121110/ss_74a483fd1354aa5920456ce9eb8a3686b5b3060d.1920x1080.jpg?t=1760437839"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121110/ss_637d08980d83f2abad27753f682eb3f7a49afa2f.1920x1080.jpg?t=1760437839"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121110/ss_2e950d6c75d30169ec15d7fcf5c569127c7aabb0.1920x1080.jpg?t=1760437839"
+    }
+  ],
+  "videos": [
+    {
+      "name": "ZORT | Episode 3: Seagate Official Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257211813/61410162637a078a63c62293003699c83665e727/movie_600x337.jpg?t=1759578338",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3121110/1105370596/35663ea64ef7c3cbb08cefc6a3bf06a2be1f0cae/1759575267/dash_h264.mpd?t=1759578338"
+    },
+    {
+      "name": "ZORT | Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257080050/411f09160076279acc3b024b3a13d49f46f99bc3/movie_600x337.jpg?t=1733688200",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3121110/796819/4c23bfc228448759d08812503ceced66e8ed9845/1750823824/dash_h264.mpd?t=1733688200"
+    },
+    {
+      "name": "ZORT | Official Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257064509/0d26957fc21132fa7ba2c2f8b2c904c89f51b88b/movie_600x337.jpg?t=1728788447",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3121110/770986/3c6165c8a4af8aa639e3d8a20abae984541845f6/1750823824/dash_h264.mpd?t=1728788447"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3121110,
+    "store_url": "https://store.steampowered.com/app/3121110/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Family Sharing",
+      "Steam Timeline"
+    ],
+    "tags": [
+      "Early Access",
+      "Horror",
+      "Online Co-Op",
+      "Co-op",
+      "Funny",
+      "Psychological Horror",
+      "First-Person",
+      "PvE",
+      "Atmospheric",
+      "Action",
+      "Realistic",
+      "Action-Adventure",
+      "Adventure",
+      "Cinematic",
+      "FPS",
+      "Multiplayer",
+      "3D",
+      "Linear",
+      "Artificial Intelligence",
+      "Team-Based"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 12418,
+    "review_negative": 1315,
+    "review_total": 13733,
+    "review_positive_percent": 90.42
+  }
+}

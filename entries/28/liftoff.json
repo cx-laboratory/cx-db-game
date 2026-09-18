@@ -1,0 +1,373 @@
+{
+  "key": "liftoff",
+  "name": "Liftoff",
+  "description": "Liftoff® is a drone simulator that translates the rush of first-person view drone flight to the digital world. Join the biggest community for virtual FPV racing and freestyle!",
+  "developers": [
+    "LuGus Studios"
+  ],
+  "publishers": [
+    "LuGus Studios"
+  ],
+  "release_date": "2018-09-13",
+  "website": "http://www.liftoff-game.com",
+  "tags": [
+    "indie",
+    "racing",
+    "simulation",
+    "sports",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "flight",
+    "realistic",
+    "first-person",
+    "immersive-sim",
+    "early-access",
+    "crafting",
+    "level-editor",
+    "singleplayer",
+    "atmospheric",
+    "exploration",
+    "education",
+    "3d",
+    "modern",
+    "parkour",
+    "science"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English*",
+    "French*",
+    "Ukrainian**languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "Liftoff穿越机模拟器"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Liftoff.exe",
+          "description": "Liftoff (default)",
+          "type": "option1"
+        },
+        {
+          "executable": "Liftoff.exe",
+          "description": "Liftoff (Vulkan rendering)",
+          "type": "option2"
+        },
+        {
+          "executable": "Liftoff.exe",
+          "description": "Liftoff (DirectX 12 rendering)",
+          "type": "option3"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LuGus Studios/Liftoff/DroneConfigurations/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LuGus Studios/Liftoff/Tracks/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LuGus Studios/Liftoff/Races/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LuGus Studios/Liftoff/DroneHUD/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LuGus Studios/Liftoff/Localization/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LuGus Studios/Liftoff/FreestyleScores/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LuGus Studios/Liftoff/LapTimes/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LuGus Studios/Liftoff/RaceTimes/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LuGus Studios/Liftoff/Recordings/",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Liftoff.app",
+          "description": "Liftoff (default)",
+          "type": "option1"
+        },
+        {
+          "executable": "Liftoff.app",
+          "description": "Liftoff (Metal rendering)",
+          "type": "option2"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LuGus Studios/Liftoff/DroneConfigurations/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LuGus Studios/Liftoff/Tracks/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LuGus Studios/Liftoff/Races/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LuGus Studios/Liftoff/DroneHUD/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LuGus Studios/Liftoff/Localization/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LuGus Studios/Liftoff/FreestyleScores/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LuGus Studios/Liftoff/LapTimes/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LuGus Studios/Liftoff/RaceTimes/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LuGus Studios/Liftoff/Recordings/",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "launch.sh",
+          "description": "Liftoff (default)",
+          "type": "option1"
+        },
+        {
+          "executable": "launch.sh",
+          "description": "Liftoff (Vulkan rendering)",
+          "type": "option2"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LuGus Studios/Liftoff/DroneConfigurations/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LuGus Studios/Liftoff/Tracks/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LuGus Studios/Liftoff/Races/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LuGus Studios/Liftoff/DroneHUD/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LuGus Studios/Liftoff/Localization/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LuGus Studios/Liftoff/FreestyleScores/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LuGus Studios/Liftoff/LapTimes/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LuGus Studios/Liftoff/RaceTimes/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LuGus Studios/Liftoff/Recordings/",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Liftoff",
+    "Liftoff.app",
+    "launch.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/410340/c6f3a404671e722222675053f40295bbbd57413a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410340/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410340/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410340/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410340/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410340/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410340/3c9513aa71c411d50b64b85af61b9ec6d60b0979/ss_3c9513aa71c411d50b64b85af61b9ec6d60b0979.1920x1080.jpg?t=1781526881"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410340/ss_a1903b9c5cf9e963eca14299896d7704cb423d7e.1920x1080.jpg?t=1781526881"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410340/ss_c9de3de1077b75dc10bc266954f419ce7b7f0862.1920x1080.jpg?t=1781526881"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410340/ss_9309490d78104abbaa60276966537e6ff0a82666.1920x1080.jpg?t=1781526881"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410340/ss_acc75a661a638fcd159ef172f7ebf42a0fbaa294.1920x1080.jpg?t=1781526881"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410340/ss_a0f9df953120a5611a41201d82e35d51a81a9666.1920x1080.jpg?t=1781526881"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410340/ss_c1baa096bddce1a651a21586590fc1f6b6642420.1920x1080.jpg?t=1781526881"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Liftoff Trailer 2023",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256924122/movie.293x165.jpg?t=1673014977",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/410340/527485/29472429fbae11aeabb9ee9c263eb6f78d279682/1750526881/dash_h264.mpd?t=1673014977"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 410340,
+    "store_url": "https://store.steampowered.com/app/410340/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Gamepad Recommended",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Flight",
+      "Racing",
+      "Realistic",
+      "First-Person",
+      "Sports",
+      "Multiplayer",
+      "Indie",
+      "Immersive Sim",
+      "Early Access",
+      "Crafting",
+      "Level Editor",
+      "Singleplayer",
+      "Atmospheric",
+      "Exploration",
+      "Education",
+      "3D",
+      "Modern",
+      "Parkour",
+      "Science"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 12893,
+    "review_negative": 656,
+    "review_total": 13549,
+    "review_positive_percent": 95.16
+  }
+}

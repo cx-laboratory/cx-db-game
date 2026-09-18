@@ -1,0 +1,213 @@
+{
+  "key": "sunless-sea",
+  "name": "Sunless Sea",
+  "description": "LOSE YOUR MIND. EAT YOUR CREW. DIE. Take the helm of your steamship and set sail for the unknown! Sunless Sea is a game of discovery, loneliness and frequent death, set in the award-winning Victorian Gothic universe of Fallen London.",
+  "developers": [
+    "Failbetter Games"
+  ],
+  "publishers": [
+    "Failbetter Games"
+  ],
+  "release_date": "2015-02-07",
+  "website": "http://www.failbettergames.com/sunless/",
+  "tags": [
+    "adventure",
+    "indie",
+    "rpg",
+    "exploration",
+    "lovecraftian",
+    "survival",
+    "story-rich",
+    "dark",
+    "atmospheric",
+    "singleplayer",
+    "roguelike",
+    "horror",
+    "steampunk",
+    "great-soundtrack",
+    "open-world",
+    "roguelite",
+    "2d",
+    "top-down",
+    "gothic",
+    "naval"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Sunless Sea.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Failbetter Games/Sunless Sea/saves",
+          "pattern": "*.json",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Sunless Sea.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Failbetter Games/Sunless Sea/saves",
+          "pattern": "*.json",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Sunless Sea.x86_64",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "Sunless Sea.x86",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Failbetter Games/Sunless Sea/saves",
+          "pattern": "*.json",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Sunless Sea",
+    "Sunless Sea.app",
+    "Sunless Sea.x86_64",
+    "Sunless Sea.x86"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/304650/d96957b85c273bfed7986cb229669492f19e12aa.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304650/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304650/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304650/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304650/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304650/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304650/ss_ae2b617e2ca6d55caeb38e833f1f15000d57e5d7.1920x1080.jpg?t=1710762120"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304650/ss_8969a7855d1d5c73d01e9798f702cfe4ee7902fc.1920x1080.jpg?t=1710762120"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304650/ss_8306631f4ab9919756b346f8a48b1d35ef29a8d4.1920x1080.jpg?t=1710762120"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304650/ss_62af66925a80b87773b3dc613f14ae0019af6b93.1920x1080.jpg?t=1710762120"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304650/ss_6b46ee1e4dca7a927fcdb2729e0aae7fd1e7e928.1920x1080.jpg?t=1710762120"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304650/ss_49b62919e157bd10fcaeb87080b7e30f6a94612c.1920x1080.jpg?t=1710762120"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304650/ss_1bbcfe9a22c7bb66403381cc5a58d58ce5037caf.1920x1080.jpg?t=1710762120"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304650/ss_1bff62a7948b2e8a41fd79f21c10b146d6181f2b.1920x1080.jpg?t=1710762120"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2037043/movie.293x165.jpg?t=1447368681",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/304650/30920/3f8b0cc042a4240ae9b457a39b0f252fc3084098/1750504212/dash_h264.mpd?t=1447368681"
+    },
+    {
+      "name": "Explore Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2032834/movie.293x165.jpg?t=1447362278",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/304650/21807/c00a5dac1fbe589e57eda212704a577cb1c9cf72/1750504202/dash_h264.mpd?t=1447362278"
+    },
+    {
+      "name": "Zubmariner Alpha: Lights in the Darkness",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256660203/movie.293x165.jpg?t=1454000338",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/304650/51021/a98ac3ead9a76c6db097f87ae4899adf2ed8dc66/1750504214/dash_h264.mpd?t=1454000338"
+    }
+  ],
+  "metacritic": {
+    "score": 81,
+    "url": "https://www.metacritic.com/game/pc/sunless-sea?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 304650,
+    "store_url": "https://store.steampowered.com/app/304650/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Exploration",
+      "Lovecraftian",
+      "Survival",
+      "Story Rich",
+      "Dark",
+      "Adventure",
+      "Atmospheric",
+      "Singleplayer",
+      "RPG",
+      "Roguelike",
+      "Indie",
+      "Horror",
+      "Steampunk",
+      "Great Soundtrack",
+      "Open World",
+      "Roguelite",
+      "2D",
+      "Top-Down",
+      "Gothic",
+      "Naval"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7907,
+    "review_negative": 1614,
+    "review_total": 9521,
+    "review_positive_percent": 83.05
+  }
+}

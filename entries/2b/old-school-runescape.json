@@ -1,0 +1,193 @@
+{
+  "key": "old-school-runescape",
+  "name": "Old School RuneScape",
+  "description": "The best retro fantasy MMORPG on the planet. Old School is RuneScape but… older! This is the open world you know and love, but as it was in 2007. Saying that, it’s even better than that – Old School is shaped by you, its players, with regular new content, fixes and expansions voted for by the fans!",
+  "developers": [
+    "Jagex Ltd"
+  ],
+  "publishers": [
+    "Jagex Ltd"
+  ],
+  "release_date": "2021-02-24",
+  "website": "https://oldschool.runescape.com/",
+  "tags": [
+    "adventure",
+    "massively-multiplayer",
+    "rpg",
+    "free-to-play",
+    "multiplayer",
+    "mmorpg",
+    "nostalgia",
+    "fantasy",
+    "story-rich",
+    "character-customization",
+    "third-person",
+    "pve",
+    "open-world",
+    "old-school",
+    "pvp",
+    "great-soundtrack",
+    "classic",
+    "exploration",
+    "lore-rich",
+    "lgbtq"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "bin/win64/oslaunch.exe",
+          "description": "Run Internal Launcher",
+          "type": "default"
+        },
+        {
+          "executable": "bin/win64/osclient.exe",
+          "description": "Play Old School RuneScape",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "bin/osx/oslaunch.app",
+          "description": "Run Internal Launcher",
+          "type": "default"
+        },
+        {
+          "executable": "bin/osx/osclient.app",
+          "description": "Play Old School RuneScape",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Old School RuneScape",
+    "bin/win64/oslaunch",
+    "bin/win64/osclient",
+    "bin/osx/oslaunch.app",
+    "bin/osx/osclient.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1343370/6f3b359a68383291bcd2ab49aac079c13c02d8bb.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343370/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343370/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343370/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343370/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343370/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343370/ss_fab277591d7bc78c3f1839fbe4e79b02a506add9.1920x1080.jpg?t=1779113374"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343370/ss_ac85572b2f56a10c2e6f57424aaa493a0f2de654.1920x1080.jpg?t=1779113374"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343370/ss_de325a09eb1b96f9602907e1821f5d77cb0006cd.1920x1080.jpg?t=1779113374"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343370/ss_fda26b6573726e03e87fe6f67080e59e7d126ee6.1920x1080.jpg?t=1779113374"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343370/ss_0f3215fb407d53364b4e6d7a35f573c051b343c6.1920x1080.jpg?t=1779113374"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343370/ss_5424ec6b0a82428a3cc35d5363f163e8f59a9c8f.1920x1080.jpg?t=1779113374"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343370/ss_820965eebb8130d7a44f7f934574926783dea14d.1920x1080.jpg?t=1779113374"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343370/ss_ad97244aad2ae71853445488130a6b19541b8c43.1920x1080.jpg?t=1779113374"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343370/ss_814e11dd9ea687f1403379ffdb9d31d41af95a04.1920x1080.jpg?t=1779113374"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343370/ss_00f2095a7400a1d85a0058ae41b4e8caaee276aa.1920x1080.jpg?t=1779113374"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Fresh Start Worlds",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256915190/movie.293x165.jpg?t=1702553707",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1343370/512065/2410a434577ef841b259c863516eebda25eb2f99/1750676096/dash_h264.mpd?t=1702553707"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256823522/movie.293x165.jpg?t=1614182077",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1343370/349827/b57dbf3d8108dbe9f501a6813f7e6db64eb0d252/1750676078/dash_h264.mpd?t=1614182077"
+    },
+    {
+      "name": "Old School RuneScape Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256818071/movie.293x165.jpg?t=1611945161",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1343370/340276/154a1269b5c245b515d9575fae66948415452f4b/1750676069/dash_h264.mpd?t=1611945161"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1343370,
+    "store_url": "https://store.steampowered.com/app/1343370/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "Family Sharing"
+    ],
+    "tags": [
+      "MMORPG",
+      "Free to Play",
+      "Adventure",
+      "Nostalgia",
+      "Fantasy",
+      "Story Rich",
+      "Massively Multiplayer",
+      "Multiplayer",
+      "RPG",
+      "Character Customization",
+      "Third Person",
+      "PvE",
+      "Open World",
+      "Old School",
+      "PvP",
+      "Great Soundtrack",
+      "Classic",
+      "Exploration",
+      "Lore-Rich",
+      "LGBTQ+"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 16955,
+    "review_negative": 3540,
+    "review_total": 20495,
+    "review_positive_percent": 82.73
+  }
+}

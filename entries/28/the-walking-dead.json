@@ -1,0 +1,126 @@
+{
+  "key": "the-walking-dead",
+  "name": "The Walking Dead",
+  "description": "A five-part adventure horror series set in the same universe as Robert Kirkman’s award-winning comic book series.",
+  "developers": [
+    "Telltale Games"
+  ],
+  "publishers": [
+    "Skybound Games"
+  ],
+  "release_date": "2012-04-25",
+  "website": "https://help.skybound.com/",
+  "tags": [
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "WalkingDead101.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "TheWalkingDead.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "The Walking Dead",
+    "WalkingDead101",
+    "TheWalkingDead.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/207610/87a13ae0a2a76488792924aa8bb0dd8a7760f931.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207610/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207610/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207610/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207610/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207610/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207610/ss_7a2c18f45ed5c6464ae803ae49c32bf3717ae375.1920x1080.jpg?t=1729702559"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207610/ss_b8880868558943bf6b8e1aa94fe9ab51ea04472a.1920x1080.jpg?t=1729702559"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207610/ss_b698433b560c915812b37b2c8c5ef16b71a777e7.1920x1080.jpg?t=1729702559"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207610/ss_8652e0679f3de9d0382a0164888c60a5edb0b076.1920x1080.jpg?t=1729702559"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207610/ss_aa4b8942069c3dc4c1352524c703fefa18145b27.1920x1080.jpg?t=1729702559"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207610/ss_044086628ad6b406be3f75d9bbb9656512d5ff18.1920x1080.jpg?t=1729702559"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Walking Dead Story Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81627/movie.293x165.jpg?t=1447355830",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/207610/7561/72a658e72f69ea1714e7d18663a6bcfb57b007d9/1750493165/dash_h264.mpd?t=1447355830"
+    },
+    {
+      "name": "The Walking Dead Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81580/movie.293x165.jpg?t=1447355692",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/207610/7350/4133d615d83e14a4b311bb1e896127d02d855832/1750493163/dash_h264.mpd?t=1447355692"
+    }
+  ],
+  "metacritic": {
+    "score": 82,
+    "url": "https://www.metacritic.com/game/pc/the-walking-dead-episode-1---a-new-day?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 207610,
+    "store_url": "https://store.steampowered.com/app/207610/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 77605,
+    "review_negative": 2137,
+    "review_total": 79742,
+    "review_positive_percent": 97.32
+  }
+}

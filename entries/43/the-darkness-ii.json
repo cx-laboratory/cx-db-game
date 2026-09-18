@@ -1,0 +1,140 @@
+{
+  "key": "the-darkness-ii",
+  "name": "The Darkness II",
+  "description": "An intense first person shooter that delivers a twisted and gripping narrative of tragedy, modern crime drama, and supernatural horror.",
+  "developers": [
+    "Digital Extremes"
+  ],
+  "publishers": [
+    "2K"
+  ],
+  "release_date": "2012-02-09",
+  "website": "http://www.embracethedarkness.com/",
+  "tags": [
+    "action",
+    "multiplayer",
+    "co-op"
+  ],
+  "supported_platforms": [
+    "macos",
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian",
+    "japanese"
+  ],
+  "name_localized": {
+    "schinese": "黑暗领域2"
+  },
+  "platforms": {
+    "macos": {
+      "launch": [
+        {
+          "executable": "The Darkness II.app/Contents/MacOS/cider",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "windows": {
+      "launch": [
+        {
+          "executable": "DarknessII.exe",
+          "description": "DarknessII",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "The Darkness II",
+    "The Darkness II.app/Contents/MacOS/cider",
+    "DarknessII"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/67370/6ca6291fe216a8cc5c56f01b1e7f83e396a8fa81.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/67370/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/67370/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/67370/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/67370/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/67370/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/67370/ss_5d39af28725c759d6c2feb3f2da01968806e68d9.1920x1080.jpg?t=1728674715"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/67370/ss_282ccfcd2bb1fd2f7d5b26cb504404fed7266805.1920x1080.jpg?t=1728674715"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/67370/ss_93fcd5f8c5bcb14cfa384071a7488b100c8f13ac.1920x1080.jpg?t=1728674715"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/67370/ss_f1564262919740f0b42a830aae5bd81f652ef3bd.1920x1080.jpg?t=1728674715"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/67370/ss_ae8f4c100922cd76eed4798aa706d944a9a78f87.1920x1080.jpg?t=1728674715"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/67370/ss_4bbd95b4154c945caf287bb7d48a8bb79e872b2b.1920x1080.jpg?t=1728674715"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/67370/ss_8091aa96dc0cf888afbaa7a30a018d9a398fdbb7.1920x1080.jpg?t=1728674715"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/67370/ss_541f2611cc2a1072a3aff5635a765fe78147e186.1920x1080.jpg?t=1728674715"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/67370/ss_dfaf1ac092021fc7968da87f5a91d17c0fc0c4c6.1920x1080.jpg?t=1728674715"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/67370/ss_c116b201c3364bfc3c013a3a65706e365cdd7a14.1920x1080.jpg?t=1728674715"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Darkness II Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81370/movie.293x165.jpg?t=1526508302",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/67370/6655/969961229d6f711e06497d16b9589bdd91193b8c/1751249064/dash_h264.mpd?t=1526508302"
+    }
+  ],
+  "metacritic": {
+    "score": 77,
+    "url": "https://www.metacritic.com/game/pc/the-darkness-ii?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 67370,
+    "store_url": "https://store.steampowered.com/app/67370/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Steam Achievements",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 19143,
+    "review_negative": 1761,
+    "review_total": 20904,
+    "review_positive_percent": 91.58
+  }
+}

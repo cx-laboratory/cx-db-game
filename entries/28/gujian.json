@@ -1,0 +1,133 @@
+{
+  "key": "gujian",
+  "name": "古剑奇谭(GuJian)",
+  "description": "《古剑奇谭：琴心剑魄今何在》（《古剑奇谭》）由网元圣唐旗下上海烛龙自主研发，于2010年7月正式发行，是国内首部全程配音的大型3D仙侠类单机角色扮演游戏。 游戏采用架空的历史设定，在其中融入了众多真实的人文地理风貌，通过合适的方式，将这些带有浓郁古韵和中国味的风物呈现在玩家的眼前。",
+  "developers": [
+    "上海烛龙信息科技有限公司"
+  ],
+  "publishers": [
+    "北京网元圣唐娱乐科技有限公司"
+  ],
+  "release_date": "2017-09-08",
+  "website": "http://gjqt.wangyuan.com/index.shtml",
+  "tags": [
+    "rpg",
+    "story-rich",
+    "turn-based",
+    "wuxia",
+    "xianxia",
+    "martial-arts",
+    "great-soundtrack",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "schinese"
+  ],
+  "name_localized": {
+    "sc_schinese": "古剑奇谭(GuJian)"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "bin\\GuJian.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "bin\\GuJianConfigTool.exe",
+          "description": "配置程序",
+          "type": "config"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "古剑奇谭(GuJian)",
+    "bin\\GuJian",
+    "bin\\GuJianConfigTool"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/570780/5b3f83df52d07a90a124db06f16c416b2a164197.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570780/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570780/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570780/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570780/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570780/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570780/ss_1215f90c58f0c82c6bbfa772da5e65fd67829044.1920x1080.jpg?t=1726190878"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570780/ss_761dff10b046977a1f397112df6efda42b3b8455.1920x1080.jpg?t=1726190878"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570780/ss_4f3de8ce204436e545f6191dfd2f0ce54104a470.1920x1080.jpg?t=1726190878"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570780/ss_dbf1490ff6911dceeef4b568d9e031f43e81000a.1920x1080.jpg?t=1726190878"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570780/ss_d297d216a31c58b8cc0fe49d436c9df4fea20198.1920x1080.jpg?t=1726190878"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570780/ss_1c2542bc6873c6e3574e900728d3ac0098fd908b.1920x1080.jpg?t=1726190878"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570780/ss_eeef4d6072fcb2465d991b4f1b1e4575dcf4cbe4.1920x1080.jpg?t=1726190878"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570780/ss_9ea467e7e37d1b5e17b0ed9596319b9e9a3475ef.1920x1080.jpg?t=1726190878"
+    }
+  ],
+  "videos": [
+    {
+      "name": "《古剑奇谭》宣传片二",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256689803/movie.293x165.jpg?t=1501725473",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/570780/112835/8f1d358c9a2945b55fea3573c35fb0a30c9d646e/1751303284/dash_h264.mpd?t=1501725473"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 570780,
+    "store_url": "https://store.steampowered.com/app/570780/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "RPG",
+      "Story Rich",
+      "Turn-Based",
+      "Wuxia",
+      "Xianxia",
+      "Martial Arts",
+      "Great Soundtrack",
+      "Adventure"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 4530,
+    "review_negative": 1143,
+    "review_total": 5673,
+    "review_positive_percent": 79.85
+  }
+}

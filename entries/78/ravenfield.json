@@ -1,0 +1,232 @@
+{
+  "key": "ravenfield",
+  "name": "Ravenfield",
+  "description": "Fight upon the Ravenfield together with your Blue allies! Take down those pesky Reds using helicopters, tanks, guns, and active ragdoll physics!",
+  "developers": [
+    "SteelRaven7"
+  ],
+  "publishers": [
+    "SteelRaven7"
+  ],
+  "release_date": "2017-05-18",
+  "website": "http://ravenfieldgame.com/",
+  "tags": [
+    "action",
+    "indie",
+    "early-access",
+    "fps",
+    "war",
+    "singleplayer",
+    "shooter",
+    "military",
+    "sandbox",
+    "first-person",
+    "funny",
+    "moddable",
+    "team-based",
+    "tactical",
+    "strategy",
+    "simulation",
+    "physics",
+    "realistic",
+    "atmospheric",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ravenfield.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "ravenfield.exe",
+          "description": "Ravenfield (No Mods)",
+          "type": "option1"
+        },
+        {
+          "executable": "ravenfield.exe",
+          "description": "Ravenfield (DirectX 9)",
+          "type": "option2"
+        },
+        {
+          "executable": "ravenfield.exe",
+          "description": "Ravenfield (DirectX 9, No Mods)",
+          "type": "option3"
+        },
+        {
+          "executable": "ravenfield.exe",
+          "description": "",
+          "type": "benchmark"
+        },
+        {
+          "executable": "ravenfield.exe",
+          "description": "Ravenfield (Safe Mode)",
+          "type": "option2"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "ravenfield.app/Contents/MacOS/RavenfieldSteam",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "ravenfield.app/Contents/MacOS/RavenfieldSteam",
+          "description": "Ravenfield (No Mods)",
+          "type": "option1"
+        },
+        {
+          "executable": "ravenfield.app/Contents/MacOS/RavenfieldSteam",
+          "description": "",
+          "type": "benchmark"
+        },
+        {
+          "executable": "ravenfield.app",
+          "description": "Ravenfield (EA25)",
+          "type": "option1"
+        },
+        {
+          "executable": "ravenfield.app",
+          "description": "Ravenfield (EA25, No Mods)",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "ravenfield.x86",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "ravenfield.x86_64",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "ravenfield.x86",
+          "description": "Ravenfield (No Mods)",
+          "type": "option1"
+        },
+        {
+          "executable": "ravenfield.x86_64",
+          "description": "Ravenfield (No Mods)",
+          "type": "option1"
+        },
+        {
+          "executable": "ravenfield.x86_64",
+          "description": "",
+          "type": "benchmark"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Ravenfield",
+    "ravenfield",
+    "ravenfield.app/Contents/MacOS/RavenfieldSteam",
+    "ravenfield.app",
+    "ravenfield.x86",
+    "ravenfield.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/636480/f6950fb3d34067c4fd6ece36d252d9a6590b84e8.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/636480/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/636480/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/636480/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/636480/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/636480/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/636480/ss_13b815d77ccc33e0173863b5745ac971a7ea4756.1920x1080.jpg?t=1664197939"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/636480/ss_068223a7c420da11898679ef729f46ce2b81a847.1920x1080.jpg?t=1664197939"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/636480/ss_3b5b2f68327308a28f89f6508cc44889f083c110.1920x1080.jpg?t=1664197939"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/636480/ss_104bc42bce80337989669e191cffdac6a1085569.1920x1080.jpg?t=1664197939"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/636480/ss_119579cb79a9469fa6d130a5b589bf307843fe6d.1920x1080.jpg?t=1664197939"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Greenlight Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256684619/movie.293x165.jpg?t=1494943741",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/636480/101719/f73eb75656ec5ed5c177618b012eff5cad08c79c/1750564467/dash_h264.mpd?t=1494943741"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 636480,
+    "store_url": "https://store.steampowered.com/app/636480/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "FPS",
+      "War",
+      "Singleplayer",
+      "Shooter",
+      "Military",
+      "Sandbox",
+      "Action",
+      "First-Person",
+      "Early Access",
+      "Funny",
+      "Moddable",
+      "Team-Based",
+      "Tactical",
+      "Strategy",
+      "Simulation",
+      "Indie",
+      "Physics",
+      "Realistic",
+      "Atmospheric",
+      "Adventure"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 76736,
+    "review_negative": 2601,
+    "review_total": 79337,
+    "review_positive_percent": 96.72
+  }
+}

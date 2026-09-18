@@ -1,0 +1,811 @@
+{
+  "key": "lost-records-bloom-rage",
+  "name": "Lost Records: Bloom & Rage",
+  "description": "Embark on a new narrative journey by the creators of Life is Strange. Film your summer of 1995 and create memories of a lifetime with your new friends. 27 years later, confront the dark secrets that made you all promise to never speak again after that fateful summer.",
+  "developers": [
+    "DON'T NOD"
+  ],
+  "publishers": [
+    "DON'T NOD"
+  ],
+  "release_date": "2025-02-18",
+  "website": "https://dont-nod.com/",
+  "tags": [
+    "adventure",
+    "indie",
+    "choices-matter",
+    "lgbtq",
+    "female-protagonist",
+    "story-rich",
+    "romance",
+    "1990-s",
+    "multiple-endings",
+    "nature",
+    "mystery",
+    "atmospheric",
+    "interactive-fiction",
+    "cinematic",
+    "third-person",
+    "stylized",
+    "psychological",
+    "episodic",
+    "dynamic-narration",
+    "singleplayer",
+    "dialogue-heavy"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "失落的记录：绽放与愤怒"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI.exe",
+          "description": "(FULLGAME) Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(FULLGAME) Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "(FULLGAME) Shipping",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI.exe",
+          "description": "(DEMO) Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(DEMO) Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "(DEMO) Shipping",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI.exe",
+          "description": "(FULLGAME) Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(FULLGAME) Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "(FULLGAME) Shipping",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI.exe",
+          "description": "(DEMO) Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(DEMO) Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "(DEMO) Shipping",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI.exe",
+          "description": "(FULLGAME) Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(FULLGAME) Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "(FULLGAME) Shipping",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI.exe",
+          "description": "(DEMO) Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(DEMO) Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "(DEMO) Shipping",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "Play Lost Records: Bloom & Rage",
+          "type": "default"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(FULLGAME) Dev",
+          "type": "default"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "Demo (Partners)",
+          "type": "default"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "(FULLGAME) Lost Records: Bloom & Rage - Shipping",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "(DEMO) Lost Records: Bloom & Rage - Shipping",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(FULLGAME) Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(DEMO) Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "(EPISODE 1) Lost Records: Bloom & Rage - Shipping",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "(DEMO Episode 1) Lost Records: Bloom & Rage - Shipping",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(EPISODE 1) Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(DEMO Episode 1) Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI.exe",
+          "description": "(FULLGAME) Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(FULLGAME) Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "(FULLGAME) Shipping",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI.exe",
+          "description": "(DEMO) Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(DEMO) Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "(DEMO) Shipping",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(FULLGAME) Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "(FULLGAME) Shipping",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(DEMO) Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "(DEMO) Shipping",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI.exe",
+          "description": "(DEMO Episode 1) Lost Records: Bloom & Rage - Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI.exe",
+          "description": "(EPISODE 1) Lost Records: Bloom & Rage - Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI.exe",
+          "description": "(DEMO Episode 1) Lost Records: Bloom & Rage - Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI.exe",
+          "description": "(EPISODE 1) Lost Records: Bloom & Rage - Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(DEMO Episode 1) Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(EPISODE 1) Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "(DEMO Episode 1) Lost Records: Bloom & Rage - Shipping",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "(EPISODE 1) Lost Records: Bloom & Rage - Shipping",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI.exe",
+          "description": "(DEMO Episode 1) Lost Records: Bloom & Rage - Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI.exe",
+          "description": "(EPISODE 1) Lost Records: Bloom & Rage - Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(DEMO Episode 1) Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(EPISODE 1) Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "(DEMO Episode 1) Lost Records: Bloom & Rage - Shipping",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "(EPISODE 1) Lost Records: Bloom & Rage - Shipping",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "(EPISODE 1) Lost Records: Bloom & Rage - Shipping",
+          "type": "default"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(ClearPSOCache)(EP1) Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(ClearPSOCache)(EP1) Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(ClearPSOCache) Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(ClearPSOCache ONLY) Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "Launch game",
+          "type": "default"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(EPISODE 1) Lost Records: Bloom & Rage - Test",
+          "type": "default"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI.exe",
+          "description": "(EPISODE 1) Lost Records: Bloom & Rage - Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(EPISODE 1) Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI.exe",
+          "description": "(EPISODE 1) Lost Records: Bloom & Rage - Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(EPISODE 1) Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "(EPISODE 1) Lost Records: Bloom & Rage - Shipping",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "(EPISODE 1) Lost Records: Bloom & Rage - Shipping",
+          "type": "default"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "Lost Records: Bloom & Rage - Tape 1",
+          "type": "default"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(PSOCache Recording)(EP1) Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI.exe",
+          "description": "(EPISODE 1) Lost Records: Bloom & Rage - Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(EPISODE 1) Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI.exe",
+          "description": "(EPISODE 1) Lost Records: Bloom & Rage - Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(EPISODE 1) Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "(EPISODE 1) Lost Records: Bloom & Rage - Shipping",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(PSOCache Recording)(EP1) Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "(EPISODE 1) Lost Records: Bloom & Rage - Shipping",
+          "type": "default"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "Lost Records: Bloom & Rage - Tape 1",
+          "type": "default"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "Lost Records: Bloom & Rage - Shipping",
+          "type": "default"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(PSOCache Recording) Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI.exe",
+          "description": "Lost Records: Bloom & Rage - Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "Lost Records: Bloom & Rage - Shipping",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(PSOCache Recording) Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "Lost Records: Bloom & Rage - Shipping",
+          "type": "default"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI.exe",
+          "description": "Lost Records: Bloom & Rage - Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI.exe",
+          "description": "Lost Records: Bloom & Rage - Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "Lost Records: Bloom & Rage - Shipping",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(PSOCache Recording) Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "Lost Records: Bloom & Rage - Shipping",
+          "type": "default"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI.exe",
+          "description": "Lost Records: Bloom & Rage - Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI.exe",
+          "description": "Lost Records: Bloom & Rage - Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "Lost Records: Bloom & Rage - Shipping",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(PSOCache Recording) Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "Lost Records: Bloom & Rage - Shipping",
+          "type": "default"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI.exe",
+          "description": "Lost Records: Bloom & Rage - Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI.exe",
+          "description": "Lost Records: Bloom & Rage - Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "Lost Records: Bloom & Rage - Shipping",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(PSOCache Recording) Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "Lost Records: Bloom & Rage - Shipping",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI.exe",
+          "description": "Lost Records: Bloom & Rage - Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "Lost Records: Bloom & Rage - Shipping",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\UNI-Win64-Test.exe",
+          "description": "(PSOCache Recording) Lost Records: Bloom & Rage - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "UNI\\Binaries\\Win64\\Bloom&Rage.exe",
+          "description": "Lost Records: Bloom & Rage - Shipping",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "UNI/Saved/SaveGames",
+          "pattern": "*GameSave.sav",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "UNI/Saved/SaveGames",
+          "pattern": "*UserSettings.sav",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "UNI/Saved/SaveGames",
+          "pattern": "clip_*.webm",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "UNI/Saved/SaveGames",
+          "pattern": "clip_*.jpg",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Lost Records: Bloom & Rage",
+    "UNI\\Binaries\\Win64\\UNI",
+    "UNI\\Binaries\\Win64\\UNI-Win64-Test",
+    "UNI\\Binaries\\Win64\\Bloom&Rage",
+    "失落的记录：绽放与愤怒"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1902960/5ef94c9e1c9f3ad82a3733f12aae69d6c5814101.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1902960/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1902960/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1902960/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1902960/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1902960/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1902960/240aea4f73f198d5680fbb690f7f93b5c5a29eb5/ss_240aea4f73f198d5680fbb690f7f93b5c5a29eb5.1920x1080.jpg?t=1780566068"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1902960/47dd19e352aa61c3deea2273a8c859d516b83600/ss_47dd19e352aa61c3deea2273a8c859d516b83600.1920x1080.jpg?t=1780566068"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1902960/5c76ddc075184280d8be4eff8ba9d5eb384270e7/ss_5c76ddc075184280d8be4eff8ba9d5eb384270e7.1920x1080.jpg?t=1780566068"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1902960/5ec1a2f0b5e04b5638650e9d30e29c5102362f56/ss_5ec1a2f0b5e04b5638650e9d30e29c5102362f56.1920x1080.jpg?t=1780566068"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1902960/ss_c5cafa6567a4f69bf7800dd210e8203b1d96a39c.1920x1080.jpg?t=1780566068"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1902960/ss_014ee10912f8a01a19b9c64658f62e1743cd6d44.1920x1080.jpg?t=1780566068"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1902960/ss_efc7d1c020e39041de21371a24131c8c7721bf39.1920x1080.jpg?t=1780566068"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1902960/ss_e2c65149a03908de40e3fc06fd83d75c6e7b22bf.1920x1080.jpg?t=1780566068"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1902960/ss_dbbd8fe6af93448282359b80d6b2ade4f4a778e6.1920x1080.jpg?t=1780566068"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1902960/ss_a1c06cd0be3234b375eaad5c44662135aee55a08.1920x1080.jpg?t=1780566068"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1902960/ss_d525f4ccf61512614afb1d25d20453d6d1a88b02.1920x1080.jpg?t=1780566068"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1902960/ss_3efe444163d418f162a8ec19c4a7039c444b93e2.1920x1080.jpg?t=1780566068"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1902960/ss_0734b75d47ff10e147b699c0a093e06e8ba671ae.1920x1080.jpg?t=1780566068"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1902960/ss_ae6299e328b8fdaea9b2647f6f7fc777bbe3c92a.1920x1080.jpg?t=1780566068"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1902960/ss_69f7784a0a0e97fd415d67f28de90308d831f501.1920x1080.jpg?t=1780566068"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1902960/ss_be95295c2ed18228a3f51cfef0e32d4c8b5985a3.1920x1080.jpg?t=1780566068"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1902960/ss_5e6bfe23abd4bc2d7db94fc8a9e183a89ee10200.1920x1080.jpg?t=1780566068"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1902960/ss_65987dd83a130135cb026a2be34c4e1bb78b5118.1920x1080.jpg?t=1780566068"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1902960/ss_8e1d6d8dfe8457fbaca5c13230ab0f9ea089dae9.1920x1080.jpg?t=1780566068"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1902960/ss_47c8fc3ce13b6b71990014f133640528f280f91d.1920x1080.jpg?t=1780566068"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer TAPE 2 - EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257125780/47c5c94bddddf1df045685a98b95705c540440d8/movie_600x337.jpg?t=1744736458",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1902960/869687/156f985efcd0aaa0553a5b24b94e016c74e13ba8/1750740634/dash_h264.mpd?t=1744736458"
+    },
+    {
+      "name": "Launch Trailer - EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257099615/0bd15ac5e35a736eddd7bb55a661406edd21424a/movie_600x337.jpg?t=1739874228",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1902960/831041/3b24ba4a36d9dd0ce8615421212934f4d38d5f3b/1750740615/dash_h264.mpd?t=1739874228"
+    },
+    {
+      "name": "Abyss Trailer - EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257078548/cf3dd4905fd7a1fd13c75372b6ba1a326055aefd/movie_600x337.jpg?t=1733245233",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1902960/794447/bf93cf3b1f06011fde074f00fe58ae516392d7e6/1750740607/dash_h264.mpd?t=1733245233"
+    },
+    {
+      "name": "Gameplay Trailer - EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257047882/movie.293x165.jpg?t=1724178828",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1902960/743230/9b81946a5bcac9cfd842821adbdf6c583bf13d7e/1750740596/dash_h264.mpd?t=1724178828"
+    },
+    {
+      "name": "LoFi Summer Trailer - EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257018928/movie.293x165.jpg?t=1714410752",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1902960/692527/06bd82300c54118fb64a6d7189d28e967b1da4ab/1750740578/dash_h264.mpd?t=1714410752"
+    },
+    {
+      "name": "Reveal Trailer - EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256987484/movie.293x165.jpg?t=1714410761",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1902960/638034/217af465ede6e23174653625eca3ca87dd9f35eb/1750740577/dash_h264.mpd?t=1714410761"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1902960,
+    "store_url": "https://store.steampowered.com/app/1902960/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Surround Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Choices Matter",
+      "LGBTQ+",
+      "Female Protagonist",
+      "Story Rich",
+      "Romance",
+      "1990's",
+      "Multiple Endings",
+      "Nature",
+      "Mystery",
+      "Atmospheric",
+      "Interactive Fiction",
+      "Cinematic",
+      "Third Person",
+      "Stylized",
+      "Psychological",
+      "Episodic",
+      "Dynamic Narration",
+      "Singleplayer",
+      "Adventure",
+      "Dialogue Heavy"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 5340,
+    "review_negative": 843,
+    "review_total": 6183,
+    "review_positive_percent": 86.37
+  }
+}

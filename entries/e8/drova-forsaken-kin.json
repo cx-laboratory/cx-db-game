@@ -1,0 +1,259 @@
+{
+  "key": "drova-forsaken-kin",
+  "name": "Drova - Forsaken Kin",
+  "description": "Drova is an Action-RPG that marries the dark grim tones of its genre with the mysticism of Celtic mythology. Encounter a society where ancient restless spirits and divided factions battle for dominance. Uncover forgotten abilities and unravel the secrets of a past shrouded in mystery.",
+  "developers": [
+    "Just2D"
+  ],
+  "publishers": [
+    "Deck13"
+  ],
+  "release_date": "2024-10-15",
+  "website": "https://www.just2d.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "exploration",
+    "action-rpg",
+    "pixel-graphics",
+    "2d",
+    "character-customization",
+    "open-world",
+    "souls-like",
+    "choices-matter",
+    "crpg",
+    "dark-fantasy",
+    "story-rich",
+    "dynamic-narration",
+    "fantasy",
+    "magic",
+    "singleplayer",
+    "mystery",
+    "atmospheric"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "polish"
+  ],
+  "name_localized": {
+    "schinese": "困兽之国 Drova - Forsaken Kin",
+    "tchinese": "困獸之国 Drova - Forsaken Kin"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Drova.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Just2D\\Drova\\Sprint_24",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Drova.app",
+          "description": "Drova (Apple Silicon)",
+          "type": "option1"
+        },
+        {
+          "executable": "Drova.app\\Contents\\MacOS\\Drova",
+          "description": "Drova (Intel x64)",
+          "type": "option2"
+        },
+        {
+          "executable": "Drova.app",
+          "description": "Drova (Achievements disabled)",
+          "type": "option3"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Just2D\\Drova\\Sprint_24",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Drova.x86_64",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Drova.x86_64",
+          "description": "Drova Vulkan",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Just2D\\Drova\\Sprint_24",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Drova - Forsaken Kin",
+    "Drova",
+    "Drova.app",
+    "Drova.app\\Contents\\MacOS\\Drova",
+    "Drova.x86_64",
+    "困兽之国 Drova - Forsaken Kin",
+    "困獸之国 Drova - Forsaken Kin"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1585180/4b22d24796d1967e2f8c7cd0a29a532907e23217.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585180/b280ec74875caf5e221f7b70bd392ac776a60dcc/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585180/6baca0dbf4a619a4bf6adc52f4e4c8399ac61afe/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585180/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585180/46ec044de8296db0c385310476b0a25337b0cc28/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585180/921e06c7565c82de40dcc711d9038e7697421eef/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585180/ss_747e0589ecd12091730bc181b995d0a9bfbf1fc9.1920x1080.jpg?t=1781102979"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585180/ss_807e7b8d4f8fe6d5243a78a627a4c1b920b86900.1920x1080.jpg?t=1781102979"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585180/ss_757683477f1cc491c3f5b3d26b2f9a5f0063ddc8.1920x1080.jpg?t=1781102979"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585180/ss_dd3f1721b79ec672984139a8ad69b3ad3c2df097.1920x1080.jpg?t=1781102979"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585180/ss_04a1ca1945fcb236bd475a09d3cd912c338bfd57.1920x1080.jpg?t=1781102979"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585180/ss_535752523256f536ab821752484a37ce49a96d64.1920x1080.jpg?t=1781102979"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585180/ss_33eb91979a5dd32c99a4e4218decb3de9e7bc80a.1920x1080.jpg?t=1781102979"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585180/ss_f5762092654e5e4fbe7c38ce9da9df536cd2480e.1920x1080.jpg?t=1781102979"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585180/ss_a0b143c4bea875dec795c85847986c75d2a8b429.1920x1080.jpg?t=1781102979"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585180/ss_e83e01fdc65a9e14d20e9a22d98ac230519908d3.1920x1080.jpg?t=1781102979"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585180/ss_33e04ac26c94115dd83b08467709a679ae5cd5ec.1920x1080.jpg?t=1781102979"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585180/ss_57a5cd065a05c66f465095a49ada2aa07157a449.1920x1080.jpg?t=1781102979"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585180/ss_28bb47e6bd25723907955107f3981e2d69c32987.1920x1080.jpg?t=1781102979"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257071821/34a128fd0e65a269eeb89537908690622f37095d/movie_600x337.jpg?t=1731072418",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1585180/783024/a6d6d1fa420a4991152bb7ca34a88181e3caa600/1750707145/dash_h264.mpd?t=1731072418"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257064109/9d7c50dc95fd9e24e81bd67f69b6a5f8461f1b55/movie_600x337.jpg?t=1729000238",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1585180/770347/8ab76cbc0c1cf3e456dad1f054d1fe912456c890/1750707141/dash_h264.mpd?t=1729000238"
+    },
+    {
+      "name": "Character Progression Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257038421/movie.293x165.jpg?t=1725374238",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1585180/727036/3a572fd9bec9ddd7866339d492751de9918c1d79/1750707016/dash_h264.mpd?t=1725374238"
+    }
+  ],
+  "metacritic": {
+    "score": 78,
+    "url": "https://www.metacritic.com/game/pc/drova---forsaken-kin?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1585180,
+    "store_url": "https://store.steampowered.com/app/1585180/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "RPG",
+      "Exploration",
+      "Action RPG",
+      "Pixel Graphics",
+      "2D",
+      "Character Customization",
+      "Open World",
+      "Souls-like",
+      "Choices Matter",
+      "CRPG",
+      "Dark Fantasy",
+      "Story Rich",
+      "Action",
+      "Dynamic Narration",
+      "Fantasy",
+      "Magic",
+      "Singleplayer",
+      "Mystery",
+      "Adventure",
+      "Atmospheric"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8942,
+    "review_negative": 590,
+    "review_total": 9532,
+    "review_positive_percent": 93.81
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "key": "superliminal",
+  "name": "Superliminal",
+  "description": "Perception is reality. In this mind-bending first-person puzzler, you escape a surreal dream world through solving impossible puzzles using the ambiguity of depth and perspective.",
+  "developers": [
+    "Pillow Castle"
+  ],
+  "publishers": [
+    "Pillow Castle"
+  ],
+  "release_date": "2020-11-06",
+  "website": "http://www.pillowcastlegames.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "puzzle",
+    "first-person",
+    "surreal",
+    "psychological",
+    "physics",
+    "singleplayer",
+    "thriller",
+    "story-rich",
+    "psychedelic",
+    "funny",
+    "exploration",
+    "puzzle-platformer",
+    "minimalist",
+    "cinematic",
+    "dark-humor",
+    "colorful",
+    "stylized",
+    "horror"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "turkish",
+    "brazilian",
+    "ukrainian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "超阈限空间 Superliminal",
+    "tchinese": "超閾限空間 Superliminal"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SuperliminalSteam.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "PillowCastle/SuperliminalSteam/Clouds",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Superliminal.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "PillowCastle/SuperliminalSteam/Clouds",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Superliminal",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "PillowCastle/SuperliminalSteam/Clouds",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Superliminal",
+    "SuperliminalSteam",
+    "Superliminal.app",
+    "超阈限空间 Superliminal",
+    "超閾限空間 Superliminal"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1049410/94dafc4a3469aff1c47c5f03f0114e2db2e99e9a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1049410/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1049410/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1049410/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1049410/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1049410/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1049410/ss_ec116fe04a78f76212934c3aa20bf8b38681683d.1920x1080.jpg?t=1755294276"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1049410/ss_4a2b446656c93cd3575acc42650ffb79723b020d.1920x1080.jpg?t=1755294276"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1049410/ss_55546194e5a1c244be30b31ebc75a311d1b52756.1920x1080.jpg?t=1755294276"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1049410/ss_8f0ce3f7da9830c8398e13435599c69068877ce8.1920x1080.jpg?t=1755294276"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1049410/ss_4662979fe52096848d83de9e7da01e164a8ca658.1920x1080.jpg?t=1755294276"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1049410/ss_ff02982d53521a255cdb49a893d80be7963c7019.1920x1080.jpg?t=1755294276"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Superliminal Steam Launch Trailer_v2",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256803623/movie.293x165.jpg?t=1602530552",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1049410/317020/f501717575328d5f3c2d9121e600ca1f0fbe29f4/1750609801/dash_h264.mpd?t=1602530552"
+    },
+    {
+      "name": "MultiplayerUpdate",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256859198/movie.jpg?t=1636132433",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1049410/414826/b70f795d5df7de786333dc47eaeb07be6aa921cd/1750609819/dash_h264.mpd?t=1636132433"
+    },
+    {
+      "name": "Superliminal Narrative Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256772474/movie.293x165.jpg?t=1601674472",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1049410/261979/2b6230314cf3075c3e208439601ed12b8831292a/1750609799/dash_h264.mpd?t=1601674472"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1049410,
+    "store_url": "https://store.steampowered.com/app/1049410/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Includes level editor",
+      "Commentary available",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Puzzle",
+      "First-Person",
+      "Surreal",
+      "Psychological",
+      "Physics",
+      "Singleplayer",
+      "Thriller",
+      "Story Rich",
+      "Psychedelic",
+      "Adventure",
+      "Psychological Horror",
+      "Funny",
+      "Exploration",
+      "Puzzle Platformer",
+      "Minimalist",
+      "Cinematic",
+      "Dark Humor",
+      "Colorful",
+      "Stylized",
+      "Horror"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 31672,
+    "review_negative": 1811,
+    "review_total": 33483,
+    "review_positive_percent": 94.59
+  }
+}

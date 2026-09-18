@@ -1,0 +1,257 @@
+{
+  "key": "amid-evil",
+  "name": "AMID EVIL",
+  "description": "A retro FPS for the ages! Once branded a HERETIC. Now YOU have been chosen as our champion! Reclaim our sacred weapons. Take back our ancient lands. If you can stand... AMID EVIL.",
+  "developers": [
+    "Indefatigable"
+  ],
+  "publishers": [
+    "New Blood Interactive"
+  ],
+  "release_date": "2019-06-21",
+  "website": "https://www.NewBlood.games",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "boomer-shooter",
+    "old-school",
+    "fps",
+    "arena-shooter",
+    "magic",
+    "sci-fi",
+    "surreal",
+    "shooter",
+    "first-person",
+    "psychedelic",
+    "colorful",
+    "dark-fantasy",
+    "fantasy",
+    "atmospheric",
+    "retro",
+    "1990-s",
+    "singleplayer",
+    "combat"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "邪恶之中"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "AmidEvil.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "AmidEvil.exe",
+          "description": "Amid Evil RTX Support (DX12)",
+          "type": "none"
+        },
+        {
+          "executable": "DLC/2016 31 August/amidevil.exe",
+          "description": "Alpha Aug 2016",
+          "type": "none"
+        },
+        {
+          "executable": "DLC/2016 4 December/amidevil.exe",
+          "description": "Alpha Nov 2016",
+          "type": "none"
+        },
+        {
+          "executable": "DLC/2016 19 December/amidevil.exe",
+          "description": "Alpha Dec 2016",
+          "type": "none"
+        },
+        {
+          "executable": "DLC/2017 23 May/amidevil.exe",
+          "description": "Alpha May 2017",
+          "type": "none"
+        },
+        {
+          "executable": "DLC/2017 22 October PAX/amidevil.exe",
+          "description": "Alpha Oct 2017",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "AmidEvil/Saved/AE_Savegames/",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "AmidEvil/Saved/AE_Savegames/",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "AMID EVIL",
+    "AmidEvil",
+    "DLC/2016 31 August/amidevil",
+    "DLC/2016 4 December/amidevil",
+    "DLC/2016 19 December/amidevil",
+    "DLC/2017 23 May/amidevil",
+    "DLC/2017 22 October PAX/amidevil"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/673130/829f3750a0c1b82d5c75cf8395f2b208962c9829.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/ac7a568968bcfcdf78c215b920b77e67deadd54c/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/45e753be2f513105f4d2d2b8d4f1082af8f97ec1/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/d55219a7e967a9d89076fa245730f8206ba1c81d/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/0af9aa2d2589dcbec511bc9ed9e4974222fe800a/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/ea260dadb3cb28f42930846d75e4dfdc6a55f4f3/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/ss_4b6eeee51930dc4f89d7b5b43743fbce8f68935b.1920x1080.jpg?t=1767217184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/ss_daaffcdd8dfcb58c3feeb9cb1b19a2b7a4f546e0.1920x1080.jpg?t=1767217184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/ss_a426616cbd1180fdba9ce66e8f06271970a32c62.1920x1080.jpg?t=1767217184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/ss_490d672a7d7b41d84ee21b11817ef9e7f87690f4.1920x1080.jpg?t=1767217184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/ss_79a287421775b12ce36bcd56b8c73c3691df61ba.1920x1080.jpg?t=1767217184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/ss_10329f62b6dab03883a48f150e6b0a3ff4b356f2.1920x1080.jpg?t=1767217184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/ss_4d55d2448a214f1a0266110c4036b9ef57b1ccf2.1920x1080.jpg?t=1767217184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/ss_04e412d8de7155e74f140360ba000954f11f8b49.1920x1080.jpg?t=1767217184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/ss_a5e07aee1b80651ef721cc4f3b475f61b119da07.1920x1080.jpg?t=1767217184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/ss_b62680d559e2def40103c973f1fbf050ccd1c535.1920x1080.jpg?t=1767217184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/ss_f87a8ef7106b5a20dbc4843ab04ae89e3544968b.1920x1080.jpg?t=1767217184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/ss_0e858e28c2eb617bc841e37f03033ada9a86fd96.1920x1080.jpg?t=1767217184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/ss_98ba96a09098e1d7a61f2ef0932bafb2734a6d64.1920x1080.jpg?t=1767217184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/ss_ae4285f4af30e42f486d67d365f3b4102ea3f95b.1920x1080.jpg?t=1767217184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/ss_d7dbd987102f51060cc5ec650b777ecf83746857.1920x1080.jpg?t=1767217184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/ss_d2df85ad0ddd8310b617555ffd17e9b17e697717.1920x1080.jpg?t=1767217184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/ss_c721c39c76a5dabd53b282b447acc667e0c00379.1920x1080.jpg?t=1767217184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/ss_865108d8e19ff59152c30919936fde0cc3787722.1920x1080.jpg?t=1767217184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/ss_3774b24c8e1afd022d4964bde020087aeec5fb18.1920x1080.jpg?t=1767217184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/ss_7a003101fcfccbb4e4e16ebd2a1a66a5d4d21ded.1920x1080.jpg?t=1767217184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/ss_e5e954592f4edc7860b1cec9cc92bf4b2a407384.1920x1080.jpg?t=1767217184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673130/ss_10ebe07f261f392ed4cb816cb8c79131c46fd2c2.1920x1080.jpg?t=1767217184"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Black Labyrinth Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256964344/movie.293x165.jpg?t=1692366179",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/673130/598425/62d6e056ca4960cb90fba75abee77163562bbcd0/1750568659/dash_h264.mpd?t=1692366179"
+    },
+    {
+      "name": "Launch Trailer Redux",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256835121/movie.293x165.jpg?t=1692366183",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/673130/370411/1982428882f3ad91921b22613da1c0d9cb31518f/1750568650/dash_h264.mpd?t=1692366183"
+    },
+    {
+      "name": "AMID EVIL RTX FEATURES",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256835090/movie.293x165.jpg?t=1692366187",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/673130/370349/e3ae35de2d8b4c7750ed30d8f5a82de099fbf6c9/1750568619/dash_h264.mpd?t=1692366187"
+    }
+  ],
+  "metacritic": {
+    "score": 85,
+    "url": "https://www.metacritic.com/game/pc/amid-evil?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 673130,
+    "store_url": "https://store.steampowered.com/app/673130/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Boomer Shooter",
+      "Old School",
+      "FPS",
+      "Arena Shooter",
+      "Magic",
+      "Sci-fi",
+      "Surreal",
+      "Shooter",
+      "First-Person",
+      "Psychedelic",
+      "Action",
+      "Colorful",
+      "Dark Fantasy",
+      "Fantasy",
+      "Atmospheric",
+      "Adventure",
+      "Retro",
+      "1990's",
+      "Singleplayer",
+      "Combat"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7132,
+    "review_negative": 529,
+    "review_total": 7661,
+    "review_positive_percent": 93.09
+  }
+}

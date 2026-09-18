@@ -1,0 +1,227 @@
+{
+  "key": "dead-as-disco",
+  "name": "Dead as Disco",
+  "description": "Martial arts meets music video in Dead as Disco, a neon-drenched Beat ‘Em Up where every punch, kick, and combo syncs to the music. Join Charlie Disco on a quest to confront the villainous Idols and reunite the band.",
+  "developers": [
+    "Brain Jar Games, Inc."
+  ],
+  "publishers": [
+    "Brain Jar Games, Inc."
+  ],
+  "release_date": "2026-05-05",
+  "website": "https://deadasdisco.com/",
+  "tags": [
+    "action",
+    "indie",
+    "early-access",
+    "rhythm",
+    "beat-em-up",
+    "spectacle-fighter",
+    "hack-and-slash",
+    "music",
+    "martial-arts",
+    "pve",
+    "arcade",
+    "character-customization",
+    "souls-like",
+    "character-action-game",
+    "3d",
+    "third-person",
+    "cyberpunk",
+    "controller",
+    "colorful",
+    "anime",
+    "stylized"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "German",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Spanish - Latin America",
+    "Traditional Chinese",
+    "Ukrainian*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "亡命迪斯科"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Pagoda.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Pagoda/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Pagoda/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Dead as Disco",
+    "Pagoda",
+    "亡命迪斯科"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3404260/7705717747ac39451cbbf96e6a78699ccde41ea9.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/ae0f4b71735adf4f2494ecb7914fcbafee215277/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/c047bcb51618b08b5764cc3a5c15f1b50511e4ee/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/e5352e951d5e9201b63a06bba579b6cf607aac36/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/2ef417f6e448e5a52f7a07a965dc1a6167fc418b/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/bb44a702cfb9df77f63b07bb7c56fc755013104d/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/2a8c9beb84036485b9de8a2de2d99bd2d8d65d77/ss_2a8c9beb84036485b9de8a2de2d99bd2d8d65d77.1920x1080.jpg?t=1782153525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/631da257ec50bf753b0bdee18c57aa25ccf04b13/ss_631da257ec50bf753b0bdee18c57aa25ccf04b13.1920x1080.jpg?t=1782153525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/f6819825a37870a11a0140aa22f3dd3f0957b85d/ss_f6819825a37870a11a0140aa22f3dd3f0957b85d.1920x1080.jpg?t=1782153525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/fb2c0fd87af0c70560be91a06744e2e4bdb26eca/ss_fb2c0fd87af0c70560be91a06744e2e4bdb26eca.1920x1080.jpg?t=1782153525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/04f0e253e0c1fd5c9275a9de58482d36dcb60c6c/ss_04f0e253e0c1fd5c9275a9de58482d36dcb60c6c.1920x1080.jpg?t=1782153525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/40625de426de8ba4575b3337dab597681c87a4aa/ss_40625de426de8ba4575b3337dab597681c87a4aa.1920x1080.jpg?t=1782153525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/e35528910954558bd76d4d1eeac6970f0b2c4882/ss_e35528910954558bd76d4d1eeac6970f0b2c4882.1920x1080.jpg?t=1782153525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/fd73bd56580c7c327891f8dce84278729623e0c6/ss_fd73bd56580c7c327891f8dce84278729623e0c6.1920x1080.jpg?t=1782153525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/047e63f77090c7662acb3fb4b130255e29ecd06c/ss_047e63f77090c7662acb3fb4b130255e29ecd06c.1920x1080.jpg?t=1782153525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/509bb92b0dbdec8496a674393c88cc9e3b5cb2fe/ss_509bb92b0dbdec8496a674393c88cc9e3b5cb2fe.1920x1080.jpg?t=1782153525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/4cb8dbd4e8a950d0deed27488f823996df578e72/ss_4cb8dbd4e8a950d0deed27488f823996df578e72.1920x1080.jpg?t=1782153525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/7da988286c12fa4035705018fe978022bbd3e768/ss_7da988286c12fa4035705018fe978022bbd3e768.1920x1080.jpg?t=1782153525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/568d136b2aad336e89cb661dc9b22a9a0701161a/ss_568d136b2aad336e89cb661dc9b22a9a0701161a.1920x1080.jpg?t=1782153525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/f88f5f50782d927b3cf5460fe7b7a06c38697e6a/ss_f88f5f50782d927b3cf5460fe7b7a06c38697e6a.1920x1080.jpg?t=1782153525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/0c27238368b96f0b49c56a2db43f2590dd011e29/ss_0c27238368b96f0b49c56a2db43f2590dd011e29.1920x1080.jpg?t=1782153525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/36d1c843d3426caca153af92d1eda97dbaa988fb/ss_36d1c843d3426caca153af92d1eda97dbaa988fb.1920x1080.jpg?t=1782153525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/22ff26acdb6f36dd62ac22599ced2e909404742d/ss_22ff26acdb6f36dd62ac22599ced2e909404742d.1920x1080.jpg?t=1782153525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/b515820de63dee1c806af9570f523e29705806a1/ss_b515820de63dee1c806af9570f523e29705806a1.1920x1080.jpg?t=1782153525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/5d6647aa2e4ae1884c1033fe74c3928248f27e9b/ss_5d6647aa2e4ae1884c1033fe74c3928248f27e9b.1920x1080.jpg?t=1782153525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404260/c79f4a9933c7e4d0b297983f61e61b45200a6e5d/ss_c79f4a9933c7e4d0b297983f61e61b45200a6e5d.1920x1080.jpg?t=1782153525"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Early Access Announce Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257316517/0f43b0b0600caf247c0547d3ef13678b4a1e9f77/movie_600x337.jpg?t=1782153520",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3404260/1175309271/b93dc051f0484eb8a195cc9a2bacf559cf11f665/1775712593/dash_h264.mpd?t=1782153520"
+    },
+    {
+      "name": "Update 1 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257363767/e6f525739cd413df51f80a62c4b87d8193f0db2b/movie_600x337.jpg?t=1782153521",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3404260/367266207/4e0f642dfa125f550b9aefdbadeebfc1bfcfc126/1782150681/dash_h264.mpd?t=1782153521"
+    },
+    {
+      "name": "Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257128970/7e23bbf0756d7a8153c8ad5800f69bbbe73d086f/movie_600x337.jpg?t=1745885592",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3404260/874885/b6ac9206d852dec1a5d20d812d47208fc1570d9a/1750847793/dash_h264.mpd?t=1745885592"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3404260,
+    "store_url": "https://store.steampowered.com/app/3404260/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Early Access",
+      "Rhythm",
+      "Beat 'em up",
+      "Spectacle fighter",
+      "Hack and Slash",
+      "Music",
+      "Martial Arts",
+      "PvE",
+      "Action",
+      "Arcade",
+      "Character Customization",
+      "Souls-like",
+      "Character Action Game",
+      "3D",
+      "Third Person",
+      "Cyberpunk",
+      "Controller",
+      "Colorful",
+      "Anime",
+      "Stylized"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 10970,
+    "review_negative": 340,
+    "review_total": 11310,
+    "review_positive_percent": 96.99
+  }
+}

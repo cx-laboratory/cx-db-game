@@ -1,0 +1,204 @@
+{
+  "key": "zero-k",
+  "name": "Zero-K",
+  "description": "With 100+ truly unique units, Zero-K is an RTS of freedom and creativity, tempered by a decade of refinement. Sculpt land into a castle and throw invaders off it with a Jugglenaut. Explore a massive campaign, solo or co-op. Hop online for epic 32 player battles or fast paced 1v1, on 100s of maps.",
+  "developers": [
+    "Zero-K Team"
+  ],
+  "publishers": [
+    "Zero-K Team"
+  ],
+  "release_date": "2018-04-27",
+  "website": "https://zero-k.info",
+  "tags": [
+    "indie",
+    "simulation",
+    "strategy",
+    "free-to-play",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "rts",
+    "real-time",
+    "singleplayer",
+    "robots",
+    "sci-fi",
+    "base-building"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "零-K"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Zero-K.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Saves",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Zero-K_linux64.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Saves",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Zero-K",
+    "Zero-K_linux64.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/334920/d6ff21bbd326b72fb2666f1568712d4536657bb5.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/334920/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/334920/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/334920/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/334920/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/334920/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/334920/ss_bf0b6af92f58682185a461b9ed85e35622513392.1920x1080.jpg?t=1722263050"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/334920/ss_24eb34e9fbc9b3d19b56a1bc9751b25602eaca08.1920x1080.jpg?t=1722263050"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/334920/ss_3cd5d734eb75d8ae1ee4474595d37a7c03791023.1920x1080.jpg?t=1722263050"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/334920/ss_e7cc427e68207fe2cd7fc1632a7472db0cea53b3.1920x1080.jpg?t=1722263050"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/334920/ss_b6132edfaa675f06333401bf99d5286c479807c7.1920x1080.jpg?t=1722263050"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/334920/ss_b3dfc213fce02f4d342bbda10ddee277f8126b73.1920x1080.jpg?t=1722263050"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/334920/ss_04182d0253b83633730ae304376b3a2a49f2801e.1920x1080.jpg?t=1722263050"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/334920/ss_dfed76df7e1abc3700ccf321e35647b5f85dbbdb.1920x1080.jpg?t=1722263050"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/334920/ss_00f49edaa89acaf20b8f95b9e6e6a349eba53ed5.1920x1080.jpg?t=1722263050"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/334920/ss_c67cc04b7d8bd7bab130b47dcd355f874c02dc6c.1920x1080.jpg?t=1722263050"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/334920/ss_29b41c5756899809098e5f247afcd60d07fa986a.1920x1080.jpg?t=1722263050"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/334920/ss_dab778c392322278394fbef0c6400910bfb89840.1920x1080.jpg?t=1722263050"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/334920/ss_390702621a3ecadeda1d6dc4bc03112db3d00893.1920x1080.jpg?t=1722263050"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/334920/ss_867ee1f27de25726561c8e8dd73a699b2cd06b55.1920x1080.jpg?t=1722263050"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/334920/ss_7e08a8af72e5c883c4ca3d1b71adb1edf486536f.1920x1080.jpg?t=1722263050"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/334920/ss_5a1a669fa0fc11b510ae5e6a56a7e50aabf1d900.1920x1080.jpg?t=1722263050"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Zero-K Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256713588/movie.293x165.jpg?t=1524294209",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/334920/156926/64c325453c9657e0e718a71bcc6afc3da4ef35b1/1751265470/dash_h264.mpd?t=1524294209"
+    },
+    {
+      "name": "Zero-K Short scene",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256714702/movie.293x165.jpg?t=1524175322",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/334920/159131/086118d21f696cfdf820f2690f2aeb0d7dace0a3/1751265472/dash_h264.mpd?t=1524175322"
+    },
+    {
+      "name": "Zero-K Cinematic Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256661739/movie.293x165.jpg?t=1523343160",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/334920/54335/4b5f64033a750d27713382964a63abf36fe8784a/1751265470/dash_h264.mpd?t=1523343160"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 334920,
+    "store_url": "https://store.steampowered.com/app/334920/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "Free to Play",
+      "RTS",
+      "Indie",
+      "Multiplayer",
+      "Simulation",
+      "Real-Time",
+      "Singleplayer",
+      "Co-op",
+      "Online Co-Op",
+      "Robots",
+      "Sci-fi",
+      "Base Building"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 4048,
+    "review_negative": 270,
+    "review_total": 4318,
+    "review_positive_percent": 93.75
+  }
+}

@@ -1,0 +1,470 @@
+{
+  "key": "farming-simulator-25",
+  "name": "Farming Simulator 25",
+  "description": "Farming Simulator 25 invites you to join the rewarding farm life, single-handedly or cooperatively in multiplayer. This Farm is Your Farm!",
+  "developers": [
+    "GIANTS Software"
+  ],
+  "publishers": [
+    "GIANTS Software"
+  ],
+  "release_date": "2024-11-12",
+  "website": "https://farming-simulator.com/",
+  "tags": [
+    "simulation",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "farming-sim",
+    "realistic",
+    "3d",
+    "economy",
+    "first-person",
+    "time-management",
+    "building",
+    "third-person",
+    "management",
+    "immersive-sim",
+    "atmospheric",
+    "relaxing",
+    "nature",
+    "farming",
+    "physics",
+    "singleplayer",
+    "moddable"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "hungarian",
+    "czech",
+    "romanian",
+    "turkish",
+    "brazilian",
+    "ukrainian",
+    "vietnamese",
+    "latam",
+    "indonesian"
+  ],
+  "name_localized": {
+    "german": "Landwirtschafts-Simulator 25"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "FarmingSimulator2025.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/",
+          "pattern": "inputBinding.xml",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame1/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame2/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame3/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame4/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame5/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame6/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame7/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame8/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame9/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame10/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame11/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame12/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame13/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame14/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame15/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame16/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame17/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame18/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame19/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame20/",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Farming Simulator 2025.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/",
+          "pattern": "inputBinding.xml",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame1/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame2/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame3/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame4/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame5/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame6/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame7/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame8/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame9/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame10/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame11/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame12/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame13/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame14/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame15/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame16/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame17/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame18/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame19/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2025/savegame20/",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Farming Simulator 25",
+    "FarmingSimulator2025",
+    "Farming Simulator 2025.app",
+    "Landwirtschafts-Simulator 25"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2300320/7deed89a6efa77c732c2f32aa432bd3d232a4a57.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/c2a205133d23cd24faf3c152d972a1d0177661b8/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/f56e9279a16ad2f6a0532a7ef72042d7428c00c7/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/15ffc99f19c01e22e872863e0f1608b6a8f71578/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/a682fa91a225a039db2734bdaeec91b19e6432c3/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/2e2f33f9010b5674013e0983f8ec5f0725e50395/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/0bd36a1bd96d3c4a428bfd56f8697d045011e23c/ss_0bd36a1bd96d3c4a428bfd56f8697d045011e23c.1920x1080.jpg?t=1782394057"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/4fa589ab4b102a4b346d03295b5d26c6a14726be/ss_4fa589ab4b102a4b346d03295b5d26c6a14726be.1920x1080.jpg?t=1782394057"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/a91040d614c5f319b0fa5d02dde31e9835d0cc4e/ss_a91040d614c5f319b0fa5d02dde31e9835d0cc4e.1920x1080.jpg?t=1782394057"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/a7ee675587f7fd56a486ff28cf0c141a1a12b920/ss_a7ee675587f7fd56a486ff28cf0c141a1a12b920.1920x1080.jpg?t=1782394057"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/cb7fbbbf5cf11862685e5c022ebc56913771b48d/ss_cb7fbbbf5cf11862685e5c022ebc56913771b48d.1920x1080.jpg?t=1782394057"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/3c4c7112a992787be2ee0933af733d846f199d71/ss_3c4c7112a992787be2ee0933af733d846f199d71.1920x1080.jpg?t=1782394057"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/8ed79fc4455f081e8909838239c0aad021aa5e4d/ss_8ed79fc4455f081e8909838239c0aad021aa5e4d.1920x1080.jpg?t=1782394057"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/b1d845a4793140373481f6c807cc601532f029c4/ss_b1d845a4793140373481f6c807cc601532f029c4.1920x1080.jpg?t=1782394057"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/6b90a19669c7a5238cd0ba379859e41790b703cb/ss_6b90a19669c7a5238cd0ba379859e41790b703cb.1920x1080.jpg?t=1782394057"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/64d57813c045b3e590afa7a742ce23692f35a13e/ss_64d57813c045b3e590afa7a742ce23692f35a13e.1920x1080.jpg?t=1782394057"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/83696dd445bcfa950e138d96b67d1738da6d896d/ss_83696dd445bcfa950e138d96b67d1738da6d896d.1920x1080.jpg?t=1782394057"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/e168903215c0598a74fe6367ff4f250bca200813/ss_e168903215c0598a74fe6367ff4f250bca200813.1920x1080.jpg?t=1782394057"
+    }
+  ],
+  "videos": [
+    {
+      "name": "FS25 - CGI Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257031043/990301404e8b66f1d4ef5b0aed47c9525e99fd43/movie_600x337.jpg?t=1775135523",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2300320/713557/d80de41c4a3311bc73a4d5d317bc461dff2657d5/1750811169/dash_h264.mpd?t=1775135523"
+    },
+    {
+      "name": "FS25 - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257073020/47f9a6a9eac3b2af052c02ebb458a37788440df9/movie_600x337.jpg?t=1731509683",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2300320/785196/06e239d4c358ae0935c00dc97da09762a68e9195/1750812242/dash_h264.mpd?t=1731509683"
+    },
+    {
+      "name": "FS25 - Feature Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257067301/59d7f0822dba8f19f34a355de13be3fff29674fe/movie_600x337.jpg?t=1729598537",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2300320/775326/49edf5c8a647f420fc0336fe88053b2316ad4650/1750811169/dash_h264.mpd?t=1729598537"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2300320,
+    "store_url": "https://store.steampowered.com/app/2300320/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Farming Sim",
+      "Multiplayer",
+      "Realistic",
+      "3D",
+      "Economy",
+      "First-Person",
+      "Time Management",
+      "Building",
+      "Third Person",
+      "Management",
+      "Immersive Sim",
+      "Atmospheric",
+      "Relaxing",
+      "Online Co-Op",
+      "Nature",
+      "Farming",
+      "Physics",
+      "Singleplayer",
+      "Moddable"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 47209,
+    "review_negative": 7150,
+    "review_total": 54359,
+    "review_positive_percent": 86.85
+  }
+}

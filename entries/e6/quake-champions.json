@@ -1,0 +1,110 @@
+{
+  "key": "quake-champions",
+  "name": "Quake Champions",
+  "description": "Step into the Arena. Compete against players from around the world in this fast-paced shooter that combines the dark mythos of the original Quake with the skill-based competition of Quake III Arena. Become a Champion.",
+  "developers": [
+    "id Software"
+  ],
+  "publishers": [
+    "Bethesda Softworks"
+  ],
+  "release_date": "2022-08-19",
+  "website": "https://quake.bethesda.net/",
+  "tags": [
+    "action",
+    "free-to-play",
+    "multiplayer",
+    "pvp",
+    "online-pvp"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "client\\bin\\pc\\QuakeChampions.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Quake Champions",
+    "client\\bin\\pc\\QuakeChampions"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/611500/539032fb1e8b41d0a48ff11bf63bfe7918ace24c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611500/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611500/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611500/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611500/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611500/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611500/ss_934c0c5ce0f338805847fcfc451ec04208e40ef7.1920x1080.jpg?t=1741893844"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611500/ss_de11ec5c8f396e007492f24196b53aea51a96791.1920x1080.jpg?t=1741893844"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611500/ss_a7d2e21d531979834b4bb8697a3b2e21e039f505.1920x1080.jpg?t=1741893844"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611500/ss_0c7754c9fbd0450e9dc4356504fa5f629df57481.1920x1080.jpg?t=1741893844"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611500/ss_7a1bd235e3b79b97855df5e312ab101ad2b19230.1920x1080.jpg?t=1741893844"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256692888/movie.293x165.jpg?t=1503428201",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/611500/118369/145eb5810f61081f04dd93cf7e0cfea330934d8e/1750562315/dash_h264.mpd?t=1503428201"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 611500,
+    "store_url": "https://store.steampowered.com/app/611500/",
+    "required_age": 17,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 28725,
+    "review_negative": 10192,
+    "review_total": 38917,
+    "review_positive_percent": 73.81
+  }
+}

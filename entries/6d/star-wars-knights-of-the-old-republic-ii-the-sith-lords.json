@@ -1,0 +1,201 @@
+{
+  "key": "star-wars-knights-of-the-old-republic-ii-the-sith-lords",
+  "name": "STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™",
+  "description": "5 years after the events of the award winning original, the Sith are on the verge of crushing the Old Republic. As a lone Jedi, will you follow the light side or succumb to the dark?",
+  "developers": [
+    "Obsidian Entertainment"
+  ],
+  "publishers": [
+    "LucasArts"
+  ],
+  "release_date": "2012-08-23",
+  "website": "",
+  "tags": [
+    "rpg",
+    "story-rich",
+    "sci-fi",
+    "singleplayer",
+    "classic",
+    "choices-matter",
+    "real-time-with-pause",
+    "adventure",
+    "party-based-rpg",
+    "character-customization",
+    "moddable",
+    "third-person",
+    "multiple-endings",
+    "space",
+    "atmospheric",
+    "female-protagonist",
+    "action",
+    "turn-based-combat",
+    "turn-based",
+    "great-soundtrack"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "swkotor2.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "cloudsaves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "KOTOR2.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "cloudsaves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "./KOTOR2",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "cloudsaves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™",
+    "swkotor2",
+    "KOTOR2.app",
+    "./KOTOR2"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/208580/1c9e1a68198c15eb47b35c692fbfa5adeb7a6566.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208580/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208580/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208580/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208580/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208580/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208580/ss_e2043ae5d872d5576fd160acb3aa1169a5d0222c.1920x1080.jpg?t=1699053053"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208580/ss_3735bd9b0360c55d70094e0759bd367912179632.1920x1080.jpg?t=1699053053"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208580/ss_0d36d693adcfe58d6eba3251e836f92bd1748118.1920x1080.jpg?t=1699053053"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208580/ss_1ae2802859437136f73cda5eeaec886439a5e2ba.1920x1080.jpg?t=1699053053"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208580/ss_c023b2e4d3f89a421975a58237e739ca25180a0c.1920x1080.jpg?t=1699053053"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208580/ss_7b1b55ce1028c47d0b9daaf0c067aa865a4ce773.1920x1080.jpg?t=1699053053"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208580/ss_6f9f04f099ca0f9a9c4d18d0f29849d06041dec7.1920x1080.jpg?t=1699053053"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Knights of the Old Republic II Opening Crawl",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256663554/movie.293x165.jpg?t=1461792094",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/208580/57520/8f45165566ab17d6d63930cb44ed33fe36d7cd8f/1750493199/dash_h264.mpd?t=1461792094"
+    },
+    {
+      "name": "KOTOR II Gameplay",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256681358/movie.293x165.jpg?t=1489550578",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/208580/94469/a2bcf227aaf7e6abb173c2b2a51ee9a75a02aba3/1750493204/dash_h264.mpd?t=1489550578"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 208580,
+    "store_url": "https://store.steampowered.com/app/208580/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "RPG",
+      "Story Rich",
+      "Sci-fi",
+      "Singleplayer",
+      "Classic",
+      "Choices Matter",
+      "Real-Time with Pause",
+      "Adventure",
+      "Party-Based RPG",
+      "Character Customization",
+      "Moddable",
+      "Third Person",
+      "Multiple Endings",
+      "Space",
+      "Atmospheric",
+      "Female Protagonist",
+      "Action",
+      "Turn-Based Combat",
+      "Turn-Based",
+      "Great Soundtrack"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 24177,
+    "review_negative": 1662,
+    "review_total": 25839,
+    "review_positive_percent": 93.57
+  }
+}

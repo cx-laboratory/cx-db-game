@@ -1,0 +1,154 @@
+{
+  "key": "wolfenstein-ii-the-new-colossus",
+  "name": "Wolfenstein II: The New Colossus",
+  "description": "America, 1961. The assassination of Nazi General Deathshead was a short-lived victory. The Nazis maintain their stranglehold on the world. You are BJ Blazkowicz, aka “Terror-Billy,” member of the Resistance, scourge of the Nazi empire, and humanity’s last hope for liberty.",
+  "developers": [
+    "MachineGames"
+  ],
+  "publishers": [
+    "Bethesda Softworks"
+  ],
+  "release_date": "2017-10-27",
+  "website": "https://wolfenstein.bethesda.net/?utm_source=Steam",
+  "tags": [
+    "action"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "german": "Wolfenstein II: The New Colossus International Version"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "NewColossus_x64vk.exe",
+          "description": "Normal",
+          "type": "default"
+        },
+        {
+          "executable": "NewColossus_x64vk.exe",
+          "description": "Wolfenstein II: The New Colossus (Safe Mode)",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinSavedGames",
+          "path": "MachineGames/Wolfenstein II The New Colossus/base/savegame.user/{64BitSteamID}",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Wolfenstein II: The New Colossus",
+    "NewColossus_x64vk",
+    "Wolfenstein II: The New Colossus International Version"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/612880/fd5c894c47b49a7d5e46e7ed60d6f1fdf60d210d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/612880/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/612880/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/612880/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/612880/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/612880/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/612880/ss_c195852422ed8e92ffa4d68ea4bfd34291823c3e.1920x1080.jpg?t=1750784115"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/612880/ss_3abc2dfc77f8bb39eb36bf37eef23b1ab021a554.1920x1080.jpg?t=1750784115"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/612880/ss_be6b2824fd6796ebe8b5f78155a386f5c5178e6d.1920x1080.jpg?t=1750784115"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/612880/ss_c018a8ebefa05f2f4761cfad4d8189cbf2e31ec1.1920x1080.jpg?t=1750784115"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/612880/ss_848b5bc068eddc72b4156aecd8d9346a6321bb70.1920x1080.jpg?t=1750784115"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/612880/ss_0cf6a43cc4f1aef0ae06c4890fa4c99fa72d8f23.1920x1080.jpg?t=1750784115"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Accolade TV Spot",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256700044/movie.293x165.jpg?t=1509661829",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/612880/131488/add14f80e826a1b2e752ae8a2df6e5327a37ac6c/1750562487/dash_h264.mpd?t=1509661829"
+    },
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256696071/movie.293x165.jpg?t=1506021045",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/612880/124099/f1c725e5ad9fe721e10e61d3dcc2250158ccfd27/1750562471/dash_h264.mpd?t=1506021045"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256698438/movie.293x165.jpg?t=1508353410",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/612880/128718/e81988c66bd9df796525bba315fed1d2479b6591/1750562486/dash_h264.mpd?t=1508353410"
+    },
+    {
+      "name": "E3 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256686936/movie.293x165.jpg?t=1505156926",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/612880/106932/a492de5b043b4ae4b57282d82afe44369ecab6a0/1750562461/dash_h264.mpd?t=1505156926"
+    },
+    {
+      "name": "Strawberry Milkshake Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256694947/movie.293x165.jpg?t=1506010624",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/612880/122115/83a44b8711d5b06dd61fd51b3a5d2fd66a5eb7fc/1750562465/dash_h264.mpd?t=1506010624"
+    }
+  ],
+  "metacritic": {
+    "score": 86,
+    "url": "https://www.metacritic.com/game/pc/wolfenstein-ii-the-new-colossus?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 612880,
+    "store_url": "https://store.steampowered.com/app/612880/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Color Alternatives",
+      "Save Anytime",
+      "Stereo Sound",
+      "Surround Sound",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 39719,
+    "review_negative": 9112,
+    "review_total": 48831,
+    "review_positive_percent": 81.34
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "key": "kingdom-classic",
+  "name": "Kingdom: Classic",
+  "description": "Kingdom is a 2D sidescrolling strategy/resource management hybrid with a minimalist feel wrapped in a beautiful, modern pixel art aesthetic.",
+  "developers": [
+    "Noio"
+  ],
+  "publishers": [
+    "Raw Fury"
+  ],
+  "release_date": "2015-10-22",
+  "website": "http://kingdomthegame.com",
+  "tags": [
+    "indie",
+    "simulation",
+    "strategy",
+    "free-to-play",
+    "singleplayer",
+    "base-building",
+    "2d",
+    "building",
+    "pixel-graphics",
+    "resource-management",
+    "management",
+    "fantasy",
+    "rpg",
+    "survival",
+    "casual",
+    "adventure",
+    "city-builder",
+    "colony-sim",
+    "tower-defense",
+    "atmospheric"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Danish",
+    "Finnish",
+    "Norwegian",
+    "Portuguese - Brazil",
+    "Swedish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Kingdom.exe",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "noio/Kingdom",
+          "pattern": "storage_v26_AUTO.dat",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Kingdom.app",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "noio/Kingdom",
+          "pattern": "storage_v26_AUTO.dat",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Kingdom.x86",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "noio/Kingdom",
+          "pattern": "storage_v26_AUTO.dat",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Kingdom: Classic",
+    "Kingdom",
+    "Kingdom.app",
+    "Kingdom.x86"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/368230/0d741624c643448ff74741f50a4b80a24529b869.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368230/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368230/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368230/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368230/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368230/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368230/ss_32b665f2c8124ac9173e225b01c92c36a2956989.1920x1080.jpg?t=1726822318"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368230/ss_5134f8a390c83cd2b37649913b0ed6316cdec7f8.1920x1080.jpg?t=1726822318"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368230/ss_ae9ef61f2cece328b8b61e653636f301a8fffc7d.1920x1080.jpg?t=1726822318"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368230/ss_c1c29caa705632c9bca21edb7659a08552b937c9.1920x1080.jpg?t=1726822318"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368230/ss_e309895a423eeca5a758c853d20d82076a9356bb.1920x1080.jpg?t=1726822318"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368230/ss_3c87a1c70203f7deb86adaf05eba0827b78f3dc6.1920x1080.jpg?t=1726822318"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368230/ss_bd4015c0a84f38ca4d52df0c64108658dce37707.1920x1080.jpg?t=1726822318"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368230/ss_0aca3d44323a0d401d475ca4adf908f538a628a8.1920x1080.jpg?t=1726822318"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256657563/movie.293x165.jpg?t=1447378595",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/368230/45273/f3ba8171c7074b03d52c273e0385324c642b4f07/1751271142/dash_h264.mpd?t=1447378595"
+    },
+    {
+      "name": "Kingdom Gameplay Reveal",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256656188/movie.293x165.jpg?t=1447377938",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/368230/42497/2a9301ef27a5c4f88f3674dbb040fe84ccf14ce4/1751271138/dash_h264.mpd?t=1447377938"
+    }
+  ],
+  "metacritic": {
+    "score": 74,
+    "url": "https://www.metacritic.com/game/pc/kingdom?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 368230,
+    "store_url": "https://store.steampowered.com/app/368230/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Strategy",
+      "Singleplayer",
+      "Simulation",
+      "Base Building",
+      "2D",
+      "Building",
+      "Pixel Graphics",
+      "Resource Management",
+      "Management",
+      "Fantasy",
+      "RPG",
+      "Survival",
+      "Casual",
+      "Adventure",
+      "City Builder",
+      "Indie",
+      "Colony Sim",
+      "Tower Defense",
+      "Atmospheric"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 20514,
+    "review_negative": 2116,
+    "review_total": 22630,
+    "review_positive_percent": 90.65
+  }
+}

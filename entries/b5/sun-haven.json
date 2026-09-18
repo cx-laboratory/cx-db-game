@@ -1,0 +1,258 @@
+{
+  "key": "sun-haven",
+  "name": "Sun Haven",
+  "description": "Build your farm and relationships with townsfolk, or forge ahead on a quest of magic, monsters, and dragons. Level up through a skill tree in 8 person multiplayer, or adventure solo!",
+  "developers": [
+    "Pixel Sprout Studios"
+  ],
+  "publishers": [
+    "Pixel Sprout Studios"
+  ],
+  "release_date": "2023-03-11",
+  "website": "",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "rpg",
+    "simulation",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "farming-sim",
+    "pixel-graphics",
+    "life-sim",
+    "dating-sim",
+    "character-customization",
+    "relaxing",
+    "fantasy",
+    "crafting",
+    "agriculture",
+    "magic",
+    "singleplayer",
+    "exploration",
+    "combat",
+    "mining",
+    "fishing",
+    "cooking"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Danish",
+    "Dutch",
+    "Japanese",
+    "Korean",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Spanish - Latin America",
+    "Swedish",
+    "Traditional Chinese",
+    "Ukrainian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Sun Haven.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Pixel Sprout Studios/Sun Haven/Saves/",
+          "pattern": "*.save",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Contents\\MacOS\\Sun Haven",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Pixel Sprout Studios/Sun Haven/Saves/",
+          "pattern": "*.save",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Sun Haven",
+    "Contents\\MacOS\\Sun Haven"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1432860/82934a39da52d2a9d7e2b23d4c38a41618fe87cf.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/ss_9225c3d02fff6c0057a14176bb7c6b02a613aac8.1920x1080.jpg?t=1741982676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/ss_18d2a9b9fed4727d1f161d1acf5f7a6c5027ecd0.1920x1080.jpg?t=1741982676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/ss_a5376988a7fb256085f4821143171e89655c4d8f.1920x1080.jpg?t=1741982676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/ss_c41006b462221893e3668cc20b163510663c7f02.1920x1080.jpg?t=1741982676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/ss_7e48da789c404bf4d92862e4ac57abe470264728.1920x1080.jpg?t=1741982676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/ss_e4c1601c409bff5a6dd0ec55ab421c3c4e28e080.1920x1080.jpg?t=1741982676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/ss_1352260ed0ba3cf8f566840bfb754ac2fb97cd0a.1920x1080.jpg?t=1741982676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/ss_ef51eb7d5b6a50fe7854350b4d33590218d5a4a3.1920x1080.jpg?t=1741982676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/ss_ec6886a0ed5dfe468604ee246396375e2b5789b4.1920x1080.jpg?t=1741982676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/ss_3bca33da3188e254d73a9c673c83843c565465da.1920x1080.jpg?t=1741982676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/ss_5b2b2e4074e2e931d57991b85c47479c4ea158ea.1920x1080.jpg?t=1741982676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/ss_cf2eaa5de745e53d9d5af5dcde658aed3fc6840e.1920x1080.jpg?t=1741982676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/ss_123a212f32545d4f4d2f685ee20e3bee3581530a.1920x1080.jpg?t=1741982676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/ss_ca15b30948042744d535c0ba175a417e847fc23b.1920x1080.jpg?t=1741982676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/ss_e31d163d40e9bf12cbcd0efb2c9973f84c40c31d.1920x1080.jpg?t=1741982676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/ss_6730c0f7e72330ca61cf26b119b0e1cce36ca928.1920x1080.jpg?t=1741982676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/ss_acbff8a2ea60ea3953f91b4afc4f32b406ec1714.1920x1080.jpg?t=1741982676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/ss_1298aeec005298488da7287a50414ead295c9ba5.1920x1080.jpg?t=1741982676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/ss_b742e6e4d7ef9fcc2c89d1efcc96b9a5e68d6145.1920x1080.jpg?t=1741982676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/ss_f78be8a548a4909e2bec7732e5f694fc9748cd77.1920x1080.jpg?t=1741982676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/ss_d2e39f13e8390f04e8063948d1483cbb0f886618.1920x1080.jpg?t=1741982676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/ss_2bf32283f72ccae7ee5ac167f497d330f75eeb25.1920x1080.jpg?t=1741982676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/ss_1e42536fe3ea0b95f41813db73f325f641daf977.1920x1080.jpg?t=1741982676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/ss_dbd1be7df65a6c64334f6be1b42697cc1afcfd82.1920x1080.jpg?t=1741982676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/ss_ab21d2ba3bd3f12f260eca2ebb2d75740f9ce676.1920x1080.jpg?t=1741982676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432860/ss_db1dc653670cf847565a0e7f5e444d14fd389ab5.1920x1080.jpg?t=1741982676"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Sun Haven Trailer 4",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256990281/movie.293x165.jpg?t=1718246114",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1432860/642868/d3476f0757c0dbe90578d97c397543dfcc65c501/1750687823/dash_h264.mpd?t=1718246114"
+    },
+    {
+      "name": "Sun Haven Trailer 3",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256935032/movie.293x165.jpg?t=1703140450",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1432860/547026/fab3febd56e0bcd63e5e905654f75111045ba66e/1751526444/dash_h264.mpd?t=1703140450"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1432860,
+    "store_url": "https://store.steampowered.com/app/1432860/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "In-App Purchases",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Farming Sim",
+      "Pixel Graphics",
+      "Multiplayer",
+      "Life Sim",
+      "Dating Sim",
+      "RPG",
+      "Character Customization",
+      "Relaxing",
+      "Adventure",
+      "Fantasy",
+      "Crafting",
+      "Simulation",
+      "Agriculture",
+      "Magic",
+      "Singleplayer",
+      "Exploration",
+      "Combat",
+      "Mining",
+      "Fishing",
+      "Cooking"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 20225,
+    "review_negative": 4862,
+    "review_total": 25087,
+    "review_positive_percent": 80.62
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "key": "cuphead",
+  "name": "Cuphead",
+  "description": "Cuphead is a classic run and gun action game heavily focused on boss battles. Inspired by cartoons of the 1930s, the visuals and audio are painstakingly created with the same techniques of the era, i.e. traditional hand drawn cel animation, watercolor backgrounds, and original jazz recordings.",
+  "developers": [
+    "Studio MDHR Entertainment Inc."
+  ],
+  "publishers": [
+    "Studio MDHR Entertainment Inc."
+  ],
+  "release_date": "2017-09-29",
+  "website": "http://www.cupheadgame.com",
+  "tags": [
+    "action",
+    "indie",
+    "multiplayer",
+    "co-op",
+    "split-screen",
+    "difficult",
+    "cartoon",
+    "platformer",
+    "local-multiplayer",
+    "great-soundtrack",
+    "2d",
+    "hand-drawn",
+    "cartoony",
+    "bullet-hell",
+    "retro",
+    "shoot-em-up",
+    "singleplayer",
+    "side-scroller",
+    "souls-like",
+    "colorful",
+    "funny"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Spanish - Latin America"
+  ],
+  "name_localized": {
+    "schinese": "茶杯头"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Cuphead.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Cuphead/",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Cuphead.app\\Contents\\MacOS\\Cuphead",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Cuphead/",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Cuphead",
+    "Cuphead.app\\Contents\\MacOS\\Cuphead"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/268910/c19f1bd916b6d171e94089d03112ec4e4e4da84e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/ss_e3096a5555cb77d88db165c83d5ef3a24af1354a.1920x1080.jpg?t=1709068852"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/ss_615455299355eaf552c638c7ea5b24a8b46e02dd.1920x1080.jpg?t=1709068852"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/ss_483fb089be0093beeef03525276803a9ca4f66a1.1920x1080.jpg?t=1709068852"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/ss_48477e4a865827aa0be6a44f00944d8d2a3e5eb9.1920x1080.jpg?t=1709068852"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/ss_380296effbf1073bbedfd480e50cf246eb542b66.1920x1080.jpg?t=1709068852"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/ss_aefad3850c3bc04000cbe0d620bea6807e0a0331.1920x1080.jpg?t=1709068852"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/ss_1bfaa0d236aa99cdc31234aa7aad314898e3d10e.1920x1080.jpg?t=1709068852"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/ss_874f2d27a9120ee60cbce0c7bd4085525fd09b26.1920x1080.jpg?t=1709068852"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/ss_ae3db08c403209d868e52ae513540e1ba0489302.1920x1080.jpg?t=1709068852"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/ss_1335c63f0429da926e8cfd0e1faf59ff65d2f6ef.1920x1080.jpg?t=1709068852"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Cuphead: The Delicious Last Course - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256894191/movie.293x165.jpg?t=1656595223",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/268910/476013/2be829e20a796ed2e0e707fb1c747e1d15f6fb25/1750499396/dash_h264.mpd?t=1656595223"
+    },
+    {
+      "name": "Cuphead Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256705156/movie.293x165.jpg?t=1515128214",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/268910/140450/cb8856fab07a0d354f7fa2bfeefc3270df01ee6b/1750499390/dash_h264.mpd?t=1515128214"
+    },
+    {
+      "name": "Cuphead Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256705157/movie.293x165.jpg?t=1515128225",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/268910/140451/520105bab91ca3bd79ec586ab2ff7da7811becb6/1750499393/dash_h264.mpd?t=1515128225"
+    }
+  ],
+  "metacritic": {
+    "score": 88,
+    "url": "https://www.metacritic.com/game/pc/cuphead?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 268910,
+    "store_url": "https://store.steampowered.com/app/268910/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Difficult",
+      "Cartoon",
+      "Co-op",
+      "Platformer",
+      "Local Co-Op",
+      "Great Soundtrack",
+      "Multiplayer",
+      "2D",
+      "Indie",
+      "Hand-drawn",
+      "Cartoony",
+      "Bullet Hell",
+      "Retro",
+      "Action",
+      "Shoot 'Em Up",
+      "Singleplayer",
+      "Side Scroller",
+      "Souls-like",
+      "Colorful",
+      "Funny"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 206880,
+    "review_negative": 8198,
+    "review_total": 215078,
+    "review_positive_percent": 96.19
+  }
+}

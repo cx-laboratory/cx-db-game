@@ -1,0 +1,245 @@
+{
+  "key": "shadow-tactics-blades-of-the-shogun",
+  "name": "Shadow Tactics: Blades of the Shogun",
+  "description": "Shadow Tactics is a hardcore tactical stealth game set in Japan around the Edo period. A new Shogun seizes power over Japan and enforces nationwide peace. In his battle against conspiracy and rebellion, he recruits five specialists with extraordinary skills for assassination, sabotage and espionage.",
+  "developers": [
+    "Mimimi Games"
+  ],
+  "publishers": [
+    "Daedalic Entertainment"
+  ],
+  "release_date": "2016-12-07",
+  "website": "http://www.shadow-tactics.com",
+  "tags": [
+    "indie",
+    "strategy",
+    "stealth",
+    "tactical",
+    "ninja",
+    "real-time-tactics",
+    "singleplayer",
+    "isometric",
+    "assassins",
+    "historical",
+    "action",
+    "rts",
+    "difficult",
+    "violent",
+    "atmospheric",
+    "third-person",
+    "adventure",
+    "puzzle",
+    "samurai",
+    "survival"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Shadow Tactics.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "open_bonus_win.bat",
+          "description": "Bonus Content",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Daedalic Entertainment GmbH/Shadow Tactics Blades of the Shogun",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Shadow Tactics.app",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "open_bonus_osx.sh",
+          "description": "Bonus Content",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Daedalic Entertainment GmbH/Shadow Tactics Blades of the Shogun",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Shadow Tactics",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "open_bonus_lin.sh",
+          "description": "Bonus Content",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Daedalic Entertainment GmbH/Shadow Tactics Blades of the Shogun",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Shadow Tactics: Blades of the Shogun",
+    "Shadow Tactics",
+    "open_bonus_win.bat",
+    "Shadow Tactics.app",
+    "open_bonus_osx.sh",
+    "open_bonus_lin.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/418240/7f933b7e1bcb83caf3bbcc9a143aee85b8a677af.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418240/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418240/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418240/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418240/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418240/ss_410b4a15c97f1d27ab2e2e86bc7a1ffa1d175f3f.1920x1080.jpg?t=1770912397"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418240/ss_2ba39b8a5b0337e9436e393d0b166865b275fd31.1920x1080.jpg?t=1770912397"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418240/ss_c53823af83828a28f3798cdd831c40df1c1a2524.1920x1080.jpg?t=1770912397"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418240/ss_e81ca5a0bf80bf851b48747c23ddf01add0ba202.1920x1080.jpg?t=1770912397"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418240/ss_44f896f63746d9743a6e8f6cb44fbe499e0cbd81.1920x1080.jpg?t=1770912397"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418240/ss_613e55b14d286aa7b57ccb99a879a10c6d03a47d.1920x1080.jpg?t=1770912397"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418240/ss_db0236864cc6fda15f0047309d34e605c9e10e49.1920x1080.jpg?t=1770912397"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418240/ss_9e758d48998aaca550fbbf486aef1142cec5e344.1920x1080.jpg?t=1770912397"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418240/ss_dcd2e1cce3f7b5d60bec20e8eeddd445072c947e.1920x1080.jpg?t=1770912397"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418240/ss_20cfb05c204a45fea2178c46c00d69b80cab2323.1920x1080.jpg?t=1770912397"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Shadow Tactics: Blades of the Shogun - Gameplay Trailer 2",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256691160/movie.293x165.jpg?t=1501592020",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/418240/115192/b08cf86add6283739e71f2b7f7e5b8cc118ec3ca/1751280852/dash_h264.mpd?t=1501592020"
+    },
+    {
+      "name": "Shadow Tactics: Blades of the Shogun - Critics Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256682023/movie.293x165.jpg?t=1490623652",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/418240/95860/06523e9f771269443946d352e0dafd2d8da382f1/1751280849/dash_h264.mpd?t=1490623652"
+    },
+    {
+      "name": "Shadow Tactics: Blades of the Shogun - Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256677683/movie.293x165.jpg?t=1484556223",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/418240/86216/1402e41483d8f73fa3011d9b49490ee3fc666617/1751280845/dash_h264.mpd?t=1484556223"
+    }
+  ],
+  "metacritic": {
+    "score": 85,
+    "url": "https://www.metacritic.com/game/pc/shadow-tactics-blades-of-the-shogun?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 418240,
+    "store_url": "https://store.steampowered.com/app/418240/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Stealth",
+      "Strategy",
+      "Tactical",
+      "Ninja",
+      "Real Time Tactics",
+      "Singleplayer",
+      "Indie",
+      "Isometric",
+      "Assassins",
+      "Historical",
+      "Action",
+      "RTS",
+      "Difficult",
+      "Violent",
+      "Atmospheric",
+      "Third Person",
+      "Adventure",
+      "Puzzle",
+      "Samurai",
+      "Survival"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 36795,
+    "review_negative": 1522,
+    "review_total": 38317,
+    "review_positive_percent": 96.03
+  }
+}

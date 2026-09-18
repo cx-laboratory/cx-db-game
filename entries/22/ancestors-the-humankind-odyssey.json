@@ -1,0 +1,203 @@
+{
+  "key": "ancestors-the-humankind-odyssey",
+  "name": "Ancestors: The Humankind Odyssey",
+  "description": "Survive your evolution in Neogene Africa starting 10 million years ago. Ancestors: The Humankind Odyssey is a third-person open world survival game where you Explore, Expand, and Evolve to advance your clan to the next generation in the exciting new adventure from Panache Digital Games.",
+  "developers": [
+    "Panache Digital Games"
+  ],
+  "publishers": [
+    "Private Division"
+  ],
+  "release_date": "2020-08-28",
+  "website": "https://www.ancestorsgame.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "open-world-survival-craft",
+    "survival",
+    "open-world",
+    "exploration",
+    "singleplayer",
+    "crafting",
+    "simulation",
+    "nature",
+    "atmospheric",
+    "third-person",
+    "immersive-sim",
+    "multiplayer",
+    "choices-matter",
+    "historical",
+    "science",
+    "action-adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "arabic",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Ancestors\\Binaries\\Win64\\Ancestors-Win64-Shipping.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Ancestors\\Binaries\\Win64\\Ancestors.exe",
+          "description": "Ancestors The Humankind Odyssey (Dev)",
+          "type": "option1"
+        },
+        {
+          "executable": "Ancestors\\Binaries\\Win64\\Ancestors.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Ancestors/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Ancestors: The Humankind Odyssey",
+    "Ancestors\\Binaries\\Win64\\Ancestors-Win64-Shipping",
+    "Ancestors\\Binaries\\Win64\\Ancestors"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/536270/13e10516c1ae778fa3ab5a404aa0a2516d2d5182.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/536270/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/536270/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/536270/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/536270/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/536270/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/536270/ss_b7a3615ae6f8a5886c5d3b72c3ed08ae0b4249e2.1920x1080.jpg?t=1765224027"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/536270/ss_a04daacab5e13d844c1473b106a98bdb439de732.1920x1080.jpg?t=1765224027"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/536270/ss_27e876bf51d87b638f4f59e96b117dcc83e32692.1920x1080.jpg?t=1765224027"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/536270/ss_9cde7b2bc09fc72064844758c4c3fd17478d0c78.1920x1080.jpg?t=1765224027"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/536270/ss_a526a2c3cf24be8bfefb6d3da92792c6fe0321ef.1920x1080.jpg?t=1765224027"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/536270/ss_ff3e62604bc8b64a0a8aa185bb818ade9e9624a0.1920x1080.jpg?t=1765224027"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/536270/ss_d5a44ed85ced7b40da0f39054fccc4aa27e3a93b.1920x1080.jpg?t=1765224027"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/536270/ss_cc8326f6ba23091dc76a5abe5d2cc2e94153ae18.1920x1080.jpg?t=1765224027"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer ESRB EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256798760/movie.293x165.jpg?t=1598542082",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/536270/308362/4329dfcad34382f1005728627f13478abb3684a9/1750547542/dash_h264.mpd?t=1598542082"
+    },
+    {
+      "name": "Explore",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256798817/movie.293x165.jpg?t=1598563718",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/536270/308456/80ff9ae1f46affc823c6bb29e2c0b4e199dcdbf3/1750547594/dash_h264.mpd?t=1598563718"
+    },
+    {
+      "name": "Expand",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256798816/movie.293x165.jpg?t=1598563727",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/536270/308455/ca549b1892bb9eaf1f37985279d5702899984a4e/1750547585/dash_h264.mpd?t=1598563727"
+    },
+    {
+      "name": "Evolve",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256798815/movie.293x165.jpg?t=1598563736",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/536270/308454/7a8a6c6f299b043166da4c0bc8e56d7d19b23f4a/1750548944/dash_h264.mpd?t=1598563736"
+    },
+    {
+      "name": "Ancestors: The Humankind Odyssey Official Announcement Trailer ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256737584/movie.293x165.jpg?t=1544150088",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/536270/199392/b424c90538ee0a9126b51a0fce81da97a2ed8b0e/1750547524/dash_h264.mpd?t=1544150088"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 536270,
+    "store_url": "https://store.steampowered.com/app/536270/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Open World Survival Craft",
+      "Survival",
+      "Open World",
+      "Exploration",
+      "Singleplayer",
+      "Adventure",
+      "Crafting",
+      "Simulation",
+      "Nature",
+      "Atmospheric",
+      "Action",
+      "Third Person",
+      "RPG",
+      "Immersive Sim",
+      "Multiplayer",
+      "Choices Matter",
+      "Historical",
+      "Science",
+      "Action-Adventure",
+      "Indie"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 9265,
+    "review_negative": 2466,
+    "review_total": 11731,
+    "review_positive_percent": 78.98
+  }
+}

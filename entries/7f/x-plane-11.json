@@ -1,0 +1,249 @@
+{
+  "key": "x-plane-11",
+  "name": "X-Plane 11",
+  "description": "The future of flight simulation is now! X-Plane 11 is the detailed, realistic, and modern simulator you’ve been waiting for. Intuitive user interface, 3-D cockpits, new effects, 3-D sound, living airports and world-wide scenery.",
+  "developers": [
+    "Laminar Research"
+  ],
+  "publishers": [
+    "Laminar Research"
+  ],
+  "release_date": "2017-03-31",
+  "website": "http://x-plane.com",
+  "tags": [
+    "simulation",
+    "multiplayer",
+    "pvp",
+    "flight",
+    "realistic",
+    "open-world",
+    "vr",
+    "singleplayer",
+    "physics",
+    "first-person",
+    "sandbox",
+    "atmospheric",
+    "adventure",
+    "education",
+    "third-person",
+    "family-friendly",
+    "exploration",
+    "beautiful",
+    "action",
+    "controller",
+    "massively-multiplayer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Portuguese - Portugal",
+    "Russian*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "X-飞机 11"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "X-Plane.exe",
+          "description": "X-Plane",
+          "type": "default"
+        },
+        {
+          "executable": "Plane Maker.exe",
+          "description": "Plane Maker",
+          "type": "editor"
+        },
+        {
+          "executable": "Airfoil Maker.exe",
+          "description": "Airfoil Maker",
+          "type": "none"
+        },
+        {
+          "executable": "X-Plane.exe",
+          "description": "X-Plane in VR mode",
+          "type": "vr"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "X-Plane.app",
+          "description": "X-Plane",
+          "type": "default"
+        },
+        {
+          "executable": "Plane Maker.app",
+          "description": "Plane Maker",
+          "type": "editor"
+        },
+        {
+          "executable": "Airfoil Maker.app",
+          "description": "Airfoil Maker",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "X-Plane-x86_64",
+          "description": "X-Plane",
+          "type": "default"
+        },
+        {
+          "executable": "Plane Maker-x86_64",
+          "description": "Plane Maker",
+          "type": "editor"
+        },
+        {
+          "executable": "Airfoil Maker-x86_64",
+          "description": "Airfoil Maker",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "X-Plane 11",
+    "X-Plane",
+    "Plane Maker",
+    "Airfoil Maker",
+    "X-Plane.app",
+    "Plane Maker.app",
+    "Airfoil Maker.app",
+    "X-Plane-x86_64",
+    "Plane Maker-x86_64",
+    "Airfoil Maker-x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/269950/82f1ee9515d2c7fd45ebe664f89225cf90a5c6fb.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_38fa93e70789b0b4d68dccac1eb3a874da926613.1920x1080.jpg?t=1753867064"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_5bce5e0885835e7bd244edbc836edeb4ddba3f48.1920x1080.jpg?t=1753867064"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_5e226995e33b0690d190386f2923e5b29e440221.1920x1080.jpg?t=1753867064"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_8c1d11c8b55ce482a3cfe1e192636f0cd382d541.1920x1080.jpg?t=1753867064"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_023d61ada2eaec7cb07e71946506ee7a128a468b.1920x1080.jpg?t=1753867064"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_277dd15c5bd82f577d586d9b547b58e841d81bb3.1920x1080.jpg?t=1753867064"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_35a2520bad426346196ac6e2aa96883e96f84e59.1920x1080.jpg?t=1753867064"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_601d1531046aa105ba009c0a3bea137cf0c002cd.1920x1080.jpg?t=1753867064"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_b99ef34b60334a94bf7f602817769b3895012c0b.1920x1080.jpg?t=1753867064"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_70592440df07d7f57bf4be0e1f5eb37bb0cfd643.1920x1080.jpg?t=1753867064"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_c5e98b876072e546ecc46f0b09bf3935c80a964b.1920x1080.jpg?t=1753867064"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_4c2d8fe86f925256ea50c628028f3d1202635729.1920x1080.jpg?t=1753867064"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_9c3b558932ed0a2bbead53cd6315d045f3e851ee.1920x1080.jpg?t=1753867064"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_f772f20bfbb9e96f77c91534826658b21676df12.1920x1080.jpg?t=1753867064"
+    }
+  ],
+  "videos": [
+    {
+      "name": "X-Plane 11     Now even more Powerful !",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256677028/movie.293x165.jpg?t=1482444216",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/269950/84835/5a004c9a2083b5db09d0fad42e3b3495bdbbd477/1750499565/dash_h264.mpd?t=1482444216"
+    },
+    {
+      "name": "Updated Las Vegas scenery including in X-Plane 11.25",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256722580/movie.293x165.jpg?t=1531503690",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/269950/173158/5fe3e479c62e10886648f6997887964e4ee1a960/1750501880/dash_h264.mpd?t=1531503690"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 269950,
+    "store_url": "https://store.steampowered.com/app/269950/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Shared/Split Screen PvP",
+      "Tracked Controller Support",
+      "VR Supported",
+      "Partial Controller Support",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Flight",
+      "Realistic",
+      "Open World",
+      "Multiplayer",
+      "VR",
+      "Singleplayer",
+      "Physics",
+      "First-Person",
+      "Sandbox",
+      "Atmospheric",
+      "Adventure",
+      "Education",
+      "Third Person",
+      "Family Friendly",
+      "Exploration",
+      "Beautiful",
+      "Action",
+      "Controller",
+      "Massively Multiplayer"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 18651,
+    "review_negative": 1404,
+    "review_total": 20055,
+    "review_positive_percent": 93
+  }
+}

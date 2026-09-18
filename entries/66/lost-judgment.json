@@ -1,0 +1,138 @@
+{
+  "key": "lost-judgment",
+  "name": "Lost Judgment",
+  "description": "In this action-adventure thriller, detective Takayuki Yagami goes undercover to unravel a string of twisted crimes at a high school in Yokohama, Japan. Crack the case and some skulls with brutal combat featuring three unique fighting styles and an arsenal of private eye tricks.",
+  "developers": [
+    "RGG Studio"
+  ],
+  "publishers": [
+    "SEGA"
+  ],
+  "release_date": "2022-09-14",
+  "website": "https://yakuza.sega.com/lostjudgment/",
+  "tags": [
+    "action",
+    "adventure",
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "japanese": "LOST JUDGMENT：裁かれざる記憶",
+    "koreana": "로스트 저지먼트: 심판받지 않은 기억",
+    "tchinese": "審判之逝：湮滅的記憶",
+    "schinese": "审判之逝：湮灭的记忆"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "runtime\\media\\startup.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "runtime\\media\\startup.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Lost Judgment",
+    "runtime\\media\\startup",
+    "LOST JUDGMENT：裁かれざる記憶",
+    "로스트 저지먼트: 심판받지 않은 기억",
+    "審判之逝：湮滅的記憶",
+    "审判之逝：湮灭的记忆"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2058190/efcc6959a7385cb5b7d282c4b46bad941a9b94cc.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058190/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058190/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058190/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058190/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058190/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058190/ss_fbc9cbe8c4e5864ed010606ff039e7b0fbc6766a.1920x1080.jpg?t=1781263270"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058190/ss_e8a048bc0b746b5c51e2e705fbaf41a4e3ffa33e.1920x1080.jpg?t=1781263270"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058190/ss_0e6499eea014409ea82d3651afe8280543fb1755.1920x1080.jpg?t=1781263270"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058190/ss_4969eaac269aadba421d7af10b57758b82cba9bd.1920x1080.jpg?t=1781263270"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058190/ss_fba7e988e5e6799694658d7ed28863460e0db327.1920x1080.jpg?t=1781263270"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257336347/4de94ac1aa3d5a70ac4f23c02378fd8296391039/movie_600x337.jpg?t=1778778081",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2058190/1581995085/76607c38ef4d79092f1a9dbc57e3b3037a87d17d/1778706585/dash_h264.mpd?t=1778778081"
+    },
+    {
+      "name": "Launch Trailer (ESRB)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256901468/movie.293x165.jpg?t=1663160299",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2058190/488836/d65b9ffa9a963ae1e1cbd44ba6f93fbaefb84326/1750745558/dash_h264.mpd?t=1663160299"
+    }
+  ],
+  "metacritic": {
+    "score": 84,
+    "url": "https://www.metacritic.com/game/pc/lost-judgment?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 2058190,
+    "store_url": "https://store.steampowered.com/app/2058190/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8846,
+    "review_negative": 581,
+    "review_total": 9427,
+    "review_positive_percent": 93.84
+  }
+}

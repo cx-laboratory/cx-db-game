@@ -1,0 +1,255 @@
+{
+  "key": "running-with-rifles",
+  "name": "RUNNING WITH RIFLES",
+  "description": "RUNNING WITH RIFLES is a top-down tactical shooter with open world RPG elements. In RWR, you join the ranks of an army as a common soldier, just like the thousands around you.",
+  "developers": [
+    "Osumia Games"
+  ],
+  "publishers": [
+    "Osumia Games"
+  ],
+  "release_date": "2015-04-03",
+  "website": "http://www.runningwithrifles.com",
+  "tags": [
+    "action",
+    "indie",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "top-down-shooter",
+    "tactical",
+    "military",
+    "artificial-intelligence",
+    "open-world",
+    "sandbox",
+    "wargame",
+    "top-down",
+    "moddable",
+    "singleplayer",
+    "loot",
+    "pve",
+    "shooter",
+    "co-op-campaign",
+    "rpg",
+    "isometric"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Polish",
+    "Portuguese - Portugal",
+    "Italian",
+    "Simplified Chinese",
+    "Portuguese - Brazil",
+    "Russian",
+    "Korean",
+    "Spanish - Latin America"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "rwr_game.exe",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "rwr_config.exe",
+          "description": "Configure",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Running with rifles",
+          "pattern": "summary_profile.xml",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "RunningWithRifles.app/Contents/MacOS/RunningWithRifles64",
+          "description": "Launch (64-bit)",
+          "type": "none"
+        },
+        {
+          "executable": "RunningWithRifles.app",
+          "description": "Launch (32-bit)",
+          "type": "none"
+        },
+        {
+          "executable": "RunningWithRifles.app/Contents/MacOS/Config.app/Contents/MacOS/Config64",
+          "description": "Configure (64-bit)",
+          "type": "none"
+        },
+        {
+          "executable": "RunningWithRifles.app/Contents/MacOS/Config.app",
+          "description": "Configure (32-bit)",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Running with rifles",
+          "pattern": "summary_profile.xml",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "launch_game",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "launch_config",
+          "description": "Configure",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Running with rifles",
+          "pattern": "summary_profile.xml",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "RUNNING WITH RIFLES",
+    "rwr_game",
+    "rwr_config",
+    "RunningWithRifles.app/Contents/MacOS/RunningWithRifles64",
+    "RunningWithRifles.app",
+    "RunningWithRifles.app/Contents/MacOS/Config.app/Contents/MacOS/Config64",
+    "RunningWithRifles.app/Contents/MacOS/Config.app",
+    "launch_game",
+    "launch_config"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/270150/feacad90f64b2db6c3f7ac6dafe62d21a1b3df55.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270150/f8d3fc2eb5e79d7e3fad40aceec7d4220f23e2fe/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270150/81d8ddafd7a2e792dc73d6dc1056457a0d6db9de/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270150/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270150/c35702e55fe6aac6e05458614127f419410d4f47/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270150/6281d91e3f2cbb61867b7b1f19e9b7c23e1231af/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270150/ss_28c0e9c5c755fffff57cea3503750324c3045f6a.1920x1080.jpg?t=1772982285"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270150/ss_07ac14ba722dbe5e5f74082b63f6861c72effe4a.1920x1080.jpg?t=1772982285"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270150/ss_1a6e72fc8c1ded065f4586233fff5ebae71bab54.1920x1080.jpg?t=1772982285"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270150/ss_13fa117c28f28a21282509e63ac196599592c6ee.1920x1080.jpg?t=1772982285"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270150/ss_88483a17cabc86f6c3377cbe5e7aeeed8f878a08.1920x1080.jpg?t=1772982285"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270150/ss_1fdcec3c3e2efe5732394015a6638f3e2367b46e.1920x1080.jpg?t=1772982285"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270150/ss_e8dd21c80f6ec41f461ba339e18b7b9c96c128ca.1920x1080.jpg?t=1772982285"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270150/ss_60827d52f16b72c821e16538701e50c878f171f8.1920x1080.jpg?t=1772982285"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270150/ss_c8f0bb9e7c07d5dc96472b2b417e6315c4f86c6d.1920x1080.jpg?t=1772982285"
+    }
+  ],
+  "videos": [
+    {
+      "name": "RUNNING WITH RIFLES - Steam Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2038241/54098a1ecffdda25b371e796d2337d3c4eac062a/movie_600x337.jpg?t=1756233568",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/270150/751409023/89a02c946dc35ab9de561f23160df4bd6f3db6e7/1756230045/dash_h264.mpd?t=1756233568"
+    }
+  ],
+  "metacritic": {
+    "score": 78,
+    "url": "https://www.metacritic.com/game/pc/running-with-rifles?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 270150,
+    "store_url": "https://store.steampowered.com/app/270150/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Top-Down Shooter",
+      "Action",
+      "Tactical",
+      "Military",
+      "Artificial Intelligence",
+      "Open World",
+      "Sandbox",
+      "Wargame",
+      "Top-Down",
+      "Moddable",
+      "Multiplayer",
+      "Singleplayer",
+      "Loot",
+      "PvE",
+      "Co-op",
+      "Online Co-Op",
+      "Shooter",
+      "Co-op Campaign",
+      "RPG",
+      "Isometric"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 14640,
+    "review_negative": 2023,
+    "review_total": 16663,
+    "review_positive_percent": 87.86
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "key": "we-who-are-about-to-die",
+  "name": "We Who Are About To Die",
+  "description": "Fight &amp; strategize your way through spectacles and arenas - rise from lowly slave to Grand Champion and earn your freedom. Or... die trying. This Gladiator RPG Roguelite features in-depth career management and a unique physics simulated combat system. To those who are about to die, I salute you!",
+  "developers": [
+    "Jordy Lakiere"
+  ],
+  "publishers": [
+    "Jordy Lakiere"
+  ],
+  "release_date": "2022-11-15",
+  "website": "",
+  "tags": [
+    "action",
+    "indie",
+    "rpg",
+    "simulation",
+    "strategy",
+    "early-access",
+    "roguelike",
+    "roguelite",
+    "physics",
+    "medieval",
+    "singleplayer",
+    "difficult",
+    "sandbox",
+    "combat",
+    "hack-and-slash",
+    "replay-value",
+    "swordplay",
+    "immersive",
+    "gore",
+    "realistic",
+    "historical",
+    "rome"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Spanish - Latin America",
+    "Traditional Chinese"
+  ],
+  "name_localized": {
+    "russian": "We Who Are About To Die - Идущие на смерть"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "WWAATD.exe",
+          "description": "Default",
+          "type": "default"
+        },
+        {
+          "executable": "WWAATD.exe",
+          "description": "We Who Are About To Die (DirectX 11)",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "WWAATD/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "SavesDir",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "We Who Are About To Die",
+    "WWAATD",
+    "We Who Are About To Die - Идущие на смерть"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/973230/3c35ecda67b5eefcfff7e0ff4c4c2722298aaf60.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/973230/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/973230/28aac638aabb98be26cde990cb28dcd3f9b52aa7/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/973230/ba3a721f6055747763bc05198ae60bd13f250d14/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/973230/b459486318be1381b0354402f8b112c15b6e5ba4/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/973230/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/973230/ss_3bb1d35e2a364fb5da2dc20f7bda7576c7842911.1920x1080.jpg?t=1777898211"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/973230/ss_42d617074e35b314788823cce8d50e10ccc3829f.1920x1080.jpg?t=1777898211"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/973230/ss_6d54574007a7699bccc496e5a9b22f2d870dc24c.1920x1080.jpg?t=1777898211"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/973230/ss_975501c8a9f6b745c574ad74174677fafd76580c.1920x1080.jpg?t=1777898211"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/973230/ss_eb6a00e64c243a1f79274d78ec1f5756191cc0ac.1920x1080.jpg?t=1777898211"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/973230/ss_c01b1dc171768c9b83170466c152d1934c5afff3.1920x1080.jpg?t=1777898211"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/973230/ss_378a3678f7c11557ae22867105e115c75b461e25.1920x1080.jpg?t=1777898211"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/973230/ss_1317360b58559d31a4846b13f5a381375d6a760b.1920x1080.jpg?t=1777898211"
+    }
+  ],
+  "videos": [
+    {
+      "name": "We Who Are About To Die | The Spectacles Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257032391/movie.293x165.jpg?t=1719175156",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/973230/716047/6e9ffb432db430ff75cefe605c8d8c8e76ca0800/1750602795/dash_h264.mpd?t=1719175156"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 973230,
+    "store_url": "https://store.steampowered.com/app/973230/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Early Access",
+      "Action",
+      "Roguelite",
+      "Strategy",
+      "Simulation",
+      "RPG",
+      "Physics",
+      "Medieval",
+      "Singleplayer",
+      "Difficult",
+      "Sandbox",
+      "Combat",
+      "Hack and Slash",
+      "Replay Value",
+      "Swordplay",
+      "Immersive",
+      "Gore",
+      "Realistic",
+      "Historical",
+      "Rome"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7301,
+    "review_negative": 983,
+    "review_total": 8284,
+    "review_positive_percent": 88.13
+  }
+}

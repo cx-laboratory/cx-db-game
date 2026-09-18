@@ -1,0 +1,170 @@
+{
+  "key": "double-action-boogaloo",
+  "name": "Double Action: Boogaloo",
+  "description": "Double Action is a free stylish multiplayer game about diving, flipping, and sliding your way into action movie mayhem.",
+  "developers": [
+    "Double Action Factory"
+  ],
+  "publishers": [
+    "Double Action Factory"
+  ],
+  "release_date": "2014-10-23",
+  "website": "http://doubleactiongame.com/",
+  "tags": [
+    "action",
+    "indie",
+    "free-to-play",
+    "multiplayer",
+    "shooter",
+    "parkour",
+    "third-person-shooter",
+    "fps",
+    "bullet-time",
+    "first-person",
+    "open-world",
+    "funny",
+    "co-op",
+    "comedy",
+    "singleplayer",
+    "online-co-op",
+    "adventure",
+    "survival",
+    "controller",
+    "zombies"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "Russian",
+    "Spanish - Spain",
+    "Korean",
+    "Simplified Chinese",
+    "Spanish - Latin America"
+  ],
+  "name_localized": {
+    "schinese": "双重行动：欢乐舞"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "hl2.exe",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "bin/hammer.exe",
+          "description": "Double Action Map Editor",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Double Action: Boogaloo",
+    "hl2",
+    "bin/hammer"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/317360/e739a26ecad7310a7aeb44d9e6e06654718b2975.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/317360/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/317360/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/317360/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/317360/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/317360/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/317360/ss_eb0ff5103793ea8e3985c769066bf7f78fa24f14.1920x1080.jpg?t=1777514042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/317360/ss_226821a1200b41a01e21241a696a6de4d8ca4528.1920x1080.jpg?t=1777514042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/317360/ss_446d33ec3a1ae51f9b8cf328d474084e3553b443.1920x1080.jpg?t=1777514042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/317360/ss_39480620e2bdffe9e354143bab51403417d7d5df.1920x1080.jpg?t=1777514042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/317360/ss_be0ca8872486e25d8a2dec7fa181458e9457dbb9.1920x1080.jpg?t=1777514042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/317360/ss_3d13dae474bddb4f5ad08c39f6850d8dda4b5939.1920x1080.jpg?t=1777514042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/317360/ss_543f2f389eac5d7274483093bc51818bad2414c1.1920x1080.jpg?t=1777514042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/317360/ss_13d05adeaeaf15f7be3040fdb9aa8baeaeb784e8.1920x1080.jpg?t=1777514042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/317360/ss_a8a963857761d3ed7e832cc1042f07bc2d1966a9.1920x1080.jpg?t=1777514042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/317360/ss_6e085e0508cb054248ab49751a89dec9cc9e1c10.1920x1080.jpg?t=1777514042"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2033797/movie.293x165.jpg?t=1447363023",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/317360/23765/fac5fce260520d4f9588c5951b9dfac9c785ceec/1751270227/dash_h264.mpd?t=1447363023"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 317360,
+    "store_url": "https://store.steampowered.com/app/317360/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Indie",
+      "Free To Play"
+    ],
+    "categories": [
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "VR Support",
+      "Includes level editor",
+      "Includes Source SDK",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Action",
+      "Multiplayer",
+      "Shooter",
+      "Parkour",
+      "Third-Person Shooter",
+      "FPS",
+      "Bullet Time",
+      "First-Person",
+      "Open World",
+      "Funny",
+      "Indie",
+      "Co-op",
+      "Comedy",
+      "Singleplayer",
+      "Online Co-Op",
+      "Adventure",
+      "Survival",
+      "Controller",
+      "Zombies"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 10609,
+    "review_negative": 795,
+    "review_total": 11404,
+    "review_positive_percent": 93.03
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "key": "deadpoly",
+  "name": "DeadPoly",
+  "description": "DeadPoly is a polygon arcade zombie survival looter shooter with base building, crafting, scavenging, leveling, questing, and more, but your only goal is survival, everything else is optional.",
+  "developers": [
+    "TFL Games"
+  ],
+  "publishers": [
+    "TFL Games"
+  ],
+  "release_date": "2022-01-13",
+  "website": "https://deadpoly.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "casual",
+    "indie",
+    "massively-multiplayer",
+    "rpg",
+    "early-access",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "survival",
+    "zombies",
+    "open-world-survival-craft",
+    "post-apocalyptic",
+    "third-person-shooter",
+    "singleplayer",
+    "loot",
+    "pve",
+    "crafting",
+    "sandbox",
+    "base-building",
+    "building",
+    "looter-shooter",
+    "shooter",
+    "3d"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French*",
+    "Italian*",
+    "German*",
+    "Spanish - Spain*",
+    "Greek*",
+    "Japanese*",
+    "Korean*",
+    "Norwegian*",
+    "Polish*",
+    "Portuguese - Brazil*",
+    "Portuguese - Portugal*",
+    "Russian*",
+    "Simplified Chinese*",
+    "Spanish - Latin America*",
+    "Swedish*",
+    "Turkish*",
+    "Ukrainian**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "DeadPoly.exe",
+          "description": "DeadPoly",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Saved",
+          "pattern": "*.sav",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "DeadPoly"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1621070/1c97af32c9748678de86c2e613053209466347ba.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621070/b1374a286d291ee196c05607ec49e698f5173d50/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621070/f5974fcc0e35d49764b98857905924f9bf0db929/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621070/f7af99b34b40c133619a51e59854d18be85a1809/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621070/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621070/990edeeee7aafa2bbab042073a486b5da0099451/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621070/ss_04e983a0cb2feff2b286bcc7277824140631d056.1920x1080.jpg?t=1781130829"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621070/ss_cb437af137361fb55df4f09fff0ea05105c0128d.1920x1080.jpg?t=1781130829"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621070/b81a815ea2627b1eef9f1b54e72b74d5a7cc3a74/ss_b81a815ea2627b1eef9f1b54e72b74d5a7cc3a74.1920x1080.jpg?t=1781130829"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621070/b5efbd0cf206e825e8779523cabc118128b0bc27/ss_b5efbd0cf206e825e8779523cabc118128b0bc27.1920x1080.jpg?t=1781130829"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621070/ss_a2d9483ba9d02f821fd0fafe7120f4ecb5562a53.1920x1080.jpg?t=1781130829"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621070/ss_4da92dddd840d7c4de2249a3067c3dfa30aac067.1920x1080.jpg?t=1781130829"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621070/ss_4fcbb1a25c45096f0c105b608efba7adb3a02968.1920x1080.jpg?t=1781130829"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621070/693211124f96f1ccecea4d689efc5584d301953c/ss_693211124f96f1ccecea4d689efc5584d301953c.1920x1080.jpg?t=1781130829"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621070/ss_32930a04105a2225234cad3e1472caa9e15984f4.1920x1080.jpg?t=1781130829"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621070/ss_d550e8c300ef3c8d435fd33fee8c7bc7ed625eb3.1920x1080.jpg?t=1781130829"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621070/200948ec721276b719311223da3024a50c4afafc/ss_200948ec721276b719311223da3024a50c4afafc.1920x1080.jpg?t=1781130829"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621070/ss_718bf49aafb1165efdc3bf4931ca6422bd0fcca9.1920x1080.jpg?t=1781130829"
+    }
+  ],
+  "videos": [
+    {
+      "name": "DeadPoly 2025",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257112088/8193cb04fb74f82e557889991533cefc28a427ad/movie_600x337.jpg?t=1741476940",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1621070/847595/3d2d34b8aac931ce3d247c25027a72d543d07bab/1750712119/dash_h264.mpd?t=1741476940"
+    },
+    {
+      "name": "DeadPoly Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256979278/movie.293x165.jpg?t=1709239793",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1621070/624387/9a326578864ab25abd4989d64edafc722e621f78/1750713597/dash_h264.mpd?t=1709239793"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1621070,
+    "store_url": "https://store.steampowered.com/app/1621070/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Steam Input API Support",
+      "Stereo Sound",
+      "Surround Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Early Access",
+      "Survival",
+      "Zombies",
+      "Open World Survival Craft",
+      "Post-apocalyptic",
+      "Multiplayer",
+      "Online Co-Op",
+      "Third-Person Shooter",
+      "Singleplayer",
+      "Loot",
+      "PvP",
+      "PvE",
+      "Action",
+      "Crafting",
+      "Sandbox",
+      "Base Building",
+      "Building",
+      "Looter Shooter",
+      "Shooter",
+      "3D"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 4670,
+    "review_negative": 1353,
+    "review_total": 6023,
+    "review_positive_percent": 77.54
+  }
+}

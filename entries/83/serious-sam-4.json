@@ -1,0 +1,195 @@
+{
+  "key": "serious-sam-4",
+  "name": "Serious Sam 4",
+  "description": "Serious Sam 4 reignites the classic FPS series in a high-powered prequel loaded with an explosive arsenal, intergalactic carnage, and perfectly timed one-liners.",
+  "developers": [
+    "Croteam"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "release_date": "2020-09-24",
+  "website": "http://www.serioussam.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "gore",
+    "fps",
+    "shooter",
+    "violent",
+    "comedy",
+    "singleplayer",
+    "great-soundtrack",
+    "fast-paced",
+    "first-person",
+    "classic",
+    "difficult",
+    "arena-shooter",
+    "open-world",
+    "third-person-shooter",
+    "boomer-shooter"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "英雄萨姆4"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Bin/x64/Sam4.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Bin/x64/Sam4_Unrestricted.exe",
+          "description": "Play moddable version",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Serious Sam 4",
+    "Bin/x64/Sam4",
+    "Bin/x64/Sam4_Unrestricted",
+    "英雄萨姆4"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/257420/3f9e66277464a7145cbfe504acbad29477956d69.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420/ss_e48cc1bc2f4fa3b4d1891ce740138fbcc62e5c31.1920x1080.jpg?t=1781867663"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420/ss_bfc99a97593c134c83e09c027e679cd87b94edbb.1920x1080.jpg?t=1781867663"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420/ss_6b940fd678128f1049b34e2af1e6585eba77ba90.1920x1080.jpg?t=1781867663"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420/ss_2e6824320cd0feeb609c4258264df0d832cf3375.1920x1080.jpg?t=1781867663"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420/ss_c5fdaac977a7f7d4eacef0f0ae88669d34fb2f20.1920x1080.jpg?t=1781867663"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420/ss_1bf3fbc1cabcd2bdb843585154c3faef45c0193e.1920x1080.jpg?t=1781867663"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420/ss_010af2fe05242dc33ad3856388e435d4cf03c443.1920x1080.jpg?t=1781867663"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Serious Sam 4 Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256802337/movie.293x165.jpg?t=1601068145",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/257420/314560/84067db8f2e20206489aea7b7bd765a977a2ed1c/1751250061/dash_h264.mpd?t=1601068145"
+    },
+    {
+      "name": "Serious Sam 4 - Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256792482/movie.293x165.jpg?t=1594497128",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/257420/297883/c2bf149db6f4dc180f70670943b06e6d4de1aa7c/1751250057/dash_h264.mpd?t=1594497128"
+    },
+    {
+      "name": "Serious Sam 4 - Popemobile Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256801009/movie.293x165.jpg?t=1600164885",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/257420/312276/93fffabfa13b9ed796d791fdbc8b673956c5ba68/1751250061/dash_h264.mpd?t=1600164885"
+    },
+    {
+      "name": "Serious Sam 4 - A Classic Returns",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256785968/movie.293x165.jpg?t=1589993970",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/257420/286932/0bac11c2c27c0d87ba96680255b4747a48e50f8c/1751250056/dash_h264.mpd?t=1589993970"
+    }
+  ],
+  "metacritic": {
+    "score": 68,
+    "url": "https://www.metacritic.com/game/pc/serious-sam-4?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 257420,
+    "store_url": "https://store.steampowered.com/app/257420/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Gore",
+      "Action",
+      "FPS",
+      "Co-op",
+      "Shooter",
+      "Multiplayer",
+      "Violent",
+      "Adventure",
+      "Comedy",
+      "Singleplayer",
+      "Great Soundtrack",
+      "Fast-Paced",
+      "First-Person",
+      "Classic",
+      "Indie",
+      "Difficult",
+      "Arena Shooter",
+      "Open World",
+      "Third-Person Shooter",
+      "Boomer Shooter"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 14616,
+    "review_negative": 2926,
+    "review_total": 17542,
+    "review_positive_percent": 83.32
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "key": "people-playground",
+  "name": "People Playground",
+  "description": "Shoot, stab, burn, poison, tear, vaporise, or crush ragdolls in a large open space.",
+  "developers": [
+    "mestiez"
+  ],
+  "publishers": [
+    "Studio Minus"
+  ],
+  "release_date": "2019-07-24",
+  "website": "https://studiominus.nl/",
+  "tags": [
+    "action",
+    "casual",
+    "indie",
+    "simulation",
+    "sandbox",
+    "gore",
+    "physics",
+    "violent",
+    "moddable",
+    "2d",
+    "singleplayer",
+    "destruction",
+    "funny",
+    "building",
+    "pixel-graphics",
+    "comedy",
+    "horror",
+    "choose-your-own-adventure",
+    "multiplayer"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {
+    "schinese": "人类游乐场"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "People Playground.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Contraptions",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "Mods",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "People Playground"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1118200/41b6bdf6fb9feae9c966d414c2acddd77aaafa7f.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118200/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118200/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118200/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118200/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118200/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118200/ss_402e684595c74400d4596978089e1e89e7ecbae9.1920x1080.jpg?t=1776802758"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118200/ss_f66b180126ecae5ed5e9dec5105015aac0ca2ec8.1920x1080.jpg?t=1776802758"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118200/ss_1b0a4c1230ce6f218cee43a7e31401f1b414040b.1920x1080.jpg?t=1776802758"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118200/ss_990b81e507c68baa617c61363c77a6bc45ef4134.1920x1080.jpg?t=1776802758"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118200/ss_d9ef0a2eff3d2c9963a0346b0981066b9f8d7075.1920x1080.jpg?t=1776802758"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118200/ss_4c86853e1889a327f7027ecf9f97add2ae0b1e89.1920x1080.jpg?t=1776802758"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118200/ss_a334b04ba6f3662af20122ca84a979b699bf7cf1.1920x1080.jpg?t=1776802758"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118200/ss_4f88bbde84018182a0dd974ada72378248055993.1920x1080.jpg?t=1776802758"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118200/ss_645d8d2739b9c31cefb8d2d01ab72fe1f2e7152a.1920x1080.jpg?t=1776802758"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gameplay trailer 1",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256767517/movie.293x165.jpg?t=1659267076",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1118200/253137/ba7c230bf4799e83fc8bb7f3f1f41949ab09364d/1750623392/dash_h264.mpd?t=1659267076"
+    },
+    {
+      "name": "Gameplay trailer 2",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256757322/movie.293x165.jpg?t=1564071357",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1118200/234953/f533023237b25e12d617af00bda125ba09a97bbc/1750623391/dash_h264.mpd?t=1564071357"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1118200,
+    "store_url": "https://store.steampowered.com/app/1118200/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Sandbox",
+      "Gore",
+      "Physics",
+      "Violent",
+      "Moddable",
+      "2D",
+      "Singleplayer",
+      "Destruction",
+      "Simulation",
+      "Funny",
+      "Building",
+      "Pixel Graphics",
+      "Psychological Horror",
+      "Indie",
+      "Action",
+      "Casual",
+      "Comedy",
+      "Horror",
+      "Choose Your Own Adventure",
+      "Multiplayer"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 309512,
+    "review_negative": 4788,
+    "review_total": 314300,
+    "review_positive_percent": 98.48
+  }
+}

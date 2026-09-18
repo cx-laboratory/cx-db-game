@@ -1,0 +1,266 @@
+{
+  "key": "age-of-history-3",
+  "name": "Age of History 3",
+  "description": "Grand strategy wargame where the destiny of Civilizations rests in your hands - will they stand united under your leadership or fall divided in conflict? Journey through the entire saga of human civilization, from its earliest days to the futuristic era, crafting your legacy age by age.",
+  "developers": [
+    "Łukasz Jakowski"
+  ],
+  "publishers": [
+    "Łukasz Jakowski Games"
+  ],
+  "release_date": "2024-10-23",
+  "website": "https://www.ageofcivilizationsgame.com/",
+  "tags": [
+    "simulation",
+    "strategy",
+    "wargame",
+    "grand-strategy",
+    "rts",
+    "alternate-history",
+    "diplomacy",
+    "world-war-i",
+    "economy",
+    "education",
+    "world-war-ii",
+    "2d",
+    "tactical",
+    "medieval",
+    "war",
+    "level-editor",
+    "singleplayer",
+    "moddable",
+    "building",
+    "realistic",
+    "cold-war"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English*",
+    "German*",
+    "Polish*",
+    "French*",
+    "Italian*",
+    "Spanish - Spain*",
+    "Portuguese - Brazil*",
+    "Portuguese - Portugal*",
+    "Russian*",
+    "Turkish*",
+    "Korean*",
+    "Simplified Chinese*",
+    "Spanish - Latin America*",
+    "Czech*",
+    "Hungarian*",
+    "Indonesian*",
+    "Romanian*",
+    "Ukrainian*",
+    "Japanese*",
+    "Greek*",
+    "Dutch*",
+    "Thai*",
+    "Arabic*",
+    "Finnish*",
+    "Georgian*",
+    "Hebrew*",
+    "Kazakh*",
+    "Lithuanian*",
+    "Macedonian*",
+    "Persian*",
+    "Serbian*",
+    "Vietnamese*",
+    "Traditional Chinese*",
+    "Croatian*",
+    "Filipino*",
+    "Bulgarian**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "jre\\bin\\javaw.exe",
+          "description": "AoH3 - Play the Game",
+          "type": "default"
+        },
+        {
+          "executable": "jre\\bin\\javaw.exe",
+          "description": "BETA PLAY AoH3 - LWJGL3",
+          "type": "default"
+        },
+        {
+          "executable": "jdk\\bin\\javaw.exe",
+          "description": "Play beta Multiplayer AoH3",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Age of History 3.app",
+          "description": "Age of History 3 X64",
+          "type": "default"
+        },
+        {
+          "executable": "jdk\\bin\\javaw.exe",
+          "description": "Play beta Multiplayer AoH3",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Age of History 3",
+    "jre\\bin\\javaw",
+    "jdk\\bin\\javaw",
+    "Age of History 3.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2772750/f49440fff2d8e6629599ff6eb5b6fe63122b48be.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/d526bef925f1d0cddb4fef16c7e28968872ae9f5/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/de83231f5afde6f47ca3b4256260e4eb50fbf176/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/fa3aa3e5ab3fdfd04fbb6247c8eb714d4086fba6/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/ss_a230d2f54a9c1f7594601b03c54e573af94920c9.1920x1080.jpg?t=1777566511"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/ss_ceae1c2e98f5eda0c23374ef20ba9ea058fda3fd.1920x1080.jpg?t=1777566511"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/ss_6dc152bfbb48f610c0e7b7aa890ab1ae98108eac.1920x1080.jpg?t=1777566511"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/ss_1ada9a0e90cde5fe94fe2e62ac993852cb4db201.1920x1080.jpg?t=1777566511"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/ss_58955948a94d8c903197b3177f47a579536cd745.1920x1080.jpg?t=1777566511"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/ss_03532e0a0e95c5e2eaeff753ce3aeae2d6c5738e.1920x1080.jpg?t=1777566511"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/ss_cb41eabe6dad1cb6af3bd3c7eccd0b99300c8369.1920x1080.jpg?t=1777566511"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/ss_a28c289689bc48e5c1db27fc5dbad1490f6df8b2.1920x1080.jpg?t=1777566511"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/ss_cb82684b3777b97021e1aeea75ac63d0b7dd89c9.1920x1080.jpg?t=1777566511"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/ss_a37876f3817d35cd0b49fd2c303a1c0dff6109c3.1920x1080.jpg?t=1777566511"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/ss_1d9f6061735a868cfe172b7c49d4bef1ac6795c8.1920x1080.jpg?t=1777566511"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/ss_8967f458577ce3222d9b3ceff5af7a5cb505eea5.1920x1080.jpg?t=1777566511"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/ss_9ad5368afef0419ce8c9c7982cc5b6d0f34b3f67.1920x1080.jpg?t=1777566511"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/ss_f24c46660a8774c7a3a0a20a77e20fedc8ddf3f0.1920x1080.jpg?t=1777566511"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/ss_1b0d795fffbb22bf5c3c3d5913ace9b4065d9e87.1920x1080.jpg?t=1777566511"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/ss_be7c966f3d4f250dbb465c407f6ab50874205f37.1920x1080.jpg?t=1777566511"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/ss_cdb22730e0d16168dcbf2c84961e9a7e19e5ba8a.1920x1080.jpg?t=1777566511"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/ss_8233b326d70eed9f08c9b7c50db235e704fe2172.1920x1080.jpg?t=1777566511"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/ss_2e2e6c08504e15ca40346bd172498764edcd7cf3.1920x1080.jpg?t=1777566511"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/ss_fa13984ac230203f52de5f8e800e138f18b3e79c.1920x1080.jpg?t=1777566511"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/ss_56acf563557ac4785873420b662802a63faa307d.1920x1080.jpg?t=1777566511"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/ss_c36d3ac142fac6cdb265993e232c73685e288b9f.1920x1080.jpg?t=1777566511"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/ss_755640d98322a11603c8cb03e823e46d0faeeada.1920x1080.jpg?t=1777566511"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772750/ss_04e0a80f352364e86a480bab6cc2873b51e5d984.1920x1080.jpg?t=1777566511"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Age of History 3 - Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257056676/movie.293x165.jpg?t=1726771608",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2772750/758367/d3455a0df49aa7f1872ef8346ec97dcf746afd4c/1750819789/dash_h264.mpd?t=1726771608"
+    },
+    {
+      "name": "Age of History 3",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257015664/3d2bd1232e9037234efb83c39d9deaaa039d0cce/movie_600x337.jpg?t=1729025263",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2772750/686983/020d109de45961548866d02152c241ac8821eca9/1750819785/dash_h264.mpd?t=1729025263"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2772750,
+    "store_url": "https://store.steampowered.com/app/2772750/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Wargame",
+      "Strategy",
+      "Grand Strategy",
+      "RTS",
+      "Alternate History",
+      "Diplomacy",
+      "World War I",
+      "Economy",
+      "Education",
+      "World War II",
+      "2D",
+      "Tactical",
+      "Medieval",
+      "War",
+      "Level Editor",
+      "Singleplayer",
+      "Moddable",
+      "Building",
+      "Realistic",
+      "Cold War"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 15491,
+    "review_negative": 2701,
+    "review_total": 18192,
+    "review_positive_percent": 85.15
+  }
+}

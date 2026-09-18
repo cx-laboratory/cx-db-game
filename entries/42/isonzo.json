@@ -1,0 +1,304 @@
+{
+  "key": "isonzo",
+  "name": "Isonzo",
+  "description": "Ferocious Alpine warfare will test your tactical skills in this authentic WW1 FPS. Battle among the scenic peaks, rugged valleys and idyllic towns of northern Italy. The Great War on the Italian Front is brought to life and elevated to unexpected heights!",
+  "developers": [
+    "BlackMill Games"
+  ],
+  "publishers": [
+    "BlackMill Games"
+  ],
+  "release_date": "2022-09-13",
+  "website": "https://www.ww1gameseries.com/isonzo/",
+  "tags": [
+    "action",
+    "indie",
+    "massively-multiplayer",
+    "simulation",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "atmospheric",
+    "team-based",
+    "realistic",
+    "wargame",
+    "military",
+    "class-based",
+    "war",
+    "world-war-i",
+    "fps",
+    "first-person",
+    "historical",
+    "singleplayer",
+    "shooter",
+    "tactical"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english"
+  ],
+  "name_localized": {
+    "schinese": "伊松佐河"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Isonzo/Isonzo.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "WW1 Game Series/Isonzo/Steam/{64BitSteamID}",
+          "pattern": "SaveData_User.dat*",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Isonzo/Isonzo.app/Contents/MacOS/Isonzo",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "WW1 Game Series/Isonzo/Steam/{64BitSteamID}",
+          "pattern": "SaveData_User.dat*",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Isonzo/Isonzo",
+          "description": "Launch ",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "WW1 Game Series/Isonzo/Steam/{64BitSteamID}",
+          "pattern": "SaveData_User.dat*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Isonzo",
+    "Isonzo/Isonzo",
+    "Isonzo/Isonzo.app/Contents/MacOS/Isonzo",
+    "伊松佐河"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1556790/cfd4412226a3a302490dbefc72b0eacc5a1260f8.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/c7c9a363afad4ea27d01ceaed8438a3fe1378dc0/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/110ae0bdf759fc8f1853a0e69c8eec45f4e74fcc/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/ss_6591b45dff1523fc3953ff9755b3fcaf9b4edec1.1920x1080.jpg?t=1776863775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/ss_b3fb5a70df0bd1af156ea74fa0e68d72cdade28e.1920x1080.jpg?t=1776863775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/ss_38e81d2bc874e524e0ca956e3070960067a40817.1920x1080.jpg?t=1776863775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/ss_bad58b6d085c62b3489904003b7c26f8584e1a36.1920x1080.jpg?t=1776863775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/ss_5dbe5c970487b98acdf0d1b12889c7236721ce4e.1920x1080.jpg?t=1776863775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/ss_a688da509c460e7199cea4673645e68c8f1b98ee.1920x1080.jpg?t=1776863775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/ss_0a440db0726ee3661967048dfb03b6941e1bb326.1920x1080.jpg?t=1776863775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/ss_aa0a8024eeab8fddba61f0d8ace9e1e7dd0841fe.1920x1080.jpg?t=1776863775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/ss_b6116ade6ea36f4d30a2a91847c6546693b8f3af.1920x1080.jpg?t=1776863775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/ss_1be08bf58303eead2bb4f05ddbb734d16fa2e3a5.1920x1080.jpg?t=1776863775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/ss_37a63985eabcd4892b16b9ed2c7a8b2a26ad7692.1920x1080.jpg?t=1776863775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/ss_2e4091238fe5606ca1b019c8fca0462328fd92a0.1920x1080.jpg?t=1776863775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/ss_3a4f67235fc8815303443fd8995399b9693683c8.1920x1080.jpg?t=1776863775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/ss_0cc8873565af49a5d5026f7141352eb18a4aba4d.1920x1080.jpg?t=1776863775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/ss_1675467cc3b39d5d4c2865bb35ba6ef6bc70dfc1.1920x1080.jpg?t=1776863775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/ss_3b3559172afc9042ed38c72b339bfc89a32ee971.1920x1080.jpg?t=1776863775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/ss_d15c8956a46fe583714d88da4350952a9be212b6.1920x1080.jpg?t=1776863775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/ss_7c8ab01c48ea2235d7c85c09edb179017afbc3f5.1920x1080.jpg?t=1776863775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/ss_378324486b02d775ca87d5fad976b91eec11e597.1920x1080.jpg?t=1776863775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/ss_c2a8e875614b517259bc766d53c5be7a1315f65b.1920x1080.jpg?t=1776863775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/ss_5e4d065b4c81bb5196d0b524c361582fa4fa5c6b.1920x1080.jpg?t=1776863775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/ss_b14de32ed71b4d42c84090d60fad709456a5dd39.1920x1080.jpg?t=1776863775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/ss_836ba0ca974a25a7c69e717d6083c72067137280.1920x1080.jpg?t=1776863775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/ss_5d7db44c33565215a519353c468e744aaec61939.1920x1080.jpg?t=1776863775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/ss_450dde5f172ef719cedfcb1b7584be6aaa535d56.1920x1080.jpg?t=1776863775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556790/ss_a2bf507a52cbb3e872804a61d00e9d78e6cc5b52.1920x1080.jpg?t=1776863775"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Moschin Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257129905/d9fb87e2753712115dbf20c0b9eebb14cb08e1a9/movie_600x337.jpg?t=1745844935",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1556790/876397/6d696848903f85542409d844ad9422b1d0126949/1750701107/dash_h264.mpd?t=1745844935"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256903402/movie.293x165.jpg?t=1684321119",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1556790/492039/fcaf107bc28c2367c8a9efae807869330dbb7cea/1750701032/dash_h264.mpd?t=1684321119"
+    },
+    {
+      "name": "Adamello Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257073845/16ee51b50b0f9619ced23c6096c16cd8b547a683/movie_600x337.jpg?t=1731599590",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1556790/786234/61b6c7e5db15c16f4d74497ffdb98cd5c4fdc28b/1750701101/dash_h264.mpd?t=1731599590"
+    },
+    {
+      "name": "Montello Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257052431/movie.293x165.jpg?t=1725540968",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1556790/751099/d9a1519128c945b7cd93c4062cced3ec4b47db86/1750701093/dash_h264.mpd?t=1725540968"
+    },
+    {
+      "name": "Ascent Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257005040/movie.293x165.jpg?t=1712839052",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1556790/669611/0dd7f192991e2445c2acdfd156e2d09fbc16102b/1750701072/dash_h264.mpd?t=1712839052"
+    },
+    {
+      "name": "Gear Up for Altitude Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257015064/movie.293x165.jpg?t=1712833800",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1556790/686002/3013b24010b2fc994ace1a17e335edf8be09089d/1750701085/dash_h264.mpd?t=1712833800"
+    },
+    {
+      "name": "Marmolada Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256980524/movie.293x165.jpg?t=1699529782",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1556790/626663/5eb3436ce83bc37c6c59af627cdc0fcc95f63f0d/1750701062/dash_h264.mpd?t=1699529782"
+    }
+  ],
+  "metacritic": {
+    "score": 73,
+    "url": "https://www.metacritic.com/game/pc/isonzo?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1556790,
+    "store_url": "https://store.steampowered.com/app/1556790/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Massively Multiplayer",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Keyboard Only Option",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Surround Sound",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Atmospheric",
+      "Simulation",
+      "Team-Based",
+      "Indie",
+      "PvP",
+      "Realistic",
+      "Wargame",
+      "Military",
+      "Class-Based",
+      "Massively Multiplayer",
+      "War",
+      "World War I",
+      "FPS",
+      "First-Person",
+      "Historical",
+      "Singleplayer",
+      "Multiplayer",
+      "Shooter",
+      "Action",
+      "Tactical"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 14090,
+    "review_negative": 2913,
+    "review_total": 17003,
+    "review_positive_percent": 82.87
+  }
+}

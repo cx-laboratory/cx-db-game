@@ -1,0 +1,240 @@
+{
+  "key": "project-hospital",
+  "name": "Project Hospital",
+  "description": "Become an ace doctor, an aspiring architect and a successful manager at the same time. Design your very own hospital, tweak every detail or choose one of the prebuilt scenarios and just jump to the doctor’s duty.",
+  "developers": [
+    "Oxymoron Games"
+  ],
+  "publishers": [
+    "Oxymoron Games"
+  ],
+  "release_date": "2018-10-30",
+  "website": "http://projecthospital.com",
+  "tags": [
+    "indie",
+    "simulation",
+    "strategy",
+    "management",
+    "medical-sim",
+    "city-builder",
+    "job-simulator",
+    "sandbox",
+    "building",
+    "education",
+    "economy",
+    "life-sim",
+    "character-customization",
+    "realistic",
+    "2d",
+    "isometric",
+    "moddable",
+    "stylized",
+    "replay-value",
+    "resource-management"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Czech",
+    "Portuguese - Brazil",
+    "Spanish - Latin America",
+    "Traditional Chinese",
+    "Russian",
+    "Turkish",
+    "Ukrainian",
+    "Italian",
+    "Simplified Chinese",
+    "Dutch",
+    "Japanese",
+    "Hungarian",
+    "Polish",
+    "Korean",
+    "Swedish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ProjectHospital.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "project_hospital.app",
+          "description": "in OpenGL 4.2 mode (nVidia fix)",
+          "type": "option1"
+        },
+        {
+          "executable": "project_hospital.app",
+          "description": "in latest Open GL mode",
+          "type": "option2"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "ProjectHospital.x86_64",
+          "description": "in OpenGL 4.2 mode (nVidia fix)",
+          "type": "option1"
+        },
+        {
+          "executable": "ProjectHospital.x86_64",
+          "description": "in latest OpenGL mode",
+          "type": "option2"
+        },
+        {
+          "executable": "ProjectHospital.x86_64",
+          "description": "with Vulkan (SteamDeck)",
+          "type": "option3"
+        },
+        {
+          "executable": "ProjectHospital.x86_64",
+          "description": "with Vulkan, force windowed",
+          "type": "option3"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Project Hospital",
+    "ProjectHospital",
+    "project_hospital.app",
+    "ProjectHospital.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/868360/65f5c77e94924d747c501a51746d9e8c243e4d45.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868360/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868360/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868360/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868360/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868360/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868360/ss_f66538f1cf1635e0cdaffb3d9136a0d21f822e0f.1920x1080.jpg?t=1782218252"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868360/ss_1712ddd19e241ae35d6ee4d5761400ab18da9b9c.1920x1080.jpg?t=1782218252"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868360/ss_afb7f7018ae3eecd628d610bd17fb72222d66e90.1920x1080.jpg?t=1782218252"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868360/ss_53d51fa45df80cfe7b1549c95355961979554b3b.1920x1080.jpg?t=1782218252"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868360/ss_98a32e570a0e46558e4420b62a7bc3760dd29c1b.1920x1080.jpg?t=1782218252"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868360/ss_75b393df8c9b9251053bd90cee942a06ac934c83.1920x1080.jpg?t=1782218252"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868360/ss_7e614f6862edb4a4b8fde192abc4ef3d0049c2e9.1920x1080.jpg?t=1782218252"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868360/ss_f21c06c798ae9b038dfb5284fcdcd72fd72401f6.1920x1080.jpg?t=1782218252"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868360/ss_ae17a5fe8822ecb82202ca3c3c6e24b2fb05e1a4.1920x1080.jpg?t=1782218252"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868360/ss_812d70d2a6ce3146c37887c41f27f7d1649341ec.1920x1080.jpg?t=1782218252"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868360/ss_d1ff935e193a7fcdea2e9b1d02c8a90d233ec7b7.1920x1080.jpg?t=1782218252"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868360/ss_874c5696529923f3b9a91d9755f85aa40699327e.1920x1080.jpg?t=1782218252"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868360/ss_ee8ad8f7c79d5fcdad7a57f2f54e3ae4a0764cfb.1920x1080.jpg?t=1782218252"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868360/ss_3c322738c7a5b5a95e21e528a3b87d2fe767384a.1920x1080.jpg?t=1782218252"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Project Hospital Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256733276/movie.293x165.jpg?t=1540470657",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/868360/192264/7900a2d9a863f056f269f9f7ebc7ca44a18b7dd6/1750591465/dash_h264.mpd?t=1540470657"
+    },
+    {
+      "name": "Project Hospital Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256717868/movie.293x165.jpg?t=1527498538",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/868360/164742/25d82501e3229f93c8b71ac4fa2bb39c7cb7681e/1750591415/dash_h264.mpd?t=1527498538"
+    }
+  ],
+  "metacritic": {
+    "score": 75,
+    "url": "https://www.metacritic.com/game/pc/project-hospital?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 868360,
+    "store_url": "https://store.steampowered.com/app/868360/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Stats",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Management",
+      "Medical Sim",
+      "City Builder",
+      "Job Simulator",
+      "Simulation",
+      "Sandbox",
+      "Strategy",
+      "Building",
+      "Education",
+      "Economy",
+      "Life Sim",
+      "Character Customization",
+      "Realistic",
+      "2D",
+      "Isometric",
+      "Moddable",
+      "Stylized",
+      "Indie",
+      "Replay Value",
+      "Resource Management"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8191,
+    "review_negative": 1023,
+    "review_total": 9214,
+    "review_positive_percent": 88.9
+  }
+}

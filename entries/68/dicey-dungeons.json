@@ -1,0 +1,346 @@
+{
+  "key": "dicey-dungeons",
+  "name": "Dicey Dungeons",
+  "description": "Become a giant walking dice, explore dungeons and defy Lady Luck in this dice powered roguelike! Now featuring &quot;Reunion&quot;, a free DLC with six brand-new episodes!",
+  "developers": [
+    "Terry Cavanagh"
+  ],
+  "publishers": [
+    "Terry Cavanagh"
+  ],
+  "release_date": "2019-08-14",
+  "website": "http://diceydungeons.com/",
+  "tags": [
+    "indie",
+    "strategy",
+    "roguelike-deckbuilder",
+    "card-battler",
+    "deckbuilding",
+    "roguelite",
+    "roguelike",
+    "turn-based",
+    "card-game",
+    "singleplayer",
+    "mouse-only",
+    "colorful",
+    "replay-value",
+    "cute",
+    "great-soundtrack",
+    "cartoon",
+    "dice",
+    "casual",
+    "dungeon-crawler",
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "schinese",
+    "arabic",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "diceydungeons.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "diceydungeons.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Terry Cavanagh Games/diceydungeons",
+          "pattern": "diceydungeons.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Terry Cavanagh Games/diceydungeons",
+          "pattern": "enemyprogress.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Terry Cavanagh Games/diceydungeons",
+          "pattern": "continuesave.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Terry Cavanagh Games/diceydungeons",
+          "pattern": "halloweenspecial.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Terry Cavanagh Games/diceydungeons",
+          "pattern": "halloweenspecialcontinuesave.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Terry Cavanagh Games/diceydungeons",
+          "pattern": "reunion.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Terry Cavanagh Games/diceydungeons",
+          "pattern": "reunioncontinuesave.json",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "diceydungeons.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Terry Cavanagh Games/diceydungeons",
+          "pattern": "diceydungeons.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Terry Cavanagh Games/diceydungeons",
+          "pattern": "enemyprogress.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Terry Cavanagh Games/diceydungeons",
+          "pattern": "continuesave.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Terry Cavanagh Games/diceydungeons",
+          "pattern": "halloweenspecial.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Terry Cavanagh Games/diceydungeons",
+          "pattern": "halloweenspecialcontinuesave.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Terry Cavanagh Games/diceydungeons",
+          "pattern": "reunion.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Terry Cavanagh Games/diceydungeons",
+          "pattern": "reunioncontinuesave.json",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "diceydungeons",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "diceydungeons",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Terry Cavanagh Games/diceydungeons",
+          "pattern": "diceydungeons.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Terry Cavanagh Games/diceydungeons",
+          "pattern": "enemyprogress.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Terry Cavanagh Games/diceydungeons",
+          "pattern": "continuesave.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Terry Cavanagh Games/diceydungeons",
+          "pattern": "halloweenspecial.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Terry Cavanagh Games/diceydungeons",
+          "pattern": "halloweenspecialcontinuesave.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Terry Cavanagh Games/diceydungeons",
+          "pattern": "reunion.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Terry Cavanagh Games/diceydungeons",
+          "pattern": "reunioncontinuesave.json",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Dicey Dungeons",
+    "diceydungeons",
+    "diceydungeons.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/861540/5a07e59d3eb120e2d7a2f38e480d78c4d0aa4843.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861540/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861540/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861540/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861540/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861540/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861540/ss_34c9e63f73c668bcde5dd4671e944c09e1c169b5.1920x1080.jpg?t=1761845135"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861540/ss_b61fb9b76ab03bdea062e7415001a9fd61e64f3f.1920x1080.jpg?t=1761845135"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861540/ss_ff6462111212aa9618405e30db7f7229f31e46ba.1920x1080.jpg?t=1761845135"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861540/ss_9ea62a96346f2c6806cde6c5a1c80e3dedb5d0e3.1920x1080.jpg?t=1761845135"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861540/ss_74b1baaa5e69028620885917df885e1fe8ef275b.1920x1080.jpg?t=1761845135"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861540/ss_2969395615a33e6cdc93d9702d947b3c766e9a33.1920x1080.jpg?t=1761845135"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861540/ss_7a896c5b10403c93ec36e42c9fb148e08ae9a9e5.1920x1080.jpg?t=1761845135"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861540/ss_84ab1a7cd5984980df90925475f9b214d1875a10.1920x1080.jpg?t=1761845135"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861540/ss_9cc49a4dcbbbb931bfe582f429a09e2756d3d449.1920x1080.jpg?t=1761845135"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861540/ss_f75de6da1ee6e413972fb470d9b22505ea7e4778.1920x1080.jpg?t=1761845135"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861540/ss_82edb94a883770355d85623be67426ba9e410d17.1920x1080.jpg?t=1761845135"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861540/ss_c4094539ece3b9730d5aaa7d6d5eb6c47b069705.1920x1080.jpg?t=1761845135"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861540/ss_320d8afdab8e1bc80d966d06c2b138eddc64f784.1920x1080.jpg?t=1761845135"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861540/ss_83aa634081c69740149cde4c0ab0665dc2a22057.1920x1080.jpg?t=1761845135"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Reunion Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256895113/movie.293x165.jpg?t=1657209250",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/861540/477568/eece360425945c8299378a87add8dc3fa0ad4c11/1750590502/dash_h264.mpd?t=1657209250"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256758975/movie.293x165.jpg?t=1565715780",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/861540/238075/d693b7ae856c879d75a3be1b2383433603c15d70/1750590490/dash_h264.mpd?t=1565715780"
+    }
+  ],
+  "metacritic": {
+    "score": 80,
+    "url": "https://www.metacritic.com/game/pc/dicey-dungeons?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 861540,
+    "store_url": "https://store.steampowered.com/app/861540/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Roguelike Deckbuilder",
+      "Card Battler",
+      "Deckbuilding",
+      "Roguelite",
+      "Indie",
+      "Roguelike",
+      "Turn-Based",
+      "Strategy",
+      "Card Game",
+      "Singleplayer",
+      "Mouse Only",
+      "Colorful",
+      "Replay Value",
+      "Cute",
+      "Great Soundtrack",
+      "Cartoon",
+      "Dice",
+      "Casual",
+      "Dungeon Crawler",
+      "RPG"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 10431,
+    "review_negative": 1264,
+    "review_total": 11695,
+    "review_positive_percent": 89.19
+  }
+}

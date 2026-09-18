@@ -1,0 +1,215 @@
+{
+  "key": "ranch-simulator",
+  "name": "Ranch Simulator",
+  "description": "Builder. Farmer. Hunter. Trader. Ranching certainly isn’t your average job. Think you have the skills to turn your family’s rundown homestead into the most prosperous ranch in the valley? Then it’s time to head out into the wilderness in this captivating single and multiplayer open-world simulator.",
+  "developers": [
+    "Toxic Dog"
+  ],
+  "publishers": [
+    "Excalibur Games"
+  ],
+  "release_date": "2023-11-04",
+  "website": "https://www.excalibur-games.com/ranch-simulator",
+  "tags": [
+    "simulation",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "open-world",
+    "farming-sim",
+    "farming",
+    "job-simulator",
+    "realistic",
+    "sandbox",
+    "singleplayer",
+    "hunting",
+    "management",
+    "animals",
+    "horses",
+    "economy",
+    "trading",
+    "immersive-sim",
+    "relaxing",
+    "first-person"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "polish",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "russian": "Ranch Simulator — строительство, фермерство, охота",
+    "german": "Ranch Simulator — Bauen, Farmen, Jagen"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Ranch_Simulator.exe",
+          "description": "Ranch Simulator",
+          "type": "option1"
+        },
+        {
+          "executable": "Ranch_Simulator.exe",
+          "description": "Ranch Simulator with DX11",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Ranch_Simulator/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Ranch Simulator",
+    "Ranch_Simulator",
+    "Ranch Simulator — строительство, фермерство, охота",
+    "Ranch Simulator — Bauen, Farmen, Jagen"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1119730/183b5e569eb811efa38f43245c9eb66e4e5b7d51.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119730/edbc791f576913bd2b7d3aeeed8bc5dd73614872/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119730/4de0f0d187957fb1e4c721fbd7a1e53ff1c966d4/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119730/71789024133779961e986459bf155344e46956cd/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119730/a6a008e1846244d0e7972c7f41f41e4b304bbd2d/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119730/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119730/ss_cc384cd5fb1a5e7458d236ac54ee1693fe35f139.1920x1080.jpg?t=1781527978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119730/ss_b1f4ebf03d59ea7a631d6c1913df74a554a91b61.1920x1080.jpg?t=1781527978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119730/ss_96d2cb5bb89cdf99253d3396c0562a3d3e5dd36b.1920x1080.jpg?t=1781527978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119730/ss_a760908f75952f175b88eba6027f7e831459ee58.1920x1080.jpg?t=1781527978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119730/ss_9a9a132deeade9c28a9e5607f88ae0902e1cf2d9.1920x1080.jpg?t=1781527978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119730/ss_e8a3f15f2343f3f81d0e1e99ddd5a750bdaf6d43.1920x1080.jpg?t=1781527978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119730/ss_a0b40048d33d3168182159c4acfda3c08615249c.1920x1080.jpg?t=1781527978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119730/ss_5cc772ecfca0ccefed741bcbb01aaf2ceb862b42.1920x1080.jpg?t=1781527978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119730/ss_a29cd55cfaf29737ef39b4035f3d6effd645424e.1920x1080.jpg?t=1781527978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119730/ss_08d919b5c52f867d3908b147b51e73e0fe11b909.1920x1080.jpg?t=1781527978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119730/ss_11ff4ccf158a6c396ddbe9f051e591efe8ec1ce3.1920x1080.jpg?t=1781527978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119730/ss_5ed5060fe0b3419b54a62352b5c681e80ec6505a.1920x1080.jpg?t=1781527978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119730/ss_ea1e5e8d12802d9b9ffd23b80c918d39524936cf.1920x1080.jpg?t=1781527978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119730/ss_cd7a5479aa1363b2d6dacac6fc205169f8774641.1920x1080.jpg?t=1781527978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119730/ss_eaec5bad9249f25b18235481fb94c0cb16bf0c18.1920x1080.jpg?t=1781527978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119730/ss_8439abd2a375df13d75478bf0b90566ca80d5131.1920x1080.jpg?t=1781527978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119730/ss_c4d7066864808b0e622d0ca5ddd15a7b310989a3.1920x1080.jpg?t=1781527978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119730/ss_e07759eab0e9a2edaaa3f477d1ec6ec6b7126a5f.1920x1080.jpg?t=1781527978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1119730/ss_511633916958f781aa176c42c6f87332f6c7e8a2.1920x1080.jpg?t=1781527978"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Ranch Sim - Out Now! (ENG)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256849678/movie.293x165.jpg?t=1702311228",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1119730/397638/00e3e7a96de4c5902278a1822953ac9509116170/1750623426/dash_h264.mpd?t=1702311228"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1119730,
+    "store_url": "https://store.steampowered.com/app/1119730/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Multiplayer",
+      "Online Co-Op",
+      "Open World",
+      "Farming Sim",
+      "Farming",
+      "Co-op",
+      "Job Simulator",
+      "Realistic",
+      "Sandbox",
+      "Singleplayer",
+      "Hunting",
+      "Management",
+      "Animals",
+      "Horses",
+      "Economy",
+      "Trading",
+      "Immersive Sim",
+      "Relaxing",
+      "First-Person"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 37237,
+    "review_negative": 9912,
+    "review_total": 47149,
+    "review_positive_percent": 78.98
+  }
+}

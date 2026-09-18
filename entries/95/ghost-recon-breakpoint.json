@@ -1,0 +1,158 @@
+{
+  "key": "ghost-recon-breakpoint",
+  "name": "Ghost Recon Breakpoint",
+  "description": "Ghost Recon Breakpoint is a tactical third-person shooter set in a vast open world. You must survive, adapt, and fight a rogue spec ops faction, using stealth, strategy, and high-tech gear in solo or co-op.",
+  "developers": [
+    "Ubisoft Paris"
+  ],
+  "publishers": [
+    "Ubisoft"
+  ],
+  "release_date": "2023-01-24",
+  "website": "https://ghost-recon.ubisoft.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "multiplayer",
+    "co-op",
+    "online-co-op"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "dutch",
+    "czech",
+    "arabic",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "幽灵行动：断点"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "GRB_vulkan.exe",
+          "description": "Ghost Recon Breakpoint - Vulkan",
+          "type": "option1"
+        },
+        {
+          "executable": "GRB.exe",
+          "description": "Ghost Recon Breakpoint - DX11",
+          "type": "option2"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Ghost Recon Breakpoint",
+    "GRB_vulkan",
+    "GRB",
+    "幽灵行动：断点"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2231380/c3672938f6f5bd6b7825a1a3e434c27971a481a5.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231380/3e05f31b9aa9fd29b9709f035e73761a908e9fbe/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231380/c3198d3208113c6ea52ff68f2ccda869a3716f94/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231380/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231380/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231380/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231380/cda7677119db2621fa2c2a40eda09c12faf58711/ss_cda7677119db2621fa2c2a40eda09c12faf58711.1920x1080.jpg?t=1782994307"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231380/5c36d6de8240fcff4bc45dca48389c0dec063a32/ss_5c36d6de8240fcff4bc45dca48389c0dec063a32.1920x1080.jpg?t=1782994307"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231380/0e412b902769e141b856dcbee9d0e1b3e084780f/ss_0e412b902769e141b856dcbee9d0e1b3e084780f.1920x1080.jpg?t=1782994307"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231380/16f06a87deed26643bb350c70975d8f7e96a3f00/ss_16f06a87deed26643bb350c70975d8f7e96a3f00.1920x1080.jpg?t=1782994307"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231380/8812fe069e86fc53ecebeb0f5dde4a830be1b47b/ss_8812fe069e86fc53ecebeb0f5dde4a830be1b47b.1920x1080.jpg?t=1782994307"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231380/ccd7fa9abcabb2f28889b5acf34130f9de9b2be8/ss_ccd7fa9abcabb2f28889b5acf34130f9de9b2be8.1920x1080.jpg?t=1782994307"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231380/60169dd3f67d4663516eb6d31bcd4b10b128ccc9/ss_60169dd3f67d4663516eb6d31bcd4b10b128ccc9.1920x1080.jpg?t=1782994307"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231380/e9155d272f13a1e56c2b04ea89f3273028081ddd/ss_e9155d272f13a1e56c2b04ea89f3273028081ddd.1920x1080.jpg?t=1782994307"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231380/7786cab6b8de6ca18539634e7af41bff54a71c94/ss_7786cab6b8de6ca18539634e7af41bff54a71c94.1920x1080.jpg?t=1782994307"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231380/2dcf4cfc7e481c5fa2bbd8909dd166b008f5384e/ss_2dcf4cfc7e481c5fa2bbd8909dd166b008f5384e.1920x1080.jpg?t=1782994307"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231380/f424e1b333bbb16df5281e3e6fcd85d4d684c92f/ss_f424e1b333bbb16df5281e3e6fcd85d4d684c92f.1920x1080.jpg?t=1782994307"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257368462/1405f6c2aae45614bd718c932bcd8d1845422b1c/movie_600x337.jpg?t=1782835269",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2231380/162747019/c9c9288f18110d900934dadc4bf9da15cacf74b3/1782834951/dash_h264.mpd?t=1782835269"
+    },
+    {
+      "name": "ESRB Launch",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256925162/movie.293x165.jpg?t=1674229596",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2231380/529434/5f41894ca9c387a65e01ead581bf60e6cbcae9c5/1750809568/dash_h264.mpd?t=1674229596"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2231380,
+    "store_url": "https://store.steampowered.com/app/2231380/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Captions available",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Partial Controller Support",
+      "HDR available"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 31829,
+    "review_negative": 11312,
+    "review_total": 43141,
+    "review_positive_percent": 73.78
+  }
+}

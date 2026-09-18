@@ -1,0 +1,167 @@
+{
+  "key": "sakura-clicker",
+  "name": "Sakura Clicker",
+  "description": "The latest entry in the Sakura series is more action-packed than ever before! Sakura Clickers is a fast-paced, exciting adventure, full of content, in which you defeat your foes with the power of your mouse!",
+  "developers": [
+    "Winged Cloud"
+  ],
+  "publishers": [
+    "Winged Cloud"
+  ],
+  "release_date": "2015-07-30",
+  "website": "",
+  "tags": [
+    "casual",
+    "free-to-play",
+    "indie",
+    "nudity",
+    "anime",
+    "sexual-content",
+    "incremental",
+    "female-protagonist",
+    "singleplayer",
+    "hentai",
+    "fantasy",
+    "2d",
+    "memes",
+    "funny",
+    "dating-sim",
+    "rpg",
+    "adventure",
+    "idler",
+    "story-rich",
+    "gore"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Sakura Clicker.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Winged Cloud/Sakura Clicker/",
+          "pattern": "*.sakura",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Saves",
+          "pattern": "*.sakura",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Sakura Clicker"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/383080/e949d522ccc4f2dba013dc4405609570f49b39d1.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383080/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383080/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383080/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383080/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383080/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383080/ss_126d714e2e8482f7a847cbdc07e490c6fe7f5333.1920x1080.jpg?t=1578342456"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383080/ss_c7cc08bf06fe80fe114cc7d064eeba4df83c283f.1920x1080.jpg?t=1578342456"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383080/ss_faea898905abddd7b90d253155312c7dcd66d31f.1920x1080.jpg?t=1578342456"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383080/ss_07309975b732a5b17d3d61134e4878417bedfc46.1920x1080.jpg?t=1578342456"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383080/ss_e93ce48d680c3096126475b7b88058bb1684663f.1920x1080.jpg?t=1578342456"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383080/ss_9635f9f03e96c3f5bd66e19942f82b8dc0defec3.1920x1080.jpg?t=1578342456"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383080/ss_2619e70c6502904f5f6cce870fbbfa1a18d73ff5.1920x1080.jpg?t=1578342456"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383080/ss_6143310f9d18253ea5f0cc9328b5e0f59c7a102b.1920x1080.jpg?t=1578342456"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383080/ss_04d16f9306c9e6ede11996a23b94e85f11ea25a1.1920x1080.jpg?t=1578342456"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383080/ss_fd2ad17c484c9b07d1ac09a88493d975ba4e093e.1920x1080.jpg?t=1578342456"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Sakura Clicker",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256655229/movie.293x165.jpg?t=1447377352",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/383080/40293/02b7ea8269c918c03a6ae92c534e9f90d60d6005/1751273839/dash_h264.mpd?t=1447377352"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 383080,
+    "store_url": "https://store.steampowered.com/app/383080/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Casual",
+      "Free To Play",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Nudity",
+      "Free to Play",
+      "Anime",
+      "Sexual Content",
+      "Incremental",
+      "Female Protagonist",
+      "Singleplayer",
+      "Hentai",
+      "Casual",
+      "Indie",
+      "Fantasy",
+      "2D",
+      "Memes",
+      "Funny",
+      "Dating Sim",
+      "RPG",
+      "Adventure",
+      "Idler",
+      "Story Rich",
+      "Gore"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 11925,
+    "review_negative": 2419,
+    "review_total": 14344,
+    "review_positive_percent": 83.14
+  }
+}

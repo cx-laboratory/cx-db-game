@@ -1,0 +1,451 @@
+{
+  "key": "farming-simulator-19",
+  "name": "Farming Simulator 19",
+  "description": "The best-selling franchise takes a giant leap forward with a complete overhaul of the graphics engine, offering the most striking and immersive visuals and effects, along with the deepest and most complete farming experience ever.",
+  "developers": [
+    "Giants Software"
+  ],
+  "publishers": [
+    "Giants Software"
+  ],
+  "release_date": "2018-11-20",
+  "website": "",
+  "tags": [
+    "simulation",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "farming-sim",
+    "agriculture",
+    "realistic",
+    "driving",
+    "open-world",
+    "singleplayer",
+    "management",
+    "moddable",
+    "automobile-sim",
+    "resource-management",
+    "relaxing",
+    "first-person",
+    "economy",
+    "family-friendly",
+    "atmospheric",
+    "strategy"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "dutch",
+    "hungarian",
+    "czech",
+    "romanian",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "模拟农场19"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "x64/FarmingSimulator2019Game.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/",
+          "pattern": "inputBinding.xml",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame1/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame2/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame3/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame4/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame5/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame6/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame7/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame8/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame9/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame10/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame11/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame12/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame13/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame14/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame15/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame16/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame17/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame18/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame19/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame20/",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Farming Simulator 2019.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/",
+          "pattern": "inputBinding.xml",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame1/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame2/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame3/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame4/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame5/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame6/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame7/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame8/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame9/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame10/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame11/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame12/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame13/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame14/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame15/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame16/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame17/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame18/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame19/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2019/savegame20/",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Farming Simulator 19",
+    "x64/FarmingSimulator2019Game",
+    "Farming Simulator 2019.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/787860/2e908f4aa7fecbe9a105094e0b8e63b3a1f2a446.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787860/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787860/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787860/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787860/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787860/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787860/ss_76263e9a07621e454477c3ec715709fd06062c93.1920x1080.jpg?t=1674664652"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787860/ss_fa32d926d8115d648588ffa8da2b5f61053b7b10.1920x1080.jpg?t=1674664652"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787860/ss_81606c80db5fec103f5f88b24cc2e6832a1bc158.1920x1080.jpg?t=1674664652"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787860/ss_409aca7beb98362696c7905a191fb39819c9e9c6.1920x1080.jpg?t=1674664652"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787860/ss_acff97e497d75d34f4b13eacd32cbec6188f98a1.1920x1080.jpg?t=1674664652"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787860/ss_93eef48f077663a49afd5801239cb21c150f6091.1920x1080.jpg?t=1674664652"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Farming Simulator 19 - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256736148/movie.293x165.jpg?t=1542712288",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/787860/196924/efcaa92c853946287bb85e6cef2383c2ddf54905/1750584247/dash_h264.mpd?t=1542712288"
+    },
+    {
+      "name": "Farming Simulator 19 - E3 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256720686/movie.293x165.jpg?t=1532101781",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/787860/169700/8cacd240cccb3562a721027e0e68f325dd9d1bf0/1750584215/dash_h264.mpd?t=1532101781"
+    },
+    {
+      "name": "Farming Simulator 19 - Garage Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256734899/movie.293x165.jpg?t=1541675201",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/787860/194895/b1b378f449ba1f4040aaeb37eb3b761f11f8dcd3/1750584245/dash_h264.mpd?t=1541675201"
+    },
+    {
+      "name": "Farming Simulator 19 - Animal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256734902/movie.293x165.jpg?t=1541675209",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/787860/194899/d8a1e9807cfeef319cceb7c210be8697a691b27a/1750584246/dash_h264.mpd?t=1541675209"
+    }
+  ],
+  "metacritic": {
+    "score": 73,
+    "url": "https://www.metacritic.com/game/pc/farming-simulator-19?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 787860,
+    "store_url": "https://store.steampowered.com/app/787860/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Farming Sim",
+      "Multiplayer",
+      "Agriculture",
+      "Realistic",
+      "Driving",
+      "Open World",
+      "Singleplayer",
+      "Management",
+      "Moddable",
+      "Automobile Sim",
+      "Co-op",
+      "Resource Management",
+      "Relaxing",
+      "First-Person",
+      "Online Co-Op",
+      "Economy",
+      "Family Friendly",
+      "Atmospheric",
+      "Strategy"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 71848,
+    "review_negative": 4212,
+    "review_total": 76060,
+    "review_positive_percent": 94.46
+  }
+}

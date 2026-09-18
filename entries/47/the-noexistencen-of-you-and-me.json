@@ -1,0 +1,198 @@
+{
+  "key": "the-noexistencen-of-you-and-me",
+  "name": "The NOexistenceN of you AND me",
+  "description": "Use &quot;game&quot; as a medium to showcase the world of &quot;you/girl&quot;. Explore the truth of &quot;you/girl/world&quot; through the form of a &quot;visual novel&quot;.",
+  "developers": [
+    "0x0Real Studio"
+  ],
+  "publishers": [
+    "Nino Games"
+  ],
+  "release_date": "2024-12-16",
+  "website": "",
+  "tags": [
+    "adventure",
+    "indie",
+    "rpg",
+    "visual-novel",
+    "multiple-endings",
+    "anime",
+    "story-rich",
+    "cute",
+    "interactive-fiction",
+    "psychological",
+    "singleplayer",
+    "surreal",
+    "dating-sim",
+    "2d",
+    "hentai",
+    "stylized",
+    "psychedelic",
+    "choose-your-own-adventure",
+    "fantasy"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "brazilian",
+    "indonesian"
+  ],
+  "name_localized": {
+    "japanese": "存在/しないあなた、と私",
+    "schinese": "不/存在的你，和我",
+    "tchinese": "不/存在的你，和我"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "TheNOexistenceNofyouANDme.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Nino\\TheNOexistenceNofyouANDme\\NaninovelData\\Saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "TheNOexistenceNofyouANDme.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Nino\\TheNOexistenceNofyouANDme\\NaninovelData\\Saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The NOexistenceN of you AND me",
+    "TheNOexistenceNofyouANDme",
+    "TheNOexistenceNofyouANDme.app",
+    "存在/しないあなた、と私",
+    "不/存在的你，和我"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2873080/7bd39257891274c4cc309268f665f5bfdb107fe6.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873080/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873080/f8b200f747dfa05c0db70f034ed967d0b23f8ec2/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873080/19f73cac76b56cf4c5d2da3cebe56aecab3fbaf3/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873080/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873080/c5fe1edff415d4a843404c58a3fe96394cf3738c/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873080/ss_264cf809cafc7f579c31f469afbef0e3a0793ea1.1920x1080.jpg?t=1780739455"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873080/ss_4b62db0b4506aa78b106cc8c2df5d1217325791b.1920x1080.jpg?t=1780739455"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873080/ss_d81ec04b1bb97d6950de320d46cc2b443201847a.1920x1080.jpg?t=1780739455"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873080/ss_e6cdf31747a52c4bebfc7cf79eb5de5783c778b6.1920x1080.jpg?t=1780739455"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873080/ss_b3106e60f4c153834d1232686da4a3b68ad591a4.1920x1080.jpg?t=1780739455"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873080/ss_b3b5d5cb51c8f94f55965ba079af7f7b6da593c5.1920x1080.jpg?t=1780739455"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873080/ss_91a2a81034c8b72228de0bff0f5a920693d592b4.1920x1080.jpg?t=1780739455"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873080/ss_e5bba2c49f4807ea2828ef3f6de0ad67eaad31da.1920x1080.jpg?t=1780739455"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873080/ss_eacc354b9b05af003461a1742ac23e0660b71a8b.1920x1080.jpg?t=1780739455"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873080/ss_a7b291384728efdaa17263af2f5f80623c86ee8c.1920x1080.jpg?t=1780739455"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gameplay footage~",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257081933/a8c1170df11f799f90772f23eb5b0cda7fb98732/movie_600x337.jpg?t=1734106705",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2873080/799799/1e6d9db19379f1d12cad5427c2199c79ee6fd94a/1750820875/dash_h264.mpd?t=1734106705"
+    },
+    {
+      "name": "Just Lilith",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257081317/d87eacaf752428021df2c3a203bf603dff091d3f/movie_600x337.jpg?t=1734106709",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2873080/798848/ba5056dc101e0752c279fd5f5ae6bb1445a7470c/1750820871/dash_h264.mpd?t=1734106709"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2873080,
+    "store_url": "https://store.steampowered.com/app/2873080/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Visual Novel",
+      "Psychological Horror",
+      "Multiple Endings",
+      "Anime",
+      "Story Rich",
+      "Cute",
+      "Interactive Fiction",
+      "Psychological",
+      "Singleplayer",
+      "Surreal",
+      "Dating Sim",
+      "2D",
+      "Indie",
+      "Hentai",
+      "Stylized",
+      "Adventure",
+      "Psychedelic",
+      "Choose Your Own Adventure",
+      "Fantasy",
+      "RPG"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 19597,
+    "review_negative": 1408,
+    "review_total": 21005,
+    "review_positive_percent": 93.3
+  }
+}

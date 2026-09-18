@@ -1,0 +1,282 @@
+{
+  "key": "homeworld-deserts-of-kharak",
+  "name": "Homeworld: Deserts of Kharak",
+  "description": "A ground-based RTS prequel to the classic Homeworld games. Assemble your fleet and lead them to victory on the shifting sands of Kharak in this compelling strategy game for PC from Blackbird Interactive.",
+  "developers": [
+    "Blackbird Interactive"
+  ],
+  "publishers": [
+    "Gearbox Publishing"
+  ],
+  "release_date": "2016-01-21",
+  "website": "http://www.desertsofkharak.com",
+  "tags": [
+    "strategy",
+    "multiplayer",
+    "rts",
+    "sci-fi",
+    "story-rich",
+    "great-soundtrack",
+    "space",
+    "female-protagonist",
+    "atmospheric",
+    "singleplayer",
+    "action",
+    "futuristic",
+    "real-time",
+    "tactical",
+    "adventure",
+    "co-op",
+    "epic",
+    "sandbox"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "DesertsOfKharak.exe",
+          "description": "Deserts of Kharak (Beta)",
+          "type": "default"
+        },
+        {
+          "executable": "TechnicalManual\\DoK_Manual.exe",
+          "description": "Launch Expedition Guide",
+          "type": "default"
+        },
+        {
+          "executable": "DesertsOfKharak32.exe",
+          "description": "DoK (32bit, d3d9)",
+          "type": "none"
+        },
+        {
+          "executable": "DesertsOfKharak.exe",
+          "description": "Deserts of Kharak (Beta)",
+          "type": "default"
+        },
+        {
+          "executable": "DesertsOfKharak.exe",
+          "description": "Deserts of Kharak (Beta)",
+          "type": "default"
+        },
+        {
+          "executable": "DesertsOfKharak64.exe",
+          "description": "Deserts of Kharak (old)",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "out/cloud",
+          "pattern": "*.sbfleet",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "out/cloud",
+          "pattern": "*.sbsave",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "out/cloud",
+          "pattern": "*.sbprogression",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "out/cloud",
+          "pattern": "*.dokhotkeys",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "DesertsOfKharak.app\\Contents\\MacOS\\DesertsOfKharak",
+          "description": "Deserts of Kharak",
+          "type": "none"
+        },
+        {
+          "executable": "DoKManual.app",
+          "description": "Launch Expedition Guide",
+          "type": "none"
+        },
+        {
+          "executable": "DesertsOfKharak64.exe",
+          "description": "Deserts of Kharak (old)",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "out/cloud",
+          "pattern": "*.sbfleet",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "out/cloud",
+          "pattern": "*.sbsave",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "out/cloud",
+          "pattern": "*.sbprogression",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "out/cloud",
+          "pattern": "*.dokhotkeys",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Homeworld: Deserts of Kharak",
+    "DesertsOfKharak",
+    "TechnicalManual\\DoK_Manual",
+    "DesertsOfKharak32",
+    "DesertsOfKharak64",
+    "DesertsOfKharak.app\\Contents\\MacOS\\DesertsOfKharak",
+    "DoKManual.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/281610/55c757698d0a5f0a18fa9f49c01260fe8a327fd4.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281610/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281610/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281610/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281610/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281610/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281610/ss_ac948cb76a6157e20bec0302f76bd5ef5afb9d68.1920x1080.jpg?t=1781819254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281610/ss_6d1b6f5b00137dda53e98dad305210fc5ea5d171.1920x1080.jpg?t=1781819254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281610/ss_30a7199aa03e2af6e5d495a6a84abe6df1398b64.1920x1080.jpg?t=1781819254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281610/ss_466dedb61352f95e0dc52a589a2b29320db6ebbd.1920x1080.jpg?t=1781819254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281610/ss_c1a087b0fcff4450a0b510430a0df567a9001085.1920x1080.jpg?t=1781819254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281610/ss_036ec527ea63f8604c65d22c70f9d3db7f233fd2.1920x1080.jpg?t=1781819254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281610/ss_d7c7d61bacbb48d44193ed01023717fcd5c6aa6a.1920x1080.jpg?t=1781819254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281610/ss_b4f7fd3278aaead961faf25ee2cbbe451f4c39f6.1920x1080.jpg?t=1781819254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281610/ss_f3a6e19207bc0ea8d537380ffdc8a142fd474b19.1920x1080.jpg?t=1781819254"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Homeworld: Deserts of Kharak Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256660548/movie.293x165.jpg?t=1454954500",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/281610/51838/c8a085ec4255c5c843df150fd1ff0cc23f349d31/1750489036/dash_h264.mpd?t=1454954500"
+    },
+    {
+      "name": "Homeworld: Deserts of Kharak Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256660006/movie.293x165.jpg?t=1453344758",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/281610/50690/8bb876cdbd58b4de08d8fba8e8d06b999f6b3a08/1750488962/dash_h264.mpd?t=1453344758"
+    },
+    {
+      "name": "Primary Anomaly Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256659617/movie.293x165.jpg?t=1452273495",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/281610/49825/67ae7bed08c2cb4a05b66a9fc61bc6bcde807ef5/1750488956/dash_h264.mpd?t=1452273495"
+    },
+    {
+      "name": "The Transmission Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256659809/movie.293x165.jpg?t=1452888052",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/281610/50281/373373678b94139d00ff2a0fab097e776736a380/1750488957/dash_h264.mpd?t=1452888052"
+    },
+    {
+      "name": "Announce Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256659176/movie.293x165.jpg?t=1450294800",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/281610/48854/d46f07936a390a0ea13594fa89c4c6cc612d5281/1750488948/dash_h264.mpd?t=1450294800"
+    }
+  ],
+  "metacritic": {
+    "score": 79,
+    "url": "https://www.metacritic.com/game/pc/homeworld-deserts-of-kharak?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 281610,
+    "store_url": "https://store.steampowered.com/app/281610/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Save Anytime",
+      "Steam Cloud",
+      "Stats",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "RTS",
+      "Sci-fi",
+      "Multiplayer",
+      "Story Rich",
+      "Great Soundtrack",
+      "Space",
+      "Female Protagonist",
+      "Atmospheric",
+      "Singleplayer",
+      "Action",
+      "Futuristic",
+      "Real-Time",
+      "Tactical",
+      "Adventure",
+      "Co-op",
+      "Epic",
+      "Sandbox"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 7039,
+    "review_negative": 1836,
+    "review_total": 8875,
+    "review_positive_percent": 79.31
+  }
+}

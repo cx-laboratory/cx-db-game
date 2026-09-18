@@ -1,0 +1,244 @@
+{
+  "key": "hellish-quart",
+  "name": "Hellish Quart",
+  "description": "A physics-based, realistic 3D sword-fighting game. Immerse yourself in a cinematic adventure, utilizing real sword-fighting martial arts and a variety of historically accurate weapons to survive brutal duels in 17th century Poland. Featuring single-player modes and a LOCAL 2-player mode.",
+  "developers": [
+    "Kubold"
+  ],
+  "publishers": [
+    "Kubold"
+  ],
+  "release_date": "2021-02-17",
+  "website": "https://www.hellishquart.com",
+  "tags": [
+    "action",
+    "early-access",
+    "multiplayer",
+    "pvp",
+    "3d-fighter",
+    "swordplay",
+    "martial-arts",
+    "historical",
+    "pve",
+    "fighting",
+    "local-multiplayer",
+    "character-customization",
+    "3d",
+    "combat",
+    "third-person",
+    "realistic",
+    "singleplayer",
+    "vr",
+    "controller",
+    "story-rich",
+    "medieval"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "Simplified Chinese",
+    "Polish*",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Japanese*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Hellish Quart.exe",
+          "description": "Hellish Quart",
+          "type": "default"
+        },
+        {
+          "executable": "Hellish Quart.exe",
+          "description": "Hellish Quart VR",
+          "type": "vr"
+        },
+        {
+          "executable": "Hellish Quart.exe",
+          "description": "Hellish Quart VR",
+          "type": "othervr"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Hellish Quart"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1000360/b9a6ca92ac21804885f179f707a6de2c593a5969.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/8265abbd09fd500b06d41e56953da519d5f2bedf/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/886c6c4b97fd3f2f3f308059bfb841ec252a3cdc/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/ss_422c2b743b9e8268e6f59b2516017aa970332970.1920x1080.jpg?t=1780904362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/ss_f0af4dde7d822eb6bf7e118f753d476e88b5e640.1920x1080.jpg?t=1780904362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/ss_d8d4fb6bd1ed12623433d6d236469afcf9c36856.1920x1080.jpg?t=1780904362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/ss_70c2828e65044f80dd52f48ec138013f729e12b1.1920x1080.jpg?t=1780904362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/ss_9c81f5c526ea115d1ee2f571661a537cfcc8c3dd.1920x1080.jpg?t=1780904362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/ss_e6fa904665b86b2fe8a93dee9f67f42ebacf93c9.1920x1080.jpg?t=1780904362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/ss_bf49f2778345d572ea25243b3e8fe7f7e9b2a7aa.1920x1080.jpg?t=1780904362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/ss_e847c1b45f22a852229bf2c6fa3361af892de2ac.1920x1080.jpg?t=1780904362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/ss_348894f621770812b86cacc7cfe7ba039c5e3b6a.1920x1080.jpg?t=1780904362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/ss_9e07c9e842e1bd874a46e3fdfde369e5f919f435.1920x1080.jpg?t=1780904362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/ss_fe242e463b5fc7c64d17b016f5237b5f2f34e939.1920x1080.jpg?t=1780904362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/ss_cd3a9ccbdc650668194aace1faea8d0fd468e9cd.1920x1080.jpg?t=1780904362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/ss_411cbef34b84a76c5ff5fda2a91290b591eba148.1920x1080.jpg?t=1780904362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/ss_613cc3351476e7acf183e67eb25b313ce4a0a102.1920x1080.jpg?t=1780904362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/ss_b23b17cc73721391d14174b7331da766bc0c8938.1920x1080.jpg?t=1780904362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/ss_3235c1c87e2174bd5556bf85c69b80fdb7fe0a8d.1920x1080.jpg?t=1780904362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/ss_f37d444af9ceeb59b98434a18f81685be29d1de1.1920x1080.jpg?t=1780904362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/ss_64cc297963720d510f4bc9a718774157597e05cd.1920x1080.jpg?t=1780904362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/ss_c5979cd59af493663f9ad3f35b0b7df7355754f6.1920x1080.jpg?t=1780904362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/ss_81b6a3069e08b35e1f62eb0ecd3ae1825d05ecff.1920x1080.jpg?t=1780904362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/ss_3d973829d340db2f6355a3062324f63448a59c92.1920x1080.jpg?t=1780904362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/ss_86ac6a284696889c2ccd88ff2809db6c83b465dd.1920x1080.jpg?t=1780904362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000360/ss_6dc77e3f347db8dbd926ed43ae96203117b77cf4.1920x1080.jpg?t=1780904362"
+    }
+  ],
+  "videos": [
+    {
+      "name": "2024 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257030471/cedcbb9f854d6ce800dc00280653dbc90585eb20/movie_600x337.jpg?t=1729070108",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1000360/712607/0317a4acdf8549be3051d13af88c5f099ba11919/1750605530/dash_h264.mpd?t=1729070108"
+    },
+    {
+      "name": "Example Fights",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256865804/32e369d680b1f81c8b0a590cc5fb32edbe5e6154/movie_600x337.jpg?t=1739094727",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1000360/425955/97e75d565e3c4d9495ac508d38104f9059aa52c6/1750605479/dash_h264.mpd?t=1739094727"
+    },
+    {
+      "name": "HowToPlay",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257065436/211851479d5265712e50d762c8c474c7c76b8318/movie_600x337.jpg?t=1729070113",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1000360/772340/7c869347b727522ec878a43665cf1e28a57d8cfd/1750605557/dash_h264.mpd?t=1729070113"
+    },
+    {
+      "name": "HEMA Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256947054/movie.293x165.jpg?t=1729070118",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1000360/568108/21d280a73febb4622a8f40d876f21ee704f50bca/1750605520/dash_h264.mpd?t=1729070118"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1000360,
+    "store_url": "https://store.steampowered.com/app/1000360/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Shared/Split Screen PvP",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "VR Supported",
+      "Steam Trading Cards",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Gamepad Recommended",
+      "Keyboard Only Option",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Early Access",
+      "3D Fighter",
+      "Swordplay",
+      "Martial Arts",
+      "Historical",
+      "PvP",
+      "PvE",
+      "Fighting",
+      "Local Multiplayer",
+      "Character Customization",
+      "3D",
+      "Combat",
+      "Third Person",
+      "Realistic",
+      "Singleplayer",
+      "VR",
+      "Controller",
+      "Story Rich",
+      "Medieval",
+      "Action"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7417,
+    "review_negative": 971,
+    "review_total": 8388,
+    "review_positive_percent": 88.42
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "key": "descenders",
+  "name": "Descenders",
+  "description": "Descenders is extreme downhill freeriding for the modern era, with procedurally generated worlds, and where mistakes have real consequences. Will you lead your team to glory and become the next legendary Descender?",
+  "developers": [
+    "RageSquid"
+  ],
+  "publishers": [
+    "No More Robots"
+  ],
+  "release_date": "2019-05-07",
+  "website": "http://www.descendersgame.com",
+  "tags": [
+    "action",
+    "racing",
+    "sports",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "cycling",
+    "bikes",
+    "great-soundtrack",
+    "open-world",
+    "procedural-generation",
+    "roguelite",
+    "bmx",
+    "fast-paced",
+    "physics",
+    "simulation",
+    "moddable",
+    "relaxing",
+    "addictive",
+    "difficult",
+    "beautiful",
+    "competitive"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Dutch",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Russian",
+    "Japanese",
+    "Korean",
+    "Portuguese - Brazil",
+    "Portuguese - Portugal",
+    "Turkish",
+    "Greek",
+    "Polish",
+    "Estonian"
+  ],
+  "name_localized": {
+    "schinese": "下坡竞速王者"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Descenders.exe",
+          "description": "Descenders - borderless fullscreen (recommended)",
+          "type": "option1"
+        },
+        {
+          "executable": "Descenders.exe",
+          "description": "Descenders - exclusive fullscreen",
+          "type": "option2"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Descenders.app",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Descenders.x86",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "Descenders.x86_64",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Descenders",
+    "Descenders.app",
+    "Descenders.x86",
+    "Descenders.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/681280/80b57583da284b38313881eae876e27f9293f67b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681280/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681280/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681280/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681280/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681280/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681280/ss_b7e963fce1b77981b97a0b8d7e4c06ea99a034b6.1920x1080.jpg?t=1764690930"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681280/ss_cb09687931b1498f1d3be2dd1fa530e1ca948d75.1920x1080.jpg?t=1764690930"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681280/ss_196726f31de9f543c63360e004d43a14d3cb7cc2.1920x1080.jpg?t=1764690930"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681280/ss_f36781e202c2e8d6d8e84c0fc58573bd3c6be687.1920x1080.jpg?t=1764690930"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681280/ss_deb153fca70d3ed5b0d1293227fb91ee088907d9.1920x1080.jpg?t=1764690930"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681280/ss_6f2f45ca082b16038f584eb435d67dc48c1e9ca0.1920x1080.jpg?t=1764690930"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681280/ss_d9e15604a133fcc72322e58dab802aaa73ebf7e8.1920x1080.jpg?t=1764690930"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681280/ss_576e7b2a9ab1e30e20f75328ec8da04484950764.1920x1080.jpg?t=1764690930"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681280/ss_1181f30337b71335b8dc34bb52025ee7932c3762.1920x1080.jpg?t=1764690930"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681280/ss_45d7b5ad4b3efc20b4e833a41fafcb25223115f0.1920x1080.jpg?t=1764690930"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256749969/movie.293x165.jpg?t=1721987192",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/681280/221839/0d7d51b426dc5ce778d6711efe90c651ea829168/1750570565/dash_h264.mpd?t=1721987192"
+    },
+    {
+      "name": "Gameplay Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256749970/movie.293x165.jpg?t=1557245354",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/681280/221840/d042dea2df067ebed903f5fd76f1945701824be8/1750570565/dash_h264.mpd?t=1557245354"
+    },
+    {
+      "name": "Early Access Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256708334/movie.293x165.jpg?t=1518191290",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/681280/146270/87c5d06849def239a380c1664317b9baa5fe328a/1750570554/dash_h264.mpd?t=1518191290"
+    },
+    {
+      "name": "Trick or Treat Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256733610/movie.293x165.jpg?t=1540820729",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/681280/192858/375c02eeea3458abb21ff27f1991a5a0c0f0476f/1750570558/dash_h264.mpd?t=1540820729"
+    }
+  ],
+  "metacritic": {
+    "score": 78,
+    "url": "https://www.metacritic.com/game/pc/descenders?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 681280,
+    "store_url": "https://store.steampowered.com/app/681280/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Racing",
+      "Sports"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Stats",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Sports",
+      "Racing",
+      "Cycling",
+      "Action",
+      "Bikes",
+      "Multiplayer",
+      "Great Soundtrack",
+      "Open World",
+      "Procedural Generation",
+      "Roguelite",
+      "BMX",
+      "Fast-Paced",
+      "Physics",
+      "Simulation",
+      "Moddable",
+      "Relaxing",
+      "Addictive",
+      "Difficult",
+      "Beautiful",
+      "Competitive"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 21991,
+    "review_negative": 1294,
+    "review_total": 23285,
+    "review_positive_percent": 94.44
+  }
+}

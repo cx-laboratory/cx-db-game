@@ -1,0 +1,130 @@
+{
+  "key": "chrono-trigger",
+  "name": "CHRONO TRIGGER",
+  "description": "The timeless RPG classic returns loaded with upgrades! Journey to the forgotten past, to the far future, and to the end of time. A big adventure to save the planet, now begins…",
+  "developers": [
+    "Square Enix"
+  ],
+  "publishers": [
+    "Square Enix"
+  ],
+  "release_date": "2018-02-28",
+  "website": "https://www.ChronoTriggerGame.com",
+  "tags": [
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "japanese": "クロノ・トリガー"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Chrono Trigger.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "CHRONO TRIGGER",
+    "Chrono Trigger",
+    "クロノ・トリガー"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/613830/55a9d56a52886b6cbf197894de096eb79fe1c3ab.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/ss_b92c46019720da5518bf69492c1f646f9c67dc29.1920x1080.jpg?t=1775725860"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/ss_fe62096054041c5faf8f8d28b685bcc9bc5cdd77.1920x1080.jpg?t=1775725860"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/ss_0e2d9f93550aa58ec19e3163d120fa6fa4b88189.1920x1080.jpg?t=1775725860"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/ss_9f190f88109757e3212aa39ad6df16b57d6deb81.1920x1080.jpg?t=1775725860"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/ss_3f6ae8e53d1c0e779a863ef3a05c4f5cdafb95a8.1920x1080.jpg?t=1775725860"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/ss_ee66f177d4985e6ad41965090cb67c1586f31dda.1920x1080.jpg?t=1775725860"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/ss_2f06f5ac4b740f59c43ad0c9ce134d9a0a1d3762.1920x1080.jpg?t=1775725860"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/ss_07d70e01002895a8fff9f7221ca0169f2cef343d.1920x1080.jpg?t=1775725860"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/ss_96e32d319c4a6e86e73c2c4dd77bd964480a44d4.1920x1080.jpg?t=1775725860"
+    }
+  ],
+  "videos": [
+    {
+      "name": "ESRB EN Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256710040/movie.293x165.jpg?t=1519750590",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/613830/149339/2c97c5df943895d1ba4bef8d9c33e6a3559a7d51/1750562659/dash_h264.mpd?t=1519750590"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 613830,
+    "store_url": "https://store.steampowered.com/app/613830/",
+    "required_age": 10,
+    "is_free": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Custom Volume Controls",
+      "Keyboard Only Option",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "Touch Only Option",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 11653,
+    "review_negative": 1552,
+    "review_total": 13205,
+    "review_positive_percent": 88.25
+  }
+}

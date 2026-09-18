@@ -1,0 +1,242 @@
+{
+  "key": "the-medium",
+  "name": "The Medium",
+  "description": "A third‑person psychological horror game where you explore both the real world and the spirit realm. As a medium drawn to a deserted resort, you’ll uncover dark secrets, confront echoes of trauma, and face the consequences of seeing more than one truth.",
+  "developers": [
+    "Bloober Team"
+  ],
+  "publishers": [
+    "Bloober Team SA"
+  ],
+  "release_date": "2021-01-29",
+  "website": "https://themediumgame.com",
+  "tags": [
+    "adventure",
+    "horror",
+    "female-protagonist",
+    "atmospheric",
+    "story-rich",
+    "third-person",
+    "dark",
+    "singleplayer",
+    "sexual-content",
+    "great-soundtrack",
+    "psychological",
+    "walking-simulator",
+    "violent",
+    "gore",
+    "puzzle",
+    "action",
+    "indie",
+    "soundtrack",
+    "classic"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Medium.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Medium\\Binaries\\Win64\\Medium.exe",
+          "description": "Dev EXEC",
+          "type": "option1"
+        },
+        {
+          "executable": "Medium.exe",
+          "description": "The Medium DX12",
+          "type": "option2"
+        },
+        {
+          "executable": "Medium\\Binaries\\Win64\\Medium.exe",
+          "description": "Dev EXEC DX12",
+          "type": "option3"
+        },
+        {
+          "executable": "Medium\\Binaries\\Win64\\Medium.exe",
+          "description": "Dev EXEC",
+          "type": "option1"
+        },
+        {
+          "executable": "Medium.exe",
+          "description": "DX12 mode",
+          "type": "option2"
+        },
+        {
+          "executable": "Medium\\Binaries\\Win64\\Medium.exe",
+          "description": "Dev EXEC DX12",
+          "type": "option3"
+        },
+        {
+          "executable": "Medium\\Binaries\\Win64\\Medium.exe",
+          "description": "Dev EXEC",
+          "type": "option1"
+        },
+        {
+          "executable": "Medium\\Binaries\\Win64\\Medium.exe",
+          "description": "Dev EXEC DX12",
+          "type": "option3"
+        },
+        {
+          "executable": "Medium\\Binaries\\Win64\\Medium.exe",
+          "description": "Dev EXEC",
+          "type": "option1"
+        },
+        {
+          "executable": "Medium\\Binaries\\Win64\\Medium.exe",
+          "description": "Dev EXEC DX12",
+          "type": "option3"
+        },
+        {
+          "executable": "Medium.exe",
+          "description": "The Medium launcher",
+          "type": "option3"
+        },
+        {
+          "executable": "Medium\\Binaries\\Win64\\Medium.exe",
+          "description": "Dev EXEC DX12",
+          "type": "option3"
+        },
+        {
+          "executable": "Medium\\Binaries\\Win64\\Medium.exe",
+          "description": "Dev EXEC DX11",
+          "type": "option3"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "TheMedium.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "The Medium",
+    "Medium",
+    "Medium\\Binaries\\Win64\\Medium",
+    "TheMedium.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1293160/3054d8fbc59854efdc270cbd708787cb52bd00dd.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293160/ff6a1eb4fdcfc69e2f89dcdece51817be3a9d319/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293160/9a6a4aed1f1fd567b932a5ac65bcc3c8735a47df/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293160/1008b3a7b6e3a88180932a86c3826f4d85b11175/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293160/01e68bcf9e6dbc517cf2bf27eb2c65676fcb61cd/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293160/2ca0522b077640601513de8abd24a603844c5155/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293160/dd002023c27751f65a1782a7bc2bce3e2eb4c0df/ss_dd002023c27751f65a1782a7bc2bce3e2eb4c0df.1920x1080.jpg?t=1773944502"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293160/ae6c095c292333258e283a93688c8e5ba61733ec/ss_ae6c095c292333258e283a93688c8e5ba61733ec.1920x1080.jpg?t=1773944502"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293160/37e7669379de7a42a869342322c14c48d0dd7f92/ss_37e7669379de7a42a869342322c14c48d0dd7f92.1920x1080.jpg?t=1773944502"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293160/ss_18691ba5407fefeb5b101df6226f65e74a8f1787.1920x1080.jpg?t=1773944502"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293160/4bb5286a88d910d9ecd8549851894fcfcef4369a/ss_4bb5286a88d910d9ecd8549851894fcfcef4369a.1920x1080.jpg?t=1773944502"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293160/67ec8c992f850565dd55f25694d85431dd4207bf/ss_67ec8c992f850565dd55f25694d85431dd4207bf.1920x1080.jpg?t=1773944502"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293160/ss_db52e6f3258fc38048210d4009cb07809fbf510c.1920x1080.jpg?t=1773944502"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Medium Official Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256822196/movie.293x165.jpg?t=1613052129",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1293160/347399/81022492319264a4b84d9c398f664b7569cb22e6/1750669837/dash_h264.mpd?t=1613052129"
+    },
+    {
+      "name": "14-Minute Gameplay",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256817224/movie.293x165.jpg?t=1610526292",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1293160/338626/025407c840e1e63367cafa3f7eb50be0c8317e37/1750677220/dash_h264.mpd?t=1610526292"
+    },
+    {
+      "name": "Dual-Reality Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256793515/movie.293x165.jpg?t=1595529282",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1293160/299693/72e363fb5028c659d41161ce498e2cb2e40e3588/1750670744/dash_h264.mpd?t=1595529282"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1293160,
+    "store_url": "https://store.steampowered.com/app/1293160/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Adventure",
+      "Horror",
+      "Female Protagonist",
+      "Psychological Horror",
+      "Atmospheric",
+      "Story Rich",
+      "Third Person",
+      "Dark",
+      "Singleplayer",
+      "Sexual Content",
+      "Great Soundtrack",
+      "Psychological",
+      "Walking Simulator",
+      "Violent",
+      "Gore",
+      "Puzzle",
+      "Action",
+      "Indie",
+      "Soundtrack",
+      "Classic"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8935,
+    "review_negative": 1124,
+    "review_total": 10059,
+    "review_positive_percent": 88.83
+  }
+}

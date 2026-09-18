@@ -1,0 +1,201 @@
+{
+  "key": "megabonk",
+  "name": "Megabonk",
+  "description": "Smash your way through endless waves of enemies and grow absurdly powerful! Grab loot, level up, unlock characters and upgrade to create unique and crazy builds as you fend off hordes of creatures!",
+  "developers": [
+    "vedinad"
+  ],
+  "publishers": [
+    "vedinad"
+  ],
+  "release_date": "2025-09-19",
+  "website": "",
+  "tags": [
+    "action",
+    "casual",
+    "indie",
+    "bullet-heaven",
+    "action-roguelike",
+    "roguelike",
+    "roguelite",
+    "bullet-hell",
+    "survival",
+    "loot",
+    "singleplayer",
+    "pixel-graphics",
+    "arcade",
+    "3d",
+    "retro",
+    "hack-and-slash",
+    "score-attack",
+    "third-person",
+    "third-person-shooter",
+    "old-school"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Czech",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Spanish - Latin America",
+    "Thai",
+    "Traditional Chinese",
+    "Turkish",
+    "Ukrainian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Megabonk.exe",
+          "description": "Megabonk (DX11 - Recommended)",
+          "type": "option1"
+        },
+        {
+          "executable": "Megabonk.exe",
+          "description": "Megabonk (DX12 - Use only if game crashes)",
+          "type": "option2"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Ved/Megabonk/Saves/CloudDir",
+          "pattern": "*.json",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Megabonk.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Ved/Megabonk/Saves/CloudDir",
+          "pattern": "*.json",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Megabonk",
+    "Megabonk.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3405340/8e0ff36cdb1076d69347a2796c7ef5ee18b2fee8.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405340/d06cb39a82a703e42541085fc61b42d80904b3f8/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405340/d6e1b8b1fff6b5b6da2aadedac6626a658ed0ec4/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405340/82061d7868598ec310ee43f38122a5b3470f5c4f/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405340/4baa233ec40338d2799ac714eb852dd4bc2e6a5c/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405340/2c685b11deeb21da8fdc8a16b24aafbf027f6fcd/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405340/ce4d8d24a3731a91490ab92b8687f07314c600b9/ss_ce4d8d24a3731a91490ab92b8687f07314c600b9.1920x1080.jpg?t=1760445338"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405340/9ecc4f12f9031e38e546e80416c98eab310dea8b/ss_9ecc4f12f9031e38e546e80416c98eab310dea8b.1920x1080.jpg?t=1760445338"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405340/b1e906ba6bbac4b9017fb786a1b2d88ec3b41578/ss_b1e906ba6bbac4b9017fb786a1b2d88ec3b41578.1920x1080.jpg?t=1760445338"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405340/3cb8c4f7ded582a7a26f483de08bbd4f91eea2bc/ss_3cb8c4f7ded582a7a26f483de08bbd4f91eea2bc.1920x1080.jpg?t=1760445338"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405340/37fee9ad83231587004b29d0532b9309d1efd8df/ss_37fee9ad83231587004b29d0532b9309d1efd8df.1920x1080.jpg?t=1760445338"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405340/1d012ef02e5fbd1ed8245a62d60d620b25e84856/ss_1d012ef02e5fbd1ed8245a62d60d620b25e84856.1920x1080.jpg?t=1760445338"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Megabonk Trailer Launch",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257200591/a061ddee3b5e3494eff00a00161292eac8102a20/movie_600x337.jpg?t=1758158530",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3405340/812784606/5b46f6fdaa53e5fbc456785234d21932a94fdd14/1758154057/dash_h264.mpd?t=1758158530"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3405340,
+    "store_url": "https://store.steampowered.com/app/3405340/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Camera Comfort",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Surround Sound",
+      "Steam Cloud",
+      "Stats",
+      "Steam Leaderboards",
+      "Family Sharing",
+      "Steam Timeline"
+    ],
+    "tags": [
+      "Bullet Heaven",
+      "Action Roguelike",
+      "Roguelike",
+      "Roguelite",
+      "Indie",
+      "Bullet Hell",
+      "Survival",
+      "Loot",
+      "Action",
+      "Singleplayer",
+      "Pixel Graphics",
+      "Arcade",
+      "3D",
+      "Casual",
+      "Retro",
+      "Hack and Slash",
+      "Score Attack",
+      "Third Person",
+      "Third-Person Shooter",
+      "Old School"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 97830,
+    "review_negative": 5687,
+    "review_total": 103517,
+    "review_positive_percent": 94.51
+  }
+}

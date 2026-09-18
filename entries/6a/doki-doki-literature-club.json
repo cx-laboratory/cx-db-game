@@ -1,0 +1,151 @@
+{
+  "key": "doki-doki-literature-club",
+  "name": "Doki Doki Literature Club",
+  "description": "The Literature Club is full of cute girls! Will you write the way into their heart? This game is not suitable for children or those who are easily disturbed.",
+  "developers": [
+    "Team Salvato"
+  ],
+  "publishers": [
+    "Team Salvato"
+  ],
+  "release_date": "2017-10-06",
+  "website": "http://ddlc.moe",
+  "tags": [
+    "casual",
+    "free-to-play",
+    "indie",
+    "visual-novel",
+    "anime",
+    "dating-sim",
+    "cute",
+    "horror",
+    "dark",
+    "story-rich",
+    "romance",
+    "singleplayer",
+    "great-soundtrack",
+    "gore",
+    "violent",
+    "sexual-content",
+    "first-person",
+    "memes",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "DDLC.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "DDLC.app/Contents/MacOS/DDLC",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Doki Doki Literature Club",
+    "DDLC",
+    "DDLC.app/Contents/MacOS/DDLC"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/698780/2bf8ed528d8f251428435a6f6ffc8e4e8e4b294c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/698780/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/698780/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/698780/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/698780/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/698780/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/698780/ss_3941e57f278958dd15c9855f42ab069da3a19608.1920x1080.jpg?t=1681943582"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/698780/ss_fb10c409c498a8f2f512d2195a169fed0bbb1526.1920x1080.jpg?t=1681943582"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/698780/ss_3030d47cf865cb5910746bc3897217c9cc8ce5fb.1920x1080.jpg?t=1681943582"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/698780/ss_c60999c236a809c04321017aa14e97e5ac9856a1.1920x1080.jpg?t=1681943582"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/698780/ss_34bca0d2db214a00dc0d02d006ae7f86506e3157.1920x1080.jpg?t=1681943582"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256692832/movie.293x165.jpg?t=1506099437",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/698780/118279/0b3a1bcc14c78faa7145fdd117433f9b1a455e3a/1750571930/dash_h264.mpd?t=1506099437"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 698780,
+    "store_url": "https://store.steampowered.com/app/698780/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Casual",
+      "Free To Play",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Psychological Horror",
+      "Visual Novel",
+      "Anime",
+      "Free to Play",
+      "Dating Sim",
+      "Cute",
+      "Horror",
+      "Dark",
+      "Story Rich",
+      "Romance",
+      "Singleplayer",
+      "Great Soundtrack",
+      "Gore",
+      "Violent",
+      "Sexual Content",
+      "Indie",
+      "First-Person",
+      "Memes",
+      "Casual",
+      "Adventure"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 215437,
+    "review_negative": 7861,
+    "review_total": 223298,
+    "review_positive_percent": 96.48
+  }
+}

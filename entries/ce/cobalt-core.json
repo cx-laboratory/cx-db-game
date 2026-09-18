@@ -1,0 +1,200 @@
+{
+  "key": "cobalt-core",
+  "name": "Cobalt Core",
+  "description": "A sci-fi roguelike deckbuilder with a deep new single-axis spin on tactics games! Dodge missiles, line up your cannons, and blast 'em out of the sky... Then get to the bottom of these time loops, before it's too late!",
+  "developers": [
+    "Rocket Rat Games"
+  ],
+  "publishers": [
+    "Brace Yourself Games"
+  ],
+  "release_date": "2023-11-09",
+  "website": "https://braceyourselfgames.com/cobalt-core/",
+  "tags": [
+    "indie",
+    "strategy",
+    "roguelike-deckbuilder",
+    "card-game",
+    "roguelike",
+    "turn-based-strategy",
+    "sci-fi",
+    "pixel-graphics",
+    "turn-based-tactics",
+    "tactical-rpg",
+    "funny",
+    "space",
+    "logic",
+    "tactical",
+    "deckbuilding",
+    "grid-based-movement",
+    "singleplayer",
+    "combat",
+    "pve",
+    "turn-based-combat",
+    "story-rich"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "CobaltCore.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "CobaltCore",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Cobalt Core.app/Contents/MacOS/CobaltCore",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "CobaltCore",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Cobalt Core",
+    "CobaltCore",
+    "Cobalt Core.app/Contents/MacOS/CobaltCore"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2179850/9e5812d1b56220565d1eb7338ac8180866f6c986.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2179850/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2179850/97cfcaf1cdb6f3aa8a09b7818487a6976209827b/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2179850/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2179850/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2179850/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2179850/ss_61d8442fc974476e7d4f5d521cb61a577995315f.1920x1080.jpg?t=1753747411"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2179850/ss_9accfa526e235a4a5ee331969f8a315cb67bb94f.1920x1080.jpg?t=1753747411"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2179850/ss_62a984c6b1eddb3316ce648981f0a3527702d345.1920x1080.jpg?t=1753747411"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2179850/ss_6087eccadbec96d9dbebe2d2f7a08af80c73fd1c.1920x1080.jpg?t=1753747411"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2179850/ss_72195592b11810ac9be63e505096678324717121.1920x1080.jpg?t=1753747411"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2179850/ss_c6f47f8b880b5d4c6a14cd720559f799eff2f25c.1920x1080.jpg?t=1753747411"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2179850/ss_95662ef87d8d50c9d6fc5e8057c8932fd61aaded.1920x1080.jpg?t=1753747411"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2179850/ss_ff04b17a2fc0eb84e3cfc39c6a721e7bddf58465.1920x1080.jpg?t=1753747411"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2179850/ss_ac7729cfcbbd5b0f86feb80d2d07941e3c165eaa.1920x1080.jpg?t=1753747411"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2179850/ss_cf40346105d0ebf48f99197f8cff5ae82c9bc15a.1920x1080.jpg?t=1753747411"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Date Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256974436/movie.293x165.jpg?t=1696870410",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2179850/616123/f2aa26c23403cddc5eee36a3ef33f5acab6a3a0d/1750794500/dash_h264.mpd?t=1696870410"
+    },
+    {
+      "name": "Jan 2023 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256925885/movie.293x165.jpg?t=1674066560",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2179850/530741/1afea43db355d55c2129a6dd49ab3057ef165c26/1750794498/dash_h264.mpd?t=1674066560"
+    }
+  ],
+  "metacritic": {
+    "score": 94,
+    "url": "https://www.metacritic.com/game/pc/cobalt-core?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 2179850,
+    "store_url": "https://store.steampowered.com/app/2179850/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Roguelike Deckbuilder",
+      "Card Game",
+      "Strategy",
+      "Roguelike",
+      "Turn-Based Strategy",
+      "Sci-fi",
+      "Pixel Graphics",
+      "Turn-Based Tactics",
+      "Tactical RPG",
+      "Funny",
+      "Space",
+      "Logic",
+      "Tactical",
+      "Deckbuilding",
+      "Grid-Based Movement",
+      "Singleplayer",
+      "Combat",
+      "PvE",
+      "Turn-Based Combat",
+      "Story Rich"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 4130,
+    "review_negative": 171,
+    "review_total": 4301,
+    "review_positive_percent": 96.02
+  }
+}

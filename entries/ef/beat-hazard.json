@@ -1,0 +1,219 @@
+{
+  "key": "beat-hazard",
+  "name": "Beat Hazard",
+  "description": "Experience your music collection like never before with this intense music driven arcade shooter. Each of your songs will have its own unique ebb and flow based on the music.",
+  "developers": [
+    "Cold Beam Games"
+  ],
+  "publishers": [
+    "Cold Beam Games"
+  ],
+  "release_date": "2010-04-16",
+  "website": "http://www.coldbeamgames.com",
+  "tags": [
+    "action",
+    "casual",
+    "indie",
+    "multiplayer",
+    "co-op",
+    "rhythm",
+    "music-based-procedural-generation",
+    "twin-stick-shooter",
+    "bullet-hell",
+    "shoot-em-up",
+    "music",
+    "2d",
+    "space",
+    "arcade",
+    "shooter",
+    "colorful",
+    "local-multiplayer",
+    "atmospheric",
+    "singleplayer",
+    "replay-value"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish - Spain",
+    "Dutch"
+  ],
+  "name_localized": {
+    "schinese": "危险节奏"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "BeatHazard.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "runme.exe",
+          "description": "Play Beat Hazard Classic",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Beat Hazard MAC.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "BeatHazard",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Beat Hazard",
+    "BeatHazard",
+    "runme",
+    "Beat Hazard MAC.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/49600/2eec97f6dc441691097d3e14f39e2550059b90ee.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49600/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49600/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49600/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49600/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49600/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49600/ss_3cf92e546ab5aaee6fa6330254e693f412ec7f1e.1920x1080.jpg?t=1745498136"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49600/ss_6d90b7f349621b2239f061b8d325143e7aeda9bb.1920x1080.jpg?t=1745498136"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49600/ss_9e7a2e273453b8e98e8b8003c95530676a380ba3.1920x1080.jpg?t=1745498136"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49600/ss_27533712bcfee6bcdb408792eeb63f82a78aa46e.1920x1080.jpg?t=1745498136"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49600/ss_371fcff1f928a53b57291a9185004be3aca10b48.1920x1080.jpg?t=1745498136"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49600/ss_4f409b322bbf6d96699f42cc3198b82fb7a6fa18.1920x1080.jpg?t=1745498136"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49600/ss_ddee4674ab0c517ce978a2635d800e0143c35530.1920x1080.jpg?t=1745498136"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49600/ss_39d59991482e9d6486396ac3a676b8c98df1e342.1920x1080.jpg?t=1745498136"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49600/ss_84ff9e7972c30267206cbdaa060265952f332f42.1920x1080.jpg?t=1745498136"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49600/ss_f31ff5b9205e84a254604ba9d5eb5843daadecc9.1920x1080.jpg?t=1745498136"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49600/ss_6a85b9f6fe9d03a3fe09f44eba17e0d1de7b99ff.1920x1080.jpg?t=1745498136"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49600/ss_1c48afaef4db180a0f8fb89e943b9c1950c53f99.1920x1080.jpg?t=1745498136"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49600/ss_7339c577a8a50e3a6b03c32640c857879c26ca17.1920x1080.jpg?t=1745498136"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49600/ss_f7b545368037d2a8339e452a1b413ac477ba1c00.1920x1080.jpg?t=1745498136"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49600/ss_941d4899705e8d5809dbadee383d72722b513de2.1920x1080.jpg?t=1745498136"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49600/ss_87b95f139d0e0b3277e0f4ea3505998f530b4002.1920x1080.jpg?t=1745498136"
+    }
+  ],
+  "videos": [],
+  "metacritic": {
+    "score": 70,
+    "url": "https://www.metacritic.com/game/pc/beat-hazard?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 49600,
+    "store_url": "https://store.steampowered.com/app/49600/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Rhythm",
+      "Music-Based Procedural Generation",
+      "Twin Stick Shooter",
+      "Bullet Hell",
+      "Shoot 'Em Up",
+      "Music",
+      "2D",
+      "Space",
+      "Indie",
+      "Action",
+      "Arcade",
+      "Shooter",
+      "Casual",
+      "Colorful",
+      "Co-op",
+      "Local Co-Op",
+      "Multiplayer",
+      "Atmospheric",
+      "Singleplayer",
+      "Replay Value"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7038,
+    "review_negative": 401,
+    "review_total": 7439,
+    "review_positive_percent": 94.61
+  }
+}

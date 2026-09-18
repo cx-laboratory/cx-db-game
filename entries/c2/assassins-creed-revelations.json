@@ -1,0 +1,138 @@
+{
+  "key": "assassins-creed-revelations",
+  "name": "Assassin's Creed Revelations",
+  "description": "Ezio Auditore walks in the footsteps of the legendary mentor Altair, on a dangerous journey of discovery and revelation.",
+  "developers": [
+    "Ubisoft Montreal"
+  ],
+  "publishers": [
+    "Ubisoft"
+  ],
+  "release_date": "2011-11-30",
+  "website": "http://assassinscreed.ubi.com",
+  "tags": [
+    "action",
+    "adventure",
+    "multiplayer"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "norwegian",
+    "swedish"
+  ],
+  "name_localized": {
+    "schinese": "刺客信条：启示录"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ACRSP.exe",
+          "description": "Launch Assassin's Creed Revelations - Singleplayer",
+          "type": "none"
+        },
+        {
+          "executable": "ACRMP.exe",
+          "description": "Launch Assassin's Creed Revelations - Multiplayer",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Assassin's Creed Revelations",
+    "ACRSP",
+    "ACRMP",
+    "刺客信条：启示录"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/201870/08f7266496718dbd5d2f93e4776d3f5dc368ad54.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201870/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201870/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201870/capsule_231x87.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201870/ss_28cb1321a03e8cf2af89b2f9ab441380b093db1e.1920x1080.jpg?t=1739176298"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201870/ss_08575a6a8651d8e9b159153cc0a8175b7b181345.1920x1080.jpg?t=1739176298"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201870/ss_4f86082d2db3066c72a9b80704c7a35d4ad2773b.1920x1080.jpg?t=1739176298"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201870/ss_caf06afa8adcfeb836a588e8998ae0bfa0ffd3e1.1920x1080.jpg?t=1739176298"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201870/ss_3b1495334d48db2058794e7f9def1667a98d35c1.1920x1080.jpg?t=1739176298"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201870/ss_6b2c6d8df87edbacd491d15869df946062612c8e.1920x1080.jpg?t=1739176298"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Assassin's Creed Revelations E3 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81205/movie.293x165.jpg?t=1447354888",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/201870/6111/c4f4b176f626b013258dcb4810306cb8eafdd431/1750498624/dash_h264.mpd?t=1447354888"
+    },
+    {
+      "name": "Assassin's Creed Revelations Story Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81220/movie.293x165.jpg?t=1447354920",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/201870/6154/b929f4f6c4024c23ec1e0c82acab2eb528f9c849/1750498624/dash_h264.mpd?t=1447354920"
+    },
+    {
+      "name": "Assassin's Creed Revelations Multiplayer Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81225/movie.293x165.jpg?t=1447354920",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/201870/6155/1c317250c814bad493f0aca54e51ebb2cf63eded/1750498632/dash_h264.mpd?t=1447354920"
+    }
+  ],
+  "metacritic": {
+    "score": 80,
+    "url": "https://www.metacritic.com/game/pc/assassins-creed-revelations?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 201870,
+    "store_url": "https://store.steampowered.com/app/201870/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 17144,
+    "review_negative": 3182,
+    "review_total": 20326,
+    "review_positive_percent": 84.35
+  }
+}

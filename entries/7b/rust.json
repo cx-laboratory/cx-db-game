@@ -1,0 +1,337 @@
+{
+  "key": "rust",
+  "name": "Rust",
+  "description": "The only aim in Rust is to survive. Everything wants you to die - the island’s wildlife, other inhabitants, the environment, and other survivors. Do whatever it takes to last another night.",
+  "developers": [
+    "Facepunch Studios"
+  ],
+  "publishers": [
+    "Facepunch Studios"
+  ],
+  "release_date": "2018-02-09",
+  "website": "http://rust.facepunch.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "massively-multiplayer",
+    "rpg",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "survival",
+    "crafting",
+    "open-world",
+    "open-world-survival-craft",
+    "building",
+    "sandbox",
+    "first-person",
+    "nudity",
+    "fps",
+    "shooter",
+    "post-apocalyptic",
+    "early-access",
+    "simulation"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English*",
+    "French*",
+    "Italian*",
+    "German*",
+    "Spanish - Spain*",
+    "Japanese*",
+    "Korean*",
+    "Russian*",
+    "Simplified Chinese*",
+    "Ukrainian*",
+    "Polish*",
+    "Portuguese - Portugal*",
+    "Turkish*",
+    "Arabic",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "Finnish",
+    "Greek",
+    "Norwegian",
+    "Portuguese - Brazil",
+    "Spanish - Latin America",
+    "Swedish",
+    "Traditional Chinese",
+    "Vietnamese*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "rust.exe",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "rust.exe",
+          "description": "Rust with GPU skinning (experimental)",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "cfg",
+          "pattern": "keys.cfg",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "cfg",
+          "pattern": "favorites.cfg",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "rust.app",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "rust.app",
+          "description": "Rust with GPU skinning (experimental)",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "cfg",
+          "pattern": "keys.cfg",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "cfg",
+          "pattern": "favorites.cfg",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Rust",
+    "rust",
+    "rust.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/252490/820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/21aac0b6e20e1ba12f635e7deb730e32a51afbd5/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/810d28529f0c40e9a283f74cea09583f501c57e2/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_271feae67943bdc141c1249aba116349397e9ba9.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_e825b087b95e51c3534383cfd75ad6e8038147c3.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_0e646f1a70e5cb8eed00efef8adb9579d40d5b2e.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/69dc23d53163b755e809a562a377bd276154c70e/ss_69dc23d53163b755e809a562a377bd276154c70e.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_1c2d0d1eefee54f0c67626c74eb21699bbb0ef52.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_d0fdacaeef5a28a7cee525fd73376adfe083c964.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_bbf6c96e490326ec877ae548cb148e53516b5f83.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_2a8518810024a5fbf9c714e697a43a1201b5d53e.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_c88939db635d959b25eb1bcf9b4c4dcdec04b3fe.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_eafe26f0577f9fc25d7a89884ea6f40381973c8a.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_9652dbaf2de41b8c8f8305af714ee258564c453d.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/69d62fcffcc5db58fb8459b84ca9d0f2c0b5cf53/ss_69d62fcffcc5db58fb8459b84ca9d0f2c0b5cf53.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_803a18bcbf6004706f12a1f88bb3cadbd9ac5f5b.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_aaa718a3cb0696a816456283526842c4f2d6b1bc.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_24483e657f7e59d74e4914f79c51d9c821454e98.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_dd5a5bf9a19b8b8a078dfdae8b7e09c0e78d2b4d.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_651097c65458ae555b42c42dd9667d7174397bdf.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_40bde646d6ed6ebda0d7f42f52d66d147935bbfa.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_21afaa3e6697adbb9173e0266c9de913a5a05457.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_9264a17b6bc1b3f9df55cf2aafcc25c6188bba59.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_69b259a1ab43e2e12f119ecb6b48117a7ff0b216.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ab3ddbe806dc742b564edd41ce5fa6480a0e1a47/ss_ab3ddbe806dc742b564edd41ce5fa6480a0e1a47.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_2166031b7e6eaedae3dfd8966421c6c4703b89ef.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_6c6269c7c6164876585e0728742156b49af966af.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_3834344f4f347f133a70096113d71ab3c5a7d587.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_f05168330593f4f476cd4a6a6094b248c7c8556e.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/6235d6bfe7e623b96de879dd6d57e1890464206f/ss_6235d6bfe7e623b96de879dd6d57e1890464206f.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_a63f203245f322f28cf489bf46beaeec780cccec.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/adcd2bf3ace8622d1654865ac3c461f6e122df76/ss_adcd2bf3ace8622d1654865ac3c461f6e122df76.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_326282c7485e8aff1ebf6750c82622afef098998.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_08a111660a92c33c10d62e74620d258c216fd0bb.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/48b357bc6bb912333f362629bae43b32ec4c8081/ss_48b357bc6bb912333f362629bae43b32ec4c8081.1920x1080.jpg?t=1781536981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/166928c0b3ccffbf0ed14bde3ecffeeadc541e7a/ss_166928c0b3ccffbf0ed14bde3ecffeeadc541e7a.1920x1080.jpg?t=1781536981"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Official Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256684736/movie.293x165.jpg?t=1699598112",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/252490/102019/c573f5b01317174c7ae20a0abbcc3a39ccad32c2/1750487766/dash_h264.mpd?t=1699598112"
+    },
+    {
+      "name": "The Primitive Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257095612/39280f7c0269609c64da103a559d2476201324e4/movie_600x337.jpg?t=1738927715",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/252490/824633/5cc1654f16b5276ffc863ba20a16278255996ceb/1750487790/dash_h264.mpd?t=1738927715"
+    },
+    {
+      "name": "World Update 2.0",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256791647/20493083c046e6a02ba9af308eb683872764af34/movie_600x337.jpg?t=1736337052",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/252490/296402/e37c6d86e5500349a2eb83ba4c4691b59a3f6944/1750487788/dash_h264.mpd?t=1736337052"
+    },
+    {
+      "name": "Scrap Helicopter",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256761600/movie.293x165.jpg?t=1699598120",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/252490/242376/dc8326605886898c86189b549303e57fad692554/1750487768/dash_h264.mpd?t=1699598120"
+    }
+  ],
+  "metacritic": {
+    "score": 69,
+    "url": "https://www.metacritic.com/game/pc/rust?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 252490,
+    "store_url": "https://store.steampowered.com/app/252490/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "In-App Purchases",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Surround Sound",
+      "Valve Anti-Cheat enabled",
+      "Stats",
+      "Remote Play on Tablet"
+    ],
+    "tags": [
+      "Survival",
+      "Crafting",
+      "Multiplayer",
+      "Open World",
+      "Open World Survival Craft",
+      "Building",
+      "PvP",
+      "Sandbox",
+      "Adventure",
+      "First-Person",
+      "Action",
+      "Nudity",
+      "FPS",
+      "Shooter",
+      "Co-op",
+      "Online Co-Op",
+      "Indie",
+      "Post-apocalyptic",
+      "Early Access",
+      "Simulation"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 1196669,
+    "review_negative": 180907,
+    "review_total": 1377576,
+    "review_positive_percent": 86.87
+  }
+}

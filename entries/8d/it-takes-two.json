@@ -1,0 +1,204 @@
+{
+  "key": "it-takes-two",
+  "name": "It Takes Two",
+  "description": "Embark on the craziest journey of your life in It Takes Two. Invite a friend to join for free with Friend’s Pass and work together across a huge variety of gleefully disruptive gameplay challenges. Winner of GAME OF THE YEAR at the Game Awards 2021.",
+  "developers": [
+    "Hazelight Studios"
+  ],
+  "publishers": [
+    "Electronic Arts"
+  ],
+  "release_date": "2021-03-26",
+  "website": "https://www.ea.com/games/it-takes-two",
+  "tags": [
+    "action",
+    "adventure",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "split-screen",
+    "local-multiplayer",
+    "puzzle",
+    "story-rich",
+    "co-op-campaign",
+    "puzzle-platformer",
+    "action-adventure",
+    "3d-platformer",
+    "emotional",
+    "platformer",
+    "exploration",
+    "atmospheric",
+    "minigames",
+    "female-protagonist"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "tchinese": "雙人成行",
+    "schinese": "双人成行"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Nuts/Binaries/Win64/ItTakesTwo.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "ItTakesTwo",
+          "pattern": "SaveData.Nuts",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "ItTakesTwo",
+          "pattern": "Settings.Nuts",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "It Takes Two",
+    "Nuts/Binaries/Win64/ItTakesTwo",
+    "雙人成行",
+    "双人成行"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1426210/6b15f6d81c4fc52056f4928b363b7fac591a945b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_3e59753eefaba9a7704a18e902b48e8d38e95e0b.1920x1080.jpg?t=1777395376"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_6e987a0678b013bfd0073a9ac4703e1f04ca4dea.1920x1080.jpg?t=1777395376"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_fdac523e3ea4d2f32a44449bb8c224857563bd7d.1920x1080.jpg?t=1777395376"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_4a62bc8fa398fc5b2094a6225dc5ecff9485f824.1920x1080.jpg?t=1777395376"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_a15164ddd357ab3c0b2aff575a6b215b2d91b406.1920x1080.jpg?t=1777395376"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_d7a931229cbf1cc25975bb5860cbde5b9bbc826a.1920x1080.jpg?t=1777395376"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_6f7b65b8613afbcb2616bff8ed0283d0629b6572.1920x1080.jpg?t=1777395376"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_6ce2d50261a94284c72164e2d6d3721fe2f00013.1920x1080.jpg?t=1777395376"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Official Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256827093/movie.293x165.jpg?t=1616514535",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1426210/356092/0165ad2494097e40af29c015e8948175c3fb97a8/1750688156/dash_h264.mpd?t=1616514535"
+    },
+    {
+      "name": "#5",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256825938/movie.293x165.jpg?t=1615809022",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1426210/354187/6ff654f630353840eb67702884d2d7827c676457/1750686862/dash_h264.mpd?t=1615809022"
+    },
+    {
+      "name": "Friends Pass",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256813190/movie.293x165.jpg?t=1607655633",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1426210/332824/ea5dc1a28710c18ca33602ef0a6b2dfe06693142/1750686858/dash_h264.mpd?t=1607655633"
+    },
+    {
+      "name": "Reveal",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256813189/movie.293x165.jpg?t=1607655625",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1426210/332823/5130787ad6a22c30c84b2f33f4b990878dfa2b33/1750686827/dash_h264.mpd?t=1607655625"
+    }
+  ],
+  "metacritic": {
+    "score": 89,
+    "url": "https://www.metacritic.com/game/pc/it-takes-two?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1426210,
+    "store_url": "https://store.steampowered.com/app/1426210/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Surround Sound",
+      "Steam Cloud",
+      "Remote Play Together"
+    ],
+    "tags": [
+      "Co-op",
+      "Multiplayer",
+      "Split Screen",
+      "Local Co-Op",
+      "Online Co-Op",
+      "Puzzle",
+      "Adventure",
+      "Story Rich",
+      "Co-op Campaign",
+      "Local Multiplayer",
+      "Puzzle Platformer",
+      "Action-Adventure",
+      "3D Platformer",
+      "Emotional",
+      "Platformer",
+      "Action",
+      "Exploration",
+      "Atmospheric",
+      "Minigames",
+      "Female Protagonist"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 251663,
+    "review_negative": 12090,
+    "review_total": 263753,
+    "review_positive_percent": 95.42
+  }
+}

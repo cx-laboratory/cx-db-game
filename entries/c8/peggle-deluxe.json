@@ -1,0 +1,159 @@
+{
+  "key": "peggle-deluxe",
+  "name": "Peggle Deluxe",
+  "description": "Take your best shot with energizing arcade fun! Aim, shoot, clear the orange pegs, then sit back and cheer as 10 whimsical teachers guide you to Peggle greatness.",
+  "developers": [
+    "PopCap Games, Inc."
+  ],
+  "publishers": [
+    "PopCap Games, Inc."
+  ],
+  "release_date": "2007-03-06",
+  "website": "https://www.ea.com/games/peggle/peggle",
+  "tags": [
+    "casual",
+    "puzzle",
+    "arcade",
+    "addictive",
+    "2d",
+    "physics",
+    "family-friendly",
+    "classic",
+    "pinball",
+    "mouse-only",
+    "strategy",
+    "funny",
+    "difficult",
+    "relaxing",
+    "great-soundtrack",
+    "gore",
+    "singleplayer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain"
+  ],
+  "name_localized": {
+    "schinese": "幻幻球豪华版"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "peggle.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Peggle Deluxe.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Peggle Deluxe",
+    "peggle",
+    "Peggle Deluxe.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3480/427a98a549c3813e13b4062300709000599817b0.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480/0000001531.1920x1080.jpg?t=1777394376"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480/0000001532.1920x1080.jpg?t=1777394376"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480/0000001533.1920x1080.jpg?t=1777394376"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480/0000001534.1920x1080.jpg?t=1777394376"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480/0000001535.1920x1080.jpg?t=1777394376"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480/0000001536.1920x1080.jpg?t=1777394376"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480/0000001537.1920x1080.jpg?t=1777394376"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480/0000001538.1920x1080.jpg?t=1777394376"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480/0000001539.1920x1080.jpg?t=1777394376"
+    }
+  ],
+  "videos": [],
+  "metacritic": null,
+  "steam": {
+    "appid": 3480,
+    "store_url": "https://store.steampowered.com/app/3480/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual"
+    ],
+    "categories": [
+      "Single-player",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Casual",
+      "Puzzle",
+      "Arcade",
+      "Singleplayer",
+      "Addictive",
+      "2D",
+      "Physics",
+      "Family Friendly",
+      "Multiplayer",
+      "Classic",
+      "Pinball",
+      "Mouse Only",
+      "Strategy",
+      "Funny",
+      "Difficult",
+      "Local Multiplayer",
+      "Relaxing",
+      "Great Soundtrack",
+      "Local Co-Op",
+      "Gore"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 13683,
+    "review_negative": 331,
+    "review_total": 14014,
+    "review_positive_percent": 97.64
+  }
+}

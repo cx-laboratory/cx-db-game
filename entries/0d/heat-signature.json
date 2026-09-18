@@ -1,0 +1,176 @@
+{
+  "key": "heat-signature",
+  "name": "Heat Signature",
+  "description": "Heat Signature is a game from the developers of Gunpoint where you break into spaceships, make terrible mistakes, and think of clever ways out of them. You take a mission, fly to the target ship, sneak inside, and make clever use of your gadgets to distract, ambush and take out the crew.",
+  "developers": [
+    "Suspicious Developments"
+  ],
+  "publishers": [
+    "Suspicious Developments"
+  ],
+  "release_date": "2017-09-22",
+  "website": "http://spaceships.cool",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "strategy",
+    "space",
+    "stealth",
+    "top-down",
+    "roguelike",
+    "sci-fi",
+    "procedural-generation",
+    "real-time-with-pause",
+    "roguelite",
+    "singleplayer",
+    "2d",
+    "tactical",
+    "perma-death",
+    "top-down-shooter",
+    "open-world",
+    "bullet-time",
+    "action-roguelike"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Heat_Signature.exe",
+          "description": "Launch",
+          "type": "none"
+        },
+        {
+          "executable": "Extras Launcher.exe",
+          "description": "Supporter Edition Extras",
+          "type": "option2"
+        },
+        {
+          "executable": "Heat_Signature.exe",
+          "description": "Heat Signature (Compatibility Mode)",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Heat_Signature",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Heat Signature",
+    "Heat_Signature",
+    "Extras Launcher"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/268130/186897aa47f73520e6f5e2bd5ca3664360856aa3.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268130/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268130/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268130/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268130/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268130/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268130/ss_d9b2da2bfc6f7c1ca7b72ebbfbaea3c74423a33b.1920x1080.jpg?t=1773867562"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268130/ss_6eb210754149c8d850d9c8ad3e392a26aefb5db0.1920x1080.jpg?t=1773867562"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268130/ss_2fd2970b8a62ff99e9d786bd4dd3803c66a5bcfa.1920x1080.jpg?t=1773867562"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268130/ss_e33b87b6ad40870378169086b28923ddae2e33ee.1920x1080.jpg?t=1773867562"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268130/ss_2029d2369d0f8db4ee0cca64f5dfd3da40e3509e.1920x1080.jpg?t=1773867562"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268130/ss_5d248c83025c7df92f0ab9b24c6c93eb7a71aa93.1920x1080.jpg?t=1773867562"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268130/ss_94293f41672ad02c6235094ce5afd3e6a5ad15c8.1920x1080.jpg?t=1773867562"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268130/ss_ec3f561f4ebbf113d3f5e315d64f312727f997b7.1920x1080.jpg?t=1773867562"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268130/ss_7f8bbe267bd0374643114a574b6dcee08a7ddd73.1920x1080.jpg?t=1773867562"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Heat Signature Launch Trailer 1",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256695557/movie.293x165.jpg?t=1506013215",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/268130/123234/a9befe551c5208d7917284ac1d0b33efd1f1a0c9/1750499151/dash_h264.mpd?t=1506013215"
+    }
+  ],
+  "metacritic": {
+    "score": 79,
+    "url": "https://www.metacritic.com/game/pc/heat-signature?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 268130,
+    "store_url": "https://store.steampowered.com/app/268130/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Space",
+      "Stealth",
+      "Indie",
+      "Top-Down",
+      "Roguelike",
+      "Action",
+      "Strategy",
+      "Sci-fi",
+      "Procedural Generation",
+      "Real-Time with Pause",
+      "Roguelite",
+      "Singleplayer",
+      "Adventure",
+      "2D",
+      "Tactical",
+      "Perma Death",
+      "Top-Down Shooter",
+      "Open World",
+      "Bullet Time",
+      "Action Roguelike"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 6980,
+    "review_negative": 405,
+    "review_total": 7385,
+    "review_positive_percent": 94.52
+  }
+}

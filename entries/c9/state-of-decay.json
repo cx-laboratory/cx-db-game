@@ -1,0 +1,137 @@
+{
+  "key": "state-of-decay",
+  "name": "State of Decay",
+  "description": "The end is here. Life as you knew it has gone to hell after the mother of all zombie outbreaks. Now you and the few scattered survivors must band together to survive and rebuild in a 3rd-person action game set in a dynamic open world.",
+  "developers": [
+    "Undead Labs"
+  ],
+  "publishers": [
+    "Xbox Game Studios"
+  ],
+  "release_date": "2013-11-06",
+  "website": "http://www.undeadlabs.com",
+  "tags": [
+    "action",
+    "rpg",
+    "simulation"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "StateOfDecay.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "USER/{64BitSteamID}",
+          "pattern": "*.ulsave",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "USER/{64BitSteamID}",
+          "pattern": "*.cfg",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "USER",
+          "pattern": "*.xml",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "Game",
+          "pattern": "*.cfg",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "State of Decay",
+    "StateOfDecay"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/241540/32fa1abe69d8d0fe2f4ebce58dc8a72129c114a0.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241540/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241540/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241540/library_600x900.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241540/ss_c4fb573f73db695142e1e3893c9d8a6a82d70dbb.1920x1080.jpg?t=1573205685"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241540/ss_6f5263101a3657f5160cd12a3e005c1f963904b0.1920x1080.jpg?t=1573205685"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241540/ss_085c92df454a8566461483ce5e870436d31ba5f2.1920x1080.jpg?t=1573205685"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241540/ss_5e563061e0daa10f095d2f51bb6cf8cda8e7420c.1920x1080.jpg?t=1573205685"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241540/ss_9345685949691089623135ebf6d045b87ad9a7ce.1920x1080.jpg?t=1573205685"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2029409/movie.293x165.jpg?t=1447358835",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/241540/13607/db67356d05b41c9b25510a90007fdd50117a0f91/1751258678/dash_h264.mpd?t=1447358835"
+    }
+  ],
+  "metacritic": {
+    "score": 79,
+    "url": "https://www.metacritic.com/game/pc/state-of-decay?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 241540,
+    "store_url": "https://store.steampowered.com/app/241540/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "RPG",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 14781,
+    "review_negative": 2701,
+    "review_total": 17482,
+    "review_positive_percent": 84.55
+  }
+}

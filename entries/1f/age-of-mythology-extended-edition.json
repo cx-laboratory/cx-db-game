@@ -1,0 +1,187 @@
+{
+  "key": "age-of-mythology-extended-edition",
+  "name": "Age of Mythology: Extended Edition",
+  "description": "Age of Mythology is back! Choose your god and take to the battlefield in this classic, upgraded with full Steamworks integration and enhanced features.",
+  "developers": [
+    "SkyBox Labs"
+  ],
+  "publishers": [
+    "Xbox Game Studios"
+  ],
+  "release_date": "2014-05-09",
+  "website": "https://www.ageofempires.com/games/aom/",
+  "tags": [
+    "simulation",
+    "strategy",
+    "multiplayer",
+    "co-op",
+    "mythology",
+    "rts",
+    "classic",
+    "nostalgia",
+    "great-soundtrack",
+    "singleplayer",
+    "epic",
+    "fantasy",
+    "historical",
+    "real-time",
+    "atmospheric",
+    "tactical",
+    "adventure",
+    "story-rich",
+    "remake",
+    "action"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "tchinese",
+    "japanese",
+    "portuguese"
+  ],
+  "name_localized": {
+    "schinese": "神话时代：扩展版"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Launcher.exe",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "aomx.exe",
+          "description": "Age of Mythology (Bypass Launcher)",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Users",
+          "pattern": "*.prf",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Users",
+          "pattern": "lastprofile.txt",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "savegame",
+          "pattern": "*.svx",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Age of Mythology: Extended Edition",
+    "Launcher",
+    "aomx"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/266840/43e500d938e87b623c11a02d7b80f7e9018fbbd7.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266840/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266840/4358b7130741412ed58053a139a6ea6a816db44c/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266840/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266840/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266840/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266840/ss_cdd67c84e356692c6304f479a28a111ac207f12d.1920x1080.jpg?t=1757713426"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266840/ss_8cd2910cdd8001dd5de2c884a85eb27529a6329d.1920x1080.jpg?t=1757713426"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266840/ss_c4a186273ae304a51f22c6fc4a480a717799f833.1920x1080.jpg?t=1757713426"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266840/ss_91b801695bddc33024014570b1864861fc35cc64.1920x1080.jpg?t=1757713426"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266840/ss_d3642c1136df1ae9bb26de0318f37fa554ba76fd.1920x1080.jpg?t=1757713426"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266840/ss_5de6e957073e3104147e7a1ee1bbb6d253d74327.1920x1080.jpg?t=1757713426"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2031737/movie.293x165.jpg?t=1447361200",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/266840/19132/01be8658f32f55602375a71d6e32bc8329838229/1750499029/dash_h264.mpd?t=1447361200"
+    }
+  ],
+  "metacritic": {
+    "score": 66,
+    "url": "https://www.metacritic.com/game/pc/age-of-mythology-extended-edition?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 266840,
+    "store_url": "https://store.steampowered.com/app/266840/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Stats",
+      "Steam Leaderboards",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "Mythology",
+      "RTS",
+      "Classic",
+      "Multiplayer",
+      "Nostalgia",
+      "Great Soundtrack",
+      "Singleplayer",
+      "Epic",
+      "Fantasy",
+      "Simulation",
+      "Historical",
+      "Real-Time",
+      "Atmospheric",
+      "Tactical",
+      "Co-op",
+      "Adventure",
+      "Story Rich",
+      "Remake",
+      "Action"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 33694,
+    "review_negative": 2450,
+    "review_total": 36144,
+    "review_positive_percent": 93.22
+  }
+}

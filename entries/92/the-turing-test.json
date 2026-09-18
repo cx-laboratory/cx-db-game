@@ -1,0 +1,173 @@
+{
+  "key": "the-turing-test",
+  "name": "The Turing Test",
+  "description": "The Turing Test is a challenging first-person puzzle game set on Jupiter’s moon, Europa. You are Ava Turing, an engineer for the International Space Agency (ISA) sent to discover the cause behind the disappearance of the ground crew stationed there.",
+  "developers": [
+    "BULKHEAD"
+  ],
+  "publishers": [
+    "BULKHEAD"
+  ],
+  "release_date": "2016-08-31",
+  "website": "http://www.theturingtestgame.com/index.html",
+  "tags": [
+    "adventure",
+    "puzzle",
+    "sci-fi",
+    "first-person",
+    "female-protagonist",
+    "space",
+    "singleplayer",
+    "atmospheric",
+    "story-rich",
+    "great-soundtrack",
+    "artificial-intelligence",
+    "short",
+    "philosophical",
+    "robots",
+    "indie",
+    "mystery",
+    "3d"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "TheTuringTest/Binaries/Win64/TheTuringTest.exe",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "TheTuringTest/Binaries/Win64/TheTuringTest.exe",
+          "description": "Play The Turing Test (DX12)",
+          "type": "default"
+        },
+        {
+          "executable": "PrototypeLauncher.exe",
+          "description": "The Turing Test Prototype",
+          "type": "option2"
+        },
+        {
+          "executable": "VenusPrototype.exe",
+          "description": "EXPERIMENTAL",
+          "type": "default"
+        },
+        {
+          "executable": "VenusPrototype.exe",
+          "description": "EXPERIMENTAL",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "The Turing Test",
+    "TheTuringTest/Binaries/Win64/TheTuringTest",
+    "PrototypeLauncher",
+    "VenusPrototype"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/499520/201c1b7cbaa51c1ff8b8510890465679c0196900.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499520/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499520/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499520/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499520/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499520/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499520/ss_d508d3e8851c37b041dffc06c4aa5df514ab8cb6.1920x1080.jpg?t=1770271682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499520/ss_08295f7a470d149a8fb6b6203489864a967c6816.1920x1080.jpg?t=1770271682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499520/ss_6b79196c4bfdcd1fbbc24c8fe6410a911fc38823.1920x1080.jpg?t=1770271682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499520/ss_3b9a0cb789a13f0eb57b92439dd5ebd0632c2da2.1920x1080.jpg?t=1770271682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499520/ss_d3b7704f85e80efa848acdbc06b09a7a70a4ed3f.1920x1080.jpg?t=1770271682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499520/ss_779bf45dd6f01af412abc47baeabb8eb02060a40.1920x1080.jpg?t=1770271682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499520/ss_bb1433b6f4622c5ce5b61870ff4cf5c35b89db15.1920x1080.jpg?t=1770271682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499520/ss_9fd358400dba54a0993457e35c7423a1113d3a04.1920x1080.jpg?t=1770271682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499520/ss_ce1b2a93199304492aaa1718fe4eec75ed98b9f3.1920x1080.jpg?t=1770271682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499520/ss_1d30164ad1e4d74741d598536a86b9ea73a7c071.1920x1080.jpg?t=1770271682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499520/ss_f810d4d88bf5ec462c882949504926959f141911.1920x1080.jpg?t=1770271682"
+    }
+  ],
+  "videos": [],
+  "metacritic": {
+    "score": 74,
+    "url": "https://www.metacritic.com/game/pc/the-turing-test?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 499520,
+    "store_url": "https://store.steampowered.com/app/499520/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Puzzle",
+      "Sci-fi",
+      "First-Person",
+      "Female Protagonist",
+      "Space",
+      "Adventure",
+      "Singleplayer",
+      "Atmospheric",
+      "Story Rich",
+      "Great Soundtrack",
+      "Artificial Intelligence",
+      "Short",
+      "Philosophical",
+      "Robots",
+      "Psychological Horror",
+      "Indie",
+      "Mystery",
+      "3D"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7012,
+    "review_negative": 997,
+    "review_total": 8009,
+    "review_positive_percent": 87.55
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "key": "halo-the-master-chief-collection",
+  "name": "Halo: The Master Chief Collection",
+  "description": "The Master Chief’s iconic journey includes six games, built for PC and collected in a single integrated experience. Whether you’re a long-time fan or meeting Spartan 117 for the first time, The Master Chief Collection is the definitive Halo gaming experience.",
+  "developers": [
+    "343 Industries"
+  ],
+  "publishers": [
+    "Xbox Game Studios"
+  ],
+  "release_date": "2019-12-04",
+  "website": "https://www.halowaypoint.com/halo-the-master-chief-collection",
+  "tags": [
+    "action",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "turkish",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "光环：士官长合集"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "mcclauncher.exe",
+          "description": "Halo: The Master Chief Collection",
+          "type": "option1"
+        },
+        {
+          "executable": "mcc\\binaries\\win64\\mcc-win64-shipping.exe",
+          "description": "Halo: MCC Anti-Cheat Disabled (Mods and Limited Services)",
+          "type": "option2"
+        },
+        {
+          "executable": "mcc\\binaries\\win64\\mcc.exe",
+          "description": "DEV EXE",
+          "type": "option3"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Halo: The Master Chief Collection",
+    "mcclauncher",
+    "mcc\\binaries\\win64\\mcc-win64-shipping",
+    "mcc\\binaries\\win64\\mcc"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/976730/196a45d8df1981ff6b6b1872a38dc38f6c22875d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/ss_ce40a85f9f7f3fa0f620a87f8919f3212ab8e46e.1920x1080.jpg?t=1774466074"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/ss_62bbd86f4735893ef6cd53206cf8c93f87eb86ec.1920x1080.jpg?t=1774466074"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/ss_fdaf8ebd7f3c62e08398f39c9bfa486294ea5a0a.1920x1080.jpg?t=1774466074"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/ss_85da13aef2acd210f95f4b43540967f24d7bed6a.1920x1080.jpg?t=1774466074"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/ss_3a4d84cdabf7e015e4409b4218bcd00ba6aa730f.1920x1080.jpg?t=1774466074"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/ss_25d03817a7e55b9b1c12b835af457e827ee8a246.1920x1080.jpg?t=1774466074"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/ss_e00d7524d2b4529ef08cd49afde2cf6212ff034e.1920x1080.jpg?t=1774466074"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/ss_24bfdbf8483862d9e6f1d2b114a2412e47a41d68.1920x1080.jpg?t=1774466074"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/ss_474aea5c482e3db77e60f1366f04401aa96627d2.1920x1080.jpg?t=1774466074"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/ss_99af4fb4b95471b3b7df467b3b39705f46a97e8d.1920x1080.jpg?t=1774466074"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/ss_13659e88082ebd640dbdc2f2ff76e1e40182cbf0.1920x1080.jpg?t=1774466074"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/ss_1a2c2cfa8afe61d633cee4939e4d5e15cb8b10cc.1920x1080.jpg?t=1774466074"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/ss_50c0dbb2e720b13094417411dc72ec311e0ba254.1920x1080.jpg?t=1774466074"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/ss_3387e0040ce6b44a715b4945f2c9ba8be634ed9b.1920x1080.jpg?t=1774466074"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/ss_030f1a6464b746bee4ef97893e04d4360bbd4f21.1920x1080.jpg?t=1774466074"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Accolades",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256819673/movie.293x165.jpg?t=1611767856",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/976730/343221/c4201ae2b2ab5907068af2bb2c909610f7a173bb/1750603089/dash_h264.mpd?t=1611767856"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 976730,
+    "store_url": "https://store.steampowered.com/app/976730/",
+    "required_age": 18,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 239181,
+    "review_negative": 20710,
+    "review_total": 259891,
+    "review_positive_percent": 92.03
+  }
+}

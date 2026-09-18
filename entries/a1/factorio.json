@@ -1,0 +1,347 @@
+{
+  "key": "factorio",
+  "name": "Factorio",
+  "description": "Factorio is a game about building and creating automated factories to produce items of increasing complexity, within an infinite 2D world. Use your imagination to design your factory, combine simple elements into ingenious structures, and finally protect it from the creatures who don't really like you.",
+  "developers": [
+    "Wube Software LTD."
+  ],
+  "publishers": [
+    "Wube Software LTD."
+  ],
+  "release_date": "2020-08-14",
+  "website": "https://www.factorio.com",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "strategy",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "automation",
+    "base-building",
+    "resource-management",
+    "sandbox",
+    "crafting",
+    "survival",
+    "management",
+    "open-world",
+    "building",
+    "2d",
+    "moddable",
+    "singleplayer",
+    "trains",
+    "pixel-graphics",
+    "city-builder"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "hungarian",
+    "czech",
+    "romanian",
+    "turkish",
+    "arabic",
+    "brazilian",
+    "bulgarian",
+    "greek",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "异星工厂"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "bin/x64/Factorio.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "bin/Win32/Factorio.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Factorio/saves/",
+          "pattern": "*.zip",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "factorio.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Factorio/saves/",
+          "pattern": "*.zip",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "bin/x64/factorio",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "bin/i386/factorio",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Factorio/saves/",
+          "pattern": "*.zip",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Factorio",
+    "bin/x64/Factorio",
+    "bin/Win32/Factorio",
+    "factorio.app",
+    "bin/i386/factorio"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/427520/267f5a89f36ab287e600a4e7d4e73d3d11f0fd7d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_36e4d8e5540805f5ed492d24d784ed9ba661752b.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_171f398a8e347fad650a9c1b6c3b77c612781510.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_0bf814493f247b6baa093511b46c352cf9e98435.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_2533e54b0bd90a29adbedb60108ed277536ad445.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_192864c00fc38b5ef97b97ca7fa655a9aed7c0da.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_e301bde0fc0e996ba93e92639cd49dd90ae47b36.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_57665be6cc629906ae7004799e90699c69c07c97.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_9dba6c91d45eededca01f9f61bf1435be2dfbf0d.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_124dc8dc3fd282f6feb2d9ee20aebd2d73188e02.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_2c4dcb9195a91014ce1189707af3127c4db9b2b0.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_5903f8ff243e9a89b4f1e15e6e7982159578f8ec.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_0e6d3c0d1af06fcde28ef1f1703e142f416ace44.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_aee9573a97f97fbb7daac6c76709c62228ec5e00.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_b3cbbdb8e10d2f172297c4cc792d908fdb68529e.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_caac427e023e8682cc4bf1aba233538cf267e6fa.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_0714db2482893b77d8622604eaf9d3788734c7a6.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_3f93f2655cbc3db0da1b3e888aa68a8a9f5f6a47.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_0a6e8dbaa59e8fa5327d4fd2c8bb2a6909dc864c.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_46b600e169426189343f525860cb705fecbbc3db.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_707a4120fed96e579f56d350ae076c20e205ae8f.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_88545f5f01c635ea0001f3849f064f058dbdf81d.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_0a6343acf3b3a3d2b1d23e3bc4a21cb890ec14b8.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_4a8af525907d5711cee45f9df4f55565484fb409.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_75c02d35dcecc57a747e7a9ec9df4806ef8b3be2.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_37aa19e26e20e18a220fd8870dac6efb0e98b5f0.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_b9a77ea7a73d9acf22d6e86215d7376cdcd0eb9c.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_5b4ca37921ff8a0b9ad328028179d3d3a952f1a4.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_a849d4a6b7d990ad6669906be9d8de44c4fb2ef2.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_6418c33bc4ce393557507089ba28fc5220e2b8e0.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_a066c38bbd26f5b5e8b0385e6e84efc4de4aceed.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_00c51f1518de5ff75ef884cf3f66ee50e4e5ded1.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_21820439ab772913e4be55ec2db5165eac655e8c.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_773b26c58fede6b7e6df879d1d3a73f840f72114.1920x1080.jpg?t=1763986204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ss_3e68dabdf5c6f465d7ec891beba137c8f7e31f78.1920x1080.jpg?t=1763986204"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Teaser 2020",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256796273/movie.293x165.jpg?t=1597395499",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/427520/304275/352d361477488a88ba2274620093d8a4c67ec908/1750529745/dash_h264.mpd?t=1597395499"
+    },
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256660593/movie.293x165.jpg?t=1456427081",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/427520/51955/69c15fc9a9f17f659effe7747375e96322b34eae/1750529735/dash_h264.mpd?t=1456427081"
+    },
+    {
+      "name": "1.0 launch trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256796265/movie.293x165.jpg?t=1597395492",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/427520/304267/85d20dca016cf0be38ac38dbfd4d0b19d4455faf/1750529741/dash_h264.mpd?t=1597395492"
+    }
+  ],
+  "metacritic": {
+    "score": 90,
+    "url": "https://www.metacritic.com/game/pc/factorio?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 427520,
+    "store_url": "https://store.steampowered.com/app/427520/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Subtitle Options",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Includes level editor",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Automation",
+      "Base Building",
+      "Resource Management",
+      "Sandbox",
+      "Crafting",
+      "Strategy",
+      "Multiplayer",
+      "Survival",
+      "Management",
+      "Open World",
+      "Building",
+      "Co-op",
+      "2D",
+      "Moddable",
+      "Singleplayer",
+      "Trains",
+      "Simulation",
+      "Pixel Graphics",
+      "City Builder",
+      "Indie"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 225789,
+    "review_negative": 5766,
+    "review_total": 231555,
+    "review_positive_percent": 97.51
+  }
+}

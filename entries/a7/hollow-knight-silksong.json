@@ -1,0 +1,229 @@
+{
+  "key": "hollow-knight-silksong",
+  "name": "Hollow Knight: Silksong",
+  "description": "Discover a vast, haunted kingdom in Hollow Knight: Silksong! Explore, fight and survive as you ascend to the peak of a land ruled by silk and song.",
+  "developers": [
+    "Team Cherry"
+  ],
+  "publishers": [
+    "Team Cherry"
+  ],
+  "release_date": "2025-09-04",
+  "website": "http://hollowknightsilksong.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "metroidvania",
+    "difficult",
+    "great-soundtrack",
+    "souls-like",
+    "2d",
+    "singleplayer",
+    "platformer",
+    "exploration",
+    "female-protagonist",
+    "beautiful",
+    "atmospheric",
+    "story-rich",
+    "sequel",
+    "hand-drawn",
+    "multiple-endings",
+    "open-world",
+    "cute"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Hollow Knight Silksong.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Team Cherry/Hollow Knight Silksong/{Steam3AccountID}",
+          "pattern": "*.dat",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Hollow Knight Silksong.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Team Cherry/Hollow Knight Silksong/{Steam3AccountID}",
+          "pattern": "*.dat",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Hollow Knight Silksong",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Team Cherry/Hollow Knight Silksong/{Steam3AccountID}",
+          "pattern": "*.dat",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Hollow Knight: Silksong",
+    "Hollow Knight Silksong",
+    "Hollow Knight Silksong.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1030300/b4a999c1302e3ac123c041fd41bb8a34528c6ab5.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/7983574d464e6559ac7e24275727f73a8bcca1f3/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/b73ec03fbdb9e21e3c59eb7e59966949d0c17f29/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/93637c34351160eaa7d7ff0cce69cb4312abb819/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/70d7e70ae2fd0f8a46661d4a425cd84479dc7a61/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/98878a81ca9047352403db7e19e3942239ea8bf1/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/26950369fe4b03c2268620eb9815c8a246aa0b06/ss_26950369fe4b03c2268620eb9815c8a246aa0b06.1920x1080.jpg?t=1776125736"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/09ccaa6c16f158f9df8298feb5d196098506a028/ss_09ccaa6c16f158f9df8298feb5d196098506a028.1920x1080.jpg?t=1776125736"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/d1a893ec6357b347a55ed929833ba793b57a79d2/ss_d1a893ec6357b347a55ed929833ba793b57a79d2.1920x1080.jpg?t=1776125736"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/856e33e755a0b9a785c645d116036516ea08812b/ss_856e33e755a0b9a785c645d116036516ea08812b.1920x1080.jpg?t=1776125736"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/8e09f2b2eedd3fa9b4479dd5c26d8bdf60562478/ss_8e09f2b2eedd3fa9b4479dd5c26d8bdf60562478.1920x1080.jpg?t=1776125736"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/d907d0cc2b10b5ea4788b8d502cc27787d520c1d/ss_d907d0cc2b10b5ea4788b8d502cc27787d520c1d.1920x1080.jpg?t=1776125736"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/1b93e8131cb6f4bd9e3791a606d0da8f9ee78276/ss_1b93e8131cb6f4bd9e3791a606d0da8f9ee78276.1920x1080.jpg?t=1776125736"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/d20b045b8bdaea6ace2ca4170875772b439c2c2e/ss_d20b045b8bdaea6ace2ca4170875772b439c2c2e.1920x1080.jpg?t=1776125736"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/2ebe4dc35ad33ad86b672f7cf9faed44c9b1668e/ss_2ebe4dc35ad33ad86b672f7cf9faed44c9b1668e.1920x1080.jpg?t=1776125736"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/dae3a0798c6c59a433b46de8f5ec18b21ad97fcd/ss_dae3a0798c6c59a433b46de8f5ec18b21ad97fcd.1920x1080.jpg?t=1776125736"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Release Trailer English",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257186996/ac1c4277feccd41b0866ffec5d0d40b605df1851/movie_600x337.jpg?t=1764916585",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1030300/970174968/f2c514c96548048dd1dca6ef500877916b75fe5a/1755841475/dash_h264.mpd?t=1764916585"
+    },
+    {
+      "name": "Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256742997/movie.293x165.jpg?t=1755838174",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1030300/209267/a7f0f21deb650c2ebbd0e7a9bcd44a1b8c8b5868/1751178761/dash_h264.mpd?t=1755838174"
+    }
+  ],
+  "metacritic": {
+    "score": 90,
+    "url": "https://www.metacritic.com/game/pc/hollow-knight-silksong?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1030300,
+    "store_url": "https://store.steampowered.com/app/1030300/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Camera Comfort",
+      "Gamepad Recommended",
+      "Keyboard Only Option",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Metroidvania",
+      "Difficult",
+      "Indie",
+      "Great Soundtrack",
+      "Souls-like",
+      "2D",
+      "Singleplayer",
+      "Platformer",
+      "Exploration",
+      "Female Protagonist",
+      "Adventure",
+      "Beautiful",
+      "Atmospheric",
+      "Story Rich",
+      "Sequel",
+      "Hand-drawn",
+      "Action",
+      "Multiple Endings",
+      "Open World",
+      "Cute"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 368601,
+    "review_negative": 43952,
+    "review_total": 412553,
+    "review_positive_percent": 89.35
+  }
+}

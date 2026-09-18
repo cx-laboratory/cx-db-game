@@ -1,0 +1,208 @@
+{
+  "key": "dragon-ball-sparking-zero",
+  "name": "DRAGON BALL: Sparking! ZERO",
+  "description": "DRAGON BALL: Sparking! ZERO takes the legendary gameplay of the Budokai Tenkaichi series and raises it to whole new levels. Make yours the destructive power of the strongest fighters ever to appear in Dragon Ball!",
+  "developers": [
+    "Spike Chunsoft Co., Ltd."
+  ],
+  "publishers": [
+    "Bandai Namco Entertainment"
+  ],
+  "release_date": "2024-10-11",
+  "website": "",
+  "tags": [
+    "action",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "anime",
+    "fighting",
+    "3d-fighter",
+    "local-multiplayer",
+    "combat",
+    "martial-arts",
+    "singleplayer",
+    "competitive",
+    "3d",
+    "physics",
+    "third-person",
+    "2-5d",
+    "co-op",
+    "pve",
+    "open-world",
+    "action-adventure",
+    "spectacle-fighter"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "polish",
+    "arabic",
+    "brazilian",
+    "latam",
+    "indonesian"
+  ],
+  "name_localized": {
+    "tchinese": "七龍珠 電光炸裂！ZERO",
+    "schinese": "七龙珠 电光炸裂！ZERO",
+    "koreana": "드래곤볼 스파킹! 제로",
+    "japanese": "ドラゴンボール Sparking! ZERO"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SparkingZERO.exe",
+          "description": "guideline",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "SaveGame/{64BitSteamID}",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "DRAGON BALL: Sparking! ZERO",
+    "SparkingZERO",
+    "七龍珠 電光炸裂！ZERO",
+    "七龙珠 电光炸裂！ZERO",
+    "드래곤볼 스파킹! 제로",
+    "ドラゴンボール Sparking! ZERO"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1790600/72a0587452b190e38aee6de62ae9629a7e8cc8ba.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/ss_11942c933c595bf0188d5ee22f6f6a7ed3cdf7d9.1920x1080.jpg?t=1758754863"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/ss_edf6973923cb0d2ad72acecc014262a6de55a608.1920x1080.jpg?t=1758754863"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/ss_f4ec953421c54bf74bdca77ceed361ad7b509858.1920x1080.jpg?t=1758754863"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/ss_90f5785f89a9882a7f33fd5a812a7e7384720afd.1920x1080.jpg?t=1758754863"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/ss_72cb10fb8f0c7554e932257450b19189534a846d.1920x1080.jpg?t=1758754863"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/ss_80d442d735c80a31c78696aeaaae08c0bf843a0f.1920x1080.jpg?t=1758754863"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/ss_119e7890b990201c6ca61280a76851dc0ced05f9.1920x1080.jpg?t=1758754863"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/ss_6389b6aef0ecaa3f6cc1e36dcfb145c6fcb70a75.1920x1080.jpg?t=1758754863"
+    }
+  ],
+  "videos": [
+    {
+      "name": "DRAGON BALL: Sparking! ZERO - Ignite the Spark Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257066304/a148764eb677b645197414c6639b344a25bd882c/movie_600x337.jpg?t=1729218171",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1790600/773674/d2ee0ab19879b110fd7dc1637845f099e3acaa6c/1750736844/dash_h264.mpd?t=1729218171"
+    },
+    {
+      "name": "DRAGON BALL Sparking! Zero - Pre-Order Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257033554/movie.293x165.jpg?t=1720630952",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1790600/718164/1ce7378fd3631a353e29f9306ae35d286b29522d/1750736832/dash_h264.mpd?t=1720630952"
+    },
+    {
+      "name": "DRAGON BALL: Sparking! ZERO - Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256988554/movie.293x165.jpg?t=1702416464",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1790600/639796/f166f92b3837f1028f82bff6171f0d757161df7c/1750736608/dash_h264.mpd?t=1702416464"
+    }
+  ],
+  "metacritic": {
+    "score": 83,
+    "url": "https://www.metacritic.com/game/pc/dragon-ball-sparking!-zero?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1790600,
+    "store_url": "https://store.steampowered.com/app/1790600/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Gamepad Recommended",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Remote Play Together",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Anime",
+      "Multiplayer",
+      "Action",
+      "Fighting",
+      "3D Fighter",
+      "Local Multiplayer",
+      "PvP",
+      "Combat",
+      "Martial Arts",
+      "Singleplayer",
+      "Competitive",
+      "3D",
+      "Physics",
+      "Third Person",
+      "2.5D",
+      "Co-op",
+      "PvE",
+      "Open World",
+      "Action-Adventure",
+      "Spectacle fighter"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 62279,
+    "review_negative": 8588,
+    "review_total": 70867,
+    "review_positive_percent": 87.88
+  }
+}

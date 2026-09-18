@@ -1,0 +1,127 @@
+{
+  "key": "the-surge",
+  "name": "The Surge",
+  "description": "Welcome to CREO, the megacorporation saving the world! A catastrophic event has knocked you out during the first day on the job… you wake up equipped with a heavy-grade exoskeleton, in a destroyed section of the complex.",
+  "developers": [
+    "Deck13"
+  ],
+  "publishers": [
+    "Focus Entertainment"
+  ],
+  "release_date": "2017-05-16",
+  "website": "https://www.focus-home.com/games/the-surge",
+  "tags": [
+    "action",
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "bin\\TheSurge.exe",
+          "description": "Launch Steam Version (Cloud Saves enabled)",
+          "type": "none"
+        },
+        {
+          "executable": "bin\\TheSurge.exe",
+          "description": "Wipe Steam cloud saves for The Surge",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "The Surge",
+    "bin\\TheSurge"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/378540/244bf4443ab17c0b7cda6fd63bc9bc0291942635.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378540/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378540/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378540/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378540/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378540/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378540/ss_faace05d10643e6cb9d418947eb8f1a1e79e48bd.1920x1080.jpg?t=1727864911"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378540/ss_0cd37d1648f24ce1c7c2d4366e03a9701d66e9ef.1920x1080.jpg?t=1727864911"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378540/ss_bf8cd91c8ffa3167c2aba00ece2f0baacadb3b57.1920x1080.jpg?t=1727864911"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378540/ss_d837c0053d057be7ca8bca40415ad89c210d1e75.1920x1080.jpg?t=1727864911"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378540/ss_a84bfa49e85abb6102aeae368c70ac347d547ab4.1920x1080.jpg?t=1727864911"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Surge - Accolade Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256685235/movie.293x165.jpg?t=1495189187",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/378540/103251/5b33ba5cc4d4dccb8ae03602f1660d556a8d98cc/1750520989/dash_h264.mpd?t=1495189187"
+    },
+    {
+      "name": "The Surge - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256684897/movie.293x165.jpg?t=1494932018",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/378540/102527/c262716648b53ead4c4c84638685b2c504a652ef/1750520984/dash_h264.mpd?t=1494932018"
+    }
+  ],
+  "metacritic": {
+    "score": 72,
+    "url": "https://www.metacritic.com/game/pc/the-surge?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 378540,
+    "store_url": "https://store.steampowered.com/app/378540/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 8961,
+    "review_negative": 3047,
+    "review_total": 12008,
+    "review_positive_percent": 74.63
+  }
+}

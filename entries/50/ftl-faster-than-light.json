@@ -1,0 +1,250 @@
+{
+  "key": "ftl-faster-than-light",
+  "name": "FTL: Faster Than Light",
+  "description": "This &quot;spaceship simulation roguelike-like&quot; allows you to take your ship and crew on an adventure through a randomly generated galaxy filled with glory and bitter defeat.",
+  "developers": [
+    "Subset Games"
+  ],
+  "publishers": [
+    "Subset Games"
+  ],
+  "release_date": "2012-09-15",
+  "website": "https://subsetgames.com/ftl.html",
+  "tags": [
+    "indie",
+    "simulation",
+    "strategy",
+    "roguelike",
+    "space",
+    "sci-fi",
+    "singleplayer",
+    "perma-death",
+    "difficult",
+    "replay-value",
+    "real-time-with-pause",
+    "procedural-generation",
+    "tactical",
+    "top-down",
+    "space-sim",
+    "roguelite",
+    "2d",
+    "survival",
+    "choose-your-own-adventure",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "FTLGame.exe",
+          "description": "Launch FTL",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/FasterThanLight",
+          "pattern": "prof.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/FasterThanLight",
+          "pattern": "ae_prof.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/FasterThanLight",
+          "pattern": "continue.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "FTL.app",
+          "description": "Launch OSX FTL",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/FasterThanLight",
+          "pattern": "prof.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/FasterThanLight",
+          "pattern": "ae_prof.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/FasterThanLight",
+          "pattern": "continue.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "FTL",
+          "description": "Launch Linux FTL",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/FasterThanLight",
+          "pattern": "prof.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/FasterThanLight",
+          "pattern": "ae_prof.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/FasterThanLight",
+          "pattern": "continue.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "FTL: Faster Than Light",
+    "FTLGame",
+    "FTL.app",
+    "FTL"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/212680/e8770ddb95fde0804694b116dfe3479f5a65900d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212680/f21426ac9ad51338fa33becce88984758e07c38b/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212680/9eb97114b0c5b54ddf16393f28646ff3cb813a9f/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212680/1742d40ddc6518a14cd1aed35957f157c4f9c3f8/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212680/88e4d477c3616509d182065cd4ebfcfa2a5d486b/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212680/992e9f3c681b53335de484ed31832739b7f8bb01/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212680/ss_052d698926073e8d407a864f0e63a486af24ec0d.1920x1080.jpg?t=1748969356"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212680/ss_779ba1fda143fc42a8eb1212830ad855422e84ad.1920x1080.jpg?t=1748969356"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212680/ss_19d6b545c89bf8e73abc13c548a1e5aeb8801f53.1920x1080.jpg?t=1748969356"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212680/ss_8bc4c5c483fb85bcdcbcdbe98cbe44e82bfc961f.1920x1080.jpg?t=1748969356"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212680/ss_9dd5cc63efcc5964d45713b7304e71d41be6a3d5.1920x1080.jpg?t=1748969356"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212680/ss_708e385bd461625790763fb8ddad537d278ad15c.1920x1080.jpg?t=1748969356"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212680/ss_a97ea1950b4e1a61b07c5a44cbbbb50a3c29dc27.1920x1080.jpg?t=1748969356"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212680/ss_59c1d5ad2824bea54e7d09798674aa5530e525ba.1920x1080.jpg?t=1748969356"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212680/ss_216ee74f5bee3e78c0c327242d5f6d03395134ad.1920x1080.jpg?t=1748969356"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212680/ss_d0fe8166c0e95f0fd369b6bac59c38b2fb562f3f.1920x1080.jpg?t=1748969356"
+    }
+  ],
+  "videos": [
+    {
+      "name": "FTL Faster Than Light Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/82021/movie.293x165.jpg?t=1447356626",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/212680/9010/3b8455f5c0716335bcf4719fcbe479b01da86a82/1750480987/dash_h264.mpd?t=1447356626"
+    }
+  ],
+  "metacritic": {
+    "score": 84,
+    "url": "https://www.metacritic.com/game/pc/ftl-faster-than-light?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 212680,
+    "store_url": "https://store.steampowered.com/app/212680/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Roguelike",
+      "Space",
+      "Strategy",
+      "Sci-fi",
+      "Indie",
+      "Singleplayer",
+      "Perma Death",
+      "Difficult",
+      "Replay Value",
+      "Real-Time with Pause",
+      "Procedural Generation",
+      "Tactical",
+      "Top-Down",
+      "Space Sim",
+      "Roguelite",
+      "2D",
+      "Survival",
+      "Choose Your Own Adventure",
+      "Adventure",
+      "Simulation"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 74367,
+    "review_negative": 3814,
+    "review_total": 78181,
+    "review_positive_percent": 95.12
+  }
+}

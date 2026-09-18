@@ -1,0 +1,185 @@
+{
+  "key": "breathedge",
+  "name": "Breathedge",
+  "description": "Survive in outer space! Together with your immortal chicken, discover the truth behind your sudden spaceship crash. Craft tools, pilot vehicles, and even control space stations to survive and explore the wreckage.",
+  "developers": [
+    "RedRuins Softworks"
+  ],
+  "publishers": [
+    "HypeTrain Digital"
+  ],
+  "release_date": "2021-02-26",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "simulation",
+    "open-world-survival-craft",
+    "space",
+    "singleplayer",
+    "survival",
+    "sandbox",
+    "base-building",
+    "sci-fi",
+    "first-person",
+    "atmospheric",
+    "crafting",
+    "open-world",
+    "exploration",
+    "aliens",
+    "early-access",
+    "action-adventure",
+    "multiplayer"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "schinese",
+    "russian"
+  ],
+  "name_localized": {
+    "schinese": "呼吸边缘",
+    "tchinese": "呼吸边缘"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Breathedge.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Breathedge/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Breathedge/Saved/SaveGames",
+          "pattern": "*.png",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Breathedge",
+    "呼吸边缘"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/738520/be75f36a24abb31bfbbf1220e801c61ed477c03a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738520/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738520/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738520/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738520/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738520/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738520/ss_be835729e27b73bdd38394c3aed1b4e1faa5258a.1920x1080.jpg?t=1775232655"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738520/ss_e81cfce7684ed47116e7b38acb950cd2dfc50cb7.1920x1080.jpg?t=1775232655"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738520/ss_d37ef9a75a94e7b3212698d2ca2d562d29809e10.1920x1080.jpg?t=1775232655"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738520/ss_61161823f629462c8c11a0d20359b800095f9288.1920x1080.jpg?t=1775232655"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738520/ss_0e913fa7a9fcb944e7233c722c19863357a07b98.1920x1080.jpg?t=1775232655"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738520/ss_b0b310d37164551e90d42a9e8bc1432a43c0729b.1920x1080.jpg?t=1775232655"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738520/ss_6de3d55921eafd2f374d91a7f2d5a592b5355f57.1920x1080.jpg?t=1775232655"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738520/ss_683b836e322e9c86d20d4d64b1161987dd93b722.1920x1080.jpg?t=1775232655"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738520/ss_456599e31323b675b89dd615a0728464f6f77164.1920x1080.jpg?t=1775232655"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738520/ss_940cc235a6807d14b204daa4086a5b41619ce074.1920x1080.jpg?t=1775232655"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738520/ss_fcdd46eb6c87daad646651a3f6c2890fa2b9a750.1920x1080.jpg?t=1775232655"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Release gameplay trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256822003/movie.293x165.jpg?t=1612978145",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/738520/347112/dd047660451fbb56bb0429909b547d999f80f08d/1750576876/dash_h264.mpd?t=1612978145"
+    }
+  ],
+  "metacritic": {
+    "score": 71,
+    "url": "https://www.metacritic.com/game/pc/breathedge?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 738520,
+    "store_url": "https://store.steampowered.com/app/738520/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Open World Survival Craft",
+      "Space",
+      "Singleplayer",
+      "Survival",
+      "Sandbox",
+      "Indie",
+      "Base Building",
+      "Sci-fi",
+      "First-Person",
+      "Atmospheric",
+      "Adventure",
+      "Crafting",
+      "Open World",
+      "Exploration",
+      "Action",
+      "Aliens",
+      "Early Access",
+      "Simulation",
+      "Action-Adventure",
+      "Multiplayer"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 13390,
+    "review_negative": 2934,
+    "review_total": 16324,
+    "review_positive_percent": 82.03
+  }
+}

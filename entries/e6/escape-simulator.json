@@ -1,0 +1,300 @@
+{
+  "key": "escape-simulator",
+  "name": "Escape Simulator",
+  "description": "First-person puzzler you can play solo or in an online co-op. Explore a set of highly interactive escape rooms. Move furniture, pick up and examine everything, smash pots and break locks! Play thousands of community-made rooms through the level editor.",
+  "developers": [
+    "Pine Studio"
+  ],
+  "publishers": [
+    "Pine Studio"
+  ],
+  "release_date": "2021-10-19",
+  "website": "https://escapesimulator.com/",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "simulation",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "puzzle",
+    "escape-room",
+    "first-person",
+    "mystery",
+    "family-friendly",
+    "controller",
+    "singleplayer",
+    "vr",
+    "point-and-click",
+    "level-editor",
+    "investigation",
+    "story-rich",
+    "exploration"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux",
+    "android"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "japanese",
+    "portuguese",
+    "turkish",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "tchinese": "密室逃脫模擬器",
+    "schinese": "密室逃脱模拟器",
+    "koreana": "방 탈출 시뮬레이터",
+    "japanese": "脱出ルームシミュレーター",
+    "english": "Escape Simulator"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Escape Simulator.exe",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "Escape Simulator.exe",
+          "description": "",
+          "type": "vr"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Pine Studio/Escape Simulator",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Pine Studio/Escape Simulator/LevelSaves",
+          "pattern": "*.sav",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "EscapeSimulator.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Pine Studio/Escape Simulator",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Pine Studio/Escape Simulator/LevelSaves",
+          "pattern": "*.sav",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "EscapeSimulator",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Pine Studio/Escape Simulator",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Pine Studio/Escape Simulator/LevelSaves",
+          "pattern": "*.sav",
+          "recursive": true
+        }
+      ]
+    },
+    "android": {
+      "launch": [
+        {
+          "executable": "EscapeSimulator.apk",
+          "description": "",
+          "type": "openxr"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Pine Studio/Escape Simulator",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Pine Studio/Escape Simulator/LevelSaves",
+          "pattern": "*.sav",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Escape Simulator",
+    "EscapeSimulator.app",
+    "EscapeSimulator",
+    "EscapeSimulator.apk",
+    "密室逃脫模擬器",
+    "密室逃脱模拟器",
+    "방 탈출 시뮬레이터",
+    "脱出ルームシミュレーター"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1435790/6c294463e2be859160824246e2123a08afce83c4.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1435790/413708a2da512607f70bb22b29270359586c6e5f/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1435790/45a7f618deb1486f4819e27d4b0d007fdcb5f4f3/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1435790/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1435790/f14907141eb8cc8af2f5cc6153e8389f65a1392e/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1435790/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1435790/ss_897a7cea6c7f1cb18d719a44807865cf880a2f00.1920x1080.jpg?t=1782813501"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1435790/ss_97ac8646b5229e55008c6d0d1df9b0ec8e4062b5.1920x1080.jpg?t=1782813501"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1435790/ss_fd3f54b512086b2d4467f2a2c013071f05363df9.1920x1080.jpg?t=1782813501"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1435790/ss_95d843b66c434f308eff367082b004ffeb95ac49.1920x1080.jpg?t=1782813501"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1435790/ss_b0aec2e77b0cf58cd57a9dda617daa96273672f8.1920x1080.jpg?t=1782813501"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1435790/ss_451181f4ed93a55f303a0bd03053fb2690f13bfe.1920x1080.jpg?t=1782813501"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1435790/ss_0edded8a5eee1fe06254b8011666ba3e33cda285.1920x1080.jpg?t=1782813501"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1435790/ss_c77fdc1e077cda5354cc1f2237350bfbcb200951.1920x1080.jpg?t=1782813501"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1435790/ss_107c8e6394d0fa0a438a20ee0f5c41bc37a3e8fa.1920x1080.jpg?t=1782813501"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Escape Simulator - Trailer 2026",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257343662/29cd0498bf76fd4b44b637e3db62b7c2feb5f503/movie_600x337.jpg?t=1779831577",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1435790/392387766/b367a6b759e2ae0b9e7e44d5423f3111ca8eeb4c/1779830347/dash_h264.mpd?t=1779831577"
+    },
+    {
+      "name": "Escape Simulator - VR UPDATE - OUT NOW!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257007254/movie.293x165.jpg?t=1779831578",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1435790/673670/6d9217307c137804fcd46b52ab43d3a1574e74d4/1750688008/dash_h264.mpd?t=1779831578"
+    },
+    {
+      "name": "DaVinci DLC",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256934553/movie.293x165.jpg?t=1712073629",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1435790/546124/ece47792b4114bf8fbb913d82f11ddda3cdfbb17/1750687978/dash_h264.mpd?t=1712073629"
+    }
+  ],
+  "metacritic": {
+    "score": 82,
+    "url": "https://www.metacritic.com/game/pc/escape-simulator?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1435790,
+    "store_url": "https://store.steampowered.com/app/1435790/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Tracked Controller Support",
+      "VR Supported",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Input API Support",
+      "Steam Cloud",
+      "Stats",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Puzzle",
+      "Co-op",
+      "Multiplayer",
+      "Escape Room",
+      "First-Person",
+      "Adventure",
+      "Online Co-Op",
+      "Mystery",
+      "Family Friendly",
+      "Controller",
+      "Singleplayer",
+      "Simulation",
+      "Casual",
+      "Indie",
+      "VR",
+      "Point & Click",
+      "Level Editor",
+      "Investigation",
+      "Story Rich",
+      "Exploration"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 18009,
+    "review_negative": 1164,
+    "review_total": 19173,
+    "review_positive_percent": 93.93
+  }
+}

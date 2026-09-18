@@ -1,0 +1,192 @@
+{
+  "key": "chernobylite-complete-edition",
+  "name": "Chernobylite Complete Edition",
+  "description": "Chernobylite is a science-fiction survival horror RPG. Set in the hyper-realistic, 3D-scanned wasteland of Chernobyl’s Exclusion Zone, explore a non-linear storyline in your search to uncover the truth of your tortured past.",
+  "developers": [
+    "The Farm 51"
+  ],
+  "publishers": [
+    "The Farm 51"
+  ],
+  "release_date": "2021-07-28",
+  "website": "https://www.chernobylgame.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "simulation"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ChernobylGame.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "ChernobylGame.exe",
+          "description": "Chernobylite Enhanced Edition (DirectX 12)",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "ChernobylGame/Saved/SaveGames",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Chernobylite Complete Edition",
+    "ChernobylGame"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1016800/3c733253b4956d49f8bea1aee92ce29abc1cd2d9.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/ss_85f3a7a65bb5968281de763f5c763112709bae41.1920x1080.jpg?t=1741257112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/ss_ecd582120d35c0baceb6a4e4e66710785eea1377.1920x1080.jpg?t=1741257112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/ss_2b827893b101c7d434177b463c364a955933330f.1920x1080.jpg?t=1741257112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/ss_4ac61df3f65418ba29f12d693a5e00cc5327134e.1920x1080.jpg?t=1741257112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/ss_daffdd44ac34dc8c0effa17f82f7806cd5ece5eb.1920x1080.jpg?t=1741257112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/ss_5ce28dae4e05afb82b2b4eb0b899abf8f3c5464d.1920x1080.jpg?t=1741257112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/ss_19b7cf613c1d9585057936acf51add6aeb0bc8eb.1920x1080.jpg?t=1741257112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/ss_5ba9caaf55ea86961d64437d50c1f084168cdd03.1920x1080.jpg?t=1741257112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/ss_c889b08b99a583ca93ac1b7ec801eee4bc14e723.1920x1080.jpg?t=1741257112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/ss_6b7379bfd372c9bdc015417cb435240e670c402d.1920x1080.jpg?t=1741257112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/ss_a366c6ec7ac595a03864521c2fa4fe8c3fbe6a92.1920x1080.jpg?t=1741257112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/ss_f4ac46d8dcc440075dd92e712bf1b601408b27f6.1920x1080.jpg?t=1741257112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/ss_463d16e57ce459c935d35f3973e1b4b3414eecd7.1920x1080.jpg?t=1741257112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/ss_9fe36a7201909f49d0ffe11f146317a86643ef75.1920x1080.jpg?t=1741257112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/ss_27651c8e83ffc6481f652f75f4de5a8cc9e2d89c.1920x1080.jpg?t=1741257112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/ss_c35532fecf7c055c847a617a0b3758a5a78ab826.1920x1080.jpg?t=1741257112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/ss_463a34bd3f00d5735e85135d374932ff2560117c.1920x1080.jpg?t=1741257112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/ss_9b9914866c96030e4c2b397e6bf1e9d661ca9b0c.1920x1080.jpg?t=1741257112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/ss_25d7574c3f871cf8449f4b77bcb1faece355e7e0.1920x1080.jpg?t=1741257112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/ss_934c089698787ccf9dc18def71b32f72eb58a18f.1920x1080.jpg?t=1741257112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/ss_180d1c9f152dbf4b6429c789f9d80fd6eec05617.1920x1080.jpg?t=1741257112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/ss_40f1a338e0dc5604f8f7d0f9de78dfbb868c5078.1920x1080.jpg?t=1741257112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/ss_c49c1e7939fe9690ff3682118740736358979680.1920x1080.jpg?t=1741257112"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Chernobylite Overview Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257074480/8849d92661d93f7b8d2a4ee2b3ef56ac8d13f9a9/movie_600x337.jpg?t=1731868110",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1016800/787340/b3427af8c423f79e841a3f8630aee2ae2872f45d/1750606475/dash_h264.mpd?t=1731868110"
+    },
+    {
+      "name": "Chernobylite Complete Edition",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257027259/movie.293x165.jpg?t=1717175487",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1016800/707464/b09700566d97a5b6ce25b7a7ece93abf7f292111/1750606458/dash_h264.mpd?t=1717175487"
+    }
+  ],
+  "metacritic": {
+    "score": 75,
+    "url": "https://www.metacritic.com/game/pc/chernobylite?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1016800,
+    "store_url": "https://store.steampowered.com/app/1016800/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 12645,
+    "review_negative": 2770,
+    "review_total": 15415,
+    "review_positive_percent": 82.03
+  }
+}

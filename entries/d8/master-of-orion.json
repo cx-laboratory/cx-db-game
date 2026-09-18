@@ -1,0 +1,281 @@
+{
+  "key": "master-of-orion",
+  "name": "Master of Orion",
+  "description": "The ascendant spacefaring 4X strategy game returns! A new chapter in the epic Master of Orion saga is poised to once again capture the imaginations of millions of gamers.",
+  "developers": [
+    "NGD Studios"
+  ],
+  "publishers": [
+    "Wargaming Labs"
+  ],
+  "release_date": "2016-08-26",
+  "website": "http://www.masteroforion.com",
+  "tags": [
+    "strategy",
+    "multiplayer",
+    "4x",
+    "space",
+    "turn-based",
+    "sci-fi",
+    "singleplayer",
+    "grand-strategy",
+    "classic",
+    "remake",
+    "early-access",
+    "turn-based-strategy",
+    "action",
+    "atmospheric",
+    "co-op",
+    "rts",
+    "moddable"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "czech",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "MasterOfOrion.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Cloud/{64BitSteamID}",
+          "pattern": "*.save",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Cloud/{64BitSteamID}",
+          "pattern": "*.cfg",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Cloud/{64BitSteamID}",
+          "pattern": "*.data",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "MasterOfOrion.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Cloud/{64BitSteamID}",
+          "pattern": "*.save",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Cloud/{64BitSteamID}",
+          "pattern": "*.cfg",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Cloud/{64BitSteamID}",
+          "pattern": "*.data",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "MasterOfOrion.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Cloud/{64BitSteamID}",
+          "pattern": "*.save",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Cloud/{64BitSteamID}",
+          "pattern": "*.cfg",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Cloud/{64BitSteamID}",
+          "pattern": "*.data",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Master of Orion",
+    "MasterOfOrion",
+    "MasterOfOrion.app",
+    "MasterOfOrion.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/298050/4d7ef316d23a8831bdd9d0590a036ea1652cb3e6.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298050/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298050/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298050/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298050/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298050/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298050/ss_ce220784b07e57dc730653866571752aa18202a9.1920x1080.jpg?t=1708071557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298050/ss_4a945552cf9ac444993efd3e615557b1a3db2895.1920x1080.jpg?t=1708071557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298050/ss_efa74a039428e702ee83a32cad654976fd891e0f.1920x1080.jpg?t=1708071557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298050/ss_c23eb72767d971995f4a5d418cc4dd981519439a.1920x1080.jpg?t=1708071557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298050/ss_bc7187f21bcad6436a97bd53f4f5e5e8f84a9375.1920x1080.jpg?t=1708071557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298050/ss_972102648b3cd53fb4446d1c66e89dcfe93cd65c.1920x1080.jpg?t=1708071557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298050/ss_144af4e8ab037c8492bd7dae24e79b86bceeb85f.1920x1080.jpg?t=1708071557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298050/ss_630cf4306d7e8d841c52aea0fb82014a7ec4c22c.1920x1080.jpg?t=1708071557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298050/ss_2d035e011923fec7353cbd5dca138f1e7b679bc8.1920x1080.jpg?t=1708071557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298050/ss_25d25f74adda066e2001b5e9f68e9b9cd31a9d0c.1920x1080.jpg?t=1708071557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298050/ss_80c6dd7ffa2263d745d95155834eaff81f319e2a.1920x1080.jpg?t=1708071557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298050/ss_36a74d9279a81a66aa7f263ad0e52416c5ce0c55.1920x1080.jpg?t=1708071557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298050/ss_ed106ed23f103dbd75d8daa12ccfa6f011e35339.1920x1080.jpg?t=1708071557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298050/ss_f87d2ef22967952eae53e8cc0e6bc9cccb6b4e12.1920x1080.jpg?t=1708071557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298050/ss_44040065d3f7c3943be88ac93462341a1a2fd230.1920x1080.jpg?t=1708071557"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Standard Edition Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256669602/movie.293x165.jpg?t=1472144502",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/298050/70316/ef918ed0e71f521137f55ed0d77471a4f61e02b2/1750503309/dash_h264.mpd?t=1472144502"
+    },
+    {
+      "name": "Master of Orion Collector's Edition Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256661139/movie.293x165.jpg?t=1456600063",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/298050/53135/1ebd6f90ce983ba9b3a6a511f84213ab521a3319/1750503300/dash_h264.mpd?t=1456600063"
+    },
+    {
+      "name": "Master of Orion Early Access 1 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256660983/movie.293x165.jpg?t=1456372538",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/298050/52740/73198589fb42a7eed83da612f719e2442ba315bf/1750503282/dash_h264.mpd?t=1456372538"
+    },
+    {
+      "name": "Master of Orion Voice Actors Revealed",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256660811/movie.293x165.jpg?t=1455796974",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/298050/52424/83f0779bc14644e9d05c0a7bffbd8ec7aae913d8/1750503269/dash_h264.mpd?t=1455796974"
+    },
+    {
+      "name": "Announcement trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2040176/movie.293x165.jpg?t=1447376707",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/298050/37961/33c78b020c00932ad4ebb4b01bd96fe95c463ce1/1750503264/dash_h264.mpd?t=1447376707"
+    }
+  ],
+  "metacritic": {
+    "score": 74,
+    "url": "https://www.metacritic.com/game/pc/master-of-orion?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 298050,
+    "store_url": "https://store.steampowered.com/app/298050/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Stats",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "4X",
+      "Space",
+      "Turn-Based",
+      "Sci-fi",
+      "Multiplayer",
+      "Singleplayer",
+      "Grand Strategy",
+      "Classic",
+      "Remake",
+      "Early Access",
+      "Turn-Based Strategy",
+      "Action",
+      "Atmospheric",
+      "Co-op",
+      "RTS",
+      "Moddable"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 6288,
+    "review_negative": 1863,
+    "review_total": 8151,
+    "review_positive_percent": 77.14
+  }
+}

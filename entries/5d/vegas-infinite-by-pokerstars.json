@@ -1,0 +1,157 @@
+{
+  "key": "vegas-infinite-by-pokerstars",
+  "name": "Vegas Infinite by PokerStars",
+  "description": "PokerStars presents Vegas Infinite, a world of entertainment with no limits. Leap into VR or PC with no headset required! Take on the house at blackjack and roulette. Light up the dice at craps. Play dazzling slots and challenge real players at authentic poker. Your seat is open.",
+  "developers": [
+    "Lucky VR Inc."
+  ],
+  "publishers": [
+    "The Stars Group Inc."
+  ],
+  "release_date": "2023-11-11",
+  "website": "https://www.vegasinfinite.com/",
+  "tags": [
+    "casual",
+    "strategy",
+    "free-to-play",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "vr",
+    "gambling",
+    "card-game",
+    "poker"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "PokerstarsVR_Bootstrap.exe",
+          "description": "Vegas Infinite by PokerStars in VR",
+          "type": "option1"
+        },
+        {
+          "executable": "PokerStarsVR.exe",
+          "description": "OG",
+          "type": "vr"
+        },
+        {
+          "executable": "PokerStarsVR.exe",
+          "description": "OG",
+          "type": "vr"
+        },
+        {
+          "executable": "PokerstarsVR_Bootstrap.exe",
+          "description": "Vegas Infinite by PokerStars in Desktop (Non VR)",
+          "type": "option2"
+        },
+        {
+          "executable": "PokerStarsVR.exe",
+          "description": "Steam Deck Mode",
+          "type": "option1"
+        },
+        {
+          "executable": "PokerStarsVR.exe",
+          "description": "No EAC - Non VR",
+          "type": "option2"
+        },
+        {
+          "executable": "PokerStarsVR.exe",
+          "description": "No EAC - VR",
+          "type": "vr"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Vegas Infinite by PokerStars",
+    "PokerstarsVR_Bootstrap",
+    "PokerStarsVR"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/886250/44f9bb13c08eed9e1e8b3d467c71a784bae4989b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886250/138611d5a12b0c64c4b5799ed32f67537be82083/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886250/962680be5c6bf9692ca34549392398d5ba4cc53a/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886250/49e3ddef2022062f54a1aad7d42bdcaec57e7dfa/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886250/bfb8f71d53677dad1a1b1406c1122e78b53de97c/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886250/d90d7054a41f08f94efc9421222ecd66c05414e5/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886250/793c1b40b514e351488878875b3ae2b859b66c6a/ss_793c1b40b514e351488878875b3ae2b859b66c6a.1920x1080.jpg?t=1781296183"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886250/ss_f965b2713f988605ce2c8bc61e62275f97b77cdd.1920x1080.jpg?t=1781296183"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886250/fb450546c28fe5deba3470dadece2f8c0428e3f0/ss_fb450546c28fe5deba3470dadece2f8c0428e3f0.1920x1080.jpg?t=1781296183"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886250/e89446850d9a1f84605cfe4764b59ba30945c58f/ss_e89446850d9a1f84605cfe4764b59ba30945c58f.1920x1080.jpg?t=1781296183"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886250/08a70488bb9b8d6b1c950d063db8d44da9bf1229/ss_08a70488bb9b8d6b1c950d063db8d44da9bf1229.1920x1080.jpg?t=1781296183"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886250/988b05951641d646f30d7738a3ff8a0e14b64cf3/ss_988b05951641d646f30d7738a3ff8a0e14b64cf3.1920x1080.jpg?t=1781296183"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Vegas Infinite by PokerStars",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257305020/c10bbb94233c6bd61fe37eafdca8e124e75448ae/movie_600x337.jpg?t=1773769820",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/886250/196523946/5cee7ee06107c677dcc718a313107257220d8f7c/1773768645/dash_h264.mpd?t=1773769820"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 886250,
+    "store_url": "https://store.steampowered.com/app/886250/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Casual",
+      "Strategy",
+      "Free To Play"
+    ],
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Tracked Controller Support",
+      "VR Supported",
+      "In-App Purchases",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "VR",
+      "Casual",
+      "Strategy",
+      "Gambling",
+      "Card Game",
+      "Multiplayer",
+      "Poker"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 6499,
+    "review_negative": 1719,
+    "review_total": 8218,
+    "review_positive_percent": 79.08
+  }
+}

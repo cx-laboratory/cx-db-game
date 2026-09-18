@@ -1,0 +1,204 @@
+{
+  "key": "orcs-must-die-3",
+  "name": "Orcs Must Die! 3",
+  "description": "Slice, burn, toss, zap, grind and gib massive hordes of repugnant orcs in this long-awaited successor to the award-winning Orcs Must Die! series.",
+  "developers": [
+    "Robot Entertainment"
+  ],
+  "publishers": [
+    "Robot Entertainment"
+  ],
+  "release_date": "2021-07-23",
+  "website": "https://robotentertainment.com/omd3",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "strategy",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "tower-defense",
+    "third-person-shooter",
+    "pve",
+    "third-person",
+    "3d",
+    "funny",
+    "fantasy",
+    "co-op-campaign",
+    "combat",
+    "physics",
+    "singleplayer",
+    "stylized",
+    "comedy",
+    "cartoony"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "czech",
+    "turkish",
+    "arabic",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Orcs Must Die! 3.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "OMD/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Robot Entertainment/Orcs Must Die! 3/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Orcs Must Die! 3"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1522820/e637d019db32c830fe82c663644f8d3a46072c15.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1522820/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1522820/35f51acb333df3d12e5115d4600d871c3e1f9e4d/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1522820/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1522820/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1522820/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1522820/ss_0c7c33c345a7a5d96246ce97a4d9cb87671cf134.1920x1080.jpg?t=1726499308"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1522820/ss_233f151eca027215270cd6133334971039cd5d1d.1920x1080.jpg?t=1726499308"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1522820/ss_9d2490f86172180c3b44d92ed3bf9e1af5839830.1920x1080.jpg?t=1726499308"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1522820/ss_84cda1b106b48226eb6d5aa5ab6f7bde7c723da8.1920x1080.jpg?t=1726499308"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1522820/ss_1d34463631885c8f65af3e75241fbd6744c16616.1920x1080.jpg?t=1726499308"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1522820/ss_7a775f23aeb51c70b5728979a408a6e9e1f3f9dc.1920x1080.jpg?t=1726499308"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1522820/ss_59e9806b4db46f539f7327d887694ee3fac3e984.1920x1080.jpg?t=1726499308"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1522820/ss_348355ad4aee70edccaa3da05939e5ebc5fbae50.1920x1080.jpg?t=1726499308"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1522820/ss_3b08480f7631fd5e4e540dc686219d7c93e3bd39.1920x1080.jpg?t=1726499308"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1522820/ss_abf9380dd511e9ce460029a1fa37641fa4f30d84.1920x1080.jpg?t=1726499308"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256842963/movie.293x165.jpg?t=1627049067",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1522820/384809/495a788af511b8b53430483423f2d8ad9d2777c0/1750697804/dash_h264.mpd?t=1627049067"
+    },
+    {
+      "name": "Announce Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256835791/movie.293x165.jpg?t=1623619680",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1522820/371709/2d1a701147c4d04c5be885e6c632985a5e31ca42/1750697798/dash_h264.mpd?t=1623619680"
+    },
+    {
+      "name": "Previously on OMD!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256833492/movie.293x165.jpg?t=1623619688",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1522820/367426/3697b592a19af37a24cb25d4f440ddfc04cd5425/1750697788/dash_h264.mpd?t=1623619688"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1522820,
+    "store_url": "https://store.steampowered.com/app/1522820/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Tower Defense",
+      "Co-op",
+      "Strategy",
+      "Third-Person Shooter",
+      "PvE",
+      "Action",
+      "Multiplayer",
+      "Third Person",
+      "Online Co-Op",
+      "3D",
+      "Funny",
+      "Fantasy",
+      "Co-op Campaign",
+      "Adventure",
+      "Combat",
+      "Physics",
+      "Singleplayer",
+      "Stylized",
+      "Comedy",
+      "Cartoony"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 12704,
+    "review_negative": 2102,
+    "review_total": 14806,
+    "review_positive_percent": 85.8
+  }
+}

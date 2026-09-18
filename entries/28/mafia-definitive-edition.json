@@ -1,0 +1,245 @@
+{
+  "key": "mafia-definitive-edition",
+  "name": "Mafia: Definitive Edition",
+  "description": "An inadvertent brush with the mob thrusts cabdriver Tommy Angelo into the world of organized crime. Initially uneasy about falling in with the Salieri family, the rewards become too big to ignore.",
+  "developers": [
+    "Hangar 13"
+  ],
+  "publishers": [
+    "2K"
+  ],
+  "release_date": "2020-09-25",
+  "website": "https://mafia.2k.com/",
+  "tags": [
+    "action",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "czech",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "spanish": "Mafia: Edición Definitiva",
+    "polish": "Mafia: Edycja Ostateczna",
+    "czech": "Mafia: Definitivní edice",
+    "japanese": "マフィア コンプリート・エディション",
+    "koreana": "마피아 데피니티브 에디션",
+    "tchinese": " 《四海兄弟：決定版》",
+    "schinese": " 《四海兄弟: 最终版》​"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "scotch_showcase.exe",
+          "description": "Play Mafia: Definitive Edition Age Rating",
+          "type": "none"
+        },
+        {
+          "executable": "Scotch_Master.exe",
+          "description": "Play Mafia: Definitive Edition Master",
+          "type": "none"
+        },
+        {
+          "executable": "scotch_profiling.exe",
+          "description": "Play Mafia: Definitive Edition DevSaves",
+          "type": "none"
+        },
+        {
+          "executable": "launcher.exe",
+          "description": "Play Mafia: Definitive Edition Launcher",
+          "type": "none"
+        },
+        {
+          "executable": "launcher.exe",
+          "description": "Play Mafia: Definitive Edition Launcher",
+          "type": "none"
+        },
+        {
+          "executable": "Scotch_release.exe",
+          "description": "Play Mafia: Definitive Edition DevSaves",
+          "type": "none"
+        },
+        {
+          "executable": "Scotch_profiling.exe",
+          "description": "Play Mafia: Definitive Edition DevSaves",
+          "type": "none"
+        },
+        {
+          "executable": "scotch_showcase.exe",
+          "description": "Play Mafia: Definitive Edition Age Rating",
+          "type": "none"
+        },
+        {
+          "executable": "\\2KLauncher\\LauncherPatcher.exe",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "launcher.exe",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "mafiadefinitiveedition.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "launcher.exe",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "launcher.exe",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "launcher.exe",
+          "description": "Mafia: Definitive Edition Launcher",
+          "type": "option1"
+        },
+        {
+          "executable": "Scotch_profiling.exe",
+          "description": "Play Mafia: Definitive Edition DevSaves",
+          "type": "none"
+        },
+        {
+          "executable": "launcher.exe",
+          "description": "Play Mafia: Definitive Edition Launcher",
+          "type": "none"
+        },
+        {
+          "executable": "\\2KLauncher\\LauncherPatcher.exe",
+          "description": "Launcher Patcher",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/Mafia Definitive Edition/Data/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/Mafia Definitive Edition/Data/{64BitSteamID}",
+          "pattern": "*.pf",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Mafia: Definitive Edition",
+    "scotch_showcase",
+    "Scotch_Master",
+    "scotch_profiling",
+    "launcher",
+    "Scotch_release",
+    "\\2KLauncher\\LauncherPatcher",
+    "mafiadefinitiveedition",
+    "Mafia: Edición Definitiva",
+    "Mafia: Edycja Ostateczna",
+    "Mafia: Definitivní edice",
+    "マフィア コンプリート・エディション",
+    "마피아 데피니티브 에디션",
+    "《四海兄弟：決定版》",
+    "《四海兄弟: 最终版》​"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1030840/883ceebf7d8ebce37c9244a62777ef4a800393ce.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/ss_f531c551d9794deafc1e45421b70e8d4c254aaca.1920x1080.jpg?t=1781130425"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/ss_c767fdc53c38f3a33214d27157aff6025bf38e58.1920x1080.jpg?t=1781130425"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/ss_53523304d2d0f9846c9c27059334629e8a83144e.1920x1080.jpg?t=1781130425"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/ss_010d8fc827531edf76010106acb78a75188db373.1920x1080.jpg?t=1781130425"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/ss_b78562d5fd27b42dc22b49c03c4d0bb5c0a2f043.1920x1080.jpg?t=1781130425"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/ss_26c3a97744cc90ee306b367ebd941146057c5893.1920x1080.jpg?t=1781130425"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/ss_a542b5e16973c6681192977fb0942e3dfe5b21de.1920x1080.jpg?t=1781130425"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/ss_1fbee8b68da144230bb462c48cd4a6e99d5416c4.1920x1080.jpg?t=1781130425"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/ss_7a147e0dd092400229c6c1fd513625a62ae9a4eb.1920x1080.jpg?t=1781130425"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Mafia DE Accolades - ESRB - EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257047947/movie.293x165.jpg?t=1724260130",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1030840/743333/7baa5ff2102429fa367827c39da2fcce1cb1c134/1750608657/dash_h264.mpd?t=1724260130"
+    }
+  ],
+  "metacritic": {
+    "score": 78,
+    "url": "https://www.metacritic.com/game/pc/mafia-definitive-edition?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1030840,
+    "store_url": "https://store.steampowered.com/app/1030840/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 94290,
+    "review_negative": 14282,
+    "review_total": 108572,
+    "review_positive_percent": 86.85
+  }
+}

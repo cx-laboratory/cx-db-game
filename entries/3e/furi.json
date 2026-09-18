@@ -1,0 +1,196 @@
+{
+  "key": "furi",
+  "name": "Furi",
+  "description": "The jailer is the key, kill him and you’ll be free. Fight your way free in this ultra-responsive, fast-paced sword-fighting and dual-stick shooting game.",
+  "developers": [
+    "The Game Bakers"
+  ],
+  "publishers": [
+    "The Game Bakers"
+  ],
+  "release_date": "2016-07-05",
+  "website": "http://www.furigame.com/",
+  "tags": [
+    "action",
+    "indie",
+    "bullet-hell",
+    "hack-and-slash",
+    "difficult",
+    "boss-rush",
+    "beat-em-up",
+    "shoot-em-up",
+    "top-down",
+    "sci-fi",
+    "third-person",
+    "atmospheric",
+    "fast-paced",
+    "controller",
+    "cyberpunk",
+    "story-rich",
+    "singleplayer",
+    "violent",
+    "replay-value",
+    "great-soundtrack"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "dutch",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Furi.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "TheGameBakers\\Furi",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Furi"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/423230/85ba3f445459796811d4ea9596914e77dcc0a082.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423230/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423230/0b02c4f335b4d235e9928f06c792ab71a972b378/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423230/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423230/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423230/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423230/ss_99a46681e5cbf7078be1e8cb22c7b885b6dcbc54.1920x1080.jpg?t=1769717975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423230/ss_6df6ec0ab472fffe1d18a4dce7ec9b91f44411cc.1920x1080.jpg?t=1769717975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423230/ss_e84d81c8fd6ab25f7f91e499e9ffe728e6ea5a90.1920x1080.jpg?t=1769717975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423230/ss_981ce381433948666cc6ed4c611f20cc3d567578.1920x1080.jpg?t=1769717975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423230/ss_8eb0947db73b59a2fb20e6a961362bc6eb909759.1920x1080.jpg?t=1769717975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423230/ss_c8e726dc261e4180224d5f0d459e609390594c8e.1920x1080.jpg?t=1769717975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423230/ss_6a3030e27c35fead4be7ed87e22d9c78e577bf4b.1920x1080.jpg?t=1769717975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423230/ss_3d8b6b274fd1b425bed2be44148bccd4f8325dcd.1920x1080.jpg?t=1769717975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423230/ss_7abe8bd3592cd44cef89b1b7c343c486dfd23997.1920x1080.jpg?t=1769717975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423230/ss_7f5fa3d7fe6c4e144f9103251b3fc338e331004b.1920x1080.jpg?t=1769717975"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256666510/f1f25dda18b1272188efa74607aa2700b50ed062/movie_600x337.jpg?t=1754041311",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/423230/1907602080/fefdce7b3430b1c9f04ceab8f10e4224c0572fe2/1754036499/dash_h264.mpd?t=1754041311"
+    },
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256662537/6f92e3437c423dc960b64e9207cde64a8dda0910/movie_600x337.jpg?t=1754041316",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/423230/597256301/ed64df2d84107a34bbfdfee86f12c5ee6cd7ceb6/1754037910/dash_h264.mpd?t=1754041316"
+    },
+    {
+      "name": "Freedom Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256747178/080f4c4cb1302cddd31422e60f87243eefaadfda/movie_600x337.jpg?t=1754041313",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/423230/1903786611/935933a4e048ece9d2f29de541791f009faf186c/1754036664/dash_h264.mpd?t=1754041313"
+    },
+    {
+      "name": "Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256662536/8b018434d8f174380122a2162d92f1f8033534a1/movie_600x337.jpg?t=1754041319",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/423230/702323666/b52b6c2559b58546085f9ec91af3fd43b2975e07/1754039597/dash_h264.mpd?t=1754041319"
+    }
+  ],
+  "metacritic": {
+    "score": 76,
+    "url": "https://www.metacritic.com/game/pc/furi?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 423230,
+    "store_url": "https://store.steampowered.com/app/423230/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Gamepad Recommended",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Bullet Hell",
+      "Hack and Slash",
+      "Difficult",
+      "Boss Rush",
+      "Beat 'em up",
+      "Shoot 'Em Up",
+      "Top-Down",
+      "Sci-fi",
+      "Third Person",
+      "Atmospheric",
+      "Action",
+      "Fast-Paced",
+      "Controller",
+      "Cyberpunk",
+      "Story Rich",
+      "Singleplayer",
+      "Violent",
+      "Replay Value",
+      "Great Soundtrack",
+      "Indie"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 12532,
+    "review_negative": 1398,
+    "review_total": 13930,
+    "review_positive_percent": 89.96
+  }
+}

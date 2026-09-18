@@ -1,0 +1,123 @@
+{
+  "key": "metal-gear-solid-3-snake-eater-master-collection-version",
+  "name": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
+  "description": "Metal Gear Solid 3: Snake Eater is the origin story of Naked Snake and his mentor The Boss and the fifth title in the METAL GEAR series.",
+  "developers": [
+    "KONAMI"
+  ],
+  "publishers": [
+    "KONAMI"
+  ],
+  "release_date": "2023-10-24",
+  "website": "",
+  "tags": [
+    "action"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "japanese"
+  ],
+  "name_localized": {
+    "japanese": "METAL GEAR SOLID 3 SNAKE EATER (MASTER COLLECTION版)"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "launcher.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "mgs3_savedata_win/{64BitSteamID}",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
+    "launcher",
+    "METAL GEAR SOLID 3 SNAKE EATER (MASTER COLLECTION版)"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2131650/4f696d96306027da84ab3e965a8004a34443728f.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2131650/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2131650/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2131650/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2131650/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2131650/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2131650/ss_c970157813f8cc0ec6c3676895148159f27fe12c.1920x1080.jpg?t=1737564722"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2131650/ss_e6bea5a1cca88fef6c73d6476498002abb750a55.1920x1080.jpg?t=1737564722"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2131650/ss_95045b2b9f53a40a133a7e5c62694d057b003c99.1920x1080.jpg?t=1737564722"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2131650/ss_23299a04efa64683d840505a6b9f5af172bd4a37.1920x1080.jpg?t=1737564722"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2131650/ss_2bd15331d8481b43fee712f5aaa05fc85ea057f8.1920x1080.jpg?t=1737564722"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2131650/ss_818614ad9483b35e3a251bafc5ba0d4a5e186295.1920x1080.jpg?t=1737564722"
+    }
+  ],
+  "videos": [
+    {
+      "name": "METAL GEAR SOLID Legacy Series Part 1 | ft. David Hayter",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257007495/movie.293x165.jpg?t=1710519329",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2131650/674040/e32d88ab245ec92659ef0a6f8e1a692d76c11245/1750837083/dash_h264.mpd?t=1710519329"
+    },
+    {
+      "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.1 - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256979303/movie.293x165.jpg?t=1698872694",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2131650/624437/c8a5efabcee2a5c3c6e6c7bc4c4f9cc181b96def/1750837082/dash_h264.mpd?t=1698872694"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2131650,
+    "store_url": "https://store.steampowered.com/app/2131650/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Gamepad Recommended",
+      "DualShock Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 5928,
+    "review_negative": 725,
+    "review_total": 6653,
+    "review_positive_percent": 89.1
+  }
+}

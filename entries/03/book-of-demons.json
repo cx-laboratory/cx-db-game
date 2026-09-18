@@ -1,0 +1,214 @@
+{
+  "key": "book-of-demons",
+  "name": "Book of Demons",
+  "description": "Book of Demons is a Hack &amp; Slash in which YOU decide the length of quests. Wield magic cards instead of weapons and slay the armies of darkness in the dungeons below the Old Cathedral. Save the terror-stricken Paperverse from the clutches of the Archdemon himself!",
+  "developers": [
+    "Thing Trunk"
+  ],
+  "publishers": [
+    "Thing Trunk"
+  ],
+  "release_date": "2018-12-15",
+  "website": "http://www.return2games.com",
+  "tags": [
+    "action",
+    "adventure",
+    "casual",
+    "indie",
+    "rpg",
+    "dungeon-crawler",
+    "roguelike-deckbuilder",
+    "hack-and-slash",
+    "deckbuilding",
+    "singleplayer",
+    "isometric",
+    "action-rpg",
+    "dark-fantasy",
+    "fantasy",
+    "demons",
+    "card-game",
+    "action-adventure",
+    "roguelike",
+    "zombies",
+    "controller",
+    "atmospheric",
+    "incremental"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "polish",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "r2g_launcher.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Return2Games_WIP21",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Return 2 Games.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Return2Games_WIP21",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Book of Demons",
+    "r2g_launcher",
+    "Return 2 Games.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/449960/d1984fec656bac08a20b4fdd9d6c9e272295c5d7.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/449960/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/449960/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/449960/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/449960/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/449960/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/449960/ss_a9a284e77b1ebe46bd43cf6c788e833fa7e87ce0.1920x1080.jpg?t=1700648328"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/449960/ss_2ba9843a9d8fbba4baa9dcd5e7facf77040be1fa.1920x1080.jpg?t=1700648328"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/449960/ss_8583be9330977992ca1c15909f6b237dfa7b7c79.1920x1080.jpg?t=1700648328"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/449960/ss_06b1874fa3b12bdd54b95edefa012a521fcae864.1920x1080.jpg?t=1700648328"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/449960/ss_59b283fe30a44f2d959c052cf1f85b837438a131.1920x1080.jpg?t=1700648328"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/449960/ss_2e65287df509285b490d77b8c8fc3e30acc32b72.1920x1080.jpg?t=1700648328"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/449960/ss_59ae63a133860e341b0a3b32bf6bd8373267c1d2.1920x1080.jpg?t=1700648328"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/449960/ss_ea6709628272839542804a544c0b2a60b927c2b8.1920x1080.jpg?t=1700648328"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/449960/ss_24e42523ee5c33c363de081ba0e5f6bea3a744ea.1920x1080.jpg?t=1700648328"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/449960/ss_5ed62573ea944b8fb3638c13fd1af73dadabeed1.1920x1080.jpg?t=1700648328"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Early Access Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256667775/movie.293x165.jpg?t=1469722618",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/449960/66424/26dd9ebd51f38aa91ba1290f33aa272aebb17100/1751287042/dash_h264.mpd?t=1469722618"
+    },
+    {
+      "name": "Final Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256738289/movie.293x165.jpg?t=1544714198",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/449960/200780/ede3399965acec1de805ed76aa9ffb2f55e86f4c/1751287051/dash_h264.mpd?t=1544714198"
+    }
+  ],
+  "metacritic": {
+    "score": 72,
+    "url": "https://www.metacritic.com/game/pc/book-of-demons?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 449960,
+    "store_url": "https://store.steampowered.com/app/449960/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Captions available",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Input API Support",
+      "Steam Cloud",
+      "Stats",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Dungeon Crawler",
+      "Roguelike Deckbuilder",
+      "Hack and Slash",
+      "RPG",
+      "Deckbuilding",
+      "Singleplayer",
+      "Isometric",
+      "Action RPG",
+      "Dark Fantasy",
+      "Fantasy",
+      "Demons",
+      "Card Game",
+      "Action",
+      "Adventure",
+      "Action-Adventure",
+      "Roguelike",
+      "Zombies",
+      "Controller",
+      "Atmospheric",
+      "Incremental"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8556,
+    "review_negative": 896,
+    "review_total": 9452,
+    "review_positive_percent": 90.52
+  }
+}

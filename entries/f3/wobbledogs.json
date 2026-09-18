@@ -1,0 +1,213 @@
+{
+  "key": "wobbledogs",
+  "name": "Wobbledogs",
+  "description": "A 3D pet simulation where you raise your own personal hive of mutating dogs, physically simulated all the way down to their guts! Wobbledogs is a casual and chill sandbox for players of all ages who want to care for their very own virtual pets in a surprising, unique, and stress-free environment.",
+  "developers": [
+    "Animal Uprising"
+  ],
+  "publishers": [
+    "Secret Mode"
+  ],
+  "release_date": "2022-03-16",
+  "website": "http://www.wobbledogs.com/",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "dogs",
+    "wholesome",
+    "cute",
+    "sandbox",
+    "colorful",
+    "funny",
+    "family-friendly",
+    "life-sim",
+    "physics",
+    "singleplayer",
+    "3d",
+    "experimental",
+    "artificial-intelligence",
+    "procedural-generation",
+    "stylized",
+    "great-soundtrack",
+    "early-access"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese"
+  ],
+  "name_localized": {
+    "schinese": "摇摆狗狗"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Wobbledogs_Windows_64/Wobbledogs.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Wobbledogs_Windows_32/Wobbledogs.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Animal Uprising/Wobbledogs",
+          "pattern": "*.dat",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Wobbledogs.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Animal Uprising/Wobbledogs",
+          "pattern": "*.dat",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Wobbledogs",
+    "Wobbledogs_Windows_64/Wobbledogs",
+    "Wobbledogs_Windows_32/Wobbledogs",
+    "Wobbledogs.app",
+    "摇摆狗狗"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1424330/c8eea8a31d64262f43268465b4c1dad046bc3b1e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1424330/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1424330/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1424330/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1424330/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1424330/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1424330/ss_27afbac2ecd090a58e5023659784cdfbcf71ff12.1920x1080.jpg?t=1780400244"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1424330/ss_8769f086355a3e38dc137dfa1138dfa7e06001f1.1920x1080.jpg?t=1780400244"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1424330/ss_b10d95977a5ceb28b639db5eb1cbba35cf388d9b.1920x1080.jpg?t=1780400244"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1424330/ss_2f9d205fb873a69154f7d4daa372f48f8c3fae52.1920x1080.jpg?t=1780400244"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1424330/ss_8e25498e224dcd13298073eac787a22448f5a0ce.1920x1080.jpg?t=1780400244"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1424330/ss_f04e65a7a0708ef03b5de7c6fe362bc2dd2c75b1.1920x1080.jpg?t=1780400244"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1424330/ss_da4c42b5c00121141d7fd9f65f2ea60e66dbba3e.1920x1080.jpg?t=1780400244"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1424330/ss_7c1d0feb4ba10ec0ac38869239c7e4f8f33fc456.1920x1080.jpg?t=1780400244"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Wobbledog 1.0 Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256877768/movie.293x165.jpg?t=1647362225",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1424330/446866/421c0136b8eac0fe2f7def2bc39c47d86264c024/1750686713/dash_h264.mpd?t=1647362225"
+    },
+    {
+      "name": "Wobbledogs 1.0 Announce",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256875100/movie.293x165.jpg?t=1645544442",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1424330/442213/22f7082aa1b04f3c23730aa684a35f918a5a08a9/1750686709/dash_h264.mpd?t=1645544442"
+    },
+    {
+      "name": "Wobbledogs Early Access Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256820005/movie.293x165.jpg?t=1645606324",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1424330/343825/639e27b26349f6d18e6285e3eb7a018f6cc44f48/1750686702/dash_h264.mpd?t=1645606324"
+    },
+    {
+      "name": "Wobbledogs Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256809383/movie.293x165.jpg?t=1645606329",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1424330/326388/b480bc3e44b2f8ae2624273b067dec168a107fa3/1750686694/dash_h264.mpd?t=1645606329"
+    }
+  ],
+  "metacritic": {
+    "score": 79,
+    "url": "https://www.metacritic.com/game/pc/wobbledogs?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1424330,
+    "store_url": "https://store.steampowered.com/app/1424330/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Dogs",
+      "Wholesome",
+      "Cute",
+      "Sandbox",
+      "Simulation",
+      "Colorful",
+      "Funny",
+      "Family Friendly",
+      "Life Sim",
+      "Physics",
+      "Singleplayer",
+      "Casual",
+      "3D",
+      "Experimental",
+      "Artificial Intelligence",
+      "Indie",
+      "Procedural Generation",
+      "Stylized",
+      "Great Soundtrack",
+      "Early Access"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 14659,
+    "review_negative": 253,
+    "review_total": 14912,
+    "review_positive_percent": 98.3
+  }
+}

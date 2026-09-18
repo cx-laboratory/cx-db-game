@@ -1,0 +1,134 @@
+{
+  "key": "styx-master-of-shadows",
+  "name": "Styx: Master of Shadows",
+  "description": "Styx: Master of Shadows is an infiltration game with RPG elements taking place in a dark fantasy universe, where you sneak, steal and assassinate your way through as Styx, a Goblin two-centuries of age.",
+  "developers": [
+    "Cyanide Studio"
+  ],
+  "publishers": [
+    "Cyanide Studio"
+  ],
+  "release_date": "2014-10-07",
+  "website": "http://www.styx-thegame.com/",
+  "tags": [
+    "action"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian",
+    "polish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Binaries\\Win32\\StyxGame.exe",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "Binaries\\Win64\\StyxGame.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Styx: Master of Shadows",
+    "Binaries\\Win32\\StyxGame",
+    "Binaries\\Win64\\StyxGame"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/242640/674a59002023382bb99865793c1f04c7b76f520e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242640/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242640/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242640/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242640/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242640/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242640/ss_6647bc7fa10555eb13c581864b9bd1d637a2e568.1920x1080.jpg?t=1778174590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242640/ss_cb576dd0248a631777d26a60992fe3f95fe63f20.1920x1080.jpg?t=1778174590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242640/ss_f3408bb5c3af0b927041297a4cb07075a5bf67e4.1920x1080.jpg?t=1778174590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242640/ss_4f454e98acb970d8a429250632b0a6a86898fa5a.1920x1080.jpg?t=1778174590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242640/ss_0911fa2d227586bc9de8d84fb54c15438ca93404.1920x1080.jpg?t=1778174590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242640/ss_65bb99f320d66f96c4a6fc609dd93a707eed384b.1920x1080.jpg?t=1778174590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242640/ss_d5a4a006af53b43cd4efe0253dd30994a9e13f94.1920x1080.jpg?t=1778174590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242640/ss_ce1c9eb7dfd805bfc8b23ca6f48e817765c4d39f.1920x1080.jpg?t=1778174590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242640/ss_930078d1d298b51289ce7b79ffcd051af9a73bda.1920x1080.jpg?t=1778174590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242640/ss_09915312803511ca991ce48ecad55e3579e11a45.1920x1080.jpg?t=1778174590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242640/ss_e105b8c083f0d6836a9ff8e308557a73362a9299.1920x1080.jpg?t=1778174590"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Styx: Master of Shadows - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2034896/movie.293x165.jpg?t=1447364122",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/242640/26178/1f7289b943c54c5fee31bd86283088089274a568/1750486314/dash_h264.mpd?t=1447364122"
+    }
+  ],
+  "metacritic": {
+    "score": 71,
+    "url": "https://www.metacritic.com/game/pc/styx-master-of-shadows?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 242640,
+    "store_url": "https://store.steampowered.com/app/242640/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 9669,
+    "review_negative": 1944,
+    "review_total": 11613,
+    "review_positive_percent": 83.26
+  }
+}

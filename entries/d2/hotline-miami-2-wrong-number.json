@@ -1,0 +1,175 @@
+{
+  "key": "hotline-miami-2-wrong-number",
+  "name": "Hotline Miami 2: Wrong Number",
+  "description": "Hotline Miami 2: Wrong Number is the brutal conclusion to the Hotline Miami saga, set against a backdrop of escalating violence and retribution over spilled blood in the original game.",
+  "developers": [
+    "Dennaton Games"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "release_date": "2015-03-11",
+  "website": "http://www.hotlinemiami.com",
+  "tags": [
+    "action",
+    "indie"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "spanish",
+    "russian",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "火线迈阿密2：空号"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "HotlineMiami2.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "/",
+          "pattern": "savedata.vfs",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "HotlineMiami2.app/Contents/MacOS/HotlineMiami2",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "/",
+          "pattern": "savedata.vfs",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "HotlineMiami2",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "HotlineMiami2_32",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "/",
+          "pattern": "savedata.vfs",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Hotline Miami 2: Wrong Number",
+    "HotlineMiami2",
+    "HotlineMiami2.app/Contents/MacOS/HotlineMiami2",
+    "HotlineMiami2_32",
+    "火线迈阿密2：空号"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/274170/3fc78b615529f78cc24cea247c7b2ee50c551bbd.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274170/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274170/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274170/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274170/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274170/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274170/ss_b2a76d2c605c7e54bf3e2ba43f835698d0bd6441.1920x1080.jpg?t=1782406411"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274170/ss_7d408d8713d6bf44bca41098f3ac4b41cc7ea024.1920x1080.jpg?t=1782406411"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274170/ss_f32629d89b262b2913134483042a6ca78e2dbe83.1920x1080.jpg?t=1782406411"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274170/ss_2b7b82c0b00ec5b8db41eef69af943304141392a.1920x1080.jpg?t=1782406411"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274170/ss_d17f2f2e7b8cb2b58142e4eb58204a34b54073ee.1920x1080.jpg?t=1782406411"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274170/ss_e1ce66a8d740e120b27c9bca2b6f92c32f4db5ab.1920x1080.jpg?t=1782406411"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274170/ss_6cfa2463e35970d7f58835ed2c699a7df836bf5b.1920x1080.jpg?t=1782406411"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2032598/movie.293x165.jpg?t=1447362102",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/274170/21363/309ddb5fe1c9d40db9928b797de07f7c4c712f2f/1750500147/dash_h264.mpd?t=1447362102"
+    },
+    {
+      "name": "Teaser Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2032597/movie.293x165.jpg?t=1659054814",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/274170/21362/64544b5a854c4dc67629511ba061e05d54f80ef6/1750500130/dash_h264.mpd?t=1659054814"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 274170,
+    "store_url": "https://store.steampowered.com/app/274170/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Includes level editor",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 74140,
+    "review_negative": 4594,
+    "review_total": 78734,
+    "review_positive_percent": 94.17
+  }
+}

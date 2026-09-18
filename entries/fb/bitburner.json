@@ -1,0 +1,211 @@
+{
+  "key": "bitburner",
+  "name": "Bitburner",
+  "description": "Bitburner is a programming-based incremental game. Write scripts in JavaScript to automate gameplay, learn skills, play minigames, solve puzzles, and more in this cyberpunk text-based incremental RPG.",
+  "developers": [
+    "Fulcrum Games"
+  ],
+  "publishers": [
+    "Fulcrum Games"
+  ],
+  "release_date": "2021-12-11",
+  "website": "https://bitburner-official.github.io/",
+  "tags": [
+    "free-to-play",
+    "programming",
+    "idler",
+    "hacking",
+    "automation",
+    "text-based",
+    "cyberpunk",
+    "simulation",
+    "singleplayer",
+    "dystopian",
+    "puzzle",
+    "rpg",
+    "strategy",
+    "education",
+    "sandbox",
+    "incremental",
+    "strategy-rpg",
+    "character-customization",
+    "indie"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "bitburner.exe",
+          "description": "normally",
+          "type": "option1"
+        },
+        {
+          "executable": "bitburner.exe",
+          "description": "and kill all scripts at startup.",
+          "type": "option2"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "bitburner.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "bitburner",
+          "description": "--no-sandbox (diff flags for different linux distro)",
+          "type": "option1"
+        },
+        {
+          "executable": "bitburner",
+          "description": "no flags",
+          "type": "option2"
+        },
+        {
+          "executable": "bitburner",
+          "description": "--disable-seccomp-filter-sandbox",
+          "type": "option3"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Bitburner",
+    "bitburner",
+    "bitburner.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1812820/9555faf4b3f5883255f1d2b2bd99dd98bafa5cfd.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812820/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812820/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812820/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812820/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812820/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812820/ss_8e9e570615f3e64786f41d60dae1480392eaed11.1920x1080.jpg?t=1727842438"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812820/ss_4099845aff88c008271a099f55eacd868dad0461.1920x1080.jpg?t=1727842438"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812820/ss_8595dede43d745341ee3821c3a58d6ef3bcb9797.1920x1080.jpg?t=1727842438"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812820/ss_e112280e8f552d2ddff89cc3e673b3f6b9b5c8f3.1920x1080.jpg?t=1727842438"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812820/ss_5d6b98dc8379ff00cbdada5e6341107e8eef9d63.1920x1080.jpg?t=1727842438"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812820/ss_f68c730dd043be88553c208c9ffd6ea90e20d5d0.1920x1080.jpg?t=1727842438"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812820/ss_b7fa9106bd91578de026c3d59e86f2810239dcfc.1920x1080.jpg?t=1727842438"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812820/ss_32419a527c176cc13addc0d7d95742e6e41eb166.1920x1080.jpg?t=1727842438"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812820/ss_ffc59ec1160cf47812ec7d9513a2252cb666df96.1920x1080.jpg?t=1727842438"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812820/ss_c5bee5b9bbc1663482b478536e6ad4ab81d2a7bd.1920x1080.jpg?t=1727842438"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812820/ss_70936c5cdbbf2ae2569acb3f1d5a5c2c3767a332.1920x1080.jpg?t=1727842438"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812820/ss_930e4393bbb653b9c57942bad3425d793a770013.1920x1080.jpg?t=1727842438"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812820/ss_c752c992478517002fd822c5fb02073f0ba47023.1920x1080.jpg?t=1727842438"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812820/ss_30af18a1f27e8c2cd6b4dd2d8d8244f7bce74273.1920x1080.jpg?t=1727842438"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812820/ss_2e0785ae59badbb15dd4012a3b1b1ebba63db45b.1920x1080.jpg?t=1727842438"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812820/ss_0e9023916f923514d8f61996e3b565c4968d86b5.1920x1080.jpg?t=1727842438"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812820/ss_b8925ea99915480043d83233fd639c076afd9616.1920x1080.jpg?t=1727842438"
+    }
+  ],
+  "videos": [
+    {
+      "name": "BitburnerTrailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256860635/movie.293x165.jpg?t=1637973500",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1812820/417367/46ca8e5d5ec2f2709c57b8122e16ce45ecd4e329/1751033932/dash_h264.mpd?t=1637973500"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1812820,
+    "store_url": "https://store.steampowered.com/app/1812820/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Programming",
+      "Idler",
+      "Hacking",
+      "Automation",
+      "Free to Play",
+      "Text-Based",
+      "Cyberpunk",
+      "Simulation",
+      "Singleplayer",
+      "Dystopian ",
+      "Puzzle",
+      "RPG",
+      "Strategy",
+      "Education",
+      "Sandbox",
+      "Incremental",
+      "Strategy RPG",
+      "Character Customization",
+      "Indie",
+      "Psychological Horror"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 6930,
+    "review_negative": 364,
+    "review_total": 7294,
+    "review_positive_percent": 95.01
+  }
+}

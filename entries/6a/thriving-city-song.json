@@ -1,0 +1,247 @@
+{
+  "key": "thriving-city-song",
+  "name": "Thriving City: Song",
+  "description": "In 960 AD, the new Song Dynasty needs you! As magistrate, build a prosperous city from scratch. Develop bustling streets filled with businesses and entertainment, while navigating hidden crises of political strife and foreign invasions. How will you lead through these challenges?",
+  "developers": [
+    "White Star Studio"
+  ],
+  "publishers": [
+    "White Star Studio"
+  ],
+  "release_date": "2024-05-30",
+  "website": "http://www.whitestaaar.com/",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "strategy",
+    "city-builder",
+    "historical",
+    "resource-management",
+    "strategy-rpg",
+    "building",
+    "agriculture",
+    "quick-time-events",
+    "real-time-tactics",
+    "base-building",
+    "choices-matter",
+    "management",
+    "inventory-management",
+    "hand-drawn",
+    "mining",
+    "economy",
+    "trading",
+    "colorful"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "schinese"
+  ],
+  "name_localized": {
+    "schinese": "满庭芳：宋上繁华"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Song.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "WhiteStar\\Song",
+          "pattern": "*.record",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "WhiteStar\\Song",
+          "pattern": "*.record.tmp",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "WhiteStar\\Song",
+          "pattern": "*.tmp",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "WhiteStar\\Song",
+          "pattern": "*.index",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "WhiteStar\\Song",
+          "pattern": "*.index.tmp",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Song.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "WhiteStar\\Song",
+          "pattern": "*.record",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "WhiteStar\\Song",
+          "pattern": "*.record.tmp",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "WhiteStar\\Song",
+          "pattern": "*.tmp",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "WhiteStar\\Song",
+          "pattern": "*.index",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "WhiteStar\\Song",
+          "pattern": "*.index.tmp",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Thriving City: Song",
+    "Song",
+    "Song.app",
+    "满庭芳：宋上繁华"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1956800/1d5499baf238aad9dddf46a21727dca1f74abd0c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1956800/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1956800/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1956800/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1956800/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1956800/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1956800/ss_45c3b85286da463c6448d6e21d61f646842f0511.1920x1080.jpg?t=1777886745"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1956800/ss_0959e7a91b35900a7bd56265a33fc6df550ddea9.1920x1080.jpg?t=1777886745"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1956800/1a133fd09f5e01be5bda5f757b0c288fb563a2d5/ss_1a133fd09f5e01be5bda5f757b0c288fb563a2d5.1920x1080.jpg?t=1777886745"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1956800/6df2f82a2b76e5c3182059554a748b132e0d8416/ss_6df2f82a2b76e5c3182059554a748b132e0d8416.1920x1080.jpg?t=1777886745"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1956800/7a203099cc00a0a4a5f5b49b0336a058b62bab63/ss_7a203099cc00a0a4a5f5b49b0336a058b62bab63.1920x1080.jpg?t=1777886745"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1956800/ss_e6f283b4e3abc2c1f477004834bfa323f507586f.1920x1080.jpg?t=1777886745"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1956800/890b4223355eb6beddf83f2e820c8574e5e2362d/ss_890b4223355eb6beddf83f2e820c8574e5e2362d.1920x1080.jpg?t=1777886745"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1956800/a41ce09190934661fe224aafe4237d4047d3be08/ss_a41ce09190934661fe224aafe4237d4047d3be08.1920x1080.jpg?t=1777886745"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1956800/ss_037df0e52037c8e961d993088d36d4f23a1aee33.1920x1080.jpg?t=1777886745"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1956800/6da96a7ebba7e94a4f929981da726970a3dc4eb6/ss_6da96a7ebba7e94a4f929981da726970a3dc4eb6.1920x1080.jpg?t=1777886745"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1956800/deaa6439e554cfe2c7c2267f1db52e02d7042389/ss_deaa6439e554cfe2c7c2267f1db52e02d7042389.1920x1080.jpg?t=1777886745"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257205877/8fef668f79e5ba06a182baac9ecf1b27f1569123/movie_600x337.jpg?t=1758771695",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1956800/725510956/9cecf6c4c322882d18de94cace29c2f913bd5e70/1758767835/dash_h264.mpd?t=1758771695"
+    },
+    {
+      "name": "Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256940988/movie.293x165.jpg?t=1758771700",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1956800/557635/16ad71b89723813ed4b6352172a6078823b085d0/1750742640/dash_h264.mpd?t=1758771700"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1956800,
+    "store_url": "https://store.steampowered.com/app/1956800/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Workshop",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "City Builder",
+      "Strategy",
+      "Historical",
+      "Resource Management",
+      "Casual",
+      "Strategy RPG",
+      "Building",
+      "Agriculture",
+      "Quick-Time Events",
+      "Real Time Tactics",
+      "Base Building",
+      "Choices Matter",
+      "Management",
+      "Inventory Management",
+      "Hand-drawn",
+      "Mining",
+      "Economy",
+      "Trading",
+      "Colorful"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 2698,
+    "review_negative": 634,
+    "review_total": 3332,
+    "review_positive_percent": 80.97
+  }
+}

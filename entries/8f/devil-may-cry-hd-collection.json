@@ -1,0 +1,135 @@
+{
+  "key": "devil-may-cry-hd-collection",
+  "name": "Devil May Cry HD Collection",
+  "description": "The popular stylish action games Devil May Cry, Devil May Cry 2, and Devil May Cry 3 Special Edition return in one collection!",
+  "developers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "publishers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "release_date": "2018-03-14",
+  "website": "http://www.capcom.co.jp/devilhd/",
+  "tags": [
+    "action"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "dmcLauncher.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "SavesDir",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Devil May Cry HD Collection",
+    "dmcLauncher"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/631510/297594be98c289527e4234e217e1cfe6ede20400.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/631510/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/631510/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/631510/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/631510/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/631510/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/631510/ss_1f15356cacd05217af1ec75c5f410fea0f535f50.1920x1080.jpg?t=1768869867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/631510/ss_574049131f1497b38a440d4f963bb5d02b6a1dbf.1920x1080.jpg?t=1768869867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/631510/ss_08ef9a3fac955209f95dc37f0fded968300a7cc1.1920x1080.jpg?t=1768869867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/631510/ss_e455163e63f879d25423745c017ddd355ca41436.1920x1080.jpg?t=1768869867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/631510/ss_d54326db7cb0999850dbb81e6c5080e237e204b8.1920x1080.jpg?t=1768869867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/631510/ss_6735bc5539b9af12e40871d4ffd2610cd34fcf36.1920x1080.jpg?t=1768869867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/631510/ss_afdf9ccc801d22335cf04626c4faaa84b846f6c6.1920x1080.jpg?t=1768869867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/631510/ss_354ad36add032808ddfee5c9d6596faabfa8c024.1920x1080.jpg?t=1768869867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/631510/ss_49b3fc46fdfd6f33372d36b1836de4e5a10987dc.1920x1080.jpg?t=1768869867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/631510/ss_238353c52c599ca29643859a1b65521aa0e57644.1920x1080.jpg?t=1768869867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/631510/ss_7f5d6ddbfb052146d5cea38d9eece7100ffa2c03.1920x1080.jpg?t=1768869867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/631510/ss_85ca812dd9405fa3c396bf1c4d7787310b418267.1920x1080.jpg?t=1768869867"
+    }
+  ],
+  "videos": [
+    {
+      "name": "DMCHD123_Trailer_ESRB_Steam",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256708400/movie.293x165.jpg?t=1518545015",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/631510/146385/7d07d2ebe2ed3aff95901f1e78d5b35e692e97d2/1750564352/dash_h264.mpd?t=1518545015"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 631510,
+    "store_url": "https://store.steampowered.com/app/631510/",
+    "required_age": 18,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 22478,
+    "review_negative": 1626,
+    "review_total": 24104,
+    "review_positive_percent": 93.25
+  }
+}

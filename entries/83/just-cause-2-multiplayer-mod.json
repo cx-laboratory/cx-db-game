@@ -1,0 +1,122 @@
+{
+  "key": "just-cause-2-multiplayer-mod",
+  "name": "Just Cause 2: Multiplayer Mod",
+  "description": "JC2-MP is a project to bring multiplayer to Just Cause 2 in all of its magnificent glory. Imagine the chaos of normal Just Cause 2, then extending it out to dozens, hundreds, and even thousands of players.",
+  "developers": [
+    "Avalanche Studios"
+  ],
+  "publishers": [
+    "Square Enix"
+  ],
+  "release_date": "2013-12-17",
+  "website": "http://www.jc-mp.com",
+  "tags": [
+    "action",
+    "adventure",
+    "multiplayer"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French*",
+    "German*",
+    "Italian*",
+    "Spanish - Spain*",
+    "Polish",
+    "Russian*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "正当防卫2：多人模组"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "JcmpLauncher.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Just Cause 2: Multiplayer Mod",
+    "JcmpLauncher"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/259080/6cdb990bb1973c0ada2cd644d71ba0533b5d4e7e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/259080/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/259080/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/259080/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/259080/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/259080/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/259080/ss_858bb393b3608a1f8f1382475db2d1173c690b5f.1920x1080.jpg?t=1572375602"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/259080/ss_2e06593763666f64aa37e32dba6c2e55570ae368.1920x1080.jpg?t=1572375602"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/259080/ss_e849efebf516ae9e0bd01dc85b2cfa03d51236fe.1920x1080.jpg?t=1572375602"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/259080/ss_83e07394f9904372a9123f20a2c588ede123d47a.1920x1080.jpg?t=1572375602"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/259080/ss_654fc01f30601a4e6ea1079e22591b4aaae51407.1920x1080.jpg?t=1572375602"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/259080/ss_31b4f04424dd490647bbacf631c5f26f20047720.1920x1080.jpg?t=1572375602"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/259080/ss_0c8d39983e5e95883616bfab026a80e0c11a8356.1920x1080.jpg?t=1572375602"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/259080/ss_3b694cb09b9fd711519cc393f289f0e894d9991d.1920x1080.jpg?t=1572375602"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/259080/ss_87ed38989ea55e03203f696fdc7aba11901f8014.1920x1080.jpg?t=1572375602"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2030492/movie.293x165.jpg?t=1447359847",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/259080/16106/12c1a8bdfbff5b4cc78adc6efaf910923d766d06/1751249547/dash_h264.mpd?t=1447359847"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 259080,
+    "store_url": "https://store.steampowered.com/app/259080/",
+    "required_age": 17,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 13382,
+    "review_negative": 1232,
+    "review_total": 14614,
+    "review_positive_percent": 91.57
+  }
+}

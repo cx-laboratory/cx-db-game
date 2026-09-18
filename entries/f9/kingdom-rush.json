@@ -1,0 +1,261 @@
+{
+  "key": "kingdom-rush",
+  "name": "Kingdom Rush",
+  "description": "Get ready for an epic journey to defend your kingdom against hordes of orcs, trolls, evil wizards and other nasty fiends using a vast arsenal of towers and spells at your command!Fight on forests, mountains and wastelands, customizing your defensive strategy with different tower upgrades and specializations!",
+  "developers": [
+    "Ironhide Game Studio"
+  ],
+  "publishers": [
+    "Ironhide Game Studio"
+  ],
+  "release_date": "2014-01-07",
+  "website": "http://www.kingdomrush.com",
+  "tags": [
+    "strategy",
+    "tower-defense",
+    "singleplayer",
+    "2d",
+    "tactical",
+    "fantasy",
+    "casual",
+    "action",
+    "funny",
+    "medieval",
+    "adventure",
+    "cartoon",
+    "cartoony",
+    "action-adventure",
+    "indie",
+    "difficult",
+    "touch-friendly",
+    "comedy",
+    "colorful",
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Portuguese - Portugal",
+    "Russian",
+    "Spanish - Latin America",
+    "Traditional Chinese*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Kingdom Rush.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": ".",
+          "pattern": "*.data",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "kingdom_rush",
+          "pattern": "slot*.lua",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Kingdom Rush.app/Contents/MacOS/love",
+          "description": "Launch",
+          "type": "none"
+        },
+        {
+          "executable": "Kingdom Rush.app/Contents/MacOS/love",
+          "description": "Launch internal version",
+          "type": "none"
+        },
+        {
+          "executable": "KingdomRush.app",
+          "description": "Launch legacy version (Unity)",
+          "type": "none"
+        },
+        {
+          "executable": "Kingdom Rush.app/Contents/MacOS/love",
+          "description": "Launch beta version",
+          "type": "none"
+        },
+        {
+          "executable": "Kingdom Rush.app/Contents/MacOS/love",
+          "description": "Launch debug version",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": ".",
+          "pattern": "*.data",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "kingdom_rush",
+          "pattern": "slot*.lua",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "run.sh",
+          "description": "Launch",
+          "type": "none"
+        },
+        {
+          "executable": "run.sh",
+          "description": "Launch internal version",
+          "type": "none"
+        },
+        {
+          "executable": "Kingdom Rush.x86",
+          "description": "Launch legacy version (Unity)",
+          "type": "none"
+        },
+        {
+          "executable": "run.sh",
+          "description": "Launch beta version",
+          "type": "none"
+        },
+        {
+          "executable": "run.sh",
+          "description": "Launch debug version",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": ".",
+          "pattern": "*.data",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "kingdom_rush",
+          "pattern": "slot*.lua",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Kingdom Rush",
+    "Kingdom Rush.app/Contents/MacOS/love",
+    "KingdomRush.app",
+    "run.sh",
+    "Kingdom Rush.x86"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/246420/2dccbb4dbb08987e38d7efe916fd303bea8dc39a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246420/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246420/bbc008dc0a6426e9028f0431af2b9b883268c776/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246420/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246420/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246420/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246420/ss_7b6442738c9c89a63db11845eeff306410196a1d.1920x1080.jpg?t=1782152390"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246420/ss_15c7c9f1eb4150695f4c6fe0f081718cc13c886d.1920x1080.jpg?t=1782152390"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246420/ss_aaaf33cdb9106bd0801a36049516d95c6f2352b0.1920x1080.jpg?t=1782152390"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246420/ss_ab9946626c58118a74a6394800b4e3cfbfade972.1920x1080.jpg?t=1782152390"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246420/ss_502205852350bfd8d64070adf4c38f2ffdf86772.1920x1080.jpg?t=1782152390"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246420/ss_17b3d326d7fa3aea9ec0d59274c16ff0cf783f07.1920x1080.jpg?t=1782152390"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246420/ss_f495375724af0ae08f397de3bbaea77394d08d65.1920x1080.jpg?t=1782152390"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246420/ss_f6700834b31fb334a981b330e62a1961c2da6826.1920x1080.jpg?t=1782152390"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2030545/movie.293x165.jpg?t=1447360000",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/246420/16304/631253f09e4ad0a6848ab961ceb7f6ff94714925/1750487248/dash_h264.mpd?t=1447360000"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 246420,
+    "store_url": "https://store.steampowered.com/app/246420/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Tower Defense",
+      "Strategy",
+      "Singleplayer",
+      "2D",
+      "Tactical",
+      "Fantasy",
+      "Casual",
+      "Action",
+      "Funny",
+      "Medieval",
+      "Adventure",
+      "Cartoon",
+      "Cartoony",
+      "Action-Adventure",
+      "Indie",
+      "Difficult",
+      "Touch-Friendly",
+      "Comedy",
+      "Colorful",
+      "RPG"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 16282,
+    "review_negative": 456,
+    "review_total": 16738,
+    "review_positive_percent": 97.28
+  }
+}

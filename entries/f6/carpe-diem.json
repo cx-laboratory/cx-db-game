@@ -1,0 +1,193 @@
+{
+  "key": "carpe-diem",
+  "name": "Carpe Diem",
+  "description": "Seize the day",
+  "developers": [
+    "Moonlit Works"
+  ],
+  "publishers": [
+    "Moonlit Works"
+  ],
+  "release_date": "2015-12-01",
+  "website": "",
+  "tags": [
+    "casual",
+    "indie",
+    "free-to-play",
+    "anime",
+    "visual-novel",
+    "short",
+    "singleplayer",
+    "cute",
+    "dating-sim",
+    "sexual-content",
+    "nudity",
+    "2d",
+    "romance",
+    "story-rich",
+    "memes",
+    "hentai",
+    "female-protagonist",
+    "family-friendly",
+    "simulation"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "russian",
+    "thai",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Carpe Diem.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "game/saves",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Carpe Diem.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "game/saves",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Carpe Diem.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "game/saves",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Carpe Diem",
+    "Carpe Diem.app",
+    "Carpe Diem.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/423880/8bcd60d1a425899e5b966468695b3981e3de2fa6.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423880/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423880/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423880/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423880/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423880/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423880/ss_fc850f130441f3648c0dd5e5569e84f9f655930f.1920x1080.jpg?t=1782154600"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423880/ss_b35c04c39a37d74e33236a62f52dbd2256c85c69.1920x1080.jpg?t=1782154600"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423880/ss_6c6b030d6e18b824fd987cee48f3f237c2ca840a.1920x1080.jpg?t=1782154600"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423880/ss_5eee50d0d59e73c433113878dc51d66df6431ceb.1920x1080.jpg?t=1782154600"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423880/ss_5d2c06e379ed8204b171249feb44da992496ff7b.1920x1080.jpg?t=1782154600"
+    }
+  ],
+  "videos": [
+    {
+      "name": "trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256787550/movie.293x165.jpg?t=1591166589",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/423880/289761/c09d1cc84a5efa81b55d1a53b4dc9af8060039e5/1751282075/dash_h264.mpd?t=1591166589"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 423880,
+    "store_url": "https://store.steampowered.com/app/423880/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Anime",
+      "Visual Novel",
+      "Short",
+      "Singleplayer",
+      "Indie",
+      "Cute",
+      "Dating Sim",
+      "Casual",
+      "Sexual Content",
+      "Nudity",
+      "2D",
+      "Psychological Horror",
+      "Romance",
+      "Story Rich",
+      "Memes",
+      "Hentai",
+      "Female Protagonist",
+      "Family Friendly",
+      "Simulation"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7620,
+    "review_negative": 932,
+    "review_total": 8552,
+    "review_positive_percent": 89.1
+  }
+}

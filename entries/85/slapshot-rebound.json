@@ -1,0 +1,188 @@
+{
+  "key": "slapshot-rebound",
+  "name": "Slapshot: Rebound",
+  "description": "Slapshot: Rebound is a physics-based multiplayer game where you play an arcade style match of hockey. No shoot button, no puck glue, no RNG. It’s up to you and your team to take control of the puck, pass, shoot, outplay your opponents. Play with your friends or team up with other Slapshot players!",
+  "developers": [
+    "Oddshot Games"
+  ],
+  "publishers": [
+    "Oddshot Games"
+  ],
+  "release_date": "2024-04-12",
+  "website": "https://slapshot.gg",
+  "tags": [
+    "action",
+    "casual",
+    "indie",
+    "sports",
+    "free-to-play",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "hockey",
+    "physics",
+    "esports",
+    "arcade",
+    "team-based",
+    "real-time-tactics",
+    "competitive",
+    "twin-stick-shooter",
+    "third-person",
+    "controller",
+    "character-customization",
+    "top-down",
+    "tutorial"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Slapshot.exe",
+          "description": "DX11 Default",
+          "type": "default"
+        },
+        {
+          "executable": "Slapshot.exe",
+          "description": "Slapshot Staging Server",
+          "type": "option2"
+        },
+        {
+          "executable": "Slapshot.exe",
+          "description": "Slapshot: Rebound using Vulkan (Better for integrated graphics)",
+          "type": "option2"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Slapshot: Rebound",
+    "Slapshot"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1173370/674676fb4ba48e60020869d8f5fcef1e3c1a3014.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173370/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173370/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173370/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173370/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173370/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173370/ss_3399b54f666e406a2cb6e2fcb632ebcfa6360eaa.1920x1080.jpg?t=1744997858"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173370/23456a28eb4bc65cdb47c1288c7aaac97e343796/ss_23456a28eb4bc65cdb47c1288c7aaac97e343796.1920x1080.jpg?t=1744997858"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173370/ss_396eebb9193045194f7eff4cc52754a3a9e80580.1920x1080.jpg?t=1744997858"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173370/ss_eca25bd70a406147c12f0c59fe8f8067614477c4.1920x1080.jpg?t=1744997858"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173370/ss_be273b9c1fa76b3fc7b49d315f1caf5cffe38c10.1920x1080.jpg?t=1744997858"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173370/ss_88618f2f86a00adca068e194bc62110099fe1661.1920x1080.jpg?t=1744997858"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173370/ss_be07e1d18b1fc8423267f0f251469f56af6da0a3.1920x1080.jpg?t=1744997858"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173370/ss_d6dd5a8561d2db0f26e2ffde84f5db024f0ff193.1920x1080.jpg?t=1744997858"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173370/ss_235f65132de902da7e49233ee546c941595547cf.1920x1080.jpg?t=1744997858"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173370/ss_65755d55d2f2dad9b43fae62a817ba1136b8b11f.1920x1080.jpg?t=1744997858"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173370/ss_91662bb8ee03bbacb87970efe8592c3b1b410721.1920x1080.jpg?t=1744997858"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173370/ss_2744ecdfae544fe47c50e1ff17d7fcee00adf3c1.1920x1080.jpg?t=1744997858"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256778139/movie.293x165.jpg?t=1712849552",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1173370/272248/413301928bd169c76ff95ac919dafaf0049d8023/1750633398/dash_h264.mpd?t=1712849552"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1173370,
+    "store_url": "https://store.steampowered.com/app/1173370/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Sports",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Partial Controller Support",
+      "Stats",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Hockey",
+      "Sports",
+      "Physics",
+      "eSports",
+      "Free to Play",
+      "Arcade",
+      "Action",
+      "Team-Based",
+      "Real Time Tactics",
+      "Competitive",
+      "Twin Stick Shooter",
+      "Casual",
+      "PvP",
+      "Third Person",
+      "Controller",
+      "Character Customization",
+      "Top-Down",
+      "Online Co-Op",
+      "Tutorial"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 11621,
+    "review_negative": 2343,
+    "review_total": 13964,
+    "review_positive_percent": 83.22
+  }
+}

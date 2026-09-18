@@ -1,0 +1,160 @@
+{
+  "key": "stick-fight-the-game",
+  "name": "Stick Fight: The Game",
+  "description": "Stick Fight is a physics-based couch/online fighting game where you battle it out as the iconic stick figures from the golden age of the internet.",
+  "developers": [
+    "Landfall West"
+  ],
+  "publishers": [
+    "Landfall"
+  ],
+  "release_date": "2017-09-29",
+  "website": "http://landfall.se/stickfightthegame/",
+  "tags": [
+    "action",
+    "casual",
+    "indie",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "funny",
+    "fighting",
+    "local-multiplayer",
+    "2d-fighter",
+    "4-player-local",
+    "2d",
+    "physics",
+    "online-co-op",
+    "shooter",
+    "controller",
+    "co-op",
+    "split-screen",
+    "great-soundtrack",
+    "strategy"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {
+    "schinese": "火柴人大乱斗"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "StickFight.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "StickFight.app/Contents/MacOS/StickFight",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Stick Fight: The Game",
+    "StickFight",
+    "StickFight.app/Contents/MacOS/StickFight"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/674940/28bc7ba8952d488e01e7136126cbbc3b42ee443a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674940/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674940/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674940/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674940/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674940/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674940/ss_890d28277bc419dad54157059735513ccc1cfaa7.1920x1080.jpg?t=1730715399"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674940/ss_6f4e51e6b1390acc89741b7d2d6e6dc50dbacf76.1920x1080.jpg?t=1730715399"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674940/ss_22d090efb57d6f42187c7f8eb193713112237b8e.1920x1080.jpg?t=1730715399"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674940/ss_80e2f0797564ab5949f0c13df9a57988dc81c8cf.1920x1080.jpg?t=1730715399"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674940/ss_63efc0b9a959afbbe4f450982fdd25e871669198.1920x1080.jpg?t=1730715399"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Stick Fight Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256694999/movie.293x165.jpg?t=1506615966",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/674940/122208/e83ec61ca718435c29506f71c428ddb18a56b8f8/1750569660/dash_h264.mpd?t=1506615966"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 674940,
+    "store_url": "https://store.steampowered.com/app/674940/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Shared/Split Screen",
+      "Partial Controller Support",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Funny",
+      "Fighting",
+      "Local Multiplayer",
+      "Action",
+      "2D Fighter",
+      "4 Player Local",
+      "PvP",
+      "2D",
+      "Physics",
+      "Casual",
+      "Online Co-Op",
+      "Local Co-Op",
+      "Indie",
+      "Shooter",
+      "Controller",
+      "Co-op",
+      "Split Screen",
+      "Great Soundtrack",
+      "Strategy"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 116929,
+    "review_negative": 8154,
+    "review_total": 125083,
+    "review_positive_percent": 93.48
+  }
+}

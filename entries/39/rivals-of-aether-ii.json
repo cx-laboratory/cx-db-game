@@ -1,0 +1,187 @@
+{
+  "key": "rivals-of-aether-ii",
+  "name": "Rivals of Aether II",
+  "description": "Rivals of Aether II is the sequel to the hit indie fighting game, Rivals of Aether. Play as both new and returning elemental fighters in the next generation of platform fighters.",
+  "developers": [
+    "Aether Studios"
+  ],
+  "publishers": [
+    "Aether Studios"
+  ],
+  "release_date": "2024-10-24",
+  "website": "https://rivals2.com",
+  "tags": [
+    "action",
+    "indie",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "fighting",
+    "2d-fighter",
+    "local-multiplayer",
+    "4-player-local",
+    "fantasy",
+    "combat",
+    "2-5d",
+    "co-op",
+    "2d-platformer",
+    "controller",
+    "platformer",
+    "competitive",
+    "fast-paced",
+    "colorful",
+    "2d",
+    "mod"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "spanish",
+    "japanese",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Rivals2/Binaries/Win64/Rivals2-Win64-Shipping.exe",
+          "description": "with DirectX 12 (May have longer boot time)",
+          "type": "option1"
+        },
+        {
+          "executable": "Rivals2/Binaries/Win64/Rivals2.exe",
+          "description": "Launch Nightlybuilds",
+          "type": "default"
+        },
+        {
+          "executable": "Rivals2/Binaries/Win64/Rivals2-Win64-Shipping.exe",
+          "description": "with DirectX 11 (May have in-game stutters)",
+          "type": "option2"
+        },
+        {
+          "executable": "Rivals2/Binaries/Win64/Rivals2-Win64-Shipping.exe",
+          "description": "Press Beta with Premium Content Unlocked",
+          "type": "option3"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Rivals of Aether II",
+    "Rivals2/Binaries/Win64/Rivals2-Win64-Shipping",
+    "Rivals2/Binaries/Win64/Rivals2"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2217000/6f2b08bb13f094402e7c468bd3844ef070f6a7a3.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2217000/3d8742ad5d7dd77235f75dba0a3814b0689d4df3/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2217000/e185a032a21badcad77078e3372cedccee4d2746/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2217000/1073acdf0a2dce2810d326c23c633dc6a795a392/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2217000/001df66b3eb653d20a44fe9afaa552c74ba060a4/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2217000/7c7504a72b3ce77b129a207350377f7c515b36f6/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2217000/ss_52fd1a98d3b6a49419fdb42a4829f3189f9d1604.1920x1080.jpg?t=1780336617"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2217000/ss_4ff5cf5459212c39c7ebc20843402bcf164ed9c7.1920x1080.jpg?t=1780336617"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2217000/ss_084c2c79f98ed71af2d0cc6d439b24cccde3a187.1920x1080.jpg?t=1780336617"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2217000/ss_a9e988104b76be3dfab6d4c5e14c5198bcada6ae.1920x1080.jpg?t=1780336617"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2217000/ss_827c939ae5ec2e904ec7e4b56c6f437f149c0d06.1920x1080.jpg?t=1780336617"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2217000/080e04ff7152b3703c5824863c850a265eafbb8a/ss_080e04ff7152b3703c5824863c850a265eafbb8a.1920x1080.jpg?t=1780336617"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Anniversary Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257067745/28926f67fb6dd49433b9f7fff04a0aa3ed2e81b2/movie_600x337.jpg?t=1761249041",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2217000/372169007/6e62df2949c4ba5ea8492e8394de81e72e5c769d/1761247533/dash_h264.mpd?t=1761249041"
+    },
+    {
+      "name": "Etalus Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257090993/2f1afc5443b3e4361cb24c7513f3bcaf76c1a381/movie_600x337.jpg?t=1737485455",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2217000/816298/533e935deaeba7151f5c4b9563e4b6331b86b2e6/1750809561/dash_h264.mpd?t=1737485455"
+    },
+    {
+      "name": "Forsburn Character Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257067775/f3f9d475d7ea20ceabf7b6f4965b9b1b293cc866/movie_600x337.jpg?t=1729705480",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2217000/776147/c9bcf5864676cd97c4d4628d7c532b815d002949/1750809561/dash_h264.mpd?t=1729705480"
+    },
+    {
+      "name": "Orcane Character Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257052521/movie.293x165.jpg?t=1726678707",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2217000/751254/6b239a9a3837b979671480d366865906e1258b85/1750809561/dash_h264.mpd?t=1726678707"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2217000,
+    "store_url": "https://store.steampowered.com/app/2217000/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "In-App Purchases",
+      "Gamepad Recommended",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Fighting",
+      "Multiplayer",
+      "2D Fighter",
+      "Indie",
+      "Local Multiplayer",
+      "Action",
+      "4 Player Local",
+      "Fantasy",
+      "Combat",
+      "2.5D",
+      "PvP",
+      "Co-op",
+      "2D Platformer",
+      "Controller",
+      "Platformer",
+      "Competitive",
+      "Fast-Paced",
+      "Colorful",
+      "2D",
+      "Mod"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 7697,
+    "review_negative": 1945,
+    "review_total": 9642,
+    "review_positive_percent": 79.83
+  }
+}

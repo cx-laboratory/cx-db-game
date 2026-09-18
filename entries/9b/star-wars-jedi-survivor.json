@@ -1,0 +1,170 @@
+{
+  "key": "star-wars-jedi-survivor",
+  "name": "STAR WARS Jedi: Survivor™",
+  "description": "The story of Cal Kestis continues in STAR WARS Jedi: Survivor™, a galaxy-spanning, third-person, action-adventure game.",
+  "developers": [
+    "Respawn"
+  ],
+  "publishers": [
+    "Electronic Arts"
+  ],
+  "release_date": "2023-04-28",
+  "website": "https://www.ea.com/games/starwars/jedi/jedi-survivor",
+  "tags": [
+    "action",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "polish": "STAR WARS Jedi: Ocalały™",
+    "tchinese": "STAR WARS 絕地：倖存者™",
+    "japanese": "STAR WARS ジェダイ：サバイバー™",
+    "koreana": "스타워즈 제다이: 서바이버™",
+    "schinese": "星球大战 绝地：幸存者™"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "link2ea://launchgame/1774580?platform=steam&theme=applejack",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "SwGame\\Binaries\\Win64\\SwGameSteam-Win64-Test.exe",
+          "description": "STAR WARS Jedi: Survivor™ - Test",
+          "type": "option1"
+        },
+        {
+          "executable": "SwGame\\Binaries\\Win64\\JediSurvivor.exe",
+          "description": "STAR WARS Jedi: Survivor™ - Shipping",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "STAR WARS Jedi: Survivor™",
+    "link2ea://launchgame/1774580?platform=steam&theme=applejack",
+    "SwGame\\Binaries\\Win64\\SwGameSteam-Win64-Test",
+    "SwGame\\Binaries\\Win64\\JediSurvivor",
+    "STAR WARS Jedi: Ocalały™",
+    "STAR WARS 絕地：倖存者™",
+    "STAR WARS ジェダイ：サバイバー™",
+    "스타워즈 제다이: 서바이버™",
+    "星球大战 绝地：幸存者™"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1774580/25578ffb2c6070c5d4e6569624efaadb8a0f5538.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1774580/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1774580/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1774580/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1774580/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1774580/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1774580/ss_e589d6bb347c13f7226f0b294fd12880ced8d171.1920x1080.jpg?t=1777391797"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1774580/ss_6f2e72d773e4280f3a4860c7fb1d62e72932a9b0.1920x1080.jpg?t=1777391797"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1774580/ss_f14055548a6c51171036ebb3d00ddf5c97e5bd05.1920x1080.jpg?t=1777391797"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1774580/ss_bb84b8cbf9294c6166819c3d3328c4efbdb9d46c.1920x1080.jpg?t=1777391797"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1774580/ss_3c8dd0328d9d5944083d1c1da10f316de090c67d.1920x1080.jpg?t=1777391797"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1774580/ss_3ed1979b4d57f7819813e1c11462e1f631a83987.1920x1080.jpg?t=1777391797"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1774580/ss_72e3265e1983d759d133338b613df2010cf5eb56.1920x1080.jpg?t=1777391797"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1774580/ss_0400a734d8f53d0620ce8349aa30f984e794de92.1920x1080.jpg?t=1777391797"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1774580/ss_d7033a4716cdc2d13e8c67c3bcd4c471d39e3fc4.1920x1080.jpg?t=1777391797"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256957450/movie.293x165.jpg?t=1689016714",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1774580/586184/f723655828cd2d57318ebe145cc974c851241494/1750734365/dash_h264.mpd?t=1689016714"
+    },
+    {
+      "name": "Final Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256941959/movie.293x165.jpg?t=1682654387",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1774580/559201/b39e9a0c14af5c7b8f4536baad4782c5d676ccf3/1750734351/dash_h264.mpd?t=1682654387"
+    },
+    {
+      "name": "Official Story Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256941960/movie.293x165.jpg?t=1682654394",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1774580/559204/18a3e875d60d48ab9d22ca73f419d17ee20d70ce/1750734353/dash_h264.mpd?t=1682654394"
+    },
+    {
+      "name": "Official Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256941961/movie.293x165.jpg?t=1682654402",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1774580/559205/1983b654f444db220bb89446ae002231e3c7ce5e/1750734357/dash_h264.mpd?t=1682654402"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1774580,
+    "store_url": "https://store.steampowered.com/app/1774580/",
+    "required_age": 13,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Captions available",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Gamepad Recommended",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "HDR available"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 59645,
+    "review_negative": 24586,
+    "review_total": 84231,
+    "review_positive_percent": 70.81
+  }
+}

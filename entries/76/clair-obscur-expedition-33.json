@@ -1,0 +1,191 @@
+{
+  "key": "clair-obscur-expedition-33",
+  "name": "Clair Obscur: Expedition 33",
+  "description": "Lead the members of Expedition 33 on their quest to destroy the Paintress so that she can never paint death again. Explore a world of wonders inspired by Belle Époque France and battle unique enemies in this turn-based RPG with real-time mechanics.",
+  "developers": [
+    "Sandfall Interactive"
+  ],
+  "publishers": [
+    "Kepler Interactive"
+  ],
+  "release_date": "2025-04-24",
+  "website": "https://www.expedition33.com/",
+  "tags": [
+    "action",
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "polish",
+    "czech",
+    "turkish",
+    "arabic",
+    "brazilian",
+    "ukrainian",
+    "vietnamese",
+    "latam",
+    "indonesian"
+  ],
+  "name_localized": {
+    "schinese": "光与影：33号远征队",
+    "koreana": "클레르 옵스퀴르: 33 원정대",
+    "tchinese": "光與影：33號遠征隊"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Expedition33_Steam.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Expedition33_Steam.exe",
+          "description": "with error reporting",
+          "type": "option1"
+        },
+        {
+          "executable": "Expedition33_Steam.exe",
+          "description": "with GPU debugging",
+          "type": "option2"
+        },
+        {
+          "executable": "Expedition33_Steam.exe",
+          "description": "[QA BRANCH] Expedition 33 - Medium Preset: RTX 3070 @ 1080p",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Sandfall/Saved/SaveGames/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Clair Obscur: Expedition 33",
+    "Expedition33_Steam",
+    "光与影：33号远征队",
+    "클레르 옵스퀴르: 33 원정대",
+    "光與影：33號遠征隊"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1903340/d48fb3ed033a08bad9bf0a2e1ceb145e58ffe0aa.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/be3305b02d4db0dffa3458537118423bf2792d7e/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/001d4a5d81e4bb9055b789240e78e04ef6e6da38/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/8b21381a43ac5a535a838f723815f8fe14ceaf7c/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/5e7046fe8fc58a3dcbd9d65f73c3b94632fc9c39/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/ss_483a27df5072beb3a4650634a764bda750fbcb82.1920x1080.jpg?t=1782830877"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/ss_e49800e906e8a0f00707458c836567c933603bac.1920x1080.jpg?t=1782830877"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/ss_b8089016095e6a16e324a59c45b2f24a439bd0b3.1920x1080.jpg?t=1782830877"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/ss_8439c07d7b1f2fcfc6449db5f051f8d0867f4785.1920x1080.jpg?t=1782830877"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/ss_9e050e6a61a4d9f4fe54bc62c8c73da38e9a63b0.1920x1080.jpg?t=1782830877"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/ss_d3a10809f5cc2a8df7773f41acd1493f4fb900ec.1920x1080.jpg?t=1782830877"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/ss_ec16f873c7d14fc4a4f17966b25f9712dc486b4a.1920x1080.jpg?t=1782830877"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/ss_c130295c9e1169dc0c63eaae0618e64d06a88c92.1920x1080.jpg?t=1782830877"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/ss_0902af724ac45a9093dee022a7893dc50cbf555e.1920x1080.jpg?t=1782830877"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/ss_49ba857fef972f2584e41fa0b46cddbcda8aa30f.1920x1080.jpg?t=1782830877"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257129803/a409d62da478b6b9fdceeb05a1281805fe7a0dae/movie_600x337.jpg?t=1745478082",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1903340/876247/5c4709c3a98d932003a6b85bd5e4bfcd6a777e7a/1748581603/dash_h264.mpd?t=1745478082"
+    },
+    {
+      "name": "Pre-order Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257089584/3807053b21d244f2ce0cac72419edca2871bca33/movie_600x337.jpg?t=1737713984",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1903340/813805/a49be4aac940b236f9dadcf3e82021294d40dd8d/1748581548/dash_h264.mpd?t=1737713984"
+    },
+    {
+      "name": "Cast Reveal",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257065813/b82f1f53660fe08d9ecc2e92ba09b6c614e1425a/movie_600x337.jpg?t=1737657533",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1903340/772894/ee2b4b3a6b5584f2e25208ceffe6048f2d771803/1748581546/dash_h264.mpd?t=1737657533"
+    },
+    {
+      "name": "Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257029925/movie.293x165.jpg?t=1718018683",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1903340/711794/198882dd1d8c86b7c6e3c5940d768b827a539381/1748581546/dash_h264.mpd?t=1718018683"
+    }
+  ],
+  "metacritic": {
+    "score": 91,
+    "url": "https://www.metacritic.com/game/pc/clair-obscur-expedition-33?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1903340,
+    "store_url": "https://store.steampowered.com/app/1903340/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Adjustable Text Size",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Gamepad Recommended",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Surround Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 258762,
+    "review_negative": 12671,
+    "review_total": 271433,
+    "review_positive_percent": 95.33
+  }
+}

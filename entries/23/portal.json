@@ -1,0 +1,232 @@
+{
+  "key": "portal",
+  "name": "Portal",
+  "description": "Portal™ is a new single player game from Valve. Set in the mysterious Aperture Science Laboratories, Portal has been called one of the most innovative new games on the horizon and will offer gamers hours of unique gameplay.",
+  "developers": [
+    "Valve"
+  ],
+  "publishers": [
+    "Valve"
+  ],
+  "release_date": "2007-10-10",
+  "website": "http://www.whatistheorangebox.com/",
+  "tags": [
+    "action",
+    "puzzle",
+    "puzzle-platformer",
+    "first-person",
+    "3d-platformer",
+    "singleplayer",
+    "sci-fi",
+    "comedy",
+    "female-protagonist",
+    "physics",
+    "funny",
+    "classic",
+    "story-rich",
+    "platformer",
+    "science",
+    "atmospheric",
+    "dark-humor",
+    "short",
+    "fps",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "hungarian",
+    "czech",
+    "romanian",
+    "turkish",
+    "brazilian",
+    "bulgarian",
+    "greek",
+    "ukrainian",
+    "vietnamese",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "hl2.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "PortalRTX\\hl2.exe",
+          "description": "Portal with RTX",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "hl2.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "hl2.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Portal",
+    "hl2",
+    "PortalRTX\\hl2",
+    "hl2.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/400/cfa928ab4119dd137e50d728e8fe703e4e970aff.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/0000002582.1920x1080.jpg?t=1745368554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/0000002583.1920x1080.jpg?t=1745368554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/0000002584.1920x1080.jpg?t=1745368554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/0000002585.1920x1080.jpg?t=1745368554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/0000002586.1920x1080.jpg?t=1745368554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/0000002587.1920x1080.jpg?t=1745368554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/0000002588.1920x1080.jpg?t=1745368554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/ss_25aa95176ac6319fad955b31554451f3ea61f1e8.1920x1080.jpg?t=1745368554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/ss_15c08be59046abbd785ab8e7e8857ba8633f292b.1920x1080.jpg?t=1745368554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/ss_5d9a2b799aaaa6f8992128c126e68b7e8d718715.1920x1080.jpg?t=1745368554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/ss_3164c436ce7708dcf0f46bb4569e7f7b83ccb01e.1920x1080.jpg?t=1745368554"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Portal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/922/movie.jpg?t=1682715059",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/400/336/858d7ae015068388644e14742bd90801fbb8a805/1750108766/dash_h264.mpd?t=1682715059"
+    }
+  ],
+  "metacritic": {
+    "score": 90,
+    "url": "https://www.metacritic.com/game/pc/portal?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 400,
+    "store_url": "https://store.steampowered.com/app/400/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Captions available",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Steam Input API Support",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Surround Sound",
+      "Includes level editor",
+      "Includes Source SDK",
+      "Commentary available",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Puzzle",
+      "Puzzle Platformer",
+      "First-Person",
+      "3D Platformer",
+      "Singleplayer",
+      "Sci-fi",
+      "Comedy",
+      "Female Protagonist",
+      "Physics",
+      "Funny",
+      "Action",
+      "Classic",
+      "Story Rich",
+      "Platformer",
+      "Science",
+      "Atmospheric",
+      "Dark Humor",
+      "Short",
+      "FPS",
+      "Adventure"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 193183,
+    "review_negative": 2896,
+    "review_total": 196079,
+    "review_positive_percent": 98.52
+  }
+}

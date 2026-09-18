@@ -1,0 +1,187 @@
+{
+  "key": "supermarket-together",
+  "name": "Supermarket Together",
+  "description": "The multiplayer supermarket has arrived to your neighbourhood for free! Stock your shop space, unlock perks and franchises, hire employees or chase those pesky shoplifters. The more players, the more action!",
+  "developers": [
+    "DeadDevsTellNoLies"
+  ],
+  "publishers": [
+    "DeadDevsTellNoLies"
+  ],
+  "release_date": "2024-08-09",
+  "website": "",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "free-to-play",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "management",
+    "economy",
+    "singleplayer",
+    "life-sim",
+    "immersive-sim",
+    "trading",
+    "first-person",
+    "building",
+    "capitalism",
+    "sandbox",
+    "resource-management",
+    "3d",
+    "realistic",
+    "inventory-management"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Czech",
+    "Polish",
+    "Portuguese - Brazil",
+    "Russian",
+    "Ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "超市一起开"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Supermarket Together.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "DDTNL\\Supermarket Together\\",
+          "pattern": "*.es3",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Supermarket Together"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2709570/df024275a7ba53c79008b45c0d74b4a2e6a2069b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709570/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709570/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709570/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709570/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709570/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709570/ss_1131844c19d58221463fd0adf9dc413cc543940f.1920x1080.jpg?t=1770930541"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709570/ss_6f3feb6541cb11bfc80b258ae2bf1af030863191.1920x1080.jpg?t=1770930541"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709570/ss_bcef108f873e850089e08d5cc196f393fab6e010.1920x1080.jpg?t=1770930541"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709570/ss_6ea3eee8f1bbe7cb64b15368e736ef7fa5b0c119.1920x1080.jpg?t=1770930541"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709570/ss_eb691a2a92346ca53c0a6b9b1440f96d74a6f78e.1920x1080.jpg?t=1770930541"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709570/43df4f15e649bbd61be9683d5c44d41e93dac376/ss_43df4f15e649bbd61be9683d5c44d41e93dac376.1920x1080.jpg?t=1770930541"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709570/ss_e54bdfe53614f502594775acf605bfd5b007a016.1920x1080.jpg?t=1770930541"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709570/81095b5a84f87681874bf75af5b8d05e2c1e18e8/ss_81095b5a84f87681874bf75af5b8d05e2c1e18e8.1920x1080.jpg?t=1770930541"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709570/ss_b3948bbff43f947fa83bdf107159ce267cb77404.1920x1080.jpg?t=1770930541"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709570/ss_a15e6eb95a99b5997081c4d53a9d682a0686f01d.1920x1080.jpg?t=1770930541"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709570/ss_c2dfcdccdb8fc2ded79e092a96ba3f0ec9382d7e.1920x1080.jpg?t=1770930541"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2709570/ss_3c8ce665445cc8f100bcb31b8a85d42e7dbbd84d.1920x1080.jpg?t=1770930541"
+    }
+  ],
+  "videos": [
+    {
+      "name": "SupermarketTogether_Trailer1",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257042383/movie.293x165.jpg?t=1722510053",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2709570/733877/2728beedd3c68f8bc8b4498db081d424f48ca458/1750819061/dash_h264.mpd?t=1722510053"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2709570,
+    "store_url": "https://store.steampowered.com/app/2709570/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Online Co-Op",
+      "Multiplayer",
+      "Free to Play",
+      "Management",
+      "Economy",
+      "Singleplayer",
+      "Life Sim",
+      "Immersive Sim",
+      "Trading",
+      "First-Person",
+      "Building",
+      "Capitalism",
+      "Sandbox",
+      "Resource Management",
+      "3D",
+      "Casual",
+      "Realistic",
+      "Inventory Management",
+      "Indie"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 89333,
+    "review_negative": 5299,
+    "review_total": 94632,
+    "review_positive_percent": 94.4
+  }
+}

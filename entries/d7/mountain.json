@@ -1,0 +1,221 @@
+{
+  "key": "mountain",
+  "name": "Mountain",
+  "description": "Existential Nature Simulation",
+  "developers": [
+    "David OReilly"
+  ],
+  "publishers": [
+    "David OReilly"
+  ],
+  "release_date": "2014-08-19",
+  "website": "http://mountain-game.com",
+  "tags": [
+    "casual",
+    "indie",
+    "rpg",
+    "simulation",
+    "relaxing",
+    "singleplayer",
+    "great-soundtrack",
+    "god-game",
+    "experimental",
+    "beautiful",
+    "nature",
+    "space",
+    "procedural-generation",
+    "music",
+    "idler",
+    "philosophical",
+    "realistic",
+    "funny",
+    "difficult",
+    "puzzle",
+    "third-person"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "Japanese",
+    "Simplified Chinese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Mountain.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "David OReilly/Mountain",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "David OReilly/Mountain",
+          "pattern": "*.png",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Mountain.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "David OReilly/Mountain",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "David OReilly/Mountain",
+          "pattern": "*.png",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Mountain.x86",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "Mountain.x86_64",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "David OReilly/Mountain",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "David OReilly/Mountain",
+          "pattern": "*.png",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Mountain",
+    "Mountain.app",
+    "Mountain.x86",
+    "Mountain.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/313340/ac536a6c0d25ed161898d0af0f5b8661f07d12b3.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313340/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313340/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313340/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313340/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313340/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313340/ss_3831b784651fbea130dda99f5b39385385073414.1920x1080.jpg?t=1606597053"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313340/ss_c556687ac4571e4a35e338a60475350c03c87762.1920x1080.jpg?t=1606597053"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313340/ss_d657fd765d3ba64a3ecada942a42b5caf1ac9f69.1920x1080.jpg?t=1606597053"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313340/ss_b167a01ad6fd5fecf2172001fcc78954a2ca0a16.1920x1080.jpg?t=1606597053"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313340/ss_7e37c227bfadcff054c89affd526193919066904.1920x1080.jpg?t=1606597053"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313340/ss_2fa8e6edf91ddde721dd01e912a1c23855bb4fc4.1920x1080.jpg?t=1606597053"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313340/ss_9f74ee916294bb39a9fb0269369b36a3c5495462.1920x1080.jpg?t=1606597053"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Mountain 2.0 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256737764/movie.293x165.jpg?t=1550463711",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/313340/199670/1ed29afeadbf9f723797f0f611e607ce3b0a532d/1751263405/dash_h264.mpd?t=1550463711"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 313340,
+    "store_url": "https://store.steampowered.com/app/313340/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "VR Support",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Indie",
+      "Casual",
+      "Relaxing",
+      "Singleplayer",
+      "Great Soundtrack",
+      "God Game",
+      "Experimental",
+      "Beautiful",
+      "Nature",
+      "Space",
+      "Procedural Generation",
+      "Music",
+      "Idler",
+      "Philosophical",
+      "Realistic",
+      "Funny",
+      "Difficult",
+      "Puzzle",
+      "Third Person"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 14357,
+    "review_negative": 1929,
+    "review_total": 16286,
+    "review_positive_percent": 88.16
+  }
+}

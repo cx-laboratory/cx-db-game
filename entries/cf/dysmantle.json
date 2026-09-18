@@ -1,0 +1,264 @@
+{
+  "key": "dysmantle",
+  "name": "DYSMANTLE",
+  "description": "Ascend from your shelter. Ruin everything. Escape the wretched island. ⚔️🔨🎣🌱🌵🍰 Explore. Fight. Level up. Survive. Gather. Craft. Harvest. Hunt. Build. Farm. Solve puzzles. Fish. Cook. Live. Enjoy the bittersweet post-apocalypse.",
+  "developers": [
+    "10tons Ltd"
+  ],
+  "publishers": [
+    "10tons Ltd"
+  ],
+  "release_date": "2021-11-16",
+  "website": "https://www.dysmantle.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "simulation",
+    "multiplayer",
+    "co-op",
+    "split-screen",
+    "survival",
+    "open-world",
+    "crafting",
+    "zombies",
+    "base-building",
+    "exploration",
+    "destruction",
+    "top-down",
+    "dystopian",
+    "hunting",
+    "fishing",
+    "sandbox",
+    "loot",
+    "agriculture",
+    "atmospheric"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English*",
+    "Simplified Chinese",
+    "German",
+    "Russian",
+    "Turkish",
+    "French",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Portuguese - Brazil",
+    "Italian",
+    "Traditional Chinese*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "DYSMANTLE.exe",
+          "description": "Play DYSMANTLE",
+          "type": "default"
+        },
+        {
+          "executable": "DYSMANTLE.exe",
+          "description": "DYSMANTLE with Mods",
+          "type": "option1"
+        },
+        {
+          "executable": "DYSMANTLE.exe",
+          "description": "DYSMANTLE (Direct3D 12, experimental)",
+          "type": "default"
+        },
+        {
+          "executable": "DYSMANTLE.exe",
+          "description": "DYSMANTLE (Vulkan, experimental)",
+          "type": "default"
+        },
+        {
+          "executable": "DYSMANTLE-OpenGL.exe",
+          "description": "DYSMANTLE (OpenGL)",
+          "type": "default"
+        },
+        {
+          "executable": "DYSMANTLE.exe",
+          "description": "DYSMANTLE (OpenGL)",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "10tons/DYSMANTLE/save",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "DYSMANTLE.app",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "DYSMANTLE.app",
+          "description": "DYSMANTLE with Mods",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "10tons/DYSMANTLE/save",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "DYSMANTLE",
+    "DYSMANTLE-OpenGL",
+    "DYSMANTLE.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/846770/caddb7845e83dd4e4969778bb88044a9cc794a7f.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846770/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846770/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846770/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846770/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846770/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846770/ss_13369ed97d45aa3c12e503bd68955e9b16cbc6bd.1920x1080.jpg?t=1772050662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846770/ss_e22f4d73c153d6bd2e1943566092f0eea53be5bc.1920x1080.jpg?t=1772050662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846770/ss_7ca4910e0cbba01b52b4c5a521bd4c0ebef4a8d0.1920x1080.jpg?t=1772050662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846770/ss_713a10dff64dd3a052ad4c4e47a4cf9b4f5be4b2.1920x1080.jpg?t=1772050662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846770/ss_b5b29db7022211daa621b4b7e90e79199dc6a58d.1920x1080.jpg?t=1772050662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846770/ss_52dafa865bc3c5be9e3ff131091cd7120f1f77b1.1920x1080.jpg?t=1772050662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846770/ss_6a6bd6f83dd3e168573deb5e8e930031c30f2f53.1920x1080.jpg?t=1772050662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846770/ss_8410be79c4524dac3be85fc55427e4f90f0c7653.1920x1080.jpg?t=1772050662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846770/ss_27213f1377a561e3190bd69493ebbc06f13332fd.1920x1080.jpg?t=1772050662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846770/ss_c14dc9715e4fbcf45b6973aa786bace0b42dcff6.1920x1080.jpg?t=1772050662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846770/ss_e5de7518e8fc144fccca1f22a514dcaee022bd6e.1920x1080.jpg?t=1772050662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846770/ss_8883a43992842535fd7a5faf9efaba0b57f715b0.1920x1080.jpg?t=1772050662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846770/ss_86d43118c22fd7313f51660c27b4025a8b5894d0.1920x1080.jpg?t=1772050662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846770/ss_d2d1cada5533587d5eab498780742a50b8dc2aec.1920x1080.jpg?t=1772050662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846770/ss_e05c37897a74c46956f845061e2208c89e5e0f2a.1920x1080.jpg?t=1772050662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846770/ss_a047f5c8e139c1b29a069bd8a0c13e26e5ca0d36.1920x1080.jpg?t=1772050662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846770/ss_ddf2a857c137bcfa7acdc70feb6a8049176a0faf.1920x1080.jpg?t=1772050662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846770/ss_2b486a7fc6fe9a1acd12c73ff0fab4f193a9ad98.1920x1080.jpg?t=1772050662"
+    }
+  ],
+  "videos": [
+    {
+      "name": "DYSMANTLE Launch Trailer 2021",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256860486/movie.293x165.jpg?t=1636979868",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/846770/417100/08f3e4ab81e17e8759bb798031e4285c966af516/1750588775/dash_h264.mpd?t=1636979868"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 846770,
+    "store_url": "https://store.steampowered.com/app/846770/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Survival",
+      "Open World",
+      "Crafting",
+      "Zombies",
+      "Base Building",
+      "RPG",
+      "Adventure",
+      "Exploration",
+      "Action",
+      "Destruction",
+      "Top-Down",
+      "Indie",
+      "Dystopian ",
+      "Hunting",
+      "Fishing",
+      "Sandbox",
+      "Loot",
+      "Agriculture",
+      "Simulation",
+      "Atmospheric"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 10425,
+    "review_negative": 1071,
+    "review_total": 11496,
+    "review_positive_percent": 90.68
+  }
+}

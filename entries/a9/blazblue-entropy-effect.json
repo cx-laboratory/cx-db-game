@@ -1,0 +1,249 @@
+{
+  "key": "blazblue-entropy-effect",
+  "name": "BlazBlue Entropy Effect",
+  "description": "Enjoy action-packed flashy combat with incredibly satisfying combos and responsive controls! Numerous characters, each with completely unique playstyles and loads of unlockable moves &amp; upgrades! This action roguelike sets the bar for fluid fast-paced action.",
+  "developers": [
+    "91Act"
+  ],
+  "publishers": [
+    "91Act"
+  ],
+  "release_date": "2024-01-31",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "split-screen",
+    "roguelike",
+    "action-roguelike",
+    "2d",
+    "action-adventure",
+    "platformer",
+    "replay-value",
+    "pixel-graphics",
+    "anime",
+    "cyberpunk",
+    "post-apocalyptic",
+    "procedural-generation",
+    "hack-and-slash",
+    "2d-fighter",
+    "singleplayer",
+    "multiple-endings",
+    "story-rich",
+    "2d-platformer",
+    "precision-platformer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {
+    "english": "BlazBlue Entropy Effect",
+    "japanese": "BlazBlue Entropy Effect",
+    "schinese": "苍翼：混沌效应",
+    "sc_schinese": "苍翼：混沌效应",
+    "tchinese": "蒼翼：混沌效應"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "BlazblueEntropyEffect.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "91Act/BlazBlueEntropyEffect/Save",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "91Act/BlazBlueEntropyEffect/Global",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "91Act/BlazBlueEntropyEffect/Steam/{Steam3AccountID}/Save",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "BlazBlueEntropyEffect.app",
+          "description": "start by app",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "91Act/BlazBlueEntropyEffect/Save",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "91Act/BlazBlueEntropyEffect/Global",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "91Act/BlazBlueEntropyEffect/Steam/{Steam3AccountID}/Save",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "BlazBlue Entropy Effect",
+    "BlazblueEntropyEffect",
+    "BlazBlueEntropyEffect.app",
+    "苍翼：混沌效应",
+    "蒼翼：混沌效應"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2273430/060539eb9cbd6121e431a0c580ba1d52e2b0edd0.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2273430/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2273430/ff92805cffd49fbcf6473b2928d5f1588df36c19/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2273430/fe242e88c41d7425c5269d4f5e49d5eebe82565d/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2273430/25c92a8b5f99b70cb13a140752df80c91d9460f1/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2273430/d772af3db9ac030260447dd23faaf79e5fbeb29a/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2273430/7010b54ec865e58eb0ed1bffbf93dbd758b3710b/ss_7010b54ec865e58eb0ed1bffbf93dbd758b3710b.1920x1080.jpg?t=1781579464"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2273430/362000316a5eec9b3000d5d171d42bb786ec45d9/ss_362000316a5eec9b3000d5d171d42bb786ec45d9.1920x1080.jpg?t=1781579464"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2273430/eeb22a9aeea6f0be63ea98bcd716011d558f3d7a/ss_eeb22a9aeea6f0be63ea98bcd716011d558f3d7a.1920x1080.jpg?t=1781579464"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2273430/ss_8a670ff757f165907162508bd23b66315e2a4437.1920x1080.jpg?t=1781579464"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2273430/5a81cabaf5d22dd029c44f575220eade4316f652/ss_5a81cabaf5d22dd029c44f575220eade4316f652.1920x1080.jpg?t=1781579464"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2273430/28a77ba10b9fc233c31fe9bb13b7ac555ca8a82b/ss_28a77ba10b9fc233c31fe9bb13b7ac555ca8a82b.1920x1080.jpg?t=1781579464"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2273430/5275fed879f1310e7f6cdf42fa1b71349933cd66/ss_5275fed879f1310e7f6cdf42fa1b71349933cd66.1920x1080.jpg?t=1781579464"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2273430/96e048a35f26b8268d922aaef6b70b77c809d660/ss_96e048a35f26b8268d922aaef6b70b77c809d660.1920x1080.jpg?t=1781579464"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2273430/106b3620b64eae1a6d0641963ee24022c188a1cb/ss_106b3620b64eae1a6d0641963ee24022c188a1cb.1920x1080.jpg?t=1781579464"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2273430/ss_eb7efc1b1cc52a0904c8beae2283575855e2a6a4.1920x1080.jpg?t=1781579464"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2273430/ss_1dffcae936174b0f3534ad1aeb9f07fae83b7488.1920x1080.jpg?t=1781579464"
+    }
+  ],
+  "videos": [
+    {
+      "name": "ingame footage",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257344775/e0f60fc47219320581a6e7d21226e297a6d1fbfa/movie_600x337.jpg?t=1779964053",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2273430/1645862357/85ecd59152c945ecf35966b4d5c5ee8fe095321b/1779958510/dash_h264.mpd?t=1779964053"
+    },
+    {
+      "name": "ingame footage 2",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257359126/fa8d13f559bed2567ddd2a280647eb63d784817c/movie_600x337.jpg?t=1781513975",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2273430/117332784/039d9f987c00ab445191ed350d42a99ac6c699df/1781508967/dash_h264.mpd?t=1781513975"
+    }
+  ],
+  "metacritic": {
+    "score": 83,
+    "url": "https://www.metacritic.com/game/pc/blazblue-entropy-effect?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 2273430,
+    "store_url": "https://store.steampowered.com/app/2273430/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "2D",
+      "Action-Adventure",
+      "Action",
+      "Platformer",
+      "Replay Value",
+      "Pixel Graphics",
+      "Anime",
+      "Cyberpunk",
+      "Post-apocalyptic",
+      "Indie",
+      "Procedural Generation",
+      "Hack and Slash",
+      "2D Fighter",
+      "Singleplayer",
+      "Multiple Endings",
+      "Story Rich",
+      "Adventure",
+      "2D Platformer",
+      "Precision Platformer"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 33424,
+    "review_negative": 2033,
+    "review_total": 35457,
+    "review_positive_percent": 94.27
+  }
+}

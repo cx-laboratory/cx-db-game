@@ -1,0 +1,228 @@
+{
+  "key": "hidden-folks",
+  "name": "Hidden Folks",
+  "description": "Search for hidden folks in hand-drawn, interactive, miniature landscapes. Unfurl tent flaps, cut through bushes, slam doors, and poke some crocodiles! Rooooaaaarrrr!!!!!",
+  "developers": [
+    "Hidden Folks"
+  ],
+  "publishers": [
+    "Hidden Folks"
+  ],
+  "release_date": "2017-02-15",
+  "website": "https://hiddenfolks.com",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "hidden-object",
+    "hand-drawn",
+    "puzzle",
+    "point-and-click",
+    "relaxing",
+    "2d",
+    "funny",
+    "singleplayer",
+    "minimalist",
+    "cute",
+    "family-friendly",
+    "touch-friendly",
+    "isometric",
+    "design-and-illustration",
+    "audio-production",
+    "short",
+    "great-soundtrack"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "czech",
+    "turkish",
+    "arabic",
+    "brazilian",
+    "ukrainian",
+    "vietnamese",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Hidden Folks.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Adriaan de Jongh/Hidden Folks",
+          "pattern": "*.data",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Hidden Folks.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Adriaan de Jongh/Hidden Folks",
+          "pattern": "*.data",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Hidden Folks.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Adriaan de Jongh/Hidden Folks",
+          "pattern": "*.data",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Hidden Folks",
+    "Hidden Folks.app",
+    "Hidden Folks.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/435400/a5e0f8ad097cc58e7fd01d779e4585e163bcd909.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435400/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435400/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435400/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435400/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435400/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435400/ss_5cda037d48f0603bfc1268b1090d8a0f0f1780b3.1920x1080.jpg?t=1772365053"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435400/ss_d34c6c92e1edac02ec283de4ee4e020fb84bbf03.1920x1080.jpg?t=1772365053"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435400/ss_611032e3a955d50f03ed9303409b5d32e3173605.1920x1080.jpg?t=1772365053"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435400/ss_b7d41cea069093f9cdb25f234172c798445cdeb1.1920x1080.jpg?t=1772365053"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435400/ss_7c1d0a49c7af2d143fb8171444ccc3f0bdc4e506.1920x1080.jpg?t=1772365053"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435400/ss_792ee956fb87628c20d7319dcc7dd99b178f1ec2.1920x1080.jpg?t=1772365053"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435400/ss_cc79425465f6f664128c8604ac05f4da6ebd1124.1920x1080.jpg?t=1772365053"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435400/ss_b8eb1b0c777241fed9ec0ba10df588b1a9897fd8.1920x1080.jpg?t=1772365053"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Hidden Folks - Official Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256731247/movie.293x165.jpg?t=1540365287",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/435400/188795/12c42f3d68761815eafce370500ee0a2ef18ada5/1750530636/dash_h264.mpd?t=1540365287"
+    },
+    {
+      "name": "Hidden Folks - On Tour Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256785439/movie.293x165.jpg?t=1591272171",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/435400/285858/f9681de2ca16bf340ffa00b1788e373d960e8782/1750530640/dash_h264.mpd?t=1591272171"
+    },
+    {
+      "name": "Hidden Folks - Beach Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256785444/movie.293x165.jpg?t=1591272186",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/435400/285863/cd4e6a28b7a1446d4a841b51e0cdc37f98ed587e/1750530642/dash_h264.mpd?t=1591272186"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 435400,
+    "store_url": "https://store.steampowered.com/app/435400/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Hidden Object",
+      "Casual",
+      "Hand-drawn",
+      "Indie",
+      "Puzzle",
+      "Point & Click",
+      "Relaxing",
+      "2D",
+      "Funny",
+      "Singleplayer",
+      "Minimalist",
+      "Cute",
+      "Family Friendly",
+      "Touch-Friendly",
+      "Adventure",
+      "Isometric",
+      "Design & Illustration",
+      "Audio Production",
+      "Short",
+      "Great Soundtrack"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 9195,
+    "review_negative": 316,
+    "review_total": 9511,
+    "review_positive_percent": 96.68
+  }
+}

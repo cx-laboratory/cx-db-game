@@ -1,0 +1,269 @@
+{
+  "key": "the-outlast-trials",
+  "name": "The Outlast Trials",
+  "description": "Red Barrels invites you to experience mind-numbing terror, this time with friends. Whether you go through the trials alone or in teams, if you survive long enough and complete the therapy, Murkoff will happily let you leave… but will you be the same?",
+  "developers": [
+    "Red Barrels"
+  ],
+  "publishers": [
+    "Red Barrels"
+  ],
+  "release_date": "2024-03-05",
+  "website": "https://redbarrelsgames.com/games/the-outlast-trials/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "horror",
+    "first-person",
+    "pve",
+    "stealth",
+    "character-customization",
+    "survival",
+    "action-adventure",
+    "dark-humor",
+    "dark",
+    "realistic",
+    "atmospheric",
+    "alternate-history",
+    "science",
+    "gore"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "turkish",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "逃生：试炼"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "start_protected_game.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "TOTClient.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "TOTClient.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "start_protected_game.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "TOTClient.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "TOTClient.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "TOTClient.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "OPP/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "OPP/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The Outlast Trials",
+    "start_protected_game",
+    "TOTClient"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1304930/159a7d66ffd179c920eefe07392e6a261e899965.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/5143547592147425e5f62ff488f5a15da18ccc56/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/91a87d25d8f8a566ed05f8ddffb791480f070b8a/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/1a41fbf291d2e3b306e679ded124415cd534f6de/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_dcf2a8284d687f9319ac91a02b534dc91971754c.1920x1080.jpg?t=1779221190"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_6efe75be88bdfe0100f4b67ffe7e1034f1cf0cfe.1920x1080.jpg?t=1779221190"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_0576920dd310fd71cf63ff3035ff46137634febf.1920x1080.jpg?t=1779221190"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_dc46aa1b812001788a915f9088148356a697b305.1920x1080.jpg?t=1779221190"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_da9e1f8fe8ee47b129950570aa1baca12480ae63.1920x1080.jpg?t=1779221190"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_0a9b163b1458d64c79299353d485160176ca899c.1920x1080.jpg?t=1779221190"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_aa75eba5255570bb22c96dcb761189f5391d8d57.1920x1080.jpg?t=1779221190"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_50d3587cb71a649850ff07a146579d5c853f55d1.1920x1080.jpg?t=1779221190"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_4e190ff9b470b9628251f3c118c4479ed65f11b9.1920x1080.jpg?t=1779221190"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_72f0d9286b1ecad437c1b68bf57bef6324a4357a.1920x1080.jpg?t=1779221190"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_6326863cb2d4eb480a1ab07510eada281dc4344a.1920x1080.jpg?t=1779221190"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_e66c85a1a0c999dbb19a153b2cdcc1e431d56e27.1920x1080.jpg?t=1779221190"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_b94990196686b5e38c83d2da53133dccf5759e8d.1920x1080.jpg?t=1779221190"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Project Judas Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257308375/3601a020cecbe988796b2cbc60efc645aace3c67/movie_600x337.jpg?t=1774362778",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1304930/2088211010/daa115092484bd631ad18d122608d610417c4352/1774361779/dash_h264.mpd?t=1774362778"
+    },
+    {
+      "name": "Invasion Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257220550/166f98a6aaf8263ded96fa8cea71e1ac5232dc26/movie_600x337.jpg?t=1761062159",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1304930/1863728347/8b6d05744124a100e9e7ba9dc1718d19b917a416/1761060125/dash_h264.mpd?t=1761062159"
+    },
+    {
+      "name": "The Outlast Trials - Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257015646/movie.293x165.jpg?t=1719519011",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1304930/686943/d69c881cf5c0097bddd1020d0d95c5c5b6910d7c/1750671232/dash_h264.mpd?t=1719519011"
+    },
+    {
+      "name": "The Outlast Trials - 101 Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257005515/movie.293x165.jpg?t=1709677967",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1304930/670473/d3c99617a6db5c16b793f97bfa2cfc1e2ee7948e/1750671230/dash_h264.mpd?t=1709677967"
+    },
+    {
+      "name": "The Outlast Trials - Villains Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257004870/movie.293x165.jpg?t=1709650048",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1304930/669296/4117b0f870351f9ee26a9fee0a4b337c6ffa4e9c/1750672408/dash_h264.mpd?t=1709650048"
+    },
+    {
+      "name": "The Outlast Trials - Early Access Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256947686/movie.293x165.jpg?t=1684432006",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1304930/569245/0a2d36106007173d7928516d38ec0c4ca4da58d4/1750671229/dash_h264.mpd?t=1684432006"
+    },
+    {
+      "name": "The Outlast Trials - Closed Beta Trailer | Gamescom 2022",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256902318/movie.293x165.jpg?t=1661363597",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1304930/490194/896bee06bdada0972fc685e2e418dabbd05f68e5/1750671223/dash_h264.mpd?t=1661363597"
+    },
+    {
+      "name": "The Outlast Trials Gameplay Reveal | Gamescom 2021",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256848799/movie.293x165.jpg?t=1629989989",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1304930/396143/b21ed7ef6755174dd00c7576050923a201e82e00/1750671217/dash_h264.mpd?t=1629989989"
+    },
+    {
+      "name": "The Outlast Trials Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256787374/movie.293x165.jpg?t=1592088509",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1304930/289421/e856f3be876dda58bf927ae684faec1b9339333e/1750671212/dash_h264.mpd?t=1592088509"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1304930,
+    "store_url": "https://store.steampowered.com/app/1304930/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Horror",
+      "Multiplayer",
+      "Co-op",
+      "Survival Horror",
+      "Psychological Horror",
+      "First-Person",
+      "PvE",
+      "Stealth",
+      "Character Customization",
+      "Action",
+      "Survival",
+      "Action-Adventure",
+      "Dark Humor",
+      "Dark",
+      "Realistic",
+      "Atmospheric",
+      "Alternate History",
+      "Science",
+      "Adventure",
+      "Gore"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 98204,
+    "review_negative": 7782,
+    "review_total": 105986,
+    "review_positive_percent": 92.66
+  }
+}

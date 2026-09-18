@@ -1,0 +1,168 @@
+{
+  "key": "paper-lily-chapter-1",
+  "name": "Paper Lily - Chapter 1",
+  "description": "Paper Lily is an RPG horror game in which you can solve puzzles in different ways. Explore a hidden world, meet strange characters, and guide Lacie as she attempts to find answers about her unusual condition.",
+  "developers": [
+    "Leef 6010"
+  ],
+  "publishers": [
+    "Leef 6010"
+  ],
+  "release_date": "2024-01-27",
+  "website": "",
+  "tags": [
+    "adventure",
+    "indie",
+    "rpg",
+    "free-to-play",
+    "pixel-graphics",
+    "story-rich",
+    "anime",
+    "puzzle",
+    "exploration",
+    "multiple-endings",
+    "choices-matter",
+    "horror",
+    "cute",
+    "2d",
+    "mystery",
+    "female-protagonist",
+    "supernatural",
+    "top-down",
+    "atmospheric",
+    "funny",
+    "dark"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "japanese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "PaperLilyCh1.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Paper Lily",
+          "pattern": "*.sav",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Paper Lily",
+          "pattern": "*.sav",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Paper Lily - Chapter 1",
+    "PaperLilyCh1"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2220360/5184bdba5b32686929926e043885e9d3868a8b91.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2220360/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2220360/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2220360/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2220360/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2220360/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2220360/ss_4dcbe0a34df772cb40b073e6cbbc856f56e74e20.1920x1080.jpg?t=1732154443"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2220360/ss_c4eda0ffcdf3bccc36fe3676c34c9c4719beedac.1920x1080.jpg?t=1732154443"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2220360/ss_c0d663e697eb3d8d43ca1a3fd3c05c42cb8e6627.1920x1080.jpg?t=1732154443"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2220360/ss_e8a6623bb68c73d35cbc364d4542145fae11208a.1920x1080.jpg?t=1732154443"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2220360/ss_aaf96de11402b598314b34a90449bc4038aa8145.1920x1080.jpg?t=1732154443"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2220360/ss_de2a38c9e5a76ffafa33bb96f7eb782e849d2b1e.1920x1080.jpg?t=1732154443"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2220360/ss_e145cb055b97b4349b00070c898eb0cde47954dd.1920x1080.jpg?t=1732154443"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Paper Lily - Chapter 1 July Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256920531/movie.293x165.jpg?t=1671055405",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2220360/521082/2af02c22f6f698ae0285cd9c13be0d30d25eed8b/1751091696/dash_h264.mpd?t=1671055405"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2220360,
+    "store_url": "https://store.steampowered.com/app/2220360/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Pixel Graphics",
+      "Psychological Horror",
+      "Story Rich",
+      "Anime",
+      "RPG",
+      "Adventure",
+      "Puzzle",
+      "Exploration",
+      "Multiple Endings",
+      "Choices Matter",
+      "Horror",
+      "Cute",
+      "2D",
+      "Mystery",
+      "Female Protagonist",
+      "Supernatural",
+      "Top-Down",
+      "Atmospheric",
+      "Funny",
+      "Dark"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 8503,
+    "review_negative": 72,
+    "review_total": 8575,
+    "review_positive_percent": 99.16
+  }
+}

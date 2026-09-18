@@ -1,0 +1,157 @@
+{
+  "key": "microsoft-flight-simulator-x-steam-edition",
+  "name": "Microsoft Flight Simulator X: Steam Edition",
+  "description": "Take to the skies in the World’s favourite flight simulator! The multi award winning Microsoft Flight Simulator X lands on Steam for the first time. Take off from anywhere in the world, flying some of the world’s most iconic aircraft to any one of 24,000 destinations.",
+  "developers": [
+    "Microsoft Game Studios"
+  ],
+  "publishers": [
+    "Xbox Game Studios"
+  ],
+  "release_date": "2014-12-19",
+  "website": "http://www.fsxinsider.com",
+  "tags": [
+    "simulation",
+    "multiplayer",
+    "flight",
+    "realistic",
+    "open-world",
+    "singleplayer",
+    "moddable",
+    "adventure",
+    "first-person",
+    "atmospheric",
+    "vr",
+    "action",
+    "difficult",
+    "massively-multiplayer",
+    "co-op",
+    "military",
+    "third-person",
+    "strategy",
+    "local-multiplayer",
+    "sandbox"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "fsx.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Microsoft Flight Simulator X: Steam Edition",
+    "fsx"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/314160/dba4fedfc6365bb7cda9293a175df897df353411.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314160/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314160/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314160/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314160/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314160/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314160/ss_71c9a2ecd8a39887cb94de29c649e58c5d885631.1920x1080.jpg?t=1667504069"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314160/ss_9a531ecf9b38bad6129a74c75c66b2d74cf5fc96.1920x1080.jpg?t=1667504069"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314160/ss_e2e479b5b15b7764148acfa643747ecc647878d3.1920x1080.jpg?t=1667504069"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314160/ss_5e994c6e80f32c1b826cdcaafbd849ed4ae8b5b5.1920x1080.jpg?t=1667504069"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314160/ss_9ae3107602033fa20f11da543b34d4a1d9d7ff0a.1920x1080.jpg?t=1667504069"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314160/ss_dff6d0749a8db69746298de2b1366197ad9605a0.1920x1080.jpg?t=1667504069"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314160/ss_cfa9dd6754007e0158dea73f1af1159a6ab44285.1920x1080.jpg?t=1667504069"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314160/ss_e255657d2b9e4cbd0b84112e9fe8083c07955032.1920x1080.jpg?t=1667504069"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Microsoft FSX: Deluxe Edition Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2036109/movie.293x165.jpg?t=1447365975",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/314160/28625/3a377a1092d6156201747f3208c3cbcc1e1628b2/1750506742/dash_h264.mpd?t=1447365975"
+    },
+    {
+      "name": "Microsoft FSX: Acceleration Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2036135/movie.293x165.jpg?t=1447366022",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/314160/28667/fb44a5dd8ddc10aa55d5ad9708203f59db04937c/1750506755/dash_h264.mpd?t=1447366022"
+    },
+    {
+      "name": "FSX: Steam Edition Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2036108/movie.293x165.jpg?t=1447365975",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/314160/28624/1c1d4008e535573fc671db1901c68a29acee5f45/1750506711/dash_h264.mpd?t=1447365975"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 314160,
+    "store_url": "https://store.steampowered.com/app/314160/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Flight",
+      "Simulation",
+      "Realistic",
+      "Open World",
+      "Multiplayer",
+      "Singleplayer",
+      "Moddable",
+      "Adventure",
+      "First-Person",
+      "Atmospheric",
+      "VR",
+      "Action",
+      "Difficult",
+      "Massively Multiplayer",
+      "Co-op",
+      "Military",
+      "Third Person",
+      "Strategy",
+      "Local Multiplayer",
+      "Sandbox"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 22833,
+    "review_negative": 3544,
+    "review_total": 26377,
+    "review_positive_percent": 86.56
+  }
+}

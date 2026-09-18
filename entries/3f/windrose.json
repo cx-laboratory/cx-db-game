@@ -1,0 +1,230 @@
+{
+  "key": "windrose",
+  "name": "Windrose",
+  "description": "Embark on a PvE survival adventure in the Age of Piracy. Fight on land and sea, solo or with friends. Build, craft and explore vast open world filled with dark secrets. Master soulslite combat and take on challenging bosses, command your ship and plunder unspoken treasures!",
+  "developers": [
+    "Kraken Express"
+  ],
+  "publishers": [
+    "Kraken Express"
+  ],
+  "release_date": "2026-04-14",
+  "website": "https://playwindrose.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "rpg",
+    "early-access",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "pirates",
+    "open-world-survival-craft",
+    "survival",
+    "crafting",
+    "pve",
+    "exploration",
+    "naval-combat",
+    "building",
+    "sailing",
+    "open-world",
+    "base-building",
+    "massively-multiplayer",
+    "pvp",
+    "combat",
+    "action-adventure",
+    "third-person"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "German",
+    "Russian",
+    "Simplified Chinese",
+    "French",
+    "Italian",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese - Brazil",
+    "Turkish",
+    "Traditional Chinese*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "Windrose: 风启之旅",
+    "japanese": "Windrose / ウィンドローズ"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Windrose.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "R5/Saved/SaveProfiles/{64BitSteamID}/RocksDB/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "R5/Saved/SaveProfiles/{64BitSteamID}/RocksDB_v2_Backups/",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Windrose",
+    "Windrose: 风启之旅",
+    "Windrose / ウィンドローズ"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3041230/f8ae552a1c3eb4a6d3015867a6a4a64c02b9cd8d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/7e838d87d787735d5d29d72777c5ee55653dfb2b/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/6e112d27d66e13071f329e5ff68758dc18bd9a84/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/a33ca1d700b9b82884a9d908c4ed078ba3a9e2ed/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/3e9ad197ff39345193cd44c1d9a072b482865a9f/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/12e63c73b5494417289b13c7f424d11c518b7c4e/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/464db0a63a2d03bb8e75ecf04e24f8949b03d500/ss_464db0a63a2d03bb8e75ecf04e24f8949b03d500.1920x1080.jpg?t=1782370662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/f83b7aa29874e6e57fd20ab0642269536723ac1a/ss_f83b7aa29874e6e57fd20ab0642269536723ac1a.1920x1080.jpg?t=1782370662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/65dfc1db4ae81fd96d496c0e3bb9640281eafe0c/ss_65dfc1db4ae81fd96d496c0e3bb9640281eafe0c.1920x1080.jpg?t=1782370662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/9d7ee982069054a1ba23dc881f26f1f83f356daa/ss_9d7ee982069054a1ba23dc881f26f1f83f356daa.1920x1080.jpg?t=1782370662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/1ecaa7ff2d46c717a5afb4a7e11f678d16ae3064/ss_1ecaa7ff2d46c717a5afb4a7e11f678d16ae3064.1920x1080.jpg?t=1782370662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/c5f6647067df8c778831b463443b22b6e1df0ed6/ss_c5f6647067df8c778831b463443b22b6e1df0ed6.1920x1080.jpg?t=1782370662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/5d3be98ea6dfd79c30d0a2d3c49432eb30ef578f/ss_5d3be98ea6dfd79c30d0a2d3c49432eb30ef578f.1920x1080.jpg?t=1782370662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/23e417c098d10c118ee62c1438343cc80cb5e672/ss_23e417c098d10c118ee62c1438343cc80cb5e672.1920x1080.jpg?t=1782370662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/e873f4b6f600a2e49b10fe0f7210b5065785a2e5/ss_e873f4b6f600a2e49b10fe0f7210b5065785a2e5.1920x1080.jpg?t=1782370662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/4b33b55fb3fdb88a5319243b1d03fb86d864f42e/ss_4b33b55fb3fdb88a5319243b1d03fb86d864f42e.1920x1080.jpg?t=1782370662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/820ed1a84049ba0e27eda032aef1cb7bd23bb88a/ss_820ed1a84049ba0e27eda032aef1cb7bd23bb88a.1920x1080.jpg?t=1782370662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/2f665f3f6ef163cd3923a25078f78229e31e376a/ss_2f665f3f6ef163cd3923a25078f78229e31e376a.1920x1080.jpg?t=1782370662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/2f60058a1f971eaa36c7012c9973b71cd7fed9f1/ss_2f60058a1f971eaa36c7012c9973b71cd7fed9f1.1920x1080.jpg?t=1782370662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/7b3d4f112ecce9f80ba65018bde1cbedb14e692f/ss_7b3d4f112ecce9f80ba65018bde1cbedb14e692f.1920x1080.jpg?t=1782370662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/62caa8896b218305f00cb1c56a886e025c80a1a0/ss_62caa8896b218305f00cb1c56a886e025c80a1a0.1920x1080.jpg?t=1782370662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/40f37837656de147b7d5e4cc69498393d1990e2c/ss_40f37837656de147b7d5e4cc69498393d1990e2c.1920x1080.jpg?t=1782370662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/f457af3a0fecf1256342215297acf466866ffbb2/ss_f457af3a0fecf1256342215297acf466866ffbb2.1920x1080.jpg?t=1782370662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/6eb823b6a25499d8daa4ddd29382622bbee39cbd/ss_6eb823b6a25499d8daa4ddd29382622bbee39cbd.1920x1080.jpg?t=1782370662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/f7123eb49fb560e3befd7205cc61096d72572e6c/ss_f7123eb49fb560e3befd7205cc61096d72572e6c.1920x1080.jpg?t=1782370662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/ac24b9bbc5c50ba113f16ed18ca3dd57272f2c10/ss_ac24b9bbc5c50ba113f16ed18ca3dd57272f2c10.1920x1080.jpg?t=1782370662"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Windrose: Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257288135/1fecbfe6a64070b65f9a8d709f69f7825d38102b/movie_600x337.jpg?t=1776152381",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3041230/2012344070/6b0b773c076c6f25728af99a7af10b14639ec6bb/1776076852/dash_h264.mpd?t=1776152381"
+    },
+    {
+      "name": "Windrose: Early Access Release Date Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257288136/4093984f64af1ed550d09ce0571836e99e5823ed/movie_600x337.jpg?t=1776152383",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3041230/1708336673/38110294840935b7135c2dd1bc9f1cdf8ed5149b/1776077130/dash_h264.mpd?t=1776152383"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3041230,
+    "store_url": "https://store.steampowered.com/app/3041230/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Full controller support",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Early Access",
+      "Pirates",
+      "Online Co-Op",
+      "Open World Survival Craft",
+      "Survival",
+      "Crafting",
+      "PvE",
+      "Exploration",
+      "Naval Combat",
+      "Building",
+      "Sailing",
+      "Open World",
+      "Base Building",
+      "Massively Multiplayer",
+      "Adventure",
+      "PvP",
+      "Combat",
+      "Action-Adventure",
+      "Third Person",
+      "Action"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 42943,
+    "review_negative": 6308,
+    "review_total": 49251,
+    "review_positive_percent": 87.19
+  }
+}

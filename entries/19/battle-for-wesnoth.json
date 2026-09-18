@@ -1,0 +1,216 @@
+{
+  "key": "battle-for-wesnoth",
+  "name": "Battle for Wesnoth",
+  "description": "The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. Explore the four corners of Irdya in seventeen solo campaigns and dozens of multiplayer maps, taking part in countless adventures as you go.",
+  "developers": [
+    "The Battle for Wesnoth Project"
+  ],
+  "publishers": [
+    "Wesnoth Inc."
+  ],
+  "release_date": "2018-05-02",
+  "website": "https://www.wesnoth.org/",
+  "tags": [
+    "indie",
+    "strategy",
+    "free-to-play",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "turn-based-strategy",
+    "hex-grid",
+    "fantasy",
+    "turn-based",
+    "turn-based-tactics",
+    "pixel-graphics",
+    "2d",
+    "singleplayer",
+    "medieval",
+    "story-rich",
+    "dwarves",
+    "tactical",
+    "strategy-rpg",
+    "turn-based-combat",
+    "wargame",
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "Italian",
+    "Spanish - Spain",
+    "French",
+    "Czech",
+    "Japanese",
+    "Simplified Chinese",
+    "Polish",
+    "German",
+    "Portuguese - Portugal",
+    "Russian",
+    "Traditional Chinese",
+    "Turkish",
+    "Portuguese - Brazil",
+    "Dutch",
+    "Finnish"
+  ],
+  "name_localized": {
+    "schinese": "韦诺之战"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "wesnoth.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/Wesnoth1.18/saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "The Battle for Wesnoth.app/Contents/MacOS/The Battle for Wesnoth",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/Wesnoth1.18/saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "start.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/Wesnoth1.18/saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Battle for Wesnoth",
+    "wesnoth",
+    "The Battle for Wesnoth.app/Contents/MacOS/The Battle for Wesnoth",
+    "start.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/599390/e58cb158c85048a8d7c0d18a15d7cb52d4b30a6e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599390/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599390/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599390/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599390/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599390/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599390/ss_634ece7cfb5ee74d354a9355649e6a0977088e69.1920x1080.jpg?t=1713205573"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599390/ss_725b764a4be8e097024050f1729447ae762444e8.1920x1080.jpg?t=1713205573"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599390/ss_1ecc14c0bce636bd2a23187bb3628e556193701d.1920x1080.jpg?t=1713205573"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599390/ss_02da38b2c1e663933c89b8f2565bfca69a286c5e.1920x1080.jpg?t=1713205573"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599390/ss_d6cefdca6d30c7a7d5a7dd721263779e0a795f9c.1920x1080.jpg?t=1713205573"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599390/ss_a721d593bba623786657b60594ebc2418507d2aa.1920x1080.jpg?t=1713205573"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599390/ss_7aaa09143c6db204dc367c84394f552df73ef4ae.1920x1080.jpg?t=1713205573"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Battle for Wesnoth - 1.16",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256857578/movie.293x165.jpg?t=1635291932",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/599390/412168/5c6f0b2db4f0503f02ba80a1791d75c5123cf6de/1751108094/dash_h264.mpd?t=1635291932"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 599390,
+    "store_url": "https://store.steampowered.com/app/599390/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Indie",
+      "Strategy",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Cross-Platform Multiplayer",
+      "Steam Cloud",
+      "Includes level editor",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Strategy",
+      "Turn-Based Strategy",
+      "Hex Grid",
+      "Fantasy",
+      "Indie",
+      "Turn-Based",
+      "Multiplayer",
+      "Turn-Based Tactics",
+      "Pixel Graphics",
+      "2D",
+      "Singleplayer",
+      "Medieval",
+      "Story Rich",
+      "Dwarves",
+      "Tactical",
+      "Strategy RPG",
+      "Turn-Based Combat",
+      "Wargame",
+      "RPG"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 5568,
+    "review_negative": 344,
+    "review_total": 5912,
+    "review_positive_percent": 94.18
+  }
+}

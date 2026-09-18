@@ -1,0 +1,227 @@
+{
+  "key": "opus-magnum",
+  "name": "Opus Magnum",
+  "description": "Opus Magnum is the latest open-ended puzzle game from Zachtronics, the creators of SpaceChem, Infinifactory, and SHENZHEN I/O. Design and build machines that assemble potions, poisons, and more using the alchemical engineer’s most advanced tool: the transmutation engine!",
+  "developers": [
+    "Zachtronics"
+  ],
+  "publishers": [
+    "Zachtronics"
+  ],
+  "release_date": "2017-12-08",
+  "website": "http://www.zachtronics.com/opus-magnum",
+  "tags": [
+    "indie",
+    "simulation",
+    "puzzle",
+    "programming",
+    "automation",
+    "logic",
+    "singleplayer",
+    "steampunk",
+    "great-soundtrack",
+    "difficult",
+    "building",
+    "2d",
+    "sandbox",
+    "hex-grid",
+    "casual"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German",
+    "Japanese",
+    "Russian",
+    "Simplified Chinese",
+    "Spanish - Latin America",
+    "Korean",
+    "Turkish",
+    "Ukrainian",
+    "Portuguese - Portugal",
+    "Czech",
+    "Polish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Lightning.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "{64BitSteamID}",
+          "pattern": "save.dat",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "{64BitSteamID}",
+          "pattern": "*.solution",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "{64BitSteamID}/custom",
+          "pattern": "*.puzzle",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Opus Magnum.app/Contents/MacOS/Lightning",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "{64BitSteamID}",
+          "pattern": "save.dat",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "{64BitSteamID}",
+          "pattern": "*.solution",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "{64BitSteamID}/custom",
+          "pattern": "*.puzzle",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Lightning",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "{64BitSteamID}",
+          "pattern": "save.dat",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "{64BitSteamID}",
+          "pattern": "*.solution",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "{64BitSteamID}/custom",
+          "pattern": "*.puzzle",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Opus Magnum",
+    "Lightning",
+    "Opus Magnum.app/Contents/MacOS/Lightning"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/558990/b4495499d1319f1e96f7d86fe880d4e0b11e2562.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/558990/6d8aa1ce08dd0c0e711e0eb068d9d9af6fdb3317/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/558990/c2c8cce73d865f9c2a6f09328566e0c3f07ffde3/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/558990/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/558990/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/558990/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/558990/ss_e54f24ab7b2bebaee812be7e46e907ccc6323643.1920x1080.jpg?t=1774910584"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/558990/ss_e395f88a023ad623f64a622d343eee17e1e6ea9d.1920x1080.jpg?t=1774910584"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/558990/ss_0e35cab840c52b9d39b988d0b0c96b8fe9117264.1920x1080.jpg?t=1774910584"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/558990/ss_92c30b0f0d8737cfe8c0b70364bbb3712e2bdd43.1920x1080.jpg?t=1774910584"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/558990/ss_b699747de6a3335040160f7fc4af3b5158981b43.1920x1080.jpg?t=1774910584"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Opus Magnum Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256697803/movie.293x165.jpg?t=1508172049",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/558990/127514/6ebf4fd8b8a4cea71df5df6bb172bf0a25c6604d/1750551251/dash_h264.mpd?t=1508172049"
+    }
+  ],
+  "metacritic": {
+    "score": 90,
+    "url": "https://www.metacritic.com/game/pc/opus-magnum?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 558990,
+    "store_url": "https://store.steampowered.com/app/558990/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Puzzle",
+      "Programming",
+      "Automation",
+      "Indie",
+      "Simulation",
+      "Logic",
+      "Singleplayer",
+      "Steampunk",
+      "Great Soundtrack",
+      "Difficult",
+      "Building",
+      "2D",
+      "Sandbox",
+      "Hex Grid",
+      "Casual"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 6835,
+    "review_negative": 190,
+    "review_total": 7025,
+    "review_positive_percent": 97.3
+  }
+}

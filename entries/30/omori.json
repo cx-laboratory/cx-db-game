@@ -1,0 +1,187 @@
+{
+  "key": "omori",
+  "name": "OMORI",
+  "description": "Explore a strange world full of colorful friends and foes. When the time comes, the path you’ve chosen will determine your fate... and perhaps the fate of others as well.",
+  "developers": [
+    "OMOCAT, LLC"
+  ],
+  "publishers": [
+    "OMOCAT, LLC"
+  ],
+  "release_date": "2020-12-25",
+  "website": "http://omori-game.com/",
+  "tags": [
+    "adventure",
+    "indie",
+    "rpg",
+    "story-rich",
+    "pixel-graphics",
+    "great-soundtrack",
+    "multiple-endings",
+    "hand-drawn",
+    "horror",
+    "2d",
+    "colorful",
+    "turn-based",
+    "atmospheric",
+    "party-based-rpg",
+    "exploration",
+    "jrpg",
+    "stylized",
+    "anime",
+    "fantasy",
+    "emotional"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "koreana",
+    "schinese",
+    "japanese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "OMORI.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "OMORI.app\\Contents\\MacOS\\nwjs",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "OMORI.app\\Contents\\MacOS\\Chowdren",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "OMORI",
+    "OMORI.app\\Contents\\MacOS\\nwjs",
+    "OMORI.app\\Contents\\MacOS\\Chowdren"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1150690/29c42e099c6527a041bf17812d140508fab9c387.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/ss_219463835487a7205f0af93fb02d2c84855c667b.1920x1080.jpg?t=1671584768"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/ss_4bb5647e9094a13078d23f2a9daa4a9bd160841e.1920x1080.jpg?t=1671584768"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/ss_72e19b9ca001c03084b9eb7f5665514e60a6a6dd.1920x1080.jpg?t=1671584768"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/ss_14bd4cd7c2be96cdffa112d991ce755600c8ad72.1920x1080.jpg?t=1671584768"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/ss_126ccd3db36bf47431f6d6b92cf0922a3a918bfc.1920x1080.jpg?t=1671584768"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/ss_591d0375a075ae2afdd3ddf5a6172beb3f04c338.1920x1080.jpg?t=1671584768"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/ss_dceb64a6d59193b730c6d3d951519def8e043a57.1920x1080.jpg?t=1671584768"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/ss_f94eda3668d91d3705bb67dd04dce1bc07b3fa40.1920x1080.jpg?t=1671584768"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150690/ss_20f3a05a3343bc8dc2fb79f52c2f1c368d0a969b.1920x1080.jpg?t=1671584768"
+    }
+  ],
+  "videos": [
+    {
+      "name": "OMORI 2020 TRAILER",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256811753/movie.293x165.jpg?t=1618373243",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1150690/330495/67408cdf6287b5eecdca623b4d7a521ab9fb72ee/1750628823/dash_h264.mpd?t=1618373243"
+    },
+    {
+      "name": "OMORI 2017 TRAILER",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256761359/movie.293x165.jpg?t=1568179929",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1150690/241933/b4441aa7a4684ec6ff220fcacee110b0d8f2281e/1750628819/dash_h264.mpd?t=1568179929"
+    },
+    {
+      "name": "OMORI 2014 TRAILER",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256761358/movie.293x165.jpg?t=1568179937",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1150690/241931/4062143662cddde579094f7efaa0d2e5b28da1e9/1750628816/dash_h264.mpd?t=1568179937"
+    }
+  ],
+  "metacritic": {
+    "score": 88,
+    "url": "https://www.metacritic.com/game/pc/omori?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1150690,
+    "store_url": "https://store.steampowered.com/app/1150690/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Psychological Horror",
+      "Story Rich",
+      "Indie",
+      "Pixel Graphics",
+      "Great Soundtrack",
+      "RPG",
+      "Multiple Endings",
+      "Hand-drawn",
+      "Horror",
+      "2D",
+      "Colorful",
+      "Turn-Based",
+      "Atmospheric",
+      "Party-Based RPG",
+      "Exploration",
+      "JRPG",
+      "Stylized",
+      "Anime",
+      "Fantasy",
+      "Emotional"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 84664,
+    "review_negative": 2533,
+    "review_total": 87197,
+    "review_positive_percent": 97.1
+  }
+}

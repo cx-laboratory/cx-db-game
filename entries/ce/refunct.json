@@ -1,0 +1,227 @@
+{
+  "key": "refunct",
+  "name": "Refunct",
+  "description": "Refunct is a peaceful, short first-person platformer about restoring a vibrant world.",
+  "developers": [
+    "Dominique Grieshofer"
+  ],
+  "publishers": [
+    "Dominique Grieshofer"
+  ],
+  "release_date": "2015-10-17",
+  "website": "http://refunctgame.com",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "parkour",
+    "3d-platformer",
+    "relaxing",
+    "short",
+    "first-person",
+    "puzzle-platformer",
+    "platformer",
+    "atmospheric",
+    "open-world",
+    "stylized",
+    "great-soundtrack",
+    "singleplayer",
+    "colorful",
+    "exploration",
+    "family-friendly",
+    "cute",
+    "beautiful"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "hungarian",
+    "czech",
+    "romanian",
+    "turkish",
+    "arabic",
+    "brazilian",
+    "bulgarian",
+    "greek",
+    "ukrainian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Refunct\\Binaries\\Win32\\Refunct-Win32-Shipping.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Refunct/Saved/SaveGames",
+          "pattern": "Refunct.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Refunct.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Refunct/Saved/SaveGames",
+          "pattern": "Refunct.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Refunct/Binaries/Linux/Refunct-Linux-Shipping",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Refunct/Saved/SaveGames",
+          "pattern": "Refunct.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Refunct",
+    "Refunct\\Binaries\\Win32\\Refunct-Win32-Shipping",
+    "Refunct.app",
+    "Refunct/Binaries/Linux/Refunct-Linux-Shipping"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/406150/ca403dfb0c8bc2b5e92e1bdef6004a859c1a182c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/406150/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/406150/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/406150/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/406150/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/406150/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/406150/ss_c4eab9d7ae04fa70b14a9bb3eebed012c076d841.1920x1080.jpg?t=1695751806"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/406150/ss_78509c22c2e6c44258622595a3cb2f5f2f7558a7.1920x1080.jpg?t=1695751806"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/406150/ss_d4326019320d9d05cb4a0f60d2a6aa0f727cb103.1920x1080.jpg?t=1695751806"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/406150/ss_23dd48b99dcf9e2db26218d49cf49ad0329486bd.1920x1080.jpg?t=1695751806"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/406150/ss_4c618ae1f56a149e0252b356b218be42fff63aac.1920x1080.jpg?t=1695751806"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/406150/ss_6b1c892aa4e7d2e51a121c7e2143677d95140aab.1920x1080.jpg?t=1695751806"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/406150/ss_4f2ba11ac5e0e27cd844fcc982d16f0f1be33b34.1920x1080.jpg?t=1695751806"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/406150/ss_1d45590cc483a25e291e7638093aa9c334f264f1.1920x1080.jpg?t=1695751806"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/406150/ss_2594806c5b7de5a49a0483de3adae35138873006.1920x1080.jpg?t=1695751806"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Refunct Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256685863/movie.293x165.jpg?t=1495829664",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/406150/105046/8a849e3b2b4c67f9548a68827d028ae26a36a178/1751279269/dash_h264.mpd?t=1495829664"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 406150,
+    "store_url": "https://store.steampowered.com/app/406150/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Parkour",
+      "3D Platformer",
+      "Relaxing",
+      "Short",
+      "First-Person",
+      "Puzzle Platformer",
+      "Casual",
+      "Platformer",
+      "Atmospheric",
+      "Open World",
+      "Stylized",
+      "Great Soundtrack",
+      "Adventure",
+      "Singleplayer",
+      "Colorful",
+      "Exploration",
+      "Family Friendly",
+      "Cute",
+      "Beautiful"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 16713,
+    "review_negative": 724,
+    "review_total": 17437,
+    "review_positive_percent": 95.85
+  }
+}

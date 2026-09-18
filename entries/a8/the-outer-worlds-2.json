@@ -1,0 +1,598 @@
+{
+  "key": "the-outer-worlds-2",
+  "name": "The Outer Worlds 2",
+  "description": "The Outer Worlds 2 is the sequel to the award-winning first-person sci-fi RPG from Obsidian Entertainment.",
+  "developers": [
+    "Obsidian Entertainment"
+  ],
+  "publishers": [
+    "Xbox Game Studios"
+  ],
+  "release_date": "2025-10-30",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure",
+    "rpg",
+    "singleplayer",
+    "action-rpg",
+    "open-world",
+    "exploration",
+    "first-person",
+    "sci-fi",
+    "character-customization",
+    "choices-matter",
+    "violent",
+    "story-rich",
+    "third-person",
+    "gore",
+    "capitalism",
+    "space",
+    "shooter",
+    "dystopian",
+    "funny"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "TheOuterWorlds2Dev.exe",
+          "description": "Arkansas Development Configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "TheOuterWorlds2Test.exe",
+          "description": "Arkansas Test Configuration",
+          "type": "default"
+        },
+        {
+          "executable": "TheOuterWorlds2.exe",
+          "description": "Arkansas Shipping Configuration",
+          "type": "default"
+        },
+        {
+          "executable": "Arkansas.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "ArkansasTest.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "ArkansasTest.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "ArkansasDev.exe",
+          "description": "Arkansas Development Configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "ArkansasTest.exe",
+          "description": "Arkansas Test Configuration",
+          "type": "option2"
+        },
+        {
+          "executable": "Arkansas.exe",
+          "description": "Arkansas Shipping Configuration",
+          "type": "option3"
+        },
+        {
+          "executable": "ArkansasDev.exe",
+          "description": "Vertical Slice Development Configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "ArkansasTest.exe",
+          "description": "Vertical Slice Test Configuration",
+          "type": "option2"
+        },
+        {
+          "executable": "Arkansas.exe",
+          "description": "Vertical Slice Shipping Configuration",
+          "type": "option3"
+        },
+        {
+          "executable": "ArkansasDev.exe",
+          "description": "Blind Playtester Mode",
+          "type": "option1"
+        },
+        {
+          "executable": "ArkansasTest.exe",
+          "description": "Alpha Release Build in Test Config",
+          "type": "option2"
+        },
+        {
+          "executable": "TheOuterWorlds2Dev.exe",
+          "description": "Arkansas Development Configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "TheOuterWorlds2Test.exe",
+          "description": "Arkansas Test Configuration",
+          "type": "default"
+        },
+        {
+          "executable": "TheOuterWorlds2.exe",
+          "description": "Arkansas Shipping Configuration",
+          "type": "default"
+        },
+        {
+          "executable": "TheOuterWorlds2.exe",
+          "description": "Arkansas Shipping Configuration",
+          "type": "default"
+        },
+        {
+          "executable": "ArkansasDev.exe",
+          "description": "Arkansas Development Configuration",
+          "type": "default"
+        },
+        {
+          "executable": "ArkansasTest.exe",
+          "description": "Arkansas Test Configuration",
+          "type": "default"
+        },
+        {
+          "executable": "Arkansas.exe",
+          "description": "Arkansas Shipping Configuration",
+          "type": "default"
+        },
+        {
+          "executable": "Artbook/TOW2Artbook.exe",
+          "description": "Open Artbook & Soundtrack",
+          "type": "default"
+        },
+        {
+          "executable": "TheOuterWorlds2Dev.exe",
+          "description": "Arkansas Development Configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "TheOuterWorlds2Test.exe",
+          "description": "Arkansas Test Configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "TheOuterWorlds2Test.exe",
+          "description": "Arkansas Test Configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "TheOuterWorlds2.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "TheOuterWorlds2.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "TheOuterWorlds2.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "TheOuterWorlds2.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "TheOuterWorlds2Dev.exe",
+          "description": "Launch Dev Configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "TheOuterWorlds2Test.exe",
+          "description": "Launch Test Configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "TheOuterWorlds2.exe",
+          "description": "Launch Shipping Configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "TheOuterWorlds2.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "TheOuterWorlds2.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "TheOuterWorlds2Test.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Artbook/TOW2Artbook.exe",
+          "description": "Open Artbook & Soundtrack",
+          "type": "default"
+        },
+        {
+          "executable": "TheOuterWorlds2.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Artbook/TOW2Artbook.exe",
+          "description": "Open Artbook & Soundtrack",
+          "type": "default"
+        },
+        {
+          "executable": "TheOuterWorlds2Dev.exe",
+          "description": "Arkansas Development Configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "TheOuterWorlds2Test.exe",
+          "description": "Arkansas Test Configuration",
+          "type": "option2"
+        },
+        {
+          "executable": "TheOuterWorlds2.exe",
+          "description": "Arkansas Shipping Configuration",
+          "type": "option3"
+        },
+        {
+          "executable": "TheOuterWorlds2Dev.exe",
+          "description": "Arkansas Development Configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "TheOuterWorlds2Test.exe",
+          "description": "Arkansas Test Configuration",
+          "type": "option2"
+        },
+        {
+          "executable": "TheOuterWorlds2.exe",
+          "description": "Arkansas Shipping Configuration",
+          "type": "option3"
+        },
+        {
+          "executable": "TheOuterWorlds2Dev.exe",
+          "description": "Arkansas Development Configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "TheOuterWorlds2Test.exe",
+          "description": "Arkansas Test Configuration",
+          "type": "option2"
+        },
+        {
+          "executable": "TheOuterWorlds2.exe",
+          "description": "Arkansas Shipping Configuration",
+          "type": "option3"
+        },
+        {
+          "executable": "TheOuterWorlds2Dev.exe",
+          "description": "Arkansas Development Configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "TheOuterWorlds2Test.exe",
+          "description": "Arkansas Test Configuration",
+          "type": "option2"
+        },
+        {
+          "executable": "TheOuterWorlds2.exe",
+          "description": "Arkansas Shipping Configuration",
+          "type": "option3"
+        },
+        {
+          "executable": "TheOuterWorlds2Dev.exe",
+          "description": "Arkansas Development Configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "TheOuterWorlds2Test.exe",
+          "description": "Arkansas Test Configuration",
+          "type": "option2"
+        },
+        {
+          "executable": "TheOuterWorlds2.exe",
+          "description": "Arkansas Shipping Configuration",
+          "type": "option3"
+        },
+        {
+          "executable": "TheOuterWorlds2Dev.exe",
+          "description": "Arkansas Development Configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "TheOuterWorlds2Test.exe",
+          "description": "Arkansas Test Configuration",
+          "type": "option2"
+        },
+        {
+          "executable": "TheOuterWorlds2.exe",
+          "description": "Arkansas Shipping Configuration",
+          "type": "option3"
+        },
+        {
+          "executable": "TheOuterWorlds2Dev.exe",
+          "description": "Arkansas Development Configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "TheOuterWorlds2Test.exe",
+          "description": "Arkansas Test Configuration",
+          "type": "option2"
+        },
+        {
+          "executable": "TheOuterWorlds2.exe",
+          "description": "Arkansas Shipping Configuration",
+          "type": "option3"
+        },
+        {
+          "executable": "TheOuterWorlds2Dev.exe",
+          "description": "Arkansas Development Configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "TheOuterWorlds2Test.exe",
+          "description": "Arkansas Test Configuration",
+          "type": "option2"
+        },
+        {
+          "executable": "TheOuterWorlds2.exe",
+          "description": "Arkansas Shipping Configuration",
+          "type": "option3"
+        },
+        {
+          "executable": "TheOuterWorlds2Dev.exe",
+          "description": "Arkansas Development Configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "TheOuterWorlds2Test.exe",
+          "description": "Arkansas Test Configuration",
+          "type": "option2"
+        },
+        {
+          "executable": "TheOuterWorlds2.exe",
+          "description": "Arkansas Shipping Configuration",
+          "type": "option3"
+        },
+        {
+          "executable": "TheOuterWorlds2Dev.exe",
+          "description": "Arkansas Development Configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "TheOuterWorlds2Test.exe",
+          "description": "Arkansas Test Configuration",
+          "type": "option2"
+        },
+        {
+          "executable": "TheOuterWorlds2.exe",
+          "description": "Arkansas Shipping Configuration",
+          "type": "option3"
+        },
+        {
+          "executable": "TheOuterWorlds2Dev.exe",
+          "description": "Arkansas Development Configuration",
+          "type": "option3"
+        },
+        {
+          "executable": "TheOuterWorlds2Test.exe",
+          "description": "Arkansas Test Configuration",
+          "type": "option3"
+        },
+        {
+          "executable": "TheOuterWorlds2Dev.exe",
+          "description": "Arkansas Development Configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "TheOuterWorlds2Test.exe",
+          "description": "Arkansas Test Configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "TheOuterWorlds2Dev.exe",
+          "description": "Arkansas Development Configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "TheOuterWorlds2Test.exe",
+          "description": "Arkansas Test Configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "TheOuterWorlds2.exe",
+          "description": "Arkansas Shipping Configuration",
+          "type": "option3"
+        },
+        {
+          "executable": "TheOuterWorlds2Dev.exe",
+          "description": "Arkansas Development Configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "TheOuterWorlds2Test.exe",
+          "description": "Arkansas Test Configuration",
+          "type": "option2"
+        },
+        {
+          "executable": "TheOuterWorlds2.exe",
+          "description": "Arkansas Shipping Configuration",
+          "type": "option3"
+        },
+        {
+          "executable": "TheOuterWorlds2Dev.exe",
+          "description": "Arkansas Development Configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "TheOuterWorlds2Test.exe",
+          "description": "Arkansas Test Configuration",
+          "type": "option2"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "The Outer Worlds 2",
+    "TheOuterWorlds2Dev",
+    "TheOuterWorlds2Test",
+    "TheOuterWorlds2",
+    "Arkansas",
+    "ArkansasTest",
+    "ArkansasDev",
+    "Artbook/TOW2Artbook"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1449110/875904d1dbf5b23c755ea1f0b30fdad7a77063ac.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449110/fe273e39cbaf4997d1c8e53879800f07dba0ee03/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449110/da980550b308768b5a9b3ba451e3e25ed00aae06/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449110/71710d0ac331340ac2b639d1221224c5c6944acb/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449110/2257d8e691c3fa41b25f7e4f5f2bc1237f979120/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449110/5bc06a827a5a3271ec2ffd707043c78b6733173e/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449110/aed9141f12c197a06fb1d6a68b06ac9251f80370/ss_aed9141f12c197a06fb1d6a68b06ac9251f80370.1920x1080.jpg?t=1761760147"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449110/28c22a02a2c6341d94372826b24e163e59d4154c/ss_28c22a02a2c6341d94372826b24e163e59d4154c.1920x1080.jpg?t=1761760147"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449110/ab26c9f54d15037f18b4dd39f9c12b790d5bfb2f/ss_ab26c9f54d15037f18b4dd39f9c12b790d5bfb2f.1920x1080.jpg?t=1761760147"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449110/08a867275ba289445985a9249d519f264284735b/ss_08a867275ba289445985a9249d519f264284735b.1920x1080.jpg?t=1761760147"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449110/fb0e7634f9cf831965d80a19746c4d53ecb5beea/ss_fb0e7634f9cf831965d80a19746c4d53ecb5beea.1920x1080.jpg?t=1761760147"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449110/ea30bd993c3ba23d01d46fa57cdb2d16039ca71e/ss_ea30bd993c3ba23d01d46fa57cdb2d16039ca71e.1920x1080.jpg?t=1761760147"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449110/da4b70de38dba072ece5eb8abe22e45044210ab0/ss_da4b70de38dba072ece5eb8abe22e45044210ab0.1920x1080.jpg?t=1761760147"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449110/6a0b9078c00fe0259a0458d47800970157c04bff/ss_6a0b9078c00fe0259a0458d47800970157c04bff.1920x1080.jpg?t=1761760147"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449110/f875b050dee09ec4790e9dc87be2f75edce84156/ss_f875b050dee09ec4790e9dc87be2f75edce84156.1920x1080.jpg?t=1761760147"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257224097/bed41ed769255ab43f8cf4c00a78bedbfdc5fea2/movie_600x337.jpg?t=1761757084",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1449110/263496221/3c500481c625a813ebe5e96a8db588322330b428/1761734460/dash_h264.mpd?t=1761757084"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257223090/d66c6288f8d79b78afbccb9b5cc1c720d34bcde1/movie_600x337.jpg?t=1761757085",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1449110/255536334/a0efaee9e7c35421bc879088ab21939bc2edacb4/1761566186/dash_h264.mpd?t=1761757085"
+    },
+    {
+      "name": "Early Access",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257220973/d66c6288f8d79b78afbccb9b5cc1c720d34bcde1/movie_600x337.jpg?t=1761336817",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1449110/869941871/5668ae9aa1c1ba98368404743b0eb86e5a3dd5f6/1761129815/dash_h264.mpd?t=1761336817"
+    },
+    {
+      "name": "Gamescom Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257185464/736d452e23abfddbb7e91269444360c955fbde21/movie_600x337.jpg?t=1755640376",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1449110/1709350528/7ba6dc92d23130e8f9d1bab456badb05453d9bac/1755614815/dash_h264.mpd?t=1755640376"
+    },
+    {
+      "name": "Story",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257153513/42e33f2bd7a2be01290f081b7dc203b2f73b4452/movie_600x337.jpg?t=1749411919",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1449110/1543940640/4edee98a6b97af2958e3fc768ef07204af0737eb/1750689839/dash_h264.mpd?t=1749411919"
+    },
+    {
+      "name": "The Game Awards",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257081556/750264047853f84e1ab13459cbd82d449b73c2a3/movie_600x337.jpg?t=1734053869",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1449110/799241/85a15a6b1f57368837b4f35dfef6fd5b39bd732c/1750689831/dash_h264.mpd?t=1734053869"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1449110,
+    "store_url": "https://store.steampowered.com/app/1449110/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Save Anytime",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Surround Sound",
+      "Steam Cloud",
+      "Stats",
+      "Family Sharing"
+    ],
+    "tags": [
+      "RPG",
+      "Singleplayer",
+      "Action RPG",
+      "Open World",
+      "Exploration",
+      "First-Person",
+      "Adventure",
+      "Sci-fi",
+      "Action",
+      "Character Customization",
+      "Choices Matter",
+      "Violent",
+      "Story Rich",
+      "Third Person",
+      "Gore",
+      "Capitalism",
+      "Space",
+      "Shooter",
+      "Dystopian ",
+      "Funny"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 6266,
+    "review_negative": 2210,
+    "review_total": 8476,
+    "review_positive_percent": 73.93
+  }
+}

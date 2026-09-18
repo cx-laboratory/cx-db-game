@@ -1,0 +1,227 @@
+{
+  "key": "hearts-of-iron-iv",
+  "name": "Hearts of Iron IV",
+  "description": "Victory is at your fingertips! Your ability to lead your nation is your supreme weapon, the strategy game Hearts of Iron IV lets you take command of any nation in World War II; the most engaging conflict in world history.",
+  "developers": [
+    "Paradox Development Studio"
+  ],
+  "publishers": [
+    "Paradox Interactive"
+  ],
+  "release_date": "2016-06-06",
+  "website": "http://www.heartsofiron4.com/",
+  "tags": [
+    "simulation",
+    "strategy",
+    "multiplayer",
+    "co-op",
+    "world-war-ii",
+    "grand-strategy",
+    "war",
+    "historical",
+    "military",
+    "alternate-history",
+    "tactical",
+    "singleplayer",
+    "rts",
+    "real-time-with-pause",
+    "diplomacy",
+    "sandbox",
+    "strategy-rpg",
+    "open-world",
+    "competitive",
+    "action"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "russian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "dowser.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "hoi4.exe",
+          "description": "Launch game (1.7.1 and older)",
+          "type": "default"
+        },
+        {
+          "executable": "hoi4.exe",
+          "description": "Launch game (skip launcher)",
+          "type": "default"
+        },
+        {
+          "executable": "hoi4.exe",
+          "description": "Launch game (Nakama MP)",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "dowser",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "hoi4.app",
+          "description": "Launch game (1.7.1 and older)",
+          "type": "default"
+        },
+        {
+          "executable": "hoi4.app",
+          "description": "Launch game (skip launcher)",
+          "type": "default"
+        },
+        {
+          "executable": "hoi4.app",
+          "description": "Launch game (Nakama MP)",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "dowser",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "hoi4",
+          "description": "Launch game (1.7.1 and older)",
+          "type": "default"
+        },
+        {
+          "executable": "run_hoi4",
+          "description": "Launch game (skip launcher)",
+          "type": "default"
+        },
+        {
+          "executable": "hoi4",
+          "description": "Launch game (skip launcher)",
+          "type": "default"
+        },
+        {
+          "executable": "run_hoi4",
+          "description": "Launch game (Nakama MP)",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Hearts of Iron IV",
+    "dowser",
+    "hoi4",
+    "hoi4.app",
+    "run_hoi4"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/394360/67b15e2336311b4b4f1eb5c802af0c0dbe644195.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/67bbd0057627fc2244793bcdd09260c2539499cf/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/08a0a8f6c28071017611aa39b835c193a27f2518/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_242abc1c2ca21f7d8694ba8d9239d8944217b29f.1920x1080.jpg?t=1782396105"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_679ae0d56f3a3b33591262839588c4b1dc6bef12.1920x1080.jpg?t=1782396105"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_ebcec59e821aa1ee43c6d047eaef4e846af99358.1920x1080.jpg?t=1782396105"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_fc239db7ed07e8ec4e6440cd0c6ced88a955d90e.1920x1080.jpg?t=1782396105"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_c7916f607a289830f424daebe3e2f281afbb456b.1920x1080.jpg?t=1782396105"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_f07f7ebc18d5e6a9692ec748a4f203fe0c748feb.1920x1080.jpg?t=1782396105"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Hearts of Iron IV - Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257012977/movie.293x165.jpg?t=1712235668",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/394360/682731/bd7bbea629ccbef568dd3c4d8552ba6e05b3c0ed/1750525316/dash_h264.mpd?t=1712235668"
+    }
+  ],
+  "metacritic": {
+    "score": 83,
+    "url": "https://www.metacritic.com/game/pc/hearts-of-iron-iv?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 394360,
+    "store_url": "https://store.steampowered.com/app/394360/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "World War II",
+      "Grand Strategy",
+      "War",
+      "Historical",
+      "Military",
+      "Alternate History",
+      "Multiplayer",
+      "Simulation",
+      "Tactical",
+      "Singleplayer",
+      "RTS",
+      "Real-Time with Pause",
+      "Diplomacy",
+      "Sandbox",
+      "Co-op",
+      "Strategy RPG",
+      "Open World",
+      "Competitive",
+      "Action"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 334040,
+    "review_negative": 36733,
+    "review_total": 370773,
+    "review_positive_percent": 90.09
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "key": "the-lord-of-the-rings-return-to-moria",
+  "name": "The Lord of the Rings: Return to Moria™",
+  "description": "A survival crafting adventure set in the Fourth Age of Middle-earth. Lead the Dwarves to reclaim Moria - mine, build, and battle through procedurally generated depths alone or with up to 8 players in co-op. It is time to return to Moria!",
+  "developers": [
+    "Free Range Games"
+  ],
+  "publishers": [
+    "North Beach Games"
+  ],
+  "release_date": "2024-08-27",
+  "website": "https://www.returntomoria.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "rpg",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "dwarves",
+    "base-building",
+    "open-world-survival-craft",
+    "survival",
+    "exploration",
+    "crafting",
+    "building",
+    "action-adventure",
+    "open-world",
+    "pve",
+    "sandbox",
+    "character-customization",
+    "third-person",
+    "singleplayer",
+    "fantasy"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "《指环王：重返墨瑞亚™》Return to Moria",
+    "japanese": "『Lord of the Rings: Return to Moria™』",
+    "koreana": "반지의 제왕: 모리아로의 귀환™"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Moria.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Moria/Saved/SaveGamesSteam",
+          "pattern": "M*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Moria/Saved/SaveGamesSteam",
+          "pattern": "M*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The Lord of the Rings: Return to Moria™",
+    "Moria",
+    "《指环王：重返墨瑞亚™》Return to Moria",
+    "『Lord of the Rings: Return to Moria™』",
+    "반지의 제왕: 모리아로의 귀환™"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2933130/29286f2af71b4c1752abf62428e2b60761f7e69a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/6b8f8cf6304969c5c1d72fb3b33e5a31a1255f83/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/93b8cebe7e5a647354333a3725358c92b1678d41/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/ss_9454e92cc8de822782883eda741a37d20775e290.1920x1080.jpg?t=1776449367"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/ss_49a8dea386588b65b123c774cc019cdcd0be77ef.1920x1080.jpg?t=1776449367"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/4a0fac033bb2a244008ec0c7685191fc7e034657/ss_4a0fac033bb2a244008ec0c7685191fc7e034657.1920x1080.jpg?t=1776449367"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/ss_b6aa4f64853798919e2f9ded08505796c289b64d.1920x1080.jpg?t=1776449367"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/ss_bf0f3767d394312db439d4ffddd2482dff5952b2.1920x1080.jpg?t=1776449367"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/ss_c2e8267e544a51bd83a28aaa37765728d6a5f338.1920x1080.jpg?t=1776449367"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/ss_d6ab99d050b4d57f80831dec3f24046995553d6b.1920x1080.jpg?t=1776449367"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/ss_2c2939260377b9b4fb5abe7a5ba4ad483752c4d8.1920x1080.jpg?t=1776449367"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/ss_d25ed4bb8f95b92e69a37dc3c28ea02361eba815.1920x1080.jpg?t=1776449367"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/ss_e273de3dd0f53106219f2916e463b50cae3afb7e.1920x1080.jpg?t=1776449367"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/ss_32060f613652431930eead4a0148c355bf1ea82c.1920x1080.jpg?t=1776449367"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/ss_78d63a485c61d2aaa381c2589b22a5885e89c8c5.1920x1080.jpg?t=1776449367"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/ss_1acd45c431cba0ad096d7296f4f947c5ba67fb64.1920x1080.jpg?t=1776449367"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/ss_3a73cc11381e13864e399d6001e20e1f7586419c.1920x1080.jpg?t=1776449367"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/ss_5ca877131405dc0f0f88324016b6cb200ceecb1f.1920x1080.jpg?t=1776449367"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/ss_a5852a61209344099ebb74bd2d4f34f0c596e2dd.1920x1080.jpg?t=1776449367"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/0a58d4ad14539a9ea8c358e59c120a8a83fc31c0/ss_0a58d4ad14539a9ea8c358e59c120a8a83fc31c0.1920x1080.jpg?t=1776449367"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/ss_647ae89e8e12bd17d5f5d6f0c253d05a5aa539aa.1920x1080.jpg?t=1776449367"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/ss_26c1f8031572396c472039c52a2ac48ac5f49664.1920x1080.jpg?t=1776449367"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/ss_b2e3e77db800d642921ee5f7ce731d517f5592de.1920x1080.jpg?t=1776449367"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/ss_d6b5a0c616ac45e5956a5129bf358db9ea4f3ba6.1920x1080.jpg?t=1776449367"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Lord of the Rings: Return to Moria™",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257014563/movie.293x165.jpg?t=1718147120",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2933130/685274/b0071d4a617e8621f4592434bd455299187be4d4/1750821709/dash_h264.mpd?t=1718147120"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2933130,
+    "store_url": "https://store.steampowered.com/app/2933130/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Dwarves",
+      "Base Building",
+      "Open World Survival Craft",
+      "Survival",
+      "Online Co-Op",
+      "Exploration",
+      "Crafting",
+      "Building",
+      "Adventure",
+      "Multiplayer",
+      "Action-Adventure",
+      "Open World",
+      "PvE",
+      "Sandbox",
+      "RPG",
+      "Action",
+      "Character Customization",
+      "Third Person",
+      "Singleplayer",
+      "Fantasy"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 9850,
+    "review_negative": 2274,
+    "review_total": 12124,
+    "review_positive_percent": 81.24
+  }
+}

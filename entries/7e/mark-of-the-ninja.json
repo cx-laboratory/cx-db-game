@@ -1,0 +1,159 @@
+{
+  "key": "mark-of-the-ninja",
+  "name": "Mark of the Ninja",
+  "description": "In Mark of the Ninja, you'll know what it is to truly be a ninja. You must be silent, agile and clever to outwit your opponents in a world of gorgeous scenery and flowing animation. Marked with cursed tattoos giving you heightened senses, every situation presents you with options.",
+  "developers": [
+    "Klei Entertainment"
+  ],
+  "publishers": [
+    "Microsoft Studios"
+  ],
+  "release_date": "",
+  "website": "http://www.markoftheninja.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "japanese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "bin/game.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "ninja.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "bin/ninja-bin32",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Mark of the Ninja",
+    "bin/game",
+    "ninja.app",
+    "bin/ninja-bin32"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/214560/220f33169c93c2f6381cd785399fb52bfc79309f.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214560/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214560/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214560/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214560/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214560/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214560/ss_e0e5bff3ff1aa40dd71296ca9becf8279910da2b.1920x1080.jpg?t=1668892924"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214560/ss_5ca2235feff99db0b31a9e5578a64ef3806e9581.1920x1080.jpg?t=1668892924"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214560/ss_152fb144da101f023f0440b2755b0a9f9e3847ce.1920x1080.jpg?t=1668892924"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214560/ss_99576c9f2ce7bad1077482929ea68e100a825e81.1920x1080.jpg?t=1668892924"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214560/ss_3fae382f516aa00cbffa1deac3a20c9889a8f27e.1920x1080.jpg?t=1668892924"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214560/ss_06c44458d747cb051caae433a90c4a3e1c364996.1920x1080.jpg?t=1668892924"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214560/ss_d4c7490e8dd431423cbbc703b71fb5ff3226ddf1.1920x1080.jpg?t=1668892924"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214560/ss_c3fac39257953490c2107b24149da896cd45b881.1920x1080.jpg?t=1668892924"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214560/ss_bc45b75443cc6793ce6630a180c9a6cfc183dfae.1920x1080.jpg?t=1668892924"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214560/ss_6219a3e9a252b60ba1287df0091f8cc9764974b1.1920x1080.jpg?t=1668892924"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214560/ss_e630da8817bd1d277a6485068abff3a5fe9e728e.1920x1080.jpg?t=1668892924"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214560/ss_85db542fe8fe4020dfc7abafb283f3a3270d03ee.1920x1080.jpg?t=1668892924"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Mark of the Ninja Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028061/movie.293x165.jpg?t=1447356886",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/214560/9472/5a24718a751cf92c7703348f746679e4cee9a432/1751259502/dash_h264.mpd?t=1447356886"
+    }
+  ],
+  "metacritic": {
+    "score": 91,
+    "url": "https://www.metacritic.com/game/pc/mark-of-the-ninja?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 214560,
+    "store_url": "https://store.steampowered.com/app/214560/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 15397,
+    "review_negative": 474,
+    "review_total": 15871,
+    "review_positive_percent": 97.01
+  }
+}

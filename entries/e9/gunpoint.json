@@ -1,0 +1,175 @@
+{
+  "key": "gunpoint",
+  "name": "Gunpoint",
+  "description": "Gunpoint is a stealth puzzle game that lets you rewire its levels to trick people. You play a freelance spy who takes jobs from his clients to break into high security buildings and steal sensitive data.",
+  "developers": [
+    "Suspicious Developments"
+  ],
+  "publishers": [
+    "Suspicious Developments"
+  ],
+  "release_date": "2013-06-03",
+  "website": "http://www.gunpointgame.com/",
+  "tags": [
+    "action",
+    "indie",
+    "strategy",
+    "stealth",
+    "puzzle",
+    "2d",
+    "pixel-graphics",
+    "singleplayer",
+    "comedy",
+    "noir",
+    "platformer",
+    "great-soundtrack",
+    "funny",
+    "short",
+    "hacking",
+    "level-editor",
+    "story-rich",
+    "adventure",
+    "sci-fi",
+    "addictive"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Gunpoint.exe",
+          "description": "Start game",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "GunpointSteam.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "GunpointSteam",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Gunpoint",
+    "GunpointSteam.app",
+    "GunpointSteam"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/206190/19a835390a85aaa08ef41adbf23c1d56e7d5ac9a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206190/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206190/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206190/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206190/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206190/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206190/ss_74d9eee2fe86c3d269940349d767509706a52742.1920x1080.jpg?t=1777562335"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206190/ss_2db94252598e718261d7dd2b81c5dd3724a44fcf.1920x1080.jpg?t=1777562335"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206190/ss_242ae07b6d1da6c7a75823d63fae55dae8db7724.1920x1080.jpg?t=1777562335"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206190/ss_1f31860f722401d5a8205735686dd1b0df6d7270.1920x1080.jpg?t=1777562335"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206190/ss_52ef40b4f5f1c02e3e2479085225a856f96b06cc.1920x1080.jpg?t=1777562335"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206190/ss_f277218e161d82e42a0c94050ac2cf369afa09f0.1920x1080.jpg?t=1777562335"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gunpoint Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028779/movie.293x165.jpg?t=1447358043",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/206190/11856/3841e3b410bf9f72dcb08deea21f08c29bd034b8/1751249891/dash_h264.mpd?t=1447358043"
+    }
+  ],
+  "metacritic": {
+    "score": 83,
+    "url": "https://www.metacritic.com/game/pc/gunpoint?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 206190,
+    "store_url": "https://store.steampowered.com/app/206190/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Cloud",
+      "Includes level editor",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Stealth",
+      "Indie",
+      "Puzzle",
+      "2D",
+      "Pixel Graphics",
+      "Singleplayer",
+      "Comedy",
+      "Action",
+      "Strategy",
+      "Noir",
+      "Platformer",
+      "Great Soundtrack",
+      "Funny",
+      "Short",
+      "Hacking",
+      "Level Editor",
+      "Story Rich",
+      "Adventure",
+      "Sci-fi",
+      "Addictive"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 12970,
+    "review_negative": 331,
+    "review_total": 13301,
+    "review_positive_percent": 97.51
+  }
+}

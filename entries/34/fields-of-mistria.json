@@ -1,0 +1,246 @@
+{
+  "key": "fields-of-mistria",
+  "name": "Fields of Mistria",
+  "description": "Start your new life! Build the farm of your dreams as you discover a world brimming with possibilities. Magic, romance, and adventure all await you in this nostalgic farming / life sim RPG!",
+  "developers": [
+    "NPC Studio"
+  ],
+  "publishers": [
+    "NPC Studio"
+  ],
+  "release_date": "2024-08-06",
+  "website": "https://fieldsofmistria.com",
+  "tags": [
+    "indie",
+    "rpg",
+    "simulation",
+    "early-access",
+    "farming-sim",
+    "dating-sim",
+    "life-sim",
+    "pixel-graphics",
+    "romance",
+    "cute",
+    "farming",
+    "relaxing",
+    "agriculture",
+    "anime",
+    "sandbox",
+    "2d",
+    "open-world",
+    "crafting",
+    "building",
+    "cooking",
+    "lgbtq"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "FieldsOfMistria.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "FieldsOfMistria/saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "FieldsOfMistria",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "FieldsOfMistria/saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Fields of Mistria",
+    "FieldsOfMistria"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2142790/a7d749ad644f89eaed4180d8f88e6256e5d3d509.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/c653e0ddd72698a03b70cd6c87221fc95ddec873/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/382c0b0cca3c106195c81eb9e04097175b7e8af7/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_468560d6cc336409644cfc1891e73d1ea26cb56e.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_980c227a20de85c9a39bcdf574b77e9d43a9d2e4.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_11800c6902cd77d6363e9e64118a84af55d7c75b.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_64185ab6bada96e82d4e7c311ac13c52808d10dc.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_f2592c4bdf482b43e2dacb9880c0f80b032602f2.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_de3ed1e9c9b3b360fd8fbdb91ab6b68cc0e5c532.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_84d3ce03815c66bcb27618668b47a674ad4e3562.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_e379040d1b0887933f01c02697f774b0084a49ec.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_f709e394f96439563791e2808aa2b6f80b85e734.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_068936ec26a0ebe91c35ae796327d056062f06ce.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_1b6e2a9598fc81be622578c9474332bde163e406.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_4503c40d5d2b7fec8672081ebcc0e44e791407c0.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_21bf5c80d21f6323201598659f766c854179c029.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_2c958198d9afa63a4aa96a6759e537895bced590.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_e3a5ed73a313fb78af952544fa12927bb2db3868.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_210f161acd95acc89093c42476a642d5a9be6e88.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_12c9743a0544072ea19a5f61969c115b5529e48a.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_3064cd34a7ee977f08c2107deb8d360f43d604c5.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_d0433ab84ff1caf41a3a898997ecb790b39d9a42.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_a0a41ebfd028ddd6307e8708c2c570d1278e2a01.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_1b6f20d74f63d6f86adc8e9fcdb882aea7e87ea3.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_dc13e0cb222244725ac8851bc36e475cc1ad0ba9.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/ss_0b7bd03329db1e84d91a6e69a655898da1fe23a3.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/da6674413a99aab4396db2e88aa6860b799ae904/ss_da6674413a99aab4396db2e88aa6860b799ae904.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/0343298d2cbb95d614b1303e8ce445a5a7c99c7b/ss_0343298d2cbb95d614b1303e8ce445a5a7c99c7b.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/fbd46942fca798ed0aec7437a747d03d8bea19c2/ss_fbd46942fca798ed0aec7437a747d03d8bea19c2.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/83f71e0f52fa5916dea4d380178973e59689026f/ss_83f71e0f52fa5916dea4d380178973e59689026f.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/78cf02b5379b255b71c36c5e381cbfb895378fa4/ss_78cf02b5379b255b71c36c5e381cbfb895378fa4.1920x1080.jpg?t=1781538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/fe4deee70275d88aec12dfdf6ba0649cde3d3233/ss_fe4deee70275d88aec12dfdf6ba0649cde3d3233.1920x1080.jpg?t=1781538118"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Major Update 4",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257292405/2ed55565f23642d85fd143aa3ddf4ff4905443c8/movie_600x337.jpg?t=1771865128",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2142790/1700191473/0059913872257747c4dc34f104c569ec48fb88e8/1771796317/dash_h264.mpd?t=1771865128"
+    },
+    {
+      "name": "Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256951238/movie.293x165.jpg?t=1731959967",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2142790/575474/0d054e202288ab24aa8e522051e3999fc7726148/1750747807/dash_h264.mpd?t=1731959967"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2142790,
+    "store_url": "https://store.steampowered.com/app/2142790/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Early Access",
+      "Farming Sim",
+      "Dating Sim",
+      "RPG",
+      "Life Sim",
+      "Pixel Graphics",
+      "Romance",
+      "Simulation",
+      "Cute",
+      "Farming",
+      "Relaxing",
+      "Agriculture",
+      "Anime",
+      "Sandbox",
+      "2D",
+      "Open World",
+      "Crafting",
+      "Building",
+      "Cooking",
+      "LGBTQ+"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 27801,
+    "review_negative": 642,
+    "review_total": 28443,
+    "review_positive_percent": 97.74
+  }
+}

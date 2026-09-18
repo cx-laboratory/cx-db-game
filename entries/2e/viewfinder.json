@@ -1,0 +1,210 @@
+{
+  "key": "viewfinder",
+  "name": "Viewfinder",
+  "description": "Challenge perception, redefine reality, and reshape the world around you with an instant camera. Viewfinder is a new single player game offering gamers hours of interesting and fun experiences while uncovering the mysteries left behind.",
+  "developers": [
+    "Sad Owl Studios"
+  ],
+  "publishers": [
+    "Thunderful Publishing"
+  ],
+  "release_date": "2023-07-18",
+  "website": "",
+  "tags": [
+    "adventure",
+    "indie",
+    "puzzle-platformer",
+    "first-person",
+    "puzzle",
+    "singleplayer",
+    "abstract",
+    "surreal",
+    "psychological",
+    "physics",
+    "atmospheric",
+    "action-adventure",
+    "dark-humor",
+    "exploration",
+    "3d-platformer",
+    "colorful",
+    "story-rich",
+    "platformer",
+    "stylized",
+    "retro",
+    "experimental"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "arabic",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Viewfinder.exe",
+          "description": "Launch full build",
+          "type": "default"
+        },
+        {
+          "executable": "Viewfinder.exe",
+          "description": "Launch demo",
+          "type": "default"
+        },
+        {
+          "executable": "Viewfinder.exe",
+          "description": "Launch demo",
+          "type": "default"
+        },
+        {
+          "executable": "Viewfinder_Demo.exe",
+          "description": "Launch Demo",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Sad Owl Studios/Viewfinder",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Viewfinder",
+    "Viewfinder_Demo"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1382070/6da05b88ad6faf05ea093baa77177700961ff056.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/a69eb56f73446624325dec8a4fe74dc4ae09fb96/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/a93f2941173f1f5ed98a99f91638971d91abe69d/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/9bf630d0d007c477b0543547aa3f0e01a8d32951/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/8401020cbb11556576874784323341129c3c0a47/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/700f5fc2073221f880e829e463ff2694b9c8dc1c/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_504c7776817cb8a36104b31d803d18acf52b669f.1920x1080.jpg?t=1764842475"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_6ab66f69441e3168c97bbe8020603faa75fffa48.1920x1080.jpg?t=1764842475"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_1392613d4ff0f7c3f989cc899cb40ce93b3ff8fb.1920x1080.jpg?t=1764842475"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_080379206cfd1972567fce770bb79ee4b6b35d6c.1920x1080.jpg?t=1764842475"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_d1a7f46de9bee3cf60f938f82ca80046802f17ca.1920x1080.jpg?t=1764842475"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_9c9a0cdfda4c09caa0e01db6d78dbafcae657291.1920x1080.jpg?t=1764842475"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_101672d3c7696af1735e314eef94d6a24d803d82.1920x1080.jpg?t=1764842475"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_8b6ebaa1da4aef08d74c48614332e30c7d3746ca.1920x1080.jpg?t=1764842475"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_c222af7cb874aafa898742fa54cb8da388c50960.1920x1080.jpg?t=1764842475"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_d22c4b6658142f800ca80c34582c988ca9b34858.1920x1080.jpg?t=1764842475"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_0572f35886747ab7112e2d8212555750cb0bcb70.1920x1080.jpg?t=1764842475"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_0d442ca1fedde703523ab314a174b2df5b25ef36.1920x1080.jpg?t=1764842475"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_11804e68a0eae8e94d25503f228ce981f2c2125b.1920x1080.jpg?t=1764842475"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Commercial",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257077739/b40bd565247d9dfb1d1b4a1c8dbc380d7dbfd861/movie_600x337.jpg?t=1732919874",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1382070/792986/8bbd2452523404e446ab4e7e6c8b6f5193c10d6b/1750681892/dash_h264.mpd?t=1732919874"
+    },
+    {
+      "name": "Viewfinder - Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256937530/movie.293x165.jpg?t=1679650439",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1382070/551438/b91b65a0639038416e920af897f9fd59225c63d7/1750681890/dash_h264.mpd?t=1679650439"
+    },
+    {
+      "name": "Viewfinder - Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256919602/movie.293x165.jpg?t=1670546901",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1382070/519678/a63aa542fcdb77d25716cab687207d49e516929c/1750681886/dash_h264.mpd?t=1670546901"
+    }
+  ],
+  "metacritic": {
+    "score": 84,
+    "url": "https://www.metacritic.com/game/pc/viewfinder?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1382070,
+    "store_url": "https://store.steampowered.com/app/1382070/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Puzzle Platformer",
+      "First-Person",
+      "Puzzle",
+      "Singleplayer",
+      "Abstract",
+      "Surreal",
+      "Psychological",
+      "Adventure",
+      "Physics",
+      "Atmospheric",
+      "Action-Adventure",
+      "Dark Humor",
+      "Exploration",
+      "3D Platformer",
+      "Colorful",
+      "Story Rich",
+      "Platformer",
+      "Stylized",
+      "Retro",
+      "Experimental"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 11788,
+    "review_negative": 698,
+    "review_total": 12486,
+    "review_positive_percent": 94.41
+  }
+}

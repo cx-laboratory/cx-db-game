@@ -1,0 +1,212 @@
+{
+  "key": "peaks-of-yore",
+  "name": "Peaks of Yore",
+  "description": "Travel around The Great Gales to climb challenging peaks in this physics-based climbing adventure set in 1887. Meet like-minded mountaineers, unlock helpful climbing gear, and become a pioneer of mountaineering.",
+  "developers": [
+    "Anders Grube Jensen"
+  ],
+  "publishers": [
+    "TraipseWare"
+  ],
+  "release_date": "2023-10-26",
+  "website": "https://www.peaksofyore.net/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "difficult",
+    "physics",
+    "platformer",
+    "exploration",
+    "atmospheric",
+    "first-person",
+    "singleplayer",
+    "philosophical",
+    "historical",
+    "nature",
+    "retro",
+    "realistic",
+    "story-rich",
+    "parkour",
+    "3d-platformer",
+    "stylized"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Peaks of Yore.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "TraipseWare/Peaks of Yore/Mode_Normal",
+          "pattern": "*.es3",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "TraipseWare/Peaks of Yore/Mode_YouFallYouDie",
+          "pattern": "*.es3",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "TraipseWare/Peaks of Yore/Mode_FreeSolo",
+          "pattern": "*.es3",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Peaks of Yore"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2236070/06d6b4b3735986ee350d8415d9a5d18fbae4c7ab.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236070/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236070/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236070/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236070/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236070/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236070/ss_139ef36fcbec2c42efed201ae19f8e6acd5730e0.1920x1080.jpg?t=1761483659"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236070/ss_cb14b33d7861992b87d54e3507bee9b2dcf6ddc1.1920x1080.jpg?t=1761483659"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236070/ss_dd00e94b35b2f4354575a64c130650dd6794b879.1920x1080.jpg?t=1761483659"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236070/ss_0133d3adb96ca3f96bf12dbc41430553e0a5a54c.1920x1080.jpg?t=1761483659"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236070/ss_bc6db7bee8c9454b5edeabf9e1dfeac4e1bf2bd4.1920x1080.jpg?t=1761483659"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236070/ss_eb1441c2ac1caf4a1a607ecccac2bb8323c1d1bc.1920x1080.jpg?t=1761483659"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236070/ss_3b7495924258a255ed8e973f86ca2eaa1c32d6b1.1920x1080.jpg?t=1761483659"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236070/ss_d5668c8f875fa04416c117606ccad948379dc604.1920x1080.jpg?t=1761483659"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236070/ss_f78c89c7f79231fddee4bb7be2d874c9e7e20d93.1920x1080.jpg?t=1761483659"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236070/ss_d71d726e7ce526d895258a7e850f7bcfb4e47c72.1920x1080.jpg?t=1761483659"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236070/ss_49a5fd70742a775253bb2ee10f88f8d017bdf115.1920x1080.jpg?t=1761483659"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236070/ss_354857c9760b21763b3c8a1a1e6ab6c638fa3435.1920x1080.jpg?t=1761483659"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236070/ss_792946d8fc3d3c09e7493c8422ecd2a68855bbd6.1920x1080.jpg?t=1761483659"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236070/ss_6ad792d2809a98982676f9dda2838fe89e24d856.1920x1080.jpg?t=1761483659"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236070/ss_f5437151190c147e9e5ef47d4e60f48e338548db.1920x1080.jpg?t=1761483659"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236070/ss_afa179c60ad7fbd0eb368ca8e65a21586e00e9f2.1920x1080.jpg?t=1761483659"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2236070/ss_dba46c985254e0baf5e7a9e4ed2d364d5010640e.1920x1080.jpg?t=1761483659"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256974983/movie.293x165.jpg?t=1698426182",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2236070/616945/60a7ff935dc41ebb8c744bafdd86db79d5a9ee58/1750809571/dash_h264.mpd?t=1698426182"
+    },
+    {
+      "name": "Color Mode",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256962595/movie.293x165.jpg?t=1691530610",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2236070/595279/4e61ddecf6ed34a60377e1d85390fab356174496/1750809571/dash_h264.mpd?t=1691530610"
+    },
+    {
+      "name": "Peak Level Editor",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257222496/b9b9c5ee9b828cc1e479db39a74255daa79f393b/movie_600x337.jpg?t=1761483657",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2236070/928721397/d45f59dcefb873b2c6b4c346dbf72a88fe9036fc/1761406683/dash_h264.mpd?t=1761483657"
+    },
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256928265/movie.293x165.jpg?t=1695661282",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2236070/535091/e427fb8db3155364eca993b6fe46b261513aa288/1750811488/dash_h264.mpd?t=1695661282"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2236070,
+    "store_url": "https://store.steampowered.com/app/2236070/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Difficult",
+      "Physics",
+      "Psychological Horror",
+      "Adventure",
+      "Platformer",
+      "Exploration",
+      "Atmospheric",
+      "First-Person",
+      "Singleplayer",
+      "Philosophical",
+      "Historical",
+      "Indie",
+      "Action",
+      "Nature",
+      "Retro",
+      "Realistic",
+      "Story Rich",
+      "Parkour",
+      "3D Platformer",
+      "Stylized"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 3618,
+    "review_negative": 95,
+    "review_total": 3713,
+    "review_positive_percent": 97.44
+  }
+}

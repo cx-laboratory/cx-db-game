@@ -1,0 +1,178 @@
+{
+  "key": "card-hunter",
+  "name": "Card Hunter",
+  "description": "Shuffle your cards and ready your dice - Card Hunter is a fresh new card gaming spin on classic tabletop RPGs. Battle your way through a massive campaign solo or with friends and compete with other players in ranked play and tournaments.",
+  "developers": [
+    "The Knights of Unity"
+  ],
+  "publishers": [
+    "The Knights of Unity"
+  ],
+  "release_date": "2015-07-14",
+  "website": "http://cardhunter.com/",
+  "tags": [
+    "rpg",
+    "strategy",
+    "free-to-play",
+    "multiplayer",
+    "co-op",
+    "card-game",
+    "tabletop",
+    "tactical-rpg",
+    "board-game",
+    "turn-based",
+    "singleplayer",
+    "fantasy",
+    "turn-based-strategy",
+    "dungeon-crawler",
+    "dwarves",
+    "indie",
+    "trading-card-game",
+    "tactical",
+    "comedy",
+    "turn-based-tactics"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "CardHunter.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "CardHunter.app/Contents/MacOS/CardHunter",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Card Hunter",
+    "CardHunter",
+    "CardHunter.app/Contents/MacOS/CardHunter"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/293260/f38aa5d47161b46d85f024ace6ba6da17b1f4e10.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293260/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293260/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293260/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293260/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293260/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293260/ss_1f31ca8388c8cc4d96c62f8cc639ae778474f12c.1920x1080.jpg?t=1724143840"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293260/ss_9df6b58227332317e13a24671764a38a7868583a.1920x1080.jpg?t=1724143840"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293260/ss_75eb15aaf82e9322a99c1e56af51812202a86fa3.1920x1080.jpg?t=1724143840"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293260/ss_f96a56813c17a2b269b4ac542cc862c9bbd35165.1920x1080.jpg?t=1724143840"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293260/ss_fc150fa74e198e65406da26ae37966902825a149.1920x1080.jpg?t=1724143840"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293260/ss_ffd6d18dbf0ee8c158d5ffda91cadba10be3ea5e.1920x1080.jpg?t=1724143840"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2037968/movie.293x165.jpg?t=1447371409",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/293260/33157/3801b2ec8da07a808e3705fd444c6c0f06960a94/1751263011/dash_h264.mpd?t=1447371409"
+    },
+    {
+      "name": "Acquisitions Incorporated",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256663065/movie.293x165.jpg?t=1461121433",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/293260/56678/ab75c70e21eef589196ca151d224bab64e46bedd/1751263016/dash_h264.mpd?t=1461121433"
+    },
+    {
+      "name": "Expedition to the Sky Citadel",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2040481/movie.293x165.jpg?t=1447376890",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/293260/38605/78f09bcc28a8e73810d463eaf2055c8f753d46ad/1751263015/dash_h264.mpd?t=1447376890"
+    },
+    {
+      "name": "Attack of the Artifacts",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2037942/movie.293x165.jpg?t=1447371302",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/293260/33067/3564088cdfea3987558805d6fc6192488867d698/1751263009/dash_h264.mpd?t=1447371302"
+    }
+  ],
+  "metacritic": {
+    "score": 80,
+    "url": "https://www.metacritic.com/game/pc/card-hunter?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 293260,
+    "store_url": "https://store.steampowered.com/app/293260/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "RPG",
+      "Strategy",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Captions available",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Card Game",
+      "Tabletop",
+      "Tactical RPG",
+      "Board Game",
+      "Turn-Based",
+      "Strategy",
+      "Multiplayer",
+      "Co-op",
+      "Singleplayer",
+      "Fantasy",
+      "RPG",
+      "Turn-Based Strategy",
+      "Dungeon Crawler",
+      "Dwarves",
+      "Indie",
+      "Trading Card Game",
+      "Tactical",
+      "Comedy",
+      "Turn-Based Tactics"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 4540,
+    "review_negative": 769,
+    "review_total": 5309,
+    "review_positive_percent": 85.52
+  }
+}

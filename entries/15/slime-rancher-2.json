@@ -1,0 +1,195 @@
+{
+  "key": "slime-rancher-2",
+  "name": "Slime Rancher 2",
+  "description": "Continue the adventures of Beatrix LeBeau as she journeys across the Slime Sea to Rainbow Island, a land brimming with ancient mysteries, and bursting with wiggly, new slimes to wrangle in this sequel to the smash-hit, Slime Rancher.",
+  "developers": [
+    "Monomi Park"
+  ],
+  "publishers": [
+    "Monomi Park"
+  ],
+  "release_date": "2025-09-24",
+  "website": "http://slimerancher.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "casual",
+    "indie",
+    "simulation",
+    "cute",
+    "relaxing",
+    "open-world",
+    "singleplayer",
+    "colorful",
+    "first-person",
+    "creature-collector",
+    "family-friendly",
+    "female-protagonist",
+    "3d",
+    "fantasy",
+    "building",
+    "fps",
+    "action-adventure",
+    "atmospheric",
+    "shooter"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "schinese",
+    "russian",
+    "japanese",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SlimeRancher2.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "MonomiPark/SlimeRancher2/Steam/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "MonomiPark/SlimeRancher2/Steam/{64BitSteamID}",
+          "pattern": "slimerancher.prf",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Slime Rancher 2",
+    "SlimeRancher2"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1657630/8028810e9ad73e00c2385a986382c57a6b0e034e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1657630/e0ebd5982e69895132d4ffdf80a1a6048ab53d25/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1657630/cc3c891a26caa1adaa7d5279e65eb69f4d40dcfe/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1657630/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1657630/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1657630/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1657630/6300ad3b599cd5d0cffb8788be8d95d7a019f666/ss_6300ad3b599cd5d0cffb8788be8d95d7a019f666.1920x1080.jpg?t=1776359011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1657630/a97a654e14151e919ef4a661d7628176c20540fc/ss_a97a654e14151e919ef4a661d7628176c20540fc.1920x1080.jpg?t=1776359011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1657630/beb36d499289b49afe0f5f310b94d00eb17ee154/ss_beb36d499289b49afe0f5f310b94d00eb17ee154.1920x1080.jpg?t=1776359011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1657630/e0924a9add342de5066e9d0a01bb990add06e278/ss_e0924a9add342de5066e9d0a01bb990add06e278.1920x1080.jpg?t=1776359011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1657630/ss_4009448a95aef4e1b0afb03aec0f37abf83f2d22.1920x1080.jpg?t=1776359011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1657630/4924e16d9345a5cc053a73e789c46e65a3098ac8/ss_4924e16d9345a5cc053a73e789c46e65a3098ac8.1920x1080.jpg?t=1776359011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1657630/ss_5c6e44f866433dc15d94d42cca50f1bda0b9a515.1920x1080.jpg?t=1776359011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1657630/ss_822fac38a830a3b585fa8bdd0f2450507cb13b06.1920x1080.jpg?t=1776359011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1657630/ss_574ea9c6460c58e665bff993e8394362c1fb10e7.1920x1080.jpg?t=1776359011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1657630/04631099a78cf40a20706f1fc1f05e3eea4fe7bc/ss_04631099a78cf40a20706f1fc1f05e3eea4fe7bc.1920x1080.jpg?t=1776359011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1657630/ss_ffd046bcf93e80e4f506a6235bae69670b7eec79.1920x1080.jpg?t=1776359011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1657630/ss_495cead0fc7f9fe07026bb7d018a005c810bd2c9.1920x1080.jpg?t=1776359011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1657630/ss_0d6e1ca2ecb03008b22588ece2389523a2298889.1920x1080.jpg?t=1776359011"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Slime Rancher 2 Radiant Slime Sanctuary",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257319160/c85a49a05c9ceff85c57a512cde03ededefac2ce/movie_600x337.jpg?t=1776359010",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1657630/1158338151/0e2526e74b2e1a0a60af4a18ff364b60072c8578/1776118411/dash_h264.mpd?t=1776359010"
+    },
+    {
+      "name": "Slime Rancher 2 A Hero in Time",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257195296/4870c6c255e1e1d418676faa33b11f78bb34fd14/movie_600x337.jpg?t=1758646744",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1657630/495324358/15c2d16b5062d6c2b5b266ad9399a67bcda4606f/1757452631/dash_h264.mpd?t=1758646744"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1657630,
+    "store_url": "https://store.steampowered.com/app/1657630/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Cute",
+      "Relaxing",
+      "Open World",
+      "Singleplayer",
+      "Colorful",
+      "First-Person",
+      "Creature Collector",
+      "Adventure",
+      "Simulation",
+      "Family Friendly",
+      "Casual",
+      "Female Protagonist",
+      "3D",
+      "Fantasy",
+      "Building",
+      "FPS",
+      "Action-Adventure",
+      "Atmospheric",
+      "Action",
+      "Shooter"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 46236,
+    "review_negative": 2670,
+    "review_total": 48906,
+    "review_positive_percent": 94.54
+  }
+}

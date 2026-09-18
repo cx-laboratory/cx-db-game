@@ -1,0 +1,193 @@
+{
+  "key": "game-dev-tycoon",
+  "name": "Game Dev Tycoon",
+  "description": "In Game Dev Tycoon you replay the history of the gaming industry by starting your own video game development company in the 80s. Create best selling games. Research new technologies and invent new game types. Become the leader of the market and gain worldwide fans.",
+  "developers": [
+    "Greenheart Games 💚"
+  ],
+  "publishers": [
+    "Greenheart Games 💚"
+  ],
+  "release_date": "2013-08-30",
+  "website": "http://www.greenheartgames.com/app/game-dev-tycoon/",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "strategy",
+    "management",
+    "singleplayer",
+    "economy",
+    "2d",
+    "moddable",
+    "addictive",
+    "replay-value",
+    "sandbox",
+    "funny",
+    "difficult",
+    "point-and-click",
+    "great-soundtrack",
+    "isometric",
+    "comedy",
+    "touch-friendly",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Arabic",
+    "Czech",
+    "Dutch",
+    "Greek",
+    "Hungarian",
+    "Polish",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Swedish",
+    "Turkish",
+    "Ukrainian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "nw.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Game Dev Tycoon.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "start.sh",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Game Dev Tycoon",
+    "nw",
+    "Game Dev Tycoon.app",
+    "start.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/239820/f63ee73113b0880922a84e8d6af0d222fef91c40.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239820/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239820/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239820/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239820/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239820/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239820/ss_96e6ab31f1bcd3a879bf7f96fe7e660682c31eef.1920x1080.jpg?t=1762193894"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239820/ss_2ede7e75780d8b6b48a42a13008fc6602c8ab5b8.1920x1080.jpg?t=1762193894"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239820/ss_3ecc65538ac4170f1855f089377baaa8001e5d68.1920x1080.jpg?t=1762193894"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239820/ss_33e784062b2b61901280956b96b72815888cd860.1920x1080.jpg?t=1762193894"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239820/ss_c2e2879f5cafc2efc7e365ef9eb561d8f69c1b71.1920x1080.jpg?t=1762193894"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239820/ss_27c2f806bc4eb8aaed7c12c0ababbca0b9805340.1920x1080.jpg?t=1762193894"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239820/ss_9fdf48cb0696c33fa86a71f1bd96ce5495142b8e.1920x1080.jpg?t=1762193894"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Trailer v1.4.0",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2029163/movie.293x165.jpg?t=1447358579",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/239820/12994/89bc69ca2e6fa892d3b091eb340edab5aa089a52/1750486214/dash_h264.mpd?t=1447358579"
+    }
+  ],
+  "metacritic": {
+    "score": 68,
+    "url": "https://www.metacritic.com/game/pc/game-dev-tycoon?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 239820,
+    "store_url": "https://store.steampowered.com/app/239820/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Management",
+      "Simulation",
+      "Indie",
+      "Strategy",
+      "Casual",
+      "Singleplayer",
+      "Economy",
+      "2D",
+      "Moddable",
+      "Addictive",
+      "Replay Value",
+      "Sandbox",
+      "Funny",
+      "Difficult",
+      "Point & Click",
+      "Great Soundtrack",
+      "Isometric",
+      "Comedy",
+      "Touch-Friendly",
+      "Adventure"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 42777,
+    "review_negative": 2159,
+    "review_total": 44936,
+    "review_positive_percent": 95.2
+  }
+}

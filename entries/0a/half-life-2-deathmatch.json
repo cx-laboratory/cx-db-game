@@ -1,0 +1,196 @@
+{
+  "key": "half-life-2-deathmatch",
+  "name": "Half-Life 2: Deathmatch",
+  "description": "Fast multiplayer action set in the Half-Life 2 universe! HL2's physics adds a new dimension to deathmatch play. Play straight deathmatch or try Combine vs. Resistance teamplay. Toss a toilet at your friend today!",
+  "developers": [
+    "Valve"
+  ],
+  "publishers": [
+    "Valve"
+  ],
+  "release_date": "2004-11-01",
+  "website": "http://www.steampowered.com/",
+  "tags": [
+    "action",
+    "multiplayer",
+    "fps",
+    "shooter",
+    "first-person",
+    "sci-fi",
+    "physics",
+    "competitive",
+    "funny",
+    "co-op",
+    "old-school",
+    "pvp",
+    "arena-shooter",
+    "moddable",
+    "atmospheric",
+    "adventure",
+    "great-soundtrack",
+    "singleplayer",
+    "violent",
+    "mod"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "hungarian",
+    "czech",
+    "romanian",
+    "turkish",
+    "brazilian",
+    "bulgarian",
+    "greek",
+    "ukrainian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "hl2mp.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "hl2mp_win64.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "hl2.exe",
+          "description": "Play Previous Build Branch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "hl2mp.sh",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "hl2.sh",
+          "description": "Play Previous Build Branch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Half-Life 2: Deathmatch",
+    "hl2mp",
+    "hl2mp_win64",
+    "hl2",
+    "hl2mp.sh",
+    "hl2.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/320/795e85364189511f4990861b578084deef086cb1.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320/ss_09a55c755073d11c5c708da922abd9005546a5ee.1920x1080.jpg?t=1749481506"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320/ss_7241594c2575bc1f822f1431490cea485b7aef8a.1920x1080.jpg?t=1749481506"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320/ss_57349aec96338ccabd38577ea8fcf80b42f0ef49.1920x1080.jpg?t=1749481506"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320/ss_0312ff64a5839736a7dfa4c4f735f8d48843739e.1920x1080.jpg?t=1749481506"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320/ss_aee760995a2913908a7d4d0471ca81a22232f4a6.1920x1080.jpg?t=1749481506"
+    }
+  ],
+  "videos": [],
+  "metacritic": null,
+  "steam": {
+    "appid": 320,
+    "store_url": "https://store.steampowered.com/app/320/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Multi-player",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Surround Sound",
+      "Valve Anti-Cheat enabled",
+      "Includes Source SDK",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Action",
+      "FPS",
+      "Multiplayer",
+      "Shooter",
+      "First-Person",
+      "Sci-fi",
+      "Physics",
+      "Competitive",
+      "Funny",
+      "Co-op",
+      "Old School",
+      "PvP",
+      "Arena Shooter",
+      "Moddable",
+      "Atmospheric",
+      "Adventure",
+      "Great Soundtrack",
+      "Singleplayer",
+      "Violent",
+      "Mod"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 13814,
+    "review_negative": 1410,
+    "review_total": 15224,
+    "review_positive_percent": 90.74
+  }
+}

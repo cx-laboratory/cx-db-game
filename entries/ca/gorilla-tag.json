@@ -1,0 +1,162 @@
+{
+  "key": "gorilla-tag",
+  "name": "Gorilla Tag",
+  "description": "Run, jump, and climb using only your hands. Play tag or infection with people online. Run away from the infected players, or outmaneuver the survivors to catch them. Embrace your inner ape.",
+  "developers": [
+    "Another Axiom Inc."
+  ],
+  "publishers": [
+    "Another Axiom Inc."
+  ],
+  "release_date": "2023-01-02",
+  "website": "https://gorillatagvr.com/",
+  "tags": [
+    "action",
+    "casual",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "vr",
+    "first-person",
+    "parkour",
+    "funny",
+    "horror",
+    "3d",
+    "3d-platformer",
+    "nature",
+    "physics",
+    "platformer",
+    "moddable",
+    "6dof",
+    "early-access",
+    "minimalist"
+  ],
+  "supported_platforms": [
+    "windows",
+    "android"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {
+    "schinese": "大猩猩标签"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Gorilla Tag.exe",
+          "description": "",
+          "type": "vr"
+        },
+        {
+          "executable": "Gorilla Tag.exe",
+          "description": "",
+          "type": "othervr"
+        }
+      ],
+      "savefiles": []
+    },
+    "android": {
+      "launch": [
+        {
+          "executable": "GorillaTag.apk",
+          "description": "",
+          "type": "openxr"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Gorilla Tag",
+    "GorillaTag.apk"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1533390/50e703e1d3f97380214e300802694cbb78939191.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533390/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533390/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533390/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533390/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533390/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533390/ss_c449098748fc6891d4bc337b0465df4fd9cc9fb3.1920x1080.jpg?t=1715638911"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533390/ss_9fce4459389719845ffe1096b915006dee942d8f.1920x1080.jpg?t=1715638911"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533390/ss_efe8aa03e6b9f7c968e762952baac623243c7ab8.1920x1080.jpg?t=1715638911"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533390/ss_9bb0c13a216ed014c7a999c68694fd4e0e03c25b.1920x1080.jpg?t=1715638911"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533390/ss_8f004c8e4332c7c041c5089ed2f962079c28405c.1920x1080.jpg?t=1715638911"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533390/ss_52fd837175b9ea774b4bfd7df661b029c7e70b3a.1920x1080.jpg?t=1715638911"
+    }
+  ],
+  "videos": [
+    {
+      "name": "release",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256923122/movie.293x165.jpg?t=1672595607",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1533390/525604/5c2279ba56397fd89f223e1c2c962588ccdbcdf6/1750698243/dash_h264.mpd?t=1672595607"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1533390,
+    "store_url": "https://store.steampowered.com/app/1533390/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual"
+    ],
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Cross-Platform Multiplayer",
+      "Tracked Controller Support",
+      "VR Only",
+      "In-App Purchases"
+    ],
+    "tags": [
+      "VR",
+      "Psychological Horror",
+      "Multiplayer",
+      "First-Person",
+      "Parkour",
+      "Funny",
+      "Horror",
+      "3D",
+      "3D Platformer",
+      "Action",
+      "PvP",
+      "Nature",
+      "Physics",
+      "Survival Horror",
+      "Casual",
+      "Platformer",
+      "Moddable",
+      "6DOF",
+      "Early Access",
+      "Minimalist"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 77071,
+    "review_negative": 7331,
+    "review_total": 84402,
+    "review_positive_percent": 91.31
+  }
+}

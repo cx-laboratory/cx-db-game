@@ -1,0 +1,207 @@
+{
+  "key": "temtem",
+  "name": "Temtem",
+  "description": "Temtem is an online creature-collection adventure. Tame 165 unique creatures across 7 vibrant islands, battle other tamers, tackle mythical Lairs, chase Luma &amp; Umbra variants, and breed your favorite Tems - with friends by your side! Dive into a colorful monster catching adventure, so Temtem up!",
+  "developers": [
+    "Crema"
+  ],
+  "publishers": [
+    "Balor Games"
+  ],
+  "release_date": "2022-09-07",
+  "website": "https://crema.gg/games/temtem/",
+  "tags": [
+    "adventure",
+    "indie",
+    "massively-multiplayer",
+    "rpg",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "creature-collector",
+    "turn-based-combat",
+    "story-rich",
+    "pve",
+    "turn-based-tactics",
+    "mmorpg",
+    "character-customization",
+    "collectathon",
+    "cartoony",
+    "anime",
+    "jrpg",
+    "exploration",
+    "3d",
+    "colorful",
+    "cute"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Simplified Chinese",
+    "Portuguese - Brazil",
+    "Traditional Chinese"
+  ],
+  "name_localized": {
+    "schinese": "Temtem / 腾兽",
+    "tchinese": "Temtem / 腾兽"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Temtem.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Crema/Temtem/",
+          "pattern": "settings.dat",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Crema/Temtem/",
+          "pattern": "savegame.dat",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Temtem",
+    "Temtem / 腾兽"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/745920/5cfd9f691f8ee4c04cdf2227c11026bdb3f6e68a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/745920/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/745920/6cfcb78ce8fe8448e6afb94e1aa6890445608ca0/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/745920/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/745920/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/745920/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/745920/ss_6a9217dbdd588ad47f719d72c37e924e3e2aa6b6.1920x1080.jpg?t=1773698361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/745920/ss_053909ef657ef86e75beafa86519d453ff6140ed.1920x1080.jpg?t=1773698361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/745920/ss_6297792d4e9b9afcfbba884069e1f1b47042293e.1920x1080.jpg?t=1773698361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/745920/ss_c2e2bf8810fac129ca95c81e09e9c75a6904a546.1920x1080.jpg?t=1773698361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/745920/ss_c85267d255c8861e47744771593de5dc8aa6c1b1.1920x1080.jpg?t=1773698361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/745920/ss_28020496f8c79bd7f5544d18166d12e9414fa5d2.1920x1080.jpg?t=1773698361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/745920/ss_5e678546400af0f574b553bb41d0c6f1e87246b2.1920x1080.jpg?t=1773698361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/745920/ss_7f43a0529dbc12287ee9e373e6c286aea67d4be4.1920x1080.jpg?t=1773698361"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Temtem - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256903835/movie.293x165.jpg?t=1683181231",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/745920/492814/3be7e76824370c4a805bd130ecee6beb09c3a188/1750577698/dash_h264.mpd?t=1683181231"
+    },
+    {
+      "name": "Temtem - Season 5",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256969033/movie.293x165.jpg?t=1743529447",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/745920/606657/966ad78f8e1a9e344164f0a85a8e2a95465fc528/1750577711/dash_h264.mpd?t=1743529447"
+    }
+  ],
+  "metacritic": {
+    "score": 79,
+    "url": "https://www.metacritic.com/game/pc/temtem?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 745920,
+    "store_url": "https://store.steampowered.com/app/745920/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Keyboard Only Option",
+      "Mouse Only Option",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Stereo Sound",
+      "Touch Only Option",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV"
+    ],
+    "tags": [
+      "Co-op",
+      "Multiplayer",
+      "Creature Collector",
+      "Turn-Based Combat",
+      "RPG",
+      "Story Rich",
+      "Adventure",
+      "PvE",
+      "PvP",
+      "Turn-Based Tactics",
+      "MMORPG",
+      "Character Customization",
+      "Collectathon",
+      "Cartoony",
+      "Anime",
+      "JRPG",
+      "Exploration",
+      "3D",
+      "Colorful",
+      "Cute"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 31989,
+    "review_negative": 7307,
+    "review_total": 39296,
+    "review_positive_percent": 81.41
+  }
+}

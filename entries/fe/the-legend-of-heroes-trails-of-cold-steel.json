@@ -1,0 +1,123 @@
+{
+  "key": "the-legend-of-heroes-trails-of-cold-steel",
+  "name": "The Legend of Heroes: Trails of Cold Steel",
+  "description": "At Thors Military Academy, Erebonia’s best learn everything from the art of war to liberal arts. First year Rean Schwarzer learns he’s been selected to join the controversial Class VII, and they’ll need to deal with more than just class warfare--they’ll need to safeguard their country from chaos.",
+  "developers": [
+    "Nihon Falcom"
+  ],
+  "publishers": [
+    "XSEED Games"
+  ],
+  "release_date": "2017-08-03",
+  "website": "http://www.trailsofcoldsteel.com/cs1/",
+  "tags": [
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "japanese"
+  ],
+  "name_localized": {
+    "japanese": "英雄伝説 閃の軌跡"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ed8.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Sen1Launcher.exe",
+          "description": "Launch Configuration Tool",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "The Legend of Heroes: Trails of Cold Steel",
+    "ed8",
+    "Sen1Launcher",
+    "英雄伝説 閃の軌跡"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/538680/f072e87a22665d24cd7e4557e3f308ade2879be1.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/538680/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/538680/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/538680/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/538680/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/538680/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/538680/ss_9344510d979587d946e5f163ba63cfe601ec0f1d.1920x1080.jpg?t=1751395887"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/538680/ss_4886f541a41f1be5f45db8031829f0f160464f80.1920x1080.jpg?t=1751395887"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/538680/ss_eade64755fe99639e34a5d47dd673be588cf540f.1920x1080.jpg?t=1751395887"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/538680/ss_ba8639368193b8e8dbc5d08c399121fb737652de.1920x1080.jpg?t=1751395887"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/538680/ss_97fe42a752158e58319211abb79ce65229b29bc6.1920x1080.jpg?t=1751395887"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256691898/movie.293x165.jpg?t=1546560587",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/538680/116513/2163ab24ad59447d9be0f2530375b594e59cde3d/1750547760/dash_h264.mpd?t=1546560587"
+    },
+    {
+      "name": "New voices for PC",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256688408/movie.293x165.jpg?t=1546560594",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/538680/110124/5619de26eb407b117c318406d7e7e957d6344b3b/1750547758/dash_h264.mpd?t=1546560594"
+    }
+  ],
+  "metacritic": {
+    "score": 80,
+    "url": "https://www.metacritic.com/game/pc/the-legend-of-heroes-trails-of-cold-steel?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 538680,
+    "store_url": "https://store.steampowered.com/app/538680/",
+    "required_age": 13,
+    "is_free": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 5547,
+    "review_negative": 320,
+    "review_total": 5867,
+    "review_positive_percent": 94.55
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "key": "bongo-cat",
+  "name": "Bongo Cat",
+  "description": "Bongo cat needs your help. Bongo cat needz more hatz!!! Every time you press a key, Bongo cat will punch your taskbar. Type, click, play, work to collect more points. Which hats will you find?",
+  "developers": [
+    "Marcel Zurawka"
+  ],
+  "publishers": [
+    "Irox Games"
+  ],
+  "release_date": "2025-03-05",
+  "website": "",
+  "tags": [
+    "casual",
+    "indie",
+    "massively-multiplayer",
+    "simulation",
+    "free-to-play",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "desktop-companion",
+    "cats",
+    "cute",
+    "idler",
+    "typing",
+    "character-customization",
+    "2d",
+    "singleplayer",
+    "incremental",
+    "relaxing",
+    "cartoony",
+    "colorful",
+    "software",
+    "funny"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "hungarian",
+    "czech",
+    "romanian",
+    "turkish",
+    "arabic",
+    "brazilian",
+    "bulgarian",
+    "greek",
+    "ukrainian",
+    "vietnamese",
+    "latam",
+    "indonesian"
+  ],
+  "name_localized": {
+    "schinese": "邦戈猫"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "BongoCat.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "BongoCat.app/Contents/MacOS/BongoCat",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Bongo Cat",
+    "BongoCat",
+    "BongoCat.app/Contents/MacOS/BongoCat"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3419430/b25d4b846c745bdf809f5657af00298e0ae62465.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/2e6c93c020fe13d09d8120bb9164ed7cb58f00c5/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/a72a5965134f12a6cf86879fa2eb34ba16040486/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/bfd307468f30f9c716f949f8c4e5d337c40cb283/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/9a4949145bafd78ffa4bd2d772cc0583e1cb32e9/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/e16b839f12f911aeeda11ba72c7f562d5d6bd2ca/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/7b3bfd0137fad5c361b2d8d786208684ee202ee6/ss_7b3bfd0137fad5c361b2d8d786208684ee202ee6.1920x1080.jpg?t=1782563587"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/411adf303275850e82194a52dce29eb2716ab14d/ss_411adf303275850e82194a52dce29eb2716ab14d.1920x1080.jpg?t=1782563587"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/d86783952fbe9bd29c9c1dfe5b6f44d858aa5cfb/ss_d86783952fbe9bd29c9c1dfe5b6f44d858aa5cfb.1920x1080.jpg?t=1782563587"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/df803dc84cff2a7e8321a152818ad406dfc66b0f/ss_df803dc84cff2a7e8321a152818ad406dfc66b0f.1920x1080.jpg?t=1782563587"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/b1c7513d02e4cd4d9f145959558f5e1998ec135d/ss_b1c7513d02e4cd4d9f145959558f5e1998ec135d.1920x1080.jpg?t=1782563587"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Meowtiplayer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257182675/d3cc74f057f33ba87972f2dba9811f970048fb6f/movie_600x337.jpg?t=1755156314",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3419430/901230020/e9d67ccd1939d39314a999cbff28c88521f8efd5/1755094841/dash_h264.mpd?t=1755156314"
+    },
+    {
+      "name": "Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257090546/891f5d0255106822013d0ee9ca6bd3db0bedc3bb/movie_600x337.jpg?t=1737365643",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3419430/815462/a17ae99675baf686153a6e68c5a33e6ed15a1c9e/1750849151/dash_h264.mpd?t=1737365643"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3419430,
+    "store_url": "https://store.steampowered.com/app/3419430/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Massively Multiplayer",
+      "Simulation",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Partial Controller Support",
+      "Stats",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Desktop Companion",
+      "Cats",
+      "Free to Play",
+      "Cute",
+      "Idler",
+      "Typing",
+      "Casual",
+      "Character Customization",
+      "2D",
+      "Singleplayer",
+      "Incremental",
+      "Relaxing",
+      "Cartoony",
+      "Indie",
+      "Simulation",
+      "Colorful",
+      "Software",
+      "Multiplayer",
+      "Funny",
+      "Massively Multiplayer"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 101615,
+    "review_negative": 3572,
+    "review_total": 105187,
+    "review_positive_percent": 96.6
+  }
+}

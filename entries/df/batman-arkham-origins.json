@@ -1,0 +1,121 @@
+{
+  "key": "batman-arkham-origins",
+  "name": "Batman™: Arkham Origins",
+  "description": "As of December 4, 2016, the online services portion of Batman: Arkham Origins has been retired. We thank those that have joined us to battle. The Single player campaign may still be played and enjoyed offline. For any questions relating to Batman: Arkham Origins, please contact WB Games customer service.",
+  "developers": [
+    "WB Games Montreal"
+  ],
+  "publishers": [
+    "Warner Bros. Interactive Entertainment"
+  ],
+  "release_date": "2013-10-26",
+  "website": "http://www.batmanarkhamorigins.com/",
+  "tags": [
+    "action",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SinglePlayer\\Binaries\\Win32\\BatmanOrigins.exe",
+          "description": "Single-Player",
+          "type": "default"
+        },
+        {
+          "executable": "Online\\Binaries\\Win32\\BatmanOriginsOnline.exe",
+          "description": "Batman™: Arkham Origins Online",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Batman™: Arkham Origins",
+    "SinglePlayer\\Binaries\\Win32\\BatmanOrigins",
+    "Online\\Binaries\\Win32\\BatmanOriginsOnline"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/209000/76dac70a2206de1a80da4950da43e1b05ea302a8.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209000/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209000/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209000/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209000/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209000/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209000/ss_41f68844251c4acbf5d8b68899b212705c6afc0e.1920x1080.jpg?t=1746562474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209000/ss_1f444402878ebdef6d54386d2a0cdfacbc7b4ee4.1920x1080.jpg?t=1746562474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209000/ss_462c48dd9fa9e76d1f3f8159eeadea3da6b0e43e.1920x1080.jpg?t=1746562474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209000/ss_c627d2ffac1be5b846af610342ea99a0d2891434.1920x1080.jpg?t=1746562474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209000/ss_16fcb3b8bdc21baa947adba5dced4f4cef398cfd.1920x1080.jpg?t=1746562474"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Batman Arkham Origins Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028808/movie.293x165.jpg?t=1447358115",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/209000/11993/925af8c10f0f46176f40beda968fed1b5a68ef5a/1750493325/dash_h264.mpd?t=1447358115"
+    }
+  ],
+  "metacritic": {
+    "score": 74,
+    "url": "https://www.metacritic.com/game/pc/batman-arkham-origins?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 209000,
+    "store_url": "https://store.steampowered.com/app/209000/",
+    "required_age": 13,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 57830,
+    "review_negative": 6559,
+    "review_total": 64389,
+    "review_positive_percent": 89.81
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "key": "luck-be-a-landlord",
+  "name": "Luck be a Landlord",
+  "description": "Luck be a Landlord is a roguelike deckbuilder about using a slot machine to earn rent money and defeat capitalism. This game does not contain any real-world currency gambling or microtransactions.",
+  "developers": [
+    "TrampolineTales"
+  ],
+  "publishers": [
+    "TrampolineTales"
+  ],
+  "release_date": "2023-01-06",
+  "website": "",
+  "tags": [
+    "indie",
+    "simulation",
+    "strategy",
+    "roguelike-deckbuilder",
+    "deckbuilding",
+    "roguelite",
+    "procedural-generation",
+    "pixel-graphics",
+    "roguelike",
+    "capitalism",
+    "resource-management",
+    "auto-battler",
+    "casual",
+    "management",
+    "singleplayer",
+    "2d",
+    "retro",
+    "villain-protagonist",
+    "early-access",
+    "mouse-only"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "turkish",
+    "arabic",
+    "brazilian",
+    "bulgarian",
+    "vietnamese",
+    "latam"
+  ],
+  "name_localized": {
+    "brazilian": "Sorte seja o Proprietário",
+    "schinese": "幸运房东",
+    "russian": "Удачи, арендодатель",
+    "french": "La Chance du Locataire",
+    "italian": "Luck be a Landlord",
+    "german": "Mieter-Fortuna",
+    "spanish": "La Suerte es un Casero",
+    "danish": "Lejerens Held",
+    "japanese": "幸運の大家様",
+    "koreana": "집주인이 너무해",
+    "tchinese": "租戶賭財運",
+    "latam": "Luck be a Landlord",
+    "polish": "Dola Lokatora",
+    "vietnamese": "Đánh Cược với Chủ Nhà"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Luck be a Landlord.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Godot/app_userdata/Luck be a Landlord",
+          "pattern": "*.save",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Luck be a Landlord.app\\Contents\\MacOS\\Luck be a Landlord",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Godot/app_userdata/Luck be a Landlord",
+          "pattern": "*.save",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Luck be a Landlord.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Godot/app_userdata/Luck be a Landlord",
+          "pattern": "*.save",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Luck be a Landlord",
+    "Luck be a Landlord.app\\Contents\\MacOS\\Luck be a Landlord",
+    "Luck be a Landlord.x86_64",
+    "Sorte seja o Proprietário",
+    "幸运房东",
+    "Удачи, арендодатель",
+    "La Chance du Locataire",
+    "Mieter-Fortuna",
+    "La Suerte es un Casero",
+    "Lejerens Held",
+    "幸運の大家様",
+    "집주인이 너무해",
+    "租戶賭財運",
+    "Dola Lokatora",
+    "Đánh Cược với Chủ Nhà"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1404850/ce8b9c2719ccf0fb47c3b97eb58f758913a268fd.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/ss_6419b6d713a5cb51c3b3eae5db669459059ff142.1920x1080.jpg?t=1769555096"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/ss_d18cdd089a2fab21d1e1ee8a53fa3fb61a368a11.1920x1080.jpg?t=1769555096"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/ss_6a6a1e7da6c6cb3949e596b6d7c5aad24043a0ff.1920x1080.jpg?t=1769555096"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/ss_9bb8d43ad725885781a26091ac20739c50a3088b.1920x1080.jpg?t=1769555096"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404850/ss_b47b87e7b695c15eb11feabe787327c896032f02.1920x1080.jpg?t=1769555096"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Luck be a Landlord - v1.0 Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256916543/movie.293x165.jpg?t=1685154224",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1404850/514371/5d47ad6580c2c93a21e6ba03bbbbc69253c86ae3/1750685337/dash_h264.mpd?t=1685154224"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1404850,
+    "store_url": "https://store.steampowered.com/app/1404850/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Adjustable Text Size",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Keyboard Only Option",
+      "Mouse Only Option",
+      "Narrated Game Menus",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Touch Only Option",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Roguelike Deckbuilder",
+      "Deckbuilding",
+      "Roguelite",
+      "Strategy",
+      "Procedural Generation",
+      "Pixel Graphics",
+      "Simulation",
+      "Roguelike",
+      "Capitalism",
+      "Resource Management",
+      "Auto Battler",
+      "Casual",
+      "Management",
+      "Singleplayer",
+      "Indie",
+      "2D",
+      "Retro",
+      "Villain Protagonist",
+      "Early Access",
+      "Mouse Only"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 10704,
+    "review_negative": 773,
+    "review_total": 11477,
+    "review_positive_percent": 93.26
+  }
+}

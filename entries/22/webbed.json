@@ -1,0 +1,182 @@
+{
+  "key": "webbed",
+  "name": "Webbed",
+  "description": "Swing through the trees, spin sticky webs, and make friends with bugs! Be the adorable spider you've always wanted to be.",
+  "developers": [
+    "Sbug Games"
+  ],
+  "publishers": [
+    "Sbug Games"
+  ],
+  "release_date": "2021-09-09",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "2d-platformer",
+    "cute",
+    "pixel-graphics",
+    "physics",
+    "puzzle-platformer",
+    "exploration",
+    "2d",
+    "platformer",
+    "relaxing",
+    "family-friendly",
+    "puzzle",
+    "colorful",
+    "cartoony",
+    "nature",
+    "collectathon",
+    "fantasy",
+    "female-protagonist",
+    "atmospheric"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "portuguese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "webbed.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "webbed/default",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "webbed/default",
+          "pattern": "*.png",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "webbed",
+          "pattern": "metasave.ini",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Webbed",
+    "webbed"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1390350/9e694623b3cdb92eb4cfc1fa41e2199ccb4a32ed.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1390350/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1390350/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1390350/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1390350/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1390350/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1390350/ss_d7a8f3a2f9a7e0b9c787cdf828f7e2e9a7501737.1920x1080.jpg?t=1748008096"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1390350/ss_4411c2eec56218e630a63f0449350d98c9122e5f.1920x1080.jpg?t=1748008096"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1390350/ss_b797ea262c6b810ae5134653a4108ed05ffefa5c.1920x1080.jpg?t=1748008096"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1390350/ss_ea5a798e12a4465ccda543ad99733aeb0de0a264.1920x1080.jpg?t=1748008096"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1390350/ss_65b9b23a269bb3c88fb24509149a7ca931f77c87.1920x1080.jpg?t=1748008096"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1390350/ss_c0f824c21b758a5197888d24f99f282febe36be2.1920x1080.jpg?t=1748008096"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Webbed - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256850621/movie.293x165.jpg?t=1631170486",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1390350/399497/96255467b5a54901170810f2fa1128faa8125af3/1750683200/dash_h264.mpd?t=1631170486"
+    },
+    {
+      "name": "Webbed - Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256845077/movie.293x165.jpg?t=1627965214",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1390350/389490/5908a2b86f688789aae7f5053cc88bf85d3b3d79/1750683198/dash_h264.mpd?t=1627965214"
+    },
+    {
+      "name": "Webbed - Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256797538/movie.293x165.jpg?t=1598250375",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1390350/306320/87c76e1f8da109097704ef21afb7bd7fe037c9e5/1750683185/dash_h264.mpd?t=1598250375"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1390350,
+    "store_url": "https://store.steampowered.com/app/1390350/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "2D Platformer",
+      "Cute",
+      "Pixel Graphics",
+      "Physics",
+      "Puzzle Platformer",
+      "Exploration",
+      "2D",
+      "Platformer",
+      "Relaxing",
+      "Family Friendly",
+      "Indie",
+      "Action",
+      "Puzzle",
+      "Colorful",
+      "Cartoony",
+      "Nature",
+      "Collectathon",
+      "Fantasy",
+      "Female Protagonist",
+      "Atmospheric"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 14788,
+    "review_negative": 366,
+    "review_total": 15154,
+    "review_positive_percent": 97.58
+  }
+}

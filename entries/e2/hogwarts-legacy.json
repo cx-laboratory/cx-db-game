@@ -1,0 +1,291 @@
+{
+  "key": "hogwarts-legacy",
+  "name": "Hogwarts Legacy",
+  "description": "Hogwarts Legacy is an immersive, open-world action RPG. Now you can take control of the action and be at the center of your own adventure in the wizarding world.",
+  "developers": [
+    "Avalanche Software"
+  ],
+  "publishers": [
+    "Warner Bros. Games"
+  ],
+  "release_date": "2023-02-11",
+  "website": "https://www.hogwartslegacy.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "rpg",
+    "magic",
+    "open-world",
+    "fantasy",
+    "singleplayer",
+    "character-customization",
+    "exploration",
+    "story-rich",
+    "third-person",
+    "action-adventure",
+    "atmospheric",
+    "action-rpg",
+    "combat",
+    "choices-matter",
+    "puzzle",
+    "great-soundtrack",
+    "dark",
+    "family-friendly"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "arabic",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "koreana": "호그와트 레거시",
+    "schinese": "霍格沃茨之遗",
+    "arabic": "تراث هوغورتس",
+    "japanese": "ホグワーツ・レガシー",
+    "french": "Hogwarts Legacy : L'Héritage de Poudlard",
+    "tchinese": "霍格華茲的傳承",
+    "polish": "Dziedzictwo Hogwartu",
+    "russian": "Хогвартс. Наследие"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Phoenix-Win64-Test.exe",
+          "description": "Phoenix (Test)",
+          "type": "option1"
+        },
+        {
+          "executable": "Phoenix-Win64-Test.exe",
+          "description": "Play Phoenix (Test) and clean files",
+          "type": "default"
+        },
+        {
+          "executable": "Phoenix-Win64-Test.exe",
+          "description": "Phoenix (Test)",
+          "type": "option1"
+        },
+        {
+          "executable": "Phoenix-Win64-Test.exe",
+          "description": "Play Phoenix (Test) and clean files",
+          "type": "default"
+        },
+        {
+          "executable": "Phoenix-Win64-Test.exe",
+          "description": "Phoenix (Test)",
+          "type": "option1"
+        },
+        {
+          "executable": "Phoenix-Win64-Test.exe",
+          "description": "Play Phoenix (Test) and clean files",
+          "type": "default"
+        },
+        {
+          "executable": "Phoenix-Win64-Test.exe",
+          "description": "Phoenix (Test)",
+          "type": "option1"
+        },
+        {
+          "executable": "Phoenix-Win64-Test.exe",
+          "description": "Play Phoenix (Test) and clean files",
+          "type": "default"
+        },
+        {
+          "executable": "HogwartsLegacy.exe",
+          "description": "Hogwarts Legacy (CF Release Env)",
+          "type": "option1"
+        },
+        {
+          "executable": "HogwartsLegacy.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Phoenix-Win64-Test.exe",
+          "description": "Phoenix (Test) - Playtest User 1",
+          "type": "default"
+        },
+        {
+          "executable": "Phoenix-Win64-Test.exe",
+          "description": "Phoenix (Test) - Playtest User 2",
+          "type": "default"
+        },
+        {
+          "executable": "Phoenix-Win64-Test.exe",
+          "description": "Play Phoenix (Test)",
+          "type": "option1"
+        },
+        {
+          "executable": "Phoenix-Win64-Test.exe",
+          "description": "Play Phoenix (Test) and clean files",
+          "type": "default"
+        },
+        {
+          "executable": "Phoenix-Win64-Test.exe",
+          "description": "Play Phoenix (Test)",
+          "type": "option1"
+        },
+        {
+          "executable": "Phoenix-Win64-Test.exe",
+          "description": "Play Phoenix (Test) and clean files",
+          "type": "default"
+        },
+        {
+          "executable": "Phoenix-Win64-Test.exe",
+          "description": "Play Phoenix (Test)",
+          "type": "option1"
+        },
+        {
+          "executable": "Phoenix-Win64-Test.exe",
+          "description": "Play Phoenix (Test) and clean files",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Hogwarts Legacy/Saved/SaveGames/{Steam3AccountID}",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Hogwarts Legacy/Saved/Config/WindowsNoEditor",
+          "pattern": "Input.ini",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Hogwarts Legacy",
+    "Phoenix-Win64-Test",
+    "HogwartsLegacy",
+    "호그와트 레거시",
+    "霍格沃茨之遗",
+    "تراث هوغورتس",
+    "ホグワーツ・レガシー",
+    "Hogwarts Legacy : L'Héritage de Poudlard",
+    "霍格華茲的傳承",
+    "Dziedzictwo Hogwartu",
+    "Хогвартс. Наследие"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/990080/a9ecb94f249768d0ee5ccecbffe8d8c06d9bed59.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/a3cdc6f40d97df8ac993679c2dd1edeb5222421e/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/1b2e4eeed79dd06971492825a461bc5130bf7c28/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/941d5ed2debf633890dc5d9af39f2e22b404c177/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/3d095d7c929fe9fe9dd07f15d3c53cf3d6bfb539/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/3e898ad444f111a76db36476e920c5e41da2b1b1/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_725bf58485beb4aa37a3a69c1e2baa69bf3e4653.1920x1080.jpg?t=1778797474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_df93b5e8a183f7232d68be94ae78920a90de1443.1920x1080.jpg?t=1778797474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_94058497bf0f8fabdde17ee8d59bece609a60663.1920x1080.jpg?t=1778797474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_8e08976236d29b1897769257ac3c64e9264792a5.1920x1080.jpg?t=1778797474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_d4930d675af053dc1e61a876a34fc003e85e261f.1920x1080.jpg?t=1778797474"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Hogwarts Legacy Launch Trailer ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256930503/f057454ecf651b710de9d5e12d87808a8a9b550c/movie_600x337.jpg?t=1778797473",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/990080/312591535/edf964f7fb722d801bbe72a28ae205e8931519f7/1778796107/dash_h264.mpd?t=1778797473"
+    },
+    {
+      "name": "Hogwarts Legacy CG Trailer ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256926763/movie.293x165.jpg?t=1674596513",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/990080/532397/a1234838e313df774499f745b48f5424d6a7b410/1750604656/dash_h264.mpd?t=1674596513"
+    }
+  ],
+  "metacritic": {
+    "score": 83,
+    "url": "https://www.metacritic.com/game/pc/hogwarts-legacy?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 990080,
+    "store_url": "https://store.steampowered.com/app/990080/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "In-App Purchases",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Narrated Game Menus",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Stereo Sound",
+      "Surround Sound",
+      "Steam Cloud",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Magic",
+      "Open World",
+      "Fantasy",
+      "Singleplayer",
+      "Adventure",
+      "RPG",
+      "Character Customization",
+      "Exploration",
+      "Story Rich",
+      "Third Person",
+      "Action-Adventure",
+      "Atmospheric",
+      "Action RPG",
+      "Action",
+      "Combat",
+      "Choices Matter",
+      "Puzzle",
+      "Great Soundtrack",
+      "Dark",
+      "Family Friendly"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 331384,
+    "review_negative": 37582,
+    "review_total": 368966,
+    "review_positive_percent": 89.81
+  }
+}

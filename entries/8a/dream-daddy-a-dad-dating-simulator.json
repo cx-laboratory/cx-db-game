@@ -1,0 +1,237 @@
+{
+  "key": "dream-daddy-a-dad-dating-simulator",
+  "name": "Dream Daddy: A Dad Dating Simulator",
+  "description": "Dream Daddy: A Dad Dating Simulator is a game where you play as a Dad and your goal is to meet and romance other hot Dads. Are you ready? Hi ready, I'm Dad.",
+  "developers": [
+    "Game Grumps"
+  ],
+  "publishers": [
+    "Game Grumps"
+  ],
+  "release_date": "2017-07-21",
+  "website": "",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "lgbtq",
+    "dating-sim",
+    "sexual-content",
+    "romance",
+    "visual-novel",
+    "character-customization",
+    "memes",
+    "funny",
+    "choices-matter",
+    "nudity",
+    "cute",
+    "singleplayer",
+    "story-rich",
+    "multiple-endings",
+    "comedy",
+    "great-soundtrack",
+    "horror"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "japanese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ddadds.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Saves",
+          "pattern": "*.dad",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Saves",
+          "pattern": "*.biz",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "DDaDDs.app",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Saves",
+          "pattern": "*.dad",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Saves",
+          "pattern": "*.biz",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "./DDaDDS.x86_64",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "./DDaDDS.x86",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "./DDaDDS.x86_64",
+          "description": "",
+          "type": "config"
+        },
+        {
+          "executable": "./DDaDDS.x86",
+          "description": "",
+          "type": "config"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Saves",
+          "pattern": "*.dad",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Saves",
+          "pattern": "*.biz",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Dream Daddy: A Dad Dating Simulator",
+    "ddadds",
+    "DDaDDs.app",
+    "./DDaDDS.x86_64",
+    "./DDaDDS.x86"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/654880/7687276ef9fd90f2b427564620a358f66771a84d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/654880/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/654880/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/654880/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/654880/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/654880/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/654880/ss_b20a633c95db04070aa952c675b2b84db5324132.1920x1080.jpg?t=1600364211"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/654880/ss_c0c7764de392de3a38ba8769f4887b1b1460aadd.1920x1080.jpg?t=1600364211"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/654880/ss_44b3d31a4502ac7b3471db02df786a47a2567e18.1920x1080.jpg?t=1600364211"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/654880/ss_e2f23d6bde25ba2b4146b9b798fbfc92d3e1c800.1920x1080.jpg?t=1600364211"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/654880/ss_a213f9c9aad5aaee9803e5eb2b3edd7923292b11.1920x1080.jpg?t=1600364211"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/654880/ss_fa5909f0990839799c6ff36916bd9a343bffb2d2.1920x1080.jpg?t=1600364211"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/654880/ss_d420a3bc8c381051a6beb8b0ba44dd5be48dad86.1920x1080.jpg?t=1600364211"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/654880/ss_84ebd108e0977b3e29b17aed1275b792db3b4adf.1920x1080.jpg?t=1600364211"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256690728/movie.293x165.jpg?t=1600345767",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/654880/114427/6f8913b6f4c71e492a78331db905900c620dd5ce/1750567399/dash_h264.mpd?t=1600345767"
+    },
+    {
+      "name": "Dadrector's Cut",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256733777/movie.293x165.jpg?t=1600344316",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/654880/193174/22cff255b4f081f297b513182a0c42408b08e2a6/1750567442/dash_h264.mpd?t=1600344316"
+    }
+  ],
+  "metacritic": {
+    "score": 72,
+    "url": "https://www.metacritic.com/game/pc/dream-daddy-a-dad-dating-simulator?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 654880,
+    "store_url": "https://store.steampowered.com/app/654880/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Captions available",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "LGBTQ+",
+      "Dating Sim",
+      "Sexual Content",
+      "Romance",
+      "Visual Novel",
+      "Simulation",
+      "Character Customization",
+      "Indie",
+      "Memes",
+      "Casual",
+      "Funny",
+      "Choices Matter",
+      "Nudity",
+      "Cute",
+      "Singleplayer",
+      "Story Rich",
+      "Multiple Endings",
+      "Comedy",
+      "Great Soundtrack",
+      "Survival Horror"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 5722,
+    "review_negative": 530,
+    "review_total": 6252,
+    "review_positive_percent": 91.52
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "key": "helltaker",
+  "name": "Helltaker",
+  "description": "Helltaker is a short game about sharply dressed demon girls.",
+  "developers": [
+    "vanripper"
+  ],
+  "publishers": [
+    "vanripper"
+  ],
+  "release_date": "2020-05-11",
+  "website": "",
+  "tags": [
+    "adventure",
+    "free-to-play",
+    "indie",
+    "cute",
+    "puzzle",
+    "demons",
+    "great-soundtrack",
+    "anime",
+    "singleplayer",
+    "sexual-content",
+    "2d",
+    "short",
+    "comedy",
+    "difficult",
+    "dating-sim",
+    "funny",
+    "hentai",
+    "rhythm",
+    "visual-novel",
+    "nudity"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Helltaker.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "helltaker_osx.app\\Contents\\MacOS\\Helltaker",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "helltaker_lnx.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Helltaker",
+    "helltaker_osx.app\\Contents\\MacOS\\Helltaker",
+    "helltaker_lnx.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1289310/c4cfc91850d08836a6b49bc0509f7b0e3e17ffa4.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1289310/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1289310/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1289310/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1289310/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1289310/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1289310/ss_0e0102242f02f583133f373dc46c74535e5bdbb0.1920x1080.jpg?t=1620755466"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1289310/ss_0682c86b6a140bb293f86f03fa0404369c0bba25.1920x1080.jpg?t=1620755466"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1289310/ss_6b1135e5c398eb1e19200dc5e2a49275ce5878b0.1920x1080.jpg?t=1620755466"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1289310/ss_e97753206d864477f43d1cff4de9baec88aebf45.1920x1080.jpg?t=1620755466"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1289310/ss_7e9705f2ea50e068eb11b35045b7e158b3cc9ae6.1920x1080.jpg?t=1620755466"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Helltaker Steam Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256784968/movie.293x165.jpg?t=1589195344",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1289310/284822/0c0fccf2882f5203705968f217767255ac995738/1751215606/dash_h264.mpd?t=1589195344"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1289310,
+    "store_url": "https://store.steampowered.com/app/1289310/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Adventure",
+      "Free To Play",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Cute",
+      "Puzzle",
+      "Demons",
+      "Indie",
+      "Great Soundtrack",
+      "Anime",
+      "Singleplayer",
+      "Sexual Content",
+      "2D",
+      "Short",
+      "Comedy",
+      "Difficult",
+      "Adventure",
+      "Dating Sim",
+      "Funny",
+      "Hentai",
+      "Rhythm",
+      "Visual Novel",
+      "Nudity"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 124701,
+    "review_negative": 2946,
+    "review_total": 127647,
+    "review_positive_percent": 97.69
+  }
+}

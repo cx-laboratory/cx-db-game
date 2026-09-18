@@ -1,0 +1,193 @@
+{
+  "key": "chillquarium",
+  "name": "Chillquarium",
+  "description": "Chillquarium is a cozy and relaxing idle game. Buy fish and raise them in real time, then sell them to turn a profit! Customize your aquarium as you progress from a simple starter tank to your dream setup by filling your collection with rare exotic fish and ultra-rare color variants!",
+  "developers": [
+    "Ben Reber"
+  ],
+  "publishers": [
+    "Ben Reber"
+  ],
+  "release_date": "2023-09-07",
+  "website": "",
+  "tags": [
+    "casual",
+    "simulation",
+    "collectathon",
+    "creature-collector",
+    "idler",
+    "incremental",
+    "capitalism",
+    "economy",
+    "fishing",
+    "cozy",
+    "nature",
+    "animals",
+    "2d",
+    "cute",
+    "relaxing",
+    "colorful",
+    "family-friendly",
+    "atmospheric",
+    "resource-management",
+    "underwater"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Chillquarium.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Godot/app_userdata/Chillquarium/V7",
+          "pattern": "*.save",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Godot/app_userdata/Chillquarium/V7/Backup",
+          "pattern": "*.save",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Chillquarium.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Godot/app_userdata/Chillquarium/V7",
+          "pattern": "*.save",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Godot/app_userdata/Chillquarium/V7/Backup",
+          "pattern": "*.save",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Chillquarium",
+    "Chillquarium.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2276930/14100944fb543efc582dd0e39e18622e89387044.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2276930/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2276930/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2276930/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2276930/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2276930/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2276930/ss_672f892c6b7e86cb79a7890f9238e2746a395440.1920x1080.jpg?t=1782296940"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2276930/ss_d9bf72f283e5164f22bd7a3ed458e3c2deddc4d0.1920x1080.jpg?t=1782296940"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2276930/ss_c4c4f5e3e4527ba888ce6f9223d6c561efddc55b.1920x1080.jpg?t=1782296940"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2276930/ss_a5678c772653fa7e2b463955a754332fdcd3c0df.1920x1080.jpg?t=1782296940"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2276930/ss_bf8388b917c6d89fb4ee5919cc2a273c1f614fff.1920x1080.jpg?t=1782296940"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2276930/ss_88aa107f12cc17cc507ecc8eb3c94d76847b146d.1920x1080.jpg?t=1782296940"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2276930/ss_fa13287fe16bbe9cfe7d5c0fbc7f6714d23a4fb9.1920x1080.jpg?t=1782296940"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256939065/movie.293x165.jpg?t=1680446285",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2276930/554229/a2d6281bfab8c9ae8798272b3f826cea125f1230/1750811041/dash_h264.mpd?t=1680446285"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2276930,
+    "store_url": "https://store.steampowered.com/app/2276930/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Stats",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Collectathon",
+      "Creature Collector",
+      "Idler",
+      "Incremental",
+      "Capitalism",
+      "Economy",
+      "Fishing",
+      "Cozy",
+      "Nature",
+      "Animals",
+      "2D",
+      "Cute",
+      "Relaxing",
+      "Casual",
+      "Simulation",
+      "Colorful",
+      "Family Friendly",
+      "Atmospheric",
+      "Resource Management",
+      "Underwater"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7602,
+    "review_negative": 625,
+    "review_total": 8227,
+    "review_positive_percent": 92.4
+  }
+}

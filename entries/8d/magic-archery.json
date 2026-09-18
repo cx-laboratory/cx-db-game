@@ -1,0 +1,141 @@
+{
+  "key": "magic-archery",
+  "name": "Magic Archery",
+  "description": "Train a commoner to become the greatest archer in this short incremental game! Increase your stats, gather wealth from quests, buy upgrades, and infuse your arrows with magic.",
+  "developers": [
+    "Barribob"
+  ],
+  "publishers": [
+    "Barribob"
+  ],
+  "release_date": "2024-10-04",
+  "website": "https://barribob.github.io/",
+  "tags": [
+    "casual",
+    "indie",
+    "rpg",
+    "simulation",
+    "free-to-play",
+    "incremental",
+    "idler",
+    "resource-management",
+    "fantasy",
+    "economy",
+    "2d",
+    "colorful",
+    "cute",
+    "pixel-graphics",
+    "magic",
+    "singleplayer",
+    "management",
+    "archery",
+    "arcade",
+    "experimental"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Magic Archery.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Magic Archery"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2905170/2452f31193351100ad833465034400ffd8ee9142.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2905170/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2905170/0cd501e5e15e38597ae4f7b320ba5b3acdb14b95/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2905170/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2905170/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2905170/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2905170/ss_d0c9d930f4483654d8a8da8f0db594f5b5e2eba5.1920x1080.jpg?t=1772896350"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2905170/ss_4260a35d05ad397066755bfd2e3ac90560b57a8d.1920x1080.jpg?t=1772896350"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2905170/ss_56464f7e46bddc92dedae8c786e7d80c1c508dd1.1920x1080.jpg?t=1772896350"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2905170/ss_6b4f310ca7c728ec02d5451bab411f83145452f9.1920x1080.jpg?t=1772896350"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2905170/ss_38c379718a881943bb7d66768595385e2a85fa97.1920x1080.jpg?t=1772896350"
+    }
+  ],
+  "videos": [
+    {
+      "name": "General Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257053942/movie.293x165.jpg?t=1726103361",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2905170/753736/ed78f7064a05a60c9281016ffdfbc08ab69d403a/1750887824/dash_h264.mpd?t=1726103361"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2905170,
+    "store_url": "https://store.steampowered.com/app/2905170/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Incremental",
+      "Idler",
+      "Resource Management",
+      "Fantasy",
+      "Economy",
+      "2D",
+      "RPG",
+      "Colorful",
+      "Cute",
+      "Casual",
+      "Pixel Graphics",
+      "Magic",
+      "Singleplayer",
+      "Simulation",
+      "Indie",
+      "Management",
+      "Free to Play",
+      "Archery",
+      "Arcade",
+      "Experimental"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 7972,
+    "review_negative": 126,
+    "review_total": 8098,
+    "review_positive_percent": 98.44
+  }
+}

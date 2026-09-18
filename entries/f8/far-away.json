@@ -1,0 +1,188 @@
+{
+  "key": "far-away",
+  "name": "Far Away",
+  "description": "Far Away is a visual novel full of dark humor depicting immersive storylines rather than romantic drama. You will play as Krosa, a typical girl who experiences gang conflicts, crimes, conspiracies, and family grudges in the port city of Bedjan.",
+  "developers": [
+    "Gratesca"
+  ],
+  "publishers": [
+    "Gratesca"
+  ],
+  "release_date": "2021-08-18",
+  "website": "https://weibo.com/hongchagames",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "rpg",
+    "singleplayer",
+    "visual-novel",
+    "choices-matter",
+    "word-game",
+    "story-rich",
+    "female-protagonist",
+    "choose-your-own-adventure",
+    "anime",
+    "cute",
+    "interactive-fiction",
+    "2d",
+    "investigation",
+    "replay-value",
+    "dark-humor",
+    "multiple-endings",
+    "conspiracy",
+    "comedy",
+    "crime"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "schinese",
+    "sc_schinese"
+  ],
+  "name_localized": {
+    "english": "Far Away",
+    "koreana": "파 어웨이 Far Away",
+    "japanese": "彼方へ Far Away",
+    "tchinese": "海沙風雲 Far Away",
+    "sc_schinese": "海沙风云"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "海沙风云.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "THE ART OF FAR AWAY/THE ART OF FAR AWAY.pdf",
+          "description": "THE ART OF FAR AWAY",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "HongChaGame\\海沙风云\\GameSaves",
+          "pattern": "*.save",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "HongChaGame\\海沙风云\\GameSaves",
+          "pattern": "*.head",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Far Away",
+    "海沙风云",
+    "THE ART OF FAR AWAY/THE ART OF FAR AWAY.pdf",
+    "파 어웨이 Far Away",
+    "彼方へ Far Away",
+    "海沙風雲 Far Away"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1250760/163ed2b719e4ad511990d7139e3831d2d0739e55.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250760/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250760/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250760/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250760/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250760/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250760/ss_d3442aef21b45de57a154d6b16442f405676bac6.1920x1080.jpg?t=1772681524"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250760/ss_b6b4ffa423143b8f0aca3bf03d317630d21f6a58.1920x1080.jpg?t=1772681524"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250760/ss_3994afe71d065fa70b98a4e23d589b4266bbb9e7.1920x1080.jpg?t=1772681524"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250760/ss_24efda30e68034aed5c602193b7993a53e57a25e.1920x1080.jpg?t=1772681524"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250760/ss_5952c758d014179cf2dc424270afaee6141fa5da.1920x1080.jpg?t=1772681524"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250760/ss_88ba1d3ffbab38a36c74420a561a11035cb22ad6.1920x1080.jpg?t=1772681524"
+    }
+  ],
+  "videos": [
+    {
+      "name": "t",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256880264/movie.293x165.jpg?t=1648710532",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1250760/451351/afbad24596a46e63bc819ee6e297c032040c8f7a/1751209677/dash_h264.mpd?t=1648710532"
+    },
+    {
+      "name": "en-1",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256879883/movie.293x165.jpg?t=1663561584",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1250760/450722/f50a52836acbdce902e85e2f6de2bc27f675bc25/1751209675/dash_h264.mpd?t=1663561584"
+    },
+    {
+      "name": "Gameplay_CN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256846152/movie.293x165.jpg?t=1648712155",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1250760/391508/70844142724c57c49f71934ab30a176b1750b049/1751209670/dash_h264.mpd?t=1648712155"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1250760,
+    "store_url": "https://store.steampowered.com/app/1250760/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Visual Novel",
+      "Choices Matter",
+      "Word Game",
+      "Story Rich",
+      "Female Protagonist",
+      "Choose Your Own Adventure",
+      "Anime",
+      "Cute",
+      "Indie",
+      "Adventure",
+      "Interactive Fiction",
+      "2D",
+      "Investigation",
+      "Replay Value",
+      "Dark Humor",
+      "Multiple Endings",
+      "Conspiracy",
+      "Comedy",
+      "Crime"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7725,
+    "review_negative": 427,
+    "review_total": 8152,
+    "review_positive_percent": 94.76
+  }
+}

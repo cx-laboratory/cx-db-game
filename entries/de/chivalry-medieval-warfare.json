@@ -1,0 +1,263 @@
+{
+  "key": "chivalry-medieval-warfare",
+  "name": "Chivalry: Medieval Warfare",
+  "description": "Besiege castles and raid villages in Chivalry: Medieval Warfare, a fast-paced medieval first person slasher with a focus on multiplayer battles",
+  "developers": [
+    "Torn Banner Studios"
+  ],
+  "publishers": [
+    "Torn Banner Studios"
+  ],
+  "release_date": "2012-10-17",
+  "website": "http://www.tornbanner.com/chivalry",
+  "tags": [
+    "action",
+    "indie",
+    "multiplayer",
+    "medieval",
+    "gore",
+    "first-person",
+    "swordplay",
+    "violent",
+    "pvp",
+    "third-person",
+    "competitive",
+    "team-based",
+    "hack-and-slash",
+    "co-op",
+    "historical",
+    "fps",
+    "class-based",
+    "atmospheric",
+    "simulation",
+    "difficult"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "italian",
+    "schinese",
+    "japanese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Binaries\\Win64\\CMW.exe",
+          "description": "Chivalry: Medieval Warfare",
+          "type": "option1"
+        },
+        {
+          "executable": "CDW\\Binaries\\Win64\\CDW.exe",
+          "description": "Chivalry: Deadliest Warrior",
+          "type": "option2"
+        },
+        {
+          "executable": "Binaries\\Win32\\CMW.exe",
+          "description": "Chivalry: Medieval Warfare (32-bit)",
+          "type": "none"
+        },
+        {
+          "executable": "CDW\\Binaries\\Win32\\CDW.exe",
+          "description": "Chivalry: Deadliest Warrior (32-bit)",
+          "type": "default"
+        },
+        {
+          "executable": "ChivLauncher.exe",
+          "description": "Launcher (SDK, Workshop, Safe Mode)",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Chivalry.app/Contents/MacOS/UDKGame",
+          "description": "Chivalry: Medieval Warfare",
+          "type": "option1"
+        },
+        {
+          "executable": "CDW/ChivalryDeadliestWarrior.app/Contents/MacOS/CDWGame",
+          "description": "Chivalry: Deadliest Warrior",
+          "type": "option2"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Binaries\\Linux\\UDKGame-Linux",
+          "description": "Chivalry: Medieval Warfare",
+          "type": "option1"
+        },
+        {
+          "executable": "CDW\\Binaries\\Linux\\CDWGame-Linux",
+          "description": "Chivalry: Deadliest Warrior",
+          "type": "option2"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Chivalry: Medieval Warfare",
+    "Binaries\\Win64\\CMW",
+    "CDW\\Binaries\\Win64\\CDW",
+    "Binaries\\Win32\\CMW",
+    "CDW\\Binaries\\Win32\\CDW",
+    "ChivLauncher",
+    "Chivalry.app/Contents/MacOS/UDKGame",
+    "CDW/ChivalryDeadliestWarrior.app/Contents/MacOS/CDWGame",
+    "Binaries\\Linux\\UDKGame-Linux",
+    "CDW\\Binaries\\Linux\\CDWGame-Linux"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/219640/d4628be29b7e97d93a3404870dfe79642b90b907.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/ss_170b491759e866cf5c3d8f707283e9095383dc5f.1920x1080.jpg?t=1710276094"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/ss_ca4c8198b38329dc90ef9d4cff6434863369ff21.1920x1080.jpg?t=1710276094"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/ss_256059f43087fae70387ee8c976cbd86ce4ad1f6.1920x1080.jpg?t=1710276094"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/ss_44d9d5cd09abf02df56daaf99db2d6dc68010b66.1920x1080.jpg?t=1710276094"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/ss_afca08a890740015e91d8aa4d985a06130516f6c.1920x1080.jpg?t=1710276094"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/ss_676e7c0e215c173c84c6ff344a3d05bf681e5b1a.1920x1080.jpg?t=1710276094"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/ss_3cc549a0ee7f7c9c2182dea8178d4c3eae99d708.1920x1080.jpg?t=1710276094"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/ss_36aa47c4076c74c296758e09f056e7fd48ffb14e.1920x1080.jpg?t=1710276094"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/ss_951bba5567210fdc3d5b9d445378597b6373ef41.1920x1080.jpg?t=1710276094"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/ss_6b4a4735800fac4cd76ff890c838b3a8cccb9339.1920x1080.jpg?t=1710276094"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/ss_9e5a9f99d94c86f230a63bfe92b33128cb96af4a.1920x1080.jpg?t=1710276094"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/ss_0ee2494d5b2281bf777e47452b4d70844fc13462.1920x1080.jpg?t=1710276094"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/ss_a0c6c41d4c72361a2a6094996f193dd2f9445e66.1920x1080.jpg?t=1710276094"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/ss_849ad5f72faf93f9d6782ef195b6ce500f830ae5.1920x1080.jpg?t=1710276094"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/ss_60ff9e5f364919002282af82ff0d2bf7899d3f95.1920x1080.jpg?t=1710276094"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/ss_660706209642b55241da0e5847a787bd67a205f7.1920x1080.jpg?t=1710276094"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/ss_8be4cb44b90afe3fdfd1c3e07d1c8d0b3075f90b.1920x1080.jpg?t=1710276094"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/ss_7ce5fcb7614ccee264ba1585dc11f371363e15d0.1920x1080.jpg?t=1710276094"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/ss_b5db4b60606bc918d493e0f564d36b911e21932f.1920x1080.jpg?t=1710276094"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/ss_afae69b7ce0e3fa6df1087051344d55721a3514e.1920x1080.jpg?t=1710276094"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219640/ss_0841a0ed795fd67dc9b72304b480d8ccabf4a93c.1920x1080.jpg?t=1710276094"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Chivalry Trailer 2",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028138/movie.293x165.jpg?t=1447357058",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/219640/9815/f936fedf02efd1b5804cdda6177faf0b21364746/1750481410/dash_h264.mpd?t=1447357058"
+    },
+    {
+      "name": "Chivalry Medieval Warfare Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/82125/movie.293x165.jpg?t=1447356870",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/219640/9449/c914ca2a95bc108bb124a35f0a59fa83d81065f0/1750481408/dash_h264.mpd?t=1447356870"
+    }
+  ],
+  "metacritic": {
+    "score": 79,
+    "url": "https://www.metacritic.com/game/pc/chivalry-medieval-warfare?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 219640,
+    "store_url": "https://store.steampowered.com/app/219640/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Multi-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Valve Anti-Cheat enabled",
+      "Includes level editor",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Medieval",
+      "Multiplayer",
+      "Action",
+      "Gore",
+      "First-Person",
+      "Swordplay",
+      "Violent",
+      "PvP",
+      "Indie",
+      "Third Person",
+      "Competitive",
+      "Team-Based",
+      "Hack and Slash",
+      "Co-op",
+      "Historical",
+      "FPS",
+      "Class-Based",
+      "Atmospheric",
+      "Simulation",
+      "Difficult"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 53750,
+    "review_negative": 11352,
+    "review_total": 65102,
+    "review_positive_percent": 82.56
+  }
+}

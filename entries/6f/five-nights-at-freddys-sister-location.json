@@ -1,0 +1,140 @@
+{
+  "key": "five-nights-at-freddys-sister-location",
+  "name": "Five Nights at Freddy's: Sister Location",
+  "description": "Welcome to Circus Baby's Pizza World, where family fun and interactivity go beyond anything you've seen at those *other* pizza places! Now hiring: Late night technician. Must enjoy cramped spaces and be comfortable around active machinery. Not responsible for death or dismemberment.",
+  "developers": [
+    "Scott Cawthon"
+  ],
+  "publishers": [
+    "Scott Cawthon"
+  ],
+  "release_date": "2016-10-08",
+  "website": "http://www.scottgames.com/",
+  "tags": [
+    "action",
+    "indie",
+    "simulation",
+    "horror",
+    "singleplayer",
+    "robots",
+    "first-person",
+    "dark",
+    "difficult",
+    "survival",
+    "strategy",
+    "story-rich",
+    "mystery",
+    "atmospheric",
+    "lore-rich",
+    "memes",
+    "funny",
+    "adventure",
+    "gore"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SisterLocation.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Five Nights at Freddy's: Sister Location",
+    "SisterLocation"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/506610/3e4a286cebe2ce195718ad1a18903e7667251d65.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/506610/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/506610/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/506610/capsule_231x87.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/506610/ss_a6d055ff2a374183e7349a7355327a7b7884c680.1920x1080.jpg?t=1579635985"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/506610/ss_9a91cb224773f420643477106df3d1daa948504e.1920x1080.jpg?t=1579635985"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/506610/ss_03f34834244060abe68f06f8858570db3e326d55.1920x1080.jpg?t=1579635985"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/506610/ss_76e9ba314911f8bf1ad34f3e76a8cda514a3e3e5.1920x1080.jpg?t=1579635985"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/506610/ss_66c7936da8988b9a1dc788890181212078756107.1920x1080.jpg?t=1579635985"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Trailer 1",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256667465/movie.293x165.jpg?t=1470071643",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/506610/65846/841ace2a5bc9091d9202e7fde72ddb26c31bb956/1750539221/dash_h264.mpd?t=1470071643"
+    }
+  ],
+  "metacritic": {
+    "score": 62,
+    "url": "https://www.metacritic.com/game/pc/five-nights-at-freddys-sister-location?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 506610,
+    "store_url": "https://store.steampowered.com/app/506610/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Horror",
+      "Survival Horror",
+      "Singleplayer",
+      "Robots",
+      "First-Person",
+      "Dark",
+      "Difficult",
+      "Survival",
+      "Strategy",
+      "Indie",
+      "Story Rich",
+      "Mystery",
+      "Psychological Horror",
+      "Atmospheric",
+      "Simulation",
+      "Lore-Rich",
+      "Memes",
+      "Funny",
+      "Adventure",
+      "Gore"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 11290,
+    "review_negative": 1241,
+    "review_total": 12531,
+    "review_positive_percent": 90.1
+  }
+}

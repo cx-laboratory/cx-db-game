@@ -1,0 +1,198 @@
+{
+  "key": "cities-skylines",
+  "name": "Cities: Skylines",
+  "description": "Cities: Skylines is a modern take on the classic city simulation. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience.",
+  "developers": [
+    "Colossal Order"
+  ],
+  "publishers": [
+    "Paradox Interactive"
+  ],
+  "release_date": "2015-03-10",
+  "website": "",
+  "tags": [
+    "simulation",
+    "strategy",
+    "city-builder",
+    "building",
+    "management",
+    "sandbox",
+    "singleplayer",
+    "economy",
+    "moddable",
+    "resource-management",
+    "mod",
+    "realistic",
+    "replay-value",
+    "casual",
+    "modern",
+    "real-time-with-pause",
+    "family-friendly",
+    "great-soundtrack",
+    "funny",
+    "action"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "dowser.exe",
+          "description": "Launch",
+          "type": "none"
+        },
+        {
+          "executable": "Cities.exe",
+          "description": "baseline launch",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Cities.app/Contents/Launcher/dowser",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "dowser",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Cities: Skylines",
+    "dowser",
+    "Cities",
+    "Cities.app/Contents/Launcher/dowser"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/255710/6cf7b10dd29db28448ef79698ed2118a03617d63.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/4cf458b43b41e4f86d3e4e604e7a7577c7926b01/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_0754001c88ad4dbfff92faf9a97e8d87cf3f8840.1920x1080.jpg?t=1782396165"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_e0f842c9327df9defabf120b6c59e1ba42f54a75.1920x1080.jpg?t=1782396165"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_b5a4b72062b8c4ad677b242963e88c2e624cb1f9.1920x1080.jpg?t=1782396165"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_39f74526167020dfae4156945f24e7e49d5eedf8.1920x1080.jpg?t=1782396165"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_a4ebf2b3ad46e620d99fa471708d68b28ea4d7d1.1920x1080.jpg?t=1782396165"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_013b26f27484941d4edbd406f8df5b5238f120df.1920x1080.jpg?t=1782396165"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_e90299bea1faee761c11c5242c4e6e89f3ef7fb9.1920x1080.jpg?t=1782396165"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_79130723c29cdd89f6169514bc4aad03aa58e823.1920x1080.jpg?t=1782396165"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_7d54fe076aabfd4fbe465517a4f1a4426e9cb367.1920x1080.jpg?t=1782396165"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_13bf6dcdc9f4e383f885752fbe9114ddb4dfd729.1920x1080.jpg?t=1782396165"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Trailer 2020",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256785384/movie.293x165.jpg?t=1589550020",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/255710/285736/c6d0fd84c7635300ea7ce0ca9222840f47fe228d/1750489550/dash_h264.mpd?t=1589550020"
+    }
+  ],
+  "metacritic": {
+    "score": 85,
+    "url": "https://www.metacritic.com/game/pc/cities-skylines?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 255710,
+    "store_url": "https://store.steampowered.com/app/255710/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Includes level editor",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "City Builder",
+      "Simulation",
+      "Building",
+      "Management",
+      "Strategy",
+      "Sandbox",
+      "Singleplayer",
+      "Economy",
+      "Moddable",
+      "Resource Management",
+      "Mod",
+      "Realistic",
+      "Replay Value",
+      "Casual",
+      "Modern",
+      "Real-Time with Pause",
+      "Family Friendly",
+      "Great Soundtrack",
+      "Funny",
+      "Action"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 269414,
+    "review_negative": 20658,
+    "review_total": 290072,
+    "review_positive_percent": 92.88
+  }
+}

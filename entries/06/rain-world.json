@@ -1,0 +1,271 @@
+{
+  "key": "rain-world",
+  "name": "Rain World",
+  "description": "You are a nomadic slugcat, both predator and prey in a broken ecosystem. Grab your spear and brave the industrial wastes, hunting enough food to survive, but be wary— other, bigger creatures have the same plan... and slugcats look delicious.",
+  "developers": [
+    "Videocult"
+  ],
+  "publishers": [
+    "Akupara Games"
+  ],
+  "release_date": "2017-03-28",
+  "website": "https://www.akuparagames.com/game/rain-world/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "multiplayer",
+    "pvp",
+    "difficult",
+    "atmospheric",
+    "survival",
+    "exploration",
+    "pixel-graphics",
+    "platformer",
+    "2d",
+    "open-world",
+    "post-apocalyptic",
+    "2d-platformer",
+    "metroidvania",
+    "cute",
+    "horror",
+    "physics",
+    "singleplayer",
+    "simulation",
+    "souls-like"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "雨世界"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "RainWorld.exe",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Videocult/Rain World",
+          "pattern": "sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Videocult/Rain World",
+          "pattern": "sav2",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Videocult/Rain World",
+          "pattern": "sav3",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Videocult/Rain World",
+          "pattern": "options",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Videocult/Rain World",
+          "pattern": "exp",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Videocult/Rain World",
+          "pattern": "expCore1",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Videocult/Rain World",
+          "pattern": "expCore2",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Videocult/Rain World",
+          "pattern": "expCore3",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Videocult/Rain World/SJ_0",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Videocult/Rain World/SJ_1",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Videocult/Rain World/SJ_2",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Videocult/Rain World/cloud",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Videocult/Rain World/ModConfigs",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Videocult/Rain World",
+          "pattern": "exp1",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Rain World",
+    "RainWorld",
+    "雨世界"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/312520/5854494b840a18a660a495d6259d562b51f21240.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312520/dc5bd100e86dbdb088e7ff17cdb601e7eb2e00bc/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312520/d68d137786bd8fd4e056e056273f2bf0bc2a338d/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312520/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312520/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312520/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312520/ss_cbd4e647d6b3bb3b311cb68fdf0cd8835d5919d7.1920x1080.jpg?t=1781113199"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312520/ss_628274c84b196e270733f540139062f2787c4423.1920x1080.jpg?t=1781113199"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312520/ss_d551eee41e60ba8f5f2005b3de41c5f2c27cb444.1920x1080.jpg?t=1781113199"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312520/ss_5c8c0413e98f3521e3df370d4ad7018b771ce353.1920x1080.jpg?t=1781113199"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312520/ss_becb0959f6479d07e05f2c14f48980a15b5e5192.1920x1080.jpg?t=1781113199"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312520/ss_519831951a674f56ca80fd7e14884a7291d71e50.1920x1080.jpg?t=1781113199"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312520/ss_4dd9382b280de17b21bdff758200c32250078d80.1920x1080.jpg?t=1781113199"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312520/ss_732dcfeade41f17e5404bc528bd9f44b53a51d5f.1920x1080.jpg?t=1781113199"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312520/ss_ac9c5296916330c54c69302963d151ad261d6c14.1920x1080.jpg?t=1781113199"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Steam Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256925909/movie.293x165.jpg?t=1674108570",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/312520/530803/d671a77f03977015edab886e0620e1d8d2766cf6/1750506465/dash_h264.mpd?t=1674108570"
+    },
+    {
+      "name": "Annoucement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256680866/movie.293x165.jpg?t=1488988824",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/312520/93053/9daf0068ab1f34faa9ead6c4c66e44a119ac30a3/1750506762/dash_h264.mpd?t=1488988824"
+    }
+  ],
+  "metacritic": {
+    "score": 66,
+    "url": "https://www.metacritic.com/game/pc/rain-world?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 312520,
+    "store_url": "https://store.steampowered.com/app/312520/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Shared/Split Screen PvP",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Keyboard Only Option",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Difficult",
+      "Atmospheric",
+      "Survival",
+      "Exploration",
+      "Indie",
+      "Pixel Graphics",
+      "Platformer",
+      "2D",
+      "Open World",
+      "Post-apocalyptic",
+      "Adventure",
+      "2D Platformer",
+      "Metroidvania",
+      "Cute",
+      "Survival Horror",
+      "Physics",
+      "Singleplayer",
+      "Simulation",
+      "Action",
+      "Souls-like"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 50376,
+    "review_negative": 3260,
+    "review_total": 53636,
+    "review_positive_percent": 93.92
+  }
+}

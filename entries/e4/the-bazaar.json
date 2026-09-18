@@ -1,0 +1,176 @@
+{
+  "key": "the-bazaar",
+  "name": "The Bazaar",
+  "description": "The Bazaar is a fast-paced multiplayer Roguelike where every run is a new puzzle. Choose from unique heroes, uncover powerful combos, and outwit your opponents in a dynamic, ever-changing marketplace. Play at your own pace while discovering endless ways to win.",
+  "developers": [
+    "Tempo"
+  ],
+  "publishers": [
+    "Tempo"
+  ],
+  "release_date": "2025-08-14",
+  "website": "https://playthebazaar.com/",
+  "tags": [
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "auto-battler",
+    "deckbuilding",
+    "card-battler",
+    "card-game",
+    "asynchronous-multiplayer",
+    "pve",
+    "fantasy",
+    "sci-fi",
+    "capitalism",
+    "economy",
+    "adventure",
+    "family-friendly",
+    "tactical",
+    "futuristic",
+    "combat",
+    "choose-your-own-adventure",
+    "colorful"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English*",
+    "German",
+    "Korean",
+    "Portuguese - Brazil",
+    "Simplified Chinese",
+    "Italian",
+    "Spanish - Spain",
+    "Spanish - Latin America",
+    "Turkish*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "大巴扎 The Bazaar"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "TheBazaar.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "TheBazaar.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "The Bazaar",
+    "TheBazaar",
+    "TheBazaar.app",
+    "大巴扎 The Bazaar"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1617400/9fa251921f007cfa0f074b3a548f083cb3150d1c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1617400/eac2893cccab684a615561e84831b6d4f7a39410/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1617400/20eda1054049859918b886992ef02b10e801471c/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1617400/8e08c315a856b850488b88c808d70264495e2ba0/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1617400/0eb7c6f749e296e4690c77926943ca5a6cbda133/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1617400/abfa0828dab2415256f5a650efe0835b347eb24c/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1617400/3582d761ebef9a077a850170cf2d9431fae366e0/ss_3582d761ebef9a077a850170cf2d9431fae366e0.1920x1080.jpg?t=1775066388"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1617400/75a8de6841e7a260c7d4d6a451672953434361e8/ss_75a8de6841e7a260c7d4d6a451672953434361e8.1920x1080.jpg?t=1775066388"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1617400/268bd0fdc5fb3150434fb9f4e2264ac1be2f4c8b/ss_268bd0fdc5fb3150434fb9f4e2264ac1be2f4c8b.1920x1080.jpg?t=1775066388"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1617400/4e81c57eb94c29ab29c17bfd7bc887d4bfb7e813/ss_4e81c57eb94c29ab29c17bfd7bc887d4bfb7e813.1920x1080.jpg?t=1775066388"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1617400/a2a8a79ab3a90f77333663a493aca5aaef591f8a/ss_a2a8a79ab3a90f77333663a493aca5aaef591f8a.1920x1080.jpg?t=1775066388"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1617400/9547d209ee273ff08e8f024cfa055f5dac882593/ss_9547d209ee273ff08e8f024cfa055f5dac882593.1920x1080.jpg?t=1775066388"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1617400/d987b249fe4910fb780806ea8989b2e0f52f7e7e/ss_d987b249fe4910fb780806ea8989b2e0f52f7e7e.1920x1080.jpg?t=1775066388"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1617400/467212505e85ef5590ac9b353118a76a9d32a8a9/ss_467212505e85ef5590ac9b353118a76a9d32a8a9.1920x1080.jpg?t=1775066388"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Bazaar Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257182616/a0302cc634420ca808a4c3ab7d4882d513c7e655/movie_600x337.jpg?t=1755094125",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1617400/824712298/487560bec45bc879478173cdebe22a99924b5bd2/1755090008/dash_h264.mpd?t=1755094125"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1617400,
+    "store_url": "https://store.steampowered.com/app/1617400/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "In-App Purchases",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Stereo Sound"
+    ],
+    "tags": [
+      "Strategy",
+      "Auto Battler",
+      "Deckbuilding",
+      "Card Battler",
+      "Card Game",
+      "Asynchronous Multiplayer",
+      "PvP",
+      "PvE",
+      "Multiplayer",
+      "Fantasy",
+      "Sci-fi",
+      "Capitalism",
+      "Economy",
+      "Adventure",
+      "Family Friendly",
+      "Tactical",
+      "Futuristic",
+      "Combat",
+      "Choose Your Own Adventure",
+      "Colorful"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 10326,
+    "review_negative": 4237,
+    "review_total": 14563,
+    "review_positive_percent": 70.91
+  }
+}

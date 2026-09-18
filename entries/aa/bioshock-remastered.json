@@ -1,0 +1,208 @@
+{
+  "key": "bioshock-remastered",
+  "name": "BioShock Remastered",
+  "description": "BioShock is a shooter unlike any other, loaded with unique weapons and tactics. Complete with an arsenal of revolvers, shotguns, and grenade launchers, players will be forced to genetically modify their DNA to become an even deadlier weapon.",
+  "developers": [
+    "2K Boston"
+  ],
+  "publishers": [
+    "2K"
+  ],
+  "release_date": "2016-09-16",
+  "website": "http://www.BioShockGame.com",
+  "tags": [
+    "action",
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "schinese": "生化奇兵 重制版",
+    "tchinese": "生化奇兵 重製版",
+    "japanese": "バイオショック リマスター",
+    "koreana": "바이오쇼크 리마스터"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Build\\Final\\BioshockHD.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Build\\Release\\Bioshock.exe",
+          "description": "Release Build",
+          "type": "default"
+        },
+        {
+          "executable": "Build\\FinalWithLogging\\BioshockHD.exe",
+          "description": "Final With Logging configuration",
+          "type": "default"
+        },
+        {
+          "executable": "Build\\FinalWithLogging\\BioshockHD.exe",
+          "description": "Final With Logging configuration",
+          "type": "default"
+        },
+        {
+          "executable": "SecSoftware\\Launcher.exe",
+          "description": "Portcullis Key Entry",
+          "type": "option1"
+        },
+        {
+          "executable": "Build\\Final\\BioShockHD.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Build\\Final\\BioShockHD.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Build\\Final\\BioShockHD.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "2KLauncher\\LauncherPatcher.exe",
+          "description": "Launch With 2KLauncher",
+          "type": "default"
+        },
+        {
+          "executable": "2KLauncher\\LauncherPatcher.exe",
+          "description": "Launch With 2KLauncher",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "BioshockHD/BioShock/SaveGames",
+          "pattern": "*.bsb",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Build\\Release\\Bioshock.exe",
+          "description": "Release Build",
+          "type": "default"
+        },
+        {
+          "executable": "Build\\FinalWithLogging\\BioshockHD.exe",
+          "description": "Final With Logging configuration",
+          "type": "default"
+        },
+        {
+          "executable": "BioShock Remastered.app",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "2KLauncher\\LauncherPatcher.exe",
+          "description": "Launch With 2KLauncher",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "BioshockHD/BioShock/SaveGames",
+          "pattern": "*.bsb",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "BioShock Remastered",
+    "Build\\Final\\BioshockHD",
+    "Build\\Release\\Bioshock",
+    "Build\\FinalWithLogging\\BioshockHD",
+    "SecSoftware\\Launcher",
+    "2KLauncher\\LauncherPatcher",
+    "BioShock Remastered.app",
+    "生化奇兵 重制版",
+    "生化奇兵 重製版",
+    "バイオショック リマスター",
+    "바이오쇼크 리마스터"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/409710/eb72262cd3ccc3219dd76392be3b60a4b6cbfd38.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409710/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409710/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409710/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409710/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409710/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409710/ss_bb9c564381c11357a51f1579c6337fba90ead10f.1920x1080.jpg?t=1740443728"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409710/ss_fefcc94c6f10da7009cf07cf877e5d5937ebfb45.1920x1080.jpg?t=1740443728"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409710/ss_04e04ae694f8b077e7f03906f7fa813823b5fd4e.1920x1080.jpg?t=1740443728"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409710/ss_002c690e40603e3bccec0d84256f99a5b03fdbec.1920x1080.jpg?t=1740443728"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409710/ss_8d6a734202921fc6ca462c8e63a88a1407243b51.1920x1080.jpg?t=1740443728"
+    }
+  ],
+  "videos": [],
+  "metacritic": {
+    "score": 80,
+    "url": "https://www.metacritic.com/game/pc/bioshock-the-collection?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 409710,
+    "store_url": "https://store.steampowered.com/app/409710/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Commentary available",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 53144,
+    "review_negative": 10901,
+    "review_total": 64045,
+    "review_positive_percent": 82.98
+  }
+}

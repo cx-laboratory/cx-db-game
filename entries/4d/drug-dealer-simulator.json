@@ -1,0 +1,205 @@
+{
+  "key": "drug-dealer-simulator",
+  "name": "Drug Dealer Simulator",
+  "description": "Have you ever considered creating your own crime empire, without the legal and moral consequences? SIMULATE IT! Crawl into the dark alleys of the street business in this OG drug-dealing game, and make a fortune! A co-op sequel – DDS2 – is out NOW",
+  "developers": [
+    "Byterunners"
+  ],
+  "publishers": [
+    "Movie Games S.A."
+  ],
+  "release_date": "2020-04-16",
+  "website": "https://mov.gs",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "simulation",
+    "crime",
+    "singleplayer",
+    "open-world",
+    "resource-management",
+    "crafting",
+    "trading",
+    "management",
+    "first-person",
+    "realistic",
+    "co-op",
+    "sandbox",
+    "inventory-management",
+    "strategy",
+    "dark-comedy",
+    "funny",
+    "atmospheric"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "portuguese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "DrugDealerSimulator.exe",
+          "description": "Play Game",
+          "type": "default"
+        },
+        {
+          "executable": "cmd.exe",
+          "description": "Use this option if your game crashes at launch",
+          "type": "default"
+        },
+        {
+          "executable": "OpenDDS.bat",
+          "description": "Use this option if your game crashes on launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Drug Dealer Simulator",
+    "DrugDealerSimulator",
+    "cmd",
+    "OpenDDS.bat"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/682990/c80b7b0b203eb18386ce1210a9ee2afdfe0660ce.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682990/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682990/57f111ef33aaa1ecf27cea61960c5043b6cc8b0b/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682990/d9982816b4915d16c9d6c14f1d582834b08e711f/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682990/0b026e1335ece66f6271e3121c8551b305c0bf48/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682990/02b0d9beb00b39f9ffe0cde514d91929db03dc3e/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682990/ss_f4f818ecce7e5e5ae04c4d2046e883f8c2beec83.1920x1080.jpg?t=1775748556"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682990/ss_0f1a23a005894748d6fd87f444c001ee069f53a9.1920x1080.jpg?t=1775748556"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682990/ss_fb5da0ded44b745a42b70ed77ee2be45a011bf32.1920x1080.jpg?t=1775748556"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682990/ss_854625d6dc20d2f1d18d3c5060fc4a8860c8cc2e.1920x1080.jpg?t=1775748556"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682990/ss_f5f432588ebeb0f9c3949eb9cfab1b55950efdd9.1920x1080.jpg?t=1775748556"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682990/ss_a95345fafc2e0ebed39f681e8ca08dd5005d04c4.1920x1080.jpg?t=1775748556"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682990/ss_609599a28407f777a647f91b2823119f5d049f07.1920x1080.jpg?t=1775748556"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682990/ss_628392ba6620c4c502c3a6d6c78503d7e81e5c25.1920x1080.jpg?t=1775748556"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682990/ss_0206adc3fb31751dd4506d2c1bccf75cd4764d1b.1920x1080.jpg?t=1775748556"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682990/ss_c4e91d747f8b30c307374023b8e23342628b3228.1920x1080.jpg?t=1775748556"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682990/ss_f7aeeceb8dedcc71e0840dbe77bda5a7294e046c.1920x1080.jpg?t=1775748556"
+    }
+  ],
+  "videos": [
+    {
+      "name": "DDS Visual Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257049534/movie.293x165.jpg?t=1724674307",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/682990/746148/93cf735bc6094261af912ad87189798ada233e30/1750570710/dash_h264.mpd?t=1724674307"
+    },
+    {
+      "name": "DDS Complete",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256918690/movie.293x165.jpg?t=1683540745",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/682990/518147/bcd47ea9066a08deee5131ae12ea39f0906c6396/1750570698/dash_h264.mpd?t=1683540745"
+    },
+    {
+      "name": "DDS Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256781908/movie.293x165.jpg?t=1683540750",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/682990/278987/8407cd09f2f51b143c681cf557fbe73034f7970d/1750570683/dash_h264.mpd?t=1683540750"
+    },
+    {
+      "name": "Drug Dealer Simulator Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256779872/movie.293x165.jpg?t=1683540753",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/682990/275515/60c9b40518e4fe7eb20fb7b8f1dd973aa5536016/1750570631/dash_h264.mpd?t=1683540753"
+    },
+    {
+      "name": "Commentary",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256781754/movie.293x165.jpg?t=1683540758",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/682990/278660/3b73470da049bc42d004b517dc657c7766fcc613/1750570677/dash_h264.mpd?t=1683540758"
+    },
+    {
+      "name": "DDS Sitcom trailer. Wait, what?",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256911487/movie.293x165.jpg?t=1683540762",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/682990/505904/6273b117fee914a795ac15bffcf2f15b4be0429d/1750570684/dash_h264.mpd?t=1683540762"
+    }
+  ],
+  "metacritic": {
+    "score": 59,
+    "url": "https://www.metacritic.com/game/pc/drug-dealer-simulator?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 682990,
+    "store_url": "https://store.steampowered.com/app/682990/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Crime",
+      "Action",
+      "Indie",
+      "Singleplayer",
+      "Open World",
+      "Resource Management",
+      "Crafting",
+      "Trading",
+      "Management",
+      "Adventure",
+      "First-Person",
+      "Realistic",
+      "Co-op",
+      "Sandbox",
+      "Inventory Management",
+      "Strategy",
+      "Dark Comedy",
+      "Funny",
+      "Atmospheric"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 18064,
+    "review_negative": 2879,
+    "review_total": 20943,
+    "review_positive_percent": 86.25
+  }
+}

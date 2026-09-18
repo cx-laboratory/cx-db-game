@@ -1,0 +1,188 @@
+{
+  "key": "there-is-no-game-wrong-dimension",
+  "name": "There Is No Game: Wrong Dimension",
+  "description": "There is no game. So don't go messing things up by clicking everywhere. You don’t want to be kicked out of your video game world, do you? Of course not!",
+  "developers": [
+    "Draw Me A Pixel"
+  ],
+  "publishers": [
+    "Draw Me A Pixel"
+  ],
+  "release_date": "2020-08-06",
+  "website": "http://www.drawmeapixel.com/",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "puzzle",
+    "point-and-click",
+    "pixel-graphics",
+    "funny",
+    "comedy",
+    "story-rich",
+    "singleplayer",
+    "2d",
+    "parody",
+    "interactive-fiction",
+    "romance",
+    "great-soundtrack",
+    "simulation",
+    "remake",
+    "rpg",
+    "action",
+    "anime"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "根本没有游戏"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Ting.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "DrawMeAPixel/Ting/{64BitSteamID}",
+          "pattern": "*.dat",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Ting.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "DrawMeAPixel/Ting/{64BitSteamID}",
+          "pattern": "*.dat",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "There Is No Game: Wrong Dimension",
+    "Ting",
+    "Ting.app",
+    "根本没有游戏"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1240210/f2da002fad0891a9768247b25b8bc9bd56c7577c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/ss_8c20dd0ab3a824c27fae5b2c921a3984d1821a34.1920x1080.jpg?t=1728289933"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/ss_1b523c5986c28eae7eddad3880ff45f242c2f280.1920x1080.jpg?t=1728289933"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/ss_1ce8e54c2a5017423058b0ca50252e32f5fb9d16.1920x1080.jpg?t=1728289933"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/ss_b69a2bb175b8f92b0faa9429297402b662c70560.1920x1080.jpg?t=1728289933"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240210/ss_543c4cd707b6278865a436052b29f959d364fc2b.1920x1080.jpg?t=1728289933"
+    }
+  ],
+  "videos": [
+    {
+      "name": "There is no Trailer!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256793611/movie.293x165.jpg?t=1595513367",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1240210/299865/ec5d9043138d27efce2c0c7ad89ae07e404ca4db/1750648215/dash_h264.mpd?t=1595513367"
+    },
+    {
+      "name": "There is no Teaser!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256775549/movie.293x165.jpg?t=1595421843",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1240210/267554/2d4b6ac76fb85318c8dd44d53b04cc17bac81809/1750648165/dash_h264.mpd?t=1595421843"
+    }
+  ],
+  "metacritic": {
+    "score": 89,
+    "url": "https://www.metacritic.com/game/pc/there-is-no-game-wrong-dimension?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1240210,
+    "store_url": "https://store.steampowered.com/app/1240210/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Indie",
+      "Puzzle",
+      "Point & Click",
+      "Adventure",
+      "Pixel Graphics",
+      "Funny",
+      "Comedy",
+      "Casual",
+      "Story Rich",
+      "Singleplayer",
+      "2D",
+      "Parody ",
+      "Interactive Fiction",
+      "Romance",
+      "Great Soundtrack",
+      "Simulation",
+      "Remake",
+      "RPG",
+      "Action",
+      "Anime"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 25036,
+    "review_negative": 590,
+    "review_total": 25626,
+    "review_positive_percent": 97.7
+  }
+}

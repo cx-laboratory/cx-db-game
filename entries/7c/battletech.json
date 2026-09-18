@@ -1,0 +1,227 @@
+{
+  "key": "battletech",
+  "name": "BATTLETECH",
+  "description": "Take command of your own mercenary outfit of 'Mechs and the MechWarriors that pilot them, struggling to stay afloat as you find yourself drawn into a brutal interstellar civil war.",
+  "developers": [
+    "Harebrained Schemes"
+  ],
+  "publishers": [
+    "Paradox Interactive"
+  ],
+  "release_date": "2018-04-24",
+  "website": "http://battletechgame.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "mechs",
+    "turn-based-tactics",
+    "turn-based",
+    "sci-fi",
+    "turn-based-strategy",
+    "tactical",
+    "robots",
+    "character-customization",
+    "singleplayer",
+    "rpg",
+    "space",
+    "management",
+    "futuristic",
+    "story-rich",
+    "great-soundtrack",
+    "difficult"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "russian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "BattleTechLauncher.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "BattleTech.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "BattleTech.app/Contents/MacOS/BattleTech",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "BattleTech",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "BATTLETECH",
+    "BattleTechLauncher",
+    "BattleTech",
+    "BattleTech.app/Contents/MacOS/BattleTech"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/637090/4f606fa5106ea8196bc2ea56ebe84c225827c387.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637090/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637090/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637090/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637090/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637090/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637090/ss_59056a402367af662fbdadf38b37e3b120621afa.1920x1080.jpg?t=1726497883"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637090/ss_e09ffbe64bc8a2f39d5ed423c71796751255d8da.1920x1080.jpg?t=1726497883"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637090/ss_7552f834224513ed871017e70f951ced1eeea62f.1920x1080.jpg?t=1726497883"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637090/ss_56ec5ae7c0dbc763a43123316811035ee2a9b8e9.1920x1080.jpg?t=1726497883"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637090/ss_08e4d42003eab9b9db16158af967cee2c936cb91.1920x1080.jpg?t=1726497883"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637090/ss_fd0823a8840cee5dd38700a4f8f6b91ee321c04b.1920x1080.jpg?t=1726497883"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637090/ss_1dab7a8c254b9fbedd445cb83986682ce0457176.1920x1080.jpg?t=1726497883"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637090/ss_f0caa29baeffc16b9bfd88710ca47c0bbc757f64.1920x1080.jpg?t=1726497883"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637090/ss_f666f261c277b29359833577bb413c5c954a295e.1920x1080.jpg?t=1726497883"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637090/ss_d6b36cfc3db39fe07b8babc2b126000219ff6b68.1920x1080.jpg?t=1726497883"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637090/ss_19907c522690008ec907c47f8f50ae9e006c7866.1920x1080.jpg?t=1726497883"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637090/ss_4a04e6f35e557bfd9072f5af7a45c2e6c72b81c0.1920x1080.jpg?t=1726497883"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637090/ss_f77a1b6c2cca240c9e55b35ff6d41918fc347f44.1920x1080.jpg?t=1726497883"
+    }
+  ],
+  "videos": [
+    {
+      "name": "BATTLETECH Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256715066/movie.293x165.jpg?t=1524585594",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/637090/159794/293017383d04e02b8347defb79a61788c394bc5b/1750564613/dash_h264.mpd?t=1524585594"
+    },
+    {
+      "name": "BATTLETECH Story Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256714953/movie.293x165.jpg?t=1524480966",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/637090/159550/0bbc37134e8774e6d5e73fbe73a99cbb86ac7148/1750564602/dash_h264.mpd?t=1524480966"
+    },
+    {
+      "name": "BATTLETECH Basics - Episode 1: Combat",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256710066/movie.293x165.jpg?t=1521036141",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/637090/149376/72414d28726d8cf957bc88978733696ed762894f/1750564488/dash_h264.mpd?t=1521036141"
+    },
+    {
+      "name": "BATTLETECH Basics - Episode 3: Story",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256713993/movie.293x165.jpg?t=1523451726",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/637090/157613/e05c4b7b8406098d70d5172a8451ef09a03e152e/1750564595/dash_h264.mpd?t=1523451726"
+    },
+    {
+      "name": "BATTLETECH Basics - Episode 2: Mercenary Life",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256711497/movie.293x165.jpg?t=1521036131",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/637090/151828/4c4f5739b4c35bd10e236979e8540ab8972778e7/1750564507/dash_h264.mpd?t=1521036131"
+    }
+  ],
+  "metacritic": {
+    "score": 78,
+    "url": "https://www.metacritic.com/game/pc/battletech?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 637090,
+    "store_url": "https://store.steampowered.com/app/637090/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Mechs",
+      "Strategy",
+      "Turn-Based Tactics",
+      "Turn-Based",
+      "Sci-fi",
+      "Turn-Based Strategy",
+      "Tactical",
+      "Action",
+      "Robots",
+      "Character Customization",
+      "Singleplayer",
+      "RPG",
+      "Space",
+      "Management",
+      "Adventure",
+      "Futuristic",
+      "Multiplayer",
+      "Story Rich",
+      "Great Soundtrack",
+      "Difficult"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 27656,
+    "review_negative": 5291,
+    "review_total": 32947,
+    "review_positive_percent": 83.94
+  }
+}

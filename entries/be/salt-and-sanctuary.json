@@ -1,0 +1,206 @@
+{
+  "key": "salt-and-sanctuary",
+  "name": "Salt and Sanctuary",
+  "description": "Explore a haunting, punishing island in this stylized 2D action RPG. Salt and Sanctuary combines fast and brutal 2D combat with richly developed RPG mechanics in a cursed realm of forgotten cities, blood-soaked dungeons, and desecrated monuments.",
+  "developers": [
+    "Ska Studios"
+  ],
+  "publishers": [
+    "Ska Studios"
+  ],
+  "release_date": "2016-05-18",
+  "website": "http://www.saltandsanctuary.com/",
+  "tags": [
+    "action",
+    "indie",
+    "rpg",
+    "multiplayer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "German",
+    "Japanese",
+    "French",
+    "Italian",
+    "Spanish - Spain",
+    "Korean",
+    "Portuguese - Brazil",
+    "Polish",
+    "Russian",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Turkish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "salt.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Salt and Sanctuary/savedata/",
+          "pattern": "*.slv",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Salt and Sanctuary/savedata/",
+          "pattern": "*.rand",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Salt.app/Contents/MacOS/SaltAndSanctuary",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Salt and Sanctuary/savedata/",
+          "pattern": "*.slv",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Salt and Sanctuary/savedata/",
+          "pattern": "*.rand",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "./SaltAndSanctuary",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Salt and Sanctuary/savedata/",
+          "pattern": "*.slv",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Salt and Sanctuary/savedata/",
+          "pattern": "*.rand",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Salt and Sanctuary",
+    "salt",
+    "Salt.app/Contents/MacOS/SaltAndSanctuary",
+    "./SaltAndSanctuary"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/283640/7db90552785b4c0a7d9d66ea5461c6a11f88c574.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/283640/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/283640/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/283640/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/283640/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/283640/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/283640/ss_e13553f8d90a1e4f604f8c81e09b089899c6203b.1920x1080.jpg?t=1729712419"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/283640/ss_1535f4d0f1c49f2ec693018ebf987913d91609b4.1920x1080.jpg?t=1729712419"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/283640/ss_0650b3bebe5aeadd16e0b166dc12b2981425cf43.1920x1080.jpg?t=1729712419"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/283640/ss_53676a06df752583b57ff2916edc003bf78dd57f.1920x1080.jpg?t=1729712419"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/283640/ss_7472b0f50976aa92ec45ca27a939f9182324d74f.1920x1080.jpg?t=1729712419"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/283640/ss_18d932316f9bf594481d34aca9821639c21ac501.1920x1080.jpg?t=1729712419"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/283640/ss_f852a329530f1af7072f69b362a23e18dbffd7b9.1920x1080.jpg?t=1729712419"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/283640/ss_d0d42684b3da0fbc9e69d615f9ee44d32c35b92f.1920x1080.jpg?t=1729712419"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/283640/ss_c26e612b59e04940322eacf165f9b1df1dc4d059.1920x1080.jpg?t=1729712419"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/283640/ss_15048517cc97e662842879a489eeb1a4ffb090f5.1920x1080.jpg?t=1729712419"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Landfall",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256662643/movie.293x165.jpg?t=1462899402",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/283640/55920/54dfa2f55338771fb840367f425f3976696daddc/1750489618/dash_h264.mpd?t=1462899402"
+    },
+    {
+      "name": "Currents",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256662644/movie.293x165.jpg?t=1462899413",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/283640/55923/275470744c5d2ccf4e9b6ff80c7d65a84311275c/1750489618/dash_h264.mpd?t=1462899413"
+    }
+  ],
+  "metacritic": {
+    "score": 84,
+    "url": "https://www.metacritic.com/game/pc/salt-and-sanctuary?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 283640,
+    "store_url": "https://store.steampowered.com/app/283640/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 19395,
+    "review_negative": 2306,
+    "review_total": 21701,
+    "review_positive_percent": 89.37
+  }
+}

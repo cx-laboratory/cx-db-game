@@ -1,0 +1,191 @@
+{
+  "key": "my-friend-pedro",
+  "name": "My Friend Pedro",
+  "description": "My Friend Pedro is a violent ballet about friendship, imagination, and one man’s struggle to obliterate anyone in his path at the behest of a sentient banana.",
+  "developers": [
+    "DeadToast Entertainment"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "release_date": "2019-06-21",
+  "website": "http://www.deadtoast.com/",
+  "tags": [
+    "action",
+    "indie",
+    "shooter",
+    "gore",
+    "parkour",
+    "bullet-time",
+    "violent",
+    "great-soundtrack",
+    "singleplayer",
+    "side-scroller",
+    "platformer",
+    "fast-paced",
+    "funny",
+    "comedy",
+    "2d",
+    "2-5d",
+    "physics",
+    "controller",
+    "multiplayer",
+    "difficult"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "我的朋友佩德罗"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "My Friend Pedro - Blood Bullets Bananas.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "DeadToast Entertainment/My Friend Pedro_ Blood Bullets Bananas/Save data/Steam/{64BitSteamID}",
+          "pattern": "mfp_save.dat",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "My Friend Pedro",
+    "My Friend Pedro - Blood Bullets Bananas",
+    "我的朋友佩德罗"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/557340/734deb65d5561961595a190fa2d2adf61d607efe.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557340/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557340/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557340/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557340/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557340/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557340/ss_2401d30b70d871934267a3b079c0d32cd074ca07.1920x1080.jpg?t=1745954928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557340/ss_d6e7728254ea7c1b333cad20cc95d233eb966510.1920x1080.jpg?t=1745954928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557340/ss_dacb1c161234a45e5a9250d640228a2f3fc34962.1920x1080.jpg?t=1745954928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557340/ss_965381996924d230a7668aa224933a63ab40bb15.1920x1080.jpg?t=1745954928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557340/ss_f53ab9a4c3aff2fe936ddd0b83de749a0765f8dd.1920x1080.jpg?t=1745954928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557340/ss_2451f86513d81289dafab7c4ff3942b2daba872b.1920x1080.jpg?t=1745954928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557340/ss_0e2915ddde4c3b299b05109379ec5271913b6009.1920x1080.jpg?t=1745954928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557340/ss_01fe6816d123066ec76f5bd8063598caa9863e94.1920x1080.jpg?t=1745954928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557340/ss_77b7e667110fc14c7f2d04d0dc9feb840f4de553.1920x1080.jpg?t=1745954928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557340/ss_cba27166ce52c31082270d74d9f85fbe9349b945.1920x1080.jpg?t=1745954928"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256764790/movie.293x165.jpg?t=1571318497",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/557340/248363/a0a1a41e6ac298b8d8f8d71ebeac858436536759/1750551505/dash_h264.mpd?t=1571318497"
+    },
+    {
+      "name": "Code Yellow Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256764810/movie.293x165.jpg?t=1571332298",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/557340/248392/ab4ac12d409ee9948915c702acca4422c75787d1/1750551053/dash_h264.mpd?t=1571332298"
+    },
+    {
+      "name": "Full Throttle Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256745868/movie.293x165.jpg?t=1560649283",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/557340/214357/4b3ab2867e95222412187865bda8a011746e7430/1750550998/dash_h264.mpd?t=1560649283"
+    }
+  ],
+  "metacritic": {
+    "score": 81,
+    "url": "https://www.metacritic.com/game/pc/my-friend-pedro?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 557340,
+    "store_url": "https://store.steampowered.com/app/557340/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Action",
+      "Indie",
+      "Shooter",
+      "Gore",
+      "Parkour",
+      "Bullet Time",
+      "Violent",
+      "Great Soundtrack",
+      "Singleplayer",
+      "Side Scroller",
+      "Platformer",
+      "Fast-Paced",
+      "Funny",
+      "Comedy",
+      "2D",
+      "2.5D",
+      "Physics",
+      "Controller",
+      "Multiplayer",
+      "Difficult"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 27050,
+    "review_negative": 1261,
+    "review_total": 28311,
+    "review_positive_percent": 95.55
+  }
+}

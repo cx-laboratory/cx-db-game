@@ -1,0 +1,143 @@
+{
+  "key": "supreme-commander-forged-alliance",
+  "name": "Supreme Commander: Forged Alliance",
+  "description": "The last days of man are at hand.. Two years after the Infinite War the once great warring nations now lie in ruins, and humanity’s hope for a brighter future is nothing but a bitter memory. A new, seemingly unstoppable enemy, supported by the zealots of The Order, now seeks to eradicate mankind: UEF, Aeon Loyalist, and Cybran alike.",
+  "developers": [
+    "Gas Powered Games"
+  ],
+  "publishers": [
+    "Square Enix"
+  ],
+  "release_date": "2011-09-29",
+  "website": "",
+  "tags": [
+    "strategy",
+    "multiplayer",
+    "rts",
+    "sci-fi",
+    "singleplayer",
+    "base-building",
+    "grand-strategy",
+    "co-op",
+    "moddable",
+    "real-time-with-pause",
+    "robots",
+    "competitive",
+    "real-time",
+    "action",
+    "online-co-op",
+    "classic",
+    "war",
+    "space",
+    "great-soundtrack",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Czech",
+    "Polish",
+    "Russian",
+    "Traditional Chinese"
+  ],
+  "name_localized": {
+    "schinese": "最高指挥官：钢铁同盟"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "bin\\SupremeCommander.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games\\Gas Powered Games\\Supreme Commander Forged Alliance\\savegames",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Supreme Commander: Forged Alliance",
+    "bin\\SupremeCommander"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/9420/fe0bc9a05b7c2af87ddbb0a1c031c00f55897edb.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9420/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9420/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9420/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9420/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9420/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9420/ss_cfdced4d9a2087cfe5834696ceb53a0ecf84751b.1920x1080.jpg?t=1779202395"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9420/ss_3a1e5871d376a7775751c49acc81f7dfc836321a.1920x1080.jpg?t=1779202395"
+    }
+  ],
+  "videos": [],
+  "metacritic": {
+    "score": 81,
+    "url": "https://www.metacritic.com/game/pc/supreme-commander-forged-alliance?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 9420,
+    "store_url": "https://store.steampowered.com/app/9420/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "RTS",
+      "Sci-fi",
+      "Multiplayer",
+      "Singleplayer",
+      "Base Building",
+      "Grand Strategy",
+      "Co-op",
+      "Moddable",
+      "Real-Time with Pause",
+      "Robots",
+      "Competitive",
+      "Real-Time",
+      "Action",
+      "Online Co-Op",
+      "Classic",
+      "War",
+      "Space",
+      "Great Soundtrack",
+      "Adventure"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 13757,
+    "review_negative": 466,
+    "review_total": 14223,
+    "review_positive_percent": 96.72
+  }
+}

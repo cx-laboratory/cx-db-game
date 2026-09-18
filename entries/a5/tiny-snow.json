@@ -1,0 +1,137 @@
+{
+  "key": "tiny-snow",
+  "name": "Tiny Snow",
+  "description": "On the snowy mountain, in the wooden hut, we are tied together by the world. She and &quot;I&quot; can only love each other, we cannot be separated. Is this free affection, or manipulated love? A short visual novel with multiple endings, &quot;Tiny Snow&quot;, a story with two girls, and you who know what love is.",
+  "developers": [
+    "#workshop"
+  ],
+  "publishers": [
+    "NVLMaker"
+  ],
+  "release_date": "2019-02-28",
+  "website": "",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "visual-novel",
+    "anime",
+    "multiple-endings",
+    "cute",
+    "sexual-content",
+    "violent",
+    "romance"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "schinese",
+    "tchinese"
+  ],
+  "name_localized": {
+    "schinese": "茸雪",
+    "tchinese": "茸雪"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "TinySnow.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "savedata",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Tiny Snow",
+    "TinySnow",
+    "茸雪"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1002560/24b2484ee12cf7ddafed5c9d685f05704779a2ba.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002560/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002560/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002560/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002560/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002560/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002560/ss_643e6a067a565917e41ffe84a25daa9d41da8283.1920x1080.jpg?t=1667655053"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002560/ss_5c23edec3d9dd2e92daee2382bf3e7dbfeae6c8b.1920x1080.jpg?t=1667655053"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002560/ss_1d3e4e16d281917a5fb3a5669117318584973ddb.1920x1080.jpg?t=1667655053"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002560/ss_55e7a0faaa1457ef17ec6d8661eb2984b34abe71.1920x1080.jpg?t=1667655053"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002560/ss_e2ddf2b6ccd8bc15ae8894e334ae0a73eada5c34.1920x1080.jpg?t=1667655053"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1002560/ss_3da815a4d371efe4de1aceff2dccd260dab4fec6.1920x1080.jpg?t=1667655053"
+    }
+  ],
+  "videos": [
+    {
+      "name": "PV",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256739502/movie.293x165.jpg?t=1550025201",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1002560/202773/57071914bbe3c85fc3f0c5a4b477f033cea8b128/1751174799/dash_h264.mpd?t=1550025201"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1002560,
+    "store_url": "https://store.steampowered.com/app/1002560/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Visual Novel",
+      "Indie",
+      "Anime",
+      "Casual",
+      "Adventure",
+      "Multiple Endings",
+      "Cute",
+      "Sexual Content",
+      "Violent",
+      "Romance",
+      "Psychological Horror"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 3907,
+    "review_negative": 270,
+    "review_total": 4177,
+    "review_positive_percent": 93.54
+  }
+}

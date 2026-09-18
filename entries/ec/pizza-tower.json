@@ -1,0 +1,180 @@
+{
+  "key": "pizza-tower",
+  "name": "Pizza Tower",
+  "description": "Pizza Tower is a fast paced 2D platformer, with an emphasis on movement, exploration and score attack. Featuring highly stylized pixel art inspired by the cartoons from the '90s, and a highly energetic soundtrack.",
+  "developers": [
+    "Tour De Pizza"
+  ],
+  "publishers": [
+    "Tour De Pizza"
+  ],
+  "release_date": "2023-01-27",
+  "website": "",
+  "tags": [
+    "action",
+    "indie",
+    "multiplayer",
+    "co-op",
+    "split-screen",
+    "great-soundtrack",
+    "2d-platformer",
+    "fast-paced",
+    "cartoony",
+    "platformer",
+    "funny",
+    "pixel-graphics",
+    "singleplayer",
+    "comedy",
+    "2d",
+    "epic",
+    "colorful",
+    "difficult",
+    "retro",
+    "1990-s",
+    "adventure",
+    "memes",
+    "war"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "披萨塔"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "PizzaTower.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "PizzaTower_GM2",
+          "pattern": "*.ini",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Pizza Tower",
+    "PizzaTower"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2231450/8b7e86d9fa3634015a44c6af85618a21758edc34.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231450/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231450/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231450/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231450/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231450/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231450/ss_3e70c43ffd6f492f6e4dce7965499d41fad47052.1920x1080.jpg?t=1732516978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231450/ss_e165922b81019058ca5b3b61b9e1d7141731a59c.1920x1080.jpg?t=1732516978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231450/ss_67981a8a9103f19f661ad983481e9f7a55f52302.1920x1080.jpg?t=1732516978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231450/ss_809837af19c71d183c4f67f08916cacf10f384e7.1920x1080.jpg?t=1732516978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231450/ss_b1a38d0541d2428c9864e30071625cb5472c32da.1920x1080.jpg?t=1732516978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231450/ss_367286326c9a6ba91d4b2f08d0ca5fd1a47f2455.1920x1080.jpg?t=1732516978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231450/ss_9e8fb6650953a91102a680285735a28facad574e.1920x1080.jpg?t=1732516978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231450/ss_fe321af2cd745360846cf8c71c50c022a8ed02e9.1920x1080.jpg?t=1732516978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231450/ss_c5002581a6ea0922186fc7dd73614009f3265492.1920x1080.jpg?t=1732516978"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Pizza Tower Steam Page",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256918530/movie.293x165.jpg?t=1670012877",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2231450/517891/08c0a6646ad445b14df533372fc734491bdfecfd/1750809568/dash_h264.mpd?t=1670012877"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2231450,
+    "store_url": "https://store.steampowered.com/app/2231450/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Great Soundtrack",
+      "2D Platformer",
+      "Fast-Paced",
+      "Indie",
+      "Cartoony",
+      "Platformer",
+      "Funny",
+      "Pixel Graphics",
+      "Singleplayer",
+      "Comedy",
+      "Action",
+      "2D",
+      "Epic",
+      "Colorful",
+      "Difficult",
+      "Retro",
+      "1990's",
+      "Adventure",
+      "Memes",
+      "War"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 70669,
+    "review_negative": 1217,
+    "review_total": 71886,
+    "review_positive_percent": 98.31
+  }
+}

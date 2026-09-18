@@ -1,0 +1,271 @@
+{
+  "key": "travellers-rest",
+  "name": "Travellers Rest",
+  "description": "Craft, farm, build and cook! In Travellers Rest you will have to use all the available tools to become the best tavern keeper in the realm. Create unique dishes and drinks to please your customers as you discover the world and its colorful characters.",
+  "developers": [
+    "Isolated Games"
+  ],
+  "publishers": [
+    "Isolated Games"
+  ],
+  "release_date": "2020-07-28",
+  "website": "https://linktr.ee/travellersrestgame",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "rpg",
+    "simulation",
+    "early-access",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "split-screen",
+    "life-sim",
+    "pixel-graphics",
+    "management",
+    "farming-sim",
+    "medieval",
+    "crafting",
+    "building",
+    "immersive-sim",
+    "fantasy",
+    "collectathon",
+    "singleplayer",
+    "resource-management",
+    "colorful",
+    "isometric",
+    "inventory-management"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "schinese": "旅者之憩 Travellers Rest",
+    "tchinese": "旅者之憩 Travellers Rest"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Windows\\TravellersRest.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Louqou\\TravellersRest\\GameSaves",
+          "pattern": "*.save",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Louqou\\TravellersRest\\GameSaves",
+          "pattern": "*.kbsd",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Louqou\\TravellersRest\\GameSaves",
+          "pattern": "*.backup",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Travellers Rest",
+    "Windows\\TravellersRest",
+    "旅者之憩 Travellers Rest"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1139980/5eef3460cd2cc088baf4ecf64e8531cf9ac88631.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139980/4f7daf4884589291ef49f35248d41f76e9b4d967/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139980/203f00a66b7e6b037b8af816336371ab1e4a3e27/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139980/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139980/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139980/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139980/ss_bc89e86af82c659884c0b1e85a2760c8a334724d.1920x1080.jpg?t=1782129105"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139980/3faf61e714be109c884fabd53ce182dc26b52f75/ss_3faf61e714be109c884fabd53ce182dc26b52f75.1920x1080.jpg?t=1782129105"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139980/ss_440b687701b6996a486cb800ebdf21d1fa2e77f8.1920x1080.jpg?t=1782129105"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139980/ss_d8ed1e680d4604d9f7dfffa945925cef73cf236b.1920x1080.jpg?t=1782129105"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139980/ss_0d117e842b207d9170b99317615fef1b85efa752.1920x1080.jpg?t=1782129105"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139980/f333b691d624427993fc4896dc7f8491885793b3/ss_f333b691d624427993fc4896dc7f8491885793b3.1920x1080.jpg?t=1782129105"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139980/ss_645df975385e2fc39c725f331eaf134d7cce0676.1920x1080.jpg?t=1782129105"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139980/ss_1803ffa280ad12e3f123a74350bc9c4fc9f4a8fb.1920x1080.jpg?t=1782129105"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139980/ss_f834898cb91fdc4e3cfa349d653ef3502743bc14.1920x1080.jpg?t=1782129105"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139980/ss_682c0d233f905cb474c0da2733bb94e4790e6004.1920x1080.jpg?t=1782129105"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139980/e73d35048457b82804cfd5b1f9a8606258ecc78d/ss_e73d35048457b82804cfd5b1f9a8606258ecc78d.1920x1080.jpg?t=1782129105"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139980/ss_d2730da225b405884172a1539dc12a988a4d8ab7.1920x1080.jpg?t=1782129105"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139980/ss_9a1b5d96fb4abbe22783a40383e21414f2755b4a.1920x1080.jpg?t=1782129105"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139980/cbcd88ce340231eaf322f85965ccdf94bec71a95/ss_cbcd88ce340231eaf322f85965ccdf94bec71a95.1920x1080.jpg?t=1782129105"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139980/ss_31eff135ddb11972689591049152e080d4b4f618.1920x1080.jpg?t=1782129105"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139980/60433828423d2c5a15bceb5e44f34f71358efc50/ss_60433828423d2c5a15bceb5e44f34f71358efc50.1920x1080.jpg?t=1782129105"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139980/ss_d1fe305fad8246e116dc7426627be4e91e1de700.1920x1080.jpg?t=1782129105"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139980/4804104569bd4e87aab511590fb499fdaba4105a/ss_4804104569bd4e87aab511590fb499fdaba4105a.1920x1080.jpg?t=1782129105"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Travellers Rest Trailer 2024",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256922290/f0dc9bc60482ac3908f7f6ab4a3615c19ec8f297/movie_600x337.jpg?t=1730714870",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1139980/524138/5b3036dc7b3a5dcfdb383b26b9927ca0476813c4/1750626847/dash_h264.mpd?t=1730714870"
+    },
+    {
+      "name": "Ore Galore",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257316669/acdf05cde1d39ec2ee763c467b593f06ae57209c/movie_600x337.jpg?t=1782129096",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1139980/438101773/1ea26ce2be91018fa38dab1712f63684225d15ea/1775730203/dash_h264.mpd?t=1782129096"
+    },
+    {
+      "name": "The Three Trials",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257247461/fc20aff7857cfb7d67f2dc5c6572b95e76b74c12/movie_600x337.jpg?t=1782129097",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1139980/765482072/9bf0083c92ce6f69e4c1630cc34facf098e63f7d/1765457735/dash_h264.mpd?t=1782129097"
+    },
+    {
+      "name": "The Pledge Banquet",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257196354/0648a25b0c2125ebe4b46fb3fbbe5eafa139f72b/movie_600x337.jpg?t=1782129098",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1139980/1214101923/c658c14911033640e821dd5338b218b8466bd343/1757610925/dash_h264.mpd?t=1782129098"
+    },
+    {
+      "name": "Pet Party Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257143203/d898f91b5c1c36a33f53b01146a3289755e03a69/movie_600x337.jpg?t=1782129099",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1139980/186480314/9bd34cecb504fbb3605a6a821f2c1857aee38325/1750626874/dash_h264.mpd?t=1782129099"
+    },
+    {
+      "name": "Beekeeping & Irrigation Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257065680/3ac6490eaa6071aa1e733bdd1b77b769b30bc1dc/movie_600x337.jpg?t=1782129101",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1139980/772698/272b0f0def037a22de63213a9e09037cdf6e7653/1750626861/dash_h264.mpd?t=1782129101"
+    },
+    {
+      "name": "Online Multiplayer Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257102319/4ed34d3ca37b088f44017ecbb0e3a9934753cac1/movie_600x337.jpg?t=1782129100",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1139980/835194/8a88a74dcf2b44f34d1382bdedc658f68a7e1c9c/1750626873/dash_h264.mpd?t=1782129100"
+    },
+    {
+      "name": "City & Tutorial Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257038806/764e0d374da3107f801650e69986e4dd95badcc7/movie_600x337.jpg?t=1782129102",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1139980/727797/e530c1a6eecb84bfefb61d06fb55583e7d7f4512/1750626860/dash_h264.mpd?t=1782129102"
+    },
+    {
+      "name": "Fishing Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257005971/85dbf71281668a88f3925e51e58e99400be6f4bc/movie_600x337.jpg?t=1782129103",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1139980/671275/df6f20b35cdc78830a72e3cbcdce2f7a9eefea1e/1750626852/dash_h264.mpd?t=1782129103"
+    },
+    {
+      "name": "Farm Animals Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256950329/8e6082c46a761008b319ee32892fcdae888b60f1/movie_600x337.jpg?t=1782129104",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1139980/573885/8fc54f6ce27b87b0a49e62b7941380b6f35796ae/1750626851/dash_h264.mpd?t=1782129104"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1139980,
+    "store_url": "https://store.steampowered.com/app/1139980/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Life Sim",
+      "Pixel Graphics",
+      "Management",
+      "Farming Sim",
+      "RPG",
+      "Medieval",
+      "Crafting",
+      "Building",
+      "Immersive Sim",
+      "Fantasy",
+      "Collectathon",
+      "Singleplayer",
+      "Resource Management",
+      "Indie",
+      "Adventure",
+      "Colorful",
+      "Isometric",
+      "Simulation",
+      "Early Access",
+      "Inventory Management"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 15523,
+    "review_negative": 2107,
+    "review_total": 17630,
+    "review_positive_percent": 88.05
+  }
+}

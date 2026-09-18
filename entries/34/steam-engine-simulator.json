@@ -1,0 +1,128 @@
+{
+  "key": "steam-engine-simulator",
+  "name": "Steam Engine Simulator",
+  "description": "The Steam Engine Simulator shown on AngeTheGreat's YouTube channel.",
+  "developers": [
+    "Ektorom Software Inc."
+  ],
+  "publishers": [
+    "Ektorom Software Inc."
+  ],
+  "release_date": "2023-06-08",
+  "website": "",
+  "tags": [
+    "simulation",
+    "physics",
+    "education",
+    "2d",
+    "free-to-play",
+    "singleplayer",
+    "realistic",
+    "indie",
+    "difficult",
+    "great-soundtrack",
+    "science",
+    "steampunk",
+    "story-rich",
+    "family-friendly"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "bin/atg-steam-engine-demo.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Steam Engine Simulator",
+    "bin/atg-steam-engine-demo"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2381620/60b03d342a674ce24d9c977ad3bd85719a22c372.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2381620/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2381620/b46dffa72ca3cabd786035a75c1e994387febfff/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2381620/8fc71ff9408cf2636a68d7272dc7ae25db472ce0/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2381620/1c1dee9b89d01975bbda5a08a7b20ea0fa1e2254/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2381620/49e720b6fa26de700130134a3bb9a4dceb2ff617/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2381620/ss_20de0473dcb12599440d51fc188140fc775cfc62.1920x1080.jpg?t=1737208479"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2381620/ss_87cee4d39ea033d53aa778135836bdad8d1f58b0.1920x1080.jpg?t=1737208479"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2381620/ss_ab69287e8dbc8a2440b1c0d2915403df1f77fdb1.1920x1080.jpg?t=1737208479"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2381620/ss_8e28a94fdf3e7ea553deab6bd5d28dd10d58bced.1920x1080.jpg?t=1737208479"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2381620/ss_d3a2004e46d9a13fb99a36d0c8230d623ea3ee2c.1920x1080.jpg?t=1737208479"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Steam Engine Simulator",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256942332/movie.293x165.jpg?t=1682525214",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2381620/559901/eb02a9b9b40bd87c7b6eb54c5ac598781da16fa2/1750813510/dash_h264.mpd?t=1682525214"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2381620,
+    "store_url": "https://store.steampowered.com/app/2381620/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Stats",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Physics",
+      "Education",
+      "2D",
+      "Free to Play",
+      "Singleplayer",
+      "Psychological Horror",
+      "Realistic",
+      "Indie",
+      "Difficult",
+      "Great Soundtrack",
+      "Science",
+      "Steampunk",
+      "Story Rich",
+      "Family Friendly"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 8822,
+    "review_negative": 117,
+    "review_total": 8939,
+    "review_positive_percent": 98.69
+  }
+}

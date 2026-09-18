@@ -1,0 +1,315 @@
+{
+  "key": "torchlight-ii",
+  "name": "Torchlight II",
+  "description": "The adventure continues in Torchlight II! An Action RPG filled with epic battles, bountiful treasure, and a fully randomized world. Bring your friends along for the journey with online and LAN multiplayer.",
+  "developers": [
+    "Runic Games"
+  ],
+  "publishers": [
+    "XD"
+  ],
+  "release_date": "2012-09-20",
+  "website": "http://www.torchlight2game.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "multiplayer",
+    "co-op",
+    "action-rpg",
+    "hack-and-slash",
+    "loot",
+    "dungeon-crawler",
+    "fantasy",
+    "online-co-op",
+    "singleplayer",
+    "moddable",
+    "character-customization",
+    "isometric",
+    "replay-value",
+    "steampunk",
+    "atmospheric",
+    "cartoon"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "russian",
+    "polish"
+  ],
+  "name_localized": {
+    "schinese": "火炬之光2"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ModLauncher.exe",
+          "description": "Torchlight II",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "my games/runic games/torchlight 2/save/{64BitSteamID}/",
+          "pattern": "*.svb",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "my games/runic games/torchlight 2/save/{64BitSteamID}/",
+          "pattern": "*.bin",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "my games/runic games/torchlight 2/save/{64BitSteamID}/",
+          "pattern": "*.txt",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "my games/runic games/torchlight 2/save/{64BitSteamID}/",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "my games/runic games/torchlight 2/modsave/{64BitSteamID}/",
+          "pattern": "*.svb",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Torchlight2.app",
+          "description": "Torchlight II",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "my games/runic games/torchlight 2/save/{64BitSteamID}/",
+          "pattern": "*.svb",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "my games/runic games/torchlight 2/save/{64BitSteamID}/",
+          "pattern": "*.bin",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "my games/runic games/torchlight 2/save/{64BitSteamID}/",
+          "pattern": "*.txt",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "my games/runic games/torchlight 2/save/{64BitSteamID}/",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "my games/runic games/torchlight 2/modsave/{64BitSteamID}/",
+          "pattern": "*.svb",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "ModLauncher.bin.x86_64",
+          "description": "Torchlight II",
+          "type": "default"
+        },
+        {
+          "executable": "ModLauncher.bin.x86",
+          "description": "Torchlight II",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "my games/runic games/torchlight 2/save/{64BitSteamID}/",
+          "pattern": "*.svb",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "my games/runic games/torchlight 2/save/{64BitSteamID}/",
+          "pattern": "*.bin",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "my games/runic games/torchlight 2/save/{64BitSteamID}/",
+          "pattern": "*.txt",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "my games/runic games/torchlight 2/save/{64BitSteamID}/",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "my games/runic games/torchlight 2/modsave/{64BitSteamID}/",
+          "pattern": "*.svb",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Torchlight II",
+    "ModLauncher",
+    "Torchlight2.app",
+    "ModLauncher.bin.x86_64",
+    "ModLauncher.bin.x86"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/200710/40776762bb63c4eded37d1a2b4431a90aa57ea84.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200710/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200710/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200710/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200710/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200710/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200710/ss_06b3b8b537e3766cbb6026c6273d78344327ad24.1920x1080.jpg?t=1782381123"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200710/ss_b2af8160bcd97a395a28b8f16251947233401a02.1920x1080.jpg?t=1782381123"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200710/ss_ef25ab64b8f02f73692c3ee4177565f631093540.1920x1080.jpg?t=1782381123"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200710/ss_4062742c1e61f3bf7621fdc28d4a8bd09696eb56.1920x1080.jpg?t=1782381123"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200710/ss_13dce233d93ffefbfdcee3767e2f08deda36d52c.1920x1080.jpg?t=1782381123"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200710/ss_a230cf93a38d47f10e82f7c738c5cf88426e9a5f.1920x1080.jpg?t=1782381123"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200710/ss_9f28feaa29a08b7e4f5011e258a4428df06a0c1f.1920x1080.jpg?t=1782381123"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200710/ss_c9d8fe6280ff2764bc0030b8dc2556769e158109.1920x1080.jpg?t=1782381123"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200710/ss_a57e27a0001de25ad6c7c1ecc18399033f77750a.1920x1080.jpg?t=1782381123"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200710/ss_fab2033a8440a205943ad295d8c938e0853bccf9.1920x1080.jpg?t=1782381123"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200710/ss_7dcd67c0b05128e074670fcc2b640dece8f1329b.1920x1080.jpg?t=1782381123"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200710/ss_83e040a477862d4e4599b91bc879933b4563b338.1920x1080.jpg?t=1782381123"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200710/ss_ea03edb4e43c2de75a4ea26b0edefc9b7b54a20e.1920x1080.jpg?t=1782381123"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200710/ss_355c394c6c933d716d53acfee78c1c6807c8ae50.1920x1080.jpg?t=1782381123"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200710/ss_77f9ee05a8d8944dded29cf7166746ea47f00336.1920x1080.jpg?t=1782381123"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200710/ss_2e4888eceb032728351e0df12e92c0ec98f67e7c.1920x1080.jpg?t=1782381123"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200710/ss_0e981be3825b3964db916ad9751129851dd847d6.1920x1080.jpg?t=1782381123"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200710/ss_6974801218bf5e1c3d7460cdf65a999d9f07b795.1920x1080.jpg?t=1782381123"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257339879/ee8857f312a0bd5dcd7c7d6e7bb2dc1c5537f2fc/movie_600x337.jpg?t=1779262561",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/200710/1780865072/aa9925db1fab58feaef040e97d9807f8518dbfc0/1779262296/dash_h264.mpd?t=1779262561"
+    }
+  ],
+  "metacritic": {
+    "score": 88,
+    "url": "https://www.metacritic.com/game/pc/torchlight-ii?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 200710,
+    "store_url": "https://store.steampowered.com/app/200710/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "RPG",
+      "Action RPG",
+      "Hack and Slash",
+      "Loot",
+      "Dungeon Crawler",
+      "Co-op",
+      "Fantasy",
+      "Online Co-Op",
+      "Multiplayer",
+      "Action",
+      "Adventure",
+      "Singleplayer",
+      "Indie",
+      "Moddable",
+      "Character Customization",
+      "Isometric",
+      "Replay Value",
+      "Steampunk",
+      "Atmospheric",
+      "Cartoon"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 42038,
+    "review_negative": 3340,
+    "review_total": 45378,
+    "review_positive_percent": 92.64
+  }
+}

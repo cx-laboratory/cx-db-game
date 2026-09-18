@@ -1,0 +1,237 @@
+{
+  "key": "everlasting-summer",
+  "name": "Everlasting Summer",
+  "description": "Visual novel loved by many – Everlasting Summer – now on Steam!",
+  "developers": [
+    "Soviet Games"
+  ],
+  "publishers": [
+    "Soviet Games"
+  ],
+  "release_date": "2014-11-19",
+  "website": "http://everlastingsummer.su/",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "free-to-play",
+    "visual-novel",
+    "story-rich",
+    "anime",
+    "great-soundtrack",
+    "choices-matter",
+    "romance",
+    "singleplayer",
+    "nudity",
+    "multiple-endings",
+    "2d",
+    "dating-sim",
+    "replay-value",
+    "mystery",
+    "comedy",
+    "classic",
+    "sexual-content"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "russian"
+  ],
+  "name_localized": {
+    "russian": "Бесконечное Лето"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Everlasting Summer.exe",
+          "description": "Launch",
+          "type": "none"
+        },
+        {
+          "executable": "Everlasting Summer-32.exe",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "Everlasting Summer.exe",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "game\\saves\\",
+          "pattern": "*.*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "SavesDir",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Everlasting Summer.app",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "game\\saves\\",
+          "pattern": "*.*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "SavesDir",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Everlasting Summer.sh",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "game\\saves\\",
+          "pattern": "*.*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "SavesDir",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Everlasting Summer",
+    "Everlasting Summer-32",
+    "Everlasting Summer.app",
+    "Everlasting Summer.sh",
+    "Бесконечное Лето"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/331470/c238887d29f28382920884d89bb3fc0718070a19.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331470/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331470/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331470/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331470/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331470/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331470/ss_70ae9f35e51d66799139009adeee93491ca6943b.1920x1080.jpg?t=1741850740"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331470/ss_c0cf9bb7007ebb7e0d6304edfb71c471d66dbe01.1920x1080.jpg?t=1741850740"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331470/ss_154bbb48d173456952b9e316b18a1d6babbb0929.1920x1080.jpg?t=1741850740"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331470/ss_06edffcc898eaeff5a447a74019bc76f14876aa1.1920x1080.jpg?t=1741850740"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331470/ss_ba09091517642d05dddc64d0553ae916855a644e.1920x1080.jpg?t=1741850740"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331470/ss_1779121ae1582b7468c4f6a08b7179bc3b0f2560.1920x1080.jpg?t=1741850740"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331470/ss_711a4be8d6c5228ef58dbe447876333554172f54.1920x1080.jpg?t=1741850740"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331470/ss_6317b743137235cfd7744d2e97cc664ad7ea93e0.1920x1080.jpg?t=1741850740"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331470/ss_711116005456419bae43ae72891ee3fff7b5713b.1920x1080.jpg?t=1741850740"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331470/ss_e2dd467b767924733e23a88f6bc43558727c4ae2.1920x1080.jpg?t=1741850740"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331470/ss_6a6233cdcaebbce3a7462e2043c92f0dfcc2192f.1920x1080.jpg?t=1741850740"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Opening",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2035518/movie.293x165.jpg?t=1447365056",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/331470/27484/3f9fd47d7ddf4e0903609fefeb01eae1dbeb613c/1751281839/dash_h264.mpd?t=1447365056"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 331470,
+    "store_url": "https://store.steampowered.com/app/331470/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Visual Novel",
+      "Story Rich",
+      "Free to Play",
+      "Anime",
+      "Great Soundtrack",
+      "Choices Matter",
+      "Romance",
+      "Singleplayer",
+      "Nudity",
+      "Multiple Endings",
+      "2D",
+      "Dating Sim",
+      "Replay Value",
+      "Mystery",
+      "Adventure",
+      "Comedy",
+      "Indie",
+      "Classic",
+      "Casual",
+      "Sexual Content"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 73478,
+    "review_negative": 4310,
+    "review_total": 77788,
+    "review_positive_percent": 94.46
+  }
+}

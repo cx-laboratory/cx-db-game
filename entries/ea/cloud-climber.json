@@ -1,0 +1,140 @@
+{
+  "key": "cloud-climber",
+  "name": "Cloud Climber",
+  "description": "A surreal first person walking sim about the end of humanity. Explore magnificent sky-bound ruins, and learn why they were built.",
+  "developers": [
+    "Two Star Games"
+  ],
+  "publishers": [
+    "Two Star Games"
+  ],
+  "release_date": "2021-01-14",
+  "website": "https://twitter.com/TwoStarGames",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "free-to-play",
+    "walking-simulator",
+    "atmospheric",
+    "singleplayer",
+    "first-person",
+    "post-apocalyptic",
+    "exploration",
+    "relaxing",
+    "3d",
+    "story-rich",
+    "stylized",
+    "hand-drawn",
+    "puzzle",
+    "fantasy",
+    "great-soundtrack",
+    "dark-fantasy",
+    "alternate-history",
+    "funny"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "WindowsNoEditor\\TowerGame.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Cloud Climber",
+    "WindowsNoEditor\\TowerGame"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1509820/54b2c59880a063b7d1035c695be71440bfb68fd3.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509820/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509820/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509820/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509820/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509820/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509820/ss_2caf9dc6de145549486164848074125d77649e37.1920x1080.jpg?t=1726253223"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509820/ss_794bbce8d6378a44d507cf2718c9751698d7700d.1920x1080.jpg?t=1726253223"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509820/ss_5b7ff5b5d4081ad972d951339fd10e02babefbca.1920x1080.jpg?t=1726253223"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509820/ss_9b79ed0abac772eae52c64633393d4d849f34eb2.1920x1080.jpg?t=1726253223"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509820/ss_3eda895ede8b0df9322eb67600f9e2103ae08471.1920x1080.jpg?t=1726253223"
+    }
+  ],
+  "videos": [
+    {
+      "name": "New Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256824294/movie.293x165.jpg?t=1614709232",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1509820/351264/b3dfb4dd551022a777138c6e56db922a72b4bd7c/1750996946/dash_h264.mpd?t=1614709232"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1509820,
+    "store_url": "https://store.steampowered.com/app/1509820/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Walking Simulator",
+      "Adventure",
+      "Casual",
+      "Atmospheric",
+      "Singleplayer",
+      "First-Person",
+      "Post-apocalyptic",
+      "Exploration",
+      "Relaxing",
+      "3D",
+      "Story Rich",
+      "Stylized",
+      "Hand-drawn",
+      "Puzzle",
+      "Fantasy",
+      "Great Soundtrack",
+      "Dark Fantasy",
+      "Alternate History",
+      "Funny"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 3799,
+    "review_negative": 338,
+    "review_total": 4137,
+    "review_positive_percent": 91.83
+  }
+}

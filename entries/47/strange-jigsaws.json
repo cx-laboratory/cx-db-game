@@ -1,0 +1,132 @@
+{
+  "key": "strange-jigsaws",
+  "name": "Strange Jigsaws",
+  "description": "A game of strange jigsaws.",
+  "developers": [
+    "FLEB"
+  ],
+  "publishers": [
+    "FLEB"
+  ],
+  "release_date": "2025-08-07",
+  "website": "https://www.flebpuzzles.com",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "puzzle",
+    "2d",
+    "abstract",
+    "colorful",
+    "logic",
+    "minimalist",
+    "singleplayer",
+    "family-friendly",
+    "relaxing"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Strange Jigsaws.exe",
+          "description": "Launcher for Strange Jigsaws",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Strange Jigsaws"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2702170/e4febafc578e9fac2f3fdb74e94f479a52248eee.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702170/fb48930b7cd516449aaabda3c92b80cd6aae8ed5/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702170/f983f1d7697648e90c072463f1a995e6c772c042/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702170/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702170/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702170/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702170/7bb87359bb40c604daab07149568045b5be6a5dc/ss_7bb87359bb40c604daab07149568045b5be6a5dc.1920x1080.jpg?t=1770906631"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702170/e85a42236eabf524ff87d4523aa469f915b0add7/ss_e85a42236eabf524ff87d4523aa469f915b0add7.1920x1080.jpg?t=1770906631"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702170/df1f5fb29ca59c8a968e300fbb961ff59633d628/ss_df1f5fb29ca59c8a968e300fbb961ff59633d628.1920x1080.jpg?t=1770906631"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702170/28d12e390c1038b0488393288f893b8b0eca81ce/ss_28d12e390c1038b0488393288f893b8b0eca81ce.1920x1080.jpg?t=1770906631"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702170/14aa022118c8ac6a968e80aae822c597187eb2f1/ss_14aa022118c8ac6a968e80aae822c597187eb2f1.1920x1080.jpg?t=1770906631"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Strange Jigsaws",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257166895/e04a31b47eff3bfbcfa8f0f72ae1ad1c237daa62/movie_600x337.jpg?t=1752758847",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2702170/1208467134/5616e47b57cf6fbe0f9719953182f8ab43d71c11/1752758374/dash_h264.mpd?t=1752758847"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2702170,
+    "store_url": "https://store.steampowered.com/app/2702170/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Captions available",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Subtitle Options",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Adventure",
+      "Casual",
+      "Puzzle",
+      "2D",
+      "Abstract",
+      "Colorful",
+      "Logic",
+      "Minimalist",
+      "Indie",
+      "Singleplayer",
+      "Family Friendly",
+      "Relaxing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 4014,
+    "review_negative": 27,
+    "review_total": 4041,
+    "review_positive_percent": 99.33
+  }
+}

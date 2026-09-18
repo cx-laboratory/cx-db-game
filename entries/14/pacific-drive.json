@@ -1,0 +1,238 @@
+{
+  "key": "pacific-drive",
+  "name": "Pacific Drive",
+  "description": "Face the supernatural dangers of the Olympic Exclusion Zone with a car as your only lifeline in this driving survival adventure! Scavenge resources, load up your trusty station wagon, and drive like hell to make it through alive.",
+  "developers": [
+    "Ironwood Studios"
+  ],
+  "publishers": [
+    "Kepler Interactive"
+  ],
+  "release_date": "2024-02-22",
+  "website": "https://www.pacificdrivegame.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "racing",
+    "simulation",
+    "driving",
+    "survival",
+    "exploration",
+    "story-rich",
+    "horror",
+    "crafting",
+    "atmospheric",
+    "sci-fi",
+    "first-person",
+    "post-apocalyptic",
+    "base-building",
+    "transportation",
+    "3d",
+    "sandbox",
+    "building",
+    "action-adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "turkish",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "超自然车旅 Pacific Drive"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "PenDriverPro.exe",
+          "description": "Pacific Drive DX12 (Recommended)",
+          "type": "option1"
+        },
+        {
+          "executable": "PenDriverPro.exe",
+          "description": "Pacific Drive DX11",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "PenDriverPro/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "PenDriverPro/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Pacific Drive",
+    "PenDriverPro",
+    "超自然车旅 Pacific Drive"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1458140/bea29dede5c446d40700fd6c2c74abb933559716.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458140/3a5fa1e845c13b48f9e2ed042f4538ac62bd16ed/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458140/7c7238c946abefe1c7bc08e69f84af015e7c39ed/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458140/bad8b3b75b9301b33807e02c13fa360f2c464e03/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458140/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458140/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458140/ss_a753a13813556eb20e02763e82877485dac848ab.1920x1080.jpg?t=1763777212"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458140/ss_7dfb1b9087a859b49debadb941269f971b212277.1920x1080.jpg?t=1763777212"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458140/ss_930c6e45bb3ea4510af967f94650007ea9b73383.1920x1080.jpg?t=1763777212"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458140/ss_d3a7abac1b8cc4a09aff0ff023998c6aa0404c3c.1920x1080.jpg?t=1763777212"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458140/ss_95e6fcee0a43efdc430e01c9660b3ab2b61658bc.1920x1080.jpg?t=1763777212"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458140/ss_1b7b6b59d66bc85538302850b873eb2797f33205.1920x1080.jpg?t=1763777212"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458140/ss_9ed35d0bcd568534f0a0223d7eef186dff0e2b08.1920x1080.jpg?t=1763777212"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458140/ss_db3b840ec549ee2ca8ab9e70f6096b6eb7a11155.1920x1080.jpg?t=1763777212"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458140/ss_00b5c86e98625d4cf056d5fcd655b23b87654263.1920x1080.jpg?t=1763777212"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458140/ss_4ad8f21db53abebe00f848728f36ecba18eeb855.1920x1080.jpg?t=1763777212"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458140/ss_9a24610dbf43786d29e14c1bd7c138cb19b632e5.1920x1080.jpg?t=1763777212"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458140/ss_24dce6b50987b2072b1b72374ada3fe95523975c.1920x1080.jpg?t=1763777212"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458140/ss_8fa479a3625a5db1cea8523c1236b475d13be3bc.1920x1080.jpg?t=1763777212"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458140/ss_f15d021e7699df533ec2e851defac34475de25c4.1920x1080.jpg?t=1763777212"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Pacific Drive - 2023 Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256929444/movie.293x165.jpg?t=1683140284",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1458140/537096/6175980df1ad0a369f0150579ed0ef146d53c373/1750691469/dash_h264.mpd?t=1683140284"
+    },
+    {
+      "name": "Content Update 4 (Expeditions) Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257120987/24d949d9fc69eaccb776457f95ddd9f6ee17319b/movie_600x337.jpg?t=1744042721",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1458140/861730/7aaeb4b94f189afb848a7da9542fb31ace969c02/1750691535/dash_h264.mpd?t=1744042721"
+    },
+    {
+      "name": "Release Trailer (available now)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257002017/movie.293x165.jpg?t=1708606331",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1458140/664208/9654db96eedb0e414f9b55a382b1c343e5ddf6a5/1750691513/dash_h264.mpd?t=1708606331"
+    },
+    {
+      "name": "Content Update 3 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257074579/227d7cc274c189fbb1431039f1b1f172ee816d12/movie_600x337.jpg?t=1731949345",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1458140/787531/3937b45dd3806d11a2f8c10d7e43c0bd594ef30c/1750691516/dash_h264.mpd?t=1731949345"
+    },
+    {
+      "name": "Release Date 2024 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256985453/movie.293x165.jpg?t=1708348869",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1458140/634825/5e6bfd16bc45b4e246626a9289b87a23e0732446/1750691509/dash_h264.mpd?t=1708348869"
+    },
+    {
+      "name": "Story Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256964963/movie.293x165.jpg?t=1692879998",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1458140/599420/810c5f20b65a4d278d6f6ec0de027e79c947a402/1750691501/dash_h264.mpd?t=1692879998"
+    },
+    {
+      "name": "Pacific Drive | 2022 Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256929446/movie.293x165.jpg?t=1708606337",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1458140/537098/792e404284d95c0ac531ccff3afec2e5f093db32/1750691493/dash_h264.mpd?t=1708606337"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1458140,
+    "store_url": "https://store.steampowered.com/app/1458140/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Racing",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Stats",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Driving",
+      "Survival",
+      "Exploration",
+      "Story Rich",
+      "Survival Horror",
+      "Crafting",
+      "Atmospheric",
+      "Sci-fi",
+      "Adventure",
+      "First-Person",
+      "Action",
+      "Post-apocalyptic",
+      "Base Building",
+      "Transportation",
+      "3D",
+      "Sandbox",
+      "Simulation",
+      "Horror",
+      "Building",
+      "Action-Adventure"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 21792,
+    "review_negative": 4377,
+    "review_total": 26169,
+    "review_positive_percent": 83.27
+  }
+}

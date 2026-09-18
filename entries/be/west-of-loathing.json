@@ -1,0 +1,221 @@
+{
+  "key": "west-of-loathing",
+  "name": "West of Loathing",
+  "description": "West of Loathing — a slapstick comedy stick-figure wild west adventure role-playing game.",
+  "developers": [
+    "Asymmetric"
+  ],
+  "publishers": [
+    "Asymmetric"
+  ],
+  "release_date": "2017-08-10",
+  "website": "http://westofloathing.com",
+  "tags": [
+    "adventure",
+    "indie",
+    "rpg",
+    "comedy",
+    "funny",
+    "western",
+    "singleplayer",
+    "story-rich",
+    "turn-based-combat",
+    "open-world",
+    "choices-matter",
+    "replay-value",
+    "turn-based",
+    "great-soundtrack",
+    "puzzle",
+    "2d",
+    "character-customization",
+    "turn-based-strategy",
+    "memes",
+    "point-and-click"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "West of Loathing.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Asymmetric Software/West of Loathing",
+          "pattern": "*.jso*",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "West of Loathing.app\\Contents\\MacOS\\West of Loathing",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Asymmetric Software/West of Loathing",
+          "pattern": "*.jso*",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "West of Loathing.x86",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "West of Loathing.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Asymmetric Software/West of Loathing",
+          "pattern": "*.jso*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "West of Loathing",
+    "West of Loathing.app\\Contents\\MacOS\\West of Loathing",
+    "West of Loathing.x86",
+    "West of Loathing.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/597220/bed73c1badc810d57abc437c5dcab94717ae6584.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597220/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597220/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597220/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597220/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597220/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597220/ss_5ada04fce8532271159d80717ec1c7e809fbc94e.1920x1080.jpg?t=1671704325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597220/ss_cfd090029e1385bc49c6f31ca396eb64e58d5065.1920x1080.jpg?t=1671704325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597220/ss_d68bad49ba84342922c5301c65857703a895e716.1920x1080.jpg?t=1671704325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597220/ss_836774731de866d7cba5723248d92f7fa810c02f.1920x1080.jpg?t=1671704325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597220/ss_a025896b68eed1b4a50d1471bf6725a7d572fb27.1920x1080.jpg?t=1671704325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597220/ss_1fde3c7dd5844744651461ef15e7abd2aa6e6a10.1920x1080.jpg?t=1671704325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597220/ss_07a229aa4c5c407dd7e42197dce0ff80e3d39349.1920x1080.jpg?t=1671704325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597220/ss_9f46f0608dc9df03f252eae2cbb27b85d4f761ce.1920x1080.jpg?t=1671704325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597220/ss_fa7a4c0e7c5279d47d3b74deef2b3fd770de7db3.1920x1080.jpg?t=1671704325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597220/ss_a0a4391fc3d2a94a1433b7cf061ed4da0ce8f36e.1920x1080.jpg?t=1671704325"
+    }
+  ],
+  "videos": [
+    {
+      "name": "GamePlayTrailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256692442/movie.293x165.jpg?t=1502352602",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/597220/117608/937c8b168490bfcaf8c58193b6bb4e9abb1e9f54/1750559324/dash_h264.mpd?t=1502352602"
+    },
+    {
+      "name": "Preview1Noise",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256689417/movie.293x165.jpg?t=1499285744",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/597220/112017/df322b95d29d730ceece7d00d09794d99dca0e2b/1750559279/dash_h264.mpd?t=1499285744"
+    },
+    {
+      "name": "NewTeaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256689413/movie.293x165.jpg?t=1499282417",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/597220/112001/0de47c558ac678cc6e73996e207b26a80bd88f78/1750559279/dash_h264.mpd?t=1499282417"
+    }
+  ],
+  "metacritic": {
+    "score": 87,
+    "url": "https://www.metacritic.com/game/pc/west-of-loathing?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 597220,
+    "store_url": "https://store.steampowered.com/app/597220/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "RPG",
+      "Comedy",
+      "Funny",
+      "Western",
+      "Adventure",
+      "Singleplayer",
+      "Indie",
+      "Story Rich",
+      "Turn-Based Combat",
+      "Open World",
+      "Choices Matter",
+      "Replay Value",
+      "Turn-Based",
+      "Great Soundtrack",
+      "Puzzle",
+      "2D",
+      "Character Customization",
+      "Turn-Based Strategy",
+      "Memes",
+      "Point & Click"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 9977,
+    "review_negative": 237,
+    "review_total": 10214,
+    "review_positive_percent": 97.68
+  }
+}

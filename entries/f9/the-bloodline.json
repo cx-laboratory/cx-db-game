@@ -1,0 +1,241 @@
+{
+  "key": "the-bloodline",
+  "name": "The Bloodline",
+  "description": "The Bloodline is a sandbox adventure RPG that lets you play your way. Reforge bonds between kingdoms, explore the wilds, craft and plan adventures and wield mighty weapons or magic as you prepare for what is to come…",
+  "developers": [
+    "Shieldbearer Studios"
+  ],
+  "publishers": [
+    "505 Pulse"
+  ],
+  "release_date": "2023-10-05",
+  "website": "https://twitter.com/ShieldBearerDev",
+  "tags": [
+    "action",
+    "indie",
+    "rpg",
+    "early-access",
+    "combat",
+    "action-adventure",
+    "medieval",
+    "singleplayer",
+    "physics",
+    "first-person",
+    "sandbox",
+    "exploration",
+    "swordplay",
+    "action-rpg",
+    "fantasy",
+    "character-customization",
+    "open-world",
+    "war",
+    "strategy",
+    "third-person"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Build5.51\\WindowsNoEditor\\TheBloodline.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "TheBloodline/Saved/SaveGames/",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The Bloodline",
+    "Build5.51\\WindowsNoEditor\\TheBloodline"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1159290/b8892f4b46f46d5bf16e5f1939d5e369d9b1de58.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/d6bdf64b17bdd9b036cde2458d755f9feeb6221b/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/a5b3a6c0fffcf86e9c3ddb09e215b30ea893c58b/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/e6215fcda3f33a1ca4769cb92911e54b60cde29b/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/fd16842f764dfddacb739bf5007f89e95a49d919/ss_fd16842f764dfddacb739bf5007f89e95a49d919.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/890501cab8d2510bbc0c73c1fbf03836b2e1f9e9/ss_890501cab8d2510bbc0c73c1fbf03836b2e1f9e9.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/ss_5b9407c4b44dfee5bd18c12d6c664c814a2ccb83.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/ss_11751e5a915ea0a66d6993f559c567fef5a0ad20.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/ss_36d62d9c0dd0d30707bc8b720989a931f288bede.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/ss_90344235a9da3c04861974dd1b605b6295515ba9.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/ss_6c1f3b8682cda1c263a5457d50938abc10be0906.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/ss_9a9e2f4b7a17383fa9304b9cdf380fdfaaf9acd1.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/ss_63826f6ef62f9776d58c3354dcd782d1717d6033.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/ss_951eae8fa7462b3174f9afc50364f724e874ecc8.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/c8d66a859cb31b52738dd0f9b363a7aeedceccee/ss_c8d66a859cb31b52738dd0f9b363a7aeedceccee.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/b6bf50c659774864dd39f792193e47791ef472ec/ss_b6bf50c659774864dd39f792193e47791ef472ec.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/ss_e002eb3d3e1c8f74a4cf8fbd655505662b03e33c.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/ss_d743bfbfa9b7c8290a9c8db4a00aefdd54355bb5.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/ss_c086794596631738422b5fd6c84f2fb0783b7942.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/ss_956a8c9c847ed2f47fad9870ebf1a3a8e692b193.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/ss_19e6b2dbcf0e14d5dcca8c825cfacbe72798edb8.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/ss_b78ef8e25d16b6d8f3b69ed08649fdd734dd34cb.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/ss_83f6cf17361d67f2b11e51a8b1112ee1c21100d9.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/ss_4f57c1da6f59e0af5ac0a560530356a4c9fde55c.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/ss_46508358315ea0453606db2b915f4bc06384c48a.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/ss_f12f92a9bfa3995ef9c1e570bdf3ab5b60781544.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/ss_ac8af44453edee2729fa0d073ef741ff306c3a4b.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/ss_76488f06b8dacaf7186679e4a393c719abc77e66.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/ss_3edac0f09d0206e5376f87834c84bc7f0c63491b.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/ss_da369f31687cccd5d1b7256953c18dcb70c5c6a5.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/ss_ef065c2e8c5bb55233ed20cb86bd749d17fb3fc7.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/ss_dbff62cb5cf879978dc9f42dcb5f24b4ec8344a0.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/ss_d8ad707c9af7b74fef41cdd5cc3d69ae315c42f8.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/044f41a741fac7cbbb679cff988d033b1e273b45/ss_044f41a741fac7cbbb679cff988d033b1e273b45.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/39ff1b511a9b6f2ee7bf5d0c82023042845784c8/ss_39ff1b511a9b6f2ee7bf5d0c82023042845784c8.1920x1080.jpg?t=1781273004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159290/d9915d563c4f0859c8323c7dc6f0b762139b65fe/ss_d9915d563c4f0859c8323c7dc6f0b762139b65fe.1920x1080.jpg?t=1781273004"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Ashes of Lonland Update - Sept 2025 EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257197941/a849974b0c30dac0cf119082bae1c6bf899a4990/movie_600x337.jpg?t=1758120935",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1159290/1888488261/d30c4379b35a90cc67bbc879783a8f66ced3bfc4/1757930903/dash_h264.mpd?t=1758120935"
+    },
+    {
+      "name": "The Bloodline EA Trailer EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256973801/movie.293x165.jpg?t=1696605977",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1159290/614950/2b03fad7e13ddf52bff4e3556c2cbb7b1b3cd9c0/1750630684/dash_h264.mpd?t=1696605977"
+    },
+    {
+      "name": "The Bloodline Announcement Trailer EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256967828/movie.293x165.jpg?t=1696517601",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1159290/604425/0501389b33c702a39124ae84a1bc4d0a060463e6/1750630664/dash_h264.mpd?t=1696517601"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1159290,
+    "store_url": "https://store.steampowered.com/app/1159290/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Custom Volume Controls",
+      "Stereo Sound",
+      "Surround Sound",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "RPG",
+      "Combat",
+      "Action-Adventure",
+      "Medieval",
+      "Singleplayer",
+      "Action",
+      "Physics",
+      "First-Person",
+      "Sandbox",
+      "Indie",
+      "Early Access",
+      "Exploration",
+      "Swordplay",
+      "Action RPG",
+      "Fantasy",
+      "Character Customization",
+      "Open World",
+      "War",
+      "Strategy",
+      "Third Person"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 3215,
+    "review_negative": 670,
+    "review_total": 3885,
+    "review_positive_percent": 82.75
+  }
+}

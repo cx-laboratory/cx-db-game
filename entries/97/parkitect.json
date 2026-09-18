@@ -1,0 +1,247 @@
+{
+  "key": "parkitect",
+  "name": "Parkitect",
+  "description": "Parkitect is a business simulation game that charges you with the construction and management of theme parks! Bringing back the best of classic theme park games with many new features and content on top. Now supports online co-op with up to 8 players!",
+  "developers": [
+    "Texel Raptor"
+  ],
+  "publishers": [
+    "Texel Raptor"
+  ],
+  "release_date": "2018-11-30",
+  "website": "http://themeparkitect.com/",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "strategy",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "relaxing",
+    "level-editor",
+    "management",
+    "building",
+    "singleplayer",
+    "economy",
+    "retro",
+    "family-friendly",
+    "nostalgia",
+    "time-management",
+    "isometric",
+    "city-builder",
+    "moddable",
+    "sandbox",
+    "capitalism"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "German",
+    "Dutch",
+    "French",
+    "Russian",
+    "Simplified Chinese",
+    "Korean",
+    "Spanish - Spain",
+    "Traditional Chinese",
+    "Italian",
+    "Portuguese - Brazil",
+    "Polish",
+    "Japanese",
+    "Czech"
+  ],
+  "name_localized": {
+    "schinese": "游乐园建造师"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Parkitect.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Parkitect.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Parkitect.x86_64",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Parkitect.x86_64",
+          "description": "with OpenGL",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Parkitect",
+    "Parkitect.app",
+    "Parkitect.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/453090/d91123eff47d633bd273dd1acd24bf93845a81f6.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/453090/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/453090/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/453090/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/453090/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/453090/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/453090/ss_65402fb6ddb88851d4098c7d4982dfb3c46128b6.1920x1080.jpg?t=1773075254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/453090/ss_9e35102c447084f1f7ae3b4d2c3ba1012567b591.1920x1080.jpg?t=1773075254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/453090/ss_3c7525c7155726de6a1406dc1732b6de66723f1b.1920x1080.jpg?t=1773075254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/453090/ss_d4fb11179d0176051e61d55f5a041a7454bdc3fa.1920x1080.jpg?t=1773075254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/453090/ss_8c29e773f840994280aa53eb56782483d8ec1ed7.1920x1080.jpg?t=1773075254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/453090/ss_0072fc7f1f9841c6b1ae63f0b347e16aba82b533.1920x1080.jpg?t=1773075254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/453090/ss_fb347e9e897df08566347b60c0a93d581dfbb7b3.1920x1080.jpg?t=1773075254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/453090/ss_e03fa3e3e2cbcc0f2b1cba355b985469fd9808a3.1920x1080.jpg?t=1773075254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/453090/ss_6d76fdf8921e74dc3cdde792e68e187dbca6663d.1920x1080.jpg?t=1773075254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/453090/ss_1a111d3a9f3ad9e4d2253cddd2ba93f06b1dd6c0.1920x1080.jpg?t=1773075254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/453090/ss_590d23401e417a892948c2e10893614e4bb453e7.1920x1080.jpg?t=1773075254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/453090/ss_3d0d05e45e2c48453ecaec172593dceab56d32c1.1920x1080.jpg?t=1773075254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/453090/ss_eb8173ff4c182ece6b02f2217f51fa42265495e4.1920x1080.jpg?t=1773075254"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256735356/movie.293x165.jpg?t=1562766535",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/453090/195629/9d1b496a430b6da9738874e3fa0d71d56524b901/1750532529/dash_h264.mpd?t=1562766535"
+    },
+    {
+      "name": "Multiplayer Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256813334/movie.293x165.jpg?t=1608299101",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/453090/333034/f8ffc1ffe488ab85cc2ca7e573d87271742e88a6/1750532529/dash_h264.mpd?t=1608299101"
+    },
+    {
+      "name": "Parkitect 'Big Brother' Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256662522/movie.293x165.jpg?t=1462464076",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/453090/55698/2b8f2e89aabe2ad842e748a648ad0d587271cb27/1750532508/dash_h264.mpd?t=1462464076"
+    },
+    {
+      "name": "Parkitect 'Amusemineer' Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256663129/movie.293x165.jpg?t=1462464087",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/453090/56799/aabae5368db056b6387d58c7c2bf49828760cc9d/1750532519/dash_h264.mpd?t=1462464087"
+    },
+    {
+      "name": "Parkitect 'Extreme' Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256663723/movie.293x165.jpg?t=1462464097",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/453090/57834/805145e82a0c2a410539e45a44385ae8f2fbd3c7/1750532525/dash_h264.mpd?t=1462464097"
+    }
+  ],
+  "metacritic": {
+    "score": 83,
+    "url": "https://www.metacritic.com/game/pc/parkitect?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 453090,
+    "store_url": "https://store.steampowered.com/app/453090/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Stats",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Relaxing",
+      "Level Editor",
+      "Simulation",
+      "Management",
+      "Building",
+      "Strategy",
+      "Singleplayer",
+      "Economy",
+      "Retro",
+      "Family Friendly",
+      "Nostalgia",
+      "Time Management",
+      "Multiplayer",
+      "Isometric",
+      "City Builder",
+      "Moddable",
+      "Sandbox",
+      "Casual",
+      "Capitalism",
+      "Co-op"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7610,
+    "review_negative": 471,
+    "review_total": 8081,
+    "review_positive_percent": 94.17
+  }
+}

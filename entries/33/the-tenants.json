@@ -1,0 +1,223 @@
+{
+  "key": "the-tenants",
+  "name": "The Tenants",
+  "description": "Become a landlord and deal with problematic tenants as you build your rental property empire. Decide how to react to annoyed neighbors or police interventions. Will you design your apartment for a group of gamer friends or an aspiring musician looking for a new home?",
+  "developers": [
+    "EndGameLoop Games"
+  ],
+  "publishers": [
+    "EndGameLoop Games"
+  ],
+  "release_date": "2022-10-20",
+  "website": "https://www.playthetenants.com/",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "management",
+    "design-and-illustration",
+    "life-sim",
+    "city-builder",
+    "building",
+    "economy",
+    "god-game",
+    "immersive-sim",
+    "sandbox",
+    "replay-value",
+    "time-management",
+    "early-access",
+    "base-building",
+    "relaxing",
+    "singleplayer",
+    "strategy",
+    "stylized"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "danish",
+    "dutch",
+    "hungarian",
+    "czech",
+    "romanian",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "The Tenants.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "The Tenants.exe",
+          "description": "in windowed mode (safe)",
+          "type": "option1"
+        },
+        {
+          "executable": "The Tenants.exe",
+          "description": "with extended logging",
+          "type": "option2"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Ancient Forge Studio/The Tenants/Save Files",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The Tenants"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1009560/ecb1591e2e50a88582a4d5a424ba838f71093349.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009560/985ce2ca8323469e7600ffd651c2ec8b7a6bdec7/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009560/dac3ab919039bc074d4c7d364bd6ab8035549892/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009560/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009560/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009560/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009560/ss_164f7c17a0a95440ed3db8690627087ff3627ed7.1920x1080.jpg?t=1781691290"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009560/ss_3c2d213d2034eeb388e79269eedda7cf16a96de8.1920x1080.jpg?t=1781691290"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009560/ss_6b768327cd5c58285c5918f60d244ff8f2f9b363.1920x1080.jpg?t=1781691290"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009560/ss_9810ecdfab0a5d20f5964cd50afd61bf6934bfcd.1920x1080.jpg?t=1781691290"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009560/ss_d036ce5292a2b89671d745d02b32d225321b6629.1920x1080.jpg?t=1781691290"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009560/ss_d2d0093b4c63e05a1c95a1fcb173170c0eb2ae9b.1920x1080.jpg?t=1781691290"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009560/ss_77e59c2e8033d3c3bb3fc4b856e662dea2d8220a.1920x1080.jpg?t=1781691290"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009560/ss_55d70096569144dc1d7ee109e8e3163b7c015581.1920x1080.jpg?t=1781691290"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009560/ss_26bf6c5ef8c2672f478c05be89d96b187fec245a.1920x1080.jpg?t=1781691290"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009560/ss_4e41e4270bc53f0475d371996d6c8a36dc9050cf.1920x1080.jpg?t=1781691290"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009560/ss_f0bcf52c3ee83b8841a89f87ad90bc1706fa92b5.1920x1080.jpg?t=1781691290"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009560/ss_c2ccd7083ff71fb055cc000b286ea77f2c810c42.1920x1080.jpg?t=1781691290"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009560/ss_752ce8a138dbbb10761501ef9f93ebbe35ff8ce5.1920x1080.jpg?t=1781691290"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009560/ss_b59e83eb3fd47bbf745d24d336bf7d5a8bdd90fa.1920x1080.jpg?t=1781691290"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009560/ss_2002223bcdf513ad23168a2d00b5cb9011657e6d.1920x1080.jpg?t=1781691290"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009560/ss_13fb1ad7b68959d653f9a9c011822967947ad150.1920x1080.jpg?t=1781691290"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009560/ss_48b2f1569564dd9165268a64e008af88df7b68ac.1920x1080.jpg?t=1781691290"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009560/ss_df38d8a47676a84e4eee0b852449d8c69ce76ca0.1920x1080.jpg?t=1781691290"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009560/ss_a6e9557486463a228ae1032071372eb86946e666.1920x1080.jpg?t=1781691290"
+    }
+  ],
+  "videos": [
+    {
+      "name": "TT - Full release trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256911274/movie.293x165.jpg?t=1683110295",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1009560/505519/af7fb0376e9a89368a0c50641432b950e80f4586/1750605926/dash_h264.mpd?t=1683110295"
+    },
+    {
+      "name": "The Tenants - Cinematic Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256827068/movie.293x165.jpg?t=1683110308",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1009560/356047/e6b5a837c525534d7ba005f2a42bc1e3f9a87815/1750605925/dash_h264.mpd?t=1683110308"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1009560,
+    "store_url": "https://store.steampowered.com/app/1009560/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Management",
+      "Design & Illustration",
+      "Life Sim",
+      "City Builder",
+      "Building",
+      "Economy",
+      "God Game",
+      "Immersive Sim",
+      "Sandbox",
+      "Replay Value",
+      "Time Management",
+      "Early Access",
+      "Base Building",
+      "Relaxing",
+      "Casual",
+      "Simulation",
+      "Singleplayer",
+      "Strategy",
+      "Stylized",
+      "Indie"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 6107,
+    "review_negative": 1630,
+    "review_total": 7737,
+    "review_positive_percent": 78.93
+  }
+}

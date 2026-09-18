@@ -1,0 +1,249 @@
+{
+  "key": "slay-the-princess-the-pristine-cut",
+  "name": "Slay the Princess — The Pristine Cut",
+  "description": "You're here to slay the princess. Don't believe her lies.",
+  "developers": [
+    "Black Tabby Games"
+  ],
+  "publishers": [
+    "Black Tabby Games"
+  ],
+  "release_date": "2023-10-23",
+  "website": "https://www.blacktabbygames.com/",
+  "tags": [
+    "adventure",
+    "indie",
+    "rpg",
+    "simulation",
+    "visual-novel",
+    "choices-matter",
+    "story-rich",
+    "horror",
+    "choose-your-own-adventure",
+    "hand-drawn",
+    "romance",
+    "lore-rich",
+    "point-and-click",
+    "interactive-fiction",
+    "first-person",
+    "singleplayer",
+    "dating-sim",
+    "crpg",
+    "dark-humor",
+    "comic-book"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SlaythePrincess.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "game/saves/",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "SlaythePrincess.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "game/saves/",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "SlaythePrincess.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "game/saves/",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Slay the Princess — The Pristine Cut",
+    "SlaythePrincess",
+    "SlaythePrincess.app",
+    "SlaythePrincess.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1989270/aae15ecdf3d29d31d3f7882c6da511f3aba4ca0b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989270/74a54248cfec29144de5e867a333c30e6d62801d/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989270/90faf29da4637bbf2e935d6b587b34fd01e16799/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989270/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989270/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989270/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989270/ss_5262a1ed60b5f1f8419f0c0be3dafa92a7167eba.1920x1080.jpg?t=1775751748"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989270/ss_d48a0403c8ce84a614120fa419109151f166fb40.1920x1080.jpg?t=1775751748"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989270/ss_9d91e5ccfe3f0ee5484054d7b535d4a3209e3c0e.1920x1080.jpg?t=1775751748"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989270/ss_a21403e66530a55daf306332893ce6cfa3c76948.1920x1080.jpg?t=1775751748"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989270/ss_e703b1c4504bc117b73cf664146968237886a3fa.1920x1080.jpg?t=1775751748"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989270/ss_b712f6a2527719b7af9d3a2e92bab2ea91633803.1920x1080.jpg?t=1775751748"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989270/ss_b414bd76ca3400c42390f7d9e4945fcfdb4a88d5.1920x1080.jpg?t=1775751748"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989270/ss_208616e4470a26a346141bdd5f4d6622e26f9a5d.1920x1080.jpg?t=1775751748"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989270/ss_8ea2657da581c793a02493e5b85d7bb0d77f7f93.1920x1080.jpg?t=1775751748"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989270/ss_2167394b90a99c33387b6c6cf45c2e6804f5f35f.1920x1080.jpg?t=1775751748"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989270/ss_f8186d5ae2fe2ef0615474384a54e15ee8965d76.1920x1080.jpg?t=1775751748"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989270/ss_83610339fbc10106a6be8d54e0816405b1797f8a.1920x1080.jpg?t=1775751748"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989270/ss_3441984842d8d6eb053d9092076b3254c7fd3abd.1920x1080.jpg?t=1775751748"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Pristine Cut Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257065618/964b7900aa77a03b5b40bb49e4e42e8cfb73a3b4/movie_600x337.jpg?t=1729093586",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1989270/772591/7f81cdc1ca7ae8f68b70bc2b0e241545692622ba/1750743803/dash_h264.mpd?t=1729093586"
+    },
+    {
+      "name": "Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256985740/movie.293x165.jpg?t=1701372848",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1989270/635259/4d7a8f216494fc221d2a4477d5b26cce1ac7ad9c/1750743798/dash_h264.mpd?t=1701372848"
+    },
+    {
+      "name": "Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256968188/movie.293x165.jpg?t=1729086367",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1989270/605134/b6ca0850a5f8df3cfa125e0cfed81f4d43b86850/1750743798/dash_h264.mpd?t=1729086367"
+    }
+  ],
+  "metacritic": {
+    "score": 90,
+    "url": "https://www.metacritic.com/game/pc/slay-the-princess?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1989270,
+    "store_url": "https://store.steampowered.com/app/1989270/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Adjustable Text Size",
+      "Custom Volume Controls",
+      "Keyboard Only Option",
+      "Mouse Only Option",
+      "Narrated Game Menus",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Subtitle Options",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Visual Novel",
+      "Choices Matter",
+      "Psychological Horror",
+      "Story Rich",
+      "Horror",
+      "Choose Your Own Adventure",
+      "Hand-drawn",
+      "Romance",
+      "Lore-Rich",
+      "Point & Click",
+      "Interactive Fiction",
+      "First-Person",
+      "Singleplayer",
+      "Dating Sim",
+      "CRPG",
+      "Simulation",
+      "Adventure",
+      "Dark Humor",
+      "Comic Book",
+      "RPG"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 31507,
+    "review_negative": 1061,
+    "review_total": 32568,
+    "review_positive_percent": 96.74
+  }
+}

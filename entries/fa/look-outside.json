@@ -1,0 +1,174 @@
+{
+  "key": "look-outside",
+  "name": "Look Outside",
+  "description": "Look Outside is a survival horror RPG set in a single apartment building. A mysterious event turns anyone who looks out the window into grotesque monsters, leaving the world in absolute chaos. Scavenge the building to seek food, supplies, and weapons while encountering strange characters.",
+  "developers": [
+    "Francis Coulombe"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "release_date": "2025-03-21",
+  "website": "",
+  "tags": [
+    "adventure",
+    "rpg",
+    "horror",
+    "pixel-graphics",
+    "lovecraftian",
+    "turn-based-combat",
+    "2d",
+    "atmospheric",
+    "exploration",
+    "gore",
+    "dark",
+    "singleplayer",
+    "indie",
+    "violent",
+    "mystery",
+    "great-soundtrack",
+    "old-school",
+    "isometric",
+    "demons"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Game.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "save",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Look Outside",
+    "Game"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3373660/253d059685f5f8b9da0954d75f52249c9c4cf844.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3373660/7af754cc405af7db9396a0c1bedff8e7fd213198/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3373660/e0dae146ff3f347de7f3d26d3cc59977a675cfd9/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3373660/de4d812972a0fbcc7eaf58ea51bc22da0140a35c/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3373660/315e7ee9eb299d942bd9dd83a06556cff9ce69fd/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3373660/d75416f1f046da6b30b5d4a9d7596fa00c76f225/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3373660/db853588db1d8d3cc46224738d2250a7df907a83/ss_db853588db1d8d3cc46224738d2250a7df907a83.1920x1080.jpg?t=1781817234"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3373660/9c7fa19996c4481aaf8ae36d544d1122263f17e3/ss_9c7fa19996c4481aaf8ae36d544d1122263f17e3.1920x1080.jpg?t=1781817234"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3373660/830b14b764b9f021b80ddf1d49d24453615844b6/ss_830b14b764b9f021b80ddf1d49d24453615844b6.1920x1080.jpg?t=1781817234"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3373660/0690f6cb50f193dec5d524d7f0816ab423c29773/ss_0690f6cb50f193dec5d524d7f0816ab423c29773.1920x1080.jpg?t=1781817234"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3373660/6397bfc4bc4dcb185062a0b756b0076c7f2c7944/ss_6397bfc4bc4dcb185062a0b756b0076c7f2c7944.1920x1080.jpg?t=1781817234"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3373660/c4993923f605b608939536b5f2521913850b028a/ss_c4993923f605b608939536b5f2521913850b028a.1920x1080.jpg?t=1781817234"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3373660/7d2b829f5383f992b1bd533ca4296811ae0d909e/ss_7d2b829f5383f992b1bd533ca4296811ae0d909e.1920x1080.jpg?t=1781817234"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3373660/cc4185ab5e8efaf2545d3103443c376b7170c673/ss_cc4185ab5e8efaf2545d3103443c376b7170c673.1920x1080.jpg?t=1781817234"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3373660/48c330033d5b109990492ddc86e5b0e2f43cbd4e/ss_48c330033d5b109990492ddc86e5b0e2f43cbd4e.1920x1080.jpg?t=1781817234"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3373660/9b99bccd72b3124563bddb30fcf853c384c1b3a3/ss_9b99bccd72b3124563bddb30fcf853c384c1b3a3.1920x1080.jpg?t=1781817234"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3373660/37f560b4aa0cf3aa719887e081d45e7665157a7e/ss_37f560b4aa0cf3aa719887e081d45e7665157a7e.1920x1080.jpg?t=1781817234"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3373660/8d7fd9d631d109037115283014de63b2c20803e0/ss_8d7fd9d631d109037115283014de63b2c20803e0.1920x1080.jpg?t=1781817234"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3373660/743c192eb28794a063cf455be7a19abc346c5292/ss_743c192eb28794a063cf455be7a19abc346c5292.1920x1080.jpg?t=1781817234"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Look Outside 2.0 | Final Vision Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257222173/1f9a46c261782b87a60d99e97ccf68b1062d85ce/movie_600x337.jpg?t=1761662696",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3373660/258842482/c648700c8ac9e2000bf7c50083b23fc799cef7a3/1761319884/dash_h264.mpd?t=1761662696"
+    },
+    {
+      "name": "Reveal Trailer | Available Now",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257111288/b0fb065bb80c19fc77cae9777dfcf501aa46c6e5/movie_600x337.jpg?t=1761584383",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3373660/846337/e9c516f755b81677d12afcfc2e423b42f92813dc/1750825773/dash_h264.mpd?t=1761584383"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3373660,
+    "store_url": "https://store.steampowered.com/app/3373660/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "RPG",
+      "Survival Horror",
+      "Horror",
+      "Pixel Graphics",
+      "Lovecraftian",
+      "Turn-Based Combat",
+      "Adventure",
+      "2D",
+      "Atmospheric",
+      "Exploration",
+      "Gore",
+      "Dark",
+      "Singleplayer",
+      "Indie",
+      "Violent",
+      "Mystery",
+      "Great Soundtrack",
+      "Old School",
+      "Isometric",
+      "Demons"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 13120,
+    "review_negative": 212,
+    "review_total": 13332,
+    "review_positive_percent": 98.41
+  }
+}

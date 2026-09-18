@@ -1,0 +1,234 @@
+{
+  "key": "the-spell-brigade",
+  "name": "The Spell Brigade",
+  "description": "Survivors-like with ONLINE CO-OP for 1-4 players. Team up with your wizard friends to slay hordes of dark creatures. Complete team-based objectives, unlock new upgrades and create overpowered spell synergies. Friend nor foe is safe in this friendly fire bullet hell!",
+  "developers": [
+    "Bolt Blaster Games"
+  ],
+  "publishers": [
+    "Bolt Blaster Games"
+  ],
+  "release_date": "2026-04-29",
+  "website": "https://thespellbrigade.com",
+  "tags": [
+    "action",
+    "casual",
+    "indie",
+    "free-to-play",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "bullet-heaven",
+    "roguelite",
+    "bullet-hell",
+    "action-roguelike",
+    "roguelike",
+    "magic",
+    "top-down-shooter",
+    "3d",
+    "dark-fantasy",
+    "arcade",
+    "top-down",
+    "score-attack",
+    "colorful",
+    "controller",
+    "singleplayer"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "portuguese",
+    "polish",
+    "dutch",
+    "brazilian",
+    "ukrainian",
+    "latam"
+  ],
+  "name_localized": {
+    "japanese": "呪文団",
+    "schinese": "咒语旅团",
+    "koreana": "마법 주문 팀",
+    "tchinese": "法術小隊",
+    "thai": "กองเวทมนตร์"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "TheSpellBrigade.exe",
+          "description": "Launch Windows",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BoltBlasterGames/TheSpellBrigade/",
+          "pattern": "*.es3",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BoltBlasterGames/TheSpellBrigade/",
+          "pattern": "*.bac",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BoltBlasterGames/TheSpellBrigade/",
+          "pattern": "save_*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The Spell Brigade",
+    "TheSpellBrigade",
+    "呪文団",
+    "咒语旅团",
+    "마법 주문 팀",
+    "法術小隊",
+    "กองเวทมนตร์"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2904000/d09d1ca9dbd08f56624edeb84915870db08d816c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/ef8f6a434fbdfaa2937ff83adf90b8ffde102ccf/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/07f24b85c907e4ecabe2dcd1a8476a4814f2f790/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/cf2b8ee73db800966acdf05c2a7e0a9bac41f66a/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/10fb08761e626ad92fbeabc7cb58e9e0ef0c891e/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/2d3d0f2d874f6e73cb0971c81188c7e843714d68/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/7e2b8a8f40ca96ac2b758556db09b3d4ce1d4d71/ss_7e2b8a8f40ca96ac2b758556db09b3d4ce1d4d71.1920x1080.jpg?t=1782982726"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/b30cf42fbc195eb23f0d5f4a8c8767229ba4a0cd/ss_b30cf42fbc195eb23f0d5f4a8c8767229ba4a0cd.1920x1080.jpg?t=1782982726"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/379aef919283eefc43d60bf9f1a92f78432706ac/ss_379aef919283eefc43d60bf9f1a92f78432706ac.1920x1080.jpg?t=1782982726"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/aee885f49f6ca44409dbd8d131731e2e5ec91f88/ss_aee885f49f6ca44409dbd8d131731e2e5ec91f88.1920x1080.jpg?t=1782982726"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/6e106d104a5682d3665de1678fea40fa3ec912d4/ss_6e106d104a5682d3665de1678fea40fa3ec912d4.1920x1080.jpg?t=1782982726"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/4df00394ffe6cf57140f19e02bfadb8d474ba576/ss_4df00394ffe6cf57140f19e02bfadb8d474ba576.1920x1080.jpg?t=1782982726"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/fe79d1a9a01163a742eb23041861da1ed212b93d/ss_fe79d1a9a01163a742eb23041861da1ed212b93d.1920x1080.jpg?t=1782982726"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/f82bffed02a78b1a9f390503e45c971d398b07dd/ss_f82bffed02a78b1a9f390503e45c971d398b07dd.1920x1080.jpg?t=1782982726"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/c8101516339f53deea82ff01df9c2beefeffc913/ss_c8101516339f53deea82ff01df9c2beefeffc913.1920x1080.jpg?t=1782982726"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904000/43335b350687fa18ecd7552a6b335377de93a92a/ss_43335b350687fa18ecd7552a6b335377de93a92a.1920x1080.jpg?t=1782982726"
+    }
+  ],
+  "videos": [
+    {
+      "name": "1.0 Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257328238/b9dc28947d3c7d13445b661450b41f11d7425ef3/movie_600x337.jpg?t=1777470610",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2904000/1813797235/1d6c8456e2c57cd6dc7f01e60027cedfafe1e76f/1777385274/dash_h264.mpd?t=1777470610"
+    },
+    {
+      "name": "1.0 Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257311389/01d1f85d712c16ee3ac6589d2bd487a76838e2ff/movie_600x337.jpg?t=1774965666",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2904000/1950446536/9e89e127071f880291c493b0057efba554ad7e87/1774874999/dash_h264.mpd?t=1774965666"
+    },
+    {
+      "name": "Early Access Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257200095/18aec22ea268eeeb766c57175d82439d3b9ff484/movie_600x337.jpg?t=1758721826",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2904000/1374133433/3a552e81329338bf05e692b128cdd362be182719/1758126843/dash_h264.mpd?t=1758721826"
+    },
+    {
+      "name": "Demo Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257043882/1589f7998bbc0a2ec5bb7611c64a143dc757e641/movie_600x337.jpg?t=1758721829",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2904000/736438/0e5a391ccf5605da06ca6e86a3a3bb020128ab5c/1750821269/dash_h264.mpd?t=1758721829"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2904000,
+    "store_url": "https://store.steampowered.com/app/2904000/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Gamepad Recommended",
+      "Mouse Only Option",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Surround Sound",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Bullet Heaven",
+      "Online Co-Op",
+      "Roguelite",
+      "Co-op",
+      "Bullet Hell",
+      "Action Roguelike",
+      "Roguelike",
+      "Magic",
+      "Multiplayer",
+      "Action",
+      "Top-Down Shooter",
+      "3D",
+      "Dark Fantasy",
+      "Arcade",
+      "Top-Down",
+      "Casual",
+      "Score Attack",
+      "Colorful",
+      "Controller",
+      "Singleplayer"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 12972,
+    "review_negative": 3005,
+    "review_total": 15977,
+    "review_positive_percent": 81.19
+  }
+}

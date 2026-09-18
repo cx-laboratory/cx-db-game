@@ -1,0 +1,428 @@
+{
+  "key": "doom-3-bfg-edition",
+  "name": "DOOM 3: BFG Edition",
+  "description": "A demonic invasion has overwhelmed the Union Aerospace Corporation's Mars research facility. As one of only a few survivors, you must fight your way to hell and back against a horde of demons in this award-winning horror/action FPS and reimagining of the original DOOM.",
+  "developers": [
+    "id Software"
+  ],
+  "publishers": [
+    "Bethesda Softworks"
+  ],
+  "release_date": "2012-10-15",
+  "website": "http://www.facebook.com/doom",
+  "tags": [
+    "action",
+    "multiplayer"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "japanese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Doom3BFG.exe",
+          "description": "Launch Doom 3: BFG Edition",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base",
+          "pattern": "*.cfg",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/DOOM",
+          "pattern": "*.dsg",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/DOOM2",
+          "pattern": "*.dsg",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-autosave",
+          "pattern": "game.details",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-autosave",
+          "pattern": "gamedata.save",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-autosave",
+          "pattern": "gamedata.strings",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_0",
+          "pattern": "game.details",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_0",
+          "pattern": "gamedata.save",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_0",
+          "pattern": "gamedata.strings",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_1",
+          "pattern": "game.details",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_1",
+          "pattern": "gamedata.save",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_1",
+          "pattern": "gamedata.strings",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_2",
+          "pattern": "game.details",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_2",
+          "pattern": "gamedata.save",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_2",
+          "pattern": "gamedata.strings",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_3",
+          "pattern": "game.details",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_3",
+          "pattern": "gamedata.save",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_3",
+          "pattern": "gamedata.strings",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_4",
+          "pattern": "game.details",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_4",
+          "pattern": "gamedata.save",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_4",
+          "pattern": "gamedata.strings",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_5",
+          "pattern": "game.details",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_5",
+          "pattern": "gamedata.save",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_5",
+          "pattern": "gamedata.strings",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_6",
+          "pattern": "game.details",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_6",
+          "pattern": "gamedata.save",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_6",
+          "pattern": "gamedata.strings",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_7",
+          "pattern": "game.details",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_7",
+          "pattern": "gamedata.save",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_7",
+          "pattern": "gamedata.strings",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_8",
+          "pattern": "game.details",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_8",
+          "pattern": "gamedata.save",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_8",
+          "pattern": "gamedata.strings",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_9",
+          "pattern": "game.details",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_9",
+          "pattern": "gamedata.save",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_9",
+          "pattern": "gamedata.strings",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_10",
+          "pattern": "game.details",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_10",
+          "pattern": "gamedata.save",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_10",
+          "pattern": "gamedata.strings",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_11",
+          "pattern": "game.details",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_11",
+          "pattern": "gamedata.save",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_11",
+          "pattern": "gamedata.strings",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_12",
+          "pattern": "game.details",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_12",
+          "pattern": "gamedata.save",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_12",
+          "pattern": "gamedata.strings",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_13",
+          "pattern": "game.details",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_13",
+          "pattern": "gamedata.save",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_13",
+          "pattern": "gamedata.strings",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_14",
+          "pattern": "game.details",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_14",
+          "pattern": "gamedata.save",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/savegame/GAME-doom3_14",
+          "pattern": "gamedata.strings",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM 3 BFG/base/DOOM2_NRFTL",
+          "pattern": "*.dsg",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "DOOM 3: BFG Edition",
+    "Doom3BFG"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/208200/00b2e4a81c7305be9203e17010d3a5ab51f53737.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208200/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208200/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208200/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208200/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208200/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208200/ss_69af57e45c0d66506b568d816ac95f6dd357f941.1920x1080.jpg?t=1664292843"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208200/ss_02d54960755f49731b246fc618c725b3cf9a039f.1920x1080.jpg?t=1664292843"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208200/ss_4ef531d962d08f1c60746cac733d6ff8415e6778.1920x1080.jpg?t=1664292843"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208200/ss_15559ce8d50ad32f959531815d21b10238fb7344.1920x1080.jpg?t=1664292843"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208200/ss_0c98b43f97733f3dad39cbddcdffbf957e30fd2b.1920x1080.jpg?t=1664292843"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208200/ss_cb37f01a6f0fcff23f7f7b7af27d8b64cdd7e625.1920x1080.jpg?t=1664292843"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Trailer EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256901501/movie.293x165.jpg?t=1660847330",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/208200/488881/30df527fa403a4134dbec5af371e33b8d6a81c56/1750480986/dash_h264.mpd?t=1660847330"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 208200,
+    "store_url": "https://store.steampowered.com/app/208200/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements",
+      "Partial Controller Support",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 10603,
+    "review_negative": 1698,
+    "review_total": 12301,
+    "review_positive_percent": 86.2
+  }
+}

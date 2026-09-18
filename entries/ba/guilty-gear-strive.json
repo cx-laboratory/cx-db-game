@@ -1,0 +1,323 @@
+{
+  "key": "guilty-gear-strive",
+  "name": "GUILTY GEAR -STRIVE-",
+  "description": "The cutting-edge 2D/3D hybrid graphics pioneered in the Guilty Gear series have been raised to the next level in “GUILTY GEAR -STRIVE-“. The new artistic direction and improved character animations will go beyond anything you’ve seen before in a fighting game!",
+  "developers": [
+    "Arc System Works"
+  ],
+  "publishers": [
+    "Arc System Works"
+  ],
+  "release_date": "2021-06-11",
+  "website": "https://www.guiltygear.com/ggst/jp/",
+  "tags": [
+    "action",
+    "multiplayer",
+    "pvp",
+    "online-pvp"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "GGST.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "GGST/Saved/SaveGames/{Steam3AccountID}",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "GUILTY GEAR -STRIVE-",
+    "GGST"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1384160/7f533439eee06521bb022a7afba5e6eb3f604003.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/23a7b8f8c96b47ab7ef5f22f33b572a63aaf9fab/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/078c6f623ab033c4671a61c1f5391a1a915c7576/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/62dee2877ec4c14948137c642bc591223900d79b/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/0595d2013a0ae11274285aa099abf419765031d8/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/66e58a4fc47b5d6762ab7380a3659c42f107f82f/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/ss_0f29aebacb81b972782382dbf4c0079f0d37b330.1920x1080.jpg?t=1782984163"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/ss_2561a4ae822856797b5fb231502b820a962336e0.1920x1080.jpg?t=1782984163"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/ss_104e16788c2ea35e1dac31d96be8d4f1df00f330.1920x1080.jpg?t=1782984163"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/ss_c290682ecdf413e368d9a66cd4a7a9430860ca1d.1920x1080.jpg?t=1782984163"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/ss_3bcbd1e70fb68db2347e02299f6606cb551e9ff1.1920x1080.jpg?t=1782984163"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/ss_f59f96b42ea25f9f8cb244fcc15a4ec9ff8bd5b6.1920x1080.jpg?t=1782984163"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/ss_ccd197a3d5beb8c605b53545db95f00027d80104.1920x1080.jpg?t=1782984163"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/ss_62f0d3414e2a2c76051747f4615499c3cbc737d7.1920x1080.jpg?t=1782984163"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/ss_d1320ccbaf6e6c62a2c929fcff7406c909f8439b.1920x1080.jpg?t=1782984163"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/ss_55c480ab0fd33408a1c944a7266cd09c1b91acce.1920x1080.jpg?t=1782984163"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/ss_74c30144cddb20b0f4f1c0717ac1e4fb1623d04c.1920x1080.jpg?t=1782984163"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/ss_9a79a69cfd22eaaad420f97cc0205dac8f85be43.1920x1080.jpg?t=1782984163"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/ss_a373027db9e3f72f10637204bad95fb3810a3170.1920x1080.jpg?t=1782984163"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/ss_3cadfb247aa0d225670d60d8cdc545554094d357.1920x1080.jpg?t=1782984163"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/ss_faa1e45e4845311a00f6aaf3c02d7c36d32e4f56.1920x1080.jpg?t=1782984163"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/ss_1f9956077132d8a9615e70b21b1e10481f0ef55c.1920x1080.jpg?t=1782984163"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/ss_044db69a024ce7432dc1897066f172fef52ac10e.1920x1080.jpg?t=1782984163"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/ss_16570b68fd000173674bc992059c3ea290e80017.1920x1080.jpg?t=1782984163"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/ss_3bed7f439285ecc7430e6aeb5e7b83af7e2dda90.1920x1080.jpg?t=1782984163"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/ss_ef7734a27e258833e1bc7ace3b2aaef5c323c40e.1920x1080.jpg?t=1782984163"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/ss_5e89aead640bd6189ae0a2f3329269797e626f46.1920x1080.jpg?t=1782984163"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/ss_d7a50d02dfc45e8a993ac80f69007d2868b2cab8.1920x1080.jpg?t=1782984163"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/ss_430bed4b79e8d629af7e4f4320a6d4aa9457c3e9.1920x1080.jpg?t=1782984163"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384160/ss_a96d444e888b266eca15326c6567382ea552ca0d.1920x1080.jpg?t=1782984163"
+    }
+  ],
+  "videos": [
+    {
+      "name": "GGST Season5 Robo - Ky",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257369545/2ce8e13b897f7a74c84a5cf2e956a2f3b5504797/movie_600x337.jpg?t=1782983303",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/967374452/0696d0b3e591307b7e174596d30b9a81f8a432ac/1782982776/dash_h264.mpd?t=1782983303"
+    },
+    {
+      "name": "GGST Season5 2.0 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257308763/337d2139cdc0856fa62b6c7ce55680f0b0b2ab48/movie_600x337.jpg?t=1774423103",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/1202603821/4f0f6690f2e280e0e546d40ed193d6496cc5668c/1774421240/dash_h264.mpd?t=1774423103"
+    },
+    {
+      "name": "GGST Season5 Jam",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257308761/7c1aa398dcf6da07e461783feb63d4cd73148c3b/movie_600x337.jpg?t=1774423104",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/376090707/d603416f75ce3e31994dfd3b64ad6c98bf0365a5/1774420460/dash_h264.mpd?t=1774423104"
+    },
+    {
+      "name": "GGST Season4 Lucy",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257186495/798b4a3da62f388b3af85c80797b23f1f9ad1b84/movie_600x337.jpg?t=1755768084",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/2089461958/9e8c4c66e163efff89d7ce284c00c4739807d175/1755759835/dash_h264.mpd?t=1755768084"
+    },
+    {
+      "name": "GGST Season 4 Unika",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257146191/0475bb07b373649e368391559f6666900176c34d/movie_600x337.jpg?t=1748320243",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/606272397/9b2556d53ea61ccf639f1a9a3e1ad840f9632427/1750682367/dash_h264.mpd?t=1748320243"
+    },
+    {
+      "name": "GGST Season 4 Venom",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257117869/227b181369807ce0ad9bfb627d0206ecdd1995a2/movie_600x337.jpg?t=1742802378",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/856593/4472433865c26dac14218f40aa56b4d43e3ef714/1750682364/dash_h264.mpd?t=1742802378"
+    },
+    {
+      "name": "GGST Season 4 Queen Dizzy",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257067914/1d083549edf38b7d7ee93bc273bd0e0ae2ff1bff/movie_600x337.jpg?t=1729748265",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/776375/ba7d3da78af9b3ca30eb25985025105a1c875b9a/1750682361/dash_h264.mpd?t=1729748265"
+    },
+    {
+      "name": "Season 4 Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257040770/movie.293x165.jpg?t=1721981276",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/731197/05c54b4fac7f1658f93b0bd834d1015e75580141/1750682330/dash_h264.mpd?t=1721981276"
+    },
+    {
+      "name": "GGST Season 3 Slayer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257044072/movie.293x165.jpg?t=1723001541",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/736768/ee77e3852e516c7bea538790fee018075c56930e/1750682346/dash_h264.mpd?t=1723001541"
+    },
+    {
+      "name": "GGST Season 3 A.B.A",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257044074/movie.293x165.jpg?t=1723001547",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/736770/382c4bf00537475e710130ed66df778985977252/1750682348/dash_h264.mpd?t=1723001547"
+    },
+    {
+      "name": "GGST Season 3 Elphelt Valentine",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257044070/movie.293x165.jpg?t=1723001553",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/736766/bd14beaf0931c14b156d407df394ec4101fbf48a/1750682345/dash_h264.mpd?t=1723001553"
+    },
+    {
+      "name": "GGST Season 3 Johnny",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257044068/movie.293x165.jpg?t=1723001559",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/736764/159eefa56609e398cc40994ec109c63516fde499/1750682339/dash_h264.mpd?t=1723001559"
+    },
+    {
+      "name": "30 Sec. Promo",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257040769/movie.293x165.jpg?t=1721981282",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/731196/fd80c4cc55ef0d054fd0bf338713fada12cd055a/1750682316/dash_h264.mpd?t=1721981282"
+    },
+    {
+      "name": "Opening",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256837800/movie.293x165.jpg?t=1684981251",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/375291/c6a5a702b5047e1acfe5bff54dcaf5bef8e1b333/1750682268/dash_h264.mpd?t=1684981251"
+    },
+    {
+      "name": "Accolades",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256846317/movie.293x165.jpg?t=1684981256",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/391820/1ce0351cbee4a7000aa13fa207c25a3a5cad38d6/1750682278/dash_h264.mpd?t=1684981256"
+    },
+    {
+      "name": "GGST Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256821736/movie.293x165.jpg?t=1684981268",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/346659/21a20cb331f5a8750344b328cccc83bb9301d2d8/1750682185/dash_h264.mpd?t=1684981268"
+    },
+    {
+      "name": "17 - GGST I-No",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256837802/movie.293x165.jpg?t=1684981272",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/375293/ff7226bd98815e82bf13275a44caabeba7c9bb9a/1750682276/dash_h264.mpd?t=1684981272"
+    },
+    {
+      "name": "15 - GGST Anji",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256821734/movie.293x165.jpg?t=1684981277",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/346656/2c101160358d704fc85d83aea1386c395aaa25f7/1750682176/dash_h264.mpd?t=1684981277"
+    },
+    {
+      "name": "12 - GGST Giovanna",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256821731/movie.293x165.jpg?t=1684981280",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/346653/3da71c692f20da0d2bf6970c36581eeb60bbe582/1750682162/dash_h264.mpd?t=1684981280"
+    },
+    {
+      "name": "11 - GGST Leo and Nagoriyuki",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256821730/movie.293x165.jpg?t=1684981285",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/346650/cdf114f48c7723df0138336e0befb6d450cfbe58/1750682116/dash_h264.mpd?t=1684981285"
+    },
+    {
+      "name": "09 - GGST Ramlethal",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256803714/movie.293x165.jpg?t=1684981289",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/317229/a1e0aaaa2090f740d9af7555d265c9f30dce5654/1750682113/dash_h264.mpd?t=1684981289"
+    },
+    {
+      "name": "08 - GGST Millia & Zato",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256803712/movie.293x165.jpg?t=1684981294",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/317227/2871e2df2ae2d94246204518dde421befce8cc14/1750682111/dash_h264.mpd?t=1684981294"
+    },
+    {
+      "name": "07 - GGST Faust",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256803709/movie.293x165.jpg?t=1684981298",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/317219/c9d64788f7e1c0d6cf94742e42c24f769fe2327e/1750682108/dash_h264.mpd?t=1684981298"
+    },
+    {
+      "name": "05 - GGST Chipp and Potemkin",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256803701/movie.293x165.jpg?t=1684981302",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/317205/5d318406797ff6436dee64c6a55f976d09f04d5e/1750682106/dash_h264.mpd?t=1684981302"
+    },
+    {
+      "name": "04 - GGST Axl",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256803696/movie.293x165.jpg?t=1684981306",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/317200/750920869453845587e0271431ce8b6c85f09309/1750682085/dash_h264.mpd?t=1684981306"
+    },
+    {
+      "name": "03 - GGST May",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256803693/movie.293x165.jpg?t=1684981311",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/317197/711c83a3fc0bbe1c69a581e78729c27dc568488b/1750682068/dash_h264.mpd?t=1684981311"
+    },
+    {
+      "name": "02 - GGST Sol and Ky",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256803690/movie.293x165.jpg?t=1684981315",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/317194/79907e582a74d5fd7ae44781ce3f6f1dbe63c49c/1750682056/dash_h264.mpd?t=1684981315"
+    },
+    {
+      "name": "07/30 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256802401/movie.293x165.jpg?t=1684981319",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1384160/314665/dea8329b731f429e3c3ee81293438a23e170141e/1750682052/dash_h264.mpd?t=1684981319"
+    }
+  ],
+  "metacritic": {
+    "score": 85,
+    "url": "https://www.metacritic.com/game/pc/guilty-gear--strive-?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1384160,
+    "store_url": "https://store.steampowered.com/app/1384160/",
+    "required_age": 13,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 58073,
+    "review_negative": 7951,
+    "review_total": 66024,
+    "review_positive_percent": 87.96
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "key": "alpaca-stacka",
+  "name": "Alpaca Stacka",
+  "description": "A 3D adventure platformer where you play as a kind alpaca dedicated to helping their animal friends.",
+  "developers": [
+    "Sebastian Baracaldo"
+  ],
+  "publishers": [
+    "Spookulele Games"
+  ],
+  "release_date": "2021-07-29",
+  "website": "https://www.spookulele.games/alpaca-stacka.html",
+  "tags": [
+    "adventure",
+    "casual",
+    "free-to-play",
+    "indie",
+    "exploration",
+    "3d-platformer",
+    "cute",
+    "collectathon",
+    "creature-collector",
+    "walking-simulator",
+    "open-world",
+    "relaxing",
+    "funny",
+    "family-friendly",
+    "third-person",
+    "colorful",
+    "nature",
+    "comedy",
+    "singleplayer",
+    "short"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "WIN/Alpaca Stacka.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "MAC/Alpacastacka.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Alpaca Stacka",
+    "WIN/Alpaca Stacka",
+    "MAC/Alpacastacka.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1655140/005eea182f05d9a22bc6700b37c7a950b9522c52.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1655140/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1655140/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1655140/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1655140/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1655140/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1655140/ss_81d19f3a47440235cac3706c774296c1d3b2c8c0.1920x1080.jpg?t=1638209077"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1655140/ss_426f1a4f070c6bc3363dd1784244005c50d696a9.1920x1080.jpg?t=1638209077"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1655140/ss_5692f72b4c7a8dae8475d053e6cb3316e0b46c77.1920x1080.jpg?t=1638209077"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1655140/ss_042c9d0458d358384311c26fde850c098463c224.1920x1080.jpg?t=1638209077"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1655140/ss_c3f3e1989eed13861e8319fb4fb656b77c49b9a2.1920x1080.jpg?t=1638209077"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256843908/movie.293x165.jpg?t=1627404672",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1655140/387181/268f721790eeefa3169cfe66371990e9521f3a13/1751014976/dash_h264.mpd?t=1627404672"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1655140,
+    "store_url": "https://store.steampowered.com/app/1655140/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Free To Play",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Indie",
+      "Exploration",
+      "3D Platformer",
+      "Cute",
+      "Collectathon",
+      "Creature Collector",
+      "Walking Simulator",
+      "Open World",
+      "Relaxing",
+      "Casual",
+      "Funny",
+      "Family Friendly",
+      "Third Person",
+      "Colorful",
+      "Nature",
+      "Adventure",
+      "Comedy",
+      "Free to Play",
+      "Singleplayer",
+      "Short"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 5853,
+    "review_negative": 160,
+    "review_total": 6013,
+    "review_positive_percent": 97.34
+  }
+}

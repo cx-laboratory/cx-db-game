@@ -1,0 +1,190 @@
+{
+  "key": "astlibra-revision",
+  "name": "ASTLIBRA Revision",
+  "description": "Confront time and fate in the 2D action RPG, Astlibra Revision. Explore meticulously crafted worlds, fight brutal boss battles, and upgrade your skills to take down enemies lurking around every corner.",
+  "developers": [
+    "KEIZO"
+  ],
+  "publishers": [
+    "WhisperGames"
+  ],
+  "release_date": "2022-10-13",
+  "website": "http://www.astlibrarevision.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "rpg",
+    "action-rpg",
+    "2d",
+    "side-scroller",
+    "jrpg",
+    "metroidvania",
+    "time-travel",
+    "fantasy",
+    "spectacle-fighter",
+    "dragons",
+    "swordplay",
+    "demons",
+    "gothic",
+    "futuristic",
+    "modern",
+    "mythology",
+    "supernatural",
+    "story-rich"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "koreana",
+    "schinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "schinese": "神之天平（ASTLIBRA Revision）",
+    "koreana": "아스트리브라: 리비전"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ASTLIBRA.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "GAIDEN\\AST_GAIDEN.exe",
+          "description": "ASTLIBRA GAIDEN -The Cave of Phantom Mist-",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "ASTLIBRA/SAVE",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "ASTLIBRA Revision",
+    "ASTLIBRA",
+    "GAIDEN\\AST_GAIDEN",
+    "神之天平（ASTLIBRA Revision）",
+    "아스트리브라: 리비전"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1718570/e7c445fc57e408d34f6d831588026cace13d3150.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1718570/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1718570/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1718570/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1718570/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1718570/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1718570/ss_3e0095534df3fc37474c2eada73ed72bd5901a93.1920x1080.jpg?t=1770740786"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1718570/ss_0c80be451aafa02292388b337a0d24032df103e5.1920x1080.jpg?t=1770740786"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1718570/ss_623287447b3213532ea99909cc4873092fb5076a.1920x1080.jpg?t=1770740786"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1718570/ss_5d303686a08afb230b19487747a65f479cf68358.1920x1080.jpg?t=1770740786"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1718570/ss_bcb1ca2e692516778333db902688cd492bd5d581.1920x1080.jpg?t=1770740786"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1718570/ss_c378800ada8f497f929bd4ae97021900c77f979d.1920x1080.jpg?t=1770740786"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1718570/ss_09f897688cdce91ba6e1729661170d638fdb931d.1920x1080.jpg?t=1770740786"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1718570/ss_b31122b21661af89c1b177368a3dcb584eb838e5.1920x1080.jpg?t=1770740786"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1718570/ss_83f8c03d71c316ef9f4b9164f1e26e723ec758cb.1920x1080.jpg?t=1770740786"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1718570/ss_e29cb00128db56acde80185bb4a9072d5097768f.1920x1080.jpg?t=1770740786"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1718570/ss_bdb9d6003175565c56740373705b0b72051f810d.1920x1080.jpg?t=1770740786"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Release Date Trailer with logo between",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256909033/movie.293x165.jpg?t=1684576182",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1718570/501746/a210fbd419f94cb184b057d562559d4a8788501f/1750730090/dash_h264.mpd?t=1684576182"
+    },
+    {
+      "name": "1",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256853155/movie.293x165.jpg?t=1684576197",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1718570/404208/c9c69f1194e3554a8cac21e3106817842e67e8b5/1750729083/dash_h264.mpd?t=1684576197"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1718570,
+    "store_url": "https://store.steampowered.com/app/1718570/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Gamepad Recommended",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Action RPG",
+      "2D",
+      "Side Scroller",
+      "JRPG",
+      "Metroidvania",
+      "RPG",
+      "Time Travel",
+      "Fantasy",
+      "Spectacle fighter",
+      "Action",
+      "Dragons",
+      "Swordplay",
+      "Demons",
+      "Gothic",
+      "Futuristic",
+      "Modern",
+      "Adventure",
+      "Mythology",
+      "Supernatural",
+      "Story Rich"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 29510,
+    "review_negative": 1507,
+    "review_total": 31017,
+    "review_positive_percent": 95.14
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "key": "i-was-a-teenage-exocolonist",
+  "name": "I Was a Teenage Exocolonist",
+  "description": "Spend your teenage years on an alien planet in this narrative RPG with card-based battles. Explore, grow up, and fall in love. The choices you make and skills you master over ten years will determine the course of your life and the survival of your colony.",
+  "developers": [
+    "Northway Games"
+  ],
+  "publishers": [
+    "Finji"
+  ],
+  "release_date": "2022-08-26",
+  "website": "http://exocolonist.com",
+  "tags": [
+    "indie",
+    "rpg",
+    "simulation",
+    "choices-matter",
+    "life-sim",
+    "dating-sim",
+    "deckbuilding",
+    "visual-novel",
+    "story-rich",
+    "choose-your-own-adventure",
+    "lgbtq",
+    "interactive-fiction",
+    "sci-fi",
+    "singleplayer",
+    "multiple-endings",
+    "card-game",
+    "futuristic",
+    "hand-drawn",
+    "management",
+    "turn-based"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Exocolonist.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Exocolonist",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Exocolonist.app\\Contents\\MacOS\\Exocolonist",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Exocolonist",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Exocolonist.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Exocolonist",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "I Was a Teenage Exocolonist",
+    "Exocolonist",
+    "Exocolonist.app\\Contents\\MacOS\\Exocolonist",
+    "Exocolonist.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1148760/9136de78ec879467be335bf3e7c8a2b3d8c86def.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148760/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148760/f73cb409703446ee8f26148b68ced91ed12de440/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148760/89ebafcc17cdcba800db1416b3ee7e761e494f4e/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148760/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148760/97a1d153cb9f8e0a5bab6d2f7a27d61eec66a643/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148760/ss_51bb6fd911e47a1ce0d9de11c73352f16f00ccfb.1920x1080.jpg?t=1781195881"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148760/ss_8702ee7c7fd83fab2001b82f4006d7421a84bef2.1920x1080.jpg?t=1781195881"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148760/ss_df294e979013f49656ef1bbe420c69d391eff149.1920x1080.jpg?t=1781195881"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148760/ss_0536752e14d6835fd33f08efcb4384378dd3fd8b.1920x1080.jpg?t=1781195881"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148760/ss_e8e4faf197f63627371c737b8ab9f1ce47c1ad32.1920x1080.jpg?t=1781195881"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148760/ss_8a2f71739bc866259c1c08c55cc9fa610a50f2b3.1920x1080.jpg?t=1781195881"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148760/ss_3d0c912636abf2d83d66a897fb80c9f3354fc20f.1920x1080.jpg?t=1781195881"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148760/ss_c8e45e56f9e5dc7daf26159e49656345daaf79f9.1920x1080.jpg?t=1781195881"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148760/ss_dfd0334d5194ba9711ff1c1eccc64aa6037bf74a.1920x1080.jpg?t=1781195881"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148760/ss_a3735a727b7e270274970eaaf1eeda782cb5a70e.1920x1080.jpg?t=1781195881"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256891257/620c527b02ee2bb9e63a72c990a8d1b8cabc7a19/movie_600x337.jpg?t=1781195881",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1148760/414918370/5b2f87a44ad94647b42eb796628a197161ebb9ad/1781194624/dash_h264.mpd?t=1781195881"
+    },
+    {
+      "name": "Age 10 Gameplay Footage w Music",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256905754/movie.293x165.jpg?t=1663116845",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1148760/496149/af75ef784a2f6cf2aa7b032dd18629b7b4dbbfc1/1750628405/dash_h264.mpd?t=1663116845"
+    }
+  ],
+  "metacritic": {
+    "score": 91,
+    "url": "https://www.metacritic.com/game/pc/i-was-a-teenage-exocolonist?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1148760,
+    "store_url": "https://store.steampowered.com/app/1148760/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Choices Matter",
+      "Life Sim",
+      "Dating Sim",
+      "Deckbuilding",
+      "Visual Novel",
+      "RPG",
+      "Story Rich",
+      "Choose Your Own Adventure",
+      "LGBTQ+",
+      "Interactive Fiction",
+      "Sci-fi",
+      "Singleplayer",
+      "Multiple Endings",
+      "Card Game",
+      "Simulation",
+      "Futuristic",
+      "Indie",
+      "Hand-drawn",
+      "Management",
+      "Turn-Based"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 4528,
+    "review_negative": 171,
+    "review_total": 4699,
+    "review_positive_percent": 96.36
+  }
+}

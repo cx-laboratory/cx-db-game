@@ -1,0 +1,225 @@
+{
+  "key": "deep-rock-galactic-survivor",
+  "name": "Deep Rock Galactic: Survivor",
+  "description": "DEEP ROCK GALACTIC: SURVIVOR is a single player survivor-like auto-shooter. Take on hordes of lethal aliens, mine riches, and unlock powerful upgrades to survive, as you wield the full arsenal of Deep Rock Galactic. It's one dwarf against all of Planet Hoxxes!",
+  "developers": [
+    "Funday Games"
+  ],
+  "publishers": [
+    "Ghost Ship Publishing"
+  ],
+  "release_date": "2025-09-17",
+  "website": "https://www.fundaygames.dk/drgs",
+  "tags": [
+    "action",
+    "dwarves",
+    "action-roguelike",
+    "bullet-heaven",
+    "roguelite",
+    "bullet-hell",
+    "top-down-shooter",
+    "pve",
+    "top-down",
+    "arena-shooter",
+    "procedural-generation",
+    "arcade",
+    "singleplayer",
+    "sci-fi",
+    "space",
+    "score-attack",
+    "aliens",
+    "atmospheric",
+    "combat",
+    "roguelike"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "dutch",
+    "hungarian",
+    "czech",
+    "turkish",
+    "brazilian",
+    "ukrainian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "深岩银河：幸存者"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "DRG Survivor.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Funday Games/DRG Survivor",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Funday Games/DRG Survivor/steam",
+          "pattern": "*.dat",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Deep Rock Galactic: Survivor",
+    "DRG Survivor",
+    "深岩银河：幸存者"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2321470/21c0012fc6c4419bad40b03ce6db571d2390642b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/82a1a92836c83b32f83ceb8bff5f9133efb98442/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/a2ce72a3dbecf702c584b0eac8037f4580e839b6/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/d6236fd2904bb4591fced780df4018a6392ade85/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_7580f5af5c21da17f7b19b92ca6c6acf8ffb4776.1920x1080.jpg?t=1780935538"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/8823cd46d53efa2bf15862c35ab511937e5cc1c6/ss_8823cd46d53efa2bf15862c35ab511937e5cc1c6.1920x1080.jpg?t=1780935538"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_8dc842e7bd24f6acfffc799117a1513589e02778.1920x1080.jpg?t=1780935538"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_abb2df34612b560519fcea9e62ef9ce0cd09d256.1920x1080.jpg?t=1780935538"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_c36f89fa1bfdc8ac2ef3a5fd4eee4e362da8614c.1920x1080.jpg?t=1780935538"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ed4969562fe30b76429ea11fe66de0edbb77f1da/ss_ed4969562fe30b76429ea11fe66de0edbb77f1da.1920x1080.jpg?t=1780935538"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_cee129fc32e71bb4182e6131bb3d12ac5a7c3fd0.1920x1080.jpg?t=1780935538"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_cc4f43ee2737dd2ff19865b0acf864021c2b2309.1920x1080.jpg?t=1780935538"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_c1d4c1087cbb5161964eca3808002a50eebb1a45.1920x1080.jpg?t=1780935538"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_f737208989f6762c428329c2e410b1150e80d565.1920x1080.jpg?t=1780935538"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_3fdd6046a760ad2921315d1f92d8186bef160908.1920x1080.jpg?t=1780935538"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_f5942c465d284ad3b4a875c0e3d12cca444d3781.1920x1080.jpg?t=1780935538"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/573913f0793a21135d0bfd9c8581027f43f543b8/ss_573913f0793a21135d0bfd9c8581027f43f543b8.1920x1080.jpg?t=1780935538"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/c44fa1fe2a1346a30f86b1447baab28349c60788/ss_c44fa1fe2a1346a30f86b1447baab28349c60788.1920x1080.jpg?t=1780935538"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257199628/e6a6e9e921816e5d07691aee78492dd51d2a6001/movie_600x337.jpg?t=1758177979",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2321470/1362435163/08f575bd5584259123600c82d91ea6f3b3bbe4f2/1758103181/dash_h264.mpd?t=1758177979"
+    },
+    {
+      "name": "Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256997966/movie.293x165.jpg?t=1706795883",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2321470/657286/c203b60b6750d59487795fb887a18bc755c88e73/1750811708/dash_h264.mpd?t=1706795883"
+    },
+    {
+      "name": "Update 4 Narrated Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257069024/2aef8ffd7a17e92c4ef1f49bd5226887876037f5/movie_600x337.jpg?t=1730122636",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2321470/778197/03101b151286167371152c41e9a64f23e2916473/1750811708/dash_h264.mpd?t=1730122636"
+    },
+    {
+      "name": "Narrated Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257000919/movie.293x165.jpg?t=1707911745",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2321470/662271/e0afc6936ab4b31668725217d6c2c5e23160f6c7/1750811708/dash_h264.mpd?t=1707911745"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2321470,
+    "store_url": "https://store.steampowered.com/app/2321470/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Dwarves",
+      "Action Roguelike",
+      "Bullet Heaven",
+      "Roguelite",
+      "Bullet Hell",
+      "Top-Down Shooter",
+      "PvE",
+      "Top-Down",
+      "Arena Shooter",
+      "Procedural Generation",
+      "Action",
+      "Arcade",
+      "Singleplayer",
+      "Sci-fi",
+      "Space",
+      "Score Attack",
+      "Aliens",
+      "Atmospheric",
+      "Combat",
+      "Roguelike"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 41254,
+    "review_negative": 6553,
+    "review_total": 47807,
+    "review_positive_percent": 86.29
+  }
+}

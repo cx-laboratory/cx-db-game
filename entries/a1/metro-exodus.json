@@ -1,0 +1,254 @@
+{
+  "key": "metro-exodus",
+  "name": "Metro Exodus",
+  "description": "Flee the shattered ruins of the Moscow Metro and embark on an epic, continent-spanning journey across the post-apocalyptic Russian wilderness. Explore vast, non-linear levels, lose yourself in an immersive, sandbox survival experience, and follow a thrilling story-line that spans an entire year in the greatest Metro adventure yet.",
+  "developers": [
+    "4A Games"
+  ],
+  "publishers": [
+    "Deep Silver"
+  ],
+  "release_date": "2020-02-15",
+  "website": "http://metrothegame.com/",
+  "tags": [
+    "action",
+    "post-apocalyptic",
+    "fps",
+    "singleplayer",
+    "open-world",
+    "story-rich",
+    "atmospheric",
+    "horror",
+    "first-person",
+    "survival",
+    "shooter",
+    "adventure",
+    "stealth",
+    "exploration",
+    "great-soundtrack",
+    "violent",
+    "gore",
+    "multiplayer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian",
+    "ukrainian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "地铁：离乡",
+    "tchinese": "戰慄深隧：流亡",
+    "koreana": "메트로 엑소더스",
+    "japanese": "メトロ エクソダス"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "MetroExodus.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "SDK/bin_x64/Exodus_SDK.exe",
+          "description": "Launch Exodus SDK",
+          "type": "editor"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "MetroExodus.app",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "MetroExodus",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Metro Exodus",
+    "MetroExodus",
+    "SDK/bin_x64/Exodus_SDK",
+    "MetroExodus.app",
+    "地铁：离乡",
+    "戰慄深隧：流亡",
+    "메트로 엑소더스",
+    "メトロ エクソダス"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/412020/f9863ed0ffc717b130744488f088ae95fe6e9bd8.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412020/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412020/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412020/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412020/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412020/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412020/ss_f0297eacbfb4266f311a8cb4137e4ef8b7cdd00b.1920x1080.jpg?t=1750772804"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412020/ss_bd875dbf865e70cda73a7cd6b132cadacfdb768b.1920x1080.jpg?t=1750772804"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412020/ss_7ef17676a804b0d646c38583ba0f68f33b3f3d9e.1920x1080.jpg?t=1750772804"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412020/ss_23815433fdd4a63064da79222fdefb569eeafaba.1920x1080.jpg?t=1750772804"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412020/ss_4613c0b4d861ac5dbbac9a1e06a8abecfa3b34d5.1920x1080.jpg?t=1750772804"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412020/ss_a142b2ad182bce7032a9a3d46216080feb76a3f6.1920x1080.jpg?t=1750772804"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412020/ss_76733d65d429aed586ef02772297efbf8bf45a22.1920x1080.jpg?t=1750772804"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412020/ss_f0f073a59827827ab32960ae280f178b4d89732b.1920x1080.jpg?t=1750772804"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412020/ss_a19efaf5f0a6279be0e64815b8dd4534b76bb334.1920x1080.jpg?t=1750772804"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412020/ss_46cdfb7cda6e1ca0873e93b2133d277ba2191e32.1920x1080.jpg?t=1750772804"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412020/ss_f7d9823413127514fd0515f6082db3ef55f2cf07.1920x1080.jpg?t=1750772804"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412020/ss_a79862bd471f54bf47ef46b783c3cc9c1341e813.1920x1080.jpg?t=1750772804"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412020/ss_2f9ec7b918c28b2b57fd5cb4b5be061a6e59a863.1920x1080.jpg?t=1750772804"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Metro Enhanced Uncovered - ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256833670/movie.293x165.jpg?t=1622105839",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/412020/367730/d12ab0a984d079921fa2463d5ebfb0b65a65865e/1750530039/dash_h264.mpd?t=1622105839"
+    },
+    {
+      "name": "Weapons Trailer_US ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256741048/movie.293x165.jpg?t=1548429092",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/412020/205673/3b70e94423211c418fed9d0a94e3e2e4024d6a06/1750527435/dash_h264.mpd?t=1548429092"
+    },
+    {
+      "name": "Metro Story_US",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256739979/movie.293x165.jpg?t=1548170238",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/412020/203720/7591b26f3c43d8b1eca07d54e72cfd6e6e710be4/1750527356/dash_h264.mpd?t=1548170238"
+    },
+    {
+      "name": "Title Sequence ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256738280/movie.293x165.jpg?t=1548170251",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/412020/200760/d78e78a7a33dc1a6b7c567cf833a618b67975552/1750527332/dash_h264.mpd?t=1548170251"
+    },
+    {
+      "name": "Announce Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256686919/movie.293x165.jpg?t=1534786964",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/412020/106908/c36887c514f110becdbd3722d923a50ec1e16da2/1750529916/dash_h264.mpd?t=1534786964"
+    },
+    {
+      "name": "Aurora ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256703190/movie.293x165.jpg?t=1534786968",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/412020/137076/b897288f50ae252edfb25796e27e5d7117f45a70/1750527153/dash_h264.mpd?t=1534786968"
+    },
+    {
+      "name": "GAMESCOM ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256726250/movie.293x165.jpg?t=1534786977",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/412020/180041/870d530f9c2e91edcdbcb3501e3d125f3e6314bd/1750527271/dash_h264.mpd?t=1534786977"
+    },
+    {
+      "name": "Metro Exodus - E3 2018 Gameplay Trailer - ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256719544/movie.293x165.jpg?t=1528812184",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/412020/167780/22ea77cc64888fbe561b36c64f8cc3bdb942ef8f/1750527259/dash_h264.mpd?t=1528812184"
+    }
+  ],
+  "metacritic": {
+    "score": 85,
+    "url": "https://www.metacritic.com/game/pc/metro-exodus-complete-edition?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 412020,
+    "store_url": "https://store.steampowered.com/app/412020/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Post-apocalyptic",
+      "FPS",
+      "Singleplayer",
+      "Open World",
+      "Story Rich",
+      "Atmospheric",
+      "Action",
+      "Horror",
+      "First-Person",
+      "Survival",
+      "Shooter",
+      "Adventure",
+      "Stealth",
+      "Exploration",
+      "Survival Horror",
+      "Great Soundtrack",
+      "Violent",
+      "Gore",
+      "Multiplayer",
+      "Psychological Horror"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 120018,
+    "review_negative": 13389,
+    "review_total": 133407,
+    "review_positive_percent": 89.96
+  }
+}

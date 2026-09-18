@@ -1,0 +1,164 @@
+{
+  "key": "warframe",
+  "name": "Warframe",
+  "description": "Awaken as an unstoppable warrior and battle alongside your friends in this story-driven free-to-play online action game",
+  "developers": [
+    "Digital Extremes"
+  ],
+  "publishers": [
+    "Digital Extremes"
+  ],
+  "release_date": "2013-03-26",
+  "website": "http://www.warframe.com",
+  "tags": [
+    "action",
+    "rpg",
+    "free-to-play",
+    "multiplayer",
+    "co-op",
+    "online-co-op"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "polish",
+    "turkish",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "Warframe 星际战甲"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Tools/Launcher.exe",
+          "description": "Play",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Warframe",
+    "Tools/Launcher",
+    "Warframe 星际战甲"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/230410/22064646470f4c53388ba87774c7ac10f0a91ffa.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/a000b4bf98dde5d51cd44206f1ac21d04841017e/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/e0b104aeb9dc8c563cacc84b114bc48ba416f28e/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/2c0bfd80883c15c57f995b7007c15d439e7dd0fc/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/6a19cbb607a7f26f641d021978b4f5bf18cb9c7e/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/e0d16872f9f98253590b6ccbb7d70c63716d4583/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/ss_2e4077f215eccde84171a4b8e0f2bc8a3264c776.1920x1080.jpg?t=1782241202"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/ss_0a541a8bf59e212870ea8d82260ac1b3ae2d0354.1920x1080.jpg?t=1782241202"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/ss_ce00a212a29e9a6c1fc37b16dbd802b2844a901d.1920x1080.jpg?t=1782241202"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/ss_29355e0546599c72002b34b42fe952329df61c2e.1920x1080.jpg?t=1782241202"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/ss_e1d1bfebe225c85ea284ffecfe279c2695ddf3a5.1920x1080.jpg?t=1782241202"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/ss_b06620c448c51d2bc5b71144a184da9ba37b703e.1920x1080.jpg?t=1782241202"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Warframe | Jade Shadows: Constellations Official Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257360638/27184ecb058e320207cb90ca4827616de78e3f28/movie_600x337.jpg?t=1781709564",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/230410/1805733905/334f64957d47e451df8854e0840da5ca03329ecc/1781634802/dash_h264.mpd?t=1781709564"
+    },
+    {
+      "name": "Warframe: Wake Up, Tenno (featuring Werner Herzog)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257246819/59bc0fc536f846e9f59fecf89bc4be01d3b88577/movie_600x337.jpg?t=1765508205",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/230410/160012719/eca41bedd450abcc4200c0e166e02068bef8a26a/1765393015/dash_h264.mpd?t=1765508205"
+    },
+    {
+      "name": "The Shadowgrapher Trailer ",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257308474/641acc06c44474f43791d52e08ee06a543e9b67f/movie_600x337.jpg?t=1774451710",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/230410/1955828003/fb2f20b2adc7e8d0bd0587dbe065b0ff7e54e84d/1774375579/dash_h264.mpd?t=1774451710"
+    },
+    {
+      "name": "Warframe The Old Peace Official Gameplay Trailer ",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257245955/e714553f8be6131d981bffce928d16133e504d7d/movie_600x337.jpg?t=1765384565",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/230410/653695401/9794e6770ab8ab566ebca02b8b5763f58b55462a/1765303267/dash_h264.mpd?t=1765384565"
+    }
+  ],
+  "metacritic": {
+    "score": 69,
+    "url": "https://www.metacritic.com/game/pc/warframe?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 230410,
+    "store_url": "https://store.steampowered.com/app/230410/",
+    "required_age": 17,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "RPG",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "In-App Purchases",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Input API Support",
+      "Stereo Sound",
+      "Surround Sound",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "HDR available"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": false,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 586592,
+    "review_negative": 81979,
+    "review_total": 668571,
+    "review_positive_percent": 87.74
+  }
+}

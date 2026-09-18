@@ -1,0 +1,230 @@
+{
+  "key": "rogue-legacy",
+  "name": "Rogue Legacy",
+  "description": "Rogue Legacy is a genealogical rogue-&quot;LITE&quot; where anyone can be a hero. Each time you die, your child will succeed you. Every child is unique. One child might be colorblind, another might be a dwarf with vertigo. But that's OK, because no one is perfect, and you don't have to be to succeed.",
+  "developers": [
+    "Cellar Door Games"
+  ],
+  "publishers": [
+    "Cellar Door Games"
+  ],
+  "release_date": "2013-06-27",
+  "website": "http://www.roguelegacy.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "platformer",
+    "roguelike",
+    "action-roguelike",
+    "singleplayer",
+    "2d",
+    "metroidvania",
+    "roguelite",
+    "pixel-graphics",
+    "side-scroller",
+    "fantasy",
+    "controller",
+    "arcade",
+    "addictive",
+    "medieval",
+    "exploration",
+    "difficult"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "spanish",
+    "schinese",
+    "russian",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "RogueLegacy.exe",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": ".\\RogueMod\\ZorsLegacy.exe",
+          "description": "The Lament of Zors Mod by default0",
+          "type": "option2"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "SavedGames/RogueLegacy/RogueLegacyStorageContainer/AllPlayers",
+          "pattern": "*.rcdat",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Rogue Legacy.app/Contents/MacOS/RogueLegacy",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "SavedGames/RogueLegacy/RogueLegacyStorageContainer/AllPlayers",
+          "pattern": "*.rcdat",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "./RogueLegacy",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "SavedGames/RogueLegacy/RogueLegacyStorageContainer/AllPlayers",
+          "pattern": "*.rcdat",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Rogue Legacy",
+    "RogueLegacy",
+    ".\\RogueMod\\ZorsLegacy",
+    "Rogue Legacy.app/Contents/MacOS/RogueLegacy",
+    "./RogueLegacy"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/241600/15272c0c114b2c715e1baf0cca44319deae74731.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_42804c992b120b548816f72ddbf4d4029df45063.1920x1080.jpg?t=1743078622"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_50f6fb74c984beebd86bf33a988c6c3ca09bed84.1920x1080.jpg?t=1743078622"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_837c7b3ada2265a0f40d48138111a02a5ce4fb22.1920x1080.jpg?t=1743078622"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_1240a41810b577a678c7ef6f831eb385e178c5e4.1920x1080.jpg?t=1743078622"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_c9130e321806fd0100db3fdacccf75437da00bb1.1920x1080.jpg?t=1743078622"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_9ebf5ab75856d9d6ea9cb82d1af668f1f953db77.1920x1080.jpg?t=1743078622"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_5680e84beea07396c7cc287c0a61de7273296874.1920x1080.jpg?t=1743078622"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_83fd8ec5d72359d674c291b562144c4200bc644b.1920x1080.jpg?t=1743078622"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_fb2ffc96c48196ed29c354b2889a5448d56fdf4f.1920x1080.jpg?t=1743078622"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_4ae3c92dd271cb861f1e499702e635e58c691d84.1920x1080.jpg?t=1743078622"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_205e70a6375172ec92e1c62473a60b8af1844bce.1920x1080.jpg?t=1743078622"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_6fe08a3479cd00c7aa08d69be21e83200f757435.1920x1080.jpg?t=1743078622"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_7c77cfccf48d6d416c45796c529cb31d0632c048.1920x1080.jpg?t=1743078622"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Rogue Legacy Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028853/movie.293x165.jpg?t=1447358199",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/241600/12118/053db8cce54f51069e0f2e24f68bde1bb8ef8f3b/1750486251/dash_h264.mpd?t=1447358199"
+    }
+  ],
+  "metacritic": {
+    "score": 85,
+    "url": "https://www.metacritic.com/game/pc/rogue-legacy?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 241600,
+    "store_url": "https://store.steampowered.com/app/241600/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Gamepad Recommended",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Platformer",
+      "Roguelike",
+      "Indie",
+      "Action Roguelike",
+      "Action",
+      "Singleplayer",
+      "2D",
+      "Metroidvania",
+      "RPG",
+      "Roguelite",
+      "Pixel Graphics",
+      "Side Scroller",
+      "Fantasy",
+      "Controller",
+      "Arcade",
+      "Addictive",
+      "Adventure",
+      "Medieval",
+      "Exploration",
+      "Difficult"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 17316,
+    "review_negative": 1410,
+    "review_total": 18726,
+    "review_positive_percent": 92.47
+  }
+}

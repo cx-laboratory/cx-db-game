@@ -1,0 +1,261 @@
+{
+  "key": "the-escapists-2",
+  "name": "The Escapists 2",
+  "description": "Craft, Steal, Brawl and Escape! It’s time to bust out of the toughest prisons in the world as you return to the life of an inmate in The Escapists 2, now with multiplayer! Have you got what it takes to escape?",
+  "developers": [
+    "Team17"
+  ],
+  "publishers": [
+    "Team17"
+  ],
+  "release_date": "2017-08-22",
+  "website": "https://www.team17.com/games/the-escapists-2/",
+  "tags": [
+    "indie",
+    "simulation",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "split-screen",
+    "pixel-graphics",
+    "2d",
+    "local-multiplayer",
+    "crafting",
+    "singleplayer",
+    "sandbox",
+    "stealth",
+    "character-customization",
+    "funny",
+    "puzzle",
+    "open-world",
+    "action",
+    "difficult"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "russian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "TheEscapists2.exe",
+          "description": "Launch with default",
+          "type": "default"
+        },
+        {
+          "executable": "TheEscapists2.exe",
+          "description": "The Escapists 2 (DirectX 9)",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Saves/{64BitSteamID}",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "TheEscapists2.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Saves/{64BitSteamID}",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "TheEscapists2.x86",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "TheEscapists2.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Saves/{64BitSteamID}",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The Escapists 2",
+    "TheEscapists2",
+    "TheEscapists2.app",
+    "TheEscapists2.x86",
+    "TheEscapists2.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/641990/c1d2bb67884d14088b7befc3d442df6eb801cd13.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_4c06641e551c04e72abb54d3c190233ff02c05ca.1920x1080.jpg?t=1764006025"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_75c9e0c479c4fb6cc2a40686685ed26d0488f332.1920x1080.jpg?t=1764006025"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_2bb6149a553bbc28c85a624f7628f18fb1573860.1920x1080.jpg?t=1764006025"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_797e85fff36b0c2f5da3caa5028132ab52f3c97c.1920x1080.jpg?t=1764006025"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_84fff3cb6e8306970c8b2fbe7210552646b6f2b2.1920x1080.jpg?t=1764006025"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_d74be4a2cc7e25873607d8292775002468f09bc5.1920x1080.jpg?t=1764006025"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_5834c153aeeea9c574af95a0d60de9ea148063a9.1920x1080.jpg?t=1764006025"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_fbe51beaf5081f76a1319c99f79793ee6beff01a.1920x1080.jpg?t=1764006025"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_83de34c51055759a4dfdb5bedca6b488a723b56c.1920x1080.jpg?t=1764006025"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_134045d5dea19e087095399246a11e846e84a592.1920x1080.jpg?t=1764006025"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_3e2919ba1f41a32e95c3df99222c441567fa02ac.1920x1080.jpg?t=1764006025"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_1cd75b9d80bfabe8dddf26b9af08eb10dfcc2ecc.1920x1080.jpg?t=1764006025"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_f365ece08877bc0edb7b5b328c1e6b935fd760d5.1920x1080.jpg?t=1764006025"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256694499/movie.293x165.jpg?t=1504542318",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/641990/121340/4ad73b5dd18eefdd14d32011688832de58ae99cd/1750565967/dash_h264.mpd?t=1504542318"
+    },
+    {
+      "name": "Santa's Shakedown Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256703598/movie.293x165.jpg?t=1513178847",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/641990/137775/655895ee4e5789ad3faf4458a6f7d6f8f4d6dbd7/1750565970/dash_h264.mpd?t=1513178847"
+    },
+    {
+      "name": "The Escapists 2 - Multiplayer Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256689565/movie.293x165.jpg?t=1499788850",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/641990/112322/a1a422551c2a4c4ecdbbdb3e2148fe046aefcb34/1750565964/dash_h264.mpd?t=1499788850"
+    },
+    {
+      "name": "The Escapists 2 - Old West Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256689574/movie.293x165.jpg?t=1499788861",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/641990/112338/929957fe412ee69f42ace29d26d75ebac9e04206/1750565966/dash_h264.mpd?t=1499788861"
+    }
+  ],
+  "metacritic": {
+    "score": 75,
+    "url": "https://www.metacritic.com/game/pc/the-escapists-2?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 641990,
+    "store_url": "https://store.steampowered.com/app/641990/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Strategy",
+      "Pixel Graphics",
+      "Online Co-Op",
+      "Co-op",
+      "2D",
+      "Local Co-Op",
+      "Crafting",
+      "Simulation",
+      "Singleplayer",
+      "Indie",
+      "Sandbox",
+      "Stealth",
+      "Split Screen",
+      "Character Customization",
+      "Funny",
+      "Puzzle",
+      "Open World",
+      "Action",
+      "Difficult"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 30381,
+    "review_negative": 3166,
+    "review_total": 33547,
+    "review_positive_percent": 90.56
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "key": "far-cry",
+  "name": "Far Cry",
+  "description": "A tropical paradise seethes with hidden evil in Far Cry®, a cunningly detailed action shooter that pushes the boundaries of combat to shocking new levels. Freelance mariner Jack Carver is cursing the day he ever came to this island.",
+  "developers": [
+    "Crytek Studios"
+  ],
+  "publishers": [
+    "Ubisoft"
+  ],
+  "release_date": "2008-04-01",
+  "website": "http://www.farcrygame.com/",
+  "tags": [
+    "action"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "French"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Bin32\\FarCry.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Bin32\\FarCryConfigurator.exe",
+          "description": "Launch FarCry Config",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Far Cry",
+    "Bin32\\FarCry",
+    "Bin32\\FarCryConfigurator"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/13520/76f5a80c061ffb5553619fc2b54e6e3a44dfd0fb.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/13520/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/13520/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/13520/capsule_231x87.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/13520/0000003757.1920x1080.jpg?t=1602602361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/13520/0000003758.1920x1080.jpg?t=1602602361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/13520/0000003759.1920x1080.jpg?t=1602602361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/13520/0000003760.1920x1080.jpg?t=1602602361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/13520/0000003761.1920x1080.jpg?t=1602602361"
+    }
+  ],
+  "videos": [],
+  "metacritic": {
+    "score": 89,
+    "url": "https://www.metacritic.com/game/pc/far-cry?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 13520,
+    "store_url": "https://store.steampowered.com/app/13520/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 9477,
+    "review_negative": 2102,
+    "review_total": 11579,
+    "review_positive_percent": 81.85
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "key": "montaro",
+  "name": "Montaro",
+  "description": "Montaro is a DOGE.",
+  "developers": [
+    "JCKSLAP"
+  ],
+  "publishers": [
+    "02GAMES"
+  ],
+  "release_date": "2016-07-26",
+  "website": "https://twitter.com/Montaro2016",
+  "tags": [
+    "casual",
+    "indie",
+    "memes",
+    "cute",
+    "anime",
+    "pixel-graphics",
+    "dogs",
+    "runner",
+    "2d",
+    "platformer",
+    "great-soundtrack",
+    "funny",
+    "singleplayer",
+    "side-scroller",
+    "comedy",
+    "walking-simulator",
+    "atmospheric",
+    "action",
+    "retro",
+    "story-rich"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "nw.exe",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "nw.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Montaro",
+    "nw"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/495890/c0034933ea83d21fd3eaa815c3e0d538704aa9a1.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495890/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495890/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495890/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495890/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495890/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495890/ss_68d47ccf2ce595f14d7736dbc967345938fdeeeb.1920x1080.jpg?t=1710320023"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495890/ss_0dcdcb2a853cccafd67018c4dd2c7435829a810a.1920x1080.jpg?t=1710320023"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495890/ss_00fe8813121e1e7e71ad4dbe4666c595d5228faa.1920x1080.jpg?t=1710320023"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495890/ss_bc0c29a828cafa15d1756a2bb3cad723d68beded.1920x1080.jpg?t=1710320023"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495890/ss_b7a3f3963d8027a68f444fc653653e7f5326d87e.1920x1080.jpg?t=1710320023"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495890/ss_1572b17c6a61aba6388cecdfc4964e6a9c5328c4.1920x1080.jpg?t=1710320023"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256667414/movie.293x165.jpg?t=1469479277",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/495890/65746/528db45b458adec570ff8cab0f1dfbec6b3d628a/1751292851/dash_h264.mpd?t=1469479277"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 495890,
+    "store_url": "https://store.steampowered.com/app/495890/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Memes",
+      "Cute",
+      "Anime",
+      "Casual",
+      "Indie",
+      "Pixel Graphics",
+      "Dogs",
+      "Runner",
+      "2D",
+      "Platformer",
+      "Great Soundtrack",
+      "Funny",
+      "Singleplayer",
+      "Side Scroller",
+      "Comedy",
+      "Walking Simulator",
+      "Atmospheric",
+      "Action",
+      "Retro",
+      "Story Rich"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 11586,
+    "review_negative": 599,
+    "review_total": 12185,
+    "review_positive_percent": 95.08
+  }
+}

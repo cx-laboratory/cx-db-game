@@ -1,0 +1,202 @@
+{
+  "key": "the-roottrees-are-dead",
+  "name": "The Roottrees are Dead",
+  "description": "A genealogical mystery straight out of 1998. Scour the early Internet for clues, uncover hidden connections, and piece together the family tree behind the secretive Roottree Corporation.",
+  "developers": [
+    "Evil Trout Inc."
+  ],
+  "publishers": [
+    "Evil Trout Inc."
+  ],
+  "release_date": "2025-01-15",
+  "website": "https://roottrees.com/",
+  "tags": [
+    "adventure",
+    "detective",
+    "puzzle",
+    "mystery",
+    "point-and-click",
+    "investigation",
+    "atmospheric",
+    "story-rich",
+    "singleplayer",
+    "1990-s",
+    "logic",
+    "interactive-fiction",
+    "indie",
+    "retro",
+    "lgbtq",
+    "2d",
+    "casual",
+    "stylized",
+    "noir",
+    "immersive"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "schinese",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "鲁特里一家死了（The Roottrees are Dead）"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "roottrees.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "roottrees.exe",
+          "description": "The Roottrees are Dead (Compatibility)",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "*.save",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "roottrees.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "*.save",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "roottrees",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "*.save",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The Roottrees are Dead",
+    "roottrees",
+    "roottrees.app",
+    "鲁特里一家死了（The Roottrees are Dead）"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2754380/ff95a36ab76f41edffed9c006a7e56c91d3fa68f.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2754380/6c1be65b8ae88dead50e0fa854790245a2ac072a/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2754380/e352ff8c11e1a18254c62550b1128cb66e437c8e/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2754380/11e64b6a5e99de407c078b3c417a1c2ae2c31139/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2754380/27d13f577bc37803af7dd78bbe4d5c672f45e5f2/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2754380/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2754380/ss_fbdc2236369583a9123f2bcfc1bba1e915c62d02.1920x1080.jpg?t=1778766790"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2754380/ss_f7df5d0b71a2a7f8a84af945a6324c2e51c4965e.1920x1080.jpg?t=1778766790"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2754380/ss_6caf606c6def8bbb20d980a01523e454ff21f37b.1920x1080.jpg?t=1778766790"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2754380/ss_5fc8190017185b6cea6d16adb3f2406a4e8d85ac.1920x1080.jpg?t=1778766790"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2754380/258f24a85bf49228ff93b86de9d61e3bf1c562f7/ss_258f24a85bf49228ff93b86de9d61e3bf1c562f7.1920x1080.jpg?t=1778766790"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2754380/ss_46af3f849ea88cf01fa7c84772bdb0deba96e951.1920x1080.jpg?t=1778766790"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Official Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257061471/fedb66960fe7336c766707fda52e73de69493ccc/movie_600x337.jpg?t=1740619311",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2754380/766016/72fd6a3519606d94221c51abeafd1df8d4ee7b4e/1750819620/dash_h264.mpd?t=1740619311"
+    }
+  ],
+  "metacritic": {
+    "score": 86,
+    "url": "https://www.metacritic.com/game/pc/the-roottrees-are-dead?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 2754380,
+    "store_url": "https://store.steampowered.com/app/2754380/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Detective",
+      "Puzzle",
+      "Mystery",
+      "Point & Click",
+      "Investigation",
+      "Atmospheric",
+      "Story Rich",
+      "Singleplayer",
+      "1990's",
+      "Logic",
+      "Adventure",
+      "Interactive Fiction",
+      "Indie",
+      "Retro",
+      "LGBTQ+",
+      "2D",
+      "Casual",
+      "Stylized",
+      "Noir",
+      "Immersive"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 8741,
+    "review_negative": 299,
+    "review_total": 9040,
+    "review_positive_percent": 96.69
+  }
+}

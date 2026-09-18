@@ -1,0 +1,112 @@
+{
+  "key": "tom-clancys-splinter-cell-chaos-theory",
+  "name": "Tom Clancy's Splinter Cell: Chaos Theory",
+  "description": "Experience one of the most critically acclaimed stealth-action games of all time. Uncover a conspiracy that hits close to home and stop World War III.",
+  "developers": [
+    "Ubisoft Montreal"
+  ],
+  "publishers": [
+    "Ubisoft"
+  ],
+  "release_date": "2009-08-27",
+  "website": "http://splintercell.us.ubi.com/",
+  "tags": [
+    "action"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Italian"
+  ],
+  "name_localized": {
+    "japanese": "トム・クランシーシリーズ スプリンターセル カオスセオリー",
+    "koreana": "톰 클랜시의 스플린터 셀: 혼돈 이론",
+    "tchinese": "《縱橫諜海：混沌理論》",
+    "schinese": "细胞分裂：混沌理论"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "system\\splintercell3.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Tom Clancy's Splinter Cell: Chaos Theory",
+    "system\\splintercell3",
+    "トム・クランシーシリーズ スプリンターセル カオスセオリー",
+    "톰 클랜시의 스플린터 셀: 혼돈 이론",
+    "《縱橫諜海：混沌理論》",
+    "细胞分裂：混沌理论"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/13570/a76c218888e97127411c6fe16f1b98088d332d51.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/13570/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/13570/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/13570/capsule_231x87.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/13570/0000003892.1920x1080.jpg?t=1764776065"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/13570/0000003893.1920x1080.jpg?t=1764776065"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/13570/0000003987.1920x1080.jpg?t=1764776065"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/13570/0000003988.1920x1080.jpg?t=1764776065"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/13570/0000003989.1920x1080.jpg?t=1764776065"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Tom Clancy's Splinter Cell Chaos Theory™ Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99045/movie.jpg?t=1447351290",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/13570/1034/4282ebc3738459e3ea8cd7f4aaf16a40b2c1d48e/1750484526/dash_h264.mpd?t=1447351290"
+    }
+  ],
+  "metacritic": {
+    "score": 92,
+    "url": "http://www.metacritic.com/game/pc/tom-clancys-splinter-cell-chaos-theory"
+  },
+  "steam": {
+    "appid": 13570,
+    "store_url": "https://store.steampowered.com/app/13570/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 5323,
+    "review_negative": 401,
+    "review_total": 5724,
+    "review_positive_percent": 92.99
+  }
+}

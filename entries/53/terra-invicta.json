@@ -1,0 +1,225 @@
+{
+  "key": "terra-invicta",
+  "name": "Terra Invicta",
+  "description": "An alien invasion has fractured humanity into seven ideological factions each with a unique vision for the future. Lead your chosen faction to take control of Earth’s nations, expand across the Solar System, and battle enemy fleets in tactical combat.",
+  "developers": [
+    "Pavonis Interactive"
+  ],
+  "publishers": [
+    "Hooded Horse"
+  ],
+  "release_date": "2026-01-06",
+  "website": "https://www.pavonisinteractive.com/",
+  "tags": [
+    "simulation",
+    "strategy",
+    "grand-strategy",
+    "4x",
+    "historical",
+    "war",
+    "economy",
+    "turn-based-strategy",
+    "tactical",
+    "management",
+    "diplomacy",
+    "sandbox",
+    "military",
+    "alternate-history",
+    "singleplayer",
+    "moddable",
+    "real-time-with-pause",
+    "space",
+    "turn-based",
+    "replay-value"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "czech",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "地球不屈 Terra Invicta",
+    "tchinese": "地球不屈 Terra Invicta",
+    "koreana": "Terra Invicta 테라 인빅타  ",
+    "japanese": "Terra Invicta テラ・インヴィクタ  "
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "TerraInvicta.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "TerraInvicta.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "TerraInvicta.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "TerraInvicta.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "TerraInvicta.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/TerraInvicta/Saves/",
+          "pattern": "*.json",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/TerraInvicta/Saves/",
+          "pattern": "*.gz",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Terra Invicta",
+    "TerraInvicta",
+    "地球不屈 Terra Invicta",
+    "Terra Invicta 테라 인빅타",
+    "Terra Invicta テラ・インヴィクタ"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1176470/8c5e5f5252c5fd85b3327c4faca2d30832ecdeb1.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1176470/9423aad2c3bea9a6a0d135e85140ca7e0a2dd804/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1176470/fce27a17721e0d8f2fff4ee712a497ed66bb1432/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1176470/89b1d70fa23a270b6b038d256a70508f264b1583/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1176470/042a544173a5c1b0c46a13d1e7c0392f87cfcd5a/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1176470/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1176470/3e74bfa6d6e51bbf8565e9b7e8e477d86f99a90b/ss_3e74bfa6d6e51bbf8565e9b7e8e477d86f99a90b.1920x1080.jpg?t=1783065877"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1176470/57124594131cb290745468a20f58b19cfea6cb8e/ss_57124594131cb290745468a20f58b19cfea6cb8e.1920x1080.jpg?t=1783065877"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1176470/b26f5a0da1cdd1e514f2ab0d70d8fa965cce4a3a/ss_b26f5a0da1cdd1e514f2ab0d70d8fa965cce4a3a.1920x1080.jpg?t=1783065877"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1176470/81b701b1039af424c0e5877ea092c78744d69479/ss_81b701b1039af424c0e5877ea092c78744d69479.1920x1080.jpg?t=1783065877"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1176470/4f24b34615b31b986e37db4a78d3ab2d34be8ddd/ss_4f24b34615b31b986e37db4a78d3ab2d34be8ddd.1920x1080.jpg?t=1783065877"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1176470/b92c66bef9eb26ce350f6961c29d4e4bb50c624f/ss_b92c66bef9eb26ce350f6961c29d4e4bb50c624f.1920x1080.jpg?t=1783065877"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1176470/5ef604e44d0ff0fea227da8a779641fa270283e6/ss_5ef604e44d0ff0fea227da8a779641fa270283e6.1920x1080.jpg?t=1783065877"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1176470/b271e7628f86f9e40a45990f93c5b162df39c15c/ss_b271e7628f86f9e40a45990f93c5b162df39c15c.1920x1080.jpg?t=1783065877"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1176470/2fc05e2ce502d85a0bb46acf260896b24cd5ae7e/ss_2fc05e2ce502d85a0bb46acf260896b24cd5ae7e.1920x1080.jpg?t=1783065877"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1176470/98e89a120d9568f6c14a1709d0a646ff36953e8f/ss_98e89a120d9568f6c14a1709d0a646ff36953e8f.1920x1080.jpg?t=1783065877"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257250831/2b9b6e9ed8e65e07c32609a550c1ead22b0d8b2c/movie_600x337.jpg?t=1767636148",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1176470/204087786/3dc6e265d2382df2773b214f067b968d9fec2950/1765892360/dash_h264.mpd?t=1767636148"
+    },
+    {
+      "name": "Factions Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256852624/3a2882d5578ca639b1a54026dfdfae0d88a23349/movie_600x337.jpg?t=1743008324",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1176470/403219/64b588d3fde963adf6bd84b04841c26dfed5cae6/1750634478/dash_h264.mpd?t=1743008324"
+    }
+  ],
+  "metacritic": {
+    "score": 83,
+    "url": "https://www.metacritic.com/game/pc/terra-invicta?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1176470,
+    "store_url": "https://store.steampowered.com/app/1176470/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "Simulation",
+      "Grand Strategy",
+      "4X",
+      "Historical",
+      "War",
+      "Economy",
+      "Turn-Based Strategy",
+      "Tactical",
+      "Management",
+      "Diplomacy",
+      "Sandbox",
+      "Military",
+      "Alternate History",
+      "Singleplayer",
+      "Moddable",
+      "Real-Time with Pause",
+      "Space",
+      "Turn-Based",
+      "Replay Value"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7592,
+    "review_negative": 1830,
+    "review_total": 9422,
+    "review_positive_percent": 80.58
+  }
+}

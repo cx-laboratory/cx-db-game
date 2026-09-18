@@ -1,0 +1,225 @@
+{
+  "key": "subnautica-below-zero",
+  "name": "Subnautica: Below Zero",
+  "description": "Dive into a freezing underwater adventure on an alien planet. Below Zero is set two years after the original Subnautica. Return to Planet 4546B to uncover the truth behind a deadly cover-up. Survive by building habitats, crafting tools, &amp; diving deeper into the world of Subnautica.",
+  "developers": [
+    "Unknown Worlds Entertainment"
+  ],
+  "publishers": [
+    "Unknown Worlds Entertainment"
+  ],
+  "release_date": "2021-05-14",
+  "website": "https://unknownworlds.com/subnautica",
+  "tags": [
+    "adventure",
+    "indie",
+    "open-world-survival-craft",
+    "survival",
+    "underwater",
+    "singleplayer",
+    "open-world",
+    "horror",
+    "exploration",
+    "multiplayer",
+    "base-building",
+    "crafting",
+    "first-person",
+    "sci-fi",
+    "aliens",
+    "action",
+    "story-rich",
+    "atmospheric",
+    "sandbox"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "hungarian",
+    "czech",
+    "turkish",
+    "brazilian",
+    "greek",
+    "ukrainian",
+    "latam"
+  ],
+  "name_localized": {
+    "koreana": "서브노티카: 빌로우 제로",
+    "japanese": "サブノーティカ：ビロウゼロ",
+    "schinese": "深海迷航：冰点之下",
+    "tchinese": "深海迷航 : 氷點之下"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SubnauticaZero.exe",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "Subnautica32.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "SNAppData/SavedGames",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "SubnauticaZero.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "SNAppData/SavedGames",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Subnautica: Below Zero",
+    "SubnauticaZero",
+    "Subnautica32",
+    "SubnauticaZero.app",
+    "서브노티카: 빌로우 제로",
+    "サブノーティカ：ビロウゼロ",
+    "深海迷航：冰点之下",
+    "深海迷航 : 氷點之下"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/848450/eae16718327a78d87ac7ae61db96729926c97a16.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848450/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848450/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848450/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848450/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848450/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848450/ss_5011daad83f8494eda0826e4bbc91181239ad5d7.1920x1080.jpg?t=1777456254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848450/ss_69bdcf6ce29ba61650f0b2551a3494af67be09ac.1920x1080.jpg?t=1777456254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848450/ss_3c3403337b972d4913e3a6b4f34e0f47e484c042.1920x1080.jpg?t=1777456254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848450/ss_5bc21362aa200d08fe25203cbe50debedd8f11a3.1920x1080.jpg?t=1777456254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848450/ss_9e3d6ab0db5442f7bcbeb923da47d3a80023f50f.1920x1080.jpg?t=1777456254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848450/ss_e5c0f0272552f4aff9129ce3683131bdabd5983c.1920x1080.jpg?t=1777456254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848450/ss_4175a9e5b1533698856493140038643f2f4669b5.1920x1080.jpg?t=1777456254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848450/ss_a0686edd0106fa67746037a29a9846b8448dff0c.1920x1080.jpg?t=1777456254"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848450/ss_633db996460f37a755b4e03ad9c9804907ab2478.1920x1080.jpg?t=1777456254"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256830049/movie.293x165.jpg?t=1618322274",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/848450/361258/82151770fcaf7d6667a364a76c0f16b836513514/1750588821/dash_h264.mpd?t=1618322274"
+    },
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256835066/movie.293x165.jpg?t=1621298702",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/848450/370296/72e48280c02527eabc26268a9546ac5a79a9d7f5/1750588828/dash_h264.mpd?t=1621298702"
+    },
+    {
+      "name": "Early Access",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256741728/movie.293x165.jpg?t=1548871336",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/848450/206949/33d14d469086c6fdfbec5c894eded2bfdb4946fd/1750588821/dash_h264.mpd?t=1548871336"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 848450,
+    "store_url": "https://store.steampowered.com/app/848450/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Open World Survival Craft",
+      "Survival",
+      "Underwater",
+      "Singleplayer",
+      "Open World",
+      "Horror",
+      "Exploration",
+      "Multiplayer",
+      "Base Building",
+      "Adventure",
+      "Indie",
+      "Crafting",
+      "First-Person",
+      "Survival Horror",
+      "Sci-fi",
+      "Aliens",
+      "Action",
+      "Story Rich",
+      "Atmospheric",
+      "Sandbox"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 96766,
+    "review_negative": 10618,
+    "review_total": 107384,
+    "review_positive_percent": 90.11
+  }
+}

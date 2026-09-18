@@ -1,0 +1,169 @@
+{
+  "key": "leaf-blower-revolution-idle-game",
+  "name": "Leaf Blower Revolution - Idle Game",
+  "description": "Blow leaves, upgrade your gear, and automate your progress as you explore the Leaf Universe. A satisfying incremental idle game where every leaf blown brings you closer to the next big upgrade. Simple, relaxing, and endlessly rewarding. Let the leaves fall, and your progress rise!",
+  "developers": [
+    "Humble North"
+  ],
+  "publishers": [
+    "Humble North"
+  ],
+  "release_date": "2020-12-04",
+  "website": "https://humblenorth.de",
+  "tags": [
+    "casual",
+    "indie",
+    "free-to-play",
+    "incremental",
+    "idler",
+    "crafting",
+    "pixel-graphics",
+    "collectathon",
+    "relaxing",
+    "funny",
+    "2d",
+    "exploration",
+    "farming-sim",
+    "top-down",
+    "colorful",
+    "physics",
+    "atmospheric",
+    "multiplayer",
+    "singleplayer",
+    "great-soundtrack"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Polish",
+    "Russian",
+    "Slovenian"
+  ],
+  "name_localized": {
+    "schinese": "吹叶机革命：放置游戏"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "game.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "SavesDir",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Leaf Blower Revolution - Idle Game",
+    "game"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1468260/2d4f99c08afe2e11673db964da768953e752a0fc.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468260/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468260/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468260/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468260/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468260/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468260/ss_8769e7aaf17dc9d65e77bae68311f8e01ad33747.1920x1080.jpg?t=1724051263"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468260/ss_686111de84838eea950053561d92f7a118a077ad.1920x1080.jpg?t=1724051263"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468260/ss_fddb61065d39afd771785588129174b0906adcf0.1920x1080.jpg?t=1724051263"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468260/ss_4c0ef22717703ef9298ee6883c7842bd0864b646.1920x1080.jpg?t=1724051263"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468260/ss_99d502005d21956b279387c8d3968df240e93538.1920x1080.jpg?t=1724051263"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468260/ss_b0bae78900ddf329e2037c662640c5a5f2720091.1920x1080.jpg?t=1724051263"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468260/ss_a0f38e10e39ed78f794ddbb3883a8d7f466f8ce6.1920x1080.jpg?t=1724051263"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Trailer 2023",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256949994/movie.293x165.jpg?t=1685522434",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1468260/573314/a51b3faa69b5923d9ba37958e4ff80cfe6f6af2d/1750692440/dash_h264.mpd?t=1685522434"
+    },
+    {
+      "name": "Trailer v1",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256809809/movie.293x165.jpg?t=1605905646",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1468260/327158/0db032caad2622d30be405f40db6caea364f8890/1750692439/dash_h264.mpd?t=1605905646"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1468260,
+    "store_url": "https://store.steampowered.com/app/1468260/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "Steam Cloud",
+      "Stats",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Incremental",
+      "Idler",
+      "Indie",
+      "Casual",
+      "Free to Play",
+      "Crafting",
+      "Pixel Graphics",
+      "Collectathon",
+      "Relaxing",
+      "Funny",
+      "2D",
+      "Exploration",
+      "Farming Sim",
+      "Top-Down",
+      "Colorful",
+      "Physics",
+      "Atmospheric",
+      "Multiplayer",
+      "Singleplayer",
+      "Great Soundtrack"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 24834,
+    "review_negative": 1541,
+    "review_total": 26375,
+    "review_positive_percent": 94.16
+  }
+}

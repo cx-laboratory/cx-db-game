@@ -1,0 +1,237 @@
+{
+  "key": "powerwash-simulator",
+  "name": "PowerWash Simulator",
+  "description": "Release the Pressure with PowerWash Simulator! Wash away your worries with the soothing sounds of high-pressure water. Fire up your power washer and blast away every speck of dirt and grime you can find, all with the simple satisfaction of power-washing to a sparkling finish.",
+  "developers": [
+    "FuturLab"
+  ],
+  "publishers": [
+    "FuturLab"
+  ],
+  "release_date": "2022-07-15",
+  "website": "https://powerwashsimulator.com",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "cleaning",
+    "relaxing",
+    "first-person",
+    "3d",
+    "sandbox",
+    "funny",
+    "immersive-sim",
+    "colorful",
+    "family-friendly",
+    "wholesome",
+    "singleplayer",
+    "story-rich",
+    "realistic",
+    "cozy"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "冲就完事模拟器"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "PowerWashSimulator.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "FuturLab/PowerWash Simulator/SaveData",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "PowerWash Simulator",
+    "PowerWashSimulator",
+    "冲就完事模拟器"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1290000/cdc9126e41c1968c52fb86b46f0391db1fa23420.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290000/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290000/9d9f1f777477c1b7286f153be8f9e317eeabbfd3/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290000/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290000/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290000/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290000/ss_8782c713c59761ebaacabb214672655a1599ce79.1920x1080.jpg?t=1780392261"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290000/ss_29593230c1bbcd6a6f3e371311d21b663679ccaf.1920x1080.jpg?t=1780392261"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290000/ss_fdb99469c33092c9eeb564f8c00e05f7dbc298c8.1920x1080.jpg?t=1780392261"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290000/ss_49aeb7a5528416c4e830740f0258206ec04510e2.1920x1080.jpg?t=1780392261"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290000/ss_4598c670e3a988145425d3097aa1ce0571b81229.1920x1080.jpg?t=1780392261"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290000/ss_16730364e49ea4e3eb4c5913aa64c1392443dffb.1920x1080.jpg?t=1780392261"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290000/ss_d2bb76f204d3bc7bc499c5816b942a333001b210.1920x1080.jpg?t=1780392261"
+    }
+  ],
+  "videos": [
+    {
+      "name": "ESRB EN Blue - replaced",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257041994/movie.293x165.jpg?t=1779974248",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1290000/733251/8b5e97fae6756211cf2907fdfa80d25a56087fd2/1750669228/dash_h264.mpd?t=1779974248"
+    },
+    {
+      "name": "ESRB EN Launch - Muck 6",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257147107/9a2407890f3bd1861152459318607c39ce7a3339/movie_600x337.jpg?t=1748528473",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1290000/306585680/2e58690ea6be5305450ca0425628aad61826426c/1750669494/dash_h264.mpd?t=1748528473"
+    },
+    {
+      "name": "ESRB EN Ice Rink",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257068043/4d863e8a295cd183936c92e75a0d2e8b940d70fe/movie_600x337.jpg?t=1733858335",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1290000/776577/58a3dab9747ea834574c080dfe54c26c423f5d8f/1750669380/dash_h264.mpd?t=1733858335"
+    },
+    {
+      "name": "ESRB EN Warhammer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257004058/movie.293x165.jpg?t=1709051244",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1290000/667772/9fe32249c34a7b41bb3882366db70feec6b159d3/1750669149/dash_h264.mpd?t=1709051244"
+    },
+    {
+      "name": "ESRB EN Christmas 2023",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256988421/movie.293x165.jpg?t=1702563233",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1290000/639596/5a5eae5cec04f307a4f563715974c7c2ae075934/1750669129/dash_h264.mpd?t=1702563233"
+    },
+    {
+      "name": "ESRB EN Clocktower",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256976657/movie.293x165.jpg?t=1700143361",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1290000/619989/25ef41d20468b5aee0bde64642e023fd2365006a/1750669083/dash_h264.mpd?t=1700143361"
+    },
+    {
+      "name": "ESRB EN Spongebob",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256953376/movie.293x165.jpg?t=1688053684",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1290000/578990/e6e8af13f7698599c0836936001f915f77bba560/1750669075/dash_h264.mpd?t=1688053684"
+    },
+    {
+      "name": "ESRB EN - Shrek",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257063666/7b38a83d03cbecf1bf14fe3f2522c25a4b3e3498/movie_600x337.jpg?t=1728567224",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1290000/769627/439964e5ed77cef2619769402c2509f271832389/1750669327/dash_h264.mpd?t=1728567224"
+    },
+    {
+      "name": "ESRB EN Alice Announce",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257032363/movie.293x165.jpg?t=1719925231",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1290000/715986/310555daf33374d430e4a5e038b4cb0cc38c47b0/1750669184/dash_h264.mpd?t=1719925231"
+    },
+    {
+      "name": "ESRB EN Cruise",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257042574/movie.293x165.jpg?t=1722518647",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1290000/734172/a75a1d6f33994c67774cb7dcd2d77b11c9c7ac56/1750669254/dash_h264.mpd?t=1722518647"
+    },
+    {
+      "name": "ESRB EN Muckingham",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256941906/movie.293x165.jpg?t=1682089176",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1290000/559106/0316385f2d17e3752998fb3a7b37a205f0d7c763/1750669028/dash_h264.mpd?t=1682089176"
+    },
+    {
+      "name": "ESRB EN TR",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256927868/movie.293x165.jpg?t=1675184218",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1290000/534476/2869e35934c1c342415fc62890cca9d103c637da/1750668996/dash_h264.mpd?t=1675184218"
+    },
+    {
+      "name": "ESRB EN Co-Op",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256871146/movie.293x165.jpg?t=1643382218",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1290000/435351/0a61f8c391331b38c2e699fb219f6f0a7db1868f/1750668862/dash_h264.mpd?t=1643382218"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1290000,
+    "store_url": "https://store.steampowered.com/app/1290000/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Casual",
+      "Cleaning",
+      "Relaxing",
+      "Simulation",
+      "Multiplayer",
+      "First-Person",
+      "3D",
+      "Sandbox",
+      "Co-op",
+      "Funny",
+      "Online Co-Op",
+      "Immersive Sim",
+      "Colorful",
+      "Family Friendly",
+      "Wholesome",
+      "Singleplayer",
+      "Story Rich",
+      "Realistic",
+      "Indie",
+      "Cozy"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 56184,
+    "review_negative": 2096,
+    "review_total": 58280,
+    "review_positive_percent": 96.4
+  }
+}

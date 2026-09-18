@@ -1,0 +1,230 @@
+{
+  "key": "yakuza-like-a-dragon",
+  "name": "Yakuza: Like a Dragon",
+  "description": "Become Ichiban Kasuga, a low-ranking yakuza grunt left on the brink of death by the man he trusted most. Take up your legendary bat and get ready to crack some underworld skulls in dynamic RPG combat set against the backdrop of modern-day Japan.",
+  "developers": [
+    "RGG Studio"
+  ],
+  "publishers": [
+    "SEGA"
+  ],
+  "release_date": "2020-11-11",
+  "website": "https://likeadragon.sega.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese"
+  ],
+  "name_localized": {
+    "japanese": "龍が如く７　光と闇の行方　インターナショナル",
+    "tchinese": "人中之龍7　光與闇的去向　國際版",
+    "schinese": "人中之龙7　光与暗的去向　国际版",
+    "koreana": "용과 같이7 빛과 어둠의 행방　International"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "runtime/media/startup.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "runtime\\media\\Yakuza7.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "runtime/media/YakuzaLikeADragon.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "runtime/media/startup.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "runtime/media/startup.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "runtime/media/startup.exe",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "runtime/media/startup.exe",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "runtime/media/startup.exe",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "runtime/media/startup.exe",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "runtime/media/startup.exe",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "runtime/media/startup.exe",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "runtime/media/startup.exe",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "runtime/media/startup.exe",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "runtime/media/startup.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Yakuza: Like a Dragon",
+    "runtime/media/startup",
+    "runtime\\media\\Yakuza7",
+    "runtime/media/YakuzaLikeADragon",
+    "龍が如く７　光と闇の行方　インターナショナル",
+    "人中之龍7　光與闇的去向　國際版",
+    "人中之龙7　光与暗的去向　国际版",
+    "용과 같이7 빛과 어둠의 행방　International"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1235140/2dd517dc392377291d18d89722d26f737795829d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235140/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235140/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235140/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235140/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235140/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235140/ss_3672df00523861cd37b0f969d80604003ba14fd4.1920x1080.jpg?t=1781264130"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235140/ss_9cecfb713527a480f607bbde54c01763b18bf354.1920x1080.jpg?t=1781264130"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235140/ss_d8bcb8c72368ec09506d3a60d42ff2a1901e39f7.1920x1080.jpg?t=1781264130"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235140/ss_23d607ec8ceaca26edc88b6445d92ddcd111fea4.1920x1080.jpg?t=1781264130"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235140/ss_66151ac4259635b4f90e7945706498dacf6e98c1.1920x1080.jpg?t=1781264130"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235140/ss_b7336fc083ba36c6073c25659fe23075234b179a.1920x1080.jpg?t=1781264130"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235140/ss_8562245f8ca68976ffb5404023d148fb0cbc13e9.1920x1080.jpg?t=1781264130"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235140/ss_fe349bb52fa4a8243ba8d9b861bb52c3a4f4b5b0.1920x1080.jpg?t=1781264130"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235140/ss_a46dfebb4726aa042c76636131f8bbaa1a079fb9.1920x1080.jpg?t=1781264130"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235140/ss_5a17b24cc9582e458a3db0f5f9ecc3f956ded072.1920x1080.jpg?t=1781264130"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235140/ss_d3fe630add22247a497f0c2d22e568df66a39f48.1920x1080.jpg?t=1781264130"
+    }
+  ],
+  "videos": [
+    {
+      "name": "YLAD_Launch_16x9_US",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256808897/movie.293x165.jpg?t=1605027728",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1235140/325573/5e8c72a66ccd699fce5f2fbb082ec3cbe275b596/1750646874/dash_h264.mpd?t=1605027728"
+    },
+    {
+      "name": "Yazawa_IchiQuest_Steam_US",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256803879/movie.293x165.jpg?t=1602066147",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1235140/317517/5edc59b3dd0b0dfade827dfd50542f10c70f79eb/1750646822/dash_h264.mpd?t=1602066147"
+    },
+    {
+      "name": "Yakuza_Howwillyourise_ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256798066/movie.293x165.jpg?t=1661159086",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1235140/307244/fdeece6378a2b5b8d68958bd3673afb587d1a77e/1750646794/dash_h264.mpd?t=1661159086"
+    },
+    {
+      "name": "YakuzaGameplay_Full_16x9_STEAM_ESRB_Preorder_FINAL",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256793637/movie.293x165.jpg?t=1595433924",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1235140/299904/1a45772d30214f7ae8c5dc3ceb25bfcfd3dddb30/1750646761/dash_h264.mpd?t=1595433924"
+    },
+    {
+      "name": "Announce_ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256784455/movie.293x165.jpg?t=1588868821",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1235140/283646/4bfaf92e70fe9b84fe2f7ecaa0fab12229ceff59/1750646692/dash_h264.mpd?t=1588868821"
+    }
+  ],
+  "metacritic": {
+    "score": 83,
+    "url": "https://www.metacritic.com/game/pc/yakuza-like-a-dragon?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1235140,
+    "store_url": "https://store.steampowered.com/app/1235140/",
+    "required_age": 18,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 34815,
+    "review_negative": 2201,
+    "review_total": 37016,
+    "review_positive_percent": 94.05
+  }
+}

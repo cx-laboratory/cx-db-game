@@ -1,0 +1,223 @@
+{
+  "key": "day-of-defeat-source",
+  "name": "Day of Defeat: Source",
+  "description": "Valve's WWII Multiplayer Classic - Now available for Mac.",
+  "developers": [
+    "Valve"
+  ],
+  "publishers": [
+    "Valve"
+  ],
+  "release_date": "2005-09-26",
+  "website": "http://www.dayofdefeat.com/",
+  "tags": [
+    "action",
+    "multiplayer",
+    "fps",
+    "world-war-ii",
+    "shooter",
+    "war",
+    "military",
+    "team-based",
+    "first-person",
+    "historical",
+    "class-based",
+    "classic",
+    "tactical",
+    "realistic",
+    "online-co-op",
+    "gore",
+    "strategy",
+    "massively-multiplayer",
+    "violent",
+    "simulation"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "hungarian",
+    "czech",
+    "romanian",
+    "turkish",
+    "brazilian",
+    "bulgarian",
+    "greek",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "胜利之日：起源"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "dod.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "dod_win64.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "hl2.exe",
+          "description": "Play Previous Build Branch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "dod.sh",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "hl2.sh",
+          "description": "Play Previous Build Branch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Day of Defeat: Source",
+    "dod",
+    "dod_win64",
+    "hl2",
+    "dod.sh",
+    "hl2.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/300/062754bb5853b0534283ae27dc5d58200692b22d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300/0000000023.1920x1080.jpg?t=1763407002"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300/0000000042.1920x1080.jpg?t=1763407002"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300/0000000043.1920x1080.jpg?t=1763407002"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300/0000000044.1920x1080.jpg?t=1763407002"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300/0000000045.1920x1080.jpg?t=1763407002"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Day of Defeat: Prelude to Victory",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/901/movie.jpg?t=1447350834",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/300/273/f2a418c762c12abc244116eb03a17bd11d175857/1750483918/dash_h264.mpd?t=1447350834"
+    },
+    {
+      "name": "Day of Defeat: Jagd Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/917/movie.jpg?t=1447350859",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/300/318/9271c1720dce850e12dfee4e7f985ba138131302/1750483884/dash_h264.mpd?t=1447350859"
+    },
+    {
+      "name": "Day of Defeat: Colmar Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/918/movie.jpg?t=1447350860",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/300/319/f68b98f2987e4eba70e5f40df9a5cb568d01f957/1750483891/dash_h264.mpd?t=1447350860"
+    }
+  ],
+  "metacritic": {
+    "score": 80,
+    "url": "https://www.metacritic.com/game/pc/day-of-defeat-source?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 300,
+    "store_url": "https://store.steampowered.com/app/300/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Stereo Sound",
+      "Surround Sound",
+      "Valve Anti-Cheat enabled",
+      "Stats",
+      "Includes Source SDK",
+      "Family Sharing"
+    ],
+    "tags": [
+      "FPS",
+      "World War II",
+      "Multiplayer",
+      "Action",
+      "Shooter",
+      "War",
+      "Military",
+      "Team-Based",
+      "First-Person",
+      "Historical",
+      "Class-Based",
+      "Classic",
+      "Tactical",
+      "Realistic",
+      "Online Co-Op",
+      "Gore",
+      "Strategy",
+      "Massively Multiplayer",
+      "Violent",
+      "Simulation"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 21561,
+    "review_negative": 1940,
+    "review_total": 23501,
+    "review_positive_percent": 91.75
+  }
+}

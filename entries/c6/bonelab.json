@@ -1,0 +1,154 @@
+{
+  "key": "bonelab",
+  "name": "BONELAB",
+  "description": "BONELAB is an experimental physics action game. Explore a mysterious lab filled with weapons, enemies, challenges and secrets. Escape your reality, or wreak havoc. No wrong answers.",
+  "developers": [
+    "Stress Level Zero"
+  ],
+  "publishers": [
+    "Stress Level Zero"
+  ],
+  "release_date": "2022-09-30",
+  "website": "https://www.stresslevelzero.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "simulation",
+    "vr",
+    "physics",
+    "sandbox",
+    "shooter",
+    "first-person",
+    "fps",
+    "violent",
+    "action-adventure",
+    "puzzle",
+    "combat",
+    "experimental",
+    "underground",
+    "psychological",
+    "story-rich",
+    "indie",
+    "singleplayer",
+    "dark",
+    "atmospheric",
+    "female-protagonist"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "BONELAB_Steam_Windows64.exe",
+          "description": "",
+          "type": "vr"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "BONELAB",
+    "BONELAB_Steam_Windows64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1592190/d430b6cefd45bc6de97f6cbaccbb5e8d7509a60d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592190/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592190/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592190/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592190/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592190/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592190/ss_b269d1801b5f8d7e6c1dac62b3066c87692df2c1.1920x1080.jpg?t=1672959398"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592190/ss_444851cf308ece25a5a81c575d62aa971dc6985f.1920x1080.jpg?t=1672959398"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592190/ss_294edcd9127d27756a66971eee601419112cf788.1920x1080.jpg?t=1672959398"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592190/ss_0eae5108f110988324875c3f76020077d52b624d.1920x1080.jpg?t=1672959398"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592190/ss_554cef3a2a013f0f9be7d8cc4e8464b19c3da209.1920x1080.jpg?t=1672959398"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256908381/movie.293x165.jpg?t=1664473838",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1592190/500684/d4cfe5b3a3aebc95bf701530571d30d4801e8fb4/1750708023/dash_h264.mpd?t=1664473838"
+    },
+    {
+      "name": "Release Date",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256907824/movie.293x165.jpg?t=1664239063",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1592190/499688/3c026126f3220044c6a5e770c5b920e4f39d32b0/1750837072/dash_h264.mpd?t=1664239063"
+    },
+    {
+      "name": "Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256880511/movie.293x165.jpg?t=1650475734",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1592190/451816/18be6e2d579e30254822cdecc1c2515694946b88/1750708015/dash_h264.mpd?t=1650475734"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1592190,
+    "store_url": "https://store.steampowered.com/app/1592190/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Tracked Controller Support",
+      "VR Only",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "VR",
+      "Physics",
+      "Sandbox",
+      "Action",
+      "Shooter",
+      "First-Person",
+      "FPS",
+      "Violent",
+      "Action-Adventure",
+      "Puzzle",
+      "Combat",
+      "Experimental",
+      "Underground",
+      "Psychological",
+      "Story Rich",
+      "Indie",
+      "Singleplayer",
+      "Dark",
+      "Atmospheric",
+      "Female Protagonist"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 16048,
+    "review_negative": 3583,
+    "review_total": 19631,
+    "review_positive_percent": 81.75
+  }
+}

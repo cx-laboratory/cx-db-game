@@ -1,0 +1,212 @@
+{
+  "key": "deus-ex-mankind-divided",
+  "name": "Deus Ex: Mankind Divided",
+  "description": "You play as Adam Jensen, an experienced covert operative operating in a world that despises his kind: augmented humans. Choose from an arsenal of state-of-the-art weapons and augmentations to build your playstyle, and decide who you'll trust, to unravel a vast worldwide conspiracy.",
+  "developers": [
+    "Eidos Montreal"
+  ],
+  "publishers": [
+    "Eidos Interactive Corp."
+  ],
+  "release_date": "2016-08-24",
+  "website": "",
+  "tags": [
+    "action",
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "retail\\DXMD.exe",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "release\\engine.exe",
+          "description": "Release",
+          "type": "none"
+        },
+        {
+          "executable": "gamerelease\\engine.exe",
+          "description": "GameRelease",
+          "type": "none"
+        },
+        {
+          "executable": "gamerelease\\engine.exe",
+          "description": "E3 Demo",
+          "type": "none"
+        },
+        {
+          "executable": "gamerelease\\engine.exe",
+          "description": "E3 Demo VR",
+          "type": "none"
+        },
+        {
+          "executable": "gamerelease\\engine.exe",
+          "description": "E3 Demo",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Deus Ex Mankind Divided.app",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "DeusExMD.sh",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Deus Ex: Mankind Divided",
+    "retail\\DXMD",
+    "release\\engine",
+    "gamerelease\\engine",
+    "Deus Ex Mankind Divided.app",
+    "DeusExMD.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/337000/90a596fcc9934c7fe20d1202bca2c6fc80375d54.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337000/39cf848b5d93541865bdf81e1f415cc615de5d80/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337000/96fc2a82c1820c77aae26304c62388841c2a93be/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337000/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337000/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337000/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337000/ee0e35d76c5d18ca6234916fb186485f19366ae8/ss_ee0e35d76c5d18ca6234916fb186485f19366ae8.1920x1080.jpg?t=1780670420"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337000/ss_a1d8ac385b53fd01dbac136c0c41caca6a922622.1920x1080.jpg?t=1780670420"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337000/7cbfe954178a362e9c1dccc321a05a881bad95cc/ss_7cbfe954178a362e9c1dccc321a05a881bad95cc.1920x1080.jpg?t=1780670420"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337000/ss_93783a7e416be1adfffec1f62e9274d1f4dd29c0.1920x1080.jpg?t=1780670420"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337000/ss_53bfe3cb932ec21fca54611e7f063f105aa72c9a.1920x1080.jpg?t=1780670420"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337000/ss_aa991e371e2c8dd1b4bbe62274de1ec880fbd95a.1920x1080.jpg?t=1780670420"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337000/ss_646e9ffaf54bd6fa2d5d56b0a466cfe5a2c3c2cf.1920x1080.jpg?t=1780670420"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337000/ss_099e9055654bfd464bf63a0cc2a1646740956e64.1920x1080.jpg?t=1780670420"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337000/ss_e713f6ba8292230efb1834d3adfab7273e4bb486.1920x1080.jpg?t=1780670420"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337000/ss_dae1aef52f781c9a7f41d6cf7a22019bab5dd84b.1920x1080.jpg?t=1780670420"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337000/ss_765acc509081821fb5b8c3377e2e3dd358a028e0.1920x1080.jpg?t=1780670420"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337000/ss_3736af03a04c23322a0c1b4edb4c2cee7ece9ad6.1920x1080.jpg?t=1780670420"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337000/ss_1a26fc678d9fe193b296a92d7c732d9925ea29a9.1920x1080.jpg?t=1780670420"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337000/ss_b1ea76801c1d5940904ad2c3e2cad41a0ec37d75.1920x1080.jpg?t=1780670420"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337000/ss_c7f130090799e4f3ba08a6198ce4a500d973c5d1.1920x1080.jpg?t=1780670420"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337000/ss_1e567a389f5a8b3300c1adf4d1c28e7fc2241679.1920x1080.jpg?t=1780670420"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256669834/ad6259516f26e14e95cc97ca212dde6cab9469e1/movie_600x337.jpg?t=1763591143",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/337000/856042088/1e54f87c70d66de2cf7b8b342f2dc9c34a45df96/1763590193/dash_h264.mpd?t=1763591143"
+    },
+    {
+      "name": "Overview Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256663547/93fe9c4af671f9bbf4914d7580122ede25ae29cc/movie_600x337.jpg?t=1763654804",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/337000/422664391/a019dcb424fff672c4492d07b11c91938ed63c88/1763652287/dash_h264.mpd?t=1763654804"
+    }
+  ],
+  "metacritic": {
+    "score": 83,
+    "url": "https://www.metacritic.com/game/pc/deus-ex-mankind-divided?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 337000,
+    "store_url": "https://store.steampowered.com/app/337000/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Surround Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 32112,
+    "review_negative": 9932,
+    "review_total": 42044,
+    "review_positive_percent": 76.38
+  }
+}

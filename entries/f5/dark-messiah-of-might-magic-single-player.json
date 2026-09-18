@@ -1,0 +1,126 @@
+{
+  "key": "dark-messiah-of-might-magic-single-player",
+  "name": "Dark Messiah of Might & Magic Single Player",
+  "description": "Discover a new breed of Action-RPG game powered by an enhanced version of the Source™ Engine by Valve. Set in the Might &amp; Magic® universe, players will experience ferocious combat in a dark and immersive fantasy environment. Swords, Stealth, Sorcery. Choose your way to kill.",
+  "developers": [
+    "Arkane Studios"
+  ],
+  "publishers": [
+    "Ubisoft"
+  ],
+  "release_date": "2006-10-25",
+  "website": "http://www.darkmessiahmightandmagic.com",
+  "tags": [
+    "action",
+    "rpg",
+    "multiplayer"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish - Spain"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "mm.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Dark Messiah of Might & Magic Single Player",
+    "mm"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2100/5a08cd17d14ccb07a14f316dfa222b18a20960fd.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2100/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2100/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2100/library_600x900.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2100/0000000603.1920x1080.jpg?t=1765228880"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2100/0000000604.1920x1080.jpg?t=1765228880"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2100/0000000614.1920x1080.jpg?t=1765228880"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2100/0000000606.1920x1080.jpg?t=1765228880"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2100/0000000607.1920x1080.jpg?t=1765228880"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2100/0000000757.1920x1080.jpg?t=1765228880"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Dark Messiah: Warrior",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/919/movie.jpg?t=1447350860",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2100/320/8d2bd7db392098cdbc78be9edd547213a086da65/1750483823/dash_h264.mpd?t=1447350860"
+    },
+    {
+      "name": "Dark Messiah: Assassin",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920/movie.jpg?t=1447350861",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2100/321/158ff56a5a00ae2cc806c3359774c45b588d009b/1750483833/dash_h264.mpd?t=1447350861"
+    },
+    {
+      "name": "Dark Messiah: Wizard",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/921/movie.jpg?t=1447350861",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2100/322/0058adcf3565cfcdf2eca0470021716bc0a0e6f7/1750483850/dash_h264.mpd?t=1447350861"
+    },
+    {
+      "name": "Dark Messiah Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/940/movie.jpg?t=1447350935",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2100/429/d2a2b8c4c7767bc1abe9cf20e7caf6ca4eed5d91/1750483878/dash_h264.mpd?t=1447350935"
+    }
+  ],
+  "metacritic": {
+    "score": 72,
+    "url": "https://www.metacritic.com/game/pc/dark-messiah-of-might-and-magic?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 2100,
+    "store_url": "https://store.steampowered.com/app/2100/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Valve Anti-Cheat enabled",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 10608,
+    "review_negative": 1061,
+    "review_total": 11669,
+    "review_positive_percent": 90.91
+  }
+}

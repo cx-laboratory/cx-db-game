@@ -1,0 +1,176 @@
+{
+  "key": "r-e-p-o",
+  "name": "R.E.P.O.",
+  "description": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
+  "developers": [
+    "semiwork"
+  ],
+  "publishers": [
+    "semiwork"
+  ],
+  "release_date": "2025-02-26",
+  "website": "",
+  "tags": [
+    "action",
+    "early-access",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "horror",
+    "comedy",
+    "physics",
+    "first-person",
+    "3d",
+    "stealth",
+    "survival",
+    "robots",
+    "exploration",
+    "funny",
+    "procedural-generation",
+    "roguelike",
+    "action-roguelike",
+    "post-apocalyptic",
+    "sci-fi",
+    "perma-death"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "回收行动"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "REPO.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "semiwork/Repo",
+          "pattern": "*.es3",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "semiwork/Repo/Cache/Icons/CosmeticsPresets",
+          "pattern": "*.png",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "R.E.P.O.",
+    "REPO"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3241660/b8bf4770408fc369e15cebd42e0026a27b67aaa8.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/1ea445e044a2d5b09cfa8291350b63ebed6e5741/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/28c1bb423e9af8646047e9e881c3a0ac121647f6/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/46b4813ef1cd20664299c9e5de847f3579b44f2e/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/c74ee0230d40b4cd12fad898930f7c3687dc3a05/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/0792bd657a88c95b72c337de40de3f80151557a1/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_e6babaab52581f81df91e50768cee6a9334ef6ec.1920x1080.jpg?t=1778158882"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_af7d8d6302d543d89019bad49ea853a970bb82de.1920x1080.jpg?t=1778158882"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_a66715d57329c456d91aeb11fbd406e7d8c5dbc7.1920x1080.jpg?t=1778158882"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_cd332c2299810a65c6aee61c04750197a919692a.1920x1080.jpg?t=1778158882"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_e4dc1bc0ada8fb7cb164b3ac37be82f51aae5627.1920x1080.jpg?t=1778158882"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Cosmetic Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257332308/54f1e35aa6e9835c69cea76984abfd208bf97cbd/movie_600x337.jpg?t=1778158881",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3241660/2104035143/53f52907e101a89fdc3eab98da02dc5ab07ea3c9/1778069013/dash_h264.mpd?t=1778158881"
+    },
+    {
+      "name": "Monster Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257224650/e6a9cdc0bf72aef5e7a78678c98bf0c533a1a4b2/movie_600x337.jpg?t=1761830780",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3241660/1884287699/bbab6854a8bc66274a77234cd49bf83f2d68076d/1761829575/dash_h264.mpd?t=1761830780"
+    },
+    {
+      "name": "Museum Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257160735/dbe991f3700a237189b08462c00d3bfe01225f29/movie_600x337.jpg?t=1750942486",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3241660/1712185787/041955a4953a5c97735ef35f583196904e126ee3/1750845117/dash_h264.mpd?t=1750942486"
+    },
+    {
+      "name": "Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257102296/6bcb19015c3c9099a3af17e8cbea7866dfc05234/movie_600x337.jpg?t=1750942483",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3241660/835161/c897cc391cd03bc74fb7149e9d3373357aa7db2c/1750825077/dash_h264.mpd?t=1750942483"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3241660,
+    "store_url": "https://store.steampowered.com/app/3241660/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Horror",
+      "Online Co-Op",
+      "Multiplayer",
+      "Comedy",
+      "Co-op",
+      "Physics",
+      "First-Person",
+      "3D",
+      "Stealth",
+      "Survival",
+      "Robots",
+      "Exploration",
+      "Action",
+      "Funny",
+      "Procedural Generation",
+      "Action Roguelike",
+      "Post-apocalyptic",
+      "Sci-fi",
+      "Perma Death",
+      "Early Access"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 391218,
+    "review_negative": 15998,
+    "review_total": 407216,
+    "review_positive_percent": 96.07
+  }
+}

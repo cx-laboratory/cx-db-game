@@ -1,0 +1,212 @@
+{
+  "key": "far-cry-5",
+  "name": "Far Cry 5",
+  "description": "Discover the open world of Hope County, Montana, besieged by a fanatical doomsday cult. Dive into the action solo or two-player co-op in the story campaign, use a vast arsenal of weapons and allies, and free Hope County from Joseph Seed and his cult.",
+  "developers": [
+    "Ubisoft Montreal"
+  ],
+  "publishers": [
+    "Ubisoft"
+  ],
+  "release_date": "2018-03-26",
+  "website": "https://far-cry.ubisoft.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "multiplayer",
+    "co-op",
+    "online-co-op"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "dutch",
+    "czech",
+    "arabic",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "bin/FarCry5.exe",
+          "description": "Game",
+          "type": "default"
+        },
+        {
+          "executable": "bin/FCLaunch_p64.exe",
+          "description": "Profile",
+          "type": "none"
+        },
+        {
+          "executable": "bin/FCLaunch_r64.exe",
+          "description": "Release",
+          "type": "none"
+        },
+        {
+          "executable": "bin/ArcadeEditor_rt64.exe",
+          "description": "InGameEditor(retail)",
+          "type": "none"
+        },
+        {
+          "executable": "bin/FCLaunch_rt64.exe",
+          "description": "Retail",
+          "type": "none"
+        },
+        {
+          "executable": "bin/ArcadeEditor64.exe",
+          "description": "Far Cry® Arcade Editor",
+          "type": "editor"
+        },
+        {
+          "executable": "bin/FarCry5.exe",
+          "description": "Free Weekend",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Far Cry 5",
+    "bin/FarCry5",
+    "bin/FCLaunch_p64",
+    "bin/FCLaunch_r64",
+    "bin/ArcadeEditor_rt64",
+    "bin/FCLaunch_rt64",
+    "bin/ArcadeEditor64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/552520/928df2d32021f480499a97458068f62c45298e7a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/ss_a52c732d62a26d20bcfb0525929178749392f4fc.1920x1080.jpg?t=1762190084"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/ss_64406d71653c589377e8c589ece9e3941b6fff50.1920x1080.jpg?t=1762190084"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/ss_5b5701cb9cc39b661d6a2903a97e0bb75eb2a6c6.1920x1080.jpg?t=1762190084"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/ss_60894d685a0f3488ceaf0592625fc904aa2bfeb1.1920x1080.jpg?t=1762190084"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/ss_8f826d6b68fc53c48f1f52f9d5188ba998b23534.1920x1080.jpg?t=1762190084"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/ss_c6f08b3d2e156f705205f882504d3cd96f78cca1.1920x1080.jpg?t=1762190084"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/ss_c26333a1e53aad3d6a8cc0a347e9ac5e0dd98587.1920x1080.jpg?t=1762190084"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/ss_54e115519104798a3a2dc55e6de3d4974e144b77.1920x1080.jpg?t=1762190084"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/ss_46e0754a961048afe201f45f2436b4fb0491be73.1920x1080.jpg?t=1762190084"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/ss_d578dc6a657d7aa5530e59e88705794696e92102.1920x1080.jpg?t=1762190084"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/ss_f5ee2fb899c32f4c627ee250949645e52161150b.1920x1080.jpg?t=1762190084"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/ss_e77cdee777bf7cc1fc820e6e3442c23166dfbc4b.1920x1080.jpg?t=1762190084"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/ss_539a82bb6b1960c64fc13e88b079d85ffca77881.1920x1080.jpg?t=1762190084"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/ss_84a39f2015f9f697dc0c9208979fcfbe48320916.1920x1080.jpg?t=1762190084"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/ss_91ffb3869b07d192c522555bc2f0bff1d79a3c1c.1920x1080.jpg?t=1762190084"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/ss_761d736957034da0543e56b8c4541facccb199d7.1920x1080.jpg?t=1762190084"
+    }
+  ],
+  "videos": [
+    {
+      "name": "ESRB launch",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256712971/movie.293x165.jpg?t=1522436975",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/552520/155757/a70cd60188b0d1d8fd08e97180061674b512c51d/1750549438/dash_h264.mpd?t=1522436975"
+    },
+    {
+      "name": "Coop trailer ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256700398/movie.293x165.jpg?t=1511961814",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/552520/132142/094a5f3e189e68ec0ef7a776ddfa4d84c194372c/1750549432/dash_h264.mpd?t=1511961814"
+    },
+    {
+      "name": "Gameplay cuts gamescom ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256693728/movie.293x165.jpg?t=1503665650",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/552520/119935/6afc0be8f465e944f64a4619c0456a295cbdf214/1750549333/dash_h264.mpd?t=1503665650"
+    },
+    {
+      "name": "Announcement trailer - ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256686295/movie.293x165.jpg?t=1505927690",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/552520/105749/14d763f8bdb5d075715a386a185a0b270bffc161/1750549330/dash_h264.mpd?t=1505927690"
+    },
+    {
+      "name": "E3 trailer - ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256687020/movie.293x165.jpg?t=1505927711",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/552520/107095/bbbdec49270b623ba56415b6c9bd2af88cd5c3c6/1750549332/dash_h264.mpd?t=1505927711"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 552520,
+    "store_url": "https://store.steampowered.com/app/552520/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Captions available",
+      "In-App Purchases",
+      "Partial Controller Support",
+      "Includes level editor",
+      "HDR available"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 151547,
+    "review_negative": 35423,
+    "review_total": 186970,
+    "review_positive_percent": 81.05
+  }
+}

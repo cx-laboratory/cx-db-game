@@ -1,0 +1,205 @@
+{
+  "key": "labyrinthine",
+  "name": "Labyrinthine",
+  "description": "A co-op horror game like no other... Play with 1-8 players online as you solve puzzles, collect items and run from the horrors that lie within. Follow in the footsteps of Joan in the story mode or tackle procedurally generated maps that scale with your level and bring a fresh experience each game..",
+  "developers": [
+    "Valko Game Studios"
+  ],
+  "publishers": [
+    "Valko Game Studios"
+  ],
+  "release_date": "2023-08-19",
+  "website": "https://www.labyrinthinegame.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "horror",
+    "puzzle",
+    "procedural-generation",
+    "supernatural",
+    "first-person",
+    "controller",
+    "atmospheric",
+    "character-customization",
+    "action-adventure",
+    "pve",
+    "co-op-campaign",
+    "team-based",
+    "realistic",
+    "lovecraftian",
+    "roguelite"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German",
+    "Dutch",
+    "Simplified Chinese",
+    "Spanish - Spain",
+    "Czech",
+    "Polish",
+    "Portuguese - Portugal",
+    "Russian",
+    "Arabic",
+    "Japanese",
+    "Korean",
+    "Turkish",
+    "Italian",
+    "Serbian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Labyrinthine.exe",
+          "description": "Launch",
+          "type": "none"
+        },
+        {
+          "executable": "Labyrinthine.exe",
+          "description": "",
+          "type": "vr"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Valko Game Studios/Labyrinthine/{64BitSteamID}",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Labyrinthine"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1302240/b507946b4217b31ba7a6cc7bcc61b085b437b5c2.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302240/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302240/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302240/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302240/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302240/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302240/ss_bea2f52300c490ad602c355b4950508ac01a83e6.1920x1080.jpg?t=1764093777"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302240/ss_7bf8dae08fe9ab3c96aa8ac0ee4c732c424a4e50.1920x1080.jpg?t=1764093777"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302240/ss_c04095a69b4cbd5ea08f456bbe78674c7bb2aa30.1920x1080.jpg?t=1764093777"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302240/ss_2c4c3ba5fad34bb50dff13ca1d8f791c9a3ccf29.1920x1080.jpg?t=1764093777"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302240/ss_c7665aafdbf8afeecfab9193e0e832654160b73e.1920x1080.jpg?t=1764093777"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302240/ss_65e2b672d32b6af6b07cf6d99b89b170a2713315.1920x1080.jpg?t=1764093777"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302240/ss_5a7fbb363d75f9388b31ba25e2e3ce0b9d5686c6.1920x1080.jpg?t=1764093777"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302240/ss_41452b75feccf04798d676213b75234312a3d6ec.1920x1080.jpg?t=1764093777"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302240/ss_70e5a55c4bd6890c414dac0ec88ec89676dd939a.1920x1080.jpg?t=1764093777"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302240/ss_d53b9073764924f35012fbd5d16e99536c20057d.1920x1080.jpg?t=1764093777"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302240/ss_5fab5ab9084fb444d5a110e69db84b931cf5cc1d.1920x1080.jpg?t=1764093777"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302240/ss_5cad84981ef406f93fec821f7bfacd614c81cb05.1920x1080.jpg?t=1764093777"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302240/ss_660264bfae9454db9bab0ac681420940aa3ea69e.1920x1080.jpg?t=1764093777"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Official Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256962951/movie.293x165.jpg?t=1691679856",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1302240/595934/624ab583aed8ecceae316f70cf41eb520acfebf8/1750671562/dash_h264.mpd?t=1691679856"
+    },
+    {
+      "name": "Early Access",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256831925/movie.293x165.jpg?t=1691679860",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1302240/364418/b37f3edad4cf594cb700a192ee2287bf6142270b/1750670977/dash_h264.mpd?t=1691679860"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1302240,
+    "store_url": "https://store.steampowered.com/app/1302240/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Tracked Controller Support",
+      "VR Supported",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Stats",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Horror",
+      "Online Co-Op",
+      "Co-op",
+      "Psychological Horror",
+      "Puzzle",
+      "Multiplayer",
+      "Procedural Generation",
+      "Supernatural",
+      "First-Person",
+      "Controller",
+      "Atmospheric",
+      "Character Customization",
+      "Action-Adventure",
+      "PvE",
+      "Co-op Campaign",
+      "Team-Based",
+      "Realistic",
+      "Action",
+      "Lovecraftian",
+      "Roguelite"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 14659,
+    "review_negative": 2710,
+    "review_total": 17369,
+    "review_positive_percent": 84.4
+  }
+}

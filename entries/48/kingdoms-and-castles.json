@@ -1,0 +1,225 @@
+{
+  "key": "kingdoms-and-castles",
+  "name": "Kingdoms and Castles",
+  "description": "Kingdoms and Castles is a city-building simulation game about growing a kingdom from a tiny hamlet to a sprawling city and imposing castle. Make trade agreements, alliance, and war with neighboring AI controlled kingdoms. Each villager and resource is individually simulated.",
+  "developers": [
+    "Lion Shield, LLC"
+  ],
+  "publishers": [
+    "Lion Shield, LLC"
+  ],
+  "release_date": "2017-07-20",
+  "website": "http://kingdomsandcastles.com/",
+  "tags": [
+    "indie",
+    "simulation",
+    "strategy",
+    "city-builder",
+    "colony-sim",
+    "resource-management",
+    "management",
+    "sandbox",
+    "building",
+    "base-building",
+    "4x",
+    "economy",
+    "rts",
+    "open-world",
+    "crafting",
+    "relaxing",
+    "survival",
+    "choices-matter",
+    "medieval",
+    "historical",
+    "stylized"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "dutch",
+    "norwegian",
+    "swedish",
+    "romanian",
+    "turkish",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "KingdomsAndCastles.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LionShield/Kingdoms and Castles/Saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Kingdoms and Castles.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LionShield/Kingdoms and Castles/Saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "KingdomsAndCastles.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LionShield/Kingdoms and Castles/Saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Kingdoms and Castles",
+    "KingdomsAndCastles",
+    "Kingdoms and Castles.app",
+    "KingdomsAndCastles.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/569480/0d90135b3a98192a85f90d3564f670d7bf95e2b3.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/569480/607d66c3818dc8d5481a7d998ebce143c50dfa82/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/569480/821d17fc7a1af60d8f7fa2b8a3600d9ae4806eaf/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/569480/eedd23a4434052b91a127fe0b9e5fcfe3bd71e4b/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/569480/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/569480/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/569480/ss_c720d04f507059f75d1f5dc040e5123dcf36826b.1920x1080.jpg?t=1776710220"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/569480/ss_8edcd3c9cb93ee1e38df6ad676166ff567d4a7cb.1920x1080.jpg?t=1776710220"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/569480/ss_b352f28aa3450b0813fab1a4f94e9eadd87a0be8.1920x1080.jpg?t=1776710220"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/569480/ss_cf083ffaa79178888ee345cbbfb6a01e92584280.1920x1080.jpg?t=1776710220"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/569480/ss_a0e16d2a2bcdfbed5494b7985c879dfa3ce044b4.1920x1080.jpg?t=1776710220"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/569480/ss_af7361cb88294d6515bd7cb85b94c90dc3e070ec.1920x1080.jpg?t=1776710220"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/569480/ss_9e5b222d7250382eaa8b4184146db5cc6ce88f26.1920x1080.jpg?t=1776710220"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/569480/ss_99a1347c2d42958e7a1c02dfbf61430fe53f0612.1920x1080.jpg?t=1776710220"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/569480/ss_0b6d2395af77542f35371f5fd98b0c6b8630ba1f.1920x1080.jpg?t=1776710220"
+    }
+  ],
+  "videos": [
+    {
+      "name": "AI Kingdoms 3",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256883785/movie.293x165.jpg?t=1653324316",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/569480/457953/e7d7830f73d52dd172456d3915cacb6c27b4e79d/1750551735/dash_h264.mpd?t=1653324316"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256690416/movie.293x165.jpg?t=1500278756",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/569480/113881/004ae9f41af9a144c29af2396178bb9846ad44ce/1750551726/dash_h264.mpd?t=1500278756"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 569480,
+    "store_url": "https://store.steampowered.com/app/569480/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Includes level editor",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "City Builder",
+      "Colony Sim",
+      "Resource Management",
+      "Management",
+      "Simulation",
+      "Strategy",
+      "Sandbox",
+      "Building",
+      "Base Building",
+      "4X",
+      "Economy",
+      "RTS",
+      "Open World",
+      "Crafting",
+      "Relaxing",
+      "Survival",
+      "Choices Matter",
+      "Medieval",
+      "Historical",
+      "Stylized"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 29212,
+    "review_negative": 2015,
+    "review_total": 31227,
+    "review_positive_percent": 93.55
+  }
+}

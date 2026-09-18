@@ -1,0 +1,149 @@
+{
+  "key": "downwell",
+  "name": "Downwell",
+  "description": "Downwell is a curious game about a young person venturing down a well in search of untold treasures with only his Gunboots to protect him.",
+  "developers": [
+    "Moppin"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "release_date": "2015-10-15",
+  "website": "http://downwellgame.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "casual",
+    "indie",
+    "precision-platformer",
+    "pixel-graphics",
+    "action-roguelike",
+    "platformer",
+    "arcade",
+    "2d-platformer",
+    "difficult",
+    "2d",
+    "fast-paced",
+    "retro",
+    "singleplayer",
+    "shoot-em-up",
+    "roguelike",
+    "procedural-generation",
+    "roguelite",
+    "replay-value",
+    "great-soundtrack"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "japanese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "downwell.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Downwell",
+    "downwell"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/360740/b9b9c2f5cdf91b90e468d9140deceb80be3e0a06.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360740/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360740/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360740/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360740/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360740/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360740/ss_96fa27e853e9513de825df4264e356066a3c5145.1920x1080.jpg?t=1769028721"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360740/ss_eaab64c0e734e568912fa3ff435e7bd09a28f70b.1920x1080.jpg?t=1769028721"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360740/ss_c4f5edef3fb078d2c5483f8394cc5d500eb2e96c.1920x1080.jpg?t=1769028721"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360740/ss_9e95c27552152d430797fa2a4c873e3ed8cab2ea.1920x1080.jpg?t=1769028721"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360740/ss_ec8b0acf4fadae7315cfba1a85b0f04832d16576.1920x1080.jpg?t=1769028721"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256657199/movie.293x165.jpg?t=1447378441",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/360740/44571/7012c01f0aebc07cf11a6ce8023b13306c40786b/1750515778/dash_h264.mpd?t=1447378441"
+    }
+  ],
+  "metacritic": {
+    "score": 81,
+    "url": "https://www.metacritic.com/game/pc/downwell?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 360740,
+    "store_url": "https://store.steampowered.com/app/360740/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Partial Controller Support",
+      "Steam Leaderboards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Precision Platformer",
+      "Pixel Graphics",
+      "Action Roguelike",
+      "Indie",
+      "Platformer",
+      "Arcade",
+      "2D Platformer",
+      "Action",
+      "Difficult",
+      "2D",
+      "Fast-Paced",
+      "Retro",
+      "Adventure",
+      "Singleplayer",
+      "Shoot 'Em Up",
+      "Roguelike",
+      "Procedural Generation",
+      "Roguelite",
+      "Replay Value",
+      "Great Soundtrack"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 8270,
+    "review_negative": 296,
+    "review_total": 8566,
+    "review_positive_percent": 96.54
+  }
+}

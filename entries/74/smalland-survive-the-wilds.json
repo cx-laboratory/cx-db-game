@@ -1,0 +1,196 @@
+{
+  "key": "smalland-survive-the-wilds",
+  "name": "Smalland: Survive the Wilds",
+  "description": "Experience a big adventure on a tiny scale! Enjoy multiplayer survival in a vast, hazardous world. Preparation is key when you're this small &amp; at the bottom of the food chain. Craft weapons &amp; armour, tame &amp; ride creatures, build encampments &amp; explore a strange new land.",
+  "developers": [
+    "Merge Games"
+  ],
+  "publishers": [
+    "Maximum Entertainment"
+  ],
+  "release_date": "2024-02-15",
+  "website": "https://maximument.com/games/smalland-survive-the-wilds/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "survival",
+    "open-world-survival-craft",
+    "base-building",
+    "open-world",
+    "crafting",
+    "building",
+    "exploration",
+    "singleplayer",
+    "sandbox",
+    "character-customization",
+    "action-adventure",
+    "third-person",
+    "first-person",
+    "city-builder"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Portuguese - Brazil",
+    "Russian",
+    "Korean",
+    "Simplified Chinese",
+    "Traditional Chinese"
+  ],
+  "name_localized": {
+    "schinese": "小小世界: 原野求生"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SMALLAND.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "SMALLAND/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "SMALLAND/Saved/SaveGames",
+          "pattern": "*.plr",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "SMALLAND/Saved/SaveGames",
+          "pattern": "*.wld",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Smalland: Survive the Wilds",
+    "SMALLAND",
+    "小小世界: 原野求生"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/768200/82fe464a17c8ac11b806ec3d2861860c21e161c0.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768200/67c3d2f6d897225f951655df0efc1b7bb33d9d08/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768200/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768200/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768200/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768200/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768200/ss_a8181478ebe43df02ff321e19a7061da510a0644.1920x1080.jpg?t=1776193569"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768200/ss_8367f4da58a7200a4b3bc7ea8a1da92cfe5b455d.1920x1080.jpg?t=1776193569"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768200/ss_f0d99c1761214634ff988d58ac51fc81aa6b0d79.1920x1080.jpg?t=1776193569"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768200/ss_a9a574425cbf492f9a56f68a6c5bf2aa7a9d63d5.1920x1080.jpg?t=1776193569"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768200/ss_cc4ee74c7c9e4f3db422a23cfbab15f2ac0e11cf.1920x1080.jpg?t=1776193569"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768200/ss_1631e81472ca4a096db003bebe8554386ea89f62.1920x1080.jpg?t=1776193569"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768200/ss_18683091788481e439072bc1aed0259a72b933eb.1920x1080.jpg?t=1776193569"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768200/ss_6ac12b8930b52455bfa895510b829ad14af64273.1920x1080.jpg?t=1776193569"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768200/ss_f363052c28dff4f9caa15f6b843c0b51f7498cec.1920x1080.jpg?t=1776193569"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768200/ss_c70706f564ca5b7b2a7d7c4cf8345e27bc94dcc1.1920x1080.jpg?t=1776193569"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Smalland: Survive the Wilds - 1.0 Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257001354/movie.293x165.jpg?t=1708008547",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/768200/663011/0edab31a2591c7c3095f6ce6ada1c7d57ac15681/1750581339/dash_h264.mpd?t=1708008547"
+    },
+    {
+      "name": "Smalland - Wyrdweaver Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257306234/a9e0b46986eedf2399058ef804c269b9e0b003aa/movie_600x337.jpg?t=1775145726",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/768200/726451005/0f33dcadec09c47944bafb661322cd3b1ee487ed/1773951582/dash_h264.mpd?t=1775145726"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 768200,
+    "store_url": "https://store.steampowered.com/app/768200/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Survival",
+      "Multiplayer",
+      "Open World Survival Craft",
+      "Base Building",
+      "Online Co-Op",
+      "Open World",
+      "Crafting",
+      "Building",
+      "Co-op",
+      "Exploration",
+      "Singleplayer",
+      "Sandbox",
+      "Adventure",
+      "RPG",
+      "Character Customization",
+      "Action-Adventure",
+      "Third Person",
+      "First-Person",
+      "Action",
+      "City Builder"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8388,
+    "review_negative": 1870,
+    "review_total": 10258,
+    "review_positive_percent": 81.77
+  }
+}

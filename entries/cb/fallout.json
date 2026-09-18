@@ -1,0 +1,102 @@
+{
+  "key": "fallout",
+  "name": "Fallout",
+  "description": "You've just unearthed the classic post-apocalyptic role-playing game that revitalized the entire CRPG genre. The Fallout® SPECIAL system allows drastically different types of characters, meaningful decisions and development that puts you in complete control. Explore the devastated ruins of a golden age civilization.",
+  "developers": [
+    "Interplay Inc."
+  ],
+  "publishers": [
+    "Bethesda Softworks"
+  ],
+  "release_date": "2009-08-19",
+  "website": "",
+  "tags": [
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish - Spain"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "falloutlauncher.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "falloutlauncher.exe",
+          "description": "Play Classic Version (Best for older systems)",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Fallout",
+    "falloutlauncher"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/38400/df0001a1aa011e6c7a8f38a65908070eba3d2f61.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38400/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38400/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38400/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38400/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38400/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38400/ss_b3df403b5700498031ae09a5fe888741641da402.1920x1080.jpg?t=1572025441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38400/ss_b0af8ed55a0a71c8d3560de34897ac4ed0b2f004.1920x1080.jpg?t=1572025441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38400/ss_5ba724d7a92c5347377bed7b98b35f3f92317566.1920x1080.jpg?t=1572025441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38400/ss_6c578ed231f8320c003c9ca2684e5d00aa0dfc69.1920x1080.jpg?t=1572025441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38400/ss_87e2a0835387d9a01b1dbcd51f5baa68bc95fe1b.1920x1080.jpg?t=1572025441"
+    }
+  ],
+  "videos": [],
+  "metacritic": {
+    "score": 89,
+    "url": "https://www.metacritic.com/game/pc/fallout?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 38400,
+    "store_url": "https://store.steampowered.com/app/38400/",
+    "required_age": 16,
+    "is_free": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 23429,
+    "review_negative": 1436,
+    "review_total": 24865,
+    "review_positive_percent": 94.22
+  }
+}

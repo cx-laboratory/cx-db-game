@@ -1,0 +1,226 @@
+{
+  "key": "ages-of-conflict-world-war-simulator",
+  "name": "Ages of Conflict: World War Simulator",
+  "description": "Ages of Conflict is a versatile Map Simulation game where you create and observe custom AI nations battle it out across an infinite number of worlds. Paint beautiful maps and scenarios, and command nations to change history into your liking!",
+  "developers": [
+    "JoySpark Games"
+  ],
+  "publishers": [
+    "JoySpark Games"
+  ],
+  "release_date": "2023-02-17",
+  "website": "https://impress.games/press-kit/joyspark-games/ages-of-conflict-world-war-simulator",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "early-access",
+    "sandbox",
+    "god-game",
+    "alternate-history",
+    "political-sim",
+    "idler",
+    "wargame",
+    "level-editor",
+    "artificial-intelligence",
+    "strategy",
+    "politics",
+    "auto-battler",
+    "historical",
+    "fantasy",
+    "diplomacy",
+    "singleplayer",
+    "top-down",
+    "world-war-ii"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "japanese",
+    "portuguese",
+    "polish",
+    "finnish",
+    "turkish",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "冲突时代：世界大战模拟器"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Ages of Conflict.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "JoySparkGames/Ages of Conflict/",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Ages of Conflict.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "JoySparkGames/Ages of Conflict/",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Ages of Conflict.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "JoySparkGames/Ages of Conflict/",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Ages of Conflict: World War Simulator",
+    "Ages of Conflict",
+    "Ages of Conflict.app",
+    "Ages of Conflict.x86_64",
+    "冲突时代：世界大战模拟器"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2186320/98b22ed6d66a5bf049244787a3c42a3d267f699f.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186320/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186320/4828dd797ee0949b3007217faa986af3770a2c63/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186320/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186320/d452d1d34b687712cc0b3a0e52954d816693a75b/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186320/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186320/a3edd13bc267f4e599eda5275d8235c0bd040851/ss_a3edd13bc267f4e599eda5275d8235c0bd040851.1920x1080.jpg?t=1779429676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186320/d85f9be5477b977161c2e605f388a7bc62714b8a/ss_d85f9be5477b977161c2e605f388a7bc62714b8a.1920x1080.jpg?t=1779429676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186320/e15113f9300ce7a5bc853d0897d642f2af79f68a/ss_e15113f9300ce7a5bc853d0897d642f2af79f68a.1920x1080.jpg?t=1779429676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186320/0cd5f1964d5843e0979f46491be5968efce9d298/ss_0cd5f1964d5843e0979f46491be5968efce9d298.1920x1080.jpg?t=1779429676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186320/ae032ce33dff1797313c6e75ecfc932f0efe7b53/ss_ae032ce33dff1797313c6e75ecfc932f0efe7b53.1920x1080.jpg?t=1779429676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186320/99ddb4183d6b4a134750be37892e9a7af2bb46ed/ss_99ddb4183d6b4a134750be37892e9a7af2bb46ed.1920x1080.jpg?t=1779429676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186320/bdb11abda061b387216418a2c3a1a64ceef4af1d/ss_bdb11abda061b387216418a2c3a1a64ceef4af1d.1920x1080.jpg?t=1779429676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186320/a4a48ca6b3056e41cee7357947b5fc181e865111/ss_a4a48ca6b3056e41cee7357947b5fc181e865111.1920x1080.jpg?t=1779429676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186320/cb08b9a8c730c0d06668206b0325ba89f317b31c/ss_cb08b9a8c730c0d06668206b0325ba89f317b31c.1920x1080.jpg?t=1779429676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186320/e62912d2ae4b36f05a1d759b55a4e8f44ce8e261/ss_e62912d2ae4b36f05a1d759b55a4e8f44ce8e261.1920x1080.jpg?t=1779429676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186320/cc55129de0c9462c8a042c9906b74343b023958b/ss_cc55129de0c9462c8a042c9906b74343b023958b.1920x1080.jpg?t=1779429676"
+    }
+  ],
+  "videos": [
+    {
+      "name": "2024 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256999867/movie.293x165.jpg?t=1762771721",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2186320/660405/1086a7ea73120297130959d31e49efa23b1d4df3/1750797368/dash_h264.mpd?t=1762771721"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2186320,
+    "store_url": "https://store.steampowered.com/app/2186320/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Steam Cloud",
+      "Stats",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Sandbox",
+      "God Game",
+      "Simulation",
+      "Alternate History",
+      "Political Sim",
+      "Idler",
+      "Wargame",
+      "Level Editor",
+      "Artificial Intelligence",
+      "Strategy",
+      "Politics",
+      "Auto Battler",
+      "Historical",
+      "Fantasy",
+      "Diplomacy",
+      "Singleplayer",
+      "Early Access",
+      "Top-Down",
+      "World War II",
+      "Casual"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 7959,
+    "review_negative": 302,
+    "review_total": 8261,
+    "review_positive_percent": 96.34
+  }
+}

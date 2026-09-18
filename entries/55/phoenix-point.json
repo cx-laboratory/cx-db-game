@@ -1,0 +1,214 @@
+{
+  "key": "phoenix-point",
+  "name": "Phoenix Point",
+  "description": "The acclaimed strategy game from the creator of X-COM. Fight tactical battles on procedural maps against a foe that adapts to your tactics. Manage diplomacy and economy on a global scale. Research, explore, overcome. Now includes Steam Workshop support for mods!",
+  "developers": [
+    "Snapshot Games Inc."
+  ],
+  "publishers": [
+    "Snapshot Games Inc."
+  ],
+  "release_date": "2020-12-04",
+  "website": "https://phoenixpoint.info/",
+  "tags": [
+    "rpg",
+    "strategy",
+    "tactical",
+    "turn-based-strategy",
+    "grand-strategy",
+    "procedural-generation",
+    "third-person-shooter",
+    "perma-death",
+    "pve",
+    "aliens",
+    "character-customization",
+    "post-apocalyptic",
+    "third-person",
+    "isometric",
+    "horror",
+    "first-person",
+    "tutorial",
+    "tactical-rpg",
+    "transhumanism",
+    "3d"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Polish",
+    "Russian",
+    "Simplified Chinese*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "PhoenixPointWin64.exe",
+          "description": "Phoenix Point",
+          "type": "default"
+        },
+        {
+          "executable": "PhoenixPointWin64.exe",
+          "description": "Phoenix Point with Mods",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Snapshot Games Inc/Phoenix Point/Steam/{64BitSteamID}",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "PhoenixPointOSX.app\\Contents\\MacOS\\Phoenix Point",
+          "description": "Phoenix Point",
+          "type": "default"
+        },
+        {
+          "executable": "PhoenixPointOSX.app\\Contents\\MacOS\\Phoenix Point",
+          "description": "Phoenix Point with Mods",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Snapshot Games Inc/Phoenix Point/Steam/{64BitSteamID}",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Phoenix Point",
+    "PhoenixPointWin64",
+    "PhoenixPointOSX.app\\Contents\\MacOS\\Phoenix Point"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/839770/81e1bd84f428691bfd6b698ce1034a9e17331c7a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839770/11a54f36e60fbfd2d0c0d4ba3f8794be98c4bb14/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839770/29be1b3d209f2bf98d248d912398daab9b527557/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839770/793cc5c3e1db10945e195b792c6d77db27e69725/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839770/c635e128fcc59ae18f2448629ff3fbb1a3f07b73/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839770/4d9629e2b62ae9b2a38ce8f84ce0b81c3604c35e/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839770/ss_da83e15b8c09bf72c40557073a6e2095fd6177b6.1920x1080.jpg?t=1765463457"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839770/ss_04c547f2ff2ac7f51140e9709632f0f98414f38b.1920x1080.jpg?t=1765463457"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839770/ss_5677befa846aed4289292e5ef53344c72b527a1c.1920x1080.jpg?t=1765463457"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839770/ss_a7b231ff7eca6ee90e0fde62b17c85c16d1dad5f.1920x1080.jpg?t=1765463457"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839770/ss_840978eb5819e4f2c918c3a10aa0241988e5086a.1920x1080.jpg?t=1765463457"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839770/ss_8ebc1dec3ad9a683a32eceb3af14ceb52a01c32a.1920x1080.jpg?t=1765463457"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839770/ss_78e6b2e8834b337f90c27387d8fc65a2d6b40288.1920x1080.jpg?t=1765463457"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839770/ss_d76955f328ab8bd595676aab8caa64e67d7bea23.1920x1080.jpg?t=1765463457"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839770/ss_fec1cf6a18ebaa763da6f4fd35e9d839307ab7cf.1920x1080.jpg?t=1765463457"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839770/ss_2ebee10252fd86d66ca57834f65cc8142bcee408.1920x1080.jpg?t=1765463457"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839770/ss_443b22fa52bd9a0ded383cfa3b3c8541f76fb9ab.1920x1080.jpg?t=1765463457"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839770/ss_866c10bfeb3918425c05f673efaa6b409a0940bb.1920x1080.jpg?t=1765463457"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Complete Edition - Now Available",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256895401/movie.293x165.jpg?t=1658422553",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/839770/478099/c0571fc0126b93051d4c4d65fbf694dc95892f7a/1750588226/dash_h264.mpd?t=1658422553"
+    },
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256895403/movie.293x165.jpg?t=1658422560",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/839770/478101/3bf41fc204224efd54266172c633b4cdde7abb66/1750588231/dash_h264.mpd?t=1658422560"
+    }
+  ],
+  "metacritic": {
+    "score": 74,
+    "url": "https://www.metacritic.com/game/pc/phoenix-point?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 839770,
+    "store_url": "https://store.steampowered.com/app/839770/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "RPG",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Tactical",
+      "Turn-Based Strategy",
+      "Grand Strategy",
+      "RPG",
+      "Strategy",
+      "Procedural Generation",
+      "Third-Person Shooter",
+      "Perma Death",
+      "PvE",
+      "Aliens",
+      "Character Customization",
+      "Post-apocalyptic",
+      "Third Person",
+      "Isometric",
+      "Horror",
+      "First-Person",
+      "Tutorial",
+      "Tactical RPG",
+      "Transhumanism",
+      "3D"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 5174,
+    "review_negative": 1907,
+    "review_total": 7081,
+    "review_positive_percent": 73.07
+  }
+}

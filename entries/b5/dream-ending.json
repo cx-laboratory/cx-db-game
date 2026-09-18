@@ -1,0 +1,148 @@
+{
+  "key": "dream-ending",
+  "name": "Dream Ending",
+  "description": "This is a small tale from the end. The leftovers of mankind are destined to perish as the Arks break orbit. Suddenly, however, she's making me ask her out, an invitation to face the apocalypse together... a short but exquisite visual novel, &quot;Dream Ending&quot; is humanity's last love story.",
+  "developers": [
+    "#workshop"
+  ],
+  "publishers": [
+    "NVLMaker"
+  ],
+  "release_date": "2019-07-23",
+  "website": "",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "visual-novel",
+    "romance",
+    "anime",
+    "sexual-content"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "schinese",
+    "tchinese"
+  ],
+  "name_localized": {
+    "schinese": "梦末",
+    "tchinese": "夢末"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "DreamEnding.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "savedata",
+          "pattern": "*.*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "NavilaSoftware/DreamEnding/SaveData",
+          "pattern": "*.nvlsav",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "NavilaSoftware/DreamEnding/SaveData",
+          "pattern": "*.jpg",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Dream Ending",
+    "DreamEnding",
+    "梦末",
+    "夢末"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/944020/e22c6788d850bda30771d874fc7757eb783acd11.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/944020/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/944020/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/944020/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/944020/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/944020/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/944020/ss_d208897c72c86a76ebbfbc5ddcd3b8472ec89465.1920x1080.jpg?t=1667655752"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/944020/ss_3112b27e5e3ca6e02d87c22e6b9d1733e014de55.1920x1080.jpg?t=1667655752"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/944020/ss_4c9ed4e9edbdea239a0110be2629bccaadeef071.1920x1080.jpg?t=1667655752"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/944020/ss_57024aa24e04e2bad14889a54591523290eecb82.1920x1080.jpg?t=1667655752"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/944020/ss_98e1d50c08e75eaba713194eef3698e895de5c8c.1920x1080.jpg?t=1667655752"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/944020/ss_9546323810eee852c05ca3cf6fcf4aa7d89bedbd.1920x1080.jpg?t=1667655752"
+    }
+  ],
+  "videos": [
+    {
+      "name": "gameplay",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256754595/movie.293x165.jpg?t=1561602797",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/944020/230179/d821c3f9b96d960e4006510eabb94f55342a6f94/1751167048/dash_h264.mpd?t=1561602797"
+    },
+    {
+      "name": "PV",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256753398/movie.293x165.jpg?t=1560481082",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/944020/228020/2b05a1c923c651c314d55ffc80f92ea06f831d7b/1751167046/dash_h264.mpd?t=1560481082"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 944020,
+    "store_url": "https://store.steampowered.com/app/944020/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Indie",
+      "Casual",
+      "Adventure",
+      "Visual Novel",
+      "Romance",
+      "Anime",
+      "Sexual Content"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 3104,
+    "review_negative": 103,
+    "review_total": 3207,
+    "review_positive_percent": 96.79
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "key": "duke-nukem-forever",
+  "name": "Duke Nukem Forever",
+  "description": "The King arrives with an arsenal of over-the-top weapons, giant explosions and pure unadulterated fun!",
+  "developers": [
+    "Gearbox Software"
+  ],
+  "publishers": [
+    "2K"
+  ],
+  "release_date": "2011-06-13",
+  "website": "http://www.dukenukemforever.com",
+  "tags": [
+    "action",
+    "multiplayer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "System\\DukeForever.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Duke Nukem Forever.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Duke Nukem Forever",
+    "System\\DukeForever",
+    "Duke Nukem Forever.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/57900/abea248e21456fae958b16dae9f131a51921199d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57900/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57900/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57900/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57900/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57900/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57900/ss_43b85e511818da6802e08e22fd3d9d4c48cfe566.1920x1080.jpg?t=1752189562"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57900/ss_a1115b6b3757bb29a75638624c9ee7f83d64ab79.1920x1080.jpg?t=1752189562"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57900/ss_d75fa0bed827f421eecb2225a428fab509ecf7f8.1920x1080.jpg?t=1752189562"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57900/ss_d054069d283b7defd36e1d2d0b9e08c0585dd2e7.1920x1080.jpg?t=1752189562"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57900/ss_582d42654501fe102b7af58b49b99049850da1db.1920x1080.jpg?t=1752189562"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57900/ss_17b93d286f888a2327ea716668169074e833ca87.1920x1080.jpg?t=1752189562"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57900/ss_41a124d388bbe1fde72fe82247b5770b198bfde2.1920x1080.jpg?t=1752189562"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57900/ss_1cd3661d07bf12e3e1ce00e53c75e04b6da4a68c.1920x1080.jpg?t=1752189562"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57900/ss_e56812cb5317ff1bb518152a74b1b37e98ce00a7.1920x1080.jpg?t=1752189562"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57900/ss_172cb2bb0ddfb5ff7a866a0f6aa6a1989d03a92e.1920x1080.jpg?t=1752189562"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57900/ss_79e24ea74f98142069964d4d07eabc41b3e03d29.1920x1080.jpg?t=1752189562"
+    }
+  ],
+  "videos": [],
+  "metacritic": {
+    "score": 54,
+    "url": "https://www.metacritic.com/game/pc/duke-nukem-forever?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 57900,
+    "store_url": "https://store.steampowered.com/app/57900/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Save Anytime",
+      "Subtitle Options",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Stats",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 5,
+    "review_score_desc": "Mixed",
+    "review_positive": 7992,
+    "review_negative": 3545,
+    "review_total": 11537,
+    "review_positive_percent": 69.27
+  }
+}

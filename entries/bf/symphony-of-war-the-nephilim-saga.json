@@ -1,0 +1,232 @@
+{
+  "key": "symphony-of-war-the-nephilim-saga",
+  "name": "Symphony of War: The Nephilim Saga",
+  "description": "Enter Tahnra, a land savaged by war. You, a fresh academy graduate with humble beginnings, will grow to lead a grand army against a corrupt adversary. Gather heroes, form bonds, and lead your force in turn-based battles. Make use of tactics, terrain, morale and more to bring peace to the land!",
+  "developers": [
+    "Dancing Dragon Games"
+  ],
+  "publishers": [
+    "indie.io"
+  ],
+  "release_date": "2022-06-11",
+  "website": "https://www.dancingdragongames.com/",
+  "tags": [
+    "adventure",
+    "indie",
+    "rpg",
+    "strategy",
+    "tactical-rpg",
+    "story-rich",
+    "turn-based-strategy",
+    "fantasy",
+    "female-protagonist",
+    "strategy-rpg",
+    "pixel-graphics",
+    "romance",
+    "lore-rich",
+    "2d",
+    "jrpg",
+    "auto-battler",
+    "party-based-rpg",
+    "singleplayer",
+    "tactical",
+    "turn-based-tactics"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Portuguese - Brazil",
+    "Simplified Chinese*",
+    "Russian*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "战争交响曲：尼菲林传奇"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "steamshim.exe",
+          "description": "Symphony of War: The Nephilim Saga",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Nephilim",
+          "pattern": "*.rvdata2",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "savedata",
+          "pattern": "*.rvdata2",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Symphony of War: The Nephilim Saga",
+    "steamshim",
+    "战争交响曲：尼菲林传奇"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1488200/35809511a6c2a0a36d8daec5436ea2864271094a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/4bb38b692df35b5ce84e7ac3c95368c159b966fe/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/ca1cbd6e06cc80aa54784e23213fe3d2898c5688/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/ss_585b01d262ccf69d527958ac4cea35792cb964bd.1920x1080.jpg?t=1769642928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/ss_5ba8ce57a8f9d381173c8a39af433c3de2278f52.1920x1080.jpg?t=1769642928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/ss_ffa5d3603817ee6aaacf1b5a27ec9f4197e605bf.1920x1080.jpg?t=1769642928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/ss_43d98ca3445ab81ce629a26cf8ca44dd52daa2f5.1920x1080.jpg?t=1769642928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/ss_88bab591b3afd1811649ca417a1d57314350a8f8.1920x1080.jpg?t=1769642928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/ss_49b9c029f5224d79acb24f633eebaff95733e496.1920x1080.jpg?t=1769642928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/ss_3513d162389b3e254725e2b170b7a760e31d95de.1920x1080.jpg?t=1769642928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/ss_f64c3907b7c97a9bef03ad5013d1ac48f9ba7ec6.1920x1080.jpg?t=1769642928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/ss_8ed92b48dbbe1099d047addfa920db7d3aa04176.1920x1080.jpg?t=1769642928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/ss_7a5f8fbeed05386120178e54cf17bc75a30b3d48.1920x1080.jpg?t=1769642928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/ss_16fe41e57f131214777fd3598def7f2e3f8dd179.1920x1080.jpg?t=1769642928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/ss_60aed4a96f062bf10df9f3f843dbd4f0e7bef2a6.1920x1080.jpg?t=1769642928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/ss_2923c56ac0c4ae0d5a264ba0872d6a4bc658268a.1920x1080.jpg?t=1769642928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/ss_8bf7c05b6d6ae1296fa0ac2de8200d48bf533636.1920x1080.jpg?t=1769642928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/ss_36a9f5e88c13f089dd3fc55669de88bbbc329055.1920x1080.jpg?t=1769642928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/ss_737f042aa8cc9ccab0aa2cccca6053cb30db9ec1.1920x1080.jpg?t=1769642928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/ss_5f9b2a3d3c1e16fe872c6358a6e206620345a127.1920x1080.jpg?t=1769642928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/ss_bd817ba7c8f98c1d6520030c9e3b0c6b45445b27.1920x1080.jpg?t=1769642928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/ss_cff070a680bd2aa6255321740933eca019a917ee.1920x1080.jpg?t=1769642928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/ss_588fb6df631dce855e28bea191ff46c925aadc98.1920x1080.jpg?t=1769642928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/ss_8325900b33d5125d2bb06509e9e7be41c282884b.1920x1080.jpg?t=1769642928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/ss_563586d1a9acd1edbfc982dfbc199e52a6db4beb.1920x1080.jpg?t=1769642928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488200/ss_ea7523d31f4fe9e03008418beae9b32219493dfe.1920x1080.jpg?t=1769642928"
+    }
+  ],
+  "videos": [
+    {
+      "name": "IGN Trailer 6/10/22",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256891089/movie.293x165.jpg?t=1654891173",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1488200/470839/82e59e44e942c648cedb1ad2706f9b38c9cf48c2/1750694205/dash_h264.mpd?t=1654891173"
+    },
+    {
+      "name": "Freedom Showcase 5/13/22",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256886497/movie.293x165.jpg?t=1652465254",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1488200/462886/02d17411e14e157b1e55aefe5c91ced5602dbdc2/1750694201/dash_h264.mpd?t=1652465254"
+    }
+  ],
+  "metacritic": {
+    "score": 81,
+    "url": "https://www.metacritic.com/game/pc/symphony-of-war-the-nephilim-saga?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1488200,
+    "store_url": "https://store.steampowered.com/app/1488200/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Tactical RPG",
+      "RPG",
+      "Story Rich",
+      "Turn-Based Strategy",
+      "Fantasy",
+      "Adventure",
+      "Female Protagonist",
+      "Strategy RPG",
+      "Pixel Graphics",
+      "Romance",
+      "Lore-Rich",
+      "Strategy",
+      "2D",
+      "JRPG",
+      "Auto Battler",
+      "Party-Based RPG",
+      "Indie",
+      "Singleplayer",
+      "Tactical",
+      "Turn-Based Tactics"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 13789,
+    "review_negative": 801,
+    "review_total": 14590,
+    "review_positive_percent": 94.51
+  }
+}

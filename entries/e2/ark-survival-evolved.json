@@ -1,0 +1,303 @@
+{
+  "key": "ark-survival-evolved",
+  "name": "ARK: Survival Evolved",
+  "description": "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape!",
+  "developers": [
+    "Studio Wildcard"
+  ],
+  "publishers": [
+    "Studio Wildcard"
+  ],
+  "release_date": "2017-08-29",
+  "website": "http://www.playark.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "massively-multiplayer",
+    "rpg",
+    "multiplayer",
+    "co-op",
+    "open-world-survival-craft",
+    "survival",
+    "open-world",
+    "dinosaurs",
+    "crafting",
+    "building",
+    "base-building",
+    "sandbox",
+    "first-person",
+    "singleplayer",
+    "early-access",
+    "dragons",
+    "sci-fi"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "russian",
+    "polish",
+    "finnish",
+    "hungarian",
+    "czech",
+    "turkish",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ShooterGame\\Binaries\\Win64\\ShooterGame_BE.exe",
+          "description": "Launch ARK",
+          "type": "none"
+        },
+        {
+          "executable": "ShooterGame\\Binaries\\Win64\\ShooterGame.exe",
+          "description": "Play ARK: No BattlEye AntiCheat, Unofficial Servers Only",
+          "type": "none"
+        },
+        {
+          "executable": "ShooterGame\\Binaries\\Win64\\ShooterGame_BE.exe",
+          "description": "Launch ARK (DirectX 10, Low-End Graphics)",
+          "type": "none"
+        },
+        {
+          "executable": "ShooterGame\\Binaries\\Win64\\ShooterGame_BE.exe",
+          "description": "Launch ARK with NVIDIA Ansel",
+          "type": "none"
+        },
+        {
+          "executable": "ShooterGame\\Binaries\\Win64\\ShooterGame.exe",
+          "description": "Launch ARK (Reset Active Total Conversion)",
+          "type": "none"
+        },
+        {
+          "executable": "ShooterGame\\Binaries\\Win64\\ShooterGame_BE.exe",
+          "description": "Launch ARK (Extremely Low Memory)",
+          "type": "none"
+        },
+        {
+          "executable": "ShooterGame\\Binaries\\Win64\\ShooterGame_BE.exe",
+          "description": "Launch ARK (No Sky Effects)",
+          "type": "none"
+        },
+        {
+          "executable": "ShooterGame\\Binaries\\Win64\\ShooterGame.exe",
+          "description": "Reset Game Resolution",
+          "type": "none"
+        },
+        {
+          "executable": "ShooterGame\\Binaries\\Win64\\ShooterGame_BE.exe",
+          "description": "Uninstall BattlEye",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "ShooterGame.app",
+          "description": "Launch ARK",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "ARK: Survival Evolved",
+    "ShooterGame\\Binaries\\Win64\\ShooterGame_BE",
+    "ShooterGame\\Binaries\\Win64\\ShooterGame",
+    "ShooterGame.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/346110/fef1799533131c10f538d2dd697bbbd89e663265.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/ss_2fd997a2f7151cb2187043a1f41589cc6a9ebf3a.1920x1080.jpg?t=1765677889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/ss_01cbef83fe28d64ee5a3d39a86043fb1e49abd31.1920x1080.jpg?t=1765677889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/ss_164a92a53f9bcbb728b391fc0719f9769c2e1249.1920x1080.jpg?t=1765677889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/ss_46778c08a1a5ac5bdbaf8a5bf844fa666f66a14b.1920x1080.jpg?t=1765677889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/ss_ffe9f0e2e23892f3bb6188e5a3eed0f60a08baf4.1920x1080.jpg?t=1765677889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/ss_cada382a940c062a1a5244db8da1326de55ddeae.1920x1080.jpg?t=1765677889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/ss_1a7f5508e5384a759ccc83fa484db04513213698.1920x1080.jpg?t=1765677889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/ss_ffd48da603fa700d10738ae4ee44ce2b9113cb64.1920x1080.jpg?t=1765677889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/ss_7f9c3429b86d65cd63beed4597a23148d7cadf08.1920x1080.jpg?t=1765677889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/ss_fb806797fb216cad733dc70a3fc732134442b1e6.1920x1080.jpg?t=1765677889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/ss_f72af9a68df60b7299b13f07b8165c71b8eac2aa.1920x1080.jpg?t=1765677889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/ss_1e494e45758b4dd3323b1c359047aaaa5be101d5.1920x1080.jpg?t=1765677889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/ss_5d60317fff984fcd8d8a7bee9c51f8e0729f7e8f.1920x1080.jpg?t=1765677889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/ss_3dc2a30d50dc7f90a063dfdf522d33365531ee45.1920x1080.jpg?t=1765677889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/ss_b6e12f80b762779d72429b81f09cc1bff3a04502.1920x1080.jpg?t=1765677889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/ss_5cd31fadb3bf000f48dd7d15dfcdaabe3adfa143.1920x1080.jpg?t=1765677889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/ss_d2167e4dfbaba128a1ff913fbe6dd17a1e500afb.1920x1080.jpg?t=1765677889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/ss_99814e21d5079b9f614833666fa5f083e836ae97.1920x1080.jpg?t=1765677889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/ss_120e315aa92fbbdd2f41b755308f9c3294aac4f8.1920x1080.jpg?t=1765677889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/ss_20d4167db64362df71a16b7f29fa299439374e26.1920x1080.jpg?t=1765677889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/ss_a73ab1d7971328d6bbb007714e7955fc80ac0e9a.1920x1080.jpg?t=1765677889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/ss_98b29ddcd624ac63b868c13167c9d0e1f4d1d811.1920x1080.jpg?t=1765677889"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/ss_a1c33e4e5d26a6cfb475f062fdbcee6c57fb0352.1920x1080.jpg?t=1765677889"
+    }
+  ],
+  "videos": [
+    {
+      "name": "ARK: Ultimate Survivor Edition Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256836250/movie.293x165.jpg?t=1622089232",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/346110/372586/b23204cd58f68c42a07248e8472b9296c1c875c5/1750513376/dash_h264.mpd?t=1622089232"
+    },
+    {
+      "name": "ARK: Survival Evolved Global Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256693939/movie.293x165.jpg?t=1508277163",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/346110/120324/8f593865eaf45d86aadf62f50b607d889f2a3fee/1750513308/dash_h264.mpd?t=1508277163"
+    },
+    {
+      "name": "ARK: Homestead Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256744539/movie.293x165.jpg?t=1551899542",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/346110/211961/9eeb7e015a7b8a4a7b163acd761d23fb1492c572/1750513313/dash_h264.mpd?t=1551899542"
+    },
+    {
+      "name": "ARK Survival Evolved Gamescom 2015 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256655397/movie.293x165.jpg?t=1503989702",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/346110/40611/d851ad9671dcf78ca82e262c5d559456f7bc90c2/1750513291/dash_h264.mpd?t=1503989702"
+    },
+    {
+      "name": "ARK Redwood Biome and Spotlight: Titanosaur",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256666035/movie.293x165.jpg?t=1503989709",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/346110/63150/acedc297491dae73600e5bb8adb779f0920e709b/1750513299/dash_h264.mpd?t=1503989709"
+    },
+    {
+      "name": "ARK New Biomes Expansion Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256656850/movie.293x165.jpg?t=1503989720",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/346110/43836/0733ca7ea4dad31e967a21ed0600503e39fbbbd6/1750513297/dash_h264.mpd?t=1503989720"
+    },
+    {
+      "name": "ARK: Survival Evolved Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2039177/movie.293x165.jpg?t=1503989726",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/346110/35669/aded2215409d03365ba9695b04223bd3edfdf29b/1750513613/dash_h264.mpd?t=1503989726"
+    }
+  ],
+  "metacritic": {
+    "score": 70,
+    "url": "https://www.metacritic.com/game/pc/ark-survival-evolved?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 346110,
+    "store_url": "https://store.steampowered.com/app/346110/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "MMO",
+      "Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled",
+      "Includes level editor",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Open World Survival Craft",
+      "Survival",
+      "Multiplayer",
+      "Open World",
+      "Dinosaurs",
+      "Crafting",
+      "Building",
+      "Adventure",
+      "Base Building",
+      "Co-op",
+      "Action",
+      "Sandbox",
+      "First-Person",
+      "Massively Multiplayer",
+      "Singleplayer",
+      "Early Access",
+      "Dragons",
+      "RPG",
+      "Sci-fi",
+      "Indie"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 642813,
+    "review_negative": 128588,
+    "review_total": 771401,
+    "review_positive_percent": 83.33
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "key": "neo-scavenger",
+  "name": "NEO Scavenger",
+  "description": "NEO Scavenger is a game where you must survive in the wasteland long enough to figure out who you are. Each turn, you must decide where to go, how to scavenge for supplies, and how to deal with anything and anyone you encounter.",
+  "developers": [
+    "Blue Bottle Games"
+  ],
+  "publishers": [
+    "Blue Bottle Games"
+  ],
+  "release_date": "2014-12-16",
+  "website": "https://bluebottlegames.com/games/neo-scavenger",
+  "tags": [
+    "indie",
+    "rpg",
+    "strategy",
+    "survival",
+    "post-apocalyptic",
+    "roguelike",
+    "turn-based",
+    "crafting",
+    "procedural-generation",
+    "perma-death",
+    "inventory-management",
+    "difficult",
+    "sandbox",
+    "open-world",
+    "realistic",
+    "singleplayer",
+    "grid-based-movement",
+    "hex-grid",
+    "turn-based-strategy",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "NEOScavenger.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "NEOScavenger.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "NEOScavenger",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "NEO Scavenger",
+    "NEOScavenger",
+    "NEOScavenger.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/248860/0080af0f8bb5749612f8e05f513d272570fc024a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248860/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248860/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248860/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248860/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248860/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248860/ss_0206930559928876bc32c4fa9928b5454efb302b.1920x1080.jpg?t=1781025156"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248860/ss_92b26368f8fa5e6a7ceaf8fb037c6db8cd23bc30.1920x1080.jpg?t=1781025156"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248860/ss_f72c7858ecc10a74598c6fa198203e75dd65db05.1920x1080.jpg?t=1781025156"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248860/ss_dadcda4155cca8ce30c002b514fd394dce0e1dcc.1920x1080.jpg?t=1781025156"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248860/ss_2083362cff7b5bfb364ecb2fbefbd547d4ec5b31.1920x1080.jpg?t=1781025156"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248860/ss_da543bef653ad123bc1becea767f021cb01017fd.1920x1080.jpg?t=1781025156"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248860/ss_1355c46324cb4f9463feb75e330fa9a2dd2c6a45.1920x1080.jpg?t=1781025156"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248860/ss_6f9eeeb78aebcc359468f02a5f23b2f234ca5d19.1920x1080.jpg?t=1781025156"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248860/ss_31c1dee9d01cc9483f191381ae50120db85aa74b.1920x1080.jpg?t=1781025156"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248860/ss_325acf9783dfa05c7e4479080da05e076ba82470.1920x1080.jpg?t=1781025156"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248860/ss_053c8fef9dfc9550d642c1ab9cedb5e0592dca66.1920x1080.jpg?t=1781025156"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248860/ss_42cd7dc6f3ff5e9fbe3b5542752e6a050aad32f4.1920x1080.jpg?t=1781025156"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248860/ss_09926eb3771a55c952dfe9d55e3bd8a1f0e0879a.1920x1080.jpg?t=1781025156"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248860/ss_700aa36ac9264b4d02294a837062971318f834af.1920x1080.jpg?t=1781025156"
+    }
+  ],
+  "videos": [
+    {
+      "name": "NEO Scavenger Mobile Trailer - Mar 2017",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256691357/movie.293x165.jpg?t=1501103252",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/248860/115492/88436969eef3d316027dd16ba2653f293fbdeeda/1750487615/dash_h264.mpd?t=1501103252"
+    },
+    {
+      "name": "NEO Scavenger Gameplay Trailer - Aug 2012",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2030147/movie.293x165.jpg?t=1447359532",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/248860/15286/82342f88d12e733149025ff569a21bdfe1d265db/1750487612/dash_h264.mpd?t=1447359532"
+    }
+  ],
+  "metacritic": {
+    "score": 77,
+    "url": "https://www.metacritic.com/game/pc/neo-scavenger?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 248860,
+    "store_url": "https://store.steampowered.com/app/248860/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Trading Cards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Survival",
+      "Post-apocalyptic",
+      "Roguelike",
+      "RPG",
+      "Turn-Based",
+      "Crafting",
+      "Procedural Generation",
+      "Perma Death",
+      "Indie",
+      "Strategy",
+      "Inventory Management",
+      "Difficult",
+      "Sandbox",
+      "Open World",
+      "Realistic",
+      "Singleplayer",
+      "Grid-Based Movement",
+      "Hex Grid",
+      "Turn-Based Strategy",
+      "Adventure"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 4830,
+    "review_negative": 556,
+    "review_total": 5386,
+    "review_positive_percent": 89.68
+  }
+}

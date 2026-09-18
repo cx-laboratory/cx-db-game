@@ -1,0 +1,141 @@
+{
+  "key": "loading-screen-simulator",
+  "name": "Loading Screen Simulator",
+  "description": "A game about never-ending problem of loading screens. We've all experienced it while playing games, while downloading something, while installing an operating system ect. And now you can experience it once again in Loading Screen Simulator: Steam edition",
+  "developers": [
+    "CakeEaterGames"
+  ],
+  "publishers": [
+    "CakeEaterGames"
+  ],
+  "release_date": "2017-07-14",
+  "website": "http://cakeeatergames.ru",
+  "tags": [
+    "casual",
+    "free-to-play",
+    "indie",
+    "simulation",
+    "incremental",
+    "memes",
+    "singleplayer",
+    "funny",
+    "comedy",
+    "family-friendly",
+    "2d",
+    "difficult",
+    "pixel-graphics",
+    "atmospheric",
+    "violent",
+    "relaxing",
+    "open-world",
+    "rpg",
+    "post-apocalyptic",
+    "first-person"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "LSS.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Loading Screen Simulator",
+    "LSS"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/652980/a05d56896d73128b477f78062b6cfc72f03c30d1.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/652980/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/652980/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/652980/capsule_231x87.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/652980/ss_46f57ebea84aacabc13bb23fd6193938fceaff13.1920x1080.jpg?t=1500000508"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/652980/ss_5a86b9d55225420f05fa0a9f34fe0db6a070b89a.1920x1080.jpg?t=1500000508"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/652980/ss_1e3688ae6bccf6ef696324929219cdb3cc394791.1920x1080.jpg?t=1500000508"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/652980/ss_ca7442dd7c28989546611f6d248a92c1a44bca58.1920x1080.jpg?t=1500000508"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/652980/ss_a2eec5a00890318b3fc77afb717d11915d797a51.1920x1080.jpg?t=1500000508"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Loading Screen Sumulator: Steam edition",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256688683/movie.293x165.jpg?t=1498779011",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/652980/110656/2d77221d4ea5e87b859473994c4876ecb6b4b83b/1751162092/dash_h264.mpd?t=1498779011"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 652980,
+    "store_url": "https://store.steampowered.com/app/652980/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Casual",
+      "Free To Play",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Incremental",
+      "Memes",
+      "Simulation",
+      "Indie",
+      "Casual",
+      "Singleplayer",
+      "Funny",
+      "Comedy",
+      "Family Friendly",
+      "2D",
+      "Difficult",
+      "Pixel Graphics",
+      "Atmospheric",
+      "Violent",
+      "Relaxing",
+      "Open World",
+      "RPG",
+      "Post-apocalyptic",
+      "First-Person"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7460,
+    "review_negative": 1146,
+    "review_total": 8606,
+    "review_positive_percent": 86.68
+  }
+}

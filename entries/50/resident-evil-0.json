@@ -1,0 +1,122 @@
+{
+  "key": "resident-evil-0",
+  "name": "Resident Evil 0",
+  "description": "Before the mansion, before the destruction of Raccoon City, there was Resident Evil 0. Now remastered with improved visuals and sounds, as well as the all-new Wesker Mode, there's never been a better time to experience the origins of the Resident Evil story.",
+  "developers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "publishers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "release_date": "2016-01-20",
+  "website": "http://www.residentevil.com/",
+  "tags": [
+    "action",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "japanese": "biohazard 0 HD REMASTER",
+    "koreana": "biohazard 0 HD REMASTER"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "re0hd.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Resident Evil 0",
+    "re0hd",
+    "biohazard 0 HD REMASTER"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/339340/db120ea03830d200f5ba41567b2dd4556aa33705.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/339340/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/339340/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/339340/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/339340/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/339340/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/339340/ss_d5a3942f55ef3740038f47b3cba060d8f7c30796.1920x1080.jpg?t=1768953920"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/339340/ss_b0199743726c2c5a2ce61069dce8e106a80add04.1920x1080.jpg?t=1768953920"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/339340/ss_07f1cd2e785c0fc107727d7d3a87c6bfa8a2a14f.1920x1080.jpg?t=1768953920"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/339340/ss_118273fd3c8aec4e98fc90e257cc01e30a133687.1920x1080.jpg?t=1768953920"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/339340/ss_fdcfae4e8f5205673ce70b04c50890a3efe0bc95.1920x1080.jpg?t=1768953920"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/339340/ss_828ec43ddc35054f07f86c26d3f7bce2a1a0a618.1920x1080.jpg?t=1768953920"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/339340/ss_bb0c7e991eb99cbbae1b88f7cf7ac591944d3acb.1920x1080.jpg?t=1768953920"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/339340/ss_6acfba70b11e17510275814e54b15053caf08984.1920x1080.jpg?t=1768953920"
+    }
+  ],
+  "videos": [
+    {
+      "name": "RE0_1st Trailer_US",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2039985/movie.293x165.jpg?t=1447376066",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/339340/37405/b3cf08f3fe347708030884c9ea4a8d723c38beba/1750511491/dash_h264.mpd?t=1447376066"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 339340,
+    "store_url": "https://store.steampowered.com/app/339340/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 15286,
+    "review_negative": 3778,
+    "review_total": 19064,
+    "review_positive_percent": 80.18
+  }
+}

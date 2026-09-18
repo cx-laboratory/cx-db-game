@@ -1,0 +1,209 @@
+{
+  "key": "magicka-2",
+  "name": "Magicka 2",
+  "description": "The world’s most irreverent co-op action adventure returns! In the next chapter of Magicka, players ascend from the ruins of Aldrheim to experience a Midgård almost wiped free of Wizards after the Wizard Wars, with the few that do remain having either gone mad or extremely hostile toward all others",
+  "developers": [
+    "Pieces Interactive"
+  ],
+  "publishers": [
+    "Paradox Interactive"
+  ],
+  "release_date": "2015-05-26",
+  "website": "http://www.magicka2.com",
+  "tags": [
+    "action",
+    "adventure",
+    "multiplayer",
+    "co-op",
+    "magic",
+    "comedy",
+    "online-co-op",
+    "funny",
+    "local-multiplayer",
+    "rpg",
+    "team-based",
+    "atmospheric",
+    "pvp",
+    "fantasy",
+    "open-world",
+    "singleplayer",
+    "gore",
+    "memes",
+    "4-player-local"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "engine/Magicka2.exe",
+          "description": "Play Magicka 2",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "engine/Magicka2.app",
+          "description": "Play Magicka 2",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "engine/Magicka2",
+          "description": "Play Magicka 2",
+          "type": "default"
+        },
+        {
+          "executable": "engine/Magicka2_x64",
+          "description": "Play Magicka 2",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Magicka 2",
+    "engine/Magicka2",
+    "engine/Magicka2.app",
+    "engine/Magicka2_x64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/238370/6c1ca2ff2c0f87c4d0a5378a9dbc7b7277bd239b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238370/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238370/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238370/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238370/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238370/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238370/ss_41b744c738cc2d394378ccd1b1bf5e1db0163b64.1920x1080.jpg?t=1709831158"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238370/ss_ab78099a447154ad202a1043a2a051c35df7a586.1920x1080.jpg?t=1709831158"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238370/ss_b270b4da37c5fd3daa6c0d9d2b75064f32679556.1920x1080.jpg?t=1709831158"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238370/ss_acc283cf39ad175376cc75fd718a8738e3d91372.1920x1080.jpg?t=1709831158"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238370/ss_1af2c0b9659e116ed200c994900074e496ef1d07.1920x1080.jpg?t=1709831158"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238370/ss_251d8a4113b2ea042e97364b2088a78d597ee5da.1920x1080.jpg?t=1709831158"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238370/ss_9ae2227cbe35c9f59aa6f9f684533681dfa63531.1920x1080.jpg?t=1709831158"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238370/ss_ae67d31d038cf9f8a91f3da77b1f4775a533de8d.1920x1080.jpg?t=1709831158"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238370/ss_c44be8f4cea776373a4932166bcce7a824b78eef.1920x1080.jpg?t=1709831158"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238370/ss_c2084c76f23e6e6109eb6c25684912e5b8d55844.1920x1080.jpg?t=1709831158"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238370/ss_bb56b1d567d71a3b70a2756c4aae2263f3d2c2eb.1920x1080.jpg?t=1709831158"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238370/ss_13da82f226d2510aa1c1d30850b516f9eb609f32.1920x1080.jpg?t=1709831158"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238370/ss_b696c03b76933a711fbca30ef58fab189f230002.1920x1080.jpg?t=1709831158"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238370/ss_47c50c9541280f4e6fbd34fee32e7529883fb37e.1920x1080.jpg?t=1709831158"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238370/ss_a87b107c505eaa694078c2a57661ffcf2bce1684.1920x1080.jpg?t=1709831158"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238370/ss_58ab0660af4d94131056672791c396b5e821eabd.1920x1080.jpg?t=1709831158"
+    }
+  ],
+  "videos": [],
+  "metacritic": null,
+  "steam": {
+    "appid": 238370,
+    "store_url": "https://store.steampowered.com/app/238370/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Magic",
+      "Co-op",
+      "Adventure",
+      "Multiplayer",
+      "Comedy",
+      "Action",
+      "Online Co-Op",
+      "Funny",
+      "Local Co-Op",
+      "RPG",
+      "Team-Based",
+      "Atmospheric",
+      "PvP",
+      "Fantasy",
+      "Local Multiplayer",
+      "Open World",
+      "Singleplayer",
+      "Gore",
+      "Memes",
+      "4 Player Local"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 11391,
+    "review_negative": 2415,
+    "review_total": 13806,
+    "review_positive_percent": 82.51
+  }
+}

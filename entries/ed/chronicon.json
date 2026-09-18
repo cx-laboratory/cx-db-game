@@ -1,0 +1,280 @@
+{
+  "key": "chronicon",
+  "name": "Chronicon",
+  "description": "Use the magical device known as the Chronicon to travel into the souls and memories of fallen heroes to re-live their grand tales! Epic adventures full of loot and monsters await!",
+  "developers": [
+    "Subworld"
+  ],
+  "publishers": [
+    "Subworld"
+  ],
+  "release_date": "2020-08-22",
+  "website": "http://www.subworldgames.com/chronicon/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "multiplayer",
+    "co-op",
+    "split-screen",
+    "loot",
+    "action-rpg",
+    "hack-and-slash",
+    "dungeon-crawler",
+    "pixel-graphics",
+    "crafting",
+    "4-player-local",
+    "procedural-generation",
+    "local-multiplayer",
+    "action-adventure",
+    "2d",
+    "pve",
+    "fantasy",
+    "singleplayer",
+    "class-based",
+    "magic"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "schinese",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "Chronicon - 英雄旧忆"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Chronicon.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Chronicon/save",
+          "pattern": "*.char",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Chronicon/save",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Chronicon/save",
+          "pattern": "*.stash",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Chronicon/save/backups",
+          "pattern": "*.backup*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Chronicon/graveyard",
+          "pattern": "*.grave",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Chronicon/graveyard",
+          "pattern": "*.yard",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Chronicon/save",
+          "pattern": "*.txt",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "run.sh",
+          "description": "Chronicon (wider compatibility)",
+          "type": "option2"
+        },
+        {
+          "executable": "Chronicon",
+          "description": "Chronicon (Ubuntu)",
+          "type": "option3"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Chronicon/save",
+          "pattern": "*.char",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Chronicon/save",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Chronicon/save",
+          "pattern": "*.stash",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Chronicon/save/backups",
+          "pattern": "*.backup*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Chronicon/graveyard",
+          "pattern": "*.grave",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Chronicon/graveyard",
+          "pattern": "*.yard",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Chronicon/save",
+          "pattern": "*.txt",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Chronicon",
+    "run.sh",
+    "Chronicon - 英雄旧忆"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/375480/43ba4454e87bfb71d210b354bab79a34b76c33d2.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375480/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375480/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375480/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375480/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375480/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375480/ss_9df1ebe0b394b7e649233b9c62dacee117915e06.1920x1080.jpg?t=1763636345"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375480/ss_cfd32218e8a02cf55b30430dd50790d8cb17b0a7.1920x1080.jpg?t=1763636345"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375480/ss_e9f2bc50110a47194a29001ed4b482bfb9709989.1920x1080.jpg?t=1763636345"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375480/ss_751bbac9b3e96da2d333003c2ace423d5fd30ff7.1920x1080.jpg?t=1763636345"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375480/ss_7c839f6e77e1daf35c15690ecd0100f6002edf54.1920x1080.jpg?t=1763636345"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375480/ss_21598d8125fe256af50180bf5a289623ea4e2388.1920x1080.jpg?t=1763636345"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375480/ss_ccd76cf127aad8c737e14ef41e292c4df62ca811.1920x1080.jpg?t=1763636345"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375480/ss_456b96726bc2889737f17e43c0364f525075e5bf.1920x1080.jpg?t=1763636345"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375480/ss_f1506be5673302532df14e540cce8175b0b240f8.1920x1080.jpg?t=1763636345"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Chronicon Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256812623/movie.293x165.jpg?t=1607343038",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/375480/331975/b704c98623ecd0a57f80af81b8073e05a4551114/1750520416/dash_h264.mpd?t=1607343038"
+    },
+    {
+      "name": "1.20.0 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256827539/movie.293x165.jpg?t=1616764424",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/375480/356839/aa89a91ac950dc5802eb7ec3f0dc55bce4ee79fb/1750520432/dash_h264.mpd?t=1616764424"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 375480,
+    "store_url": "https://store.steampowered.com/app/375480/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Stats",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Loot",
+      "Action RPG",
+      "Hack and Slash",
+      "Dungeon Crawler",
+      "Pixel Graphics",
+      "RPG",
+      "Crafting",
+      "Indie",
+      "4 Player Local",
+      "Procedural Generation",
+      "Local Co-Op",
+      "Action-Adventure",
+      "Action",
+      "2D",
+      "PvE",
+      "Fantasy",
+      "Adventure",
+      "Singleplayer",
+      "Class-Based",
+      "Magic"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 9104,
+    "review_negative": 562,
+    "review_total": 9666,
+    "review_positive_percent": 94.19
+  }
+}

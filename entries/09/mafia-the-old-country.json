@@ -1,0 +1,288 @@
+{
+  "key": "mafia-the-old-country",
+  "name": "Mafia: The Old Country",
+  "description": "Uncover the origins of organized crime in Mafia: The Old Country, a gritty mob story set in the brutal underworld of 1900s Sicily. Fight to survive as Enzo Favara and prove your worth to the Family in this immersive third-person action-adventure.",
+  "developers": [
+    "Hangar 13"
+  ],
+  "publishers": [
+    "2K"
+  ],
+  "release_date": "2025-08-08",
+  "website": "https://mafia.2k.com/",
+  "tags": [
+    "action",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "czech",
+    "brazilian",
+    "ukrainian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "四海兄弟：故乡",
+    "tchinese": "四海兄弟：故鄉",
+    "czech": "Mafia: Domovina",
+    "italian": "Mafia: Terra Madre",
+    "japanese": "マフィア：オリジン ～裏切りの祖国",
+    "koreana": "마피아:  올드 컨트리",
+    "polish": "Mafia: Dawne Strony",
+    "spanish": "Mafia: El Viejo Continente",
+    "latam": "Mafia: The Old Country"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "\\Nero\\Binaries\\Win64\\Nero-Win64-Shipping.exe",
+          "description": "Nero - Shipping",
+          "type": "option1"
+        },
+        {
+          "executable": "\\game\\Nero\\Binaries\\Win64\\Nero.exe",
+          "description": "Nero - Dev (No Optimizations / All Logs)",
+          "type": "option1"
+        },
+        {
+          "executable": "\\game2\\Nero\\Binaries\\Win64\\Nero.exe",
+          "description": "Nero (Prepro)",
+          "type": "option1"
+        },
+        {
+          "executable": "\\game\\Nero\\Binaries\\Win64\\Nero-Win64-Test.exe",
+          "description": "Nero - Test (Optimization / Logs)",
+          "type": "option1"
+        },
+        {
+          "executable": "\\game2\\Nero\\Binaries\\Win64\\Nero-Win64-Shipping.exe",
+          "description": "Nero - Shipping (Prepro)",
+          "type": "option1"
+        },
+        {
+          "executable": "\\game\\Nero\\Binaries\\Win64\\Nero-Win64-Shipping.exe",
+          "description": "Nero - Shipping (No Cheats)",
+          "type": "option1"
+        },
+        {
+          "executable": "\\game2\\Nero\\Binaries\\Win64\\Nero-Win64-Test.exe",
+          "description": "Nero - Test (Prepro)",
+          "type": "option1"
+        },
+        {
+          "executable": "\\game\\Nero\\Binaries\\Win64\\Run_Nero.bat",
+          "description": "Nero - Shipping (User Test)",
+          "type": "option1"
+        },
+        {
+          "executable": "\\game\\Nero\\Binaries\\Win64\\Nero-Win64-Shipping.exe",
+          "description": "Nero - Shipping (No Cheats) + Bootflow",
+          "type": "option1"
+        },
+        {
+          "executable": "\\game\\Nero\\Binaries\\Win64\\MafiaTheOldCountry.exe",
+          "description": "Nero - Shipping (No Cheats)",
+          "type": "option1"
+        },
+        {
+          "executable": "\\Nero\\Binaries\\Win64\\Nero-Win64-Test.exe",
+          "description": "Nero - Test (Disabled Debug UI)",
+          "type": "option1"
+        },
+        {
+          "executable": "\\Nero\\Binaries\\Win64\\Nero-Win64-Test.exe",
+          "description": "Nero - Test (Optimization / Logs)",
+          "type": "option3"
+        },
+        {
+          "executable": "\\Nero\\Binaries\\Win64\\Nero.exe",
+          "description": "Nero - Dev (No Optimizations / All Logs)",
+          "type": "option1"
+        },
+        {
+          "executable": "\\MafiaTheOldCountry\\Binaries\\Win64\\MafiaTheOldCountry.exe",
+          "description": "Nero - Shipping (No Cheats)",
+          "type": "option1"
+        },
+        {
+          "executable": "\\MafiaTheOldCountry\\Binaries\\Win64\\MafiaTheOldCountry-logging.exe",
+          "description": "Nero - Shipping Logging (Only for reproducing bugs!)",
+          "type": "option2"
+        },
+        {
+          "executable": "\\Nero\\Binaries\\Win64\\Nero-Win64-Test.exe",
+          "description": "Nero - Test Protected (Optimization / Logs)",
+          "type": "option1"
+        },
+        {
+          "executable": "\\MafiaTheOldCountry\\Binaries\\Win64\\MafiaTheOldCountry.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "\\Nero\\Binaries\\Win64\\Nero-Win64-Test.exe",
+          "description": "Nero - Test, All DLCs Unlocked (Optimization / Logs)",
+          "type": "option2"
+        },
+        {
+          "executable": "\\Nero\\Binaries\\Win64\\Nero-Win64-Test.exe",
+          "description": "Nero - Test, All DLCs Unlocked (No Debug UI)",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Hangar 13 Games/Mafia The Old Country/SaveGames/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Mafia: The Old Country",
+    "\\Nero\\Binaries\\Win64\\Nero-Win64-Shipping",
+    "\\game\\Nero\\Binaries\\Win64\\Nero",
+    "\\game2\\Nero\\Binaries\\Win64\\Nero",
+    "\\game\\Nero\\Binaries\\Win64\\Nero-Win64-Test",
+    "\\game2\\Nero\\Binaries\\Win64\\Nero-Win64-Shipping",
+    "\\game\\Nero\\Binaries\\Win64\\Nero-Win64-Shipping",
+    "\\game2\\Nero\\Binaries\\Win64\\Nero-Win64-Test",
+    "\\game\\Nero\\Binaries\\Win64\\Run_Nero.bat",
+    "\\game\\Nero\\Binaries\\Win64\\MafiaTheOldCountry",
+    "\\Nero\\Binaries\\Win64\\Nero-Win64-Test",
+    "\\Nero\\Binaries\\Win64\\Nero",
+    "\\MafiaTheOldCountry\\Binaries\\Win64\\MafiaTheOldCountry",
+    "\\MafiaTheOldCountry\\Binaries\\Win64\\MafiaTheOldCountry-logging",
+    "四海兄弟：故乡",
+    "四海兄弟：故鄉",
+    "Mafia: Domovina",
+    "Mafia: Terra Madre",
+    "マフィア：オリジン ～裏切りの祖国",
+    "마피아:  올드 컨트리",
+    "Mafia: Dawne Strony",
+    "Mafia: El Viejo Continente"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1941540/4afa63381aebb28b832279ac0679d258b86e9cec.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/d06980bb8f41737ca68da8eed40079347db09c84/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/4cba4ed7de77ea84d94e22eef5cd8c9b284e5b25/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/3c2e4dee10f72e061ed382064be68b9648902534/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/096bae4d126391be7b20708f7db3c82e2063400c/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/e8171b1930ed8cc090ad35dc4abc601bd67f0bd7/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/abe3b20e3bdddb8dad947828efbf7f7110c3cae5/ss_abe3b20e3bdddb8dad947828efbf7f7110c3cae5.1920x1080.jpg?t=1780699604"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/a6ab7a19e69f59d741072c089ca7ad9f6bb60814/ss_a6ab7a19e69f59d741072c089ca7ad9f6bb60814.1920x1080.jpg?t=1780699604"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/ss_3bc232192813ab9250abafd627333f1d8bd53bb9.1920x1080.jpg?t=1780699604"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/ss_8c5af3a1b47337fe9d2f4f48d21975964eb23ccb.1920x1080.jpg?t=1780699604"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/ss_44047e62744c4a7201a0238994d23f3ca72649cb.1920x1080.jpg?t=1780699604"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/ss_b0790cd935e11df0aca08f947c6e90ddce39e683.1920x1080.jpg?t=1780699604"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/ss_d76f955486c5c2a46c06a8ef41079abca11874ff.1920x1080.jpg?t=1780699604"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/ss_ecfbf9a220417bb61285a981a8a6630d98d56d27.1920x1080.jpg?t=1780699604"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/ss_19e3bf0b15bd64f10a8d2702758d82d5291220af.1920x1080.jpg?t=1780699604"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Mafia TOC: MoH - Wishlist - ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257351709/35ae5942556fe40b49d0b258906a5f46f0a6162a/movie_600x337.jpg?t=1780698614",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1941540/1658662567/4d0c052690059a7a4fc26b7aacc6f79c8d6c218e/1780698084/dash_h264.mpd?t=1780698614"
+    },
+    {
+      "name": "Free Ride Update - EN - ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257234664/ec93c603837b7f6778270a6f0d7db48aeb32cc7d/movie_600x337.jpg?t=1763654658",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1941540/197335505/3e70c61cecd8342761083339636211c655abc18f/1763588068/dash_h264.mpd?t=1763654658"
+    },
+    {
+      "name": "Launch - ESRB - EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257179583/411316caa90eb3625e77b9f993a0b2d7696ea46c/movie_600x337.jpg?t=1754582411",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1941540/673848320/a697837e4cf72d0e92abb37575c9ff89f80f93af/1754550203/dash_h264.mpd?t=1754582411"
+    },
+    {
+      "name": "Loyalty is Everything - ESRB - EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257152135/1813fa7750251ae85d85757b31113fc8bd73829a/movie_600x337.jpg?t=1749247635",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1941540/63016853/77c9e4bec9622286acfe318c95e642e1f04e957a/1750742057/dash_h264.mpd?t=1749247635"
+    },
+    {
+      "name": "Prepurchase - ESRB - EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257136786/d6ab2c8b3b0bf446cb08af368375bb1fdfac2ab1/movie_600x337.jpg?t=1746716858",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1941540/1875945334/6dc69436cd0b507aa3ab91aa0fc1b7835a4fb353/1750742074/dash_h264.mpd?t=1746716858"
+    },
+    {
+      "name": "Announce - ESRB - EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257080767/c095ecc94cd4854c829035a202d7cb6c6a200078/movie_600x337.jpg?t=1746809408",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1941540/798030/1099e339facde59d8403945f1064c488ed44e6a3/1750742016/dash_h264.mpd?t=1746809408"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1941540,
+    "store_url": "https://store.steampowered.com/app/1941540/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Surround Sound",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 20736,
+    "review_negative": 7703,
+    "review_total": 28439,
+    "review_positive_percent": 72.91
+  }
+}

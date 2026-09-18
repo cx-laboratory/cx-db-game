@@ -1,0 +1,186 @@
+{
+  "key": "coloring-pixels",
+  "name": "Coloring Pixels",
+  "description": "A relaxing coloring by numbers game. Enjoy completing a variety of images with differing themes, complexity, and sizes.",
+  "developers": [
+    "ToastieLabs"
+  ],
+  "publishers": [
+    "ToastieLabs"
+  ],
+  "release_date": "2018-08-18",
+  "website": "https://www.toastielabs.co.uk/coloring-pixels",
+  "tags": [
+    "casual",
+    "indie",
+    "free-to-play",
+    "pixel-graphics",
+    "relaxing",
+    "singleplayer",
+    "colorful",
+    "family-friendly",
+    "puzzle",
+    "2d",
+    "cute",
+    "incremental",
+    "hand-drawn",
+    "nonlinear",
+    "addictive",
+    "lgbtq",
+    "great-soundtrack"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ColoringPixels.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "ToastieLabs/ColoringPixels",
+          "pattern": "Archive.zip",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Coloring Pixels.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "ToastieLabs/ColoringPixels",
+          "pattern": "Archive.zip",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "ColoringPixels",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "ToastieLabs/ColoringPixels",
+          "pattern": "Archive.zip",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Coloring Pixels",
+    "ColoringPixels",
+    "Coloring Pixels.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/897330/e7eebe162b59a27222ce528644b7a133c7df7340.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/897330/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/897330/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/897330/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/897330/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/897330/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/897330/ss_778a2a2f991bfa38a92c691220cc827883855d22.1920x1080.jpg?t=1781169257"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/897330/ss_85c08733e8f08ade58aac8f3a91c249b563be47b.1920x1080.jpg?t=1781169257"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/897330/ss_9a418e6f9c939709e814ae2fcf60abdfb1e616a1.1920x1080.jpg?t=1781169257"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/897330/ss_a23e206b183b3f06de4055e3e71db7b2651c706c.1920x1080.jpg?t=1781169257"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/897330/ss_b3ce128774cd779c8aee6d334b31977699abb61a.1920x1080.jpg?t=1781169257"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/897330/ss_b252a98982a12800599f8feb01f69d05780ad535.1920x1080.jpg?t=1781169257"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Main Trailer v2.0",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256755554/movie.293x165.jpg?t=1562708151",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/897330/232003/c59d0f131b407d0d84504d81776e78497994757f/1750594684/dash_h264.mpd?t=1562708151"
+    },
+    {
+      "name": "Main Trailer v1.0",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256722605/movie.293x165.jpg?t=1533449163",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/897330/173197/2327353914b2a6d84a70f16b53a86677f8668244/1750594673/dash_h264.mpd?t=1533449163"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 897330,
+    "store_url": "https://store.steampowered.com/app/897330/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Pixel Graphics",
+      "Relaxing",
+      "Casual",
+      "Singleplayer",
+      "Colorful",
+      "Indie",
+      "Family Friendly",
+      "Puzzle",
+      "2D",
+      "Cute",
+      "Incremental",
+      "Hand-drawn",
+      "Nonlinear",
+      "Addictive",
+      "LGBTQ+",
+      "Great Soundtrack"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 8232,
+    "review_negative": 332,
+    "review_total": 8564,
+    "review_positive_percent": 96.12
+  }
+}

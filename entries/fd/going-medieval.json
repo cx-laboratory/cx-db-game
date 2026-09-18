@@ -1,0 +1,264 @@
+{
+  "key": "going-medieval",
+  "name": "Going Medieval",
+  "description": "Build and manage your own castle settlement in a land reclaimed by wilderness. With detailed management, survival strategy, and a moddable sandbox world, Going Medieval challenges you to build the mightiest colony this side of the apocalypse.",
+  "developers": [
+    "Foxy Voxel"
+  ],
+  "publishers": [
+    "Mythwright"
+  ],
+  "release_date": "2026-03-17",
+  "website": "",
+  "tags": [
+    "indie",
+    "rpg",
+    "simulation",
+    "strategy",
+    "colony-sim",
+    "base-building",
+    "voxel",
+    "survival",
+    "management",
+    "city-builder",
+    "singleplayer",
+    "sandbox",
+    "nature",
+    "economy",
+    "moddable",
+    "historical",
+    "procedural-generation",
+    "pve",
+    "crafting",
+    "relaxing",
+    "3d"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "Going Medieval ( 前往中世纪 )",
+    "japanese": "Going Medieval - ゴーイング・メディーバル"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Going Medieval.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Foxy Voxel/Going Medieval/VillageSaves",
+          "pattern": "*.sav",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Foxy Voxel/Going Medieval",
+          "pattern": "*.bin",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Foxy Voxel/Going Medieval/UserData",
+          "pattern": "*.json",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Going Medieval",
+    "Going Medieval ( 前往中世纪 )",
+    "Going Medieval - ゴーイング・メディーバル"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1029780/3eec57d783c54036166564e195039b20f600a52f.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029780/4ace74f98f6fb1d7b8abec7918bfa2a440f447e5/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029780/08e484590906d14963ebd6026cff489359d4318d/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029780/d35e5a050248a6796b6ab30e9cb6f206a680d7ec/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029780/6a3ebd37fccf9b97d281a11be06065ec5a86845c/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029780/003d50223538ae75950c1f08e7c13695ef8dc38f/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029780/eaaa7d853e843ae5fd51c4ee4ab4e006a388fc64/ss_eaaa7d853e843ae5fd51c4ee4ab4e006a388fc64.1920x1080.jpg?t=1782228210"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029780/f981c9c208c58770eb05a6b9d6a058de51c2ca90/ss_f981c9c208c58770eb05a6b9d6a058de51c2ca90.1920x1080.jpg?t=1782228210"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029780/644c77bff4424edc7fc7401d085719ba4627bbb4/ss_644c77bff4424edc7fc7401d085719ba4627bbb4.1920x1080.jpg?t=1782228210"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029780/a2e2f6a97ba6f1d1f84ddc32ef2095f870c23d0a/ss_a2e2f6a97ba6f1d1f84ddc32ef2095f870c23d0a.1920x1080.jpg?t=1782228210"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029780/d146e598560c681a0a078bab522ab77fd05315be/ss_d146e598560c681a0a078bab522ab77fd05315be.1920x1080.jpg?t=1782228210"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029780/e6592ba7847df11870f45abc0404a6895e3637e2/ss_e6592ba7847df11870f45abc0404a6895e3637e2.1920x1080.jpg?t=1782228210"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029780/71f2f6f0ea53deb2046e3e28081f70bd643a9523/ss_71f2f6f0ea53deb2046e3e28081f70bd643a9523.1920x1080.jpg?t=1782228210"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029780/d22d3eac3c66af705c356bfeb35ad602295db150/ss_d22d3eac3c66af705c356bfeb35ad602295db150.1920x1080.jpg?t=1782228210"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029780/61a16c39552b80abc1818d00de3f592771cb21db/ss_61a16c39552b80abc1818d00de3f592771cb21db.1920x1080.jpg?t=1782228210"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029780/0f9b7cd86a529edaf3c1a1063437f7b11defb268/ss_0f9b7cd86a529edaf3c1a1063437f7b11defb268.1920x1080.jpg?t=1782228210"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029780/38e65c03a5509b5704526946ab569ef118fade76/ss_38e65c03a5509b5704526946ab569ef118fade76.1920x1080.jpg?t=1782228210"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029780/aba751d4676f1df3b22dd8f86626be6325d93d52/ss_aba751d4676f1df3b22dd8f86626be6325d93d52.1920x1080.jpg?t=1782228210"
+    }
+  ],
+  "videos": [
+    {
+      "name": "(EN) 1.0 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257304508/a0d410595ae47f59fd361a3676310721e4cbbecb/movie_600x337.jpg?t=1773759816",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1029780/164612005/616bac485e1d6322dff091accc9156a4c5839610/1773679356/dash_h264.mpd?t=1773759816"
+    },
+    {
+      "name": "(EN) 17 March",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257297165/7e647ee9aaa58908edc930558af077919585f8c5/movie_600x337.jpg?t=1773759825",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1029780/1060441933/9ff2a30b43d5c4aacbd7814986b26b2944f24fbd/1772535594/dash_h264.mpd?t=1773759825"
+    },
+    {
+      "name": "Going Medieval - City Builder & Colony Sim",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257118099/0baf5275b3153a943a181a0b91a141648c1e762e/movie_600x337.jpg?t=1762256927",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1029780/856974/7342a47e44d385df2ccd1075b8daaf2e66dc247f/1750608461/dash_h264.mpd?t=1762256927"
+    },
+    {
+      "name": "Going Medieval - Fortified Early Access Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257083454/2dd3bba27ff5abbcce3984cd90d9f2d5f7c245ef/movie_600x337.jpg?t=1762256929",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1029780/802281/b41ca5ac0d088e6be2ee69a4efc9f429c15c59c5/1750608386/dash_h264.mpd?t=1762256929"
+    },
+    {
+      "name": "New Updates: Fire, Prisoners & Modding",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257090678/c877277d87b9185dfd183e55882d706d82265c85/movie_600x337.jpg?t=1737452505",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1029780/815698/52eeef2de5d9f5884dff66483f6d3a7def856c2d/1750608442/dash_h264.mpd?t=1737452505"
+    },
+    {
+      "name": "Going Medieval - Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256845991/movie.293x165.jpg?t=1628507149",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1029780/391180/41fb5917c9755c2f21edf1d01cd3b038f2150461/1750608383/dash_h264.mpd?t=1628507149"
+    },
+    {
+      "name": "Going Medieval - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256836942/movie.293x165.jpg?t=1622559551",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1029780/373786/f497403744dfa631967ea2e2ff9b9fc127a66249/1750608309/dash_h264.mpd?t=1622559551"
+    },
+    {
+      "name": "Update #11 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257026969/movie.293x165.jpg?t=1734620178",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1029780/706995/ef4485c9e94f1fdaee69fd6f4194a12f9e5c2392/1750608366/dash_h264.mpd?t=1734620178"
+    },
+    {
+      "name": "Update #10 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256983865/movie.293x165.jpg?t=1717075028",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1029780/631975/c25e8c762c0d136990cabd9be1782f919e698ee4/1750608366/dash_h264.mpd?t=1717075028"
+    },
+    {
+      "name": "Update #9 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256950115/movie.293x165.jpg?t=1685613137",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1029780/573502/5d0eb2942b221cd7f63474c0d8939e46803ba250/1750608364/dash_h264.mpd?t=1685613137"
+    },
+    {
+      "name": "Update #8 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256938394/movie.293x165.jpg?t=1680101366",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1029780/552960/3ea896cc9168c67f9b616cf8455765d2f3e6aaff/1750608334/dash_h264.mpd?t=1680101366"
+    },
+    {
+      "name": "GM - Teaser Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256838224/movie.293x165.jpg?t=1623323302",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1029780/376027/482d05133c0917e37eb5bc0c8ccaec1b444e052e/1750608315/dash_h264.mpd?t=1623323302"
+    }
+  ],
+  "metacritic": {
+    "score": 76,
+    "url": "https://www.metacritic.com/game/pc/going-medieval?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1029780,
+    "store_url": "https://store.steampowered.com/app/1029780/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Colony Sim",
+      "Base Building",
+      "Strategy",
+      "Voxel",
+      "Survival",
+      "Management",
+      "City Builder",
+      "Singleplayer",
+      "Sandbox",
+      "Nature",
+      "Economy",
+      "Moddable",
+      "Historical",
+      "Simulation",
+      "RPG",
+      "Procedural Generation",
+      "PvE",
+      "Crafting",
+      "Relaxing",
+      "3D"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 18789,
+    "review_negative": 2290,
+    "review_total": 21079,
+    "review_positive_percent": 89.14
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "key": "there-is-no-game-jam-edition-2015",
+  "name": "There is no game: Jam Edition 2015",
+  "description": "A little game that’s not a game, winner of an old game jam that nobody’s ever heard of. So DON'T INSTALL IT!",
+  "developers": [
+    "Draw Me A Pixel"
+  ],
+  "publishers": [
+    "Draw Me A Pixel"
+  ],
+  "release_date": "2020-03-18",
+  "website": "",
+  "tags": [
+    "adventure",
+    "casual",
+    "free-to-play",
+    "indie",
+    "pixel-graphics",
+    "funny",
+    "point-and-click",
+    "comedy",
+    "puzzle",
+    "short",
+    "singleplayer",
+    "2d",
+    "memes"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "french"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Ting_Jam.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "TingJAM.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "There is no game: Jam Edition 2015",
+    "Ting_Jam",
+    "TingJAM.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1241700/05bd3ff3a36a05b099cca926b421e9905e475f04.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1241700/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1241700/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1241700/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1241700/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1241700/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1241700/ss_c15cc047de12e6626e7ac63618ea65d284d91146.1920x1080.jpg?t=1666983908"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1241700/ss_cf8056179702fb551fa23a6f89928b623e8c665b.1920x1080.jpg?t=1666983908"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1241700/ss_0d80b8249eb07c61f99421172be5006ef6f5bee9.1920x1080.jpg?t=1666983908"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1241700/ss_638dd396f5b8a01a052107cf71087a5f07d2a40d.1920x1080.jpg?t=1666983908"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1241700/ss_e1de45aeafede22580f7e8ed8ac0fb7501c554dc.1920x1080.jpg?t=1666983908"
+    }
+  ],
+  "videos": [
+    {
+      "name": "There Is No Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256774946/movie.293x165.jpg?t=1583336337",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1241700/266552/164d73fc8577f5b74350640992deb68833b2f6fa/1751208683/dash_h264.mpd?t=1583336337"
+    },
+    {
+      "name": "There Is No Gameplay",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256776715/movie.293x165.jpg?t=1583336345",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1241700/269662/c3187df66831cdfec6e60720d0fff719ca9caf5a/1751208685/dash_h264.mpd?t=1583336345"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1241700,
+    "store_url": "https://store.steampowered.com/app/1241700/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Free To Play",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Indie",
+      "Free to Play",
+      "Casual",
+      "Adventure",
+      "Pixel Graphics",
+      "Funny",
+      "Point & Click",
+      "Comedy",
+      "Puzzle",
+      "Short",
+      "Singleplayer",
+      "2D",
+      "Psychological Horror",
+      "Memes"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 7247,
+    "review_negative": 227,
+    "review_total": 7474,
+    "review_positive_percent": 96.96
+  }
+}

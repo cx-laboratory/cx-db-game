@@ -1,0 +1,183 @@
+{
+  "key": "rabbit-and-steel",
+  "name": "Rabbit and Steel",
+  "description": "RABBIT &amp; STEEL is a co-op action roguelike that recreates the essence of high-level MMO raiding in a randomized, simplified, bunny-sized package. Choose your class, gather your rabbit-eared companions and battle your way to the Moonlit Pinnacle!",
+  "developers": [
+    "mino_dev"
+  ],
+  "publishers": [
+    "mino_dev"
+  ],
+  "release_date": "2024-05-09",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "split-screen",
+    "bullet-hell",
+    "action-roguelike",
+    "cute",
+    "roguelike",
+    "2d",
+    "anime",
+    "difficult",
+    "class-based",
+    "fantasy",
+    "loot",
+    "colorful",
+    "magic",
+    "local-multiplayer",
+    "combat",
+    "pve",
+    "cartoony"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "french",
+    "koreana",
+    "schinese",
+    "japanese",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "兔子与钢铁"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "RabbitSteel.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "RabbitSteel/SaveFile",
+          "pattern": "*.ini",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Rabbit and Steel",
+    "RabbitSteel"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2132850/c12f139a29e2d50549fde90783c3ccad6df12cc3.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132850/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132850/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132850/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132850/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132850/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132850/ss_91952981162e91bb26079bef1291394740e5fe70.1920x1080.jpg?t=1771398437"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132850/ss_883aa4fc91ed1ed7c6120d5201b52fab1d107c4e.1920x1080.jpg?t=1771398437"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132850/ss_38433b305258a508e6c3151c4b9e8429aace8f19.1920x1080.jpg?t=1771398437"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132850/ss_b2a351bf0d7603bb5182c0054abaf81374965f57.1920x1080.jpg?t=1771398437"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132850/ss_2d5575f6a79d4e828180050b6c30fb649b36152d.1920x1080.jpg?t=1771398437"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132850/ss_bb1edc05d3b06268ccfe128f0784a85a3ac66de1.1920x1080.jpg?t=1771398437"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Rabbit and Steel Extra Mode",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257280288/35d50f9dd2e840463bfa72e4ac7e38a490ad2b66/movie_600x337.jpg?t=1770396851",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2132850/848947499/bf9e4e63d65f036eb2bb49b7413e8161c47ee486/1770317393/dash_h264.mpd?t=1770396851"
+    },
+    {
+      "name": "Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257019995/movie.293x165.jpg?t=1714570603",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2132850/694526/531e7701a0fdd5161d62a4942cc354406a382ddf/1750747396/dash_h264.mpd?t=1714570603"
+    },
+    {
+      "name": "Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256917183/movie.293x165.jpg?t=1714570612",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2132850/515462/dc0d50b563f2a672d104dd294ae8781bfe08694a/1750747380/dash_h264.mpd?t=1714570612"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2132850,
+    "store_url": "https://store.steampowered.com/app/2132850/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Co-op",
+      "Bullet Hell",
+      "Action Roguelike",
+      "Cute",
+      "Roguelike",
+      "2D",
+      "Anime",
+      "Difficult",
+      "Class-Based",
+      "Fantasy",
+      "Action",
+      "Loot",
+      "Colorful",
+      "Adventure",
+      "Magic",
+      "Local Co-Op",
+      "Combat",
+      "PvE",
+      "RPG",
+      "Cartoony"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 10953,
+    "review_negative": 332,
+    "review_total": 11285,
+    "review_positive_percent": 97.06
+  }
+}

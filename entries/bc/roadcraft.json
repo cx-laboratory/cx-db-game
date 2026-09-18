@@ -1,0 +1,269 @@
+{
+  "key": "roadcraft",
+  "name": "RoadCraft",
+  "description": "As the leader of a company specialized in restoring sites devastated by natural disasters, use your construction machinery to restart the local industry. Clear debris and faulty equipment, rebuild roads and bridges damaged by weather, and much more!",
+  "developers": [
+    "Saber Interactive"
+  ],
+  "publishers": [
+    "Focus Entertainment"
+  ],
+  "release_date": "2025-05-20",
+  "website": "https://www.focus-entmt.com/games/roadcraft",
+  "tags": [
+    "adventure",
+    "simulation",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "building",
+    "driving",
+    "physics",
+    "automobile-sim",
+    "automation",
+    "nature",
+    "exploration",
+    "destruction",
+    "transportation",
+    "immersive-sim",
+    "realistic",
+    "3d",
+    "modern",
+    "base-building",
+    "controller"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "czech",
+    "turkish",
+    "arabic",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "root\\bin\\pc\\Roadcraft - Retail.exe",
+          "description": "RoadCraft",
+          "type": "option1"
+        },
+        {
+          "executable": "root\\bin\\pc\\road_builder_steam_release.exe",
+          "description": "Roadcraft RELEASE (with debug commands)",
+          "type": "option2"
+        },
+        {
+          "executable": "root\\bin\\pc\\road_builder_steam_profile.exe",
+          "description": "Roadcraft PROFILE (with debug commands)",
+          "type": "option3"
+        },
+        {
+          "executable": "root\\bin\\pc\\road_builder_eos_bootstrapper_release.exe",
+          "description": "EOS_Release_Exe",
+          "type": "default"
+        },
+        {
+          "executable": "root\\bin\\pc\\EpicOnlineServices\\start_epic_crossplay_game.exe",
+          "description": "RoadCraft - EOS Crossplay",
+          "type": "option2"
+        },
+        {
+          "executable": "root\\bin\\pc\\road_builder_steam_retail.exe",
+          "description": "Roadcraft RETAIL (with debug commands)",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "RoadCraft",
+    "root\\bin\\pc\\Roadcraft - Retail",
+    "root\\bin\\pc\\road_builder_steam_release",
+    "root\\bin\\pc\\road_builder_steam_profile",
+    "root\\bin\\pc\\road_builder_eos_bootstrapper_release",
+    "root\\bin\\pc\\EpicOnlineServices\\start_epic_crossplay_game",
+    "root\\bin\\pc\\road_builder_steam_retail"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2104890/3df07491eb59d40565b8b24edb9f76cdf44c9907.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/7ce99650fb029708a582cf1a9d4b483d09466af6/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/afa2b827ac8c3255e5c5359ca7326be52a0e53b7/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/4edb0537b3b6f0bf53ed417e051bcf46170a0222/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/e9971c87f3cb6b4a539ef4bffb79d2ab99b867bc/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/07cab358ce31b4e3961f22a85fd39508026ad3e3/ss_07cab358ce31b4e3961f22a85fd39508026ad3e3.1920x1080.jpg?t=1782466696"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_e165ec22c60612162e66de2c71206134cb2334e2.1920x1080.jpg?t=1782466696"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_963ec7cdc6c0f83d19506ac205eb3dfb76ec7b79.1920x1080.jpg?t=1782466696"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_62f78e7fbb3d1bf41243f54eab586ccbd18f1e90.1920x1080.jpg?t=1782466696"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_22ee663d1f8635cda4abb08ef9490c7e9bac63df.1920x1080.jpg?t=1782466696"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_94c63d1a8326239692d9cdede69373bf73a90b43.1920x1080.jpg?t=1782466696"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_fddc14ec8fb8c3b35f3ce103e085c871ee801c0b.1920x1080.jpg?t=1782466696"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_5b48c4db8c3015d806a479f9225f58ac9b4d6097.1920x1080.jpg?t=1782466696"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_ffbb319ee4b154d7529c77a2d944c92958e7744e.1920x1080.jpg?t=1782466696"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_6641e04329acb4ce19c68504bdb911f8382d5d33.1920x1080.jpg?t=1782466696"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_f78cf0214fccffe4aad353f2ff460374d3072bf4.1920x1080.jpg?t=1782466696"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_8b319388d411c7cbe80884937bec004f6c716b35.1920x1080.jpg?t=1782466696"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_3dedfb6defa4bc578405b383e8d66ab9d27e657c.1920x1080.jpg?t=1782466696"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_62f5e6d04b94c9b8d660a0a3537ec6149e65d636.1920x1080.jpg?t=1782466696"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_8d6ad357d79afa54e4836017d2804ac462553cae.1920x1080.jpg?t=1782466696"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_3079fea3e7d337ced3a05d55b87bbb335e117e66.1920x1080.jpg?t=1782466696"
+    }
+  ],
+  "videos": [
+    {
+      "name": "RoadCraft - Reclaim Expansion Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257308353/25238a411be434786f7e738962616de2b137ad1a/movie_600x337.jpg?t=1774371389",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2104890/269489756/4a991a878c679be4f2de3b04ab0f7f3361fba2ea/1774358539/dash_h264.mpd?t=1774371389"
+    },
+    {
+      "name": "RoadCraft - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257142089/866c9e675958aafb64f7ef922d549d227d0e4547/movie_600x337.jpg?t=1747752666",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2104890/1400289021/1e05fcc39f01d492a913948c93646edb0b64a8d3/1748811371/dash_h264.mpd?t=1747752666"
+    },
+    {
+      "name": "RoadCraft - Rebuild Expansion Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257193107/aff03427bdfbe43185191ea2f204e7de38330d48/movie_600x337.jpg?t=1757004492",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2104890/72263780/cc1967867d51815366b59ed1dcab93544803f202/1756992661/dash_h264.mpd?t=1757004492"
+    },
+    {
+      "name": "RoadCraft - Sandbox Memories",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257135199/268cf7a538a368163a9e678b9d2cfbbc6af4b337/movie_600x337.jpg?t=1746457047",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2104890/884572/f1655fecb5e699eede345feca3758132eb0d0f4c/1748811023/dash_h264.mpd?t=1746457047"
+    },
+    {
+      "name": "RoadCraft - Co-op Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257132148/87fc2b399bc8468e976fb8b55d3ac0ca70ddf1cb/movie_600x337.jpg?t=1745852447",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2104890/879970/bf0fd523ec27f617362473db7ab1abc6782a7429/1748811023/dash_h264.mpd?t=1745852447"
+    },
+    {
+      "name": "RoadCraft - Reaction Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257115486/cd0d46314aad252af3c4a501b572443178a8c7f7/movie_600x337.jpg?t=1742228118",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2104890/852739/ff04ea883ade178d3527c0fefb8ebf3da27502aa/1748811023/dash_h264.mpd?t=1742228118"
+    },
+    {
+      "name": "RoadCraft - Spotlight on the Aramatsu Bowhead 30T Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257126809/cb57a1eec9731f055a321c0a3f85758bfc25f4ed/movie_600x337.jpg?t=1744818652",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2104890/871522/5d801883d4d0cc93fd223612e9beb6d08f21fff6/1748811023/dash_h264.mpd?t=1744818652"
+    },
+    {
+      "name": "RoadCraft - Gameplay Overview Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257092804/496b38697494a09679ce53137d828206a2ef377b/movie_600x337.jpg?t=1738083804",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2104890/819593/ae66f4753e46e3777c1d4c18989aa7e8bfeaf01e/1748811023/dash_h264.mpd?t=1738083804"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2104890,
+    "store_url": "https://store.steampowered.com/app/2104890/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Stereo Sound",
+      "Surround Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Building",
+      "Driving",
+      "Physics",
+      "Online Co-Op",
+      "Adventure",
+      "Automobile Sim",
+      "Automation",
+      "Multiplayer",
+      "Nature",
+      "Exploration",
+      "Co-op",
+      "Destruction",
+      "Transportation",
+      "Immersive Sim",
+      "Realistic",
+      "3D",
+      "Modern",
+      "Base Building",
+      "Controller"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 11912,
+    "review_negative": 4007,
+    "review_total": 15919,
+    "review_positive_percent": 74.83
+  }
+}

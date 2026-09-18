@@ -1,0 +1,221 @@
+{
+  "key": "settlement-survival",
+  "name": "Settlement Survival",
+  "description": "In this city-building game, you will lead a group of survivors in their search for a new home. Manipulate the landscape, manage limited supplies, plant crops, hunt wildlife, gather resources, and develop trade routes to build a bustling and unique town.",
+  "developers": [
+    "Gleamer Studio"
+  ],
+  "publishers": [
+    "Team17"
+  ],
+  "release_date": "2022-10-25",
+  "website": "",
+  "tags": [
+    "simulation",
+    "strategy",
+    "city-builder",
+    "medieval",
+    "building",
+    "colony-sim",
+    "survival",
+    "management",
+    "sandbox",
+    "exploration",
+    "resource-management",
+    "base-building",
+    "agriculture",
+    "economy",
+    "3d",
+    "colorful",
+    "singleplayer",
+    "indie",
+    "early-access",
+    "hand-drawn"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "schinese"
+  ],
+  "name_localized": {
+    "schinese": "部落幸存者"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Settlement Survival.exe",
+          "description": "HDRP (High quality graphic)",
+          "type": "option1"
+        },
+        {
+          "executable": "URP/Settlement SurvivalURP.exe",
+          "description": "URP (Stable and low cost)",
+          "type": "option2"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "SZSS INTERACTIVE/Settlement Survival/SaveCloud",
+          "pattern": "*.xml",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "SZSS INTERACTIVE/Settlement Survival/SaveCloud",
+          "pattern": "*.png",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Settlement Survival.app/Contents/MacOS/Settlement Survival",
+          "description": "HDRP (High quality graphic)",
+          "type": "option1"
+        },
+        {
+          "executable": "Settlement SurvivalURP.app/Contents/MacOS/Settlement SurvivalURP",
+          "description": "URP (Stable and low cost)",
+          "type": "option2"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "SZSS INTERACTIVE/Settlement Survival/SaveCloud",
+          "pattern": "*.xml",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "SZSS INTERACTIVE/Settlement Survival/SaveCloud",
+          "pattern": "*.png",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Settlement Survival",
+    "URP/Settlement SurvivalURP",
+    "Settlement Survival.app/Contents/MacOS/Settlement Survival",
+    "Settlement SurvivalURP.app/Contents/MacOS/Settlement SurvivalURP",
+    "部落幸存者"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1509510/63f28ce40ff4afdd2fd22506d7c8c4b1682446e2.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/ss_bb577171d6bca0be91caf455976acc7968340eef.1920x1080.jpg?t=1763037488"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/ss_aa5636f3cf40bf30ed3f976ef507aa41aca67a59.1920x1080.jpg?t=1763037488"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/ss_4971f28c4d9ae9c1a6bd9b31c2c1b4d367daed80.1920x1080.jpg?t=1763037488"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/ss_52dfe7aa89af342b24d6bdd627fb1f690c93a98d.1920x1080.jpg?t=1763037488"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/ss_b6480f1aa3d9d6a56cfb675ffc546efe2ecb2f47.1920x1080.jpg?t=1763037488"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/ss_36bc861d7ceb8acf7c40ee4640479a7e8e7a34e9.1920x1080.jpg?t=1763037488"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/ss_e04eb99afd197cd5fed351f3cca252b797f2c298.1920x1080.jpg?t=1763037488"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/ss_0ab3dac9f032ef8e1925d406cac56c86252ba81f.1920x1080.jpg?t=1763037488"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/ss_016e4a16174c59790e96aeea299459bfc1a589ad.1920x1080.jpg?t=1763037488"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/ss_a9458ef603fd2c5ab4812c4ea83d25df6fe6ef23.1920x1080.jpg?t=1763037488"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/ss_5263d43bdb73a374fa540b2eb1571c1cda15c434.1920x1080.jpg?t=1763037488"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Settlement Survival -2",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256854049/movie.293x165.jpg?t=1669945905",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1509510/405761/e07bc770d9585cb7cb8e61c2c5f5d903770de0c6/1750696986/dash_h264.mpd?t=1669945905"
+    },
+    {
+      "name": "1.0 Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256911887/movie.293x165.jpg?t=1666302910",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1509510/506561/7d7230c237587d755c1a475077729fbca418fbce/1750696987/dash_h264.mpd?t=1666302910"
+    },
+    {
+      "name": "Settlement Survival -EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256851727/movie.293x165.jpg?t=1631798417",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1509510/401587/0757d74cd3efc3f70be6842f3510858089a6982e/1750696984/dash_h264.mpd?t=1631798417"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1509510,
+    "store_url": "https://store.steampowered.com/app/1509510/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "City Builder",
+      "Medieval",
+      "Building",
+      "Colony Sim",
+      "Survival",
+      "Management",
+      "Simulation",
+      "Sandbox",
+      "Exploration",
+      "Strategy",
+      "Resource Management",
+      "Base Building",
+      "Agriculture",
+      "Economy",
+      "3D",
+      "Colorful",
+      "Singleplayer",
+      "Indie",
+      "Early Access",
+      "Hand-drawn"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 6816,
+    "review_negative": 1160,
+    "review_total": 7976,
+    "review_positive_percent": 85.46
+  }
+}

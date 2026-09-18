@@ -1,0 +1,204 @@
+{
+  "key": "spirit-city-lofi-sessions",
+  "name": "Spirit City: Lofi Sessions",
+  "description": "Spirit City: Lofi Sessions is a gamified focus tool, set to a soothing lofi soundtrack. Discover and collect Spirits, customize your cozy virtual space, and facilitate your real-life tasks with a collection of handy features designed to improve concentration and ease stress.",
+  "developers": [
+    "Mooncube Games"
+  ],
+  "publishers": [
+    "Mooncube Games"
+  ],
+  "release_date": "2024-04-08",
+  "website": "https://lofigaming.com/games/spirit-city",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "cozy",
+    "decorating",
+    "desktop-companion",
+    "organizing",
+    "relaxing",
+    "creature-collector",
+    "idler",
+    "character-customization",
+    "music",
+    "life-sim",
+    "atmospheric",
+    "cute",
+    "design-and-illustration",
+    "wholesome",
+    "singleplayer",
+    "anime",
+    "family-friendly",
+    "colorful",
+    "utilities"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SpiritCity.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "SpiritCity/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Spirit City - Lofi Sessions.app/Contents/MacOS/Spirit City - Lofi Sessions",
+          "description": "Launch on MacOS",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "SpiritCity/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Spirit City: Lofi Sessions",
+    "SpiritCity",
+    "Spirit City - Lofi Sessions.app/Contents/MacOS/Spirit City - Lofi Sessions"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2113850/a4171ac396c05105e009d4d3d28138d73f27d3c0.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/dde323de28b5db2af88e7fda53ed3c4dc34280bf/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/15065e911c2a991ba55c56d4a1638c6c43637051/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/52231be42123cfc90f8a3a7466d1b2242d5df9b6/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/7d288079dbc0eb12cb613ff81680f811f2d7fc42/ss_7d288079dbc0eb12cb613ff81680f811f2d7fc42.1920x1080.jpg?t=1780342827"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/07fc8ec7afb3d57d20a2f1a1bea603b6ea900db7/ss_07fc8ec7afb3d57d20a2f1a1bea603b6ea900db7.1920x1080.jpg?t=1780342827"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/64d244abbf941fea7c7e888dd768dc3da5b2ba1d/ss_64d244abbf941fea7c7e888dd768dc3da5b2ba1d.1920x1080.jpg?t=1780342827"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/3e658bb6f05cfa15d8868645a22c04a4fc5fda53/ss_3e658bb6f05cfa15d8868645a22c04a4fc5fda53.1920x1080.jpg?t=1780342827"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/7a4f81269908d5474257a61848d7253c953742c0/ss_7a4f81269908d5474257a61848d7253c953742c0.1920x1080.jpg?t=1780342827"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/a9704a59e3c17885042a89e765a83465fc3c854a/ss_a9704a59e3c17885042a89e765a83465fc3c854a.1920x1080.jpg?t=1780342827"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/8c136b81582993d79904d2c5dcf2cedce20700a8/ss_8c136b81582993d79904d2c5dcf2cedce20700a8.1920x1080.jpg?t=1780342827"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/6c876f6bebb1d6334711516dad53f9c01a119fce/ss_6c876f6bebb1d6334711516dad53f9c01a119fce.1920x1080.jpg?t=1780342827"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/71d742bdd73e80a3ef10b6c6de6813cc64780e85/ss_71d742bdd73e80a3ef10b6c6de6813cc64780e85.1920x1080.jpg?t=1780342827"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/f6dc61cdbcf91715b5958d225f9041ba0d85faba/ss_f6dc61cdbcf91715b5958d225f9041ba0d85faba.1920x1080.jpg?t=1780342827"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113850/af32817c3bd60cd5bd3c5e8d5e59d5712fe29097/ss_af32817c3bd60cd5bd3c5e8d5e59d5712fe29097.1920x1080.jpg?t=1780342827"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Spirit City: Lofi Sessions - Lofi Girl Collaboration update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257342773/87b31b36bf2044c7815ac087fb31cf039463e56d/movie_600x337.jpg?t=1779715699",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2113850/1758204469/27d51070ceed892d5d93cdf42d753f6c35dcd1e2/1779714455/dash_h264.mpd?t=1779715699"
+    },
+    {
+      "name": "Spirit City: Lofi Sessions - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257014203/0f146312b9084bb1577b844530eac376e8ce76c8/movie_600x337.jpg?t=1754923441",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2113850/895901101/593ebb0c4bafb8544a2df5c7c0240d622e781519/1754920673/dash_h264.mpd?t=1754923441"
+    }
+  ],
+  "metacritic": {
+    "score": 80,
+    "url": "https://www.metacritic.com/game/pc/spirit-city-lofi-sessions?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 2113850,
+    "store_url": "https://store.steampowered.com/app/2113850/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Stats",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Cozy",
+      "Decorating",
+      "Desktop Companion",
+      "Organizing",
+      "Relaxing",
+      "Creature Collector",
+      "Idler",
+      "Casual",
+      "Character Customization",
+      "Music",
+      "Life Sim",
+      "Atmospheric",
+      "Cute",
+      "Design & Illustration",
+      "Wholesome",
+      "Singleplayer",
+      "Anime",
+      "Family Friendly",
+      "Colorful",
+      "Utilities"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 15898,
+    "review_negative": 378,
+    "review_total": 16276,
+    "review_positive_percent": 97.68
+  }
+}

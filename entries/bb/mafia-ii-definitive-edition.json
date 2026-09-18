@@ -1,0 +1,156 @@
+{
+  "key": "mafia-ii-definitive-edition",
+  "name": "Mafia II: Definitive Edition",
+  "description": "War hero Vito Scaletta becomes entangled with the mob in hopes of paying his father’s debts. Vito works to prove himself, climbing the family ladder with crimes of larger reward and consequence.",
+  "developers": [
+    "Hangar 13"
+  ],
+  "publishers": [
+    "2K"
+  ],
+  "release_date": "2020-05-20",
+  "website": "https://mafia.2k.com/",
+  "tags": [
+    "action",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "czech",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "japanese": "マフィアII コンプリート・エディション",
+    "tchinese": "四海兄弟II 決定版",
+    "schinese": "四海兄弟II 最终版",
+    "koreana": "마피아 II  데피니티브 에디션",
+    "spanish": "Mafia II: Edición Definitiva",
+    "polish": "Mafia II: Edycja Ostateczna",
+    "czech": "Mafia II: Definitivní edice"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "pc/Mafia II Definitive Edition.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "pc\\Mafia2Launcher\\Launcher.exe",
+          "description": "Mafia II Definitive Edition Launcher",
+          "type": "option2"
+        },
+        {
+          "executable": "\\2KLauncher\\LauncherPatcher.exe",
+          "description": "2K Launcher",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Mafia II: Definitive Edition",
+    "pc/Mafia II Definitive Edition",
+    "pc\\Mafia2Launcher\\Launcher",
+    "\\2KLauncher\\LauncherPatcher",
+    "マフィアII コンプリート・エディション",
+    "四海兄弟II 決定版",
+    "四海兄弟II 最终版",
+    "마피아 II  데피니티브 에디션",
+    "Mafia II: Edición Definitiva",
+    "Mafia II: Edycja Ostateczna",
+    "Mafia II: Definitivní edice"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1030830/f80e173ad5c242ca0d41e30af1f6358d1e64d9b4.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/ss_d29c8180a12271dd692e5601af95a82c0e016b98.1920x1080.jpg?t=1781130456"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/ss_f6d60fcb54fce33e1365861d472508a7f6350d2a.1920x1080.jpg?t=1781130456"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/ss_dc2a279273bd3f92401bda589e3220f119c40dcb.1920x1080.jpg?t=1781130456"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/ss_d95de409e6b7e123348e1c9fc42277232901e613.1920x1080.jpg?t=1781130456"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/ss_3422719dda375300922c14a8493235fc95beeed3.1920x1080.jpg?t=1781130456"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/ss_92384374adf9b8ed2eae7c7573b12ea60da451c6.1920x1080.jpg?t=1781130456"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/ss_c18ea0d14b27145f8550d5a8963cf9cc7f23812f.1920x1080.jpg?t=1781130456"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/ss_7bd7a6afa135b6149afe79497475db12e8769557.1920x1080.jpg?t=1781130456"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/ss_baeeec8c3efb5a55952df81549b52ebb7c123d81.1920x1080.jpg?t=1781130456"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/ss_980e43454778a0657323f4fe292b806516674e53.1920x1080.jpg?t=1781130456"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Mafia II: Definitive Edition - EN ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256785636/movie.293x165.jpg?t=1589909137",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1030830/286295/281e05d141d97b539b1335cf0dcc6c3aa206acac/1750608583/dash_h264.mpd?t=1589909137"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1030830,
+    "store_url": "https://store.steampowered.com/app/1030830/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 27854,
+    "review_negative": 9800,
+    "review_total": 37654,
+    "review_positive_percent": 73.97
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "key": "ultimate-general-civil-war",
+  "name": "Ultimate General: Civil War",
+  "description": "Ultimate General: Civil War is a tactical real time strategy war-game. Experience the bloodiest period of U.S. history - the American Civil War of 1861-1865.",
+  "developers": [
+    "Game-Labs"
+  ],
+  "publishers": [
+    "Game-Labs"
+  ],
+  "release_date": "2017-07-15",
+  "website": "https://www.ultimategeneral.com/",
+  "tags": [
+    "indie",
+    "simulation",
+    "strategy",
+    "wargame",
+    "real-time-tactics",
+    "war",
+    "tabletop",
+    "grand-strategy",
+    "rts",
+    "historical",
+    "board-game",
+    "turn-based-strategy",
+    "strategy-rpg",
+    "education",
+    "tactical",
+    "military",
+    "combat",
+    "singleplayer",
+    "multiplayer",
+    "realistic"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Russian",
+    "Simplified Chinese",
+    "Japanese",
+    "Korean*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Ultimate General Civil War.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "\\BrowserAssets\\guide\\index.html",
+          "description": "Guide",
+          "type": "manual"
+        },
+        {
+          "executable": "Ultimate General Civil War.exe",
+          "description": "OpenGL",
+          "type": "none"
+        },
+        {
+          "executable": "UGCWReporter.exe",
+          "description": "Crash Report",
+          "type": "none"
+        },
+        {
+          "executable": "Ultimate General Civil War.exe",
+          "description": "Direct3D 9",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Ultimate General Civil War.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Ultimate General: Civil War",
+    "Ultimate General Civil War",
+    "\\BrowserAssets\\guide\\index.html",
+    "UGCWReporter",
+    "Ultimate General Civil War.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/502520/ccb1a390ce1da1a960e78f52f443df75ee50db39.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502520/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502520/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502520/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502520/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502520/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502520/ss_eefd0d773d67933a02cfefb968a1bfa93f05a739.1920x1080.jpg?t=1714903654"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502520/ss_099b5de21f169d4c83fb42cf21f7ef5c295b8d63.1920x1080.jpg?t=1714903654"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502520/ss_f03f37e46d6e004e1ed1b17874355f7763429e23.1920x1080.jpg?t=1714903654"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502520/ss_f868c5d31b676c84185520d41aa4f3b461e88f92.1920x1080.jpg?t=1714903654"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502520/ss_dd049cb5fc4514b44e962fd36a6e1fe4bd181509.1920x1080.jpg?t=1714903654"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502520/ss_e8af6a38011450c4a09de32bc3fca86f6fdd6c18.1920x1080.jpg?t=1714903654"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502520/ss_917a27a475ac25ef3ecfca82d8edacf2e07e3d8d.1920x1080.jpg?t=1714903654"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502520/ss_369d79e0dc410e83beb836af308b6aa02e13c610.1920x1080.jpg?t=1714903654"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502520/ss_382ea4b9b5878187f883a0e3f8a784e95671a291.1920x1080.jpg?t=1714903654"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502520/ss_b339b032b17881329915ec0968bbdbd81a611932.1920x1080.jpg?t=1714903654"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502520/ss_d0573cf5e4b7e0e6aa8376523468b6afb0b454e9.1920x1080.jpg?t=1714903654"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502520/ss_5104a0e4c1e7e47529994562e2c0275a0b217bf6.1920x1080.jpg?t=1714903654"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502520/ss_23c61e62c06fd7fd844e6e6e6e7e2a00690701b4.1920x1080.jpg?t=1714903654"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502520/ss_b86523a69662c3b08e81518fc95893b8d9ca1620.1920x1080.jpg?t=1714903654"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502520/ss_13eaea6670f94b5963d95a339230c5160cee789c.1920x1080.jpg?t=1714903654"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Early Access Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256674430/movie.293x165.jpg?t=1478909978",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/502520/79975/505e969e548ce637be92c9c5bd9a8b567d11f6d1/1750538738/dash_h264.mpd?t=1478909978"
+    },
+    {
+      "name": "The Innovative AI",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256688203/movie.293x165.jpg?t=1498154959",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/502520/109785/3a875d1087598b7b666d47197bf1fff35b7cae26/1750538742/dash_h264.mpd?t=1498154959"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 502520,
+    "store_url": "https://store.steampowered.com/app/502520/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Wargame",
+      "Real Time Tactics",
+      "War",
+      "Tabletop",
+      "Grand Strategy",
+      "RTS",
+      "Strategy",
+      "Historical",
+      "Board Game",
+      "Turn-Based Strategy",
+      "Strategy RPG",
+      "Education",
+      "Tactical",
+      "Military",
+      "Simulation",
+      "Combat",
+      "Singleplayer",
+      "Multiplayer",
+      "Indie",
+      "Realistic"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7568,
+    "review_negative": 944,
+    "review_total": 8512,
+    "review_positive_percent": 88.91
+  }
+}

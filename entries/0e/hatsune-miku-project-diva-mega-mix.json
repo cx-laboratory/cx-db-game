@@ -1,0 +1,172 @@
+{
+  "key": "hatsune-miku-project-diva-mega-mix",
+  "name": "Hatsune Miku: Project DIVA Mega Mix+",
+  "description": "Take center stage in Hatsune Miku’s premier rhythm game starring the world’s #1 virtual pop star! With a stunner setlist and enormous wardrobe to style, it’s Miku’s ultimate tour—all it needs is you.",
+  "developers": [
+    "SEGA"
+  ],
+  "publishers": [
+    "SEGA"
+  ],
+  "release_date": "2022-05-26",
+  "website": "https://miku.sega.com/megamixplus/",
+  "tags": [
+    "action",
+    "rhythm",
+    "anime",
+    "arcade",
+    "cute",
+    "music",
+    "3d",
+    "female-protagonist",
+    "character-customization",
+    "family-friendly",
+    "singleplayer",
+    "futuristic",
+    "modern",
+    "great-soundtrack",
+    "score-attack",
+    "fast-paced",
+    "replay-value",
+    "hardware",
+    "difficult",
+    "hentai"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "tchinese": "初音未來 Project DIVA MEGA39’s＋",
+    "schinese": "初音未来 Project DIVA MEGA39’s＋",
+    "koreana": "하츠네 미쿠 Project DIVA MEGA39’s+",
+    "japanese": "初音ミク Project DIVA MEGA39’s＋"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "DivaMegaMix.exe",
+          "description": "Snow Cone",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "SEGA/Project DIVA MEGA39's/Steam/{64BitSteamID}",
+          "pattern": "*.dat",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Hatsune Miku: Project DIVA Mega Mix+",
+    "DivaMegaMix",
+    "初音未來 Project DIVA MEGA39’s＋",
+    "初音未来 Project DIVA MEGA39’s＋",
+    "하츠네 미쿠 Project DIVA MEGA39’s+",
+    "初音ミク Project DIVA MEGA39’s＋"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1761390/6467c6bec4cbd97c3ed30119e8b08072644dd9ab.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1761390/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1761390/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1761390/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1761390/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1761390/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1761390/ss_8e067c8500808f235dd1f6c3673ff7c96af9dd3b.1920x1080.jpg?t=1763684613"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1761390/ss_690354b97fd89067924932d44db5805398b5be93.1920x1080.jpg?t=1763684613"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1761390/ss_c523b1c1311d195e10b1a96c70db1b85c20a8bda.1920x1080.jpg?t=1763684613"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1761390/ss_730acd038445309b40b501b927342139c5c8b277.1920x1080.jpg?t=1763684613"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1761390/ss_a966cd2dfd79a9db8cbd0024adf2aefb8477a162.1920x1080.jpg?t=1763684613"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1761390/ss_55cfc1cf6c9349140b640a9cb494b2ac71f02f4f.1920x1080.jpg?t=1763684613"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1761390/ss_1504b77a544834bbd9a28c36b880041bcfa1d128.1920x1080.jpg?t=1763684613"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer (US)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256887904/movie.293x165.jpg?t=1653580786",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1761390/465394/fecce7caf0d72c4531e785d892fff521118d01e9/1750733116/dash_h264.mpd?t=1653580786"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1761390,
+    "store_url": "https://store.steampowered.com/app/1761390/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Cloud",
+      "Stats",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Rhythm",
+      "Anime",
+      "Arcade",
+      "Cute",
+      "Music",
+      "3D",
+      "Action",
+      "Female Protagonist",
+      "Character Customization",
+      "Family Friendly",
+      "Singleplayer",
+      "Futuristic",
+      "Modern",
+      "Great Soundtrack",
+      "Score Attack",
+      "Fast-Paced",
+      "Replay Value",
+      "Hardware",
+      "Difficult",
+      "Hentai"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 21837,
+    "review_negative": 1230,
+    "review_total": 23067,
+    "review_positive_percent": 94.67
+  }
+}

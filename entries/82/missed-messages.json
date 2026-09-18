@@ -1,0 +1,162 @@
+{
+  "key": "missed-messages",
+  "name": "missed messages.",
+  "description": "‘goth gf’s iPhone’ airdrops you - accept or decline? A love/horror story about life, death, &amp; memes.",
+  "developers": [
+    "Angela He"
+  ],
+  "publishers": [
+    "Angela He"
+  ],
+  "release_date": "2019-05-31",
+  "website": "",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "free-to-play",
+    "visual-novel",
+    "lgbtq",
+    "choices-matter",
+    "romance",
+    "emotional",
+    "female-protagonist",
+    "psychological",
+    "singleplayer",
+    "story-rich",
+    "great-soundtrack",
+    "horror",
+    "atmospheric",
+    "memes",
+    "anime",
+    "sexual-content"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "missedmessagesWindows\\missed messages..exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "missed messages.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "missedmessagesLinux\\missed messages.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "missed messages.",
+    "missedmessagesWindows\\missed messages.",
+    "missed messages.app",
+    "missedmessagesLinux\\missed messages.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/812810/4c8492567d415b76fe1a2563fe7bcc71bb9f41cf.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812810/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812810/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812810/capsule_231x87.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812810/ss_475bdb7a1a2967bf304aed8ca9deee5b85dcd7f3.1920x1080.jpg?t=1702502470"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812810/ss_2b1632b1d25de59835287bebf377c6be5eb623e6.1920x1080.jpg?t=1702502470"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812810/ss_244f7e6e26327b7bf4f64a1e0367c8f9bb31c482.1920x1080.jpg?t=1702502470"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812810/ss_e4fa88ae445e44067a545cf4ecc81af5560ad007.1920x1080.jpg?t=1702502470"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812810/ss_47eb678fe2d759724b00d433b28ab03b17f62aca.1920x1080.jpg?t=1702502470"
+    }
+  ],
+  "videos": [
+    {
+      "name": "missed messages: Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256751719/movie.293x165.jpg?t=1559236775",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/812810/225137/147cbd93c5cf476b6bb577fa08d1955938741762/1751147771/dash_h264.mpd?t=1559236775"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 812810,
+    "store_url": "https://store.steampowered.com/app/812810/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Visual Novel",
+      "LGBTQ+",
+      "Choices Matter",
+      "Romance",
+      "Emotional",
+      "Psychological Horror",
+      "Female Protagonist",
+      "Indie",
+      "Psychological",
+      "Singleplayer",
+      "Story Rich",
+      "Great Soundtrack",
+      "Casual",
+      "Simulation",
+      "Horror",
+      "Atmospheric",
+      "Memes",
+      "Anime",
+      "Sexual Content"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 14890,
+    "review_negative": 607,
+    "review_total": 15497,
+    "review_positive_percent": 96.08
+  }
+}

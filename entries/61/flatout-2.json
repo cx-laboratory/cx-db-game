@@ -1,0 +1,186 @@
+{
+  "key": "flatout-2",
+  "name": "FlatOut 2",
+  "description": "Experience the drive of your life as you throw yourself around on and off the track causing fences to shatter, tyre walls explode, water tanks and barrels fly across the track into other cars.",
+  "developers": [
+    "Bugbear Entertainment"
+  ],
+  "publishers": [
+    "Strategy First"
+  ],
+  "release_date": "2006-12-22",
+  "website": "http://www.flatoutgame.com/",
+  "tags": [
+    "racing",
+    "multiplayer",
+    "pvp",
+    "lan-multiplayer",
+    "online-pvp",
+    "combat-racing",
+    "destruction",
+    "automobile-sim",
+    "vehicular-combat",
+    "driving",
+    "action",
+    "singleplayer",
+    "arcade",
+    "physics",
+    "local-multiplayer",
+    "funny",
+    "casual",
+    "3d",
+    "third-person",
+    "baseball",
+    "basketball",
+    "bowling",
+    "football-american"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "schinese",
+    "tchinese",
+    "russian"
+  ],
+  "name_localized": {
+    "schinese": "横冲直撞2"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "FlatOut2.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "FlatOut2.exe",
+          "description": "Configuration Tool",
+          "type": "config"
+        },
+        {
+          "executable": "mods/FlatOut 2 Mod Manager.exe",
+          "description": "Mod Manager",
+          "type": "editor"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Savegame",
+          "pattern": "player*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "FlatOut 2",
+    "FlatOut2",
+    "mods/FlatOut 2 Mod Manager"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2990/0e4abf32430e26b53ee0acd5d0396e1b2ec352f1.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990/c0f664597689bd4c6e9add1cc21fff91e9e8881c/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990/0000001055.1920x1080.jpg?t=1765237363"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990/0000001056.1920x1080.jpg?t=1765237363"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990/0000001057.1920x1080.jpg?t=1765237363"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990/0000001058.1920x1080.jpg?t=1765237363"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990/0000001059.1920x1080.jpg?t=1765237363"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990/0000001060.1920x1080.jpg?t=1765237363"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990/0000001061.1920x1080.jpg?t=1765237363"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990/0000001062.1920x1080.jpg?t=1765237363"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990/0000001063.1920x1080.jpg?t=1765237363"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2990/0000001064.1920x1080.jpg?t=1765237363"
+    }
+  ],
+  "videos": [],
+  "metacritic": {
+    "score": 76,
+    "url": "https://www.metacritic.com/game/pc/flatout-2?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 2990,
+    "store_url": "https://store.steampowered.com/app/2990/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Racing"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Workshop",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Racing",
+      "Combat Racing",
+      "Multiplayer",
+      "Destruction",
+      "Automobile Sim",
+      "Vehicular Combat",
+      "Driving",
+      "Action",
+      "Singleplayer",
+      "Arcade",
+      "Physics",
+      "Local Multiplayer",
+      "Funny",
+      "Casual",
+      "3D",
+      "Third Person",
+      "Baseball",
+      "Basketball",
+      "Bowling",
+      "Football (American)"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 20911,
+    "review_negative": 883,
+    "review_total": 21794,
+    "review_positive_percent": 95.95
+  }
+}

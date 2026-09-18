@@ -1,0 +1,264 @@
+{
+  "key": "spiritfarer-farewell-edition",
+  "name": "Spiritfarer®: Farewell Edition",
+  "description": "Spiritfarer® is a cozy management game about dying. As ferrymaster to the deceased, build a boat to explore the world, care for your spirit friends, and release them into the afterlife. The Spiritfarer Farewell Edition includes the heartwarming base game and three major content updates.",
+  "developers": [
+    "Thunder Lotus"
+  ],
+  "publishers": [
+    "Thunder Lotus"
+  ],
+  "release_date": "2020-08-19",
+  "website": "https://thunderlotusgames.com/spiritfarer",
+  "tags": [
+    "adventure",
+    "indie",
+    "simulation",
+    "multiplayer",
+    "co-op",
+    "split-screen",
+    "emotional",
+    "story-rich",
+    "management",
+    "relaxing",
+    "building",
+    "exploration",
+    "hand-drawn",
+    "atmospheric",
+    "female-protagonist",
+    "local-multiplayer",
+    "platformer",
+    "crafting",
+    "funny",
+    "cartoony",
+    "farming-sim",
+    "fishing"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "portuguese",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "english": "Spiritfarer®: Farewell Edition",
+    "french": "Spiritfarer®: édition Farewell",
+    "german": "Spiritfarer®: Farewell-Edition",
+    "italian": "Spiritfarer®: Edizione Farewell",
+    "koreana": "Spiritfarer®: 작별 인사 에디션",
+    "spanish": "Spiritfarer®: Edición Farewell",
+    "latam": "Spiritfarer®: Edición Farewell",
+    "schinese": "《Spiritfarer®》Farewell版",
+    "tchinese": "Spiritfarer®: Farewell 版",
+    "russian": "Издание Spiritfarer®: Farewell",
+    "japanese": "Spiritfarer®: Farewellエディション",
+    "portuguese": "Spiritfarer®: Edição Farewell",
+    "brazilian": "Spiritfarer®: Edição Farewell"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Spiritfarer.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": ".",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Spiritfarer.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": ".",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Spiritfarer.exe",
+          "description": ".exe launcher",
+          "type": "default"
+        },
+        {
+          "executable": "Spiritfarer.x86_64",
+          "description": ".x86_64 launcher",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": ".",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Spiritfarer®: Farewell Edition",
+    "Spiritfarer",
+    "Spiritfarer.app",
+    "Spiritfarer.x86_64",
+    "Spiritfarer®: édition Farewell",
+    "Spiritfarer®: Farewell-Edition",
+    "Spiritfarer®: Edizione Farewell",
+    "Spiritfarer®: 작별 인사 에디션",
+    "Spiritfarer®: Edición Farewell",
+    "《Spiritfarer®》Farewell版",
+    "Spiritfarer®: Farewell 版",
+    "Издание Spiritfarer®: Farewell",
+    "Spiritfarer®: Farewellエディション",
+    "Spiritfarer®: Edição Farewell"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/972660/21c6c86b51df38e9480231792acf0cfc30f51820.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972660/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972660/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972660/662114ef0e4c75747f85000ff38f441dbf9f16e8/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972660/0a02163910003520ba1960251b954878fcc0c5c6/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972660/dac2f54c94fb5d337ff641a520195e81dbb6565e/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972660/ss_a751970e68bc928538fbc4f52d6090c6ff1d8974.1920x1080.jpg?t=1752503178"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972660/ss_6ae155cb7c5f65f46a8f0dc43ba57aff8f57616c.1920x1080.jpg?t=1752503178"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972660/ss_cb5c5af0cdef3ec3a5317c162c32e956ec7aa76b.1920x1080.jpg?t=1752503178"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972660/ss_5a2001d7df99bfe5f2a77b45e62560ad71b8c329.1920x1080.jpg?t=1752503178"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972660/ss_8ca8378ece2771a04e5d435a3a92d9f57c0d9f24.1920x1080.jpg?t=1752503178"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972660/ss_13be8ec2a11cf1f012abbbe9d526447cfff6cdea.1920x1080.jpg?t=1752503178"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972660/ss_3ea9b42a39a6a5652b6df197ada7ac0a03f47661.1920x1080.jpg?t=1752503178"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Farewell Edition Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256864183/movie.293x165.jpg?t=1683305796",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/972660/423464/ed8d37395ebb5a287460b8b7b88496da5903bd4a/1750602585/dash_h264.mpd?t=1683305796"
+    },
+    {
+      "name": "Farewell Edition Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256864185/movie.293x165.jpg?t=1683305850",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/972660/423466/535fcbb644a2abde20769c379d1fdb9c4912e42f/1750602600/dash_h264.mpd?t=1683305850"
+    },
+    {
+      "name": "Jackie and Daria Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256864690/movie.293x165.jpg?t=1683305895",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/972660/424197/a0a2ec506eeb4d5efb87fbdc0913d3091dfe2535/1750602768/dash_h264.mpd?t=1683305895"
+    },
+    {
+      "name": "Beverly Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256848796/movie.293x165.jpg?t=1683305935",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/972660/396140/1a2008cbd9e2d45468243cebb497a6a998585bdd/1750602583/dash_h264.mpd?t=1683305935"
+    },
+    {
+      "name": "Lily Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256831283/movie.293x165.jpg?t=1683305939",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/972660/363135/c0fc499a54a4d20af538db8886d68f06ec0778ff/1750602583/dash_h264.mpd?t=1683305939"
+    }
+  ],
+  "metacritic": {
+    "score": 84,
+    "url": "https://www.metacritic.com/game/pc/spiritfarer?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 972660,
+    "store_url": "https://store.steampowered.com/app/972660/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Shared/Split Screen Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Emotional",
+      "Story Rich",
+      "Indie",
+      "Management",
+      "Relaxing",
+      "Building",
+      "Adventure",
+      "Exploration",
+      "Hand-drawn",
+      "Atmospheric",
+      "Female Protagonist",
+      "Local Co-Op",
+      "Platformer",
+      "Co-op",
+      "Crafting",
+      "Simulation",
+      "Funny",
+      "Cartoony",
+      "Farming Sim",
+      "Fishing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 49976,
+    "review_negative": 2645,
+    "review_total": 52621,
+    "review_positive_percent": 94.97
+  }
+}

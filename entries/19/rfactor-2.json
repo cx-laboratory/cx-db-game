@@ -1,0 +1,240 @@
+{
+  "key": "rfactor-2",
+  "name": "rFactor 2",
+  "description": "rFactor 2 is a realistic, easily extendable racing simulation that offers race customization, great graphics, outstanding multiplayer and the height of racing realism. It features mixed class road racing with ultra realistic dynamics, an immersive sound environment and stunning graphics.",
+  "developers": [
+    "Studio 397"
+  ],
+  "publishers": [
+    "Studio 397"
+  ],
+  "release_date": "2015-11-13",
+  "website": "https://www.studio-397.com/",
+  "tags": [
+    "racing",
+    "simulation",
+    "sports",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "automobile-sim",
+    "realistic",
+    "driving",
+    "vr",
+    "singleplayer",
+    "moddable",
+    "esports",
+    "physics",
+    "controller"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Launcher\\Launch rFactor.exe",
+          "description": "rFactor 2",
+          "type": "default"
+        },
+        {
+          "executable": "Bin64\\rF Config.exe",
+          "description": "rFactor 2 Graphics Configuration",
+          "type": "config"
+        },
+        {
+          "executable": "Launcher\\Launch rFactor.exe",
+          "description": "rFactor 2 Dev Mode",
+          "type": "editor"
+        },
+        {
+          "executable": "Launcher\\Launch rFactor.exe",
+          "description": "rFactor 2",
+          "type": "vr"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "rFactor 2",
+    "Launcher\\Launch rFactor",
+    "Bin64\\rF Config"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/365960/ebecb341264f0770448d756a3fcef57d54d13773.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/ss_08014c715e90c851212e829d60dbbba7c5f0fc43.1920x1080.jpg?t=1727871590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/ss_ae5b0371ee6347d9555cd3b0e2a893e2eb1eda0e.1920x1080.jpg?t=1727871590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/ss_6e5d2bde603877f493645c33c077deb0f880bb63.1920x1080.jpg?t=1727871590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/ss_6517727960b3eeb40ec4f755cc054099fcbb9cdc.1920x1080.jpg?t=1727871590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/ss_02a9e3609dd860a0b145ca3f4bb0b865a705597b.1920x1080.jpg?t=1727871590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/ss_f9ac27e7b40aeffcd98833512aebd9eb0484e1c2.1920x1080.jpg?t=1727871590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/ss_a08d0128e0184211a8c71abfd7d674dd2d480b35.1920x1080.jpg?t=1727871590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/ss_82c731bd11246363b4fd2dc7b668be1b99e25a4d.1920x1080.jpg?t=1727871590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/ss_f3dccb64a908d9b5501ea98d2ad2cb3020f3a6ef.1920x1080.jpg?t=1727871590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/ss_229cf31b83769bfd8cb74f46b1005fabf3191223.1920x1080.jpg?t=1727871590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/ss_6d2cb4341d28b92979b794eee9b76705aa706998.1920x1080.jpg?t=1727871590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/ss_81e5b81bc43ddf55f3be29b8822da77aff040ec9.1920x1080.jpg?t=1727871590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/ss_f416a2e2b9e44f935c332f407800e88dfb7a1b37.1920x1080.jpg?t=1727871590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/ss_df52993496cc3dce997766099a515437f5c6e1d4.1920x1080.jpg?t=1727871590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/ss_01804620d4c4f1046273567bba9aaaa37d115341.1920x1080.jpg?t=1727871590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/ss_3a0177a6dc615ac31aeec88cc3d2692c7bddf8b8.1920x1080.jpg?t=1727871590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/ss_abade38940ce3bbeba640dfd17378161e7d49d05.1920x1080.jpg?t=1727871590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/ss_72f3e6a1e55ee4dee1890a0859c3f17e2c7ecbb8.1920x1080.jpg?t=1727871590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/ss_1e4f022ad91fd1f2c7264bcc606936fde5829303.1920x1080.jpg?t=1727871590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/ss_1eafc3b8eebb3600c2a6cb452d33dacf2d765d91.1920x1080.jpg?t=1727871590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/ss_174bfdb38d10741983b182a57508077d69fdd3fa.1920x1080.jpg?t=1727871590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/ss_761329fb2bd5908d17bb88650fc6416d33587eb1.1920x1080.jpg?t=1727871590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/ss_4dc4cde82ebad5d00e9b78fda90bfd84f2bb2027.1920x1080.jpg?t=1727871590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/ss_1fd26f9d334d3cf3292c00e0c78125976be4a4be.1920x1080.jpg?t=1727871590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/ss_c9467a0cc7567de0ce5ef33d3044ccbb80130805.1920x1080.jpg?t=1727871590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/ss_463d16d36bb53ab579fbc1f9ff269a06334f0941.1920x1080.jpg?t=1727871590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/ss_935e97fb40c4c99857298c7fbcf75a20162be1e0.1920x1080.jpg?t=1727871590"
+    }
+  ],
+  "videos": [
+    {
+      "name": "rFactor 2 2023 trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256983868/movie.293x165.jpg?t=1700569267",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/365960/631978/ce2cdf56881f6920a93a316573b25784c476a487/1750517825/dash_h264.mpd?t=1700569267"
+    },
+    {
+      "name": "Indycar 2022 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256917499/movie.293x165.jpg?t=1669138707",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/365960/516023/72c3726489a556cc9a9ba6fb3ce299aec1719163/1750517250/dash_h264.mpd?t=1669138707"
+    },
+    {
+      "name": "Spa-Francorchamps",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256819364/movie.293x165.jpg?t=1611420473",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/365960/342672/67d9f476e37165978b90de488f4dc2a889cff6c6/1750517219/dash_h264.mpd?t=1611420473"
+    },
+    {
+      "name": "Nürburgring",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256819365/movie.293x165.jpg?t=1611420489",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/365960/342674/7c65668c11cda6319f027fab6df545e7358c4e87/1750517232/dash_h264.mpd?t=1611420489"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 365960,
+    "store_url": "https://store.steampowered.com/app/365960/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Steam Achievements",
+      "VR Supported",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Stats",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Racing",
+      "Automobile Sim",
+      "Simulation",
+      "Sports",
+      "Realistic",
+      "Multiplayer",
+      "Driving",
+      "VR",
+      "Singleplayer",
+      "Moddable",
+      "eSports",
+      "Physics",
+      "Controller"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 7214,
+    "review_negative": 1946,
+    "review_total": 9160,
+    "review_positive_percent": 78.76
+  }
+}

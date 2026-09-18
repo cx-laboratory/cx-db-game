@@ -1,0 +1,173 @@
+{
+  "key": "mortal-sin",
+  "name": "Mortal Sin",
+  "description": "Mortal Sin is a chaotic, blood-soaked roguelike where skill is power, and overconfidence is death. Carve through procedurally generated nightmares with brutal melee and flashy, satisfying combos.",
+  "developers": [
+    "Nikola Todorovic"
+  ],
+  "publishers": [
+    "Nikola Todorovic"
+  ],
+  "release_date": "2025-08-30",
+  "website": "",
+  "tags": [
+    "action",
+    "indie",
+    "rpg",
+    "first-person",
+    "action-roguelike",
+    "dungeon-crawler",
+    "hack-and-slash",
+    "dark-fantasy",
+    "roguelite",
+    "procedural-generation",
+    "roguelike",
+    "singleplayer",
+    "loot",
+    "horror",
+    "gore",
+    "violent",
+    "stylized",
+    "swordplay",
+    "boomer-shooter",
+    "souls-like"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Mortal Sin.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Doronik Games/Mortal Sin",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Mortal Sin"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1494810/13f3ab0c9a4a243624c55724b17b4cbee3a58a0d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/b41130d8540063e8250074ccfa10c1681683c56a/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/4ec48b1d6e1affa361fb06a61f7c0351a5af982b/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/5135fa2e80a894c8e0f84f5eeb39477c5a744c1b/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/fe3bd5260dfea2300c9672d2919c70b6a8ab586b/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/007a75edfda6974f2f344a0e6a75c126f62ee427/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/9aa5df4c238dfd11109bb1e7fda29a3553a158e1/ss_9aa5df4c238dfd11109bb1e7fda29a3553a158e1.1920x1080.jpg?t=1782335429"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/a1e48116ed282c67d53c1c844d2e7ef0db6aa987/ss_a1e48116ed282c67d53c1c844d2e7ef0db6aa987.1920x1080.jpg?t=1782335429"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/c0243e42a2c2072b20af22471c73bf17ea001268/ss_c0243e42a2c2072b20af22471c73bf17ea001268.1920x1080.jpg?t=1782335429"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/3955db355438bcaedc27dc08f0b4c4ff523f6063/ss_3955db355438bcaedc27dc08f0b4c4ff523f6063.1920x1080.jpg?t=1782335429"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/dded6592a1f8a474028d940270edc1d2f8213aba/ss_dded6592a1f8a474028d940270edc1d2f8213aba.1920x1080.jpg?t=1782335429"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/50ed9b7a52bad1979cc0cf7bdeaf1206b082bbcb/ss_50ed9b7a52bad1979cc0cf7bdeaf1206b082bbcb.1920x1080.jpg?t=1782335429"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/6f97ce6b3b01c3c35e06994123b2bc06935153f5/ss_6f97ce6b3b01c3c35e06994123b2bc06935153f5.1920x1080.jpg?t=1782335429"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/ss_6d4cc2b5fcd9e9183f5b001c23d4819db0b69ecc.1920x1080.jpg?t=1782335429"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/ss_d3baa0602eb4492231c86fb6cb523e0bff25af32.1920x1080.jpg?t=1782335429"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257190657/8897d2d9ea6ecae90e5206f6cf64be23d12c8cee/movie_600x337.jpg?t=1756486031",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1494810/1446435418/89e317d4530c71eef471c76ff7ec77e0139c5c6e/1756462642/dash_h264.mpd?t=1756486031"
+    },
+    {
+      "name": "Animated Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257190658/8a1d04d01c62c9bbf2721ab2bdf33dd9b2bc4ef1/movie_600x337.jpg?t=1756486033",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1494810/737341787/9beef54385cfa2400c7ff0b29cb4329c7ee89d43/1756462675/dash_h264.mpd?t=1756486033"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1494810,
+    "store_url": "https://store.steampowered.com/app/1494810/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "First-Person",
+      "Action Roguelike",
+      "Dungeon Crawler",
+      "Hack and Slash",
+      "RPG",
+      "Indie",
+      "Action",
+      "Dark Fantasy",
+      "Roguelite",
+      "Procedural Generation",
+      "Roguelike",
+      "Singleplayer",
+      "Loot",
+      "Horror",
+      "Gore",
+      "Violent",
+      "Stylized",
+      "Swordplay",
+      "Boomer Shooter",
+      "Souls-like"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 5512,
+    "review_negative": 321,
+    "review_total": 5833,
+    "review_positive_percent": 94.5
+  }
+}

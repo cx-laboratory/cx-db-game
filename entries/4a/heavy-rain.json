@@ -1,0 +1,131 @@
+{
+  "key": "heavy-rain",
+  "name": "Heavy Rain",
+  "description": "Experience a gripping psychological thriller filled with innumerable twists and turns. The hunt is on for a murderer known only as the Origami Killer. Four characters, each following their own leads, must take part in a desperate attempt to prevent the killer from claiming a new victim.",
+  "developers": [
+    "Quantic Dream"
+  ],
+  "publishers": [
+    "Quantic Dream"
+  ],
+  "release_date": "2020-06-18",
+  "website": "https://www.quanticdream.com/heavy-rain",
+  "tags": [
+    "action",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish"
+  ],
+  "name_localized": {
+    "schinese": "暴雨",
+    "tchinese": "暴雨"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "HeavyRain.exe",
+          "description": "Master version",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Heavy Rain",
+    "HeavyRain",
+    "暴雨"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/960910/ddc1b819a9c00d9642d290fc521e48d708af7329.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/ss_d7ed4a5e3d155e23331902909f56f90c752c3643.1920x1080.jpg?t=1675271942"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/ss_f123d7bbd8c3e55ad42b3048be0d9685cab4bc6a.1920x1080.jpg?t=1675271942"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/ss_7cbb3063e3473239471d26fb54a5511e5a30ef3d.1920x1080.jpg?t=1675271942"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/ss_1d8c498b4e3efc5faf10e327dfc2397146a04c75.1920x1080.jpg?t=1675271942"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/ss_a6a15c998812ef671964cd8dfb0c4a57707b8026.1920x1080.jpg?t=1675271942"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/ss_b9d75522e0436b133cc8a5b4b140c464e61fc0c7.1920x1080.jpg?t=1675271942"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/ss_ae2b1381c68d8d909f02b9005ae97a2d818b4c93.1920x1080.jpg?t=1675271942"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Heavy Rain Steam Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256784000/movie.293x165.jpg?t=1590426169",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/960910/282745/d2447ebacb226b5338529ea6ccb1eef4c11fa281/1750601270/dash_h264.mpd?t=1590426169"
+    }
+  ],
+  "metacritic": {
+    "score": 75,
+    "url": "https://www.metacritic.com/game/pc/heavy-rain?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 960910,
+    "store_url": "https://store.steampowered.com/app/960910/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 25127,
+    "review_negative": 4209,
+    "review_total": 29336,
+    "review_positive_percent": 85.65
+  }
+}

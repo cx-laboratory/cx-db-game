@@ -1,0 +1,177 @@
+{
+  "key": "upload-labs",
+  "name": "Upload Labs",
+  "description": "A sci-fi management game where you build and optimize your computer's system from the ground up. Connect and configure interconnected nodes to efficiently download, process, and upload files. Manage your setup, solve system challenges, and become the ultimate system architect",
+  "developers": [
+    "EnigmaDev Studios"
+  ],
+  "publishers": [
+    "EnigmaDev Studios"
+  ],
+  "release_date": "2025-10-04",
+  "website": "",
+  "tags": [
+    "simulation",
+    "free-to-play",
+    "automation",
+    "idler",
+    "incremental",
+    "programming",
+    "management",
+    "time-management",
+    "logic",
+    "immersive-sim",
+    "economy",
+    "hacking",
+    "sci-fi",
+    "2d",
+    "resource-management",
+    "sandbox",
+    "relaxing",
+    "mining",
+    "futuristic",
+    "singleplayer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "Japanese",
+    "Portuguese - Brazil",
+    "French",
+    "Italian",
+    "Korean",
+    "Polish",
+    "Turkish",
+    "Vietnamese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Upload Labs.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Upload Labs.exe",
+          "description": "OpenGL",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Upload Labs.x86_64",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Upload Labs.x86_64",
+          "description": "OpenGL",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Upload Labs",
+    "Upload Labs.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3606890/5c68ccf4c818c2120966aa23ca1fbb4890d31060.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3606890/93b3fb78b1c6efc64089b7f2ef493a53aaaabecd/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3606890/bceebb215844e200307770eade1517f89eb66356/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3606890/847029681ebb59e73a67f697840dbe6bbf575917/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3606890/f654270cece8c5845fcc312271ac072cbf225de5/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3606890/7b45d809a40cf4f7763748c98fc863c21f1ff605/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3606890/30ba9d584c07c6cc982e7d22cfb5dd52c6d3b067/ss_30ba9d584c07c6cc982e7d22cfb5dd52c6d3b067.1920x1080.jpg?t=1775915574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3606890/258ec3e83e1bd1e21e60cb3eb8a6e3fcc856a5f5/ss_258ec3e83e1bd1e21e60cb3eb8a6e3fcc856a5f5.1920x1080.jpg?t=1775915574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3606890/1f4e7d365bb96571730e84917088e383b736144b/ss_1f4e7d365bb96571730e84917088e383b736144b.1920x1080.jpg?t=1775915574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3606890/952b76a47e3fd63eab5b5eb87beba6168dd0debe/ss_952b76a47e3fd63eab5b5eb87beba6168dd0debe.1920x1080.jpg?t=1775915574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3606890/4130b3c357a62f5e898f60e897bc59026cc75423/ss_4130b3c357a62f5e898f60e897bc59026cc75423.1920x1080.jpg?t=1775915574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3606890/b44efcb2641ef7da45c1f20dd1b85da6377e6ea9/ss_b44efcb2641ef7da45c1f20dd1b85da6377e6ea9.1920x1080.jpg?t=1775915574"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257186526/abf0d95f0af8eeac92cfa0c1b3571d6d01e8ccd4/movie_600x337.jpg?t=1755884656",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3606890/1137013272/b93b1850ed0111627c48b432ec87f391c8a5cef1/1755828289/dash_h264.mpd?t=1755884656"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3606890,
+    "store_url": "https://store.steampowered.com/app/3606890/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Simulation",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Automation",
+      "Idler",
+      "Free to Play",
+      "Incremental",
+      "Programming",
+      "Management",
+      "Time Management",
+      "Logic",
+      "Immersive Sim",
+      "Economy",
+      "Hacking",
+      "Sci-fi",
+      "2D",
+      "Resource Management",
+      "Sandbox",
+      "Relaxing",
+      "Mining",
+      "Futuristic",
+      "Singleplayer"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7257,
+    "review_negative": 604,
+    "review_total": 7861,
+    "review_positive_percent": 92.32
+  }
+}

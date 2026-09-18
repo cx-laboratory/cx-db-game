@@ -1,0 +1,286 @@
+{
+  "key": "the-long-dark",
+  "name": "The Long Dark",
+  "description": "THE LONG DARK is a thoughtful, exploration-survival experience that challenges solo players to think for themselves as they explore an expansive frozen wilderness in the aftermath of a geomagnetic disaster. There are no zombies -- only you, the cold, and all the threats Mother Nature can muster.",
+  "developers": [
+    "Hinterland Studio Inc."
+  ],
+  "publishers": [
+    "Hinterland Studio Inc."
+  ],
+  "release_date": "2017-08-01",
+  "website": "http://www.thelongdark.com",
+  "tags": [
+    "adventure",
+    "indie",
+    "simulation",
+    "strategy",
+    "survival",
+    "open-world-survival-craft",
+    "open-world",
+    "exploration",
+    "atmospheric",
+    "singleplayer",
+    "first-person",
+    "crafting",
+    "sandbox",
+    "post-apocalyptic",
+    "walking-simulator",
+    "horror",
+    "co-op",
+    "difficult",
+    "action"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "turkish",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "tld.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Hinterland/TheLongDark/",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "tld.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Hinterland/TheLongDark/",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "tld.x86_64",
+          "description": "Launch 64-bit",
+          "type": "none"
+        },
+        {
+          "executable": "tld.x86",
+          "description": "Launch 32-bit",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Hinterland/TheLongDark/",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The Long Dark",
+    "tld",
+    "tld.app",
+    "tld.x86_64",
+    "tld.x86"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/305620/e26b78087b75d5e002e92f2bdd73ce6fc4861e56.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/3d41bec8760d9c7fc2b724317229630d644c8f46/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/1336fe0af5c6c472a871092329e4a15dc08b1448/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/ss_05c7f5d1b2ec2b2a1cf4ca2aa1ff609c7542f6b5.1920x1080.jpg?t=1780689206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/ss_6b411930012a9f6794fe32e36504517aa54c3e4c.1920x1080.jpg?t=1780689206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/ss_aa8de90a92dca3f6365ad5f18216393047f5b2d8.1920x1080.jpg?t=1780689206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/ss_6e8604e40c58acd67071bb2e1a13f22a1f9fd288.1920x1080.jpg?t=1780689206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/ss_28fac78856812a5a76a8663a5cfb53d7d9a7d694.1920x1080.jpg?t=1780689206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/ss_cd4e6a6dd79d74ab321cad88b03189e4a4eeff52.1920x1080.jpg?t=1780689206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/ss_64ec8f3f82cfc3c3ce09e85af3cc070aaba14323.1920x1080.jpg?t=1780689206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/ss_44eefc1cfde85d0f3ad34866b3da93d0ed3c45f8.1920x1080.jpg?t=1780689206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/ss_718af4cf5640b3227a530adf6d5f6d9e3a46703b.1920x1080.jpg?t=1780689206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/ss_01b14b69d0d3fe417280f710adcc1c01cd69cf9e.1920x1080.jpg?t=1780689206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/ss_01029b7848cf11a9a8dc9afbc27532170019f834.1920x1080.jpg?t=1780689206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/ss_cd8c096172033a29a04330747076ea52ce92d31c.1920x1080.jpg?t=1780689206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/ss_abbb4b6bc5a0eaad930db17ebb6ac8c14d8bd726.1920x1080.jpg?t=1780689206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/ss_f470d65426fd80e6beda547271e51ccd36914cac.1920x1080.jpg?t=1780689206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/ss_adc8044af21a0496d3f454762213f6acfa05d24e.1920x1080.jpg?t=1780689206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/ss_69d54cae08316ff9403c08f8b9f339399f7be8fb.1920x1080.jpg?t=1780689206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/ss_5206ba0a02650e836367caf7e1e7e55a3058564b.1920x1080.jpg?t=1780689206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/ss_b63253aa5baae4c5bcc4e8fc03f68c46f806bec7.1920x1080.jpg?t=1780689206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/ss_5212d7d56ed0e87e63ec670eef0e88177fc27982.1920x1080.jpg?t=1780689206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/ss_4ecc2750cc978185c422e9a69b471622c86d1113.1920x1080.jpg?t=1780689206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/ss_4222511b32c48385f2bd48fbddfc7d3523dc6048.1920x1080.jpg?t=1780689206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/ss_70d3a9799c9b003a53c8ac512f163678a4967672.1920x1080.jpg?t=1780689206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305620/ss_1aec121d96294547cc2321bf5bbc24036dd92c8e.1920x1080.jpg?t=1780689206"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Long Dark -- Episode Five: THE LIGHT AT THE END OF ALL THINGS -- Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257313000/158873253ea13996be7cad9d562c735199fb7e15/movie_600x337.jpg?t=1775092703",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/305620/1641380046/aef3c447aa126e85cbd79b6dcad8fc937d380137/1775082527/dash_h264.mpd?t=1775092703"
+    },
+    {
+      "name": "TALES FROM THE FAR TERRITORY -- Parts One to Six Recap",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257130456/46f2e1f0229191e6255a277f24b8f3bdb13a40af/movie_600x337.jpg?t=1745525392",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/305620/877407/acf23dbaa973429a902b668d4c5695d148e8541d/1750504310/dash_h264.mpd?t=1745525392"
+    },
+    {
+      "name": "The Long Dark -- VISUAL ENHANCEMENTS for High-End Systems",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257130457/6eef3efa7d23da4815c1f26c8362f742e62c7d6b/movie_600x337.jpg?t=1745525395",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/305620/877408/d28744c0396fe16147886c367c82672e91369c74/1750504314/dash_h264.mpd?t=1745525395"
+    },
+    {
+      "name": "The Long Dark -- Episode Four: FURY, THEN SILENCE -- Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256854655/movie.293x165.jpg?t=1727794379",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/305620/406873/517e47d488eda7eb3b3c27a363237f46c2164ef0/1750504294/dash_h264.mpd?t=1727794379"
+    },
+    {
+      "name": "The Long Dark -- PERILOUS CONSTRAINT -- Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256863892/movie.293x165.jpg?t=1727794374",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/305620/423005/8881c68d48cdb11e1afb31d082d59ada0f3a1c29/1750504310/dash_h264.mpd?t=1727794374"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 305620,
+    "store_url": "https://store.steampowered.com/app/305620/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Survival",
+      "Open World Survival Craft",
+      "Open World",
+      "Exploration",
+      "Atmospheric",
+      "Singleplayer",
+      "First-Person",
+      "Adventure",
+      "Crafting",
+      "Sandbox",
+      "Simulation",
+      "Post-apocalyptic",
+      "Indie",
+      "Walking Simulator",
+      "Survival Horror",
+      "Co-op",
+      "Strategy",
+      "Difficult",
+      "Action",
+      "Horror"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 109063,
+    "review_negative": 13502,
+    "review_total": 122565,
+    "review_positive_percent": 88.98
+  }
+}

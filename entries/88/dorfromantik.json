@@ -1,0 +1,218 @@
+{
+  "key": "dorfromantik",
+  "name": "Dorfromantik",
+  "description": "Dorfromantik is a peaceful building strategy and puzzle game where you create a beautiful and ever-growing village landscape by placing tiles. Explore a variety of colorful biomes, discover and unlock new tiles and complete quests to fill your world with life!",
+  "developers": [
+    "Toukana Interactive"
+  ],
+  "publishers": [
+    "Toukana Interactive"
+  ],
+  "release_date": "2022-04-28",
+  "website": "https://toukana.com/dorfromantik/",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "strategy",
+    "puzzle",
+    "relaxing",
+    "city-builder",
+    "turn-based-strategy",
+    "board-game",
+    "sandbox",
+    "resource-management",
+    "minimalist",
+    "procedural-generation",
+    "family-friendly",
+    "logic",
+    "controller",
+    "3d",
+    "turn-based-tactics",
+    "hand-drawn",
+    "singleplayer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "dutch",
+    "norwegian",
+    "swedish",
+    "hungarian",
+    "czech",
+    "turkish",
+    "arabic",
+    "brazilian",
+    "ukrainian",
+    "latam"
+  ],
+  "name_localized": {
+    "sc_schinese": "筑梦颂"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Dorfromantik.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Toukana Interactive/Dorfromantik",
+          "pattern": "*.sav",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Dorfromantik.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Toukana Interactive/Dorfromantik",
+          "pattern": "*.sav",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Dorfromantik",
+    "Dorfromantik.app",
+    "筑梦颂"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1455840/c7f24bc1facf1af3378ad655eed2dee7acc5c7b2.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455840/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455840/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455840/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455840/1644d240987ad87fec194d1868fcc080c5a46c5e/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455840/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455840/ss_a49e5fcc5301e8a05a1da7ce233a5377cf680e98.1920x1080.jpg?t=1782380923"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455840/ss_5388583373f0895184a83c4db492e6f6dff5af2d.1920x1080.jpg?t=1782380923"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455840/ss_2232950021d44e7fab5ca387470d4dd909548080.1920x1080.jpg?t=1782380923"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455840/ss_7ea026a23427e733f6aa3b88bd1f06c1ad465852.1920x1080.jpg?t=1782380923"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455840/ss_137bc5e9ff3d2e08bed463e8ea2d09d8f255fe2e.1920x1080.jpg?t=1782380923"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455840/ss_7e3751efef33d4ceb3563b28d9f1f1f19612e0b6.1920x1080.jpg?t=1782380923"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455840/ss_9784fc1bd96a71b0a4b840740fe0b0387d69cfab.1920x1080.jpg?t=1782380923"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455840/ss_80fb2af6b69b6fbd35cd3a2f68786707ec4f41e8.1920x1080.jpg?t=1782380923"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455840/ss_7ff73a7c29a4f24eec87425ab18be1b7a6ac8c45.1920x1080.jpg?t=1782380923"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455840/ss_28a4ed0adc9079992219fe444bc29022f8b4ff8c.1920x1080.jpg?t=1782380923"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455840/ss_4c58eced8d3aa3322d95ec15744251562d188c79.1920x1080.jpg?t=1782380923"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455840/ss_bcc712bf21fd4d9c8f7451196f3a35ed7ffc6471.1920x1080.jpg?t=1782380923"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Full Release Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256884298/movie.293x165.jpg?t=1651132744",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1455840/458823/ac7809c6d534d75ad7a2f836becd64d298565fb2/1750691002/dash_h264.mpd?t=1651132744"
+    },
+    {
+      "name": "Full Release Explanation Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256884304/movie.293x165.jpg?t=1651132749",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1455840/458835/56f98fd4683cca0f6860e8d44ad933759aa72129/1750691002/dash_h264.mpd?t=1651132749"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1455840,
+    "store_url": "https://store.steampowered.com/app/1455840/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Puzzle",
+      "Relaxing",
+      "City Builder",
+      "Turn-Based Strategy",
+      "Casual",
+      "Board Game",
+      "Strategy",
+      "Sandbox",
+      "Resource Management",
+      "Simulation",
+      "Minimalist",
+      "Procedural Generation",
+      "Family Friendly",
+      "Logic",
+      "Indie",
+      "Controller",
+      "3D",
+      "Turn-Based Tactics",
+      "Hand-drawn",
+      "Singleplayer"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 28306,
+    "review_negative": 1071,
+    "review_total": 29377,
+    "review_positive_percent": 96.35
+  }
+}

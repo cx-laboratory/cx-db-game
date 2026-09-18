@@ -1,0 +1,186 @@
+{
+  "key": "journey",
+  "name": "Journey",
+  "description": "Explore the ancient, mysterious world of Journey as you soar above ruins and glide across sands to discover its secrets.",
+  "developers": [
+    "thatgamecompany"
+  ],
+  "publishers": [
+    "Annapurna Interactive"
+  ],
+  "release_date": "2020-06-11",
+  "website": "",
+  "tags": [
+    "adventure",
+    "indie",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "beautiful",
+    "atmospheric",
+    "exploration",
+    "relaxing",
+    "great-soundtrack",
+    "walking-simulator",
+    "casual",
+    "story-rich",
+    "stylized",
+    "music",
+    "family-friendly",
+    "classic",
+    "narrative",
+    "singleplayer",
+    "mystery",
+    "3d"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "polish",
+    "dutch",
+    "swedish",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "风之旅人"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Journey.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Annapurna Interactive/Journey/Steam",
+          "pattern": "*.bin",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Journey"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/638230/8538c0cb998e844ce5c78683f322e9ca81075a34.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/ss_d4c7bfb15df749b78b6957320a4a23d71d531858.1920x1080.jpg?t=1729099361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/ss_c7741b2d22bdd5e5765816c9ef1b1e675616ce81.1920x1080.jpg?t=1729099361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/ss_040366eaf8bdf1dfb5a16ba5e503742ce96f2f6d.1920x1080.jpg?t=1729099361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/ss_ed77e7844e32c4cb181ce585fa1a368285c66ec5.1920x1080.jpg?t=1729099361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/ss_90dde9d4701385c7c7ffe22569ed1855b118ea4c.1920x1080.jpg?t=1729099361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/ss_e6d90f4cc1ce3ea73f1952d6d6f9c7e6e8657e0d.1920x1080.jpg?t=1729099361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/ss_678009919bc0a5876ec7f4e60e8ec3070c090b58.1920x1080.jpg?t=1729099361"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Journey | 10 Year Anniversary Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256876892/movie.293x165.jpg?t=1646936227",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/638230/445304/488a13fed8afd15efbca108f2424ffa7accf823f/1750565278/dash_h264.mpd?t=1646936227"
+    },
+    {
+      "name": "Journey | PC Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256780780/movie.293x165.jpg?t=1591891852",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/638230/276812/2eebf9dff469566360983fd1c989819f6df02424/1750565263/dash_h264.mpd?t=1591891852"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 638230,
+    "store_url": "https://store.steampowered.com/app/638230/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Gamepad Recommended",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Beautiful",
+      "Atmospheric",
+      "Adventure",
+      "Indie",
+      "Exploration",
+      "Relaxing",
+      "Great Soundtrack",
+      "Co-op",
+      "Walking Simulator",
+      "Multiplayer",
+      "Casual",
+      "Story Rich",
+      "Stylized",
+      "Music",
+      "Family Friendly",
+      "Classic",
+      "Narrative",
+      "Singleplayer",
+      "Mystery",
+      "3D"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 35697,
+    "review_negative": 2238,
+    "review_total": 37935,
+    "review_positive_percent": 94.1
+  }
+}

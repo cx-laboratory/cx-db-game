@@ -1,0 +1,242 @@
+{
+  "key": "call-to-arms",
+  "name": "Call to Arms",
+  "description": "Call to Arms offers an innovative mix of real-time strategy and 3rd, as well as 1st person controls. Set in the time of modern warfare, the game offers realistically modeled vehicles and heavy weaponry. Command your troops to victory or fight by yourself in the 3rd or 1st person action mode.",
+  "developers": [
+    "Digitalmindsoft"
+  ],
+  "publishers": [
+    "Digitalmindsoft"
+  ],
+  "release_date": "2018-04-27",
+  "website": "http://digitalmindsoft.eu/",
+  "tags": [
+    "action",
+    "indie",
+    "simulation",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "military",
+    "rts",
+    "war",
+    "shooter",
+    "tactical",
+    "first-person",
+    "real-time",
+    "singleplayer",
+    "fps",
+    "modern",
+    "realistic",
+    "sandbox",
+    "third-person",
+    "early-access"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Russian",
+    "Simplified Chinese*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "binaries/x64/call_to_arms.exe",
+          "description": "Launch",
+          "type": "none"
+        },
+        {
+          "executable": "binaries/x64/call_to_arms.exe",
+          "description": "Play Call to Arms 64bit (singleplayer)",
+          "type": "none"
+        },
+        {
+          "executable": "binaries/x64/call_to_arms_ed.exe",
+          "description": "Editor",
+          "type": "none"
+        },
+        {
+          "executable": "binaries/x64/call_to_arms.exe",
+          "description": "Safe mode",
+          "type": "none"
+        },
+        {
+          "executable": "binaries/x64/call_to_arms.exe",
+          "description": "Safe mode (no mods)",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Call to Arms",
+    "binaries/x64/call_to_arms",
+    "binaries/x64/call_to_arms_ed"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/302670/fa5660b5faf34a918f24c076f839357023a1deb8.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/ss_14e853245bc87525aad0dc4892189bf00689f79f.1920x1080.jpg?t=1755264771"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/ss_bb77f7f5ca283e1e6b2c911d154219c02e50dc46.1920x1080.jpg?t=1755264771"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/ss_0575a0b7d401e8179c479e49336745f0c6c7318a.1920x1080.jpg?t=1755264771"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/ss_d46b7c18f978f6daf2ee4f43c50c70a3c5a1dd54.1920x1080.jpg?t=1755264771"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/ss_ad9bc0a93f2a40525d21c87d04874ceb2e8f9c6c.1920x1080.jpg?t=1755264771"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/ss_7312a69092b9834b162cd65023b00b1c318e8dbb.1920x1080.jpg?t=1755264771"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/ss_da211cef734e1ff968020f455bbfbf726c6d1c27.1920x1080.jpg?t=1755264771"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/ss_49e5098b45fb1f9df1ab2781aa1250633417b887.1920x1080.jpg?t=1755264771"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/ss_897f9fff4f83244eb31bfecb485eb5bccd795d44.1920x1080.jpg?t=1755264771"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/ss_126448413e7f1a4719118ee0a37022fec9fed7c1.1920x1080.jpg?t=1755264771"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/ss_d964ad5021801cbffb8e6895312e7b07105141c2.1920x1080.jpg?t=1755264771"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/ss_0f185e0a85b9694f8df9614dff3b24bf79657e25.1920x1080.jpg?t=1755264771"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/ss_f3ca94265239b91a3db98f1ffc32de9349e4efa9.1920x1080.jpg?t=1755264771"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/ss_88b80bb1bd5814ee4f8ebabbced05a8e82018632.1920x1080.jpg?t=1755264771"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/ss_f83adcae403e283ed2e61b296fab710d8baa34b6.1920x1080.jpg?t=1755264771"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/ss_a38949c3ad1ea349653d76702eedf670b77817ee.1920x1080.jpg?t=1755264771"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/ss_9c60b9dc74eb8be988b44e69ef9d4b8acc827a97.1920x1080.jpg?t=1755264771"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/ss_56457daf0c2d30f6bdd0e096f7a04541ae7da287.1920x1080.jpg?t=1755264771"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/ss_0e7a4078199dc7ba16e8d0a7191fcd9a6cbc7fa3.1920x1080.jpg?t=1755264771"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/ss_edcabc22d0b0067410d366ee5ccc30082c6b08db.1920x1080.jpg?t=1755264771"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/ss_7044074004c069ae2a08a76c8a3bf21b67c6978f.1920x1080.jpg?t=1755264771"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/ss_17a63e459d2f39aa9d91f704eb1697571b54a603.1920x1080.jpg?t=1755264771"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302670/ss_301be12e7d71771c4f08cecfc91d62c50bc6f13c.1920x1080.jpg?t=1755264771"
+    }
+  ],
+  "videos": [
+    {
+      "name": "RTS Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256704786/movie.293x165.jpg?t=1514642542",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/302670/139772/8e2eb14b1fba21e76e44a1bec51f401939a87745/1750503736/dash_h264.mpd?t=1514642542"
+    },
+    {
+      "name": "FPS/3PS Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256704782/movie.293x165.jpg?t=1514585913",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/302670/139766/ad6ae532ecf74f25743bdca50b9ce48f3e886352/1750503733/dash_h264.mpd?t=1514585913"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 302670,
+    "store_url": "https://store.steampowered.com/app/302670/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "In-App Purchases",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Stats",
+      "Steam Leaderboards",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "Military",
+      "RTS",
+      "Action",
+      "Multiplayer",
+      "War",
+      "Shooter",
+      "Tactical",
+      "Simulation",
+      "First-Person",
+      "Real-Time",
+      "Singleplayer",
+      "FPS",
+      "Modern",
+      "Co-op",
+      "Realistic",
+      "Sandbox",
+      "Third Person",
+      "Indie",
+      "Early Access"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 19074,
+    "review_negative": 4959,
+    "review_total": 24033,
+    "review_positive_percent": 79.37
+  }
+}

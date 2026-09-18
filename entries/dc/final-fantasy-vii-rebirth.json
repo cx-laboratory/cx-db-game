@@ -1,0 +1,152 @@
+{
+  "key": "final-fantasy-vii-rebirth",
+  "name": "FINAL FANTASY VII REBIRTH",
+  "description": "The Unknown Journey Continues... After escaping the city of Midgar, Cloud and his friends set out on a journey across the planet. New adventures await in a vibrant, expansive world in this standalone entry of the FFVII remake trilogy.",
+  "developers": [
+    "Square Enix"
+  ],
+  "publishers": [
+    "Square Enix"
+  ],
+  "release_date": "2025-01-23",
+  "website": "https://ffvii.square-enix-games.com/games/rebirth",
+  "tags": [
+    "action",
+    "adventure",
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "japanese",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ff7rebirth.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/FINAL FANTASY VII REBIRTH/Steam/{64BitSteamID}/",
+          "pattern": "ff7rebirthcommon.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/FINAL FANTASY VII REBIRTH/Steam/{64BitSteamID}/",
+          "pattern": "ff7rebirth0*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "FINAL FANTASY VII REBIRTH",
+    "ff7rebirth"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2909400/3dacad0a047962a94501d9d028c095993c48ce8b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/159fb57397e436d35ae20ba0f62ba7a7f2974cb9/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/771d94cceea4bf97bd8afeee5e09e31f15bd0196/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/38c7084026055fdf0e23c789645a70855da77d58/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/459032921d4e7feb869620bb4e861530e6c4db0a/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/ss_7a83a64967a06edbf0d43821153a0188471d596a.1920x1080.jpg?t=1775124617"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/ss_7c389d8ed52b6bd2350a3bc9866ac45c919fb2e9.1920x1080.jpg?t=1775124617"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/ss_5540aef3258019f77559ca77ef29ba893b61010f.1920x1080.jpg?t=1775124617"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/ss_45513682d4c2e77b2a89e7bea00ec2851c110116.1920x1080.jpg?t=1775124617"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/ss_e20893c29ecb3211e9d2dd4b0c043a209ea15c07.1920x1080.jpg?t=1775124617"
+    }
+  ],
+  "videos": [
+    {
+      "name": "EN ESRB - launch",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257091394/97c439908c967cf8cc09e0c25c8528b14dfaa78d/movie_600x337.jpg?t=1737642828",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2909400/817019/6024b25bee44bb45cef9c7f5f6ce5398a84a7b23/1750821378/dash_h264.mpd?t=1737642828"
+    },
+    {
+      "name": "EN ESRB - comparison",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257089670/0e6bea75f8410101e1894646f45465679308ee8a/movie_600x337.jpg?t=1737640951",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2909400/813954/28f2d2004c1cfee13570d104474bcc3f15803124/1750821346/dash_h264.mpd?t=1737640951"
+    },
+    {
+      "name": "ESRB EN - deep dive",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257087391/0d907a60692642f6aa1e40579311a991f8551528/movie_600x337.jpg?t=1736491210",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2909400/809710/0eb413285b40d91398887dacba8d032c424428b5/1750821313/dash_h264.mpd?t=1736491210"
+    },
+    {
+      "name": "EN ESRB - prepurchase",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257081671/02c052f79ee10377bfd19879e7c776806aeb914c/movie_600x337.jpg?t=1734064115",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2909400/799412/a1a416e455d3bfc6cb24f9864fa035e0276af2ba/1750821311/dash_h264.mpd?t=1734064115"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2909400,
+    "store_url": "https://store.steampowered.com/app/2909400/",
+    "required_age": 13,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Gamepad Recommended",
+      "Keyboard Only Option",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Surround Sound",
+      "Steam Cloud",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 24641,
+    "review_negative": 7945,
+    "review_total": 32586,
+    "review_positive_percent": 75.62
+  }
+}

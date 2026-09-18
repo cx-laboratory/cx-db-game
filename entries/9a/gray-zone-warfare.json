@@ -1,0 +1,266 @@
+{
+  "key": "gray-zone-warfare",
+  "name": "Gray Zone Warfare",
+  "description": "Enter a high-stakes PvE-first open-world tactical shooter set on a quarantined Southeast Asian island torn apart by faction warfare. Deploy as an elite operator, fight solo or with your squad to carry out missions, earn reputation, and explore the truth behind the Event igniting the conflict.",
+  "developers": [
+    "MADFINGER Games, a.s."
+  ],
+  "publishers": [
+    "MADFINGER Games, a.s."
+  ],
+  "release_date": "2024-04-30",
+  "website": "https://grayzonewarfare.com/",
+  "tags": [
+    "action",
+    "massively-multiplayer",
+    "simulation",
+    "early-access",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "fps",
+    "tactical",
+    "realistic",
+    "extraction-shooter",
+    "open-world",
+    "military",
+    "shooter",
+    "pve",
+    "competitive",
+    "gun-customization",
+    "modern",
+    "survival",
+    "war"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Czech",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese - Brazil",
+    "Simplified Chinese",
+    "Turkish*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "灰区战争",
+    "koreana": "그레이 존 워페어",
+    "japanese": "グレーゾーン・ウォーフェア"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "GZWClientEAC.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "GZWClient.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "GZWClient.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "GZW\\Binaries\\Win64\\GZWClientSteam-Win64-DebugGame.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "GZWClientEAC.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "GZWClientEAC.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "GZW\\Binaries\\Win64\\GZWClientSteam-Win64-Test.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "GZWClientEAC.exe",
+          "description": "Offline Mode",
+          "type": "option1"
+        },
+        {
+          "executable": "GZW\\Binaries\\Win64\\GZWClientSteam-Win64-DebugGame.exe",
+          "description": "Offline Mode",
+          "type": "option1"
+        },
+        {
+          "executable": "GZW\\Binaries\\Win64\\GZWClientSteam-Win64-Shipping.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "GZWClientEAC.exe",
+          "description": "without PSO precaching",
+          "type": "option1"
+        },
+        {
+          "executable": "GZWClientEAC.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "GZWClientEAC.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Gray Zone Warfare",
+    "GZWClientEAC",
+    "GZWClient",
+    "GZW\\Binaries\\Win64\\GZWClientSteam-Win64-DebugGame",
+    "GZW\\Binaries\\Win64\\GZWClientSteam-Win64-Test",
+    "GZW\\Binaries\\Win64\\GZWClientSteam-Win64-Shipping",
+    "灰区战争",
+    "그레이 존 워페어",
+    "グレーゾーン・ウォーフェア"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2479810/ca56095c6c464caf846590898beba429d0f75fe9.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479810/0992474ceeff2245228858446ccfb618a1d869ff/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479810/3a47f3bdc811ec7f46aac03b975c8331b496d9d6/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479810/4c9caa4b0a69799abfc7294874c105d7309eed58/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479810/00f1206dfc0436d81b77f322a544da3a75be4eca/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479810/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479810/2fa64e158672ee4026a37d5d4fd6029972225c00/ss_2fa64e158672ee4026a37d5d4fd6029972225c00.1920x1080.jpg?t=1782408532"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479810/5e7aa829f4b6374289fb5048bca4e1840f851dc5/ss_5e7aa829f4b6374289fb5048bca4e1840f851dc5.1920x1080.jpg?t=1782408532"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479810/554761289ced02f8b33e1e7f6b89c470032c8def/ss_554761289ced02f8b33e1e7f6b89c470032c8def.1920x1080.jpg?t=1782408532"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479810/76b7460537ef52f21ebd95faa2dd769e54c2cace/ss_76b7460537ef52f21ebd95faa2dd769e54c2cace.1920x1080.jpg?t=1782408532"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479810/9dc796a215299591d45554c0742c1a592c7069ce/ss_9dc796a215299591d45554c0742c1a592c7069ce.1920x1080.jpg?t=1782408532"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479810/8fa7f3adb3b7d0252f157e0c9322c9d25c9f3ec9/ss_8fa7f3adb3b7d0252f157e0c9322c9d25c9f3ec9.1920x1080.jpg?t=1782408532"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479810/7968de28c22b0cdf6fefbad740969fe67afd7d8c/ss_7968de28c22b0cdf6fefbad740969fe67afd7d8c.1920x1080.jpg?t=1782408532"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479810/f893f72cd8676b90f70ce02f70ce966583420471/ss_f893f72cd8676b90f70ce02f70ce966583420471.1920x1080.jpg?t=1782408532"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479810/3f8b34d2ddd034a22b74595ee4409e667db10194/ss_3f8b34d2ddd034a22b74595ee4409e667db10194.1920x1080.jpg?t=1782408532"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479810/faa900b7861561c896117f1311c2a997a7768923/ss_faa900b7861561c896117f1311c2a997a7768923.1920x1080.jpg?t=1782408532"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479810/8e058f615120bba63ad612870ab05297f7288e60/ss_8e058f615120bba63ad612870ab05297f7288e60.1920x1080.jpg?t=1782408532"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479810/f0a123797ade72ee83d8ab9a554b4517012444a3/ss_f0a123797ade72ee83d8ab9a554b4517012444a3.1920x1080.jpg?t=1782408532"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479810/ce5fbc1444824ea1a4f05701c54483aac8778b1c/ss_ce5fbc1444824ea1a4f05701c54483aac8778b1c.1920x1080.jpg?t=1782408532"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gray Zone Warfare - Creator's Accolades (Spearhead)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257310302/fb6323d77eab5e608e5581be8da627ad89d52938/movie_600x337.jpg?t=1774641592",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2479810/1745863850/5540bb6f521a00d34e988033ad347a2d4c8a02f5/1774638204/dash_h264.mpd?t=1774641592"
+    },
+    {
+      "name": "Update 0.4 Spearhead Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257312020/ad7fe3c3083eff3d2716cec17be551d33799bedc/movie_600x337.jpg?t=1774967491",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2479810/2137784351/ff5a58c9a3c812091c07a06c55a54ac924ee7c44/1774965540/dash_h264.mpd?t=1774967491"
+    },
+    {
+      "name": "Gray Zone Warfare - Gameplay",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257228383/2c2072f86df303b3ca299d53ada5e73fa3b9eb04/movie_600x337.jpg?t=1770994296",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2479810/1324740128/f62e5dcb589ea5c13e66ac2e4510e7589cada4d8/1762933502/dash_h264.mpd?t=1770994296"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2479810,
+    "store_url": "https://store.steampowered.com/app/2479810/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Massively Multiplayer",
+      "Simulation",
+      "Early Access"
+    ],
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Surround Sound"
+    ],
+    "tags": [
+      "FPS",
+      "Tactical",
+      "Realistic",
+      "Extraction Shooter",
+      "Simulation",
+      "Open World",
+      "Military",
+      "Shooter",
+      "Action",
+      "PvE",
+      "Competitive",
+      "Gun Customization",
+      "Multiplayer",
+      "PvP",
+      "Modern",
+      "Online Co-Op",
+      "Survival",
+      "War",
+      "Massively Multiplayer",
+      "Early Access"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 55636,
+    "review_negative": 21429,
+    "review_total": 77065,
+    "review_positive_percent": 72.19
+  }
+}

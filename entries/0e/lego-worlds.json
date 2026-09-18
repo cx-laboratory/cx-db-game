@@ -1,0 +1,231 @@
+{
+  "key": "lego-worlds",
+  "name": "LEGO® Worlds",
+  "description": "Experience a galaxy of Worlds made entirely from LEGO bricks. EXPLORE gigantic landscapes, DISCOVER countless surprises, and CREATE anything you can imagine by building with LEGO bricks.",
+  "developers": [
+    "TT Games"
+  ],
+  "publishers": [
+    "Warner Bros. Interactive Entertainment"
+  ],
+  "release_date": "2017-03-08",
+  "website": "http://videogames.lego.com/lego-worlds",
+  "tags": [
+    "adventure",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "open-world",
+    "building",
+    "sandbox",
+    "exploration",
+    "family-friendly",
+    "singleplayer",
+    "third-person",
+    "funny",
+    "early-access",
+    "destruction",
+    "action",
+    "comedy",
+    "simulation",
+    "casual",
+    "walking-simulator",
+    "voxel",
+    "survival"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "norwegian",
+    "swedish",
+    "hungarian",
+    "czech",
+    "turkish",
+    "arabic",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "LEGO_Worlds_DX11.exe",
+          "description": "Launch",
+          "type": "none"
+        },
+        {
+          "executable": "LEGO_Worlds_DX11.exe",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "LEGO_Worlds_DX11.exe",
+          "description": "Launch 64-bit",
+          "type": "default"
+        },
+        {
+          "executable": "LEGO_Worlds_DX11.exe",
+          "description": "Launch 64-bit",
+          "type": "default"
+        },
+        {
+          "executable": "LEGO_Worlds_DX11.exe",
+          "description": "Launch 64-bit",
+          "type": "default"
+        },
+        {
+          "executable": "LEGO_Worlds_DX11.exe",
+          "description": "Launch 64-bit",
+          "type": "default"
+        },
+        {
+          "executable": "LEGO_Worlds.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Warner Bros. Interactive Entertainment\\LEGOWorlds\\SAVEDGAMES\\CONTENT\\S1-SYSGLOBAL\\MODS\\MODELS",
+          "pattern": "*.",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "LEGO® Worlds",
+    "LEGO_Worlds_DX11",
+    "LEGO_Worlds"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/332310/faef5b0d0706e0d6d89506461f9ab3f08c5a6986.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332310/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332310/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332310/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332310/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332310/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332310/ss_6e6745114b161326566b0780cd54bd813a701a1c.1920x1080.jpg?t=1780600692"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332310/ss_1e794e1aaea9fc0272ed6b19b9fbd8e078b9e62d.1920x1080.jpg?t=1780600692"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332310/ss_7d0a0ea2516909325b6d714587a0ec9401a9c6a7.1920x1080.jpg?t=1780600692"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332310/ss_8e96127f28d9bfe5b821dab2a4a51feecdb5cb88.1920x1080.jpg?t=1780600692"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332310/ss_d3a5cc12aec63791636143d9ee19f19ce18a7463.1920x1080.jpg?t=1780600692"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332310/ss_1b70d963c6095e4347dbd5dc497bb5d607873c7d.1920x1080.jpg?t=1780600692"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332310/ss_c963c8965019e9a522a40a76a17c93e13e85fd25.1920x1080.jpg?t=1780600692"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332310/ss_e771b5142001d977784a121ac677185183d42a66.1920x1080.jpg?t=1780600692"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332310/ss_211222d1ac4c1a63071b9b0a32f9a65573daa108.1920x1080.jpg?t=1780600692"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256680908/movie.293x165.jpg?t=1488922222",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/332310/93155/a10a74299c22420187f647d2b791e957465daf51/1750509911/dash_h264.mpd?t=1488922222"
+    },
+    {
+      "name": "\"Real Life Player 2!\"",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256661752/movie.293x165.jpg?t=1461343215",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/332310/54357/b63b5edca98cd69ccbec4becf56cbb3920b78808/1750509902/dash_h264.mpd?t=1461343215"
+    },
+    {
+      "name": "Online Multiplayer Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256666246/movie.293x165.jpg?t=1491215791",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/332310/63527/e8439c2c98499bfeec431c7f12580b1ce73e61dd/1750509906/dash_h264.mpd?t=1491215791"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 332310,
+    "store_url": "https://store.steampowered.com/app/332310/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Open World",
+      "Building",
+      "Sandbox",
+      "Multiplayer",
+      "Adventure",
+      "Exploration",
+      "Family Friendly",
+      "Singleplayer",
+      "Third Person",
+      "Funny",
+      "Early Access",
+      "Destruction",
+      "Co-op",
+      "Action",
+      "Comedy",
+      "Simulation",
+      "Casual",
+      "Walking Simulator",
+      "Voxel",
+      "Survival"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 12228,
+    "review_negative": 3387,
+    "review_total": 15615,
+    "review_positive_percent": 78.31
+  }
+}

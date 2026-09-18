@@ -1,0 +1,219 @@
+{
+  "key": "roadwarden",
+  "name": "Roadwarden",
+  "description": "Roadwarden is an illustrated text-based RPG that uses isometric pixel art and combines mechanics borrowed from RPGs, Visual Novels, adventure games and interactive fiction.",
+  "developers": [
+    "Moral Anxiety Studio"
+  ],
+  "publishers": [
+    "Assemble Entertainment"
+  ],
+  "release_date": "2022-09-12",
+  "website": "https://moralanxietystudio.com/",
+  "tags": [
+    "adventure",
+    "indie",
+    "rpg",
+    "text-based",
+    "pixel-graphics",
+    "interactive-fiction",
+    "story-rich",
+    "choose-your-own-adventure",
+    "choices-matter",
+    "fantasy",
+    "multiple-endings",
+    "visual-novel",
+    "atmospheric",
+    "dark-fantasy",
+    "singleplayer",
+    "mystery",
+    "detective",
+    "lgbtq",
+    "great-soundtrack",
+    "crime"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Roadwarden.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Roadwarden-32.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "RenPy/Roadwarden-Saves",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Roadwarden.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "RenPy/Roadwarden-Saves",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Roadwarden.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "RenPy/Roadwarden-Saves",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Roadwarden",
+    "Roadwarden-32",
+    "Roadwarden.app",
+    "Roadwarden.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1155970/f8e09311458c1b4fc6ac23cd50f391a11f5b3704.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155970/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155970/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155970/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155970/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155970/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155970/ss_69b9728311fca16893c916d49230824ab05ff390.1920x1080.jpg?t=1771493971"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155970/ss_ea20ca59e6c57abea7e3f72a50a40772e98000bf.1920x1080.jpg?t=1771493971"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155970/ss_3f7b5544f9970070f6fae15bb940d21416484cef.1920x1080.jpg?t=1771493971"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155970/ss_999eb09c051e59b3802f95eecca0eaa75d4519a4.1920x1080.jpg?t=1771493971"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155970/ss_84acbda80f8c33cbff3d56d7c2277daf32a3559c.1920x1080.jpg?t=1771493971"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155970/ss_d3efb73b8371c6d34a8c38d1763ff5cf5b1c6dfc.1920x1080.jpg?t=1771493971"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155970/ss_9aae5978b6a05e538c60e0a7a73e60e36bf81399.1920x1080.jpg?t=1771493971"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155970/ss_00fe03bb712669665f70f1719668166f62f9da6f.1920x1080.jpg?t=1771493971"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155970/ss_48b8923a0c3bea9fae64b127c1368495c91a0574.1920x1080.jpg?t=1771493971"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155970/ss_c2ca46926fe78e95851d2428e1c666e968aadf0a.1920x1080.jpg?t=1771493971"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155970/ss_be59b3400d662521f56cab712ad8a40e599fca3c.1920x1080.jpg?t=1771493971"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155970/ss_f38b64663861d79df1221736f6e7bff9b30eb753.1920x1080.jpg?t=1771493971"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155970/ss_865198cee0fd18f383d883c71ef7e3ed9033989b.1920x1080.jpg?t=1771493971"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155970/ss_fdebdf5d4603d60efe9a5f3501d60c1fbc310cf3.1920x1080.jpg?t=1771493971"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256905510/movie.293x165.jpg?t=1662990530",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1155970/495685/b3cdcedfe9493d4cd9fc13ed4760f7e936aa8129/1750629913/dash_h264.mpd?t=1662990530"
+    }
+  ],
+  "metacritic": {
+    "score": 83,
+    "url": "https://www.metacritic.com/game/pc/roadwarden?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1155970,
+    "store_url": "https://store.steampowered.com/app/1155970/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Family Sharing"
+    ],
+    "tags": [
+      "RPG",
+      "Text-Based",
+      "Adventure",
+      "Indie",
+      "Pixel Graphics",
+      "Interactive Fiction",
+      "Story Rich",
+      "Choose Your Own Adventure",
+      "Choices Matter",
+      "Fantasy",
+      "Multiple Endings",
+      "Visual Novel",
+      "Atmospheric",
+      "Dark Fantasy",
+      "Singleplayer",
+      "Mystery",
+      "Detective",
+      "LGBTQ+",
+      "Great Soundtrack",
+      "Crime"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 4771,
+    "review_negative": 289,
+    "review_total": 5060,
+    "review_positive_percent": 94.29
+  }
+}

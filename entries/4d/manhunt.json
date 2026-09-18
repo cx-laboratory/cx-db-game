@@ -1,0 +1,103 @@
+{
+  "key": "manhunt",
+  "name": "Manhunt",
+  "description": "You awake to the sound of your own panicked breath. In Manhunt, you must run, hide and fight to survive. If you can stay alive long enough, you may find out who did this to you. This is a brutal blood sport.",
+  "developers": [
+    "Rockstar North"
+  ],
+  "publishers": [
+    "Rockstar Games"
+  ],
+  "release_date": "2008-01-05",
+  "website": "http://www.rockstargames.com/manhunt",
+  "tags": [
+    "action"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish - Spain"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "manhunt.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Manhunt",
+    "manhunt"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/12130/0d0badb2139b9ec04f8dca602853f9f474c0bef0.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12130/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12130/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12130/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12130/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12130/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12130/0000003325.1920x1080.jpg?t=1618852702"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12130/0000003326.1920x1080.jpg?t=1618852702"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12130/0000003327.1920x1080.jpg?t=1618852702"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12130/0000003328.1920x1080.jpg?t=1618852702"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12130/0000003329.1920x1080.jpg?t=1618852702"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Manhunt Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99022/movie.jpg?t=1447351212",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/12130/914/7d17608b928efd9a78554e22fe6ab4979923a460/1750484484/dash_h264.mpd?t=1447351212"
+    }
+  ],
+  "metacritic": {
+    "score": 75,
+    "url": "https://www.metacritic.com/game/pc/manhunt?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 12130,
+    "store_url": "https://store.steampowered.com/app/12130/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 6531,
+    "review_negative": 2682,
+    "review_total": 9213,
+    "review_positive_percent": 70.89
+  }
+}

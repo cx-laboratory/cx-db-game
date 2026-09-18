@@ -1,0 +1,250 @@
+{
+  "key": "screw-drivers",
+  "name": "Screw Drivers",
+  "description": "Crazy physics and high-speed races! Craft vehicles cleverly by combining building blocks and mechanical parts to create powerful drivetrains. Unlock new parts, race for the gold, and challenge your friends in multiplayer.",
+  "developers": [
+    "Creactstudios"
+  ],
+  "publishers": [
+    "Headup"
+  ],
+  "release_date": "2024-06-20",
+  "website": "",
+  "tags": [
+    "action",
+    "indie",
+    "racing",
+    "simulation",
+    "free-to-play",
+    "early-access",
+    "multiplayer",
+    "pvp",
+    "lan-multiplayer",
+    "online-pvp",
+    "building",
+    "physics",
+    "automobile-sim",
+    "crafting",
+    "driving",
+    "destruction",
+    "3d",
+    "singleplayer",
+    "family-friendly",
+    "realistic",
+    "colorful",
+    "logic"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Screw Drivers.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "cars",
+          "pattern": "*.baguette",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "cars",
+          "pattern": "*.properties",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "cars",
+          "pattern": "*.png",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "cars",
+          "pattern": "*.meta",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "*.txt",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "*.set",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "*.inv",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "cars",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "ghosts",
+          "pattern": "*.baguette",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "ghosts",
+          "pattern": "*.ccc",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "ghosts",
+          "pattern": "*.dat",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "ghosts",
+          "pattern": "*.txt",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Screw Drivers"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1279510/1b3a4feca2add3af549e2a54a16b0c27d08ccf68.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279510/13dc01d9869a0e60b92062c522d1eec6bbb7737f/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279510/ad7a272472960bece239e94181f30ddd1525fdc3/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279510/99cd8495eaff080b3f67493ebc8371014e4a74f5/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279510/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279510/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279510/ss_e6c0d1a8bd339044a4003f8a865afd6bb5ca3055.1920x1080.jpg?t=1777540767"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279510/ss_adb0a5ef782d9f5f718b87aa9455501d95497799.1920x1080.jpg?t=1777540767"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279510/ss_50d19046ab92610ce9f8a187c915f3d4898c194d.1920x1080.jpg?t=1777540767"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279510/ss_66f242b1275e9c8066c285faf882acc1cbddd45b.1920x1080.jpg?t=1777540767"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279510/ss_3bcb0da25d3435a4ff8b945f9d30f8df6ae3d516.1920x1080.jpg?t=1777540767"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279510/ss_2040d753d8134d3112f197e83be0da98b3ecf567.1920x1080.jpg?t=1777540767"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279510/ss_7907c5707c1f1f3c593b1f38ac9c2519c5dfbbc3.1920x1080.jpg?t=1777540767"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279510/ss_498d5990e410f38b7d666ae2dfb655594d50928f.1920x1080.jpg?t=1777540767"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279510/ss_77c957828ffe0677ae417b0972fb4f5b38772df9.1920x1080.jpg?t=1777540767"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279510/ss_b92c8b2e4d578cd22ec60bd85737dafae6208bb7.1920x1080.jpg?t=1777540767"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Early Access Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257032670/movie.293x165.jpg?t=1718895306",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1279510/716489/d79527025836db15f0e54063184a9f81e6a6938b/1751215157/dash_h264.mpd?t=1718895306"
+    },
+    {
+      "name": "Release Date Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257030428/movie.293x165.jpg?t=1718895311",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1279510/712555/15d761cb1fdbaaa4a0fe6afd65001550b203073a/1751214044/dash_h264.mpd?t=1718895311"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1279510,
+    "store_url": "https://store.steampowered.com/app/1279510/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Indie",
+      "Racing",
+      "Simulation",
+      "Free To Play",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Building",
+      "Multiplayer",
+      "Free to Play",
+      "Physics",
+      "Automobile Sim",
+      "Racing",
+      "Crafting",
+      "Simulation",
+      "Driving",
+      "Destruction",
+      "3D",
+      "Indie",
+      "Singleplayer",
+      "Family Friendly",
+      "Action",
+      "Realistic",
+      "Early Access",
+      "PvP",
+      "Colorful",
+      "Logic"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 5291,
+    "review_negative": 914,
+    "review_total": 6205,
+    "review_positive_percent": 85.27
+  }
+}

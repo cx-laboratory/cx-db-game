@@ -1,0 +1,155 @@
+{
+  "key": "train-no-7",
+  "name": "第七号列车 - Train No. 7",
+  "description": "《第七号列车》是一部以“海龟汤”类解谜玩法为主的剧情向文字游戏。游戏讲述了“你”在这趟原本应该是平静而惬意的旅途中，遇上了一位独自旅行的少女。为了消遣无聊的时间，少女向“你”讲述起她的故事来，但随着少女的心扉慢慢敞开，“你”竟然发现……",
+  "developers": [
+    "水野的四叶草"
+  ],
+  "publishers": [
+    "Eternal Dream"
+  ],
+  "release_date": "2021-08-14",
+  "website": "https://pl02508006.wixsite.com/mizunobaka/",
+  "tags": [
+    "casual",
+    "indie",
+    "rpg",
+    "free-to-play",
+    "detective",
+    "visual-novel",
+    "trains",
+    "relaxing",
+    "adventure",
+    "puzzle",
+    "spelling",
+    "emotional",
+    "word-game",
+    "2d",
+    "anime",
+    "first-person",
+    "jrpg",
+    "story-rich",
+    "multiple-endings",
+    "singleplayer"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "Simplified Chinese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "game.exe",
+          "description": "第七号列车 - Train No. 7",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Save/",
+          "pattern": "*.rvdata2",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "第七号列车 - Train No. 7",
+    "game"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1708870/7f76155a0d7dbc8094dd4f6cec5a956ea68888b8.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1708870/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1708870/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1708870/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1708870/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1708870/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1708870/ss_e0b3dd99ca80799bb8a8b78565aa913f0d9433d7.1920x1080.jpg?t=1767724728"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1708870/ss_85628d5c7c2b838afbc7a7d0528636ff1ee71214.1920x1080.jpg?t=1767724728"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1708870/ss_21d733191ee622fcfefdf9be1837f1486cd42e7c.1920x1080.jpg?t=1767724728"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1708870/ss_105ad2871e7a7a679accee492f4cddf1de241da8.1920x1080.jpg?t=1767724728"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1708870/ss_9b797437bbb8498e177e11f0cadf2a41093de192.1920x1080.jpg?t=1767724728"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1708870/ss_536b6d4a9a5f56b09a48a9b1327d1f0d99d5b79e.1920x1080.jpg?t=1767724728"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1708870/ss_dd840877f46f0fc163dd3f121f2e5e10c9ef64e0.1920x1080.jpg?t=1767724728"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1708870/ss_890ec4509737969d35bf4273a7309ab14e5779cf.1920x1080.jpg?t=1767724728"
+    }
+  ],
+  "videos": [
+    {
+      "name": "PV",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256844435/movie.293x165.jpg?t=1758257137",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1708870/388343/e5b9d44fba61d9eff51369e64a363815f07fb202/1751022232/dash_h264.mpd?t=1758257137"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1708870,
+    "store_url": "https://store.steampowered.com/app/1708870/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Casual",
+      "Detective",
+      "Visual Novel",
+      "Trains",
+      "Relaxing",
+      "Adventure",
+      "Puzzle",
+      "Spelling",
+      "Emotional",
+      "Word Game",
+      "2D",
+      "RPG",
+      "Anime",
+      "First-Person",
+      "JRPG",
+      "Story Rich",
+      "Multiple Endings",
+      "Free to Play",
+      "Singleplayer",
+      "Indie"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 6825,
+    "review_negative": 156,
+    "review_total": 6981,
+    "review_positive_percent": 97.77
+  }
+}

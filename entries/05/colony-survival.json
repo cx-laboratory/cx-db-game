@@ -1,0 +1,296 @@
+{
+  "key": "colony-survival",
+  "name": "Colony Survival",
+  "description": "Colony Survival is a unique first-person strategy game developed by a two-man team. Build your own colony in a voxel world. Command guards, farmers, miners and other colonists. Defend your colony against the horde of monsters that attacks every night!",
+  "developers": [
+    "Pipliz"
+  ],
+  "publishers": [
+    "Pipliz"
+  ],
+  "release_date": "2017-06-16",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "strategy",
+    "early-access",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "colony-sim",
+    "survival",
+    "base-building",
+    "building",
+    "sandbox",
+    "open-world",
+    "city-builder",
+    "zombies",
+    "crafting",
+    "management",
+    "singleplayer",
+    "voxel",
+    "rts"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "czech"
+  ],
+  "name_localized": {
+    "schinese": "殖民地生存"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "colonyclient.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "gamedata/savegames/_cloud/{Steam3AccountID}",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "colonyclient.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "gamedata/savegames/_cloud/{Steam3AccountID}",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "colonyclient.x86_64",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "colonyclient.x86",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "gamedata/savegames/_cloud/{Steam3AccountID}",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Colony Survival",
+    "colonyclient",
+    "colonyclient.app",
+    "colonyclient.x86_64",
+    "colonyclient.x86"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/366090/75256b05781040535bfb389e85b1d7cbadd0a58f.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/ss_2d49c426c57a672379a335df07ab0be3fbd7ca11.1920x1080.jpg?t=1773131975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/ss_b5783aaead915c069675f29159116054d37adf4d.1920x1080.jpg?t=1773131975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/ss_c3c04215dd3f81f67facb08a9c1da4342319754a.1920x1080.jpg?t=1773131975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/ss_4c4746af14289a3239bb213e8c94e2fcafd84a76.1920x1080.jpg?t=1773131975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/ss_97d2f36defc1c03ecf928d2365f764495b049d5a.1920x1080.jpg?t=1773131975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/ss_0437167f83db24305f619a8cbb909260ee36a15e.1920x1080.jpg?t=1773131975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/ss_a59eb8051f4587232a030b5c1540f0e98d9eb069.1920x1080.jpg?t=1773131975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/ss_67630e7eef3d602f76a4d448d20fd2395f596da1.1920x1080.jpg?t=1773131975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/ss_dca0db9555855526c1c1cd36c055d996008c0aaf.1920x1080.jpg?t=1773131975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/ss_5e352837faf262638f0e83e1790aa1881189b383.1920x1080.jpg?t=1773131975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/ss_65df9d08dff962892ce602fa9059799d3d1a3c7c.1920x1080.jpg?t=1773131975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/ss_d911b5a941208df7629b5bfa95ebafb13bf92c7e.1920x1080.jpg?t=1773131975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/ss_2a65ef66911c936ebbf8bc91e245345319b63db9.1920x1080.jpg?t=1773131975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/ss_1a2c5bde5f2fa17875a31ddf6e57472db928ef53.1920x1080.jpg?t=1773131975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/ss_7cd9a68d0bca9e53929c974377756fbe72e52ebc.1920x1080.jpg?t=1773131975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/ss_6b846f68a037a7b2091c94348cc7b63e18768275.1920x1080.jpg?t=1773131975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/ss_981cd9970515fedda418922ee7a525f29a1971e0.1920x1080.jpg?t=1773131975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/ss_dbe9773c574bc389ce66ea6d55ffb7cdb8a81c9b.1920x1080.jpg?t=1773131975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/ss_35167664fc9c30f4beba20fbd212681a2cc61740.1920x1080.jpg?t=1773131975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/ss_7dce1d234192c2b0d89d7ed3e22f6f017bdcb91e.1920x1080.jpg?t=1773131975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/ss_84183c9abe6bc966d465f9845574e36c52efa5ce.1920x1080.jpg?t=1773131975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/ss_77b6f6e9b7e86d3f6afefed7b476ccc1d5355262.1920x1080.jpg?t=1773131975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/ss_121378f132988a230c79b57617f88a665aac40ca.1920x1080.jpg?t=1773131975"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366090/ss_13c48fa8e3808bc55369920aac8d9e628f3ad328.1920x1080.jpg?t=1773131975"
+    }
+  ],
+  "videos": [
+    {
+      "name": "0.10.0 trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257017188/movie.293x165.jpg?t=1713545118",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/366090/689606/dadf8758600276db978c8e56c4c2bad6bdc95326/1750517270/dash_h264.mpd?t=1713545118"
+    },
+    {
+      "name": "0.6.0 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256713450/movie.293x165.jpg?t=1567420904",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/366090/156651/1c1f340e498153c66b4a0c9349941056c6577231/1750517267/dash_h264.mpd?t=1567420904"
+    },
+    {
+      "name": "0.7.0 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256760909/movie.293x165.jpg?t=1567420913",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/366090/241184/db52632b247d922e82182d1be34f40c1581bf2be/1750517268/dash_h264.mpd?t=1567420913"
+    },
+    {
+      "name": "Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256686908/movie.293x165.jpg?t=1567420919",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/366090/106880/b5582dbb4bd9686f0d20b31eedfba8e21f9f70c4/1750517262/dash_h264.mpd?t=1567420919"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 366090,
+    "store_url": "https://store.steampowered.com/app/366090/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Strategy",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Stats",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Colony Sim",
+      "Survival",
+      "Base Building",
+      "Building",
+      "Multiplayer",
+      "Sandbox",
+      "Strategy",
+      "Open World",
+      "City Builder",
+      "Early Access",
+      "Zombies",
+      "Crafting",
+      "Adventure",
+      "Management",
+      "Co-op",
+      "Indie",
+      "Singleplayer",
+      "Action",
+      "Voxel",
+      "RTS"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8210,
+    "review_negative": 702,
+    "review_total": 8912,
+    "review_positive_percent": 92.12
+  }
+}

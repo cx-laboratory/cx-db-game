@@ -1,0 +1,215 @@
+{
+  "key": "cell-to-singularity-evolution-never-ends",
+  "name": "Cell to Singularity - Evolution Never Ends",
+  "description": "The epic story of evolution, technology, humanity, and dinosaurs is yours to tap.",
+  "developers": [
+    "Computer Lunch"
+  ],
+  "publishers": [
+    "Computer Lunch"
+  ],
+  "release_date": "2021-11-04",
+  "website": "http://www.celltosingularity.com/",
+  "tags": [
+    "casual",
+    "simulation",
+    "free-to-play",
+    "incremental",
+    "science",
+    "idler",
+    "historical",
+    "singleplayer",
+    "space",
+    "dinosaurs",
+    "education",
+    "god-game",
+    "early-access",
+    "sci-fi",
+    "sandbox",
+    "point-and-click",
+    "multiplayer",
+    "atmospheric",
+    "strategy",
+    "family-friendly"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "ukrainian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "CellToSingularity.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Computer Lunch/Cell to Singularity",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "CellToSingularity.app/Contents/MacOS/CellToSingularity",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Computer Lunch/Cell to Singularity",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Cell to Singularity - Evolution Never Ends",
+    "CellToSingularity",
+    "CellToSingularity.app/Contents/MacOS/CellToSingularity"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/977400/130a3091d6e6ae68e7204b21bfa2b4fec02c3d8d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977400/9f6e88d98dfe4216bf1b424d30a4206dee547e31/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977400/cb9d9bd4ca2cd706f4780b96d72d25d6566a8db1/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977400/052e8abad44a680d0a2cfed9e88a2c8878b5e2f7/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977400/1c5497d34f535bc4bb8b7b757964acc935680846/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977400/bd9e870f3429ba0bcdace57a51d9519714fc6479/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977400/ss_4aaa810942069abaefc79f3afe470cdcb9f19e25.1920x1080.jpg?t=1780072395"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977400/ss_e52c3ee704a9dd101d317057acce563cfe27619b.1920x1080.jpg?t=1780072395"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977400/ss_08766e9aecc45e3627feb70d1deb2cc991adf85f.1920x1080.jpg?t=1780072395"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977400/ss_f2588f45b94589548abbf4145ffa1b7177867a72.1920x1080.jpg?t=1780072395"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977400/ss_2626f90ba162623699c3c99e50523d346328929c.1920x1080.jpg?t=1780072395"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977400/ss_24614492c49cb663f9593b774097fd52902e1642.1920x1080.jpg?t=1780072395"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977400/ss_b236dd50e5d154d803f99beb3f6fce9ed9990570.1920x1080.jpg?t=1780072395"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977400/ss_ad9439f961b5031e402cf1f831403a12a93bfbcc.1920x1080.jpg?t=1780072395"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977400/ss_664bee30c710e7cc51fbaf503f52d926eae6575d.1920x1080.jpg?t=1780072395"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977400/ss_c40663d364d12e00f54f13921bce4b48bc1c1c62.1920x1080.jpg?t=1780072395"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Reality Reboot",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257233911/050f1e97f939d763e6dc5bc0e9c2e6bc3f5b5006/movie_600x337.jpg?t=1763477670",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/977400/104659407/ac50b4f41a585e75f88ee0b28a770fd6b6e15ae8/1763476245/dash_h264.mpd?t=1763477670"
+    },
+    {
+      "name": "Beyond - Space Expansion",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256858836/movie.293x165.jpg?t=1635973437",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/977400/414265/528d8e911b18a59f272796f712edcac15e6d5acd/1750603181/dash_h264.mpd?t=1635973437"
+    },
+    {
+      "name": "Mammal Kingdom Expansion",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256818963/movie.293x165.jpg?t=1611184186",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/977400/341946/bbc5650b9702c0e338662c5beab8bfdb09db85cd/1750603178/dash_h264.mpd?t=1611184186"
+    },
+    {
+      "name": "Mesozoic Valley - Dinosaur Evolution Expansion.",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256770988/movie.293x165.jpg?t=1577257381",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/977400/259090/faa0fdc1be07a23fe38820769728f5f6d1ab1bc8/1750603173/dash_h264.mpd?t=1577257381"
+    },
+    {
+      "name": "Gameplay Cell to Singularity",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256734395/movie.293x165.jpg?t=1543425850",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/977400/194097/607a64d48ce61a1ecc3e0b41f51a8e7b5eeb1c2b/1750603169/dash_h264.mpd?t=1543425850"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 977400,
+    "store_url": "https://store.steampowered.com/app/977400/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Casual",
+      "Simulation",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "In-App Purchases",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Incremental",
+      "Free to Play",
+      "Simulation",
+      "Science",
+      "Idler",
+      "Casual",
+      "Historical",
+      "Singleplayer",
+      "Space",
+      "Dinosaurs",
+      "Education",
+      "God Game",
+      "Early Access",
+      "Sci-fi",
+      "Sandbox",
+      "Point & Click",
+      "Multiplayer",
+      "Atmospheric",
+      "Strategy",
+      "Family Friendly"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 24485,
+    "review_negative": 2861,
+    "review_total": 27346,
+    "review_positive_percent": 89.54
+  }
+}

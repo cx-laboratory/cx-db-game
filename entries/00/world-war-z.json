@@ -1,0 +1,216 @@
+{
+  "key": "world-war-z",
+  "name": "World War Z",
+  "description": "World War Z is a heart-pounding coop third-person shooter for up to 4 players featuring massive swarms of hundreds of zombies, focused on fast-paced, gruesomely spectacular action.",
+  "developers": [
+    "Saber Interactive Inc"
+  ],
+  "publishers": [
+    "Saber Interactive Inc"
+  ],
+  "release_date": "2021-09-21",
+  "website": "https://wwzgame.com/",
+  "tags": [
+    "action",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "zombies",
+    "singleplayer",
+    "shooter",
+    "third-person-shooter",
+    "pve",
+    "horror",
+    "fps",
+    "post-apocalyptic",
+    "gore",
+    "gun-customization",
+    "character-customization",
+    "first-person",
+    "third-person",
+    "violent",
+    "combat"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "russian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "en_us\\client\\bin\\pc\\wwzRetail.exe",
+          "description": "Retail",
+          "type": "default"
+        },
+        {
+          "executable": "en_us\\client\\bin\\pc\\wwzRelease.exe",
+          "description": "Release",
+          "type": "default"
+        },
+        {
+          "executable": "en_us\\client\\bin\\pc\\wwzProfile.exe",
+          "description": "Profile",
+          "type": "default"
+        },
+        {
+          "executable": "en_us\\client\\bin\\pc\\wwzRetail.exe",
+          "description": "Retail",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "SavesDir",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "World War Z",
+    "en_us\\client\\bin\\pc\\wwzRetail",
+    "en_us\\client\\bin\\pc\\wwzRelease",
+    "en_us\\client\\bin\\pc\\wwzProfile"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/699130/0f9e81a6be6e3f5d2a40551ee3aaf63329048b7a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/b35277055fbb7e07c26c5e31e4398684c6461d53/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/bc262c3fd0b77d064cae97471f4218a8f1f34495/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/e8450fa65fb3a8cd27ed35f4edcaa2757e08bd7c/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/eb278dad7c4801b8975fd7e08c11bf0bf96f0531/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/a1886f984827408d3bf8736832c291c8df44d368/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/ss_18b954901ed391d2ea5aa1d530f6c8ae15132188.1920x1080.jpg?t=1781783964"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/ss_7bdf07ccf5f96bd9cfe07f473b3727d8884a5e0f.1920x1080.jpg?t=1781783964"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/ss_e6bb5584935072737f75a9d15d008731d6b1cd1d.1920x1080.jpg?t=1781783964"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/ss_1ebef5fba32a0023a46966a193604081e96a8042.1920x1080.jpg?t=1781783964"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/ss_8de3e9e28f43cb51909bea5e546238d6df2e1e46.1920x1080.jpg?t=1781783964"
+    }
+  ],
+  "videos": [
+    {
+      "name": "World War Z - Limitless Strain Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257361114/a65cc3183de1d2f0cd9fde0658ff5b3b8d31e35c/movie_600x337.jpg?t=1781783894",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/699130/1260539384/0741b707ee0cd2940cb9ee8cfc918de6d2dae0db/1781700642/dash_h264.mpd?t=1781783894"
+    },
+    {
+      "name": "World War Z x The Walking Dead Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257273864/5b9503ec9f54db1d46d7bf67315d44c9411a1503/movie_600x337.jpg?t=1769691654",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/699130/1206811616/200fb8a3018096f200d6024c01ad20c862713b7b/1769523392/dash_h264.mpd?t=1769691654"
+    },
+    {
+      "name": "World War Z x The Walking Dead Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257249949/d1ab6882bcd64c29c6510ff30f0b3bec1ab03550/movie_600x337.jpg?t=1766062751",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/699130/442227608/bafffdc652b8177b25dd8b161d4a3c535682bcc9/1765787059/dash_h264.mpd?t=1766062751"
+    },
+    {
+      "name": "World War Z - Sin City Apocalypse Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257078877/5e333c90f1dfd3271991f7e155bd1e9619f03ace/movie_600x337.jpg?t=1733403632",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/699130/794997/5aa36431c3872056996f57a10d06ef5bd7706148/1750572100/dash_h264.mpd?t=1733403632"
+    },
+    {
+      "name": "World War Z - Sin City Apocalypse Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257072452/abd88927adde7277edd4124d5696981ab3990429/movie_600x337.jpg?t=1731416351",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/699130/784218/cf3a2bb6d57643acc4619e146892f28a7ca0e5b2/1750572100/dash_h264.mpd?t=1731416351"
+    },
+    {
+      "name": "World War Z: Aftermath - Battle of Arizona",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257037087/movie.293x165.jpg?t=1720699331",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/699130/724715/66dd8e3f8b7b06bc124d9b9b6f8049c9c8b28ff0/1750572079/dash_h264.mpd?t=1720699331"
+    },
+    {
+      "name": "World War Z: Aftermath - Horde Mode XL Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256925508/movie.293x165.jpg?t=1674568476",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/699130/530058/c601462e2b66b1160f96c0d7b9be2109774b8b21/1750572037/dash_h264.mpd?t=1674568476"
+    },
+    {
+      "name": "World War Z: Aftermath - Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256854713/movie.293x165.jpg?t=1633522859",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/699130/407023/7c8f97a9296a9cd1b645af255b4e5f1433e28446/1750572010/dash_h264.mpd?t=1633522859"
+    },
+    {
+      "name": "World War Z: Aftermath - October Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256857327/movie.293x165.jpg?t=1674568480",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/699130/411602/8b23f4e2b13300b0c6a4e10aae0fa1fb15a4fa92/1750572018/dash_h264.mpd?t=1674568480"
+    },
+    {
+      "name": "World War Z: Aftermath - Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256837444/movie.293x165.jpg?t=1623529846",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/699130/374655/19cc361dc34d33be5738b38959cec95564861d53/1750571931/dash_h264.mpd?t=1623529846"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 699130,
+    "store_url": "https://store.steampowered.com/app/699130/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Zombies",
+      "Multiplayer",
+      "Online Co-Op",
+      "Singleplayer",
+      "Co-op",
+      "Action",
+      "Shooter",
+      "Third-Person Shooter",
+      "PvE",
+      "Survival Horror",
+      "FPS",
+      "Post-apocalyptic",
+      "Gore",
+      "Gun Customization",
+      "Character Customization",
+      "First-Person",
+      "Third Person",
+      "Horror",
+      "Violent",
+      "Combat"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 26047,
+    "review_negative": 5507,
+    "review_total": 31554,
+    "review_positive_percent": 82.55
+  }
+}

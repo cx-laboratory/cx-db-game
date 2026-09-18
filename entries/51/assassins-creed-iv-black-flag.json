@@ -1,0 +1,133 @@
+{
+  "key": "assassins-creed-iv-black-flag",
+  "name": "Assassin's Creed IV Black Flag",
+  "description": "Discover Assassin's Creed IV Black Flag, the classic pirate action-adventure game from 2013. Command your ship, hunt Templars and carve your legend as Edward Kenway across the Caribbean's Golden Age of Piracy.",
+  "developers": [
+    "Ubisoft Montreal"
+  ],
+  "publishers": [
+    "Ubisoft"
+  ],
+  "release_date": "",
+  "website": "http://www.assassinscreed.com",
+  "tags": [
+    "action",
+    "adventure",
+    "multiplayer"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "刺客信条4：黑旗"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "AC4BFSP.exe",
+          "description": "Launch Assassin's Creed IV Black Flag ",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Assassin's Creed IV Black Flag",
+    "AC4BFSP",
+    "刺客信条4：黑旗"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/242050/a03c06290af00eed66814815663b68f5fd063882.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242050/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242050/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242050/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242050/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242050/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242050/ss_82453694854272967e6f7c2147ff86f62a2b1408.1920x1080.jpg?t=1777052740"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242050/ss_afb6f91bc96b51d0684bb4cbec4389b49dcb96db.1920x1080.jpg?t=1777052740"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242050/ss_c2ad7f22e27b8ffab2a896e543a82fc8f6e9a1a7.1920x1080.jpg?t=1777052740"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242050/ss_7aa79ce41e1233ff22701281af51b5f0ab51245e.1920x1080.jpg?t=1777052740"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242050/ss_1731a6467ede27fa624caa1b23332307b2149257.1920x1080.jpg?t=1777052740"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242050/ss_a7b90773770ff884387199491885c12a57bdfc5d.1920x1080.jpg?t=1777052740"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242050/ss_60b905d803c94cd1a1e02bd62eeb6f9e4ca2b3ec.1920x1080.jpg?t=1777052740"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Pirate Heist Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2030349/movie.293x165.jpg?t=1447359707",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/242050/15752/d570d0efdda4600f0ba6cb47bb86cb612bcfcb89/1750486283/dash_h264.mpd?t=1447359707"
+    },
+    {
+      "name": "101 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2030350/movie.293x165.jpg?t=1447359711",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/242050/15759/dd96eb33576641821e2ca0c8689e3accf9c50f81/1750486291/dash_h264.mpd?t=1447359711"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 242050,
+    "store_url": "https://store.steampowered.com/app/242050/",
+    "required_age": 18,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements",
+      "In-App Purchases",
+      "Stereo Sound",
+      "Surround Sound"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 68892,
+    "review_negative": 9048,
+    "review_total": 77940,
+    "review_positive_percent": 88.39
+  }
+}

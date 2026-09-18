@@ -1,0 +1,163 @@
+{
+  "key": "the-plan",
+  "name": "The Plan",
+  "description": "A fly ascends to the skies, pondering the pointlessness of its brief existence.",
+  "developers": [
+    "Krillbite Studio"
+  ],
+  "publishers": [
+    "Krillbite Studio"
+  ],
+  "release_date": "2014-02-14",
+  "website": "http://krillbite.com/theplan",
+  "tags": [
+    "casual",
+    "free-to-play",
+    "indie",
+    "atmospheric",
+    "short",
+    "singleplayer",
+    "simulation",
+    "beautiful",
+    "great-soundtrack",
+    "exploration",
+    "music",
+    "experimental",
+    "adventure",
+    "emotional",
+    "flight",
+    "relaxing",
+    "2d",
+    "nature",
+    "walking-simulator",
+    "funny"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "The Plan.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "The Plan.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "The Plan.x86",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "The Plan",
+    "The Plan.app",
+    "The Plan.x86"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/250600/1a07cd58c006e4c84569c9787b78933033c0368a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250600/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250600/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250600/capsule_231x87.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250600/ss_46464261147b27033478ada0c7962f8bf7edac20.1920x1080.jpg?t=1667300001"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250600/ss_916d51f069f7014e538e93f3cd97dbdded835078.1920x1080.jpg?t=1667300001"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250600/ss_121f13fadef8f44622fedef83cd32090be0fae2c.1920x1080.jpg?t=1667300001"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250600/ss_70438015f23a45671e9ea4db70932b98bf1352aa.1920x1080.jpg?t=1667300001"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250600/ss_aa5f8ee71c16bf7c315a9b82f2f82b27f8556d3f.1920x1080.jpg?t=1667300001"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2029330/movie.293x165.jpg?t=1447358792",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/250600/13477/48330dce1b51140de2ceb6467965785f0dc94b9b/1751250999/dash_h264.mpd?t=1447358792"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 250600,
+    "store_url": "https://store.steampowered.com/app/250600/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Casual",
+      "Free To Play",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Indie",
+      "Atmospheric",
+      "Short",
+      "Casual",
+      "Singleplayer",
+      "Simulation",
+      "Beautiful",
+      "Great Soundtrack",
+      "Exploration",
+      "Music",
+      "Experimental",
+      "Adventure",
+      "Emotional",
+      "Flight",
+      "Relaxing",
+      "2D",
+      "Nature",
+      "Walking Simulator",
+      "Funny"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 21743,
+    "review_negative": 1815,
+    "review_total": 23558,
+    "review_positive_percent": 92.3
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "key": "mx-bikes",
+  "name": "MX Bikes",
+  "description": "MX Bikes is a realistic motocross simulator, based on a scratch built physics engine that accurately simulates motorcycle dynamics and setup options.",
+  "developers": [
+    "PiBoSo"
+  ],
+  "publishers": [
+    "PiBoSo"
+  ],
+  "release_date": "2019-10-08",
+  "website": "http://www.mx-bikes.com",
+  "tags": [
+    "racing",
+    "simulation",
+    "sports",
+    "early-access",
+    "multiplayer",
+    "pvp",
+    "lan-multiplayer",
+    "online-pvp",
+    "motocross",
+    "motorbike",
+    "vr",
+    "offroad",
+    "realistic",
+    "moddable",
+    "controller",
+    "esports",
+    "automobile-sim",
+    "bikes",
+    "physics",
+    "difficult",
+    "immersive-sim",
+    "first-person",
+    "3d",
+    "third-person"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {
+    "schinese": "越野摩托车"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "mxbikes.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "mxbikes.exe",
+          "description": "",
+          "type": "vr"
+        },
+        {
+          "executable": "mxbikes.exe",
+          "description": "",
+          "type": "othervr"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "MX Bikes",
+    "mxbikes"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/655500/528026fd9f9216ad28eb4386388d2d4aae7d9b3d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/655500/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/655500/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/655500/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/655500/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/655500/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/655500/ss_6dcdaca42867284baf1e9626d31fcf578954b2b2.1920x1080.jpg?t=1700586164"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/655500/ss_c1c36013f456534abe62f15af14287699a6237f1.1920x1080.jpg?t=1700586164"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/655500/ss_2d6ed210892f2e00f11f81a6426e7ee1490240bd.1920x1080.jpg?t=1700586164"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/655500/ss_4342af83f48a59db03308e3274a35e5174d31ff1.1920x1080.jpg?t=1700586164"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/655500/ss_eb64d757a1de0f3b2f58a8bb137284468b1034ba.1920x1080.jpg?t=1700586164"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/655500/ss_ccdfdb72950b8b741fa791f8d5a80cbae8a08867.1920x1080.jpg?t=1700586164"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/655500/ss_cc1c4dc5c32ebed061d90499c67a10e2abd10181.1920x1080.jpg?t=1700586164"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/655500/ss_8a5d106c85091d463f1e1eb45a2a1289f5e245ea.1920x1080.jpg?t=1700586164"
+    }
+  ],
+  "videos": [
+    {
+      "name": "MXB Early Access Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256763962/movie.293x165.jpg?t=1570478434",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/655500/246629/a61e8f7ff4a0b721222dc87e76dcdc786c5615e8/1750567504/dash_h264.mpd?t=1570478434"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 655500,
+    "store_url": "https://store.steampowered.com/app/655500/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Racing",
+      "Simulation",
+      "Sports",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Gamepad Recommended",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Motocross",
+      "Motorbike",
+      "Multiplayer",
+      "VR",
+      "Offroad",
+      "Realistic",
+      "Simulation",
+      "Moddable",
+      "Racing",
+      "Controller",
+      "eSports",
+      "Automobile Sim",
+      "Bikes",
+      "Early Access",
+      "Physics",
+      "Difficult",
+      "Immersive Sim",
+      "First-Person",
+      "3D",
+      "Third Person"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 33981,
+    "review_negative": 2048,
+    "review_total": 36029,
+    "review_positive_percent": 94.32
+  }
+}

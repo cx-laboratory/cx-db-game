@@ -1,0 +1,209 @@
+{
+  "key": "esoteric-ebb",
+  "name": "Esoteric Ebb",
+  "description": "Esoteric Ebb is a single-player CRPG inspired by the freedom of tabletop adventures. Unravel a political conspiracy with your goblin sidekick. Roll dice in tense encounters. Become a cleric of legends or completely ruin the campaign.",
+  "developers": [
+    "Christoffer Bodegård"
+  ],
+  "publishers": [
+    "Raw Fury"
+  ],
+  "release_date": "2026-03-04",
+  "website": "https://esotericebb.com/",
+  "tags": [
+    "indie",
+    "rpg",
+    "story-rich",
+    "choices-matter",
+    "crpg",
+    "isometric",
+    "singleplayer",
+    "interactive-fiction",
+    "hand-drawn",
+    "nonlinear",
+    "political",
+    "narrative",
+    "point-and-click",
+    "atmospheric",
+    "adventure",
+    "funny",
+    "exploration",
+    "tabletop",
+    "turn-based",
+    "character-customization",
+    "visual-novel"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {
+    "schinese": "奥秘 消退"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Esoteric Ebb.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Christoffer Bodegard/Esoteric Ebb/SaveFiles",
+          "pattern": "*.es3",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Christoffer Bodegard/Esoteric Ebb/SaveFiles",
+          "pattern": "*.jpg",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Esoteric Ebb",
+    "奥秘 消退"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2057760/c729da9c1f3dc276b462655ac71e0a8bce54f331.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2057760/3fc3e737678a0d5db6816609bec2c9c6f2c11a88/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2057760/0c8f3c4b30a022b6ce816096db0dfd385199226b/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2057760/94a88a5659c9eb593d15bee7078e91a160ac11f6/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2057760/918b60eda292fc743c50f40733b99aa99213ca94/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2057760/d5bc8c3e64d971274d90875d714e965ab23156d9/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2057760/e7cf33cdd748fb8a3aa81e4c25b5c4acd25fb001/ss_e7cf33cdd748fb8a3aa81e4c25b5c4acd25fb001.1920x1080.jpg?t=1782455551"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2057760/2c8972f5b441c17686a87bc5bdcf35027bb32df3/ss_2c8972f5b441c17686a87bc5bdcf35027bb32df3.1920x1080.jpg?t=1782455551"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2057760/9697b9aa1a281b3c6f9dee2f64a461240df9eebd/ss_9697b9aa1a281b3c6f9dee2f64a461240df9eebd.1920x1080.jpg?t=1782455551"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2057760/770828968429ab3c55286da73df33c06afa83f66/ss_770828968429ab3c55286da73df33c06afa83f66.1920x1080.jpg?t=1782455551"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2057760/76c9ebd5d1bc54e6390c9e893c74ede86e1ca75e/ss_76c9ebd5d1bc54e6390c9e893c74ede86e1ca75e.1920x1080.jpg?t=1782455551"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2057760/b4d4bd8d0c204ebc7dcc8cff86a49690577b5342/ss_b4d4bd8d0c204ebc7dcc8cff86a49690577b5342.1920x1080.jpg?t=1782455551"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2057760/4e589b399cc27ac0b18639bfa30abfef72a9906b/ss_4e589b399cc27ac0b18639bfa30abfef72a9906b.1920x1080.jpg?t=1782455551"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2057760/89497c468a09b2720f725ae9e912dc2cbc7aacb5/ss_89497c468a09b2720f725ae9e912dc2cbc7aacb5.1920x1080.jpg?t=1782455551"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257297306/34de622b3ca05bb95635bb728039205345901640/movie_600x337.jpg?t=1772569571",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2057760/1567453522/791be70f2587407dcfdefaf8089cb8f7a355efbe/1772553163/dash_h264.mpd?t=1772569571"
+    },
+    {
+      "name": "Date Reveal",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257293612/5184259b78023d38ac6a1e3703ae28b59b795119/movie_600x337.jpg?t=1772557116",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2057760/1736134704/2a9ce2030ae218e34d73ad3c46f15fe9962a1991/1771934462/dash_h264.mpd?t=1772557116"
+    },
+    {
+      "name": "Release Window Reveal",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257243680/aa5fa4fd383c5177c98098953182a5ec79aeae6f/movie_600x337.jpg?t=1771344040",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2057760/815773334/dc7e0852e067db71d85ce9a52227e9037196d94b/1764868235/dash_h264.mpd?t=1771344040"
+    },
+    {
+      "name": "Story Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257183668/83b1e4852104e0e13bea1f6b49a0414a90ea4c74/movie_600x337.jpg?t=1755839582",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2057760/189504050/774788fa67322b01610679ee70fe48f233af4e58/1755259338/dash_h264.mpd?t=1755839582"
+    },
+    {
+      "name": "Meet the Cleric",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257140658/0bdf260ad1d478dfd3fcb71b31199b427cd72a74/movie_600x337.jpg?t=1749800817",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2057760/2102794507/c1da0f5edcc21feadded0673887320dde370de01/1751069830/dash_h264.mpd?t=1749800817"
+    },
+    {
+      "name": "Speak With Yourself",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257234358/578dca535c90d688fc66da26e236cc854a3a436b/movie_600x337.jpg?t=1763733474",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2057760/1743374312/11bf6b67df2050fa90f8fc08d2b45252ab1cb50a/1763548329/dash_h264.mpd?t=1763733474"
+    },
+    {
+      "name": "Raw Fury Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257107282/8afd06be31f3dea62b582b98f191e917434a1abc/movie_600x337.jpg?t=1740693178",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2057760/840380/77fa3ef2299f837e41aae53c0eb10849089f519c/1751069829/dash_h264.mpd?t=1740693178"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2057760,
+    "store_url": "https://store.steampowered.com/app/2057760/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Keyboard Only Option",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Subtitle Options",
+      "Touch Only Option",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Story Rich",
+      "Choices Matter",
+      "RPG",
+      "CRPG",
+      "Isometric",
+      "Singleplayer",
+      "Interactive Fiction",
+      "Hand-drawn",
+      "Nonlinear",
+      "Political",
+      "Narrative",
+      "Point & Click",
+      "Atmospheric",
+      "Adventure",
+      "Funny",
+      "Exploration",
+      "Tabletop",
+      "Turn-Based",
+      "Character Customization",
+      "Visual Novel"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 7647,
+    "review_negative": 371,
+    "review_total": 8018,
+    "review_positive_percent": 95.37
+  }
+}

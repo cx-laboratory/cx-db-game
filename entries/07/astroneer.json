@@ -1,0 +1,199 @@
+{
+  "key": "astroneer",
+  "name": "ASTRONEER",
+  "description": "Interact with strange new worlds in a unique and tactile way, molding the environment itself as if it were clay in your hands. Build your base, master resource management, automate your production lines, and more as you unravel the mysteries of the universe, alone or with friends.",
+  "developers": [
+    "System Era Softworks"
+  ],
+  "publishers": [
+    "System Era Softworks"
+  ],
+  "release_date": "2019-02-06",
+  "website": "https://astroneer.space/",
+  "tags": [
+    "adventure",
+    "indie",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "open-world-survival-craft",
+    "open-world",
+    "space",
+    "survival",
+    "exploration",
+    "base-building",
+    "sandbox",
+    "building",
+    "crafting",
+    "automation",
+    "sci-fi",
+    "singleplayer",
+    "third-person",
+    "colorful",
+    "atmospheric",
+    "simulation"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "dutch",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "异星探险家"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Astro.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Astro.exe",
+          "description": "Play ASTRONEER (Windowed)",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Astro/Saved/SaveGames",
+          "pattern": "*.savegame",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Astro/Saved/SaveGames",
+          "pattern": "*.savecfg",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "ASTRONEER",
+    "Astro"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/361420/18ef632a152a69a8fb4f62c074cd50aa15d3bf33.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/1c44099d86c824a6fd1098a4215097878d68664e/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/e6322c0930655c479429223f28869058456345cc/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/74d9d4e449b2f9b44b4c19ad6fdb16fcf4c97076/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/ss_539bc5211ccdad2bc6cc70e4af40194d74eb0256.1920x1080.jpg?t=1770767049"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/ss_858b8bece04b753a6b35a009776a4de9dd6e0df7.1920x1080.jpg?t=1770767049"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/ss_436f3ea0934a6ecd3fdd2f260ef535d80b8c185d.1920x1080.jpg?t=1770767049"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/ss_13682f989b3f0d68afb92d5d50185b0258dd4767.1920x1080.jpg?t=1770767049"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/ss_c7c54244add5ac921f2ae5b28f6f3efbc8470823.1920x1080.jpg?t=1770767049"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/ss_63402300a9d8f1eff80a3034b872995db03158ab.1920x1080.jpg?t=1770767049"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/ss_a1b3fd7d139ba491aba79a3731af0cf7dec04e0a.1920x1080.jpg?t=1770767049"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/ss_6b0756c148cad9b8029475d516a110dda3f3bac8.1920x1080.jpg?t=1770767049"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/ss_cd719a15ce46e46b78837df49f705d4dd27a2b81.1920x1080.jpg?t=1770767049"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/ss_0e35ef544d0f7767253e90cad603adb32a026096.1920x1080.jpg?t=1770767049"
+    }
+  ],
+  "videos": [
+    {
+      "name": "ASTRONEER - Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256742413/movie.293x165.jpg?t=1549606228",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/361420/208224/ccb243797b957af9258bbd600f8bae766e740455/1750517069/dash_h264.mpd?t=1549606228"
+    },
+    {
+      "name": "Custom Games Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256958140/movie.293x165.jpg?t=1689355882",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/361420/587438/0d1f05531a7014206817483fd44d6ffc841e4cb8/1750515955/dash_h264.mpd?t=1689355882"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 361420,
+    "store_url": "https://store.steampowered.com/app/361420/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Open World Survival Craft",
+      "Open World",
+      "Space",
+      "Survival",
+      "Exploration",
+      "Base Building",
+      "Co-op",
+      "Sandbox",
+      "Adventure",
+      "Building",
+      "Crafting",
+      "Automation",
+      "Sci-fi",
+      "Singleplayer",
+      "Third Person",
+      "Colorful",
+      "Atmospheric",
+      "Simulation",
+      "Indie"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 127294,
+    "review_negative": 11156,
+    "review_total": 138450,
+    "review_positive_percent": 91.94
+  }
+}

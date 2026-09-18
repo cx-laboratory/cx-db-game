@@ -1,0 +1,208 @@
+{
+  "key": "halls-of-torment",
+  "name": "Halls of Torment",
+  "description": "Slay hordes of terrifying monsters in this horde survival roguelite. Descend into the Halls of Torment where the Lords of the underworld await you. Treasures, magical trinkets, and a growing cast of heroes will grant you the power to vanquish these horrors from beyond. How long can you survive?",
+  "developers": [
+    "Chasing Carrots"
+  ],
+  "publishers": [
+    "Chasing Carrots"
+  ],
+  "release_date": "2024-09-24",
+  "website": "",
+  "tags": [
+    "action",
+    "indie",
+    "rpg",
+    "action-roguelike",
+    "roguelite",
+    "bullet-hell",
+    "pixel-graphics",
+    "dark-fantasy",
+    "action-rpg",
+    "roguelike",
+    "arcade",
+    "hack-and-slash",
+    "top-down",
+    "2d",
+    "bullet-heaven",
+    "singleplayer",
+    "demons",
+    "gothic",
+    "dark",
+    "atmospheric",
+    "fantasy"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "czech",
+    "brazilian",
+    "ukrainian",
+    "vietnamese",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "Halls of Torment 苦痛殿堂",
+    "tchinese": "Halls of Torment 苦痛殿堂"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "HallsOfTorment.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "force_gpu.bat",
+          "description": "Force Dedicated GPU",
+          "type": "default"
+        },
+        {
+          "executable": "HallsOfTorment.exe",
+          "description": "OpenGL (has lower performance)",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "HallsOfTorment.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Halls of Torment",
+    "HallsOfTorment",
+    "force_gpu.bat",
+    "HallsOfTorment.x86_64",
+    "Halls of Torment 苦痛殿堂"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2218750/9fec2ded1ecfea4bc04814440294bde9f235684e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/de862be4dbf80a39e1e3f5e08479461ac2f2789b/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/496d794f7c9586dc76874702f30e92af9ed36e3e/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/cb2604589cfa27a74af539324f05e7a8c7e499c9/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/c2f9715db2b4552ab5923554cef8ec511d31f3d7/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/ss_75fc37b9c2a3b30c01c03d2f3cb86cf6a754ccc2.1920x1080.jpg?t=1779993327"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/ss_2d104ee2c73776ba9019f3a5050c4d5942a56e93.1920x1080.jpg?t=1779993327"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/ss_c5b5ec37d6b00c5b2ccbcb1fccf48aaef8bfb20f.1920x1080.jpg?t=1779993327"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/ss_7bb48f7c67941509b73fc36929440fe663b5b85d.1920x1080.jpg?t=1779993327"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/ss_6e32e4aa9261c60115c89fc608c5e156839b2709.1920x1080.jpg?t=1779993327"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/ss_16c8797ca5624cf52eac0c7a212c385aed1d0d87.1920x1080.jpg?t=1779993327"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/ss_16565e20ae93e12d9dbf52bade1393195ba87c31.1920x1080.jpg?t=1779993327"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/ss_0714cff8d1f71716688474f7282eb2d828f0d554.1920x1080.jpg?t=1779993327"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/ss_7e5aab26413fed00408c222b39bd38df965c2010.1920x1080.jpg?t=1779993327"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218750/ss_cd1b7217411ccda017ce4afdd50f23ab91329805.1920x1080.jpg?t=1779993327"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Halls of Torment Gameplay",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257191582/60ba029596fee669723a8afab51b00f1e566d223/movie_600x337.jpg?t=1756714776",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2218750/2110869672/43b265985609d940f38e24cdcf3d5c30d677a4e2/1756713335/dash_h264.mpd?t=1756714776"
+    }
+  ],
+  "metacritic": {
+    "score": 88,
+    "url": "https://www.metacritic.com/game/pc/halls-of-torment?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 2218750,
+    "store_url": "https://store.steampowered.com/app/2218750/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Custom Volume Controls",
+      "Keyboard Only Option",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Roguelite",
+      "Bullet Hell",
+      "Pixel Graphics",
+      "Dark Fantasy",
+      "Action RPG",
+      "Roguelike",
+      "Action",
+      "RPG",
+      "Arcade",
+      "Hack and Slash",
+      "Top-Down",
+      "2D",
+      "Bullet Heaven",
+      "Singleplayer",
+      "Demons",
+      "Gothic",
+      "Dark",
+      "Atmospheric",
+      "Fantasy"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 30135,
+    "review_negative": 1437,
+    "review_total": 31572,
+    "review_positive_percent": 95.45
+  }
+}

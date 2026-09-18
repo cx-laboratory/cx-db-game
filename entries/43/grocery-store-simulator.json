@@ -1,0 +1,190 @@
+{
+  "key": "grocery-store-simulator",
+  "name": "Grocery Store Simulator",
+  "description": "Grocery Store Simulator is a 1-4 player co-op game where you build and manage your own supermarket by stocking shelves, setting prices, hiring staff, and customizing your store, all while expanding your business and keeping customers happy.",
+  "developers": [
+    "EXPERIMENT ONE"
+  ],
+  "publishers": [
+    "EXPERIMENT ONE"
+  ],
+  "release_date": "2024-11-21",
+  "website": "",
+  "tags": [
+    "action",
+    "casual",
+    "indie",
+    "simulation",
+    "strategy",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "first-person",
+    "inventory-management",
+    "resource-management",
+    "management",
+    "economy",
+    "singleplayer",
+    "sandbox",
+    "relaxing",
+    "immersive-sim",
+    "family-friendly",
+    "3d",
+    "choices-matter",
+    "retro"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Dutch",
+    "Portuguese - Brazil",
+    "Portuguese - Portugal",
+    "Russian",
+    "Turkish",
+    "Ukrainian",
+    "Japanese",
+    "Korean",
+    "Simplified Chinese",
+    "Traditional Chinese*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "超市模拟器",
+    "tchinese": "超市模擬器",
+    "japanese": "スーパーマーケットシミュレーター",
+    "koreana": "슈퍼마켓 시뮬레이터"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Simulatorita.exe",
+          "description": "Grocery Store Simulator (DirectX 11)",
+          "type": "option1"
+        },
+        {
+          "executable": "Simulatorita.exe",
+          "description": "Grocery Store Simulator (Vulkan)",
+          "type": "option2"
+        },
+        {
+          "executable": "Simulatorita.exe",
+          "description": "DirectX12",
+          "type": "option3"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Grocery Store Simulator",
+    "Simulatorita",
+    "超市模拟器",
+    "超市模擬器",
+    "スーパーマーケットシミュレーター",
+    "슈퍼마켓 시뮬레이터"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2961880/1e3bd007db8860a1a0e2c3ad90d0189656155adf.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2961880/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2961880/1c0175512956fae4baff6717ca1e4654d2543bcf/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2961880/c29cfdeeece23e67d9a22364c279bde93fde6027/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2961880/2c9d03a375b167898db34d2d6819eeaa6cc3f7e5/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2961880/60aa3eb4df0ce0cc4aa6a19adff5e06b39ff463c/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2961880/6f3be3d527ec004cfc527f8603f0fc4aa0481ada/ss_6f3be3d527ec004cfc527f8603f0fc4aa0481ada.1920x1080.jpg?t=1778602318"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2961880/17aaced254f8f9653f372c463ffb6074ad5335c7/ss_17aaced254f8f9653f372c463ffb6074ad5335c7.1920x1080.jpg?t=1778602318"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2961880/ae72759e05d095cc7df6b949a5a2b76942d34ba0/ss_ae72759e05d095cc7df6b949a5a2b76942d34ba0.1920x1080.jpg?t=1778602318"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2961880/0d1bc95860807cb35cf16d3c4d0291b4a294c818/ss_0d1bc95860807cb35cf16d3c4d0291b4a294c818.1920x1080.jpg?t=1778602318"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2961880/ss_4cff9321caa694554997be5b0cea516d64ba7d87.1920x1080.jpg?t=1778602318"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2961880/ss_33b0d6051bd8afe265d00df2855aeef79e71c637.1920x1080.jpg?t=1778602318"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2961880/ss_98eab1d89c0abd1f8fc8fe873b0d93bad6b2e29f.1920x1080.jpg?t=1778602318"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2961880/ss_f8b9df3b1d7b577e7b6f698e8f795898d202d8f7.1920x1080.jpg?t=1778602318"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2961880/ss_7aad4aedd29cba5177d247a9ed6a4dd635da580e.1920x1080.jpg?t=1778602318"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Grocery Store Simulator v1.0 OUT NOW",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257075050/ab0c8bbdbea4f2bebf507d7ecec07599bca6f38b/movie_600x337.jpg?t=1732196378",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2961880/788370/b13fa7bce37b927cd7705f505a9ecb018105b841/1750822319/dash_h264.mpd?t=1732196378"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2961880,
+    "store_url": "https://store.steampowered.com/app/2961880/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Online Co-Op",
+      "Multiplayer",
+      "Simulation",
+      "Indie",
+      "First-Person",
+      "Co-op",
+      "Inventory Management",
+      "Resource Management",
+      "Management",
+      "Economy",
+      "Singleplayer",
+      "Sandbox",
+      "Casual",
+      "Relaxing",
+      "Immersive Sim",
+      "Strategy",
+      "Family Friendly",
+      "3D",
+      "Choices Matter",
+      "Retro"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 5565,
+    "review_negative": 560,
+    "review_total": 6125,
+    "review_positive_percent": 90.86
+  }
+}

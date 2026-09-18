@@ -1,0 +1,172 @@
+{
+  "key": "atlyss",
+  "name": "ATLYSS",
+  "description": "Enter the world of ATLYSS, a Singleplayer/Online RPG where you can fight with or against friends in a surreal world filled with creatures beyond comprehension. Customize and progress your character(s), complete quests, and discover strange locations.",
+  "developers": [
+    "Kiseff"
+  ],
+  "publishers": [
+    "KisSoft"
+  ],
+  "release_date": "2024-11-23",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure",
+    "casual",
+    "indie",
+    "rpg",
+    "early-access",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "action-rpg",
+    "character-customization",
+    "sexual-content",
+    "cute",
+    "3d-platformer",
+    "3d",
+    "stylized",
+    "fantasy",
+    "1990-s",
+    "pve",
+    "atmospheric",
+    "combat",
+    "singleplayer",
+    "surreal"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "阿特利斯"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ATLYSS.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "ATLYSS_Data/profileCollections/",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "ATLYSS"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2768430/d86c98e27cae5c78706e021b2af3f3f980f9c7ab.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768430/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768430/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768430/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768430/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768430/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768430/ss_c094effa0c716f4ca067e2271b2e254d5b8848b8.1920x1080.jpg?t=1764521441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768430/7add2d56ef2b48aad368c10d467c77ce5cdf13d2/ss_7add2d56ef2b48aad368c10d467c77ce5cdf13d2.1920x1080.jpg?t=1764521441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768430/91bfd11172d06ceda4ebbe1d4385a9b73110cc7d/ss_91bfd11172d06ceda4ebbe1d4385a9b73110cc7d.1920x1080.jpg?t=1764521441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768430/d1f650dd3f05a0b9d14c9e421c3bb7b3768abc8c/ss_d1f650dd3f05a0b9d14c9e421c3bb7b3768abc8c.1920x1080.jpg?t=1764521441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768430/15d0bd01c37ebb9fca637565c381901d3416f8fb/ss_15d0bd01c37ebb9fca637565c381901d3416f8fb.1920x1080.jpg?t=1764521441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768430/6d21ed7181018d85a201ac0d6be4febe9faece6c/ss_6d21ed7181018d85a201ac0d6be4febe9faece6c.1920x1080.jpg?t=1764521441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2768430/554ccad3431d74b7d5733770d63ce44fa8944e55/ss_554ccad3431d74b7d5733770d63ce44fa8944e55.1920x1080.jpg?t=1764521441"
+    }
+  ],
+  "videos": [
+    {
+      "name": "ATLYSS Early Access Trailer (November 2024)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257074229/c7a9dcbcf7e6484b5a6d9f070c64e5b87efba9de/movie_600x337.jpg?t=1760152060",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2768430/786906/b9b07521786cfc7404a6d426b62d835364e18d66/1750819785/dash_h264.mpd?t=1760152060"
+    },
+    {
+      "name": "ATLYSS Pre-Alpha Footage (January 2024)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256993047/movie.293x165.jpg?t=1760152062",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2768430/648203/ecbf46adbecb349d7c9f3de2be6deada2e4a276f/1750819779/dash_h264.mpd?t=1760152062"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2768430,
+    "store_url": "https://store.steampowered.com/app/2768430/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Action RPG",
+      "RPG",
+      "Character Customization",
+      "Sexual Content",
+      "Cute",
+      "Adventure",
+      "Action",
+      "3D Platformer",
+      "3D",
+      "Stylized",
+      "Fantasy",
+      "Multiplayer",
+      "1990's",
+      "PvE",
+      "Atmospheric",
+      "Combat",
+      "Singleplayer",
+      "Surreal",
+      "Early Access",
+      "PvP"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 21952,
+    "review_negative": 702,
+    "review_total": 22654,
+    "review_positive_percent": 96.9
+  }
+}

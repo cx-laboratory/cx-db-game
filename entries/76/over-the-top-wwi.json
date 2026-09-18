@@ -1,0 +1,282 @@
+{
+  "key": "over-the-top-wwi",
+  "name": "Over The Top: WWI",
+  "description": "Join 200-player battles in Over The Top: WWI - an intense shooter set in the gritty backdrop of World War I. Pick your class, choose from a vast arsenal, including rifles, artillery, airplanes and powerful tanks, and experience the chaos of fully destructible battlefields.",
+  "developers": [
+    "Flying Squirrel Entertainment"
+  ],
+  "publishers": [
+    "GG Publishing"
+  ],
+  "release_date": "2026-03-06",
+  "website": "https://www.fsegames.eu/",
+  "tags": [
+    "action",
+    "indie",
+    "massively-multiplayer",
+    "simulation",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "world-war-i",
+    "third-person-shooter",
+    "fps",
+    "shooter",
+    "historical",
+    "3d",
+    "cinematic",
+    "third-person",
+    "realistic",
+    "destruction",
+    "tactical",
+    "war",
+    "team-based",
+    "singleplayer",
+    "pve",
+    "first-person"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Russian",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Turkish",
+    "Japanese",
+    "Portuguese - Portugal",
+    "Portuguese - Brazil",
+    "Spanish - Latin America",
+    "Korean",
+    "Polish",
+    "Indonesian",
+    "Thai",
+    "Ukrainian*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "破壕行动"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Over_The_Top_WWI.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Pictures",
+          "pattern": "*.jpg",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Over_The_Top_WWI_Data/PropGroups",
+          "pattern": "*.*",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Flying Squirrel Entertainment/Over_The_Top_WWI/Profiles",
+          "pattern": "*.txt",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Flying Squirrel Entertainment/Over_The_Top_WWI/",
+          "pattern": "*.config",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Over_The_Top_WWI_Data",
+          "pattern": "ProgressSTMen.json",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Over_The_Top_WWI_Data",
+          "pattern": "ProgressEden.json",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Over The Top: WWI",
+    "Over_The_Top_WWI",
+    "破壕行动"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2778610/9ef4884b72a0ac5aa2d1371d4e255c670fb42463.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778610/c58b8dade83dad4cf347b4cb5d87b756d5e32383/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778610/42fe41b257573e2aaf3d2fdfacc188879115c905/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778610/2e4efc4f5cabfad6a77e1032e7b6e7c6ae5c3c69/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778610/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778610/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778610/813ab063cf91cf13060ba092978bf0f816df9937/ss_813ab063cf91cf13060ba092978bf0f816df9937.1920x1080.jpg?t=1782407705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778610/21ae6048b5882627d5af359befc50930817af6e1/ss_21ae6048b5882627d5af359befc50930817af6e1.1920x1080.jpg?t=1782407705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778610/a5c381765c3788f6afd7f6f271be8257a4993de6/ss_a5c381765c3788f6afd7f6f271be8257a4993de6.1920x1080.jpg?t=1782407705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778610/c8ff0ee5df22b47b35d22ee613baf29c71f40035/ss_c8ff0ee5df22b47b35d22ee613baf29c71f40035.1920x1080.jpg?t=1782407705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778610/62199243f592c7366b6df9f7f2b7ef7ff2de9033/ss_62199243f592c7366b6df9f7f2b7ef7ff2de9033.1920x1080.jpg?t=1782407705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778610/da46a51d9d474716ce08551c938089579f37a13b/ss_da46a51d9d474716ce08551c938089579f37a13b.1920x1080.jpg?t=1782407705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778610/5160e557f8ef3b7f8c73c6eaa73da2bcde9d8044/ss_5160e557f8ef3b7f8c73c6eaa73da2bcde9d8044.1920x1080.jpg?t=1782407705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778610/50c80610e1b9a9d8ad798623a866d3b479a33f56/ss_50c80610e1b9a9d8ad798623a866d3b479a33f56.1920x1080.jpg?t=1782407705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778610/b5c1b1a8b20c6c4a04e8f0197ec6417c322676d5/ss_b5c1b1a8b20c6c4a04e8f0197ec6417c322676d5.1920x1080.jpg?t=1782407705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778610/6801c9129a7281dd736a18a5a7b156cf05aac5a2/ss_6801c9129a7281dd736a18a5a7b156cf05aac5a2.1920x1080.jpg?t=1782407705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778610/62c10825c3e29e229f99a50cf4236227a64681d8/ss_62c10825c3e29e229f99a50cf4236227a64681d8.1920x1080.jpg?t=1782407705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778610/92a9a876644c72bc666149978e8d4cf7de08597e/ss_92a9a876644c72bc666149978e8d4cf7de08597e.1920x1080.jpg?t=1782407705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778610/87526a9bd909a58ca1bdbae886d7b33066d2674f/ss_87526a9bd909a58ca1bdbae886d7b33066d2674f.1920x1080.jpg?t=1782407705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778610/6b1498fc903f8f7867cd45354c1cbc1cc7798eeb/ss_6b1498fc903f8f7867cd45354c1cbc1cc7798eeb.1920x1080.jpg?t=1782407705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778610/1be66b9a5142826978d15e654f8440b37549a784/ss_1be66b9a5142826978d15e654f8440b37549a784.1920x1080.jpg?t=1782407705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778610/42433b68f4ebf26e106ab5202115eba874980a0e/ss_42433b68f4ebf26e106ab5202115eba874980a0e.1920x1080.jpg?t=1782407705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778610/487d4b515369d656dda4fc306b942a5bb6601622/ss_487d4b515369d656dda4fc306b942a5bb6601622.1920x1080.jpg?t=1782407705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778610/4105a15b1641d4e1bf2822eefd2d2edd0d99a270/ss_4105a15b1641d4e1bf2822eefd2d2edd0d99a270.1920x1080.jpg?t=1782407705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778610/12ae89e28a8f526fbf8883c2cec8ed6d64e7b737/ss_12ae89e28a8f526fbf8883c2cec8ed6d64e7b737.1920x1080.jpg?t=1782407705"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Over the Top: WWI - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257298282/86a47a3e5528363b046e45f79bd5178145b5b5e1/movie_600x337.jpg?t=1772789747",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2778610/1806782300/7116e084110e1d48755402323dc402dc3892f8dd/1772720470/dash_h264.mpd?t=1772789747"
+    },
+    {
+      "name": "December Playtest for Over The Top: WWI",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257132190/d32d9d64a80eca6ac4021b7175b13158b006c3df/movie_600x337.jpg?t=1772796380",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2778610/880038/b1728cfde2b578e58038d17abd28a1db59ac7645/1750899738/dash_h264.mpd?t=1772796380"
+    },
+    {
+      "name": "True Friendship in WW1",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257296749/791fd4f7615f7a263bd2bc6dfa9d8f01e887bc54/movie_600x337.jpg?t=1772796382",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2778610/1427722074/c9c3508f206a8575f2d8e4916547f763832c8f10/1772462889/dash_h264.mpd?t=1772796382"
+    },
+    {
+      "name": "Next Fest Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257028771/movie.293x165.jpg?t=1772796383",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2778610/710044/6ca4ed4f56a948a7531f92c2f1b834c2e50731a8/1750899243/dash_h264.mpd?t=1772796383"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2778610,
+    "store_url": "https://store.steampowered.com/app/2778610/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Massively Multiplayer",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Keyboard Only Option",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Action",
+      "World War I",
+      "Third-Person Shooter",
+      "FPS",
+      "Shooter",
+      "Historical",
+      "Simulation",
+      "3D",
+      "Cinematic",
+      "Third Person",
+      "Realistic",
+      "Destruction",
+      "Tactical",
+      "War",
+      "PvP",
+      "Team-Based",
+      "Singleplayer",
+      "PvE",
+      "First-Person"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 5465,
+    "review_negative": 998,
+    "review_total": 6463,
+    "review_positive_percent": 84.56
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "key": "terratech",
+  "name": "TerraTech",
+  "description": "TerraTech is an open-world, sandbox adventure game, where you design and build your own creations through a mix of crafting, combat and discovery. Design vehicles from a huge library of blocks. Scavenge, craft and buy new parts to survive and become the ultimate planetary prospector.",
+  "developers": [
+    "Payload Studios"
+  ],
+  "publishers": [
+    "Mythwright"
+  ],
+  "release_date": "2018-08-10",
+  "website": "http://www.terratechgame.com",
+  "tags": [
+    "action",
+    "indie",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "building",
+    "sandbox",
+    "open-world",
+    "open-world-survival-craft",
+    "robots",
+    "crafting",
+    "survival",
+    "adventure",
+    "exploration",
+    "singleplayer",
+    "strategy",
+    "early-access",
+    "vehicular-combat",
+    "physics",
+    "third-person"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "czech"
+  ],
+  "name_localized": {
+    "schinese": "泰拉科技"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "EOSBootstrapper.exe",
+          "description": "with EOS Crossplay",
+          "type": "option1"
+        },
+        {
+          "executable": "EOSBootstrapper.exe",
+          "description": "with EOS Crossplay",
+          "type": "option1"
+        },
+        {
+          "executable": "TerraTechWin64.exe",
+          "description": "without Crossplay",
+          "type": "option2"
+        },
+        {
+          "executable": "EOSBootstrapper.exe",
+          "description": "with EOS Crossplay",
+          "type": "option1"
+        },
+        {
+          "executable": "EOSBootstrapper.exe",
+          "description": "with EOS Crossplay",
+          "type": "option1"
+        },
+        {
+          "executable": "EOSBootstrapper.exe",
+          "description": "with EOS Crossplay",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "TerraTech/{64BitSteamID}",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "TerraTechOSX64.app",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "TerraTechOSX64.app",
+          "description": "without Crossplay",
+          "type": "option2"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "TerraTech/{64BitSteamID}",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "TerraTechLinux64.x86_64",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "TerraTechLinux64.x86_64",
+          "description": "without Crossplay",
+          "type": "option2"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "TerraTech/{64BitSteamID}",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "TerraTech",
+    "EOSBootstrapper",
+    "TerraTechWin64",
+    "TerraTechOSX64.app",
+    "TerraTechLinux64.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/285920/d1ad24a148c2b08b48e13f97bb43681aa19b0a85.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285920/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285920/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285920/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285920/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285920/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285920/ss_bf7673db446feb059cd9e676b774066ea1e59c3c.1920x1080.jpg?t=1777900156"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285920/ss_e32d61f1c6df21866197aa86a3fdc80180df8246.1920x1080.jpg?t=1777900156"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285920/ss_1cec1cc6c1fceb5b3087e79cf49dafcfd3fa897d.1920x1080.jpg?t=1777900156"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285920/ss_70eda5fc89a59918868f76b72178d88e31a40312.1920x1080.jpg?t=1777900156"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285920/ss_fa65cb24e4750e32f50a2fd34c4a32fa8e7a8d1a.1920x1080.jpg?t=1777900156"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285920/ss_c80ad7913fc92b6c11fc3c8b139a62230af3c3ab.1920x1080.jpg?t=1777900156"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285920/ss_2ee72f84d95334a83edf6d8148ebadb687199f04.1920x1080.jpg?t=1777900156"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer 1.0",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256725169/movie.293x165.jpg?t=1685531508",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/285920/178207/dd0b4cf30b4b9fec99f9792b38ecf2dc71600513/1750490003/dash_h264.mpd?t=1685531508"
+    },
+    {
+      "name": "Space Junkers Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257001328/movie.293x165.jpg?t=1707998487",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/285920/662970/3aef92f0097711b57f6b692677d2503d8b3bac0e/1750490084/dash_h264.mpd?t=1707998487"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 285920,
+    "store_url": "https://store.steampowered.com/app/285920/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Building",
+      "Sandbox",
+      "Open World",
+      "Open World Survival Craft",
+      "Robots",
+      "Multiplayer",
+      "Crafting",
+      "Action",
+      "Survival",
+      "Adventure",
+      "Exploration",
+      "Singleplayer",
+      "Strategy",
+      "Early Access",
+      "Indie",
+      "Vehicular Combat",
+      "Physics",
+      "Online Co-Op",
+      "Third Person",
+      "PvP"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 22628,
+    "review_negative": 2133,
+    "review_total": 24761,
+    "review_positive_percent": 91.39
+  }
+}

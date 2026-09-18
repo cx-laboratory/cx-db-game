@@ -1,0 +1,164 @@
+{
+  "key": "tattletail",
+  "name": "Tattletail",
+  "description": "It’s Christmas 1998. The world’s most annoying toy just came out, and yours won’t stay in his box. Can you stop Tattletail from getting you in trouble before the bloodthirsty Mama Tattletail hunts you down? Story-driven first person horror. New DLC Included!",
+  "developers": [
+    "Waygetter Electronics"
+  ],
+  "publishers": [
+    "Little Flag Software, LLC"
+  ],
+  "release_date": "2016-12-29",
+  "website": "http://www.waygetter.com",
+  "tags": [
+    "action",
+    "indie",
+    "horror",
+    "first-person",
+    "singleplayer",
+    "1990-s",
+    "cute",
+    "dark",
+    "survival",
+    "story-rich",
+    "difficult",
+    "robots",
+    "funny",
+    "strategy",
+    "adventure",
+    "atmospheric",
+    "great-soundtrack",
+    "family-friendly",
+    "memes"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "tattletailWindows.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Waygetter Electronics/Tattletail",
+          "pattern": "*.txt",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "tattletailMac.app",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Waygetter Electronics/Tattletail",
+          "pattern": "*.txt",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Tattletail",
+    "tattletailWindows",
+    "tattletailMac.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/568090/7ef3ae389d781b374c445f3af7433c7bd0f3e75a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568090/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568090/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568090/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568090/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568090/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568090/ss_5891fbef76af60a3c1ced7573bc05426724e8f09.1920x1080.jpg?t=1572988418"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568090/ss_5ae9e576a4b27daf77938f471f8d9635e07d5d90.1920x1080.jpg?t=1572988418"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568090/ss_2d6f8d1839f5d0761e627cbb9f16263bcfbcbb43.1920x1080.jpg?t=1572988418"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568090/ss_ebd63c510843b0a3bd31e944f07f297871b57b1a.1920x1080.jpg?t=1572988418"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568090/ss_272bc0e9d04622959840ee40072085a04fe25b39.1920x1080.jpg?t=1572988418"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256677133/movie.293x165.jpg?t=1482944675",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/568090/84990/f3a9b30d8ce1debeb52539b2f8883dfa45ba89bd/1750551705/dash_h264.mpd?t=1482944675"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 568090,
+    "store_url": "https://store.steampowered.com/app/568090/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Horror",
+      "First-Person",
+      "Survival Horror",
+      "Singleplayer",
+      "1990's",
+      "Cute",
+      "Indie",
+      "Action",
+      "Dark",
+      "Survival",
+      "Story Rich",
+      "Difficult",
+      "Robots",
+      "Funny",
+      "Strategy",
+      "Adventure",
+      "Atmospheric",
+      "Great Soundtrack",
+      "Family Friendly",
+      "Memes"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 4723,
+    "review_negative": 269,
+    "review_total": 4992,
+    "review_positive_percent": 94.61
+  }
+}

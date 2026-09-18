@@ -1,0 +1,483 @@
+{
+  "key": "cronos-the-new-dawn",
+  "name": "Cronos: The New Dawn",
+  "description": "A whole new breed of survival horror emerges with Cronos: The New Dawn. Survive the brutal wastelands of the future, fight nightmarish merging creatures and jump back in time to harvest souls as you seek to uncover the origins of the apocalypse that wiped out humanity.",
+  "developers": [
+    "Bloober Team"
+  ],
+  "publishers": [
+    "Bloober Team SA"
+  ],
+  "release_date": "2025-09-05",
+  "website": "http://cronosnewdawn.com",
+  "tags": [
+    "action",
+    "horror",
+    "sci-fi",
+    "third-person-shooter",
+    "combat",
+    "post-apocalyptic",
+    "difficult",
+    "atmospheric",
+    "story-rich",
+    "time-travel",
+    "singleplayer",
+    "action-adventure",
+    "crafting",
+    "gore",
+    "dark",
+    "futuristic",
+    "third-person",
+    "resource-management",
+    "dystopian"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian",
+    "ukrainian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "时间旅者：重生曙光"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Cronos.exe",
+          "description": "Play game",
+          "type": "default"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev build",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev build",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev Build",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev Build",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev Build",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev Build",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev Build",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev Build",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev Build",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev Build",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev Build",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev Build",
+          "type": "option1"
+        },
+        {
+          "executable": "RecordPSO.bat",
+          "description": "Record PSO",
+          "type": "option3"
+        },
+        {
+          "executable": "RecordPSO.bat",
+          "description": "Record PSO",
+          "type": "option3"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev Build",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev Build",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev Build",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev Build",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev Build",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev Build",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev Build",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev Build",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev Build",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev Build",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev Build",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev Build",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev Build",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev Build",
+          "type": "option1"
+        },
+        {
+          "executable": "RecordPSO.bat",
+          "description": "RecordPSO",
+          "type": "option1"
+        },
+        {
+          "executable": "RecordPSO.bat",
+          "description": "RecordPSO",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev Build",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev Builds",
+          "type": "option1"
+        },
+        {
+          "executable": "RecordPSO.bat",
+          "description": "RecordPSO",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev Builds",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Win64\\Cronos.exe",
+          "description": "Dev build",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Cronos/Saved/SaveGames/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "LinuxHome",
+          "path": ".config/Epic/Cronos/Saved/SaveGames/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Epic/Cronos/Saved/SaveGames/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Cronos-Mac-Shipping.app",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "Cronos.app/Contents/MacOS/Cronos",
+          "description": "Force Metal SM5",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos.app/Contents/MacOS/Cronos",
+          "description": "Force Metal SM6",
+          "type": "option2"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Cronos/Saved/SaveGames/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "LinuxHome",
+          "path": ".config/Epic/Cronos/Saved/SaveGames/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Epic/Cronos/Saved/SaveGames/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Cronos.sh",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Linux\\Cronos",
+          "description": "Linux Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Linux\\Cronos",
+          "description": "Linux Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "Cronos\\Binaries\\Linux\\Cronos",
+          "description": "Linux Dev",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Cronos/Saved/SaveGames/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "LinuxHome",
+          "path": ".config/Epic/Cronos/Saved/SaveGames/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Epic/Cronos/Saved/SaveGames/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Cronos: The New Dawn",
+    "Cronos",
+    "Cronos\\Binaries\\Win64\\Cronos",
+    "RecordPSO.bat",
+    "Cronos-Mac-Shipping.app",
+    "Cronos.app/Contents/MacOS/Cronos",
+    "Cronos.sh",
+    "Cronos\\Binaries\\Linux\\Cronos",
+    "时间旅者：重生曙光"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2101960/d832ad543e3335f6b75acadedcb0dae460770da4.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101960/68fa7b72da253c498b70cf74e475b4f5f4ac79eb/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101960/a9c0e9e0e5ed7b191b8efc25d496003c4296bc76/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101960/e233a22183c1a7ecb277d5d947318cd8d584e0b4/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101960/ec6fb6329a1ad5b2fffc220c744764994132f872/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101960/59b867e324aac4ff2c45ac26d02916d60b0abe09/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101960/1923da926dadf74f2666058b3b07885da6b92a65/ss_1923da926dadf74f2666058b3b07885da6b92a65.1920x1080.jpg?t=1777385995"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101960/f7b6f47d41a5d7d4fab8cdb84b8fc77b2bedabbf/ss_f7b6f47d41a5d7d4fab8cdb84b8fc77b2bedabbf.1920x1080.jpg?t=1777385995"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101960/f4dde577517093330114d52e10d7c4015bf786e1/ss_f4dde577517093330114d52e10d7c4015bf786e1.1920x1080.jpg?t=1777385995"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101960/31a6cec5c20936a64a4013bf24d66854a46761ae/ss_31a6cec5c20936a64a4013bf24d66854a46761ae.1920x1080.jpg?t=1777385995"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101960/0b2cf0794439224d3e5da6b142786e131eba7ab4/ss_0b2cf0794439224d3e5da6b142786e131eba7ab4.1920x1080.jpg?t=1777385995"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101960/756ad8a741abfd7c23a94189d5d61ea9c9c8955b/ss_756ad8a741abfd7c23a94189d5d61ea9c9c8955b.1920x1080.jpg?t=1777385995"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101960/ss_898aa12b567ec0b042421d790eef2661ee4f3d1b.1920x1080.jpg?t=1777385995"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101960/ss_95e576beea7dad9a3b6d9a379b925b4e2f87fc07.1920x1080.jpg?t=1777385995"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Cronos: The New Dawn Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257192731/b08cc6e4fcaa0861996ecb598cb3e75ee5a90401/movie_600x337.jpg?t=1756924486",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2101960/1948818507/a9afabb868d41ad51d9d3de27cbad0f3bb29e8a3/1756918569/dash_h264.mpd?t=1756924486"
+    },
+    {
+      "name": "A New Breed of Horror",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257185524/0cb65363be6bbd6cafca829f5670c4178a8ced36/movie_600x337.jpg?t=1755633394",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2101960/1852912496/b7dbb2d60c6f2e670d471f1a7e8e404b15cd639c/1755620541/dash_h264.mpd?t=1755633394"
+    },
+    {
+      "name": "Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257176305/39ecec309b2ad50f48c646ffdbfb17743a82adc4/movie_600x337.jpg?t=1753977815",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2101960/354859894/e826d22379dc4b6ed937ea8060e2b7ba034d67b7/1753975295/dash_h264.mpd?t=1753977815"
+    },
+    {
+      "name": "Cronos: The New Dawn - Gameplay Showcase",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257156463/1ba763a84c68a7308961cdc0d8d55de325f213d9/movie_600x337.jpg?t=1749826780",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2101960/475121104/a7177f560e0b13f77acee07c11229bee3f59f2ed/1751076262/dash_h264.mpd?t=1749826780"
+    },
+    {
+      "name": "Cronos: The New Dawn | Surviving The Nest Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257153536/bd484a10637769d9618ce5eb01b689db1b7c9323/movie_600x337.jpg?t=1749423930",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2101960/451591076/c6b99440a99309d09809de44e64ea8e73a44c25a/1751076259/dash_h264.mpd?t=1749423930"
+    },
+    {
+      "name": "Cronos - The New Dawn Gameplay Trailer ",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257126192/24ab6b66bc19386f7f789aa2646ba9ab2c813fad/movie_600x337.jpg?t=1744819221",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2101960/870443/31df3bbbff5ae934f210cf66f8fd99007738b350/1751076253/dash_h264.mpd?t=1744819221"
+    },
+    {
+      "name": "Cronos - The New Dawn Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257061111/837c90204b7b340ff8f52039f1ac145feb8742ec/movie_600x337.jpg?t=1729184639",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2101960/765400/2b9bee7d52167ea32f28333f876c209d59e1a4dc/1751076903/dash_h264.mpd?t=1729184639"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2101960,
+    "store_url": "https://store.steampowered.com/app/2101960/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Gamepad Recommended",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Survival Horror",
+      "Horror",
+      "Sci-fi",
+      "Third-Person Shooter",
+      "Combat",
+      "Post-apocalyptic",
+      "Difficult",
+      "Atmospheric",
+      "Story Rich",
+      "Time Travel",
+      "Action",
+      "Singleplayer",
+      "Action-Adventure",
+      "Crafting",
+      "Gore",
+      "Dark",
+      "Futuristic",
+      "Third Person",
+      "Resource Management",
+      "Dystopian "
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 9610,
+    "review_negative": 1309,
+    "review_total": 10919,
+    "review_positive_percent": 88.01
+  }
+}

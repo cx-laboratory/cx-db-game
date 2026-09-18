@@ -1,0 +1,168 @@
+{
+  "key": "sayonara-wild-hearts",
+  "name": "Sayonara Wild Hearts",
+  "description": "Sayonara Wild Hearts is a dreamy arcade game about riding motorcycles, skateboarding, dance battling, shooting lasers, wielding swords, and breaking hearts at 200 mph.",
+  "developers": [
+    "Simogo"
+  ],
+  "publishers": [
+    "Annapurna Interactive"
+  ],
+  "release_date": "2019-12-13",
+  "website": "http://sayonarawildhearts.com",
+  "tags": [
+    "action",
+    "casual",
+    "great-soundtrack",
+    "rhythm",
+    "music",
+    "beautiful",
+    "female-protagonist",
+    "arcade",
+    "colorful",
+    "stylized",
+    "singleplayer",
+    "short",
+    "lgbtq",
+    "indie",
+    "atmospheric",
+    "3d",
+    "story-rich",
+    "adventure",
+    "action-adventure",
+    "fantasy"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "dutch",
+    "turkish",
+    "arabic",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Sayonara Wild Hearts.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Simogo/Sayonara Wild Hearts",
+          "pattern": "*.bin",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Sayonara Wild Hearts"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1122720/2c1635df36cd8252dd874802d7e93821d4c6d78d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122720/daabe8ce68d602810e6e9019597f8440729930db/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122720/5e726c1444cb0baccc43db708523168939c2843f/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122720/200b2497382705c1db5a99437c71d1c91c9b9ac1/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122720/5d0411e3b280c53fc0e6f4123efb10064b3f072b/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122720/095c96a77fc807aeab1381782051f45091036545/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122720/ss_03804e3335afd5edddceafe722ff1c4eb3c19931.1920x1080.jpg?t=1759736011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122720/ss_3190e7aa5351cb206061e50bd5fb75e828206069.1920x1080.jpg?t=1759736011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122720/ss_78e2f5e6afa93bfcea8bbe587487ae4bc0c50e6e.1920x1080.jpg?t=1759736011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122720/ss_aa6b4160134b52df766597acd78cfef9a0b05fce.1920x1080.jpg?t=1759736011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122720/ss_7e67136f2bf7c5a3299f69e7be43d7a05abcfdcd.1920x1080.jpg?t=1759736011"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Sayonara Wild Hearts - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256765393/movie.293x165.jpg?t=1576173636",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1122720/249404/84d371ad4d3c5d14f1a72827c0136cc27a50c262/1751191560/dash_h264.mpd?t=1576173636"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1122720,
+    "store_url": "https://store.steampowered.com/app/1122720/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Great Soundtrack",
+      "Rhythm",
+      "Music",
+      "Action",
+      "Beautiful",
+      "Casual",
+      "Female Protagonist",
+      "Arcade",
+      "Colorful",
+      "Stylized",
+      "Singleplayer",
+      "Short",
+      "LGBTQ+",
+      "Indie",
+      "Atmospheric",
+      "3D",
+      "Story Rich",
+      "Adventure",
+      "Action-Adventure",
+      "Fantasy"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 8555,
+    "review_negative": 304,
+    "review_total": 8859,
+    "review_positive_percent": 96.57
+  }
+}

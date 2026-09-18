@@ -1,0 +1,242 @@
+{
+  "key": "kingdom-new-lands",
+  "name": "Kingdom: New Lands",
+  "description": "Kingdom: New Lands builds upon the award-winning gameplay and mystery of Kingdom by introducing an abundance of new content to the IGF-nominated title while maintaining the simplicity and depth that legions of monarchs have come to experience and enjoy.",
+  "developers": [
+    "Noio"
+  ],
+  "publishers": [
+    "Raw Fury"
+  ],
+  "release_date": "2016-08-09",
+  "website": "http://www.kingdomthegame.com/",
+  "tags": [
+    "indie",
+    "simulation",
+    "strategy",
+    "tower-defense",
+    "base-building",
+    "survival",
+    "minimalist",
+    "exploration",
+    "roguelike",
+    "roguelite",
+    "building",
+    "colony-sim",
+    "atmospheric",
+    "side-scroller",
+    "singleplayer",
+    "soundtrack",
+    "pixel-graphics",
+    "adventure",
+    "fantasy",
+    "medieval",
+    "open-world"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Portuguese - Portugal",
+    "Portuguese - Brazil",
+    "Russian",
+    "Danish",
+    "Japanese",
+    "Norwegian",
+    "Simplified Chinese",
+    "Swedish",
+    "Finnish",
+    "Korean"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Kingdom.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "noio/Kingdom",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "noio/Kingdom",
+          "pattern": "unlocks",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Kingdom.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "noio/Kingdom",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "noio/Kingdom",
+          "pattern": "unlocks",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Kingdom.x86",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "Kingdom.x86_64",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "noio/Kingdom",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "noio/Kingdom",
+          "pattern": "unlocks",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Kingdom: New Lands",
+    "Kingdom",
+    "Kingdom.app",
+    "Kingdom.x86",
+    "Kingdom.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/496300/d51edb8c8d40e68818adffcd3f9b40149173b2d5.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496300/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496300/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496300/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496300/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496300/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496300/ss_1585b78b6f58ec3ad9f6b7b8a48f01064952ba4b.1920x1080.jpg?t=1730390952"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496300/ss_a47feaf983b58fc4901d356015e86dc93b4a990b.1920x1080.jpg?t=1730390952"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496300/ss_39be32c53e6129bdc754a12cd626d44ba530f10a.1920x1080.jpg?t=1730390952"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496300/ss_3cf818049f7414b2d4d0b76e4d9ce265644c129b.1920x1080.jpg?t=1730390952"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496300/ss_12071cdc0e7088e2730681c573a4f6021127b09c.1920x1080.jpg?t=1730390952"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496300/ss_365cc31710820045b4d9438f34f6113c035299c6.1920x1080.jpg?t=1730390952"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496300/ss_fdec4b69c2ac7891ead48a5e57f07c54d39992e9.1920x1080.jpg?t=1730390952"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496300/ss_2accab99f642d3eb50a9886d32689d6fc65b0cc0.1920x1080.jpg?t=1730390952"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496300/ss_f5d25c6ed39113da5b34461eb7b322e0854c8386.1920x1080.jpg?t=1730390952"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Kingdom: New Lands Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256668090/movie.293x165.jpg?t=1470231296",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/496300/67053/c8066bd3c3cf87355411272885e9762c86fac1f1/1750538336/dash_h264.mpd?t=1470231296"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 496300,
+    "store_url": "https://store.steampowered.com/app/496300/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Tower Defense",
+      "Base Building",
+      "Survival",
+      "Minimalist",
+      "Exploration",
+      "Roguelike",
+      "Roguelite",
+      "Building",
+      "Strategy",
+      "Colony Sim",
+      "Atmospheric",
+      "Side Scroller",
+      "Singleplayer",
+      "Soundtrack",
+      "Pixel Graphics",
+      "Adventure",
+      "Fantasy",
+      "Medieval",
+      "Simulation",
+      "Open World"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 10507,
+    "review_negative": 1772,
+    "review_total": 12279,
+    "review_positive_percent": 85.57
+  }
+}

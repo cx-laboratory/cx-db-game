@@ -1,0 +1,175 @@
+{
+  "key": "emily-is-away-3",
+  "name": "Emily is Away <3",
+  "description": "Emily &lt;3 is a brand new story set on an old-new social media. Customize your facenook profile, send some friend requests and determine the outcome of your senior year.",
+  "developers": [
+    "Kyle Seeley"
+  ],
+  "publishers": [
+    "Kyle Seeley"
+  ],
+  "release_date": "2021-04-16",
+  "website": "http://emilyisaway.com/",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "rpg",
+    "simulation",
+    "choices-matter",
+    "dating-sim",
+    "multiple-endings",
+    "singleplayer",
+    "story-rich",
+    "emotional",
+    "visual-novel",
+    "cute",
+    "choose-your-own-adventure",
+    "dialogue-heavy",
+    "nostalgia",
+    "romance",
+    "2d",
+    "typing",
+    "horror"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Emily3.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "KyleSeeley/Facenook - Welcome to Facenook",
+          "pattern": "*.json",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Emily3.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "KyleSeeley/Facenook - Welcome to Facenook",
+          "pattern": "*.json",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Emily is Away <3",
+    "Emily3",
+    "Emily3.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/978460/0627139d8d5b25f1e0b5f37198963bb74a847e78.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978460/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978460/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978460/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978460/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978460/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978460/ss_ea262c63739193713922b29a9692d374fcc0bedb.1920x1080.jpg?t=1621271998"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978460/ss_c6c55f5e66512aa34f79f9a6e975c2a65cea12e9.1920x1080.jpg?t=1621271998"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978460/ss_767b678b7f3151ed670f5daa336d53187510adbe.1920x1080.jpg?t=1621271998"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978460/ss_232c8f5f4c1185cee86cf16ecc60166d6b795cd4.1920x1080.jpg?t=1621271998"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978460/ss_acc0c6ad56645821ed07cfe83d2a85f8f8285be8.1920x1080.jpg?t=1621271998"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256830818/movie.293x165.jpg?t=1621271994",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/978460/362419/a004ac40df56d8a8998d3c4cff8122873133c749/1750603534/dash_h264.mpd?t=1621271994"
+    },
+    {
+      "name": "Teaser Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256741681/movie.293x165.jpg?t=1551979181",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/978460/206875/d940d642e7de2abc7db55f6e1e8b75a65558ed75/1750603515/dash_h264.mpd?t=1551979181"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 978460,
+    "store_url": "https://store.steampowered.com/app/978460/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Stats",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Choices Matter",
+      "Simulation",
+      "Dating Sim",
+      "Indie",
+      "Multiple Endings",
+      "Casual",
+      "Singleplayer",
+      "Story Rich",
+      "Emotional",
+      "Visual Novel",
+      "Cute",
+      "Adventure",
+      "Choose Your Own Adventure",
+      "Dialogue Heavy",
+      "RPG",
+      "Nostalgia",
+      "Romance",
+      "2D",
+      "Typing",
+      "Horror"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 6130,
+    "review_negative": 587,
+    "review_total": 6717,
+    "review_positive_percent": 91.26
+  }
+}

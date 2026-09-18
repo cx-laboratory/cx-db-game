@@ -1,0 +1,258 @@
+{
+  "key": "planet-coaster-2",
+  "name": "Planet Coaster 2",
+  "description": "Build and customise thrilling roller coasters and incredible water slides, manage the ultimate theme park experience, and share your epic creations. Are you ready to ride the wave? ",
+  "developers": [
+    "Frontier Developments"
+  ],
+  "publishers": [
+    "Frontier Developments"
+  ],
+  "release_date": "2024-11-06",
+  "website": "https://www.planetcoaster.com/",
+  "tags": [
+    "simulation",
+    "strategy",
+    "sandbox",
+    "building",
+    "city-builder",
+    "3d",
+    "singleplayer",
+    "economy",
+    "god-game",
+    "realistic",
+    "management",
+    "colorful",
+    "online-co-op",
+    "atmospheric",
+    "family-friendly",
+    "relaxing",
+    "funny",
+    "multiplayer",
+    "asynchronous-multiplayer",
+    "vr"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "japanese",
+    "polish",
+    "dutch",
+    "czech",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "过山车之星2",
+    "tchinese": "雲霄飛車之星 2",
+    "japanese": "プラネットコースター 2",
+    "koreana": "플래닛 코스터 2"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Newton.release.exe",
+          "description": "Release Build",
+          "type": "option1"
+        },
+        {
+          "executable": "Newton.profile.exe",
+          "description": "Profile Build",
+          "type": "option2"
+        },
+        {
+          "executable": "PlanetCoaster2.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinSavedGames",
+          "path": "Frontier Developments/Planet Coaster 2/{64BitSteamID}/Saves/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "Frontier Developments/Planet Coaster 2/{64BitSteamID}/Config/",
+          "pattern": "*.config.xml",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Planet Coaster 2",
+    "Newton.release",
+    "Newton.profile",
+    "PlanetCoaster2",
+    "过山车之星2",
+    "雲霄飛車之星 2",
+    "プラネットコースター 2",
+    "플래닛 코스터 2"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2688950/0f7e7ea0c26a500eee998120c7c04c9d7f43ffc0.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/2db68c93e41c8cd7312b9236010872219e5fefbe/ss_2db68c93e41c8cd7312b9236010872219e5fefbe.1920x1080.jpg?t=1782479925"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/ccbef6cc0e61fe7430e9bc7e96d2aad73114c189/ss_ccbef6cc0e61fe7430e9bc7e96d2aad73114c189.1920x1080.jpg?t=1782479925"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/cfa227deee1269e277c1e10db955ae53ce5b6b72/ss_cfa227deee1269e277c1e10db955ae53ce5b6b72.1920x1080.jpg?t=1782479925"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/587c98479eb40f66f0d2cdd43778293159a639f6/ss_587c98479eb40f66f0d2cdd43778293159a639f6.1920x1080.jpg?t=1782479925"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/5316a510d8f950e5494c5d2ebbf8175a53987477/ss_5316a510d8f950e5494c5d2ebbf8175a53987477.1920x1080.jpg?t=1782479925"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/a8328a36f34eb8011659df5dd2b9cf8b4da494b2/ss_a8328a36f34eb8011659df5dd2b9cf8b4da494b2.1920x1080.jpg?t=1782479925"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/397bcd3c8874c1a968b7728c8aff8517f159c8c4/ss_397bcd3c8874c1a968b7728c8aff8517f159c8c4.1920x1080.jpg?t=1782479925"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/1945305f7c1eb70b917e9ba4084ea6caa81a6e88/ss_1945305f7c1eb70b917e9ba4084ea6caa81a6e88.1920x1080.jpg?t=1782479925"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/19e25646147308bcd230728f7704a71625c94c6d/ss_19e25646147308bcd230728f7704a71625c94c6d.1920x1080.jpg?t=1782479925"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/ac9e15746cd025bf3e65ad343e29ef51b29b02fe/ss_ac9e15746cd025bf3e65ad343e29ef51b29b02fe.1920x1080.jpg?t=1782479925"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/45d14e5b2e2ee08f0407ea387936f937b5dc0e60/ss_45d14e5b2e2ee08f0407ea387936f937b5dc0e60.1920x1080.jpg?t=1782479925"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/67da5f37319e5afa18df92aa448e654340140e45/ss_67da5f37319e5afa18df92aa448e654340140e45.1920x1080.jpg?t=1782479925"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/822699616ded98ed7f992e8a6ea89f92b4640b53/ss_822699616ded98ed7f992e8a6ea89f92b4640b53.1920x1080.jpg?t=1782479925"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/dea7cdf3bf6fd056ca80d500d4bf3a43b75ab9bd/ss_dea7cdf3bf6fd056ca80d500d4bf3a43b75ab9bd.1920x1080.jpg?t=1782479925"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/c840520e1d0bc2ad5be3b97e9fcc8e49354341af/ss_c840520e1d0bc2ad5be3b97e9fcc8e49354341af.1920x1080.jpg?t=1782479925"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/869400435b33e2e76a76dbec573180ae00d3df43/ss_869400435b33e2e76a76dbec573180ae00d3df43.1920x1080.jpg?t=1782479925"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/578dba48631b57f62b1290bb864b7d92cb039ef0/ss_578dba48631b57f62b1290bb864b7d92cb039ef0.1920x1080.jpg?t=1782479925"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/7f5cad88060f1f97b63a137f6a40fa95eb96bea9/ss_7f5cad88060f1f97b63a137f6a40fa95eb96bea9.1920x1080.jpg?t=1782479925"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Summer Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257170101/541ec194a52bdba20a4c1e8deea5273df48b6efe/movie_600x337.jpg?t=1752746392",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2688950/644230953/81ef29fa895611d178ab7b3b85bad55663d98fb7/1752735519/dash_h264.mpd?t=1752746392"
+    },
+    {
+      "name": "Accolades Trailer - EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257071372/df79ba3998f43544214f82e3a370f2bbce0e55c1/movie_600x337.jpg?t=1730907737",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2688950/782257/608867ce42ddf6151e945a21e0c0f181429171fb/1750818683/dash_h264.mpd?t=1730907737"
+    },
+    {
+      "name": "Launch Trailer - En",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257070218/36a583732a987c61e2b26c5fa81639063a3b9794/movie_600x337.jpg?t=1730473257",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2688950/780219/d5f417aa38b7d30898b73b787a46599beb600ba0/1750818676/dash_h264.mpd?t=1730473257"
+    },
+    {
+      "name": "Preorder Trailer - En",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257054374/movie.293x165.jpg?t=1726153172",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2688950/754497/e333e91e5ffe84df164c185708555ca342aafb13/1750818654/dash_h264.mpd?t=1726153172"
+    },
+    {
+      "name": "Announce Trailer - En",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257037082/movie.293x165.jpg?t=1720706341",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2688950/724708/8cf22bf11fd0ce2cf7b177af4ef7b0df95932ebb/1750818644/dash_h264.mpd?t=1720706341"
+    }
+  ],
+  "metacritic": {
+    "score": 76,
+    "url": "https://www.metacritic.com/game/pc/planet-coaster-2?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 2688950,
+    "store_url": "https://store.steampowered.com/app/2688950/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Stereo Sound",
+      "Surround Sound",
+      "Steam Cloud",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Sandbox",
+      "Strategy",
+      "Building",
+      "City Builder",
+      "3D",
+      "Singleplayer",
+      "Economy",
+      "God Game",
+      "Realistic",
+      "Management",
+      "Colorful",
+      "Online Co-Op",
+      "Atmospheric",
+      "Family Friendly",
+      "Relaxing",
+      "Funny",
+      "Multiplayer",
+      "Asynchronous Multiplayer",
+      "VR"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 10111,
+    "review_negative": 3662,
+    "review_total": 13773,
+    "review_positive_percent": 73.41
+  }
+}

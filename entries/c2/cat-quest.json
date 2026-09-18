@@ -1,0 +1,218 @@
+{
+  "key": "cat-quest",
+  "name": "Cat Quest",
+  "description": "The multi award-winning Action RPG. Some say 'Diablo with Cats' others a 'Super-cute Skyrim', whatever your take, Cat Quest's loot-fuelled cat-venture is as beautifully crafted, as its combat and magic are ultra-satisfying. Universally adored by critics - it'll have you purring for joy!",
+  "developers": [
+    "The Gentlebros"
+  ],
+  "publishers": [
+    "Kepler Interactive"
+  ],
+  "release_date": "2017-08-08",
+  "website": "http://thegentlebros.com/catquest/",
+  "tags": [
+    "action",
+    "adventure",
+    "casual",
+    "indie",
+    "rpg",
+    "cats",
+    "cute",
+    "hack-and-slash",
+    "open-world",
+    "singleplayer",
+    "action-rpg",
+    "loot",
+    "fantasy",
+    "funny",
+    "2d",
+    "multiplayer",
+    "dragons",
+    "cozy",
+    "wholesome",
+    "family-friendly"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese"
+  ],
+  "name_localized": {
+    "japanese": "キャットクエスト",
+    "schinese": "猫咪斗恶龙 Cat Quest"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Cat Quest.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "The Gentlebros Pte_ Ltd_/Cat Quest",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "com.thegentlebros.catquest",
+          "pattern": "*.dat",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Cat Quest.app/Contents/MacOS/Cat Quest",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "The Gentlebros Pte_ Ltd_/Cat Quest",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "com.thegentlebros.catquest",
+          "pattern": "*.dat",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Cat Quest",
+    "Cat Quest.app/Contents/MacOS/Cat Quest",
+    "キャットクエスト",
+    "猫咪斗恶龙 Cat Quest"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/593280/8cdb631e4334e79e61f33e0c1d37d26507f06712.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593280/69324384b1da76cab8a6215c42f5d5f34a0e1290/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593280/9b34eb7e4063db80143bfdd9bd346d49810e5402/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593280/51dea0d91fb6697b3c7edce30ce5aa7ceb23840e/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593280/0332aea91353ad4d57bfabab3e6283177b9d99dd/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593280/3b64fbc47291a248ca6431c2b18d637c0cf916f1/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593280/bd504ab026e7c330ae7bfa8cb7c5e5a435efecc7/ss_bd504ab026e7c330ae7bfa8cb7c5e5a435efecc7.1920x1080.jpg?t=1756984217"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593280/11e4dd51548f052377083edf9af24be018161d34/ss_11e4dd51548f052377083edf9af24be018161d34.1920x1080.jpg?t=1756984217"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593280/bd3bb096bccb0d0495b6aa42f311e886467c9092/ss_bd3bb096bccb0d0495b6aa42f311e886467c9092.1920x1080.jpg?t=1756984217"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593280/ss_58fcd42dac7455b90795825a7ee7a28ee414f308.1920x1080.jpg?t=1756984217"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593280/bd06c497d708a4587966d172d0ac555c0916b01d/ss_bd06c497d708a4587966d172d0ac555c0916b01d.1920x1080.jpg?t=1756984217"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593280/67347dfd3a36ec91427f704470829edab581ddff/ss_67347dfd3a36ec91427f704470829edab581ddff.1920x1080.jpg?t=1756984217"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593280/c3c3a87f682a4c670486ae27922a1626ba2ef646/ss_c3c3a87f682a4c670486ae27922a1626ba2ef646.1920x1080.jpg?t=1756984217"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Cat Quest - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256691297/movie.293x165.jpg?t=1501126813",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/593280/115389/35add2e54b5eb73f90b20ba4293dbf43e02b8bda/1750557773/dash_h264.mpd?t=1501126813"
+    },
+    {
+      "name": "Cat Quest - Overworld Exploration",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256690054/movie.293x165.jpg?t=1499930764",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/593280/113291/27997ed7718c9514833bf39934e15e4c78262ec1/1750557755/dash_h264.mpd?t=1499930764"
+    },
+    {
+      "name": "Cat Quest - Dungeon Exploration",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256690058/movie.293x165.jpg?t=1499930776",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/593280/113296/7ba89aace2e59c9dec7f07e75d1acda6208349bd/1750557770/dash_h264.mpd?t=1499930776"
+    }
+  ],
+  "metacritic": {
+    "score": 79,
+    "url": "https://www.metacritic.com/game/pc/cat-quest?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 593280,
+    "store_url": "https://store.steampowered.com/app/593280/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Adventure",
+      "RPG",
+      "Cats",
+      "Cute",
+      "Action",
+      "Hack and Slash",
+      "Indie",
+      "Open World",
+      "Singleplayer",
+      "Casual",
+      "Action RPG",
+      "Loot",
+      "Fantasy",
+      "Funny",
+      "2D",
+      "Multiplayer",
+      "Dragons",
+      "Cozy",
+      "Wholesome",
+      "Family Friendly"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 10041,
+    "review_negative": 564,
+    "review_total": 10605,
+    "review_positive_percent": 94.68
+  }
+}

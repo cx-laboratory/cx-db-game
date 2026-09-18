@@ -1,0 +1,138 @@
+{
+  "key": "steam-1765350",
+  "name": "候鸟",
+  "description": "你知道候鸟吗？候鸟有夏候鸟和冬候鸟之分。夏候鸟就是「春天来北方，秋天去南方」的鸟，他们一年四季都生活在很温暖的环境里，而冬候鸟……则是春天就飞向北方，飞到又远又冷的地方生活，冬季才返回的鸟。尽管它们可能会在同一个地方各自度过一生中一半的时光——却从来没有机会在一起。",
+  "developers": [
+    "KIDFansClub"
+  ],
+  "publishers": [
+    "Syawase Works China"
+  ],
+  "release_date": "2023-01-12",
+  "website": "http://migrant.kid-game.cn/",
+  "tags": [
+    "adventure",
+    "word-game",
+    "interactive-fiction",
+    "2d-platformer",
+    "dating-sim",
+    "story-rich",
+    "2d",
+    "visual-novel",
+    "singleplayer",
+    "anime"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "schinese"
+  ],
+  "name_localized": {
+    "schinese": "候鸟"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Migrant.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "game/saves",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "RenPy/Migrant",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "候鸟",
+    "Migrant"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1765350/301483a1a4c9841d7357d9f918b9c6eb0e868aa5.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1765350/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1765350/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1765350/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1765350/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1765350/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1765350/ss_0128f5a73a41dfb7bb45b0ad90caaa26b405a60d.1920x1080.jpg?t=1762226860"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1765350/ss_a4bd540575540097d540369e03d165eea5912a6f.1920x1080.jpg?t=1762226860"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1765350/ss_09c3e2039705e955ea6939b44c54c99d0fb45e07.1920x1080.jpg?t=1762226860"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1765350/ss_22e7edfc7d625e2b62588c9d0534318353071691.1920x1080.jpg?t=1762226860"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1765350/ss_0e58bf57a4dce1a0d282d94685e4219e85ff7d51.1920x1080.jpg?t=1762226860"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1765350/ss_a3c23e229a0ca7908d5f105b348119250416bffb.1920x1080.jpg?t=1762226860"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1765350/ss_dc7c4fe7ef952099833c36af89902788c329e85d.1920x1080.jpg?t=1762226860"
+    }
+  ],
+  "videos": [
+    {
+      "name": "候鸟-pv",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256919020/movie.293x165.jpg?t=1673402328",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1765350/518666/b2be4acaac1c9c769e601bd8b259f15c6f22506a/1751028643/dash_h264.mpd?t=1673402328"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1765350,
+    "store_url": "https://store.steampowered.com/app/1765350/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Word Game",
+      "Interactive Fiction",
+      "2D Platformer",
+      "Dating Sim",
+      "Adventure",
+      "Story Rich",
+      "2D",
+      "Visual Novel",
+      "Singleplayer",
+      "Anime"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 3836,
+    "review_negative": 100,
+    "review_total": 3936,
+    "review_positive_percent": 97.46
+  }
+}

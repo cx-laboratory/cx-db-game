@@ -1,0 +1,187 @@
+{
+  "key": "halo-wars-definitive-edition",
+  "name": "Halo Wars: Definitive Edition",
+  "description": "Halo Wars: Definitive Edition is an enhanced version of the real-time strategy classic, Halo Wars, updated to run natively on PC. Halo Wars: Definitive Edition includes improved graphics, new achievements and all of the DLC created for the landmark real-time strategy game.",
+  "developers": [
+    "Ensemble Studios"
+  ],
+  "publishers": [
+    "Xbox Game Studios"
+  ],
+  "release_date": "2017-04-21",
+  "website": "https://www.halowaypoint.com/en-us/games/halo-wars",
+  "tags": [
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "rts",
+    "base-building",
+    "singleplayer",
+    "sci-fi",
+    "war",
+    "military",
+    "action",
+    "simulation",
+    "great-soundtrack",
+    "aliens",
+    "sandbox",
+    "tactical",
+    "classic",
+    "shooter",
+    "story-rich",
+    "atmospheric"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "hungarian",
+    "czech"
+  ],
+  "name_localized": {
+    "schinese": "光环战争：终极版"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "xgameFinal.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "xgameFinal.exe",
+          "description": "Launch in safe mode",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "savegame",
+          "pattern": "save.sav",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Halo Wars: Definitive Edition",
+    "xgameFinal"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/459220/aaccc322973f4686ed7a7ef0bfafdd7832df2315.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/459220/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/459220/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/459220/library_600x900.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/459220/ss_c862272766c004ccbdcae319569ee709af9d6fd4.1920x1080.jpg?t=1774284126"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/459220/ss_75cac033dd0d5ce40b62ba75aa7feab05d5313d5.1920x1080.jpg?t=1774284126"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/459220/ss_0f11063acf096c89e67076868ba28d128eefb463.1920x1080.jpg?t=1774284126"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/459220/ss_7e4b1760d6487d0eec2bc68f3992dc5810359837.1920x1080.jpg?t=1774284126"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/459220/ss_475f22347933e767b7ff40c373712c437e86abd3.1920x1080.jpg?t=1774284126"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/459220/ss_7890811f1d61dee46b1770fff07f70b17ca1046a.1920x1080.jpg?t=1774284126"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/459220/ss_ca8674f6063252f6f224f8bd0e74c41222865847.1920x1080.jpg?t=1774284126"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/459220/ss_13cca0ab8b38ebc4c25983ca3799ac810f926185.1920x1080.jpg?t=1774284126"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/459220/ss_1d58fa0ecf54aaa223663d4a1b15b4d6a3de6a8e.1920x1080.jpg?t=1774284126"
+    }
+  ],
+  "videos": [
+    {
+      "name": "HWDE_SteamTrailer2_ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256683283/movie.293x165.jpg?t=1492444645",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/459220/98363/348cb032a51038a7c2e8c433da89b81ec1ac2bf7/1750533053/dash_h264.mpd?t=1492444645"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 459220,
+    "store_url": "https://store.steampowered.com/app/459220/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "RTS",
+      "Base Building",
+      "Multiplayer",
+      "Singleplayer",
+      "Sci-fi",
+      "War",
+      "Military",
+      "Action",
+      "Co-op",
+      "Simulation",
+      "Great Soundtrack",
+      "Aliens",
+      "Sandbox",
+      "Tactical",
+      "Online Co-Op",
+      "Classic",
+      "Shooter",
+      "Story Rich",
+      "Atmospheric"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8579,
+    "review_negative": 808,
+    "review_total": 9387,
+    "review_positive_percent": 91.39
+  }
+}

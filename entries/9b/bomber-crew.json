@@ -1,0 +1,231 @@
+{
+  "key": "bomber-crew",
+  "name": "Bomber Crew",
+  "description": "Chocks away! Bomber Crew is a strategic simulation game, where picking the right crew and keeping your bomber in tip top shape is the difference between completing your mission or losing it all! USAAF DLC NOW AVAILABLE! FLY THE ICONIC AMERICAN BOMBER!",
+  "developers": [
+    "Runner Duck"
+  ],
+  "publishers": [
+    "Curve Games"
+  ],
+  "release_date": "2017-10-20",
+  "website": "https://curvegames.com/our-games/bomber-crew/",
+  "tags": [
+    "simulation",
+    "strategy",
+    "world-war-ii",
+    "management",
+    "flight",
+    "singleplayer",
+    "war",
+    "indie",
+    "difficult",
+    "survival",
+    "action",
+    "military",
+    "casual",
+    "roguelike",
+    "cartoony",
+    "perma-death",
+    "3d",
+    "roguelite",
+    "cute",
+    "atmospheric"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish"
+  ],
+  "name_localized": {
+    "schinese": "轰炸机小队 / Bomber Crew"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "BomberCrew.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Runner Duck/Bomber Crew",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "BomberCrew.app/Contents/MacOS/BomberCrew",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Runner Duck/Bomber Crew",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "BomberCrew.x86_64",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "BomberCrew.x86",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Runner Duck/Bomber Crew",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Bomber Crew",
+    "BomberCrew",
+    "BomberCrew.app/Contents/MacOS/BomberCrew",
+    "BomberCrew.x86_64",
+    "BomberCrew.x86",
+    "轰炸机小队 / Bomber Crew"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/537800/8af44d76dd3688b8b5b12a7fd9091f6d32fd3703.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/537800/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/537800/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/537800/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/537800/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/537800/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/537800/ss_7e1fa76e591368b72bb4079ebeb28b35bb6e5d3d.1920x1080.jpg?t=1768471106"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/537800/ss_7d2396334a51ffcaa734275917cb2e1d9418230f.1920x1080.jpg?t=1768471106"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/537800/ss_f46fc4cb5e1e692450dd057d1f7bd927af6d81c0.1920x1080.jpg?t=1768471106"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/537800/ss_855ae2e164a7ec5049ad165f2ec4c6543266adb8.1920x1080.jpg?t=1768471106"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/537800/ss_ae9bb15f884f3c8e795f14af922da66aede3ccbf.1920x1080.jpg?t=1768471106"
+    }
+  ],
+  "videos": [
+    {
+      "name": "USAAF - IF BASE GAME OWNED",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256733059/movie.293x165.jpg?t=1545231040",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/537800/191896/4668627671ac7b814111657723db4a8b9becfe4c/1750547726/dash_h264.mpd?t=1545231040"
+    },
+    {
+      "name": "Bomber Crew Out Now",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256698292/movie.293x165.jpg?t=1508433379",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/537800/128460/64b7ec82a8fe770e5223ff77b845f6f9fdd80373/1750547719/dash_h264.mpd?t=1508433379"
+    },
+    {
+      "name": "Bomber Crew Announce Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256693184/movie.293x165.jpg?t=1506426173",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/537800/118962/a4935c62f0e8920bb791060e0787ad967960b411/1750547646/dash_h264.mpd?t=1506426173"
+    },
+    {
+      "name": "Meet the Bomber Crew",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256696552/movie.293x165.jpg?t=1506426184",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/537800/125052/a78ee4bd9aa01b4a517704d26c80b45630d6eb97/1750547693/dash_h264.mpd?t=1506426184"
+    },
+    {
+      "name": "5 Things You Absolutely Must Not Do",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256697405/movie.293x165.jpg?t=1507304838",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/537800/126788/063ff190c02568673be44aeee1a9aaeb3a0052f4/1750547695/dash_h264.mpd?t=1507304838"
+    }
+  ],
+  "metacritic": {
+    "score": 75,
+    "url": "https://www.metacritic.com/game/pc/bomber-crew?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 537800,
+    "store_url": "https://store.steampowered.com/app/537800/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "World War II",
+      "Simulation",
+      "Management",
+      "Strategy",
+      "Flight",
+      "Singleplayer",
+      "War",
+      "Indie",
+      "Difficult",
+      "Survival",
+      "Action",
+      "Military",
+      "Casual",
+      "Roguelike",
+      "Cartoony",
+      "Perma Death",
+      "3D",
+      "Roguelite",
+      "Cute",
+      "Atmospheric"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 13505,
+    "review_negative": 1906,
+    "review_total": 15411,
+    "review_positive_percent": 87.63
+  }
+}

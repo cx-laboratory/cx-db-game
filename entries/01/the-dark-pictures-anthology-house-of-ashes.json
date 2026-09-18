@@ -1,0 +1,192 @@
+{
+  "key": "the-dark-pictures-anthology-house-of-ashes",
+  "name": "The Dark Pictures Anthology: House of Ashes",
+  "description": "At the close of the Iraq War, Special Forces hunting for weapons of mass destruction unearth something far deadlier – a buried Sumerian temple containing a nest of unearthly creatures. To survive the night below, they must forge a brotherhood with their enemies from the world above.",
+  "developers": [
+    "Supermassive Games"
+  ],
+  "publishers": [
+    "BANDAI NAMCO Entertainment Europe"
+  ],
+  "release_date": "2021-10-22",
+  "website": "https://www.thedarkpictures.com/",
+  "tags": [
+    "adventure",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "split-screen"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "arabic",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "koreana": "더 다크 픽처스 앤솔로지: 하우스 오브 애쉬",
+    "schinese": "黑相集：灰冥界",
+    "tchinese": "黑相集：灰冥界"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "HouseOfAshes.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "HouseOfAshes.exe",
+          "description": "The Dark Pictures Anthology: House of Ashes (DX12)",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "HouseOfAshes/Saved/SaveGames",
+          "pattern": "OptionSettings.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "HouseOfAshes/Saved/SaveGames",
+          "pattern": "SP*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "HouseOfAshes/Saved/SaveGames",
+          "pattern": "MP*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "HouseOfAshes/Saved/SaveGames",
+          "pattern": "PP*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "HouseOfAshes/Saved/SaveGames",
+          "pattern": "ST*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The Dark Pictures Anthology: House of Ashes",
+    "HouseOfAshes",
+    "더 다크 픽처스 앤솔로지: 하우스 오브 애쉬",
+    "黑相集：灰冥界"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1281590/1d506f35aef4da7596f333d5b542698a1308cc42.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281590/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281590/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281590/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281590/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281590/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281590/ss_747813f37cfd42799d3a0ce7f352de0b4b204ab6.1920x1080.jpg?t=1728912876"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281590/ss_aa6a8603ec8356d9145e263c366bf07f5661a217.1920x1080.jpg?t=1728912876"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281590/ss_9a6c1e00bb61bffcef91124f777ce35403c6de6a.1920x1080.jpg?t=1728912876"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281590/ss_db6ef3ad5088d8aff008c12833de4eb6125118bd.1920x1080.jpg?t=1728912876"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281590/ss_bef18fb66b6e11c0c5ca5f52f1741cda2e9c21b3.1920x1080.jpg?t=1728912876"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281590/ss_10a765ea92269ef5da6aa8c435d512043c03e335.1920x1080.jpg?t=1728912876"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281590/ss_6c384f6b37151f7fe7d9fe5aa43ac55be103d104.1920x1080.jpg?t=1728912876"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281590/ss_040ec91d46863fb975154e57773a80669d7c1e93.1920x1080.jpg?t=1728912876"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281590/ss_57334a2e3a5ba0be157e885e4c24b76b24dc8723.1920x1080.jpg?t=1728912876"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281590/ss_714263c48d39f27097b3f0ae9f33769e3d268280.1920x1080.jpg?t=1728912876"
+    }
+  ],
+  "videos": [
+    {
+      "name": "[ESRB] The Dark Pictures Anthology House of Ashes - Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256866364/movie.293x165.jpg?t=1640266639",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1281590/426908/f9c5b7fcc717ae1c0923dd7e8cc1380b89043a2f/1750662242/dash_h264.mpd?t=1640266639"
+    },
+    {
+      "name": "[ESRB] House of Ashes - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256858670/movie.293x165.jpg?t=1637169441",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1281590/414000/95ffdff44d5a41f96d0e1793f678fbbc839b0adb/1750662229/dash_h264.mpd?t=1637169441"
+    },
+    {
+      "name": "ESRB The Dark Pictures Anthology - House of Ashes Announce Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256839064/movie.293x165.jpg?t=1623786302",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1281590/377460/fd5ea433e2b31627ec4dd25d9e088a6d3fab741c/1750662168/dash_h264.mpd?t=1623786302"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1281590,
+    "store_url": "https://store.steampowered.com/app/1281590/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 9548,
+    "review_negative": 1195,
+    "review_total": 10743,
+    "review_positive_percent": 88.88
+  }
+}

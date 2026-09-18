@@ -1,0 +1,197 @@
+{
+  "key": "melatonin",
+  "name": "Melatonin",
+  "description": "Melatonin is a rhythm game about dreams and reality merging together. It uses animations and sound cues to keep you on beat without any intimidating overlays or interfaces. Harmonize through a variety of dreamy levels containing surprising challenges, hand-drawn art, and vibrant music.",
+  "developers": [
+    "Half Asleep"
+  ],
+  "publishers": [
+    "Half Asleep"
+  ],
+  "release_date": "2022-12-16",
+  "website": "https://www.halfasleep.games/melatonin",
+  "tags": [
+    "action",
+    "indie",
+    "rhythm",
+    "cute",
+    "hand-drawn",
+    "colorful",
+    "relaxing",
+    "music",
+    "2d",
+    "singleplayer",
+    "surreal",
+    "cozy",
+    "puzzle",
+    "great-soundtrack",
+    "arcade",
+    "score-attack",
+    "comedy",
+    "controller",
+    "music-based-procedural-generation",
+    "difficult"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English*",
+    "French*",
+    "German*",
+    "Japanese*",
+    "Korean*",
+    "Portuguese - Brazil*",
+    "Simplified Chinese*",
+    "Spanish - Latin America*",
+    "Traditional Chinese*",
+    "Vietnamese**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Melatonin.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": ".",
+          "pattern": "*.json",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Melatonin.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": ".",
+          "pattern": "*.json",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Melatonin",
+    "Melatonin.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1585220/53c0beac793fc749e9a7a51c677e274b6c8c1699.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585220/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585220/820798ca3351d3654cd3128c487b9967121ea1ec/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585220/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585220/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585220/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585220/ss_a556d9ce0a51e0245391ebe7b899804392c36be0.1920x1080.jpg?t=1745444179"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585220/ss_3d3dfb1e10ab6c6ae11e7f1002b89f3353344ca7.1920x1080.jpg?t=1745444179"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585220/ss_e2b8065eb4f6ad6517f4a2358684fb7a0a61da1c.1920x1080.jpg?t=1745444179"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585220/ss_1789d5b44849f117532b0dbd2288482298a9777a.1920x1080.jpg?t=1745444179"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585220/ss_f24cf6fe64fc644e0cccc9c0b1b5f1a900199d56.1920x1080.jpg?t=1745444179"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585220/ss_c5fcc80c3f321b0cfa3500ab224f2abebeecc1a3.1920x1080.jpg?t=1745444179"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585220/ss_264c0320b771ea4d002f765dec9b60f9367368a6.1920x1080.jpg?t=1745444179"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585220/ss_3f2dbc8f0e0b84701448e4324ee50f926f941155.1920x1080.jpg?t=1745444179"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256922033/155baf55ab7db5cd2732c56c3e8ed7ca73d75095/movie_600x337.jpg?t=1739227096",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1585220/523681/a8faca3eac0fdc592ecb8156e868e451bb4133fe/1750707149/dash_h264.mpd?t=1739227096"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1585220,
+    "store_url": "https://store.steampowered.com/app/1585220/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Workshop",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Keyboard Only Option",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Includes level editor",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Rhythm",
+      "Indie",
+      "Cute",
+      "Hand-drawn",
+      "Colorful",
+      "Relaxing",
+      "Music",
+      "2D",
+      "Singleplayer",
+      "Action",
+      "Surreal",
+      "Cozy",
+      "Puzzle",
+      "Great Soundtrack",
+      "Arcade",
+      "Score Attack",
+      "Comedy",
+      "Controller",
+      "Music-Based Procedural Generation",
+      "Difficult"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7638,
+    "review_negative": 461,
+    "review_total": 8099,
+    "review_positive_percent": 94.31
+  }
+}

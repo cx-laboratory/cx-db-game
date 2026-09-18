@@ -1,0 +1,131 @@
+{
+  "key": "resident-evil",
+  "name": "Resident Evil",
+  "description": "The game that defined the survival-horror genre is back! Check out the remastered HD version of Resident Evil.",
+  "developers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "publishers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "release_date": "2015-01-20",
+  "website": "http://www.residentevil.com/",
+  "tags": [
+    "action",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "japanese": "biohazard HD REMASTER",
+    "koreana": "biohazard HD REMASTER"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "bhd.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Resident Evil",
+    "bhd",
+    "biohazard HD REMASTER"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/304240/a60a960c76f26ab81773d4f2d372836db37a0012.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304240/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304240/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304240/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304240/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304240/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304240/ss_d75906451d3a57bb8fc65fdea7ce09fbf1d3b726.1920x1080.jpg?t=1768956401"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304240/ss_d27983bb8176325d81cf0ca83dfb30ec247e6f23.1920x1080.jpg?t=1768956401"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304240/ss_ea73c8a2900d3954fac684104167a6a1eb778026.1920x1080.jpg?t=1768956401"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304240/ss_2ad5847f8eb39c09187dfafc240bfd821d50a8ba.1920x1080.jpg?t=1768956401"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304240/ss_8ff9a328bbfa668034356554ceb3d29a7dc7262f.1920x1080.jpg?t=1768956401"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304240/ss_063bf03851cd3e8bc9746fb4735e1aed2c3843c2.1920x1080.jpg?t=1768956401"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304240/ss_a7885d2ba6ca01343d4b58bfe10b74efabaa7eb7.1920x1080.jpg?t=1768956401"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304240/ss_f962f2ae74d759e6b99c6e7627e36a630a086abd.1920x1080.jpg?t=1768956401"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gameplay Trailer (ESRB)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2034311/movie.293x165.jpg?t=1447363519",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/304240/24847/a7a573fb1675f6265b9ea5a13c0421e5800bdc54/1750504044/dash_h264.mpd?t=1447363519"
+    },
+    {
+      "name": "Gameplay Trailer 2 (ESRB)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2035986/movie.293x165.jpg?t=1447365690",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/304240/28339/70e33d1a58daa4ad61fb745618a8702b2097d954/1750504102/dash_h264.mpd?t=1447365690"
+    }
+  ],
+  "metacritic": {
+    "score": 82,
+    "url": "https://www.metacritic.com/game/pc/resident-evil-hd-remaster?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 304240,
+    "store_url": "https://store.steampowered.com/app/304240/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 32644,
+    "review_negative": 2729,
+    "review_total": 35373,
+    "review_positive_percent": 92.29
+  }
+}

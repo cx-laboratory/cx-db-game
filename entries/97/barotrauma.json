@@ -1,0 +1,318 @@
+{
+  "key": "barotrauma",
+  "name": "Barotrauma",
+  "description": "Barotrauma is a 2D co-op submarine simulator – in space, with survival horror and RPG elements. Steer your submarine, complete missions, fight monsters, fix leaks, operate machinery, man the guns and craft items, and stay alert: danger in Barotrauma doesn’t announce itself!",
+  "developers": [
+    "FakeFish"
+  ],
+  "publishers": [
+    "Daedalic Entertainment"
+  ],
+  "release_date": "2023-03-14",
+  "website": "http://barotraumagame.com/",
+  "tags": [
+    "action",
+    "indie",
+    "simulation",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "survival",
+    "submarine",
+    "horror",
+    "2d",
+    "underwater",
+    "sci-fi",
+    "management",
+    "difficult",
+    "moddable",
+    "gore",
+    "violent",
+    "singleplayer",
+    "naval"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Spanish - Spain",
+    "Polish",
+    "Spanish - Latin America",
+    "Turkish",
+    "Japanese",
+    "Korean"
+  ],
+  "name_localized": {
+    "schinese": "Barotrauma 潜渊症"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Barotrauma.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "open_bonus_win.bat",
+          "description": "Bonus Content",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Daedalic Entertainment GmbH/Barotrauma/",
+          "pattern": "*.save",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Daedalic Entertainment GmbH/Barotrauma/Multiplayer/",
+          "pattern": "*.save",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Daedalic Entertainment GmbH/Barotrauma/Multiplayer/",
+          "pattern": "*.xml",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Barotrauma.app",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "open_bonus_osx.sh",
+          "description": "Bonus Content",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Daedalic Entertainment GmbH/Barotrauma/",
+          "pattern": "*.save",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Daedalic Entertainment GmbH/Barotrauma/Multiplayer/",
+          "pattern": "*.save",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Daedalic Entertainment GmbH/Barotrauma/Multiplayer/",
+          "pattern": "*.xml",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "./Barotrauma",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "open_bonus_lin.sh",
+          "description": "Bonus Content",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Daedalic Entertainment GmbH/Barotrauma/",
+          "pattern": "*.save",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Daedalic Entertainment GmbH/Barotrauma/Multiplayer/",
+          "pattern": "*.save",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Daedalic Entertainment GmbH/Barotrauma/Multiplayer/",
+          "pattern": "*.xml",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Barotrauma",
+    "open_bonus_win.bat",
+    "Barotrauma.app",
+    "open_bonus_osx.sh",
+    "./Barotrauma",
+    "open_bonus_lin.sh",
+    "Barotrauma 潜渊症"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/602960/a0adb0f29ce819c6dffa32446624fb7648defc5a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/ss_cdf5cbde141fb93a0b23c6adca5378f73e1beeca.1920x1080.jpg?t=1776271911"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/ss_3f76fab8878cc134ec1e0032ab91797eed96722d.1920x1080.jpg?t=1776271911"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/ss_c56f6f41ab1ec9f98bd449fa7167ec3456dcd306.1920x1080.jpg?t=1776271911"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/ss_0158c673e50cf77c4f94e1fa75ae3fddd5629dd3.1920x1080.jpg?t=1776271911"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/ss_af8b85b25acb48ffaab395f668366f60eeb38a03.1920x1080.jpg?t=1776271911"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/ss_99e0455cbbf263fe6a900f11890519b3f340ffa3.1920x1080.jpg?t=1776271911"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/ss_d07c6f1d856892c4f68e77668f9ddfb0194ddbc1.1920x1080.jpg?t=1776271911"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/ss_fb6118fed55a2f3a21abfd377318f375f0503d45.1920x1080.jpg?t=1776271911"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/ss_8628ebdd260370fbaca27c1857f852a84719403a.1920x1080.jpg?t=1776271911"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/ss_c8981179f796ee409114b19ba553cdfbe5aee149.1920x1080.jpg?t=1776271911"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/ss_e90d75e5b722707d823af77ef4e57ecd63636c03.1920x1080.jpg?t=1776271911"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/ss_0be5d4e2e871297b4665b6646da6644ae3689885.1920x1080.jpg?t=1776271911"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/ss_3fc54df037fd5c2ce38f677bbcba47697db0c074.1920x1080.jpg?t=1776271911"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/ss_8c87a2d899b5430aa739ae7d08a0f0eb0bf3ab28.1920x1080.jpg?t=1776271911"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/ss_aee1152277915b2afe7d13c839108a88094b307b.1920x1080.jpg?t=1776271911"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Expansion_Gameplaytrailer_EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257320283/473b7c719208ebc8bec1bd08079eebdc3ae377fe/movie_600x337.jpg?t=1776271909",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/602960/122416453/2cfdc855c4253c784c00a96ecad737a80f5d4790/1776271293/dash_h264.mpd?t=1776271909"
+    },
+    {
+      "name": "UntoTheBreach_EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257067392/3e271601bb7cbd532b9dfb7046c562e522e6f696/movie_600x337.jpg?t=1729607776",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/602960/775513/4b1efbeb3cacfb0c9ba5ac97e7f14d63df7079da/1750561007/dash_h264.mpd?t=1729607776"
+    },
+    {
+      "name": "ReleaseTrailer_EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256935385/movie.293x165.jpg?t=1678723260",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/602960/547622/efdd19a5fda14b1db9a22924e168b32692aece93/1750560980/dash_h264.mpd?t=1678723260"
+    },
+    {
+      "name": "FeatureTrailer1.0_EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256935387/movie.293x165.jpg?t=1678723270",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/602960/547627/40b17eceb55f0ecc08e63cfe29ce720c408bba6f/1750561001/dash_h264.mpd?t=1678723270"
+    },
+    {
+      "name": "MakingOf_EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256934995/movie.293x165.jpg?t=1678479947",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/602960/546955/79a12e531c4eb88c53937a8d06b62a9df33b2b0c/1750560973/dash_h264.mpd?t=1678479947"
+    }
+  ],
+  "metacritic": {
+    "score": 81,
+    "url": "https://www.metacritic.com/game/pc/barotrauma?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 602960,
+    "store_url": "https://store.steampowered.com/app/602960/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Includes level editor",
+      "Family Sharing",
+      "Steam Timeline"
+    ],
+    "tags": [
+      "Co-op",
+      "Multiplayer",
+      "Survival",
+      "Submarine",
+      "Survival Horror",
+      "Horror",
+      "2D",
+      "Underwater",
+      "Simulation",
+      "Sci-fi",
+      "Management",
+      "Strategy",
+      "Action",
+      "Difficult",
+      "Moddable",
+      "Gore",
+      "Violent",
+      "Singleplayer",
+      "Naval",
+      "Psychological Horror"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 82459,
+    "review_negative": 5243,
+    "review_total": 87702,
+    "review_positive_percent": 94.02
+  }
+}

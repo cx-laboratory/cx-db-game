@@ -1,0 +1,240 @@
+{
+  "key": "total-war-rome-remastered",
+  "name": "Total War: ROME REMASTERED",
+  "description": "Total War: ROME REMASTERED lets you relive the legacy that defined the award-winning strategy game series. Remastered to 4K with multiple improvements to visuals as well as refinements to gameplay, it’s time to revisit a true classic. Not everyone gets a second chance to conquer the Roman Empire.",
+  "developers": [
+    "Creative Assembly"
+  ],
+  "publishers": [
+    "SEGA"
+  ],
+  "release_date": "2021-04-29",
+  "website": "https://store.romeremastered.totalwar.com",
+  "tags": [
+    "strategy",
+    "multiplayer",
+    "grand-strategy",
+    "turn-based-strategy",
+    "rome",
+    "action",
+    "rts",
+    "4x",
+    "real-time-tactics",
+    "wargame",
+    "historical",
+    "diplomacy",
+    "tactical",
+    "war",
+    "singleplayer",
+    "turn-based-combat",
+    "turn-based-tactics",
+    "remake",
+    "medieval",
+    "classic"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "russian"
+  ],
+  "name_localized": {
+    "schinese": "全面战争：罗马 重制版",
+    "tchinese": "全軍破敵：羅馬－重製版",
+    "koreana": "토탈워: 로마 리마스터"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Total War ROME REMASTERED.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "launcher/launcher.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "MacAppSupport",
+          "path": "Feral Interactive/Total War ROME REMASTERED/VFS/Local/",
+          "pattern": "*.sav",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Feral Interactive/Total War ROME REMASTERED/VFS/Local/",
+          "pattern": "*.rpy",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Total War ROME REMASTERED.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "MacAppSupport",
+          "path": "Feral Interactive/Total War ROME REMASTERED/VFS/Local/",
+          "pattern": "*.sav",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Feral Interactive/Total War ROME REMASTERED/VFS/Local/",
+          "pattern": "*.rpy",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Total War ROME REMASTERED.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "MacAppSupport",
+          "path": "Feral Interactive/Total War ROME REMASTERED/VFS/Local/",
+          "pattern": "*.sav",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Feral Interactive/Total War ROME REMASTERED/VFS/Local/",
+          "pattern": "*.rpy",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Total War: ROME REMASTERED",
+    "Total War ROME REMASTERED",
+    "launcher/launcher",
+    "Total War ROME REMASTERED.app",
+    "Total War ROME REMASTERED.sh",
+    "全面战争：罗马 重制版",
+    "全軍破敵：羅馬－重製版",
+    "토탈워: 로마 리마스터"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/885970/1e55ca21a5d86233ddca8dc0976b3093b0e09997.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885970/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885970/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885970/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885970/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885970/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885970/ss_94607ef2db813d4f5c493ec57ff631a8327b00ef.1920x1080.jpg?t=1763643817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885970/ss_b6eb84ba1301caa65a5ffccc568c0cd0c5fe80f0.1920x1080.jpg?t=1763643817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885970/ss_6db1660ca0f4429fd8027669136a01949171063d.1920x1080.jpg?t=1763643817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885970/ss_5c1fc7e99a02b0fbe62dce2a2b935a56dd0dd41b.1920x1080.jpg?t=1763643817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885970/ss_5e6c6227f94fc4cf355f840afa5dd8ead7f0e792.1920x1080.jpg?t=1763643817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885970/ss_95c6bbd982f918198e01d461b5f118701af5316d.1920x1080.jpg?t=1763643817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885970/ss_3b3dee2de239282ce762fdd743886fc668c87e2c.1920x1080.jpg?t=1763643817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885970/ss_66d5365cb43aaf265d1596007fd19e8256f8e90b.1920x1080.jpg?t=1763643817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885970/ss_1e290f9839c139afd77235f754f94d8123127713.1920x1080.jpg?t=1763643817"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Quality of Life ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256832203/movie.293x165.jpg?t=1619626985",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/885970/364972/ccf06f3ea571d0503b44e79aee8f80501939f1ad/1750593556/dash_h264.mpd?t=1619626985"
+    },
+    {
+      "name": "Announcement Trailer - Unrated",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256826176/movie.293x165.jpg?t=1616684454",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/885970/354538/195333acd75617d2225e7d38a1763682ae75b8ae/1750593554/dash_h264.mpd?t=1616684454"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 885970,
+    "store_url": "https://store.steampowered.com/app/885970/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "Grand Strategy",
+      "Turn-Based Strategy",
+      "Rome",
+      "Action",
+      "RTS",
+      "4X",
+      "Real Time Tactics",
+      "Wargame",
+      "Historical",
+      "Diplomacy",
+      "Tactical",
+      "War",
+      "Multiplayer",
+      "Singleplayer",
+      "Turn-Based Combat",
+      "Turn-Based Tactics",
+      "Remake",
+      "Medieval",
+      "Classic"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 10387,
+    "review_negative": 3119,
+    "review_total": 13506,
+    "review_positive_percent": 76.91
+  }
+}

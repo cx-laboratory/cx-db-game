@@ -1,0 +1,155 @@
+{
+  "key": "we-happy-few",
+  "name": "We Happy Few",
+  "description": "From the independent studio that brought you Contrast, We Happy Few is an action/adventure game set in a drug-fuelled, retrofuturistic city in an alternative 1960s England. Hide, fight and conform your way out of this delusional, Joy-obsessed world.",
+  "developers": [
+    "Compulsion Games"
+  ],
+  "publishers": [
+    "Gearbox Publishing"
+  ],
+  "release_date": "2018-08-10",
+  "website": "http://wehappyfewgame.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "GlimpseGame/Binaries/Win64/GlimpseGame.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "GlimpseGame/Binaries/Mac/GlimpseGame-Mac-Shipping.app/Contents/MacOS/GlimpseGame-Mac-Shipping",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "GlimpseGame.sh",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "We Happy Few",
+    "GlimpseGame/Binaries/Win64/GlimpseGame",
+    "GlimpseGame/Binaries/Mac/GlimpseGame-Mac-Shipping.app/Contents/MacOS/GlimpseGame-Mac-Shipping",
+    "GlimpseGame.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/320240/1b2b2b9f9c1b5bd690530b8cc7ffc0931b475725.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320240/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320240/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320240/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320240/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320240/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320240/ss_f7fc9f2b450f683e373236076cdf66095a93779b.1920x1080.jpg?t=1776349170"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320240/ss_aa92ec09d1195bffd80c773f18af98a8f3e2e874.1920x1080.jpg?t=1776349170"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320240/ss_60663a0b8de69db565ebad93f73a679bb4c5be2d.1920x1080.jpg?t=1776349170"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320240/ss_ea0097672eeea7cb65f09e9fe2ffc75c0ccf0a35.1920x1080.jpg?t=1776349170"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320240/ss_9ea7c0685abc1d4161dd3e7798bdb92a7a84d100.1920x1080.jpg?t=1776349170"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Accolades Trailer ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256726268/movie.293x165.jpg?t=1534783491",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/320240/180106/80dc84454276535f30b1d9988e630eecd07d842a/1750507540/dash_h264.mpd?t=1534783491"
+    },
+    {
+      "name": "Story Trailer ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256721026/movie.293x165.jpg?t=1530026527",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/320240/170219/979084f4fb72d8ff4ef8aff38226938d2d091b48/1750507491/dash_h264.mpd?t=1530026527"
+    },
+    {
+      "name": "ABC Trailer ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256722876/movie.293x165.jpg?t=1531863679",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/320240/173655/35fc82e2b04f2097bc7110c7e996d4dc2c71765e/1750507526/dash_h264.mpd?t=1531863679"
+    },
+    {
+      "name": "Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256693011/movie.293x165.jpg?t=1524863355",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/320240/118619/eb58eb584183797b6a45ba9e173e3ed8d4351758/1750507480/dash_h264.mpd?t=1524863355"
+    }
+  ],
+  "metacritic": {
+    "score": 62,
+    "url": "https://www.metacritic.com/game/pc/we-happy-few?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 320240,
+    "store_url": "https://store.steampowered.com/app/320240/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 10552,
+    "review_negative": 3188,
+    "review_total": 13740,
+    "review_positive_percent": 76.8
+  }
+}

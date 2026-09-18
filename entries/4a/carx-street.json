@@ -1,0 +1,232 @@
+{
+  "key": "carx-street",
+  "name": "CarX Street",
+  "description": "Conquer mountain roads, highways, and city streets. Build your dream car with detailed tuning that unleashes the potential of “CarX Technology”© physics. Take part in thrilling races, enjoying realistic gameplay and dynamic driving.",
+  "developers": [
+    "CarX Technologies, LLC"
+  ],
+  "publishers": [
+    "CarX Technologies, LLC"
+  ],
+  "release_date": "2024-08-29",
+  "website": "http://carx-online.com",
+  "tags": [
+    "massively-multiplayer",
+    "racing",
+    "simulation",
+    "sports",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "open-world",
+    "automobile-sim",
+    "driving",
+    "sandbox",
+    "exploration",
+    "third-person",
+    "first-person",
+    "atmospheric",
+    "action",
+    "arcade",
+    "3d",
+    "physics",
+    "controller",
+    "6dof"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "russian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "CarX Street Launcher.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "CarX Street Launcher.exe",
+          "description": "Play: DirectX 11 (stable)",
+          "type": "default"
+        },
+        {
+          "executable": "CarX Street Launcher.exe",
+          "description": "Play: DirectX 12 (experimental)",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "eac_launcher.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "eac_launcher",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "CarX Street",
+    "CarX Street Launcher",
+    "eac_launcher.app",
+    "eac_launcher"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1114150/ddd89c7a09fa18c0384fb8ebeaa1231d50adf284.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/3e0e5f9e624ae3da8d842ab74892e8a052546173/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/63b5965463281efe01c2474666b61bf1429f311d/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/530c444aeeaf51ca2955b430799fe32b2caeffe3/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/4db8c8aaa0183b224c2e3feb48f6f2a4e91a67f1/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/d403e8e4c8e2c8200381f5e6b2d481ded14a6036/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/ss_aeca664e5f2ca98825effbdeb2fc8e7b54309f7b.1920x1080.jpg?t=1781850542"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/ss_5138b3aae3d3d90cb2d71710bc24ddac8376e8a0.1920x1080.jpg?t=1781850542"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/ss_49ee0fafff2741b959f67f4942d8b3d924f321b9.1920x1080.jpg?t=1781850542"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/ss_cc648ec81eb8aba77271576b155a46cb71eb51b6.1920x1080.jpg?t=1781850542"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/ss_d7f45d7688a5e240387db0b2364fa8776d9281fe.1920x1080.jpg?t=1781850542"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/ss_e9e78b5622dedb5fb59ba2201c44638da46f1b54.1920x1080.jpg?t=1781850542"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/ss_663188e3aa23971ab79b10b42d1631108e7a95a8.1920x1080.jpg?t=1781850542"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/ss_b6bd805861affe4e2f24de1b1a9f6f9cf120bee9.1920x1080.jpg?t=1781850542"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/ss_f7f0a87c6638601e1aa3dc7b634e594fc6c04988.1920x1080.jpg?t=1781850542"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/ss_5333dc08a83fa1fffc01d99dc3cc30063fdb6159.1920x1080.jpg?t=1781850542"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/ss_98a9426c1becb6e71fbebd7df06c3236e561f03e.1920x1080.jpg?t=1781850542"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/ss_f9b93333f07a5877d9839c5e432773f4b519bce3.1920x1080.jpg?t=1781850542"
+    }
+  ],
+  "videos": [
+    {
+      "name": "CarX Street PC - Official Gameplay Trailer #2",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257150831/8b5599bd06ae78de6edd7540f180ebd58ef3adcf/movie_600x337.jpg?t=1749031378",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1114150/1338298028/ba86dc524cdb70e63aef3b1d1757e54ba30a0554/1750621899/dash_h264.mpd?t=1749031378"
+    },
+    {
+      "name": "CarX Street PC - Official Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257049968/fdc155f2a9fac868e1abe86fbd48129df73e31d9/movie_600x337.jpg?t=1738570587",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1114150/746864/24f9f3d76ef195b39d3d55d5938cb13e7d5dfd33/1750621861/dash_h264.mpd?t=1738570587"
+    },
+    {
+      "name": "CarX Street PC - Official Winter Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257083599/f79fc857f92125538193ff4762c7a823c2f19229/movie_600x337.jpg?t=1738327332",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1114150/802499/9b7067e6f9eba391f4e6cca040684afc69ad7573/1750621868/dash_h264.mpd?t=1738327332"
+    },
+    {
+      "name": "CarX Street PC - Official Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257046431/movie.293x165.jpg?t=1723711742",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1114150/740769/a73956c314afbae72729b614421685b515e08e46/1750621838/dash_h264.mpd?t=1723711742"
+    },
+    {
+      "name": "CarX Street - Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257042209/movie.293x165.jpg?t=1723711975",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1114150/733579/77d645ad804754fd4b28f785371f79713e6cbfeb/1750621837/dash_h264.mpd?t=1723711975"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1114150,
+    "store_url": "https://store.steampowered.com/app/1114150/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Massively Multiplayer",
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Full controller support",
+      "Captions available",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Keyboard Only Option",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Racing",
+      "Open World",
+      "Multiplayer",
+      "Automobile Sim",
+      "Driving",
+      "PvP",
+      "Sandbox",
+      "Simulation",
+      "Exploration",
+      "Sports",
+      "Third Person",
+      "Massively Multiplayer",
+      "First-Person",
+      "Atmospheric",
+      "Action",
+      "Arcade",
+      "3D",
+      "Physics",
+      "Controller",
+      "6DOF"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 13460,
+    "review_negative": 5551,
+    "review_total": 19011,
+    "review_positive_percent": 70.8
+  }
+}

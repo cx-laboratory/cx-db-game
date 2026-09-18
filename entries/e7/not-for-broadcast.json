@@ -1,0 +1,203 @@
+{
+  "key": "not-for-broadcast",
+  "name": "Not For Broadcast",
+  "description": "A new political Party has won a landslide in the General Election, and for some reason the editor at the news station you work at has done a runner. Now it’s up to you, the Janitor, to take over the editing booth in this tumultuous time - will you help the government, or stand in their way?",
+  "developers": [
+    "NotGames"
+  ],
+  "publishers": [
+    "tinyBuild"
+  ],
+  "release_date": "2022-01-26",
+  "website": "https://www.notforbroadcastgame.com/",
+  "tags": [
+    "adventure",
+    "indie",
+    "simulation",
+    "1980s",
+    "choices-matter",
+    "dystopian",
+    "fmv",
+    "dark-comedy",
+    "story-rich",
+    "multiple-endings",
+    "management",
+    "political-sim",
+    "interactive-fiction",
+    "political",
+    "choose-your-own-adventure",
+    "atmospheric",
+    "point-and-click",
+    "first-person",
+    "singleplayer",
+    "alternate-history"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Portuguese - Brazil",
+    "Russian*",
+    "Simplified Chinese**languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "不予播出 ( Not For Broadcast )"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "NotForBroadcast.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "NotGames/NotForBroadcast/Profiles",
+          "pattern": "*.json",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "NotGames/NotForBroadcast",
+          "pattern": "*.dat",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Not For Broadcast",
+    "NotForBroadcast",
+    "不予播出 ( Not For Broadcast )"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1147550/3dce2a893a46d945bae982d94920069dea4d1f02.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147550/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147550/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147550/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147550/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147550/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147550/ss_4ebe37776f49bed6d48a6fa66559d0d0b00fa582.1920x1080.jpg?t=1775228781"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147550/ss_153775df4b80769590a2ad7366bfcdf0cbaf05ab.1920x1080.jpg?t=1775228781"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147550/ss_ff7034a33c8dc1bbc25390118200c8c0991810fb.1920x1080.jpg?t=1775228781"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147550/ss_2d49f89d32002b982a3bc624fae0e26b2ed24fa7.1920x1080.jpg?t=1775228781"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147550/ss_e54fe0014f65e636d4ce07396d27f39af16fca99.1920x1080.jpg?t=1775228781"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147550/ss_b428bf40edb62ac939935d02a6f8e6e4ee29e39e.1920x1080.jpg?t=1775228781"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147550/ss_2d04fefc360051708a8b3e15098c0d0802283f84.1920x1080.jpg?t=1775228781"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147550/ss_bbd11defb3df426b4a47b07b0da0dd7c984e69a4.1920x1080.jpg?t=1775228781"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147550/ss_5375cf2cdde46ca9eabde8645fffbeeba7f0ec03.1920x1080.jpg?t=1775228781"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147550/ss_677fd8928981731387c3c0658ee77916898daf3b.1920x1080.jpg?t=1775228781"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147550/ss_1f934fa0cb12c7220ea94446b9ab31e845aed02a.1920x1080.jpg?t=1775228781"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147550/ss_13a4c773096f1e98e492a9c7a8fae257cb9d0562.1920x1080.jpg?t=1775228781"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147550/ss_50b5d6b7f08fa5d5d12d0e41f9bda4878c699b42.1920x1080.jpg?t=1775228781"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147550/ss_cdf9fbd2dafe63fb1a93a95cc18911f32343a407.1920x1080.jpg?t=1775228781"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147550/ss_6b4e435e950f2d3c36a9a82b7a88b1a2e51117af.1920x1080.jpg?t=1775228781"
+    }
+  ],
+  "videos": [
+    {
+      "name": "1.0 Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256870480/movie.293x165.jpg?t=1643131986",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1147550/434179/7bb8fd904567a1f544086fef76c2dd20a25d8318/1750628103/dash_h264.mpd?t=1643131986"
+    },
+    {
+      "name": "Not For Broadcast Controling The Broadcast",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256772241/movie.293x165.jpg?t=1578936264",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1147550/261517/d01a2dc157b45a96753f3feb0721f9ca56b06bf7/1750627868/dash_h264.mpd?t=1578936264"
+    }
+  ],
+  "metacritic": {
+    "score": 82,
+    "url": "https://www.metacritic.com/game/pc/not-for-broadcast?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1147550,
+    "store_url": "https://store.steampowered.com/app/1147550/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Adventure",
+      "1980s",
+      "Choices Matter",
+      "Dystopian ",
+      "FMV",
+      "Simulation",
+      "Dark Comedy",
+      "Story Rich",
+      "Multiple Endings",
+      "Management",
+      "Political Sim",
+      "Interactive Fiction",
+      "Political",
+      "Choose Your Own Adventure",
+      "Atmospheric",
+      "Point & Click",
+      "First-Person",
+      "Singleplayer",
+      "Alternate History",
+      "Indie"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 11741,
+    "review_negative": 770,
+    "review_total": 12511,
+    "review_positive_percent": 93.85
+  }
+}

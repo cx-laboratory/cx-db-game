@@ -1,0 +1,182 @@
+{
+  "key": "blazblue-centralfiction",
+  "name": "BlazBlue Centralfiction",
+  "description": "Combining a 2D fighting game with a visual novel, the BlazBlue series continues on with massive fan support! The latest installation, BlazBlue: Centralfiction, serves as the ending to the Azure Saga, revealing the hidden truth of the world!",
+  "developers": [
+    "Arc System Works"
+  ],
+  "publishers": [
+    "Arc System Works"
+  ],
+  "release_date": "2017-04-26",
+  "website": "http://www.h2interactive.co.kr/games/bbcf/pc/en/",
+  "tags": [
+    "action",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "fighting",
+    "anime",
+    "2d-fighter",
+    "great-soundtrack",
+    "visual-novel",
+    "story-rich",
+    "local-multiplayer",
+    "sexual-content",
+    "arcade",
+    "singleplayer",
+    "nudity",
+    "difficult",
+    "controller",
+    "cute",
+    "fantasy",
+    "competitive",
+    "esports",
+    "tutorial"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "koreana",
+    "schinese",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "schinese": "苍翼默示录：神观之梦"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "BBCF.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Save",
+          "pattern": "*.dat",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "BlazBlue Centralfiction",
+    "BBCF"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/586140/e513b2c0985e9bf6adc5c51ad0eb7ad46193d912.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586140/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586140/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586140/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586140/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586140/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586140/ss_fa0b6df2b7d2c545f4249a87d57e6e29cafa7c7b.1920x1080.jpg?t=1782337966"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586140/ss_3d9cb92143b3a9a5829ed512108b504f7c8a9b7f.1920x1080.jpg?t=1782337966"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586140/ss_066bddd9ba7113a6af9e63588190948405ce35f7.1920x1080.jpg?t=1782337966"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586140/ss_a46eeb88a011a2bf1ac78feb0405d9cf23b30b59.1920x1080.jpg?t=1782337966"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586140/ss_3aaf1aadcbc49d1e7b49a076f452b2286b890697.1920x1080.jpg?t=1782337966"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586140/ss_ae2611f967c45d963f192b04c5a557e591f94b93.1920x1080.jpg?t=1782337966"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586140/ss_6d91b62fd432eb01336817636aa01cb07615eb0a.1920x1080.jpg?t=1782337966"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586140/ss_41c5b0097459e365c096ade820d5c7171b691fd3.1920x1080.jpg?t=1782337966"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586140/ss_56c10a7f55316ed8f1c9363a197562baad109091.1920x1080.jpg?t=1782337966"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586140/ss_41f07a8683d7d890c88481fa4bbf5b21ce2f5203.1920x1080.jpg?t=1782337966"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586140/ss_b94a47fd7217eac94b62dada17101dbe40c1c78f.1920x1080.jpg?t=1782337966"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586140/ss_99b9f421c8702b416c00c29be5ab9e768c794902.1920x1080.jpg?t=1782337966"
+    }
+  ],
+  "videos": [
+    {
+      "name": "bbcf_cs_op",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256681810/movie.293x165.jpg?t=1492671590",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/586140/95499/ec7df1cab5a42e5a11487aacc1a33834187be0ae/1750556617/dash_h264.mpd?t=1492671590"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 586140,
+    "store_url": "https://store.steampowered.com/app/586140/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Fighting",
+      "Anime",
+      "2D Fighter",
+      "Action",
+      "Great Soundtrack",
+      "Visual Novel",
+      "Story Rich",
+      "Multiplayer",
+      "Local Multiplayer",
+      "Sexual Content",
+      "Arcade",
+      "Singleplayer",
+      "Nudity",
+      "Difficult",
+      "Controller",
+      "Cute",
+      "Fantasy",
+      "Competitive",
+      "eSports",
+      "Tutorial"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 11338,
+    "review_negative": 732,
+    "review_total": 12070,
+    "review_positive_percent": 93.94
+  }
+}

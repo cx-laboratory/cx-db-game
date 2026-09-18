@@ -1,0 +1,164 @@
+{
+  "key": "fps-chess",
+  "name": "FPS Chess",
+  "description": "Battle a friend in this fast paced 1v1 class-based first-person shooter. Chess takes a back-seat to FPS as you win duel after duel and capture the opponent's pieces until you've beaten their king and won the game.",
+  "developers": [
+    "Meta Fork"
+  ],
+  "publishers": [
+    "DigiPen Institute of Technology"
+  ],
+  "release_date": "2022-07-16",
+  "website": "",
+  "tags": [
+    "action",
+    "casual",
+    "strategy",
+    "free-to-play",
+    "multiplayer",
+    "pvp",
+    "lan-multiplayer",
+    "online-pvp",
+    "fps",
+    "shooter",
+    "board-game",
+    "tabletop",
+    "turn-based-strategy",
+    "3d",
+    "funny",
+    "chess",
+    "sports",
+    "first-person",
+    "local-multiplayer",
+    "family-friendly",
+    "stylized"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "FPSChess.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "FPSChess.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "FPSChess.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "FPS Chess",
+    "FPSChess",
+    "FPSChess.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2021910/e1508ba473fcaead2dd490776954e4d730a54aab.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2021910/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2021910/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2021910/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2021910/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2021910/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2021910/ss_6890e0b28900fed5354a15a9bba7a80f3f29b827.1920x1080.jpg?t=1782408187"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2021910/ss_6206085bc5bbe2396f7780e7716d94359bfec9aa.1920x1080.jpg?t=1782408187"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2021910/ss_4b1721914418e267894b75d38be9b731a0fbea19.1920x1080.jpg?t=1782408187"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2021910/ss_defa92d74734c13a4e7ffef3851f20d500dffddf.1920x1080.jpg?t=1782408187"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2021910/ss_57ab565defe1b18a25c3c8991b2ec0260521c374.1920x1080.jpg?t=1782408187"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Steam Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256892974/movie.293x165.jpg?t=1656018876",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2021910/473845/97de6a735fc522c5d04ce0592f62cea6fa425c83/1751068368/dash_h264.mpd?t=1656018876"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2021910,
+    "store_url": "https://store.steampowered.com/app/2021910/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Casual",
+      "Strategy",
+      "Free To Play"
+    ],
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Shared/Split Screen PvP",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "FPS",
+      "PvP",
+      "Free to Play",
+      "Multiplayer",
+      "Shooter",
+      "Board Game",
+      "Strategy",
+      "Tabletop",
+      "Turn-Based Strategy",
+      "3D",
+      "Funny",
+      "Psychological Horror",
+      "Chess",
+      "Sports",
+      "First-Person",
+      "Action",
+      "Casual",
+      "Local Multiplayer",
+      "Family Friendly",
+      "Stylized"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 36253,
+    "review_negative": 6840,
+    "review_total": 43093,
+    "review_positive_percent": 84.13
+  }
+}

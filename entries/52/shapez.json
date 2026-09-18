@@ -1,0 +1,215 @@
+{
+  "key": "shapez",
+  "name": "shapez",
+  "description": "shapez is an easy-going, minimalistic factory building game about the automation of shapes through extraction and satisfying production lines. Adapt to increasingly complex shapes and grow your factory across an infinitely expanding map. Your only limitation is your creativity!",
+  "developers": [
+    "Tobias Springer"
+  ],
+  "publishers": [
+    "tobspr Games"
+  ],
+  "release_date": "2020-06-07",
+  "website": "https://shapez.io",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "strategy",
+    "automation",
+    "base-building",
+    "resource-management",
+    "sandbox",
+    "crafting",
+    "singleplayer",
+    "management",
+    "building",
+    "open-world",
+    "2d",
+    "puzzle",
+    "moddable",
+    "abstract",
+    "logic",
+    "procedural-generation",
+    "family-friendly"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "schinese"
+  ],
+  "name_localized": {
+    "schinese": "异形工厂（Shapez）",
+    "sc_schinese": "图形工厂"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "shapezio.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "shapez.app/Contents/MacOS/shapezio",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "play.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "shapez",
+    "shapezio",
+    "shapez.app/Contents/MacOS/shapezio",
+    "play.sh",
+    "异形工厂（Shapez）",
+    "图形工厂"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1318690/974fc8a55e4191dfb390f59a24cb2f1900393533.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318690/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318690/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318690/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318690/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318690/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318690/ss_ee76fa2e3259ab077b8a711b394cf6668d4ec93a.1920x1080.jpg?t=1776950267"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318690/ss_13235b05cdd091dc835c68419fa440e6bbfd5114.1920x1080.jpg?t=1776950267"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318690/ss_61485350ef27278b9986c183c6c31f1054a7a328.1920x1080.jpg?t=1776950267"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318690/ss_c29698e5ed36295747bc6a6aec94a8ddcc0896ee.1920x1080.jpg?t=1776950267"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318690/ss_72e11e9a4f32d1f9d464322698a29f8d8e3cd610.1920x1080.jpg?t=1776950267"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318690/ss_745de21042356e854b505f5c6d117a9975c5850f.1920x1080.jpg?t=1776950267"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318690/ss_36db98483820927d22c12361afe32262030bf839.1920x1080.jpg?t=1776950267"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318690/ss_c5dfe9bfe62ed66ea74df0cd73d0709edd5f9a0d.1920x1080.jpg?t=1776950267"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318690/ss_ae0b0a2881a3e383490b713f5930584000920193.1920x1080.jpg?t=1776950267"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318690/ss_b6790c51cc24865faed6e02c86c479f4c8ae6088.1920x1080.jpg?t=1776950267"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318690/ss_aebe262b458927b6c43f76608b1ad53cd7096e17.1920x1080.jpg?t=1776950267"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318690/ss_93efbcea3e54c837f290b2293c10715d7839d69a.1920x1080.jpg?t=1776950267"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318690/ss_e0f7da9f2b4e77278c74e724032c922b77fa44f7.1920x1080.jpg?t=1776950267"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318690/ss_c64adcc25c3935b343b2a6c63e1bad55c7e7a0f5.1920x1080.jpg?t=1776950267"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318690/ss_bff03f5015869dd98d298bbe67b7de02a2cf91a5.1920x1080.jpg?t=1776950267"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Main V2",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256838241/movie.293x165.jpg?t=1623328630",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1318690/376085/42e20c29bd8b62ab0347cdf48e3e033f018d5c68/1750671895/dash_h264.mpd?t=1623328630"
+    },
+    {
+      "name": "Secondary EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256887059/movie.293x165.jpg?t=1652825506",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1318690/463871/07415942ad6a79f2708066362e02985b4b077fd6/1750671905/dash_h264.mpd?t=1652825506"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1318690,
+    "store_url": "https://store.steampowered.com/app/1318690/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Keyboard Only Option",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Subtitle Options",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Automation",
+      "Base Building",
+      "Resource Management",
+      "Sandbox",
+      "Crafting",
+      "Strategy",
+      "Singleplayer",
+      "Management",
+      "Building",
+      "Open World",
+      "2D",
+      "Puzzle",
+      "Casual",
+      "Moddable",
+      "Simulation",
+      "Abstract",
+      "Logic",
+      "Procedural Generation",
+      "Indie",
+      "Family Friendly"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 14972,
+    "review_negative": 633,
+    "review_total": 15605,
+    "review_positive_percent": 95.94
+  }
+}

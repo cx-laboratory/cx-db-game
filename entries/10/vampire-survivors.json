@@ -1,0 +1,246 @@
+{
+  "key": "vampire-survivors",
+  "name": "Vampire Survivors",
+  "description": "Mow down thousands of night creatures and survive until dawn! Vampire Survivors is a gothic horror casual game with rogue-lite elements, where your choices can allow you to quickly snowball against the hundreds of monsters that get thrown at you. Be the bullet hell!",
+  "developers": [
+    "poncle"
+  ],
+  "publishers": [
+    "poncle"
+  ],
+  "release_date": "2022-10-21",
+  "website": "",
+  "tags": [
+    "action",
+    "casual",
+    "indie",
+    "rpg",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "action-roguelike",
+    "bullet-hell",
+    "vampires",
+    "roguelite",
+    "pixel-graphics",
+    "2d",
+    "singleplayer",
+    "arcade",
+    "roguelike",
+    "local-multiplayer",
+    "controller",
+    "score-attack",
+    "retro",
+    "dark-fantasy",
+    "action-rpg"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "turkish",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "Vampire Survivors - 吸血鬼幸存者"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "VampireSurvivors.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "resources/app/.webpack/renderer/",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Vampire_Survivors/saves/",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Vampire_Survivors_Data/",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Vampire_Survivors_{Steam3AccountID}/",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Vampire_Survivors.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "resources/app/.webpack/renderer/",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Vampire_Survivors/saves/",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Vampire_Survivors_Data/",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Vampire_Survivors_{Steam3AccountID}/",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Vampire Survivors",
+    "VampireSurvivors",
+    "Vampire_Survivors.app",
+    "Vampire Survivors - 吸血鬼幸存者"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1794680/3677cf1be3be1f4ea42261c62ce10519715ade58.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/2ca07b690dde645771125ed9d9206c4c5fde4dd4/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/6f2de6d6936990a96ab082be0b89136d137df13e/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/96947acc36ca29e24084ffb5858062d478c2ce6b/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/f50a8281721dd42e725ad6a191ceb5c293957518/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_6c55afe36be2a7784bf18cb9b3218321ae2d10e5.1920x1080.jpg?t=1781096909"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_6105ad3d6af52593c31d915bf39e91512611ea8e.1920x1080.jpg?t=1781096909"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_054159adc52856d066d48bda02866da524c43439.1920x1080.jpg?t=1781096909"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_01ec75b8055dbaa6895a0be127508ff569917a1e.1920x1080.jpg?t=1781096909"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_bf22b444801d96026863fcf284f9f93441354035.1920x1080.jpg?t=1781096909"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_bea7831ae00c044d9cd31c3f8e0fee766b4fe1c6.1920x1080.jpg?t=1781096909"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_3e82b3bdc06e40b15252490c25a9afe09a086fdf.1920x1080.jpg?t=1781096909"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Refreshed Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256964120/movie.293x165.jpg?t=1692280956",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1794680/598026/b3a9771de005c30237b53d84932fd2e792f298c0/1750736849/dash_h264.mpd?t=1692280956"
+    },
+    {
+      "name": "October 2022 - v1.0 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256911886/movie.293x165.jpg?t=1692280960",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1794680/506558/874007c71ce5016cc31f727f76b7afa65892fc61/1750736849/dash_h264.mpd?t=1692280960"
+    },
+    {
+      "name": "December 2021 - Early Access Release",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256858285/movie.293x165.jpg?t=1692280964",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1794680/413338/72939a7061f8b8d3373466cfe6a266673e9aa823/1750736849/dash_h264.mpd?t=1692280964"
+    }
+  ],
+  "metacritic": {
+    "score": 86,
+    "url": "https://www.metacritic.com/game/pc/vampire-survivors?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1794680,
+    "store_url": "https://store.steampowered.com/app/1794680/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Bullet Hell",
+      "Vampires",
+      "Roguelite",
+      "Pixel Graphics",
+      "2D",
+      "Indie",
+      "Singleplayer",
+      "Casual",
+      "Arcade",
+      "Roguelike",
+      "Action",
+      "Local Co-Op",
+      "RPG",
+      "Controller",
+      "Score Attack",
+      "Retro",
+      "Dark Fantasy",
+      "Action RPG",
+      "Co-op"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 259267,
+    "review_negative": 4394,
+    "review_total": 263661,
+    "review_positive_percent": 98.33
+  }
+}

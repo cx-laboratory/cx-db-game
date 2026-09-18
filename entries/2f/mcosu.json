@@ -1,0 +1,176 @@
+{
+  "key": "mcosu",
+  "name": "McOsu",
+  "description": "A free open-source circle-clicking rhythm game practice client for osu! beatmaps with Virtual Reality support. McOsu is developed separately from and has no direct affiliation with osu! or ppy Pty Ltd.",
+  "developers": [
+    "McKay"
+  ],
+  "publishers": [
+    "McKay"
+  ],
+  "release_date": "2017-03-21",
+  "website": "https://github.com/McKay42/McOsu",
+  "tags": [
+    "indie",
+    "rhythm",
+    "free-to-play",
+    "anime",
+    "music",
+    "vr",
+    "difficult",
+    "great-soundtrack",
+    "singleplayer",
+    "multiplayer",
+    "2d",
+    "fps",
+    "sexual-content",
+    "horror",
+    "gore"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "McEngine.exe",
+          "description": "",
+          "type": "vr"
+        },
+        {
+          "executable": "McEngine_dx11.exe",
+          "description": "on Desktop",
+          "type": "option2"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "McEngine",
+          "description": "on Desktop",
+          "type": "option3"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "McEngine",
+          "description": "on Desktop",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "McOsu",
+    "McEngine",
+    "McEngine_dx11"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/607260/41eb330acbd8e63a3ea51eeae605b562b57309b9.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607260/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607260/4ab067e9d89edbe8c31d3b9ebdac2a8fe177d8d0/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607260/7ca2089f164856d2fd0fc9016a293700c422d8c5/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607260/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607260/f782c333f3258a9bd3470cd1af961e82aa3954a1/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607260/ss_102d7a1a8d2ca47d447fa859a2ef215e43fc31be.1920x1080.jpg?t=1746483689"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607260/ss_9c843e13564779a157d3ee8de68b8047520d0715.1920x1080.jpg?t=1746483689"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607260/ss_60f008234c8c53b878652ffd58c1448e9c1c9591.1920x1080.jpg?t=1746483689"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607260/ss_f0708685b6559a3ce9b578397cd08ae40b8445ce.1920x1080.jpg?t=1746483689"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607260/ss_bb6f1b669607f2f0f2f10747f019d9e3f0c5e925.1920x1080.jpg?t=1746483689"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607260/ss_fd95a840baee763960b863e174297b7553870580.1920x1080.jpg?t=1746483689"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607260/ss_d1b261cbbddd91387209b1ec2f992517717f8a1d.1920x1080.jpg?t=1746483689"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607260/ss_29dc4525fb217042f970b34363547506e02cd20a.1920x1080.jpg?t=1746483689"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607260/ss_42a700614e3cac9a018666e5a4173a0717ef5c88.1920x1080.jpg?t=1746483689"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607260/ss_b747fb9577d309012672849bc1f2d7024f5cabfa.1920x1080.jpg?t=1746483689"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607260/ss_48c9ed91b74dde3f390f35f71a0fa2cb8e30625d.1920x1080.jpg?t=1746483689"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gavin G - Reach Out [Cherry Blossom's Insane]",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256681175/movie.293x165.jpg?t=1490033936",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/607260/93944/15aa937e506ae87b8dbd3d6b55d074a2b4c1d4b7/1751123724/dash_h264.mpd?t=1490033936"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 607260,
+    "store_url": "https://store.steampowered.com/app/607260/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Tracked Controller Support",
+      "VR Supported",
+      "Steam Workshop",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Rhythm",
+      "Free to Play",
+      "Anime",
+      "Music",
+      "VR",
+      "Indie",
+      "Difficult",
+      "Great Soundtrack",
+      "Singleplayer",
+      "Psychological Horror",
+      "Multiplayer",
+      "2D",
+      "FPS",
+      "Sexual Content",
+      "Horror",
+      "Gore"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 5665,
+    "review_negative": 730,
+    "review_total": 6395,
+    "review_positive_percent": 88.58
+  }
+}

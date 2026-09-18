@@ -1,0 +1,192 @@
+{
+  "key": "staffer-case-a-supernatural-mystery-adventure",
+  "name": "Staffer Case: A Supernatural Mystery Adventure",
+  "description": "Staffer Case is a new sort of mystery game, asking players to find clues, arrange them into documents, and point out the contradictions between them to solve a series of murders. Each mystery unraveled leads you closer to the truth lying at the heart of each case!",
+  "developers": [
+    "Team Tetrapod"
+  ],
+  "publishers": [
+    "Team Tetrapod"
+  ],
+  "release_date": "2023-04-30",
+  "website": "https://www.tetrapod.company/",
+  "tags": [
+    "adventure",
+    "detective",
+    "story-rich",
+    "mystery",
+    "visual-novel",
+    "atmospheric",
+    "anime",
+    "strategy",
+    "crime",
+    "text-based",
+    "exploration",
+    "cartoony",
+    "puzzle",
+    "multiple-endings",
+    "gothic",
+    "cartoon",
+    "fantasy",
+    "thriller",
+    "episodic",
+    "funny"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "koreana",
+    "schinese",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "english": "Staffer Case: A Supernatural Mystery Adventure",
+    "japanese": "Staffer Case:超能力推理アドベンチャー",
+    "schinese": "Staffer Case - 异能缉凶",
+    "tchinese": "Staffer Case - 異能緝凶",
+    "koreana": "스테퍼 케이스: 초능력 추리 어드벤처"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "StafferCase.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Kniro/StafferCase/NaninovelData/Saves",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "com.Kniro.StafferCase",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "StafferCase.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Kniro/StafferCase/NaninovelData/Saves",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "com.Kniro.StafferCase",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Staffer Case: A Supernatural Mystery Adventure",
+    "StafferCase",
+    "StafferCase.app",
+    "Staffer Case:超能力推理アドベンチャー",
+    "Staffer Case - 异能缉凶",
+    "Staffer Case - 異能緝凶",
+    "스테퍼 케이스: 초능력 추리 어드벤처"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2128480/7f38e5cf7e2efa3785a1e81d18c7f6736a0fa6e6.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128480/7d81e31d9835d11618e47b0bfa4a1d80de1ac557/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128480/10d0f70c9552e429d19f79d13934dbaf0f07598a/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128480/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128480/6ac31e9599037d7e509661dccb2f26a8417b05f5/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128480/c1822291d45cb4b44ea850e31cb92e57e5b63efa/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128480/ss_3c4c15d025f430a2be1254064b93c5602f434f35.1920x1080.jpg?t=1763696817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128480/3a4a560c012f3b68248a12d71591f41c68213d77/ss_3a4a560c012f3b68248a12d71591f41c68213d77.1920x1080.jpg?t=1763696817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128480/6dd6f0aa56a23308da1379b1d6fafcf635ab1608/ss_6dd6f0aa56a23308da1379b1d6fafcf635ab1608.1920x1080.jpg?t=1763696817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128480/bf63ecda2a89a702af97004b695c5834b52f77ef/ss_bf63ecda2a89a702af97004b695c5834b52f77ef.1920x1080.jpg?t=1763696817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128480/ss_e3b737dde5164acdca1b283208d86c8ed45e30b4.1920x1080.jpg?t=1763696817"
+    }
+  ],
+  "videos": [
+    {
+      "name": "trailer_en",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257018826/movie.293x165.jpg?t=1714104518",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2128480/692384/7362c0032444ece1137db840a13a58a8247b913b/1751079614/dash_h264.mpd?t=1714104518"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2128480,
+    "store_url": "https://store.steampowered.com/app/2128480/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Detective",
+      "Story Rich",
+      "Mystery",
+      "Visual Novel",
+      "Atmospheric",
+      "Anime",
+      "Strategy",
+      "Crime",
+      "Text-Based",
+      "Exploration",
+      "Adventure",
+      "Cartoony",
+      "Puzzle",
+      "Multiple Endings",
+      "Gothic",
+      "Cartoon",
+      "Fantasy",
+      "Thriller",
+      "Episodic",
+      "Funny"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 3861,
+    "review_negative": 240,
+    "review_total": 4101,
+    "review_positive_percent": 94.15
+  }
+}

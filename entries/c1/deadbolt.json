@@ -1,0 +1,211 @@
+{
+  "key": "deadbolt",
+  "name": "DEADBOLT",
+  "description": "DEADBOLT is an extremely challenging stealth-action hybrid that allows you to take control of the reaper to quell the recent undead uprising.",
+  "developers": [
+    "Hopoo Games"
+  ],
+  "publishers": [
+    "Hopoo Games"
+  ],
+  "release_date": "2016-03-14",
+  "website": "http://playdeadbolt.com/",
+  "tags": [
+    "action",
+    "indie",
+    "stealth",
+    "pixel-graphics",
+    "great-soundtrack",
+    "2d",
+    "gore",
+    "difficult",
+    "singleplayer",
+    "side-scroller",
+    "vampires",
+    "shooter",
+    "atmospheric",
+    "violent",
+    "zombies",
+    "strategy",
+    "dark",
+    "platformer",
+    "horror",
+    "noir"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "deadbolt_game.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "deadbolt_game/",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "deadbolt_map_editor/",
+          "pattern": "*.nc",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "DEADBOLT.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "deadbolt_game/",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "deadbolt_map_editor/",
+          "pattern": "*.nc",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "run.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "deadbolt_game/",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "deadbolt_map_editor/",
+          "pattern": "*.nc",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "DEADBOLT",
+    "deadbolt_game",
+    "DEADBOLT.app",
+    "run.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/394970/c6f2bfdaf209918265a41081c769e5f1cb04f409.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394970/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394970/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394970/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394970/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394970/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394970/ss_2493823a6ca3ba88cadbeec3c623e58ccc93b662.1920x1080.jpg?t=1602283453"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394970/ss_a357729053dfe3ce0fa8f042482023f244d131c7.1920x1080.jpg?t=1602283453"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394970/ss_7f396e654f09ab19cd22c31ed1763134d4aadc73.1920x1080.jpg?t=1602283453"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394970/ss_0c897f3e5f675e2192f450d079e7582fc1751256.1920x1080.jpg?t=1602283453"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394970/ss_538ce191990d9e04ec1604ac6d9690d36cb3f99a.1920x1080.jpg?t=1602283453"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394970/ss_3bd7202cd75454ba923a3cbb43965850f7196335.1920x1080.jpg?t=1602283453"
+    }
+  ],
+  "videos": [
+    {
+      "name": "DEADBOLT Debut Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256659524/movie.293x165.jpg?t=1451954259",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/394970/49582/2d3cd8c1fb3aaf59df2b73dad5a9f402940237d3/1751275199/dash_h264.mpd?t=1451954259"
+    }
+  ],
+  "metacritic": {
+    "score": 76,
+    "url": "https://www.metacritic.com/game/pc/deadbolt?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 394970,
+    "store_url": "https://store.steampowered.com/app/394970/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Stealth",
+      "Pixel Graphics",
+      "Great Soundtrack",
+      "Indie",
+      "2D",
+      "Action",
+      "Gore",
+      "Difficult",
+      "Singleplayer",
+      "Side Scroller",
+      "Vampires",
+      "Shooter",
+      "Atmospheric",
+      "Violent",
+      "Zombies",
+      "Strategy",
+      "Dark",
+      "Platformer",
+      "Horror",
+      "Noir"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 5380,
+    "review_negative": 231,
+    "review_total": 5611,
+    "review_positive_percent": 95.88
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "key": "ixion",
+  "name": "IXION",
+  "description": "IXION is an unrelenting, city-building odyssey across the stars. As Administrator of the Tiqqun, DOLOS’ prototype space station, you are tasked with balancing preservation and exploration as you manage infrastructure, resources and crew. Can you keep the flame of humanity alight in the cold dark?",
+  "developers": [
+    "Bulwark Studios"
+  ],
+  "publishers": [
+    "Kasedo Games"
+  ],
+  "release_date": "2022-12-08",
+  "website": "http://dolos.org",
+  "tags": [
+    "indie",
+    "simulation",
+    "strategy",
+    "space",
+    "city-builder",
+    "survival",
+    "resource-management",
+    "colony-sim",
+    "base-building",
+    "building",
+    "exploration",
+    "choices-matter",
+    "atmospheric",
+    "economy",
+    "singleplayer",
+    "dark",
+    "management",
+    "rts",
+    "post-apocalyptic",
+    "difficult"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese"
+  ],
+  "name_localized": {
+    "schinese": "伊克西翁IXION"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Ixion.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BulwarkStudios/Ixion/Saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "IXION",
+    "Ixion",
+    "伊克西翁IXION"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1113120/fcb898c0c19a604cebf5bca7bf2deff8c52bf889.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_1e633861f899ece1221ce6da6c892a9a706ac359.1920x1080.jpg?t=1733140180"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_236f68d8b1a0c891b401689fcd0e9030f6550b74.1920x1080.jpg?t=1733140180"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_0302d226d4f0bbe6f2c732e7c5f642cc9d27350c.1920x1080.jpg?t=1733140180"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_5d9f0e595f6874d6237fcd28fa69b2c5549ed8f0.1920x1080.jpg?t=1733140180"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_70ca08c9126adcb2b8c0410b3462fcf46d269884.1920x1080.jpg?t=1733140180"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_ac7de417babf56f6d68a85a380c5ba714c70cd78.1920x1080.jpg?t=1733140180"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_197b73acb2316dd7289edd31024bba6b17375040.1920x1080.jpg?t=1733140180"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_c7afbe99cf5df9b5c3788dd3a667a794f765e42c.1920x1080.jpg?t=1733140180"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_70c8da23eb3690c2827e4e2911572d266dffe1be.1920x1080.jpg?t=1733140180"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_63cc14d3ec0cd538876ca75dc4d93b72c626d740.1920x1080.jpg?t=1733140180"
+    }
+  ],
+  "videos": [
+    {
+      "name": "IXION Release Trailer ENG",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256919888/movie.293x165.jpg?t=1670432582",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1113120/520107/4f3a51cc79a6d8f3d6f775a74060dfc625a70fb1/1750621006/dash_h264.mpd?t=1670432582"
+    },
+    {
+      "name": "IXION Update Trailer ENG",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256945383/movie.293x165.jpg?t=1683565247",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1113120/564979/05bd36de07cab1d6ec2752f842268b047f54a326/1750621097/dash_h264.mpd?t=1683565247"
+    },
+    {
+      "name": "IXION Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256873381/movie.293x165.jpg?t=1644920860",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1113120/439220/fc13cad74d53381908673151772b82607cacdece/1750620924/dash_h264.mpd?t=1644920860"
+    },
+    {
+      "name": "IXION Gameplay Teaser Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256847409/movie.293x165.jpg?t=1629891178",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1113120/393884/13dc272f37d2b7bdf96cd51c7ceb5e07a8bd8a15/1750620824/dash_h264.mpd?t=1629891178"
+    },
+    {
+      "name": "IXION Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256838280/movie.293x165.jpg?t=1623622006",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1113120/376141/daa5fa56ca04e97303e17ebee6c70cbd0f5ad983/1750620714/dash_h264.mpd?t=1623622006"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1113120,
+    "store_url": "https://store.steampowered.com/app/1113120/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Space",
+      "City Builder",
+      "Strategy",
+      "Survival",
+      "Resource Management",
+      "Colony Sim",
+      "Base Building",
+      "Building",
+      "Simulation",
+      "Exploration",
+      "Choices Matter",
+      "Atmospheric",
+      "Economy",
+      "Singleplayer",
+      "Dark",
+      "Management",
+      "RTS",
+      "Post-apocalyptic",
+      "Difficult",
+      "Indie"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 13716,
+    "review_negative": 3694,
+    "review_total": 17410,
+    "review_positive_percent": 78.78
+  }
+}

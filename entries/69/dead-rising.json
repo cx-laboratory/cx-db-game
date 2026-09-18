@@ -1,0 +1,110 @@
+{
+  "key": "dead-rising",
+  "name": "Dead Rising",
+  "description": "You are Frank West. A hard-edged photojournalist hellbent on investigating the mystery at Willamette Mall. It's swarming with zombies. You have 72 hours. Chop 'till you drop!",
+  "developers": [
+    "Capcom"
+  ],
+  "publishers": [
+    "Capcom"
+  ],
+  "release_date": "2016-09-14",
+  "website": "http://www.facebook.com/deadrising",
+  "tags": [
+    "action",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian",
+    "japanese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "DeadRising.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Dead Rising",
+    "DeadRising"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/427190/74ffef15e4897d294a86e5e33e7b427ce37f2219.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427190/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427190/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427190/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427190/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427190/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427190/ss_2b90e3b06b7958c7d0ae48a062822482952b9118.1920x1080.jpg?t=1768866595"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427190/ss_fd0d8599b19d41a0935518b63a4e99794e1e8f95.1920x1080.jpg?t=1768866595"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427190/ss_21b4e49b63eae0f5d676aa93f43279c86b323c05.1920x1080.jpg?t=1768866595"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427190/ss_70f2a9c19d43012ab8d4163be416ba12e46ac549.1920x1080.jpg?t=1768866595"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427190/ss_1a2a783901398a39be84cd84efa62da9fd050b41.1920x1080.jpg?t=1768866595"
+    }
+  ],
+  "videos": [
+    {
+      "name": "DR Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256670601/movie.293x165.jpg?t=1693277010",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/427190/72393/a8b38eb31fd1d74acbcec0ffe558705480ac01e0/1750529573/dash_h264.mpd?t=1693277010"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 427190,
+    "store_url": "https://store.steampowered.com/app/427190/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 6330,
+    "review_negative": 843,
+    "review_total": 7173,
+    "review_positive_percent": 88.25
+  }
+}

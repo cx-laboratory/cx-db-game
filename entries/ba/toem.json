@@ -1,0 +1,235 @@
+{
+  "key": "toem",
+  "name": "TOEM",
+  "description": "Set off on a delightful expedition and use your photographic eye to uncover the mysteries of the magical TOEM in this hand-drawn adventure game. Chat with quirky characters, solve their problems by snapping neat photos, and make your way through a relaxing landscape!",
+  "developers": [
+    "Something We Made"
+  ],
+  "publishers": [
+    "Something We Made"
+  ],
+  "release_date": "2021-09-17",
+  "website": "http://www.somethingwemade.se/toem",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "cozy",
+    "wholesome",
+    "puzzle",
+    "exploration",
+    "cute",
+    "relaxing",
+    "hand-drawn",
+    "photo-editing",
+    "hidden-object",
+    "funny",
+    "family-friendly",
+    "singleplayer",
+    "atmospheric",
+    "cartoon",
+    "music",
+    "soundtrack",
+    "stylized",
+    "nature"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "swedish",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "japanese": "TOEM（トーエム）"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "TOEM.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Something We Made\\TOEM\\Save",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "TOEM.app",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Something We Made\\TOEM\\Save",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "TOEM.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Something We Made\\TOEM\\Save",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "TOEM",
+    "TOEM.app",
+    "TOEM.x86_64",
+    "TOEM（トーエム）"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1307580/98afd67062fddd6635e4ece1e7b5f6c6d5a54386.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307580/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307580/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307580/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307580/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307580/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307580/ss_452053e6976add5d6690c6f5dc227d3fd4bda26d.1920x1080.jpg?t=1783015612"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307580/ss_3c5c560a2627d6d35f69a138ec3159517c662e44.1920x1080.jpg?t=1783015612"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307580/ss_88ec5d56ccceb942d8baa5f56481d254db78c398.1920x1080.jpg?t=1783015612"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307580/ss_dfeeaf5b6eb5d45930fc931edf83d450841e0c82.1920x1080.jpg?t=1783015612"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307580/ss_764193b7918c2da9db2122b4e8f361f1b7d33fc1.1920x1080.jpg?t=1783015612"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307580/ss_1470235b8fde34263724ecd3c632ccc733d47c21.1920x1080.jpg?t=1783015612"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307580/ss_a8ab79b9601df85482165c712b1842af8fb5829c.1920x1080.jpg?t=1783015612"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307580/ss_cd84bdb07d977d53a96a2df759eea04fcd3f37f6.1920x1080.jpg?t=1783015612"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256851407/movie.293x165.jpg?t=1683185928",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1307580/400938/ea2da2807661381ab725dfcb09f17704a256c5b9/1750671290/dash_h264.mpd?t=1683185928"
+    },
+    {
+      "name": "Fisherman's Tune Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256847470/movie.293x165.jpg?t=1683185935",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1307580/394071/571e0113641b9af8812a04760a5db377abf01d41/1750671284/dash_h264.mpd?t=1683185935"
+    },
+    {
+      "name": "Hop Skip Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256848166/movie.293x165.jpg?t=1683185942",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1307580/395289/a781d8a266be8d5abdbe3eb0d55d839bcd480cd1/1750671288/dash_h264.mpd?t=1683185942"
+    }
+  ],
+  "metacritic": {
+    "score": 79,
+    "url": "https://www.metacritic.com/game/pc/toem?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1307580,
+    "store_url": "https://store.steampowered.com/app/1307580/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Captions available",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Gamepad Recommended",
+      "Keyboard Only Option",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Cozy",
+      "Wholesome",
+      "Puzzle",
+      "Adventure",
+      "Exploration",
+      "Cute",
+      "Relaxing",
+      "Casual",
+      "Hand-drawn",
+      "Photo Editing",
+      "Hidden Object",
+      "Funny",
+      "Family Friendly",
+      "Singleplayer",
+      "Atmospheric",
+      "Cartoon",
+      "Music",
+      "Soundtrack",
+      "Stylized",
+      "Nature"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 11291,
+    "review_negative": 96,
+    "review_total": 11387,
+    "review_positive_percent": 99.16
+  }
+}

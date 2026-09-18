@@ -1,0 +1,170 @@
+{
+  "key": "the-elder-scrolls-online",
+  "name": "The Elder Scrolls Online",
+  "description": "Every legend starts somewhere and in The Elder Scrolls Online, it starts with you. Join millions of players in an online, fantasy RPG set in a vast living Elder Scrolls world.",
+  "developers": [
+    "ZeniMax Online Studios"
+  ],
+  "publishers": [
+    "Bethesda Softworks"
+  ],
+  "release_date": "2017-05-22",
+  "website": "http://www.elderscrollsonline.com",
+  "tags": [
+    "action",
+    "adventure",
+    "massively-multiplayer",
+    "rpg",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English*",
+    "French*",
+    "German*",
+    "Russian",
+    "Spanish - Spain",
+    "Simplified Chinese",
+    "Japanese**languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "《上古卷轴®OL》"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "zosSteamStarter.exe",
+          "description": "Launcher",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "The Elder Scrolls Online (Steam).app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "The Elder Scrolls Online",
+    "zosSteamStarter",
+    "The Elder Scrolls Online (Steam).app",
+    "《上古卷轴®OL》"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/306130/2a0f43963c08a3755682adb2369918c9ad07ef1b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/ec07d0bdeb484c72a88f6c4427871736d091c3fc/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/709104c8f18e2ec1948745345d7bfcb52611362c/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/a341a22e94cb7d883f7a5d26817eba9761c984f6/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/b981fd67fa6507400873a7712ddb7583a1da192e/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/b3e9c29c740b916e5fb903ba2cce2ff438243386/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/ss_2b797e150cbb9ad7eec9d9089e79df4adc21e797.1920x1080.jpg?t=1779374516"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/ss_ae00343059f2751a9bd1385383bc065d6d72a8df.1920x1080.jpg?t=1779374516"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/ss_5d7230643e643f1d1e87320f93edf109f91c2d6c.1920x1080.jpg?t=1779374516"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/ss_c21f3be1e15e5fcd0244c6857acd22d37b04d161.1920x1080.jpg?t=1779374516"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/ss_def2f4813a04b9ab7e8683e4dd9cfdd5326bdb2d.1920x1080.jpg?t=1779374516"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/ss_8782eebb5fc397cf245c7c366e898bf2ae26b1a0.1920x1080.jpg?t=1779374516"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Welcome to Seasons",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257315765/6c31bd37dd53719e3941a5114b7735acfe25d39a/movie_600x337.jpg?t=1775577632",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/306130/192050991/9655ddb44f2fcc72f4b4f9ced72a26de8a0afc8a/1775576450/dash_h264.mpd?t=1775577632"
+    },
+    {
+      "name": "This is ESO EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257150097/5bfd9249c16dcb55ca6bd849e73037e141cde3b3/movie_600x337.jpg?t=1748957096",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/306130/1858354082/f35fb5d0a549d83a2a0f73880eb7601947ecdeb2/1750504397/dash_h264.mpd?t=1748957096"
+    },
+    {
+      "name": "E3 2021 Sizzle Trailer EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256848720/movie.293x165.jpg?t=1748887242",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/306130/396046/40dda69ff1fbe5fdd92e673b9b8a8691fd2c30ce/1750504333/dash_h264.mpd?t=1748887242"
+    },
+    {
+      "name": "E3 2018 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256719936/movie.293x165.jpg?t=1748887248",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/306130/168430/f7294dd6572c681626badcfc932306a044954ef1/1750504332/dash_h264.mpd?t=1748887248"
+    },
+    {
+      "name": "Game Awards 2016 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256675687/movie.293x165.jpg?t=1748887252",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/306130/82449/0a85932f6ef633847ae0cde43619eb7853925759/1750504332/dash_h264.mpd?t=1748887252"
+    }
+  ],
+  "metacritic": {
+    "score": 80,
+    "url": "https://www.metacritic.com/game/pc/the-elder-scrolls-online-tamriel-unlimited?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 306130,
+    "store_url": "https://store.steampowered.com/app/306130/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Trading Cards",
+      "Captions available",
+      "In-App Purchases",
+      "Camera Comfort",
+      "Chat Text-to-speech",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Surround Sound",
+      "Partial Controller Support",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 130067,
+    "review_negative": 30591,
+    "review_total": 160658,
+    "review_positive_percent": 80.96
+  }
+}

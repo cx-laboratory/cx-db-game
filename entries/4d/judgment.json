@@ -1,0 +1,128 @@
+{
+  "key": "judgment",
+  "name": "Judgment",
+  "description": "Fight for the truth and uncover the twisted crime running deep beneath the surface of Tokyo. In this legal thriller , the balance between justice and mercy teeters on the edge.",
+  "developers": [
+    "RGG Studio"
+  ],
+  "publishers": [
+    "SEGA"
+  ],
+  "release_date": "2022-09-14",
+  "website": "https://yakuza.sega.com/judgment",
+  "tags": [
+    "action",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "japanese": "JUDGE EYES：死神の遺言Remastered",
+    "koreana": "저지 아이즈：사신의 유언 Remastered",
+    "tchinese": "審判之眼：死神的遺言 Remastered",
+    "schinese": "审判之眼：死神的遗言 Remastered"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "runtime\\media\\startup.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "runtime\\media\\startup.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Judgment",
+    "runtime\\media\\startup",
+    "JUDGE EYES：死神の遺言Remastered",
+    "저지 아이즈：사신의 유언 Remastered",
+    "審判之眼：死神的遺言 Remastered",
+    "审判之眼：死神的遗言 Remastered"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2058180/ac8a224f2701830963e7e1cf2495425867b78be7.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058180/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058180/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058180/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058180/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058180/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058180/ss_3ace0d9ef99534bcbb5a2b73f32826ab7b3bdc4e.1920x1080.jpg?t=1781263750"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058180/ss_fb45b4875cf5968d301c9a4cf73f4c7ecca7bead.1920x1080.jpg?t=1781263750"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058180/ss_d5454039965149a929abe0670d86597505e62a28.1920x1080.jpg?t=1781263750"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058180/ss_7e462b28818aea2faecc36cdfb2793040cf7592f.1920x1080.jpg?t=1781263750"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058180/ss_deb3a9df8c4fe7164e8f2d272960b5be7599007b.1920x1080.jpg?t=1781263750"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer (ESRB)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256901462/movie.293x165.jpg?t=1663160275",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2058180/488829/e218fbd8cbded8c1058644199d88f1b4e8ec24ae/1750745536/dash_h264.mpd?t=1663160275"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2058180,
+    "store_url": "https://store.steampowered.com/app/2058180/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 11157,
+    "review_negative": 706,
+    "review_total": 11863,
+    "review_positive_percent": 94.05
+  }
+}

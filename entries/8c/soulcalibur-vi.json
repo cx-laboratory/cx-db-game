@@ -1,0 +1,210 @@
+{
+  "key": "soulcalibur-vi",
+  "name": "SOULCALIBUR VI",
+  "description": "Bring more than your fists to the fight! Featuring all-new battle mechanics and characters, SOULCALIBUR VI marks a new era of the historic franchise. Welcome back to the stage of history!",
+  "developers": [
+    "BANDAI NAMCO Studios Inc."
+  ],
+  "publishers": [
+    "BANDAI NAMCO Entertainment"
+  ],
+  "release_date": "2018-10-19",
+  "website": "https://www.bandainamcoent.com/games/soulcalibur-vi",
+  "tags": [
+    "action",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "fighting",
+    "character-customization",
+    "fantasy",
+    "swordplay",
+    "3d-fighter",
+    "local-multiplayer",
+    "arcade",
+    "nudity",
+    "singleplayer",
+    "competitive",
+    "female-protagonist",
+    "great-soundtrack",
+    "medieval",
+    "anime",
+    "sexual-content",
+    "story-rich",
+    "beat-em-up",
+    "2d-fighter"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "tchinese",
+    "russian",
+    "japanese",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SoulcaliburVI/Binaries/Win64/SoulcaliburVI.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "SoulcaliburVI/Binaries/Win64/SoulcaliburVI.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "SoulcaliburVI/Binaries/Win64/SoulcaliburVI-Win64-Test.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "SoulcaliburVI/Saved/SaveGames/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "SOULCALIBUR VI",
+    "SoulcaliburVI/Binaries/Win64/SoulcaliburVI",
+    "SoulcaliburVI/Binaries/Win64/SoulcaliburVI-Win64-Test"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/544750/cd1c50031832faffeed43d3661a6093a00811c77.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544750/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544750/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544750/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544750/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544750/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544750/ss_38779cc03d7e37c2082d1c0e630107cf2ba61332.1920x1080.jpg?t=1718967845"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544750/ss_0a759f4027ad366646fac37399a04599e09c2040.1920x1080.jpg?t=1718967845"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544750/ss_d836fa92be989a5793793455d3723d025f860ff1.1920x1080.jpg?t=1718967845"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544750/ss_cbc118ee08695b438a37303fb0753df522687f6a.1920x1080.jpg?t=1718967845"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544750/ss_48d90ad60e5e2e46f8990896e622e40c1df1ad0d.1920x1080.jpg?t=1718967845"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544750/ss_7beaa34d62c37585b90a58a62919428673efb7ef.1920x1080.jpg?t=1718967845"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544750/ss_7afa4001cf72e793c38da6e3b5894d7e4169802a.1920x1080.jpg?t=1718967845"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544750/ss_2d52a52a3b8707159d51674f2449c614b7a48dcf.1920x1080.jpg?t=1718967845"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544750/ss_7889f8fcbae378a11934a23edde8bcb9e811930e.1920x1080.jpg?t=1718967845"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544750/ss_f8bde530e1e23138242b1675b41341d6a125a923.1920x1080.jpg?t=1718967845"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Souls & Swords Trailer (ESRB)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256807455/movie.293x165.jpg?t=1604033038",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/544750/323171/b883c3731a6313b7b492cf1ff677f32cf626cba8/1750548152/dash_h264.mpd?t=1604033038"
+    },
+    {
+      "name": "Spotlight Series (ESRB)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256809118/movie.293x165.jpg?t=1605366273",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/544750/325958/60a614ba60c17161f1d45d131547150010694dea/1750548166/dash_h264.mpd?t=1605366273"
+    },
+    {
+      "name": "Geralt Steam Trailer (ESRB)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256724280/movie.293x165.jpg?t=1534802478",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/544750/176143/9f990b7439fb802496df9134fdd688567139422b/1750548136/dash_h264.mpd?t=1534802478"
+    },
+    {
+      "name": "Story Trailer (ESRB)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256724435/movie.293x165.jpg?t=1534802495",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/544750/176419/843f77f02c858a3f765f99c7c29d953bf7999e66/1750548146/dash_h264.mpd?t=1534802495"
+    }
+  ],
+  "metacritic": {
+    "score": 80,
+    "url": "https://www.metacritic.com/game/pc/soulcalibur-vi?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 544750,
+    "store_url": "https://store.steampowered.com/app/544750/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Fighting",
+      "Action",
+      "Character Customization",
+      "Multiplayer",
+      "Fantasy",
+      "Swordplay",
+      "3D Fighter",
+      "Local Multiplayer",
+      "Arcade",
+      "Nudity",
+      "Singleplayer",
+      "Competitive",
+      "Female Protagonist",
+      "Great Soundtrack",
+      "Medieval",
+      "Anime",
+      "Sexual Content",
+      "Story Rich",
+      "Beat 'em up",
+      "2D Fighter"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 11772,
+    "review_negative": 2477,
+    "review_total": 14249,
+    "review_positive_percent": 82.62
+  }
+}

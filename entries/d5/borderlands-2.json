@@ -1,0 +1,210 @@
+{
+  "key": "borderlands-2",
+  "name": "Borderlands 2",
+  "description": "The Ultimate Vault Hunter’s Upgrade lets you get the most out of the Borderlands 2 experience.",
+  "developers": [
+    "Gearbox Software"
+  ],
+  "publishers": [
+    "2K"
+  ],
+  "release_date": "2012-09-17",
+  "website": "https://www.2k.com/en-US/game/borderlands-2/",
+  "tags": [
+    "action",
+    "rpg",
+    "multiplayer",
+    "co-op"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "tchinese",
+    "russian",
+    "japanese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Binaries\\Win32\\Launcher.exe",
+          "description": "Launcher",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Borderlands2.app",
+          "description": "Play the game",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "./Borderlands2",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Borderlands 2",
+    "Binaries\\Win32\\Launcher",
+    "Borderlands2.app",
+    "./Borderlands2"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/49520/a3f4945226e69b6196074df4c776e342d3e5a3be.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/ss_6734eaa79dcd0fe53971fbd50d20b5d0d45f4809.1920x1080.jpg?t=1751931279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/ss_2f27a18562fbf4a91943c3968b35db5ac1caf5ad.1920x1080.jpg?t=1751931279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/ss_c20610ab476bfe99172df77fe84f579d91e45a2b.1920x1080.jpg?t=1751931279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/ss_da8b3279d4ff979b99b3a417d21a097600729266.1920x1080.jpg?t=1751931279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/ss_44272f9763b856d66ce9a3a6269f4988f7af11fc.1920x1080.jpg?t=1751931279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/ss_8b1154bc507678f4a21fcc2d9083ef79a5db4e76.1920x1080.jpg?t=1751931279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/ss_3d8370934170622af4fcc8a3975f7be480b3d815.1920x1080.jpg?t=1751931279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/ss_da86d7794b10a6dc1a8386d2ed272492e2b5ee4a.1920x1080.jpg?t=1751931279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/ss_c6e7e913e86b23cb53e0d38ba0fec1fb04f18b27.1920x1080.jpg?t=1751931279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/ss_378b288247907070ce532314d54448f6a308f8ac.1920x1080.jpg?t=1751931279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/ss_77bbcd3a92c91d66af5430914cb3dc27801973f8.1920x1080.jpg?t=1751931279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/ss_65061d5b2cbba620eedb691d56590a3d993ff4bf.1920x1080.jpg?t=1751931279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/ss_83b2ac2a689d282f4a1239954bd9e87fc8c5b3bd.1920x1080.jpg?t=1751931279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/ss_a1fb810c08a4c479d8d80168693e924a794667d2.1920x1080.jpg?t=1751931279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/ss_c34e91f0085087edcdebd3a1cb9e005643d97e7e.1920x1080.jpg?t=1751931279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/ss_dc9311564dcc2e410707e5ea7a127425702785c8.1920x1080.jpg?t=1751931279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/ss_c2a8b676835a7012161a5740c5982e0e457ef11e.1920x1080.jpg?t=1751931279"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Borderlands 2: Game of the Year - Celebration Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2029699/movie.293x165.jpg?t=1447359143",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/49520/14309/9976a3c681fc1248de3e03b0b1cf37b868da5737/1750492460/dash_h264.mpd?t=1447359143"
+    },
+    {
+      "name": "Borderlands 2 Doomsday Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81881/movie.293x165.jpg?t=1447356293",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/49520/8406/d86540965a6f8e823e2fa612dfca0ed0c6adf72b/1750492438/dash_h264.mpd?t=1447356293"
+    },
+    {
+      "name": "Borderlands 2 Wimoweh Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81880/movie.293x165.jpg?t=1447356293",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/49520/8405/cef984c3b2a99073cc7c2d110691cc0e3aa8caf4/1750492437/dash_h264.mpd?t=1447356293"
+    },
+    {
+      "name": "Borderlands 2 - Captain Scarlett and her Pirate's Booty Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028076/movie.293x165.jpg?t=1447356968",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/49520/9605/1fbaa963d65675998ea68da98483e99506019828/1750492449/dash_h264.mpd?t=1447356968"
+    },
+    {
+      "name": "Borderlands 2: Mechromancer Pack Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028091/movie.293x165.jpg?t=1447356988",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/49520/9650/7261f60a5d5f0d42e8d99cdbd89d7b3c8e26a16b/1750492454/dash_h264.mpd?t=1447356988"
+    },
+    {
+      "name": "Borderlands 2: Mr. Torgue’s Campaign of Carnage Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028144/movie.293x165.jpg?t=1447357071",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/49520/9840/fd7ff05b605ac0bce0cf59788760500caa7b6b5a/1750492455/dash_h264.mpd?t=1447357071"
+    },
+    {
+      "name": "Borderlands 2: Sir Hammerlock's Big Game Hunt Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028299/movie.293x165.jpg?t=1447357285",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/49520/10320/16fc17453f907c67b0a9e440669a3d7eaf0ad2de/1750492458/dash_h264.mpd?t=1447357285"
+    }
+  ],
+  "metacritic": {
+    "score": 89,
+    "url": "https://www.metacritic.com/game/pc/borderlands-2?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 49520,
+    "store_url": "https://store.steampowered.com/app/49520/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 278717,
+    "review_negative": 32655,
+    "review_total": 311372,
+    "review_positive_percent": 89.51
+  }
+}

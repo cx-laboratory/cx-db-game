@@ -1,0 +1,243 @@
+{
+  "key": "total-war-warhammer",
+  "name": "Total War: WARHAMMER",
+  "description": "The Old World is yours to command. Lead Legendary Lords in a combination of turn-based campaign and magically charged, strategic real-time battles, and decide the fate of your chosen race in a fight against Chaos.",
+  "developers": [
+    "CREATIVE ASSEMBLY"
+  ],
+  "publishers": [
+    "SEGA"
+  ],
+  "release_date": "2016-05-24",
+  "website": "",
+  "tags": [
+    "action",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "rpg",
+    "simulation",
+    "4x",
+    "grand-strategy",
+    "strategy-rpg",
+    "rts",
+    "turn-based-strategy",
+    "real-time-tactics",
+    "tactical-rpg",
+    "dwarves",
+    "wargame",
+    "3d",
+    "demons",
+    "dark-fantasy",
+    "fantasy",
+    "lore-rich",
+    "magic",
+    "supernatural",
+    "tactical"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "polish",
+    "czech",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "全面战争：战锤",
+    "tchinese": "全軍破敵：戰鎚",
+    "koreana": "토탈워: 워해머"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "launcher/launcher.exe",
+          "description": "Launcher",
+          "type": "none"
+        },
+        {
+          "executable": "launcher/unsupported.exe",
+          "description": "Launch",
+          "type": "none"
+        },
+        {
+          "executable": "Warhammer.exe",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Total War Warhammer.app",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "TotalWarhammer.sh",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Total War: WARHAMMER",
+    "launcher/launcher",
+    "launcher/unsupported",
+    "Warhammer",
+    "Total War Warhammer.app",
+    "TotalWarhammer.sh",
+    "全面战争：战锤",
+    "全軍破敵：戰鎚",
+    "토탈워: 워해머"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/364360/918a2af60362c81e36dabb20bf99c4d1aea45ff8.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/364360/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/364360/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/364360/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/364360/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/364360/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/364360/c32522d9381a7f49a93316e4130b92e6331a5de1/ss_c32522d9381a7f49a93316e4130b92e6331a5de1.1920x1080.jpg?t=1780389642"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/364360/e48ed5907d27bf53220b31c849907b58c98700fc/ss_e48ed5907d27bf53220b31c849907b58c98700fc.1920x1080.jpg?t=1780389642"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/364360/ebabd245a98e18f349f80dbc776e0381b73f1a5c/ss_ebabd245a98e18f349f80dbc776e0381b73f1a5c.1920x1080.jpg?t=1780389642"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/364360/ss_8e269324ebfb94e64bd4937a284e1d170f8cfdea.1920x1080.jpg?t=1780389642"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/364360/ss_2bac98669658d79d19bffa1b4ce3fddb0f96e132.1920x1080.jpg?t=1780389642"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/364360/ss_5f63ca59389d935731b20f9b2596040a0d9392fc.1920x1080.jpg?t=1780389642"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/364360/ss_867a0cecae4422b3de4fb3f7c7715193d814336f.1920x1080.jpg?t=1780389642"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/364360/ss_d6bdffce07824b72b467d8abe7c1c64371ced823.1920x1080.jpg?t=1780389642"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/364360/ss_a1e89ee788a8eefbcda9d347c62e249534dbdb45.1920x1080.jpg?t=1780389642"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/364360/ss_4959f7022568001799bd3fb081a2429c364af83c.1920x1080.jpg?t=1780389642"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/364360/ss_15b6f0d0039e29d2c200687b92c996526fd5dcdb.1920x1080.jpg?t=1780389642"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/364360/ss_fa0a5cf935a02fe91f24295b3eba1b139259030e.1920x1080.jpg?t=1780389642"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/364360/ss_15c102e5ac8823cfd1a8716d8ba99e9f7845bc30.1920x1080.jpg?t=1780389642"
+    }
+  ],
+  "videos": [
+    {
+      "name": "What is Total War: WARHAMMER ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256664306/movie.293x165.jpg?t=1468591672",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/364360/59300/7acc3b30ec22b4b64e9ad82ad349baa62862a2d5/1750518720/dash_h264.mpd?t=1468591672"
+    }
+  ],
+  "metacritic": {
+    "score": 86,
+    "url": "https://www.metacritic.com/game/pc/total-war-warhammer?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 364360,
+    "store_url": "https://store.steampowered.com/app/364360/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Stereo Sound",
+      "Surround Sound",
+      "Family Sharing"
+    ],
+    "tags": [
+      "RPG",
+      "Strategy",
+      "Simulation",
+      "4X",
+      "Grand Strategy",
+      "Strategy RPG",
+      "RTS",
+      "Turn-Based Strategy",
+      "Real Time Tactics",
+      "Tactical RPG",
+      "Dwarves",
+      "Wargame",
+      "3D",
+      "Demons",
+      "Dark Fantasy",
+      "Fantasy",
+      "Lore-Rich",
+      "Magic",
+      "Supernatural",
+      "Tactical"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 41027,
+    "review_negative": 11239,
+    "review_total": 52266,
+    "review_positive_percent": 78.5
+  }
+}

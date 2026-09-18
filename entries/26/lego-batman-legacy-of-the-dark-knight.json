@@ -1,0 +1,243 @@
+{
+  "key": "lego-batman-legacy-of-the-dark-knight",
+  "name": "LEGO® Batman™: Legacy of the Dark Knight",
+  "description": "Rise as the Dark Knight and experience the essential Batman story in a bold, action-packed adventure with hard-hitting combat, an open-world Gotham City, and the signature LEGO charm that fans know and love.",
+  "developers": [
+    "TT Games"
+  ],
+  "publishers": [
+    "Warner Bros. Games"
+  ],
+  "release_date": "2026-05-23",
+  "website": "https://legobatmangame.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "multiplayer",
+    "co-op",
+    "split-screen",
+    "open-world",
+    "superhero",
+    "comic-book",
+    "action-adventure",
+    "funny",
+    "3d-platformer",
+    "third-person",
+    "local-multiplayer",
+    "controller",
+    "story-rich",
+    "family-friendly",
+    "singleplayer",
+    "parody",
+    "casual",
+    "combat",
+    "atmospheric"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "danish",
+    "dutch",
+    "arabic",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "french": "LEGO® Batman™ : L'Héritage du Chevalier Noir",
+    "italian": "LEGO® Batman™: L’eredità del Cavaliere oscuro",
+    "german": "LEGO® Batman™: Das Vermächtnis des Dunklen Ritters",
+    "spanish": "LEGO® Batman™: El Legado del Caballero Oscuro",
+    "latam": "LEGO® Batman™: El Legado del Caballero de la Noche",
+    "brazilian": "LEGO® Batman™: O Legado do Cavaleiro das Trevas",
+    "polish": "LEGO® Batman™: Dziedzictwo Mrocznego Rycerza",
+    "russian": "LEGO® Бэтмен™: Наследие Темного рыцаря",
+    "japanese": "レゴ®バットマン™：レガシー・オブ・ザ・ダークナイト",
+    "koreana": "LEGO® Batman™: 레거시 오브 더 다크나이트",
+    "schinese": "乐高®蝙蝠侠™：黑暗骑士之遗",
+    "tchinese": "LEGO® 蝙蝠俠™：黑暗騎士傳奇"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "LEGOBatmanLotDK.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Warner Bros. Interactive Entertainment/LEGO Batman - Legacy of the Dark Knight/SaveGames/steam/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "LEGO® Batman™: Legacy of the Dark Knight",
+    "LEGOBatmanLotDK",
+    "LEGO® Batman™ : L'Héritage du Chevalier Noir",
+    "LEGO® Batman™: L’eredità del Cavaliere oscuro",
+    "LEGO® Batman™: Das Vermächtnis des Dunklen Ritters",
+    "LEGO® Batman™: El Legado del Caballero Oscuro",
+    "LEGO® Batman™: El Legado del Caballero de la Noche",
+    "LEGO® Batman™: O Legado do Cavaleiro das Trevas",
+    "LEGO® Batman™: Dziedzictwo Mrocznego Rycerza",
+    "LEGO® Бэтмен™: Наследие Темного рыцаря",
+    "レゴ®バットマン™：レガシー・オブ・ザ・ダークナイト",
+    "LEGO® Batman™: 레거시 오브 더 다크나이트",
+    "乐高®蝙蝠侠™：黑暗骑士之遗",
+    "LEGO® 蝙蝠俠™：黑暗騎士傳奇"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2215200/a64c1259adee1067a23bbe29fade71b6fd0878d9.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215200/a07a9a6c0c9c1225f5b260b4f29fe40e6f099f6b/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215200/4933722fc48c284f30ea2d0f9eb932c0ab3de1b5/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215200/f40c725261e949ef758d80bb067d09794635927e/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215200/13de41454ce344b06e48991a665a45175c037522/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215200/e2aac8e90df903bb3e1fd3608aa1f206c23999fb/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215200/26d8ea3f288ffaa1fe9956620cbd920f10b171f4/ss_26d8ea3f288ffaa1fe9956620cbd920f10b171f4.1920x1080.jpg?t=1783025238"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215200/3c98a7a4d4624f8799d553a58fdb31d33ce1e494/ss_3c98a7a4d4624f8799d553a58fdb31d33ce1e494.1920x1080.jpg?t=1783025238"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215200/fdbad71e14ed79de392e8d4b3915d2bec2895dbb/ss_fdbad71e14ed79de392e8d4b3915d2bec2895dbb.1920x1080.jpg?t=1783025238"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215200/ce6fbdc2574a3c8119d4b6200a9728f0b0d10573/ss_ce6fbdc2574a3c8119d4b6200a9728f0b0d10573.1920x1080.jpg?t=1783025238"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215200/d8a37aef421cac8d67dbdf76f103b332d6040e4a/ss_d8a37aef421cac8d67dbdf76f103b332d6040e4a.1920x1080.jpg?t=1783025238"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215200/5f100b6c92ce7a0b860dea928bcdc9bc5b1676b4/ss_5f100b6c92ce7a0b860dea928bcdc9bc5b1676b4.1920x1080.jpg?t=1783025238"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215200/976fe59f0cb0b31d6f1fddd488c1a05742245bac/ss_976fe59f0cb0b31d6f1fddd488c1a05742245bac.1920x1080.jpg?t=1783025238"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215200/261056fb830839878fb4fcb8af6f5804e4bc6899/ss_261056fb830839878fb4fcb8af6f5804e4bc6899.1920x1080.jpg?t=1783025238"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257332595/0000daa059c2245d313df4d2cbc428f186b1d4bb/movie_600x337.jpg?t=1779469292",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2215200/2065567447/ede2da92d21e772c7b442d2c14a80ce8b2897abe/1779385649/dash_h264.mpd?t=1779469292"
+    },
+    {
+      "name": "Accolades Trailer ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257341796/f7649bbb2661308bb59684a0a22c830649ac1396/movie_600x337.jpg?t=1779499105",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2215200/994484613/1e7536c233faa620aeca11b7bf9f142c003b3189/1779498841/dash_h264.mpd?t=1779499105"
+    },
+    {
+      "name": "Deluxe Edition Trailer ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257335484/c4df5fb1dbc7095efea8fd606d15a59d4f13c374/movie_600x337.jpg?t=1779469296",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2215200/487452793/2f6bcf29cb01880cd0c361f1ebcff45ee01b4cfb/1779385559/dash_h264.mpd?t=1779469296"
+    },
+    {
+      "name": "Heroes & Villains Trailer ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257245341/aed3677ce0fa35d0ab357bcfcd93ea333848d0d1/movie_600x337.jpg?t=1779469298",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2215200/1581074056/ac9700c298f76515300f144d68b6ba2166eedbc1/1779384269/dash_h264.mpd?t=1779469298"
+    },
+    {
+      "name": "The Joker Cinematic Trailer ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257312235/f5cd7f6a7f46c7ae4ebcc9f7cf5e3c9b0786b5f5/movie_600x337.jpg?t=1779469300",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2215200/1013681407/9228aa67c94b38fa6d22b8eac2c40f31303799e5/1779383729/dash_h264.mpd?t=1779469300"
+    },
+    {
+      "name": "Building the Legacy ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257312293/00e3e0854dc6b3015c7777b1b150bcd3a5f289f2/movie_600x337.jpg?t=1779469303",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2215200/904580400/f64660fc7a8f7f18ec0c32ef5c2971379db4a1ef/1779381689/dash_h264.mpd?t=1779469303"
+    },
+    {
+      "name": "Reveal Trailer ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257312209/804ad940842907106cfca91802c4bf4d1926d984/movie_600x337.jpg?t=1779469305",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2215200/450685655/1ce33296802f5f051d2bd78d27993f7de1f97a5a/1779380849/dash_h264.mpd?t=1779469305"
+    }
+  ],
+  "metacritic": {
+    "score": 84,
+    "url": "https://www.metacritic.com/game/pc/lego-batman-legacy-of-the-dark-knight?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 2215200,
+    "store_url": "https://store.steampowered.com/app/2215200/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Gamepad Recommended",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Open World",
+      "Co-op",
+      "Superhero",
+      "Comic Book",
+      "Action",
+      "Action-Adventure",
+      "Funny",
+      "Multiplayer",
+      "3D Platformer",
+      "Third Person",
+      "Local Co-Op",
+      "Adventure",
+      "Controller",
+      "Story Rich",
+      "Family Friendly",
+      "Singleplayer",
+      "Parody ",
+      "Casual",
+      "Combat",
+      "Atmospheric"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 11620,
+    "review_negative": 498,
+    "review_total": 12118,
+    "review_positive_percent": 95.89
+  }
+}

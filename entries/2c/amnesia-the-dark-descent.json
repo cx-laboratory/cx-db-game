@@ -1,0 +1,212 @@
+{
+  "key": "amnesia-the-dark-descent",
+  "name": "Amnesia: The Dark Descent",
+  "description": "Amnesia: The Dark Descent, a first person survival horror. A game about immersion, discovery and living through a nightmare. An experience that will chill you to the core.",
+  "developers": [
+    "Frictional Games"
+  ],
+  "publishers": [
+    "Frictional Games"
+  ],
+  "release_date": "2010-09-09",
+  "website": "http://www.amnesiagame.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "horror",
+    "gore",
+    "atmospheric",
+    "puzzle",
+    "first-person",
+    "nudity",
+    "dark",
+    "lovecraftian",
+    "singleplayer",
+    "stealth",
+    "exploration",
+    "story-rich",
+    "walking-simulator",
+    "physics",
+    "surreal"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "russian",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Amnesia.exe",
+          "description": "Amnesia: The Dark Descent",
+          "type": "default"
+        },
+        {
+          "executable": "Launcher.exe",
+          "description": "Run Settings Launcher",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Amnesia.app",
+          "description": "Amnesia: The Dark Descent",
+          "type": "default"
+        },
+        {
+          "executable": "Launcher.app",
+          "description": "Run Settings Launcher",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Amnesia.bin.x86",
+          "description": "Amnesia: The Dark Descent",
+          "type": "default"
+        },
+        {
+          "executable": "Amnesia.bin.x86_64",
+          "description": "Amnesia: The Dark Descent",
+          "type": "default"
+        },
+        {
+          "executable": "Launcher.bin.x86",
+          "description": "Run Settings Launcher",
+          "type": "default"
+        },
+        {
+          "executable": "Launcher.bin.x86_64",
+          "description": "Run Settings Launcher",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Amnesia: The Dark Descent",
+    "Amnesia",
+    "Launcher",
+    "Amnesia.app",
+    "Launcher.app",
+    "Amnesia.bin.x86",
+    "Amnesia.bin.x86_64",
+    "Launcher.bin.x86",
+    "Launcher.bin.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/57300/2c08de657a8b273eeb55bb5bf674605ca023e381.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57300/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57300/ce0f84d25ace136096191d215a5d49c57d832999/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57300/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57300/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57300/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57300/ss_2bf5b6775bbc3857f0b607cb298885c5f3651556.1920x1080.jpg?t=1751032707"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57300/ss_db5cf1ca6aa0198d45b9ea892c202bd2bb451e74.1920x1080.jpg?t=1751032707"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57300/ss_b27b47bb43ebd1ab3b26e3d74cf2db088e928a6d.1920x1080.jpg?t=1751032707"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57300/ss_4efbef5937d9e1c74434f7a447dba6bc682e32cc.1920x1080.jpg?t=1751032707"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57300/ss_f05aa49adbc3fbd7f96ab079b4649259a4fb443e.1920x1080.jpg?t=1751032707"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57300/ss_fbf8289efe7ff6ce01d2e209f0300ecffb8fcfc4.1920x1080.jpg?t=1751032707"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Amnesia: The Dark Descent Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/901419/c870ca0a661b03c831272f8c91b4e0eeb4a7a218/movie_600x337.jpg?t=1751032704",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/57300/3336/b80d4106c7d44f52dd4cd016f291b1ede6ec511e/1750492460/dash_h264.mpd?t=1751032704"
+    }
+  ],
+  "metacritic": {
+    "score": 85,
+    "url": "https://www.metacritic.com/game/pc/amnesia-the-dark-descent?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 57300,
+    "store_url": "https://store.steampowered.com/app/57300/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Captions available",
+      "Includes level editor",
+      "Commentary available",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Horror",
+      "Gore",
+      "Psychological Horror",
+      "Survival Horror",
+      "Atmospheric",
+      "Puzzle",
+      "First-Person",
+      "Nudity",
+      "Dark",
+      "Lovecraftian",
+      "Adventure",
+      "Indie",
+      "Singleplayer",
+      "Stealth",
+      "Exploration",
+      "Action",
+      "Story Rich",
+      "Walking Simulator",
+      "Physics",
+      "Surreal"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 33562,
+    "review_negative": 1925,
+    "review_total": 35487,
+    "review_positive_percent": 94.58
+  }
+}

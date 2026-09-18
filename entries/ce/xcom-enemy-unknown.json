@@ -1,0 +1,221 @@
+{
+  "key": "xcom-enemy-unknown",
+  "name": "XCOM: Enemy Unknown",
+  "description": "The XCOM: Enemy Unknown - Slingshot Pack is Now Available!",
+  "developers": [
+    "Firaxis Games"
+  ],
+  "publishers": [
+    "2K"
+  ],
+  "release_date": "2012-10-09",
+  "website": "http://www.xcom.com/enemyunknown/",
+  "tags": [
+    "strategy",
+    "multiplayer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish"
+  ],
+  "name_localized": {
+    "schinese": "XCOM：未知敌人"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Binaries\\Win32\\XComGame.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/XCOM - Enemy Unknown/XComGame/SaveData",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/XCOM - Enemy Within/XComGame/SaveData",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "XCOM Enemy Unknown.app",
+          "description": "Mac Edition",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/XCOM - Enemy Unknown/XComGame/SaveData",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/XCOM - Enemy Within/XComGame/SaveData",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "xcom.sh",
+          "description": "XCOM Enemy Unknown",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/XCOM - Enemy Unknown/XComGame/SaveData",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/XCOM - Enemy Within/XComGame/SaveData",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "XCOM: Enemy Unknown",
+    "Binaries\\Win32\\XComGame",
+    "XCOM Enemy Unknown.app",
+    "xcom.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/200510/48be2fee1d0d511b5c7313e1359beafd36ea92ed.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/ss_12de960c8e7c85ea1d2a2ce935fd8e0d30f5532e.1920x1080.jpg?t=1777585174"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/ss_6d46d29e8bb4ef57a50dbed3defb4e3e1f929a98.1920x1080.jpg?t=1777585174"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/ss_584d579a3bd2af0cf0b2e3f6b8c4514f3592ab36.1920x1080.jpg?t=1777585174"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/ss_cbd85a3b0d58b5e7e9e5fafe53b5a25e8f960537.1920x1080.jpg?t=1777585174"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/ss_9005f53bb7bd8268b68a7d97538ddc1c139cef90.1920x1080.jpg?t=1777585174"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/ss_fd601be07f6dac1dacacc3818a4428a90ce2933b.1920x1080.jpg?t=1777585174"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/ss_9e6e5edfe27c4a85bb02b2034df392a638caf409.1920x1080.jpg?t=1777585174"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/ss_e172cdfe91081475887b1d248c06853961a4f192.1920x1080.jpg?t=1777585174"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/ss_f3962be23a093a7282f97680b605708de8f90edf.1920x1080.jpg?t=1777585174"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/ss_bc1d9b2d0bc55566f81d37b20928e48cbc1d769c.1920x1080.jpg?t=1777585174"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/ss_4bf506608db295053810bd434e7ac342292d97b4.1920x1080.jpg?t=1777585174"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/ss_927cd818d2670a7c56417524dbfd34ca696c8c2a.1920x1080.jpg?t=1777585174"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/ss_86f3b369e415034fd89638a751d0706a20518832.1920x1080.jpg?t=1777585174"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/ss_0bba0927a6627018890a51d73f04ab4f939f661b.1920x1080.jpg?t=1777585174"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/ss_94026340326a929b1dce2579117e37a68f137f68.1920x1080.jpg?t=1777585174"
+    }
+  ],
+  "videos": [
+    {
+      "name": "XCOM EU Last Stand Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/82000/movie.293x165.jpg?t=1447356566",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/200510/8910/8b0e4b2b726742d843d80933dc78ad40ff459395/1750492798/dash_h264.mpd?t=1447356566"
+    },
+    {
+      "name": "XCOM EU The Story Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/82073/movie.293x165.jpg?t=1447356787",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/200510/9322/d161e77572df3dbb4bed51391e9b53df0f8559ba/1750492799/dash_h264.mpd?t=1447356787"
+    },
+    {
+      "name": "XCOM EU The Base Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81999/movie.293x165.jpg?t=1447356565",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/200510/8909/b9aa8e26824b9fc3e404beb80a42be223001f540/1750492796/dash_h264.mpd?t=1447356565"
+    }
+  ],
+  "metacritic": {
+    "score": 89,
+    "url": "https://www.metacritic.com/game/pc/xcom-enemy-unknown?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 200510,
+    "store_url": "https://store.steampowered.com/app/200510/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 54381,
+    "review_negative": 3967,
+    "review_total": 58348,
+    "review_positive_percent": 93.2
+  }
+}

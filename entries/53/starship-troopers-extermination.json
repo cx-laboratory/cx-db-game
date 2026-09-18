@@ -1,0 +1,234 @@
+{
+  "key": "starship-troopers-extermination",
+  "name": "Starship Troopers: Extermination",
+  "description": "Starship Troopers: Extermination is a 16-player co-op FPS that puts you on the far-off frontlines of an all-out battle against the Bugs! Squad up, grab your rifle, and do your part as an elite Deep Space Vanguard Trooper to take back planets from the Arachnid threat!",
+  "developers": [
+    "Offworld"
+  ],
+  "publishers": [
+    "Offworld"
+  ],
+  "release_date": "2024-10-11",
+  "website": "https://starshiptroopersextermination.com/",
+  "tags": [
+    "action",
+    "indie",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "fps",
+    "sci-fi",
+    "first-person",
+    "combat",
+    "aliens",
+    "pve",
+    "arcade",
+    "wargame",
+    "shooter",
+    "space",
+    "base-building",
+    "class-based",
+    "arena-shooter",
+    "3d",
+    "realistic",
+    "singleplayer"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Yakisoba.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Yakisoba/Binaries/Win64/Yakisoba-Development.exe",
+          "description": "Development Executable",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Starship Troopers: Extermination",
+    "Yakisoba",
+    "Yakisoba/Binaries/Win64/Yakisoba-Development"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1268750/08325c6ba9b395a845173ae342a900184f897d0b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1268750/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1268750/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1268750/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1268750/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1268750/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1268750/316b281183e7aa7edf411d5ebe83ba85c238c328/ss_316b281183e7aa7edf411d5ebe83ba85c238c328.1920x1080.jpg?t=1782410397"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1268750/ss_5807199b9c1f5fde54a64e16c5f41fe0afdf0409.1920x1080.jpg?t=1782410397"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1268750/fc645fd1d35373e07740f72070ba719303de91fd/ss_fc645fd1d35373e07740f72070ba719303de91fd.1920x1080.jpg?t=1782410397"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1268750/ss_91c54dda0ddece1731fe24693e0d863873501e86.1920x1080.jpg?t=1782410397"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1268750/ss_dc878bd302caba7c9fbe280176a8e48a2d4029bc.1920x1080.jpg?t=1782410397"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1268750/ss_f81668ede3638e31e0e57377ed1a6c7b18098e6c.1920x1080.jpg?t=1782410397"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1268750/ss_2abe674ac3d496c4445aa1e9497be077c0557cc8.1920x1080.jpg?t=1782410397"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1268750/ss_329b31ca55e107934e4d6b43c7e4b4e59db4e27f.1920x1080.jpg?t=1782410397"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1268750/ss_bca1e8fe6457393dce19809a7f4784767811ff84.1920x1080.jpg?t=1782410397"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1268750/ss_ff4fc32a4dde9680475eaa40f543d83db7faaaea.1920x1080.jpg?t=1782410397"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1268750/ss_081269b1d4ee3d89ddda965e3098005220a482b5.1920x1080.jpg?t=1782410397"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1268750/ss_d0f9a1a7d6120a7a59335924d6cc0dca697c04f9.1920x1080.jpg?t=1782410397"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1268750/ss_805d6bd2e1d6505ce6674a13bbbfc4102b40a485.1920x1080.jpg?t=1782410397"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1268750/ss_08e1a054df011e3402c9b8223120d24e899cf2f1.1920x1080.jpg?t=1782410397"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1268750/ss_5ba49d392d0516eba6f93ab3d80212f407e3eb03.1920x1080.jpg?t=1782410397"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1268750/ss_33b419aef086fd548bd922918d23a16805f4d6d3.1920x1080.jpg?t=1782410397"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Update 1.10 Trailer - The Marauder Program",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257310196/ad1d4f8065a0e276deeef41da97ba30c4e6ac5c0/movie_600x337.jpg?t=1774627316",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1268750/639065467/6a3115e4fb512c7dd8e648c7f3a207b15c3aef0c/1774625964/dash_h264.mpd?t=1774627316"
+    },
+    {
+      "name": "The Federation Needs You",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257221863/cba36b65b239763d12cfca320b4831594b11e9ae/movie_600x337.jpg?t=1761257155",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1268750/959024570/0e454f36e19f5030a77d20315956aa0e95f37fa8/1761255733/dash_h264.mpd?t=1761257155"
+    },
+    {
+      "name": "Update 1.6: Emergence",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257183333/8d5b774f2853cf3d387634bc61be4e6e2e068b98/movie_600x337.jpg?t=1755202002",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1268750/1393701171/a20e9097eeaf52eb90cf267991e67eda6de652b4/1755200620/dash_h264.mpd?t=1755202002"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257064222/a75b2ce88d40ed2968b0f6cb48b16ef467197d75/movie_600x337.jpg?t=1728666816",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1268750/770512/e700a6af68c6ad6ddfd1baf205d5e87ff0bb9de5/1750658196/dash_h264.mpd?t=1728666816"
+    },
+    {
+      "name": "Release Date Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257029406/movie.293x165.jpg?t=1717873228",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1268750/711011/fa68e0aae95afd1397d25b49eac331bde4e7ec11/1750658195/dash_h264.mpd?t=1717873228"
+    },
+    {
+      "name": "The New Vanguard - Update 0.7 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257018046/movie.293x165.jpg?t=1713902134",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1268750/691136/bfe04a837753df3112c185c128b445850fed2366/1750658177/dash_h264.mpd?t=1713902134"
+    },
+    {
+      "name": "Starship Troopers: Extermination - Update 0.3 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256998081/movie.293x165.jpg?t=1706823135",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1268750/657477/1e74173bdff0c83425963eb6e18933d624cae4b4/1750658167/dash_h264.mpd?t=1706823135"
+    },
+    {
+      "name": "Starship Troopers: Extermination - Early Access Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256997818/movie.293x165.jpg?t=1706753234",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1268750/657038/351f072bb3e323ca5ce9ed784127ccc2ce567282/1750658119/dash_h264.mpd?t=1706753234"
+    },
+    {
+      "name": "Hives of Valaka Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256998099/movie.293x165.jpg?t=1706828297",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1268750/657506/78cba36a807025adfd8afcc1af15efc04095fcd0/1750658168/dash_h264.mpd?t=1706828297"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1268750,
+    "store_url": "https://store.steampowered.com/app/1268750/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Online Co-Op",
+      "Action",
+      "FPS",
+      "Sci-fi",
+      "First-Person",
+      "Co-op",
+      "Multiplayer",
+      "Combat",
+      "Aliens",
+      "PvE",
+      "Arcade",
+      "Wargame",
+      "Shooter",
+      "Space",
+      "Base Building",
+      "Class-Based",
+      "Arena Shooter",
+      "3D",
+      "Realistic",
+      "Singleplayer"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 26378,
+    "review_negative": 6773,
+    "review_total": 33151,
+    "review_positive_percent": 79.57
+  }
+}

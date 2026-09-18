@@ -1,0 +1,251 @@
+{
+  "key": "songs-of-syx",
+  "name": "Songs of Syx",
+  "description": "Songs of Syx is a fantasy city-builder with vast battles simulating thousands of citizens and soldiers. Start off as a small village and build, scheme, and fight your way towards a mighty empire. The mechanics are deep and true to life, where tiny events can spiral into the collapse of kingdoms. ",
+  "developers": [
+    "Gamatron AB"
+  ],
+  "publishers": [
+    "Gamatron AB"
+  ],
+  "release_date": "2020-09-22",
+  "website": "https://songsofsyx.com",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "strategy",
+    "early-access",
+    "city-builder",
+    "colony-sim",
+    "sandbox",
+    "grand-strategy",
+    "4x",
+    "singleplayer",
+    "base-building",
+    "building",
+    "top-down",
+    "combat",
+    "moddable",
+    "survival",
+    "fantasy",
+    "open-world",
+    "pixel-graphics",
+    "medieval",
+    "economy"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "Simplified Chinese"
+  ],
+  "name_localized": {
+    "schinese": "希克斯之歌"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SongsOfSyx.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "songsofsyx/saves/",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "SongsOfSyxMac.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "songsofsyx/saves/",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "songsofsyx",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "LinuxNvidiaFix.sh",
+          "description": "If having problems with an Nvidia card on Linux",
+          "type": "default"
+        },
+        {
+          "executable": "songsofsyx",
+          "description": "Get sound on steam deck",
+          "type": "option2"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "songsofsyx/saves/",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Songs of Syx",
+    "SongsOfSyx",
+    "SongsOfSyxMac.app",
+    "LinuxNvidiaFix.sh",
+    "希克斯之歌"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1162750/9ee266d4c894a955ff59426345f17f9cbaeb1b8b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162750/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162750/21ff82844f2542166d13517d77a787fbd7dffe54/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162750/7290f4777c24c07554cf0c52d198aedd39300276/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162750/fa93667feb89c44550ed11dc7ea0adac1b58b2fb/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162750/320723cee6d7aa4280cac8eb764a9c19cf86d2d3/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162750/f2d8c5d47a23f8d54560d144fdad30677c602817/ss_f2d8c5d47a23f8d54560d144fdad30677c602817.1920x1080.jpg?t=1781544780"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162750/9145cacf651f86761548f072216a7831c95177b8/ss_9145cacf651f86761548f072216a7831c95177b8.1920x1080.jpg?t=1781544780"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162750/0a5bfa61b602b5dc075e084fd2821dcc8a6cd470/ss_0a5bfa61b602b5dc075e084fd2821dcc8a6cd470.1920x1080.jpg?t=1781544780"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162750/c3e23b969c6b7f44a54e671fdd86b799eee1b7af/ss_c3e23b969c6b7f44a54e671fdd86b799eee1b7af.1920x1080.jpg?t=1781544780"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162750/e0c7490ed1c944a83a7b47c67ea672ba517d6f33/ss_e0c7490ed1c944a83a7b47c67ea672ba517d6f33.1920x1080.jpg?t=1781544780"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162750/b72ed0a143bf65bb6402169acd968e6324604732/ss_b72ed0a143bf65bb6402169acd968e6324604732.1920x1080.jpg?t=1781544780"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162750/3d0969c88050c6c09590f2eee8e8d5995d992147/ss_3d0969c88050c6c09590f2eee8e8d5995d992147.1920x1080.jpg?t=1781544780"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162750/882d1808709c8be5fe1bf50ebe020fbba1ed4dd1/ss_882d1808709c8be5fe1bf50ebe020fbba1ed4dd1.1920x1080.jpg?t=1781544780"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162750/ss_9639a90c0098b9c94a5b650ab04c7a5054b2bfde.1920x1080.jpg?t=1781544780"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162750/08940c5e83c2e9795f17cebcfb65564b97cc0e1e/ss_08940c5e83c2e9795f17cebcfb65564b97cc0e1e.1920x1080.jpg?t=1781544780"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162750/fa74c0ca5726cc3db3d0450e4ed6c200036dc08e/ss_fa74c0ca5726cc3db3d0450e4ed6c200036dc08e.1920x1080.jpg?t=1781544780"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162750/86672b2190875aa42ab09f261bc1e976bc2120b2/ss_86672b2190875aa42ab09f261bc1e976bc2120b2.1920x1080.jpg?t=1781544780"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162750/efa62e4a67339e460438b9118880c11450416390/ss_efa62e4a67339e460438b9118880c11450416390.1920x1080.jpg?t=1781544780"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162750/9b83ddf0e1351192b3809fa8699e9397dc50eca7/ss_9b83ddf0e1351192b3809fa8699e9397dc50eca7.1920x1080.jpg?t=1781544780"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162750/5bfc9108f53d21b75bb3b81757e40c55bb827cb5/ss_5bfc9108f53d21b75bb3b81757e40c55bb827cb5.1920x1080.jpg?t=1781544780"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162750/ss_5f0367b0952eb318d99f62fa51ef808be2861ebc.1920x1080.jpg?t=1781544780"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162750/ss_833ab335fb8e04c695fbf3e9c28e5fa595630955.1920x1080.jpg?t=1781544780"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Sacrifice of Bob Part II",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257359632/d201efa818b33eedd92894ed645ddc608cdc59dd/movie_600x337.jpg?t=1781541503",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1162750/76563033/12052eb329330478b8b3e4a72e1d9043f1c12460/1781540169/dash_h264.mpd?t=1781541503"
+    },
+    {
+      "name": "Sacrifice of Bob",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257243477/7ce34b3bc520426fe8ea738485d25f8994a47cd2/movie_600x337.jpg?t=1764863648",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1162750/148870293/426bcb8f130ed6af3ee32e0fbc7fda623a308beb/1764852437/dash_h264.mpd?t=1764863648"
+    },
+    {
+      "name": "Reign of Terror Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257350193/45bf8242409a1045e45711a6e8139272ad7411d8/movie_600x337.jpg?t=1780924353",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1162750/933724882/44cb6b85fc7e178c1686d2bb6e202a221e7b7083/1780922278/dash_h264.mpd?t=1780924353"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1162750,
+    "store_url": "https://store.steampowered.com/app/1162750/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Early Access",
+      "City Builder",
+      "Colony Sim",
+      "Strategy",
+      "Sandbox",
+      "Grand Strategy",
+      "4X",
+      "Singleplayer",
+      "Base Building",
+      "Building",
+      "Top-Down",
+      "Simulation",
+      "Combat",
+      "Moddable",
+      "Survival",
+      "Fantasy",
+      "Open World",
+      "Pixel Graphics",
+      "Medieval",
+      "Economy"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8283,
+    "review_negative": 477,
+    "review_total": 8760,
+    "review_positive_percent": 94.55
+  }
+}

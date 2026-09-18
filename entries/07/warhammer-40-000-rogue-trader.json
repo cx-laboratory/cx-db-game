@@ -1,0 +1,196 @@
+{
+  "key": "warhammer-40-000-rogue-trader",
+  "name": "Warhammer 40,000: Rogue Trader",
+  "description": "Made in a close partnership with Games Workshop, Warhammer 40,000: Rogue Trader is a story-rich classical RPG from Owlcat Games, developers of the critically acclaimed game, Pathfinder: Wrath of the Righteous.",
+  "developers": [
+    "Owlcat Games"
+  ],
+  "publishers": [
+    "Owlcat Games"
+  ],
+  "release_date": "2023-12-07",
+  "website": "https://roguetrader.owlcat.games/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "strategy",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "choices-matter",
+    "character-customization",
+    "crpg",
+    "turn-based-strategy",
+    "turn-based-combat",
+    "tactical-rpg",
+    "atmospheric",
+    "fantasy",
+    "dark-fantasy",
+    "story-rich",
+    "sci-fi",
+    "singleplayer",
+    "space",
+    "romance"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "turkish"
+  ],
+  "name_localized": {
+    "schinese": "Warhammer 40,000: 行商浪人"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "WH40KRT.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "WH40KRT.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Warhammer 40,000: Rogue Trader",
+    "WH40KRT",
+    "WH40KRT.app",
+    "Warhammer 40,000: 行商浪人"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2186680/095b26e213960e2c2b6564fd7211ed6a20f39d18.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186680/c7b0bd6f233f6c03fa68eee2fd1108a183329230/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186680/ab031cfd5cf227ae2ec17b0ba93c468ec7c06978/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186680/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186680/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186680/fbdf710632429623a75ba291cb890c7f43dc244c/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186680/ss_a0ec0cef5715e5be542fa572fe3c73272c94cb90.1920x1080.jpg?t=1781198086"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186680/ss_0efe2642d9a2c7147c8d9dcc816c19de335992f4.1920x1080.jpg?t=1781198086"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186680/ss_c92011168ef2d75b996a124e69e901a0c6647fcb.1920x1080.jpg?t=1781198086"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186680/ss_eb5a9573aa4f08eec8c6230a5e801330055ad244.1920x1080.jpg?t=1781198086"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186680/ss_08b5137eea0f70b4bb14ac6370453c1214de7b20.1920x1080.jpg?t=1781198086"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186680/ss_f9d680163b6ae13607b7c9a3f4484454f2742ae0.1920x1080.jpg?t=1781198086"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186680/ss_96af51982089d5bf7621a4fc44f095628f20bc57.1920x1080.jpg?t=1781198086"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186680/ss_ebf26ce78ead568ecc029d71fbd5918aab8a5add.1920x1080.jpg?t=1781198086"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Release trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256987497/91004615dda8244958e52028de89835e52e133f5/movie_600x337.jpg?t=1728994758",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2186680/638048/38a392c9ce74f5e44691feba011feef5c7f57a9e/1750798886/dash_h264.mpd?t=1728994758"
+    },
+    {
+      "name": "1st release trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256987188/movie.293x165.jpg?t=1701964553",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2186680/637526/b0be28fa7f21db1469ce7add5eb1fb25c6339b30/1750798877/dash_h264.mpd?t=1701964553"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2186680,
+    "store_url": "https://store.steampowered.com/app/2186680/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Adjustable Text Size",
+      "Custom Volume Controls",
+      "Mouse Only Option",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Surround Sound",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "RPG",
+      "Choices Matter",
+      "Character Customization",
+      "CRPG",
+      "Turn-Based Strategy",
+      "Turn-Based Combat",
+      "Strategy",
+      "Adventure",
+      "Tactical RPG",
+      "Atmospheric",
+      "Co-op",
+      "Fantasy",
+      "Dark Fantasy",
+      "Action",
+      "Multiplayer",
+      "Story Rich",
+      "Sci-fi",
+      "Singleplayer",
+      "Space",
+      "Romance"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 40098,
+    "review_negative": 5668,
+    "review_total": 45766,
+    "review_positive_percent": 87.62
+  }
+}

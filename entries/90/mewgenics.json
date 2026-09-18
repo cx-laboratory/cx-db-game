@@ -1,0 +1,212 @@
+{
+  "key": "mewgenics",
+  "name": "Mewgenics",
+  "description": "Build the ultimate cat army through tactical breeding and send them into deep, challenging turn-based adventures. Draft abilities, collect items, and manipulate genetics across generations in this roguelike tactics game from the creators of The Binding of Isaac and The End is Nigh.",
+  "developers": [
+    "Edmund McMillen"
+  ],
+  "publishers": [
+    "Edmund McMillen"
+  ],
+  "release_date": "2026-02-10",
+  "website": "http://mewgenics.com/",
+  "tags": [
+    "adventure",
+    "indie",
+    "rpg",
+    "simulation",
+    "strategy",
+    "turn-based-tactics",
+    "roguelike",
+    "roguelite",
+    "cats",
+    "dark-humor",
+    "turn-based-strategy",
+    "turn-based-combat",
+    "funny",
+    "cute",
+    "2d",
+    "comic-book",
+    "horror",
+    "cartoony",
+    "surreal",
+    "post-apocalyptic",
+    "choices-matter",
+    "nonlinear",
+    "great-soundtrack",
+    "tactical",
+    "magic"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "喵喵的结合"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Mewgenics.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Glaiel Games/Mewgenics/{64BitSteamID}/saves",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Mewgenics",
+    "喵喵的结合"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/686060/7ea8a70012dbedf73b6855e5e68ce504dd052998.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/aa8075d11165fef4d4d0d09c156f0da0623b5da1/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/b00ca313f3ac970c3e412280ecc8a5ed65813a0e/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/ea77c084fe08e1654380778ef73f613185e7a6ca/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/91bc5e6a59f1526595352181b6deea0a33b26c66/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/b76bf94de0b466797f9455a6da347507020a9966/ss_b76bf94de0b466797f9455a6da347507020a9966.1920x1080.jpg?t=1771573546"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/a49301637adf55a2fad26305272829a0f47b478d/ss_a49301637adf55a2fad26305272829a0f47b478d.1920x1080.jpg?t=1771573546"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/129c23d40964c3f0a7e766182179333a19f422b9/ss_129c23d40964c3f0a7e766182179333a19f422b9.1920x1080.jpg?t=1771573546"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/54d33c8cd2e23c2a278367b487449077d5f0bc49/ss_54d33c8cd2e23c2a278367b487449077d5f0bc49.1920x1080.jpg?t=1771573546"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/99ad52d7d60acd283b9c1dc361324de70ed9f8f1/ss_99ad52d7d60acd283b9c1dc361324de70ed9f8f1.1920x1080.jpg?t=1771573546"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/4277d9253ea2360418937a3250c8954e2378a510/ss_4277d9253ea2360418937a3250c8954e2378a510.1920x1080.jpg?t=1771573546"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/8b1fd57290c17bb1e326cc9be4da53a2bb4fa252/ss_8b1fd57290c17bb1e326cc9be4da53a2bb4fa252.1920x1080.jpg?t=1771573546"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/3ec3dbbe03b62fe1367fb445ab1fc5ba23467da4/ss_3ec3dbbe03b62fe1367fb445ab1fc5ba23467da4.1920x1080.jpg?t=1771573546"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/2b1f8ec2befd90418edd6d1c154bd494ba066821/ss_2b1f8ec2befd90418edd6d1c154bd494ba066821.1920x1080.jpg?t=1771573546"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/d8fca4059f3f9494d35c2ae50399a28b303fa3b3/ss_d8fca4059f3f9494d35c2ae50399a28b303fa3b3.1920x1080.jpg?t=1771573546"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/e22deae60cc21553edcaacca0953aa41128051bb/ss_e22deae60cc21553edcaacca0953aa41128051bb.1920x1080.jpg?t=1771573546"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/90616f848a23afca914b08c594aa6d57ff0c592e/ss_90616f848a23afca914b08c594aa6d57ff0c592e.1920x1080.jpg?t=1771573546"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/7042e4e52692045ec4d8293d7accef5139f51949/ss_7042e4e52692045ec4d8293d7accef5139f51949.1920x1080.jpg?t=1771573546"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/066deee756369d605bb850f16606713119fb1876/ss_066deee756369d605bb850f16606713119fb1876.1920x1080.jpg?t=1771573546"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686060/551803fdbc7c68d474e065fa9843e541493f64aa/ss_551803fdbc7c68d474e065fa9843e541493f64aa.1920x1080.jpg?t=1771573546"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Mewgenics launch trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257283662/a75ed3de9d42026cf27d7c4a8b30005e85b8baee/movie_600x337.jpg?t=1770734758",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/686060/2144328071/998e2b4aa9b4bc2bfbb56b778251afe3eb18fb8a/1770732828/dash_h264.mpd?t=1770734758"
+    },
+    {
+      "name": "Mewgenics Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257153663/1eb6f0baf29570284e4b3d90b87fe81af9b4fdff/movie_600x337.jpg?t=1749419242",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/686060/136070594/97df7a9b9386eff4e374eb9ba2952e8a33df68ea/1751131080/dash_h264.mpd?t=1749419242"
+    }
+  ],
+  "metacritic": {
+    "score": 88,
+    "url": "https://www.metacritic.com/game/pc/mewgenics?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 686060,
+    "store_url": "https://store.steampowered.com/app/686060/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Turn-Based Tactics",
+      "Roguelite",
+      "Cats",
+      "Dark Humor",
+      "Turn-Based Strategy",
+      "Turn-Based Combat",
+      "RPG",
+      "Funny",
+      "Cute",
+      "2D",
+      "Comic Book",
+      "Horror",
+      "Cartoony",
+      "Surreal",
+      "Post-apocalyptic",
+      "Choices Matter",
+      "Nonlinear",
+      "Great Soundtrack",
+      "Tactical",
+      "Magic"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 45760,
+    "review_negative": 4983,
+    "review_total": 50743,
+    "review_positive_percent": 90.18
+  }
+}

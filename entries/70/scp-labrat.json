@@ -1,0 +1,164 @@
+{
+  "key": "scp-labrat",
+  "name": "SCP: Labrat",
+  "description": "You are a test subject in the underground SCP research facility. When a containment breach occurs, you must find your way out. Escape the SCPs, discover anomalous objects, and collect valuable resources along the way.",
+  "developers": [
+    "Bezbro Games"
+  ],
+  "publishers": [
+    "Bezbro Games"
+  ],
+  "release_date": "2022-12-25",
+  "website": "https://bezbrogames.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "free-to-play",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "horror",
+    "vr",
+    "singleplayer",
+    "survival",
+    "first-person",
+    "exploration",
+    "sci-fi",
+    "realistic",
+    "physics",
+    "procedural-generation",
+    "inventory-management",
+    "multiple-endings",
+    "violent"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SCP Labrat.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "SCP Labrat.exe",
+          "description": "with VR",
+          "type": "openxr"
+        },
+        {
+          "executable": "SCP Labrat.exe",
+          "description": "with Desktop",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Bezbro Games/SCP Labrat/Saves",
+          "pattern": "*.yrtsv",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "SCP: Labrat",
+    "SCP Labrat"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1402020/90e4a6660ecf80ba71e95b97897f15beae9e9411.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1402020/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1402020/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1402020/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1402020/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1402020/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1402020/ss_34f740c9ae9d05c65eb12157efea94807b2e47d9.1920x1080.jpg?t=1753058517"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1402020/ss_65683cc48f4a9ecb7f8468d971801e45bf8618ab.1920x1080.jpg?t=1753058517"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1402020/ss_8c1389720213c84bae60578f99954aab738e34b7.1920x1080.jpg?t=1753058517"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1402020/ss_ca63d43fb538eb800e46cfbe2c7e883c9d63e423.1920x1080.jpg?t=1753058517"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1402020/ss_e58d68a90d1f6dd6b575e0fb83a15be289546a06.1920x1080.jpg?t=1753058517"
+    }
+  ],
+  "videos": [
+    {
+      "name": "v2.0 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256821585/movie.293x165.jpg?t=1671950155",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1402020/346424/1dba3521521b16ac2be44f1d79e251d9052a8592/1751233136/dash_h264.mpd?t=1671950155"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1402020,
+    "store_url": "https://store.steampowered.com/app/1402020/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Tracked Controller Support",
+      "VR Supported",
+      "Steam Cloud",
+      "Stats",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Horror",
+      "Multiplayer",
+      "VR",
+      "Survival Horror",
+      "Singleplayer",
+      "Free to Play",
+      "Survival",
+      "Action",
+      "First-Person",
+      "Exploration",
+      "Sci-fi",
+      "Realistic",
+      "Physics",
+      "Psychological Horror",
+      "Procedural Generation",
+      "Inventory Management",
+      "Online Co-Op",
+      "Multiple Endings",
+      "Adventure",
+      "Violent"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 3629,
+    "review_negative": 825,
+    "review_total": 4454,
+    "review_positive_percent": 81.48
+  }
+}

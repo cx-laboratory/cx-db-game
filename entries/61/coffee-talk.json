@@ -1,0 +1,190 @@
+{
+  "key": "coffee-talk",
+  "name": "Coffee Talk",
+  "description": "Coffee Talk is a coffee brewing and heart-to-heart talking simulator about listening to fantasy-inspired modern peoples’ problems, and helping them by serving up a warm drink or two.",
+  "developers": [
+    "Toge Productions"
+  ],
+  "publishers": [
+    "Toge Productions"
+  ],
+  "release_date": "2020-01-30",
+  "website": "http://coffeetalk.info/",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "dialogue-heavy",
+    "pixel-graphics",
+    "visual-novel",
+    "relaxing",
+    "atmospheric",
+    "story-rich",
+    "interactive-fiction",
+    "lgbtq",
+    "singleplayer",
+    "choices-matter",
+    "multiple-endings",
+    "simulation",
+    "emotional",
+    "fantasy",
+    "anime",
+    "philosophical",
+    "crafting",
+    "experimental"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English",
+    "Simplified Chinese",
+    "Japanese",
+    "Korean",
+    "French",
+    "German",
+    "Traditional Chinese",
+    "Spanish - Spain",
+    "Turkish",
+    "Russian",
+    "Portuguese - Brazil",
+    "Indonesian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "CoffeeTalk.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Toge Productions/CoffeeTalk/Data/Steam/{64BitSteamID}",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "CoffeeTalk.app\\Contents\\MacOS\\CoffeeTalk",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Toge Productions/CoffeeTalk/Data/Steam/{64BitSteamID}",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Coffee Talk",
+    "CoffeeTalk",
+    "CoffeeTalk.app\\Contents\\MacOS\\CoffeeTalk"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/914800/49d266aef4f1f54f7b721ccce0264067cea797c0.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914800/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914800/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914800/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914800/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914800/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914800/ss_7df86693fd63aae5209cb3157e2b98f3e7074cdf.1920x1080.jpg?t=1779265838"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914800/ss_fb39356fdb31c360f81598801f6398fcf83a6324.1920x1080.jpg?t=1779265838"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914800/ss_c4253cfc283c92b932286b187ab342e4580bb055.1920x1080.jpg?t=1779265838"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914800/ss_ec29b075105ed4b4432c8f97fba8d695b4aa00a9.1920x1080.jpg?t=1779265838"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914800/ss_f0dd19b6d6ddd5649417d0cf4a367b3d39aabe0d.1920x1080.jpg?t=1779265838"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914800/ss_3cb691732a8e456a28d73f1a9b1340fbc5ee5d5a.1920x1080.jpg?t=1779265838"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256759202/movie.293x165.jpg?t=1565902783",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/914800/238484/4909637ac195d241c64193806b0e7d35dbceea4f/1750595751/dash_h264.mpd?t=1565902783"
+    }
+  ],
+  "metacritic": {
+    "score": 76,
+    "url": "https://www.metacritic.com/game/pc/coffee-talk?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 914800,
+    "store_url": "https://store.steampowered.com/app/914800/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Dialogue Heavy",
+      "Pixel Graphics",
+      "Visual Novel",
+      "Relaxing",
+      "Atmospheric",
+      "Story Rich",
+      "Interactive Fiction",
+      "LGBTQ+",
+      "Casual",
+      "Singleplayer",
+      "Choices Matter",
+      "Multiple Endings",
+      "Simulation",
+      "Emotional",
+      "Fantasy",
+      "Indie",
+      "Anime",
+      "Philosophical",
+      "Crafting",
+      "Experimental"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 11761,
+    "review_negative": 655,
+    "review_total": 12416,
+    "review_positive_percent": 94.72
+  }
+}

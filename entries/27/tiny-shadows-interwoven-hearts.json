@@ -1,0 +1,166 @@
+{
+  "key": "tiny-shadows-interwoven-hearts",
+  "name": "Tiny Shadows Interwoven Hearts",
+  "description": "Programmer Lin Mo is tired of his monotonous life. One day, he meets a mysterious girl at a café who hides many secrets. As lies and true feelings intertwine, can this chance encounter save him from his numb existence? A visual novel filled with &quot;love and hope&quot;.",
+  "developers": [
+    "土豆花制作组"
+  ],
+  "publishers": [
+    "土豆花制作组"
+  ],
+  "release_date": "2025-11-07",
+  "website": "",
+  "tags": [
+    "adventure",
+    "indie",
+    "rpg",
+    "simulation",
+    "free-to-play",
+    "dating-sim",
+    "interactive-fiction",
+    "visual-novel",
+    "cute",
+    "word-game",
+    "anime",
+    "jrpg",
+    "2d-platformer",
+    "emotional",
+    "cartoony",
+    "funny",
+    "romance",
+    "comedy",
+    "story-rich",
+    "text-based"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "japanese"
+  ],
+  "name_localized": {
+    "english": "Tiny Shadows Interwoven Hearts",
+    "schinese": "小小的身影，重叠的内心",
+    "japanese": "小さな影、重なる心"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "TinyShadowsInterwovenHearts.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "game/saves",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Tiny Shadows Interwoven Hearts",
+    "TinyShadowsInterwovenHearts",
+    "小小的身影，重叠的内心",
+    "小さな影、重なる心"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3865150/c68f5ea41d724f7178ccc246e6015d01caf897d6.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3865150/d66eaa167085e8197de5cfb2dc8081cc3e5412f9/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3865150/05cf94e83124f7e5905eecdb2b90dbaa37b4c18e/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3865150/0943b5ebce0b1beede2991d744f3a9ecaf3017b7/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3865150/48a7c85cae005aa781cb89527b0ed1e90ca46004/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3865150/127b527086c9e9976b2daf86d68ccec2e195f487/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3865150/ab43335e1ed6f146bfd0609b5e643c1ab3a6d53c/ss_ab43335e1ed6f146bfd0609b5e643c1ab3a6d53c.1920x1080.jpg?t=1778866142"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3865150/641587dca05a10717278fd82661684240e743f49/ss_641587dca05a10717278fd82661684240e743f49.1920x1080.jpg?t=1778866142"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3865150/0fcf6954e381fb2c91b0e9e66739598971ade52f/ss_0fcf6954e381fb2c91b0e9e66739598971ade52f.1920x1080.jpg?t=1778866142"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3865150/7a912971fb60f1e827fa89d30ef9a29e829c2d65/ss_7a912971fb60f1e827fa89d30ef9a29e829c2d65.1920x1080.jpg?t=1778866142"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3865150/d388010e450358b13890d00ad3854fc39acaf9dc/ss_d388010e450358b13890d00ad3854fc39acaf9dc.1920x1080.jpg?t=1778866142"
+    }
+  ],
+  "videos": [
+    {
+      "name": "PV",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257213469/b9b5a92bce7bec67327a9037c13425db503ed8a3/movie_600x337.jpg?t=1759836868",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3865150/103569399/a57f633e476d9a8817d2ea2c7373a3ccbb8224c2/1759832791/dash_h264.mpd?t=1759836868"
+    },
+    {
+      "name": "开场",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257168072/0d6a3bf5827347ca427203105172507bd27305cc/movie_600x337.jpg?t=1757652902",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3865150/68370176/53bed57131789f3c6a665b14bc92f053ba144bc1/1752303876/dash_h264.mpd?t=1757652902"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3865150,
+    "store_url": "https://store.steampowered.com/app/3865150/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Custom Volume Controls",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Touch Only Option",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "RPG",
+      "Adventure",
+      "Dating Sim",
+      "Interactive Fiction",
+      "Visual Novel",
+      "Cute",
+      "Word Game",
+      "Anime",
+      "JRPG",
+      "2D Platformer",
+      "Free to Play",
+      "Emotional",
+      "Cartoony",
+      "Funny",
+      "Romance",
+      "Comedy",
+      "Indie",
+      "Simulation",
+      "Story Rich",
+      "Text-Based"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 3338,
+    "review_negative": 44,
+    "review_total": 3382,
+    "review_positive_percent": 98.7
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "key": "euro-truck-simulator-2",
+  "name": "Euro Truck Simulator 2",
+  "description": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits.",
+  "developers": [
+    "SCS Software"
+  ],
+  "publishers": [
+    "SCS Software"
+  ],
+  "release_date": "2012-10-12",
+  "website": "https://eurotrucksimulator2.com/",
+  "tags": [
+    "indie",
+    "simulation",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "driving",
+    "transportation",
+    "open-world",
+    "automobile-sim",
+    "realistic",
+    "moddable",
+    "relaxing",
+    "exploration",
+    "economy",
+    "immersive-sim",
+    "management",
+    "atmospheric",
+    "controller",
+    "family-friendly",
+    "third-person",
+    "adventure",
+    "casual"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "hungarian",
+    "czech",
+    "romanian",
+    "turkish",
+    "brazilian",
+    "bulgarian",
+    "greek",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "欧洲卡车模拟2"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "bin/win_x64/eurotrucks2.exe",
+          "description": "Play Euro Truck Simulator 2 (64-bit)",
+          "type": "default"
+        },
+        {
+          "executable": "bin/win_x64/eurotrucks2.exe",
+          "description": "Launch with DirectX9 (64-bit)",
+          "type": "none"
+        },
+        {
+          "executable": "bin/win_x64/eurotrucks2.exe",
+          "description": "Launch with DirectX11 (64-bit)",
+          "type": "none"
+        },
+        {
+          "executable": "bin/win_x64/eurotrucks2.exe",
+          "description": "Launch with OpenGL (64-bit)",
+          "type": "none"
+        },
+        {
+          "executable": "bin/win_x64/eurotrucks2.exe",
+          "description": "Launch in safe mode (64-bit)",
+          "type": "none"
+        },
+        {
+          "executable": "bin/win_x86/eurotrucks2.exe",
+          "description": "Launch with DirectX9 (32-bit)",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Euro Truck Simulator 2.app",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "bin/linux_x64/eurotrucks2",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Euro Truck Simulator 2",
+    "bin/win_x64/eurotrucks2",
+    "bin/win_x86/eurotrucks2",
+    "Euro Truck Simulator 2.app",
+    "bin/linux_x64/eurotrucks2"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/227300/adc18a4fc9adc0330144b76d61cbda68bb2394a0.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/da84d11d3ddd817e0cca299608b469a854d75ba5/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_54100267623179f54731048c91add16c1c3d3d1e.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_e040f74641ac21f15e3ec7c2415fc8b4de0b6bf9.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_fd675feae669c7fb4ca6dcfb738d49fb7b7a238d.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_edbff61a062a49d1d97269e53b8afbffde05bb24.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_a944c7f801629bfa0cfb91fa7b23b4ff95e11753.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_5dff1bca6580b5df288a4ad061e4f92f62f6a073.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/06aa11ece5d3303cfcfeafb3c81734258a7dd614/ss_06aa11ece5d3303cfcfeafb3c81734258a7dd614.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_1a455dd625b6d8068c6f1db93887167383275757.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_fa9d08bac73ca4745387aa41a5d95ce13204cede.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_e8f2f677d41086916804ffca0e3da04c7c5b600f.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_bf111ac8893e0a11a68f03e538be3076b600f36f.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_f903e4e63d478e9fe1db48ed05dfc5b314f262ad.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_1dc6f27e13e90e20fe0dd67b6cff4b916f96d662.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_e57e1ef726416e161007bc90d4160d5b529498a4.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_55d4cccdcea427ec4e9f19168a0f83716300c7b7.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_b3eba0d5e75836a7283014f677f8a364e6514367.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_4e725a12f1639d71c94a23ec219d098d8273d78c.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_82e2202270452a435f6618b0d5147feeabf6b155.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_3d3d243ace91523a20e7c5a5992a46d77c00fb01.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_f3dc49d4d8f1fb3cf03334ced1c210321bd80185.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_b8c5306cbfea20969f382e2728009fb7037eed87.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_75d924be54023a48270038c40216682a85c38e65.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_6804c3af110d58a3be3f93edc9a319ebff109754.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_a1c120287e51fb56634b68a98853fd761a4a8f24.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_107bd2c49628ac965eea15c4d9f1bfedb9255a3b.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_430ef267a450f58ca2d8a3caa61cef3a7450de75.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_a2609044e45040c74afe49ffb0abeb2e4db3e976.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_4e97e5e55ce756fb8c5d28db220c72a3bd820fb3.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_bd8f79513af1759d8dd01092b2fd064214227683.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_ebb3be125abd764a6fd216d17f40273d7f78ab2c.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_d7e184079e3ecd5612c355f87c60430a00b69ab9.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_c5f6d32558dddcc6df2ae86c453fc8c0ed6f6753.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_bd8b2b2f6a1a595afab14f398de836e6010563c7.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_c4a5aec31f26009fbe93ee5182194f481209e3a9.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_bfb76d77b688b87b406f2dddddd1be142a06cadc.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_368254bc83b253c146326ef20a88f157fb87ae2f.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_f97b9585647e856c93a3a11242fd05ab78a21c68.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_3bd9c6f5621eeaad4068d5334b9e0fa43527db21.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_eb434cd5ec7b731f36c3869aa772950ac1e876ca.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_c647e8892db78190e1ab5672c594e29ee508b472.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_4a8c73ac16132d73e6dc88d58126572a760a0720.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_737baf4f8b0bca354d008040d11171ac185314e4.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_425c3a46a90dfd781db457e38d8b7d18c2eeb9b7.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_97881274415df85d24791de17da900303897ee42.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_616f3fabc8dda839a02f31353b0c93f579f59bd0.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_ebb380dd10bf7ad0e4afdb88f25de901dbda032e.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_f21bff4784d1314f013fcb9b8d20527f6deebd92.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_1bb04141085a0eec37597e38c80cfe5bf6b8dd97.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_95b7a8e928bb5555aefafb4cbcfb143e670525d5.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_1c2b0275443485018a9d047eea13b0e006213fde.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_ba8c4f88d6d98665ee596b3ee53b158798ca614c.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_c49c51974213722bcb6b509fc7006c137a1f8a67.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_cb40f4513deeaeac03ae8d894cef6bebed55816d.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_56e98c4a5169674702c74c832d799294d643d507.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_53e90822a1fd272cc7062ef2ec166db7f35b96ce.1920x1080.jpg?t=1782839042"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_7a8c4308ae2cc5a9f1b0df87f30b6cfffd26b588.1920x1080.jpg?t=1782839042"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Euro Truck Simulator 2 2022 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256882174/movie.293x165.jpg?t=1683632053",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/227300/455253/f717b44f949ed6c824778b30d516147bdaaad95a/1750482436/dash_h264.mpd?t=1683632053"
+    },
+    {
+      "name": "Euro Truck Simulator 2 - 1.53 Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257079603/a089d756d0de589533512d13a0c5f130b028a607/movie_600x337.jpg?t=1733494612",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/227300/796071/aa1b75647133aedf0ecb196084b6e2121cee4f5d/1750482436/dash_h264.mpd?t=1733494612"
+    }
+  ],
+  "metacritic": {
+    "score": 79,
+    "url": "https://www.metacritic.com/game/pc/euro-truck-simulator-2?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 227300,
+    "store_url": "https://store.steampowered.com/app/227300/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Keyboard Only Option",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Steam Input API Support",
+      "Stereo Sound",
+      "Surround Sound",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Includes level editor",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Driving",
+      "Transportation",
+      "Simulation",
+      "Open World",
+      "Automobile Sim",
+      "Realistic",
+      "Moddable",
+      "Relaxing",
+      "Exploration",
+      "Economy",
+      "Immersive Sim",
+      "Management",
+      "Atmospheric",
+      "Multiplayer",
+      "Controller",
+      "Family Friendly",
+      "Third Person",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 903979,
+    "review_negative": 23632,
+    "review_total": 927611,
+    "review_positive_percent": 97.45
+  }
+}

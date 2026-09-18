@@ -1,0 +1,225 @@
+{
+  "key": "wingspan",
+  "name": "Wingspan",
+  "description": "Wingspan is a relaxing, award-winning strategy card game about birds for 1 to 5 players. Each bird you play extends a chain of powerful combinations in one of your three habitats. Your goal is to discover and attract the best birds to your network of wildlife preserves.",
+  "developers": [
+    "Monster Couch"
+  ],
+  "publishers": [
+    "Monster Couch"
+  ],
+  "release_date": "2020-09-17",
+  "website": "https://www.monstercouch.com/wingspan/",
+  "tags": [
+    "indie",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "split-screen",
+    "building",
+    "board-game",
+    "card-game",
+    "relaxing",
+    "nature",
+    "wholesome",
+    "casual",
+    "tabletop",
+    "turn-based-strategy",
+    "cute",
+    "singleplayer",
+    "resource-management",
+    "local-multiplayer",
+    "economy",
+    "2d"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "polish": " WINGSPAN (NA SKRZYDŁACH)",
+    "german": "WINGSPAN (FLÜGELSCHLAG)",
+    "french": "WINGSPAN (À TIRE D'AILES)",
+    "spanish": "WINGSPAN",
+    "english": "Wingspan",
+    "brazilian": "WINGSPAN",
+    "japanese": "WINGSPAN (ウイングスパン)",
+    "russian": "WINGSPAN (КРЫЛЬЯ)",
+    "schinese": "WINGSPAN (展翅翱翔)",
+    "czech": "WINGSPAN (NA KŘÍDLECH)",
+    "hungarian": "WINGSPAN (FESZTÁV)",
+    "italian": " WINGSPAN",
+    "koreana": "WINGSPAN (윙스팬)",
+    "ukrainian": "Wingspan (Крила)"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Wingspan.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Wingspan.app",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Wingspan",
+    "Wingspan.app",
+    "WINGSPAN (NA SKRZYDŁACH)",
+    "WINGSPAN (FLÜGELSCHLAG)",
+    "WINGSPAN (À TIRE D'AILES)",
+    "WINGSPAN",
+    "WINGSPAN (ウイングスパン)",
+    "WINGSPAN (КРЫЛЬЯ)",
+    "WINGSPAN (展翅翱翔)",
+    "WINGSPAN (NA KŘÍDLECH)",
+    "WINGSPAN (FESZTÁV)",
+    "WINGSPAN (윙스팬)",
+    "Wingspan (Крила)"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1054490/f772edbe6cf20601bbf0d54ffb5fd7bddea3f10d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/573ceea5fe51726012c42da425d3e120917be51a/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_1b94d6aaf9550715516a0f28a5cfcb76d48cf367.1920x1080.jpg?t=1781858945"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_513e0c6f6d0a185b3673884df1fe6246f9df4be1.1920x1080.jpg?t=1781858945"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_a3d342ed702b9872a9dd01f9e99054645bb5733d.1920x1080.jpg?t=1781858945"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_d8003fd0fbd5f3a558b05098346ad50f2ff7757e.1920x1080.jpg?t=1781858945"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1054490/ss_54f58cc1edc76121af4015774d7eebd03c220a74.1920x1080.jpg?t=1781858945"
+    }
+  ],
+  "videos": [
+    {
+      "name": "British Birds & Season Pass Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257362257/5b0d57c5b49d925d8680a0d9bfde53adac1a6285/movie_600x337.jpg?t=1781858915",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1054490/1736739858/8185e39cbdb878fa7a99c9f8d302023bcc98fe56/1781858535/dash_h264.mpd?t=1781858915"
+    },
+    {
+      "name": "ReworkedTrailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256903769/movie.293x165.jpg?t=1662037615",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1054490/492713/79a54ec804fe028216d3dd71d6b9e5ab1fde42f8/1750610081/dash_h264.mpd?t=1662037615"
+    },
+    {
+      "name": "Wingspan: Asia Expansion Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257157360/8252ac17c646df692bde43c38da122c8581785d6/movie_600x337.jpg?t=1750075214",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1054490/983080275/0a3d1f896ba0e49979e1a9613e4a6edd400ba799/1750610100/dash_h264.mpd?t=1750075214"
+    },
+    {
+      "name": "Launch trailer oceania",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256989894/movie.293x165.jpg?t=1702989010",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1054490/642171/cb003ee036325d4dd7d007a77dbff6f43ba8c8ca/1750610085/dash_h264.mpd?t=1702989010"
+    }
+  ],
+  "metacritic": {
+    "score": 84,
+    "url": "https://www.metacritic.com/game/pc/wingspan?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1054490,
+    "store_url": "https://store.steampowered.com/app/1054490/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Steam Turn Notifications",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Building",
+      "Board Game",
+      "Card Game",
+      "Strategy",
+      "Relaxing",
+      "Nature",
+      "Wholesome",
+      "Casual",
+      "Tabletop",
+      "Turn-Based Strategy",
+      "Cute",
+      "PvP",
+      "Singleplayer",
+      "Resource Management",
+      "Local Multiplayer",
+      "Economy",
+      "2D",
+      "Local Co-Op",
+      "Co-op",
+      "Multiplayer"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 11100,
+    "review_negative": 677,
+    "review_total": 11777,
+    "review_positive_percent": 94.25
+  }
+}

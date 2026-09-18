@@ -1,0 +1,277 @@
+{
+  "key": "universe-sandbox",
+  "name": "Universe Sandbox",
+  "description": "Create &amp; destroy on an unimaginable scale with a realistic physics-based space simulator. Explore the beauty of our universe and the fragility of our planet. Use science to bend the laws of gravity, collide planets, boil away oceans, fire epic space lasers, and customize your universe.",
+  "developers": [
+    "Giant Army"
+  ],
+  "publishers": [
+    "Giant Army"
+  ],
+  "release_date": "2015-08-25",
+  "website": "http://universesandbox.com/",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "early-access",
+    "sandbox",
+    "space",
+    "education",
+    "space-sim",
+    "relaxing",
+    "open-world",
+    "physics",
+    "science",
+    "realistic",
+    "destruction",
+    "atmospheric",
+    "family-friendly",
+    "god-game",
+    "sci-fi",
+    "exploration",
+    "immersive-sim"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "Finnish",
+    "Hungarian",
+    "Japanese",
+    "Korean",
+    "Norwegian",
+    "Polish",
+    "Portuguese - Portugal",
+    "Russian",
+    "Swedish",
+    "Thai",
+    "Turkish",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Bulgarian",
+    "Greek",
+    "Romanian",
+    "Ukrainian",
+    "Vietnamese",
+    "Filipino",
+    "Indonesian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Universe Sandbox x64.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Universe Sandbox x64.exe",
+          "description": "Universe Sandbox VR",
+          "type": "openxr"
+        },
+        {
+          "executable": "x32\\Universe Sandbox x32.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Universe Sandbox/Simulations",
+          "pattern": "*.ubox",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Universe Sandbox/Simulations/Quicksave",
+          "pattern": "*.ubox",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Universe Sandbox/Objects",
+          "pattern": "*.ubox",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Universe Sandbox.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Universe Sandbox/Simulations",
+          "pattern": "*.ubox",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Universe Sandbox/Simulations/Quicksave",
+          "pattern": "*.ubox",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Universe Sandbox/Objects",
+          "pattern": "*.ubox",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Universe Sandbox",
+    "Universe Sandbox x64",
+    "x32\\Universe Sandbox x32",
+    "Universe Sandbox.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/230290/d7ac517716aff8c9065d8b5e868cbf69d62c8c2f.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230290/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230290/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230290/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230290/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230290/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230290/51403cdf946510e4031f1ae4bed2dd69d5cd473f/ss_51403cdf946510e4031f1ae4bed2dd69d5cd473f.1920x1080.jpg?t=1745448523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230290/0725d96f2fb6b74cc79eba09bbd6707dae05e523/ss_0725d96f2fb6b74cc79eba09bbd6707dae05e523.1920x1080.jpg?t=1745448523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230290/0093bf0d15a3a5598a4dca691769a5fcdb103a62/ss_0093bf0d15a3a5598a4dca691769a5fcdb103a62.1920x1080.jpg?t=1745448523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230290/3a2385d10dfa28308ccd1abc3498d5d97aabe389/ss_3a2385d10dfa28308ccd1abc3498d5d97aabe389.1920x1080.jpg?t=1745448523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230290/1237a0e77292b04d79d029b9fd3f753adb2f48fa/ss_1237a0e77292b04d79d029b9fd3f753adb2f48fa.1920x1080.jpg?t=1745448523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230290/a5fcd071e681d534ad9fd60e06b0a4c96519fca9/ss_a5fcd071e681d534ad9fd60e06b0a4c96519fca9.1920x1080.jpg?t=1745448523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230290/a1847f86525d3e525caa4c51c06ba73dcd834591/ss_a1847f86525d3e525caa4c51c06ba73dcd834591.1920x1080.jpg?t=1745448523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230290/7795a1ce7e661fd59dd119916be81162cbbe1eaf/ss_7795a1ce7e661fd59dd119916be81162cbbe1eaf.1920x1080.jpg?t=1745448523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230290/e774d369bde71b868c2adc10e6aa8b0aa9baf4ed/ss_e774d369bde71b868c2adc10e6aa8b0aa9baf4ed.1920x1080.jpg?t=1745448523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230290/ab2322d1508cfb1529448a1f8278d32fedfb14e3/ss_ab2322d1508cfb1529448a1f8278d32fedfb14e3.1920x1080.jpg?t=1745448523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230290/690b2ea8052a452b52ca6a03a5ecb6b89d42f9fa/ss_690b2ea8052a452b52ca6a03a5ecb6b89d42f9fa.1920x1080.jpg?t=1745448523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230290/08c97a1fa1d74fe26dbc29471d2e4bff48484efe/ss_08c97a1fa1d74fe26dbc29471d2e4bff48484efe.1920x1080.jpg?t=1745448523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230290/9bc2671b055af8fb1a1876bc0b06d867eba89baa/ss_9bc2671b055af8fb1a1876bc0b06d867eba89baa.1920x1080.jpg?t=1745448523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230290/bf84a2a56b4cb7ca2bfa7b2f0a55291982942d05/ss_bf84a2a56b4cb7ca2bfa7b2f0a55291982942d05.1920x1080.jpg?t=1745448523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230290/c2969fd37c028580800fa2b8e6e555913390f8b5/ss_c2969fd37c028580800fa2b8e6e555913390f8b5.1920x1080.jpg?t=1745448523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230290/f524af1cdfe739b07f75bf79680324ea72281402/ss_f524af1cdfe739b07f75bf79680324ea72281402.1920x1080.jpg?t=1745448523"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230290/05149b63cc368cb253aad35c55481040791870ae/ss_05149b63cc368cb253aad35c55481040791870ae.1920x1080.jpg?t=1745448523"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Alpha 16 Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256655880/movie.293x165.jpg?t=1741037598",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/230290/41602/3ea9be80e860063b26a02377f6e19b8b74492bb5/1750482542/dash_h264.mpd?t=1741037598"
+    },
+    {
+      "name": "Update 20 Gameplay",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256655814/movie.293x165.jpg?t=1498247751",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/230290/41480/33046aa29a10be28e5e4612d7c6ea64790a26589/1750482539/dash_h264.mpd?t=1498247751"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 230290,
+    "store_url": "https://store.steampowered.com/app/230290/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Workshop",
+      "Adjustable Text Size",
+      "Custom Volume Controls",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Touch Only Option",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Early Access",
+      "Simulation",
+      "Indie",
+      "Sandbox",
+      "Space",
+      "Education",
+      "Space Sim",
+      "Relaxing",
+      "Open World",
+      "Physics",
+      "Science",
+      "Realistic",
+      "Destruction",
+      "Atmospheric",
+      "Family Friendly",
+      "Casual",
+      "God Game",
+      "Sci-fi",
+      "Exploration",
+      "Immersive Sim"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 30493,
+    "review_negative": 1114,
+    "review_total": 31607,
+    "review_positive_percent": 96.48
+  }
+}

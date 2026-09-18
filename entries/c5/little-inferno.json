@@ -1,0 +1,220 @@
+{
+  "key": "little-inferno",
+  "name": "Little Inferno",
+  "description": "Throw your toys into your fire, and play with them as they burn. An adventure that takes place almost entirely in front of a fireplace - about looking up up up out of the chimney, and the cold world just on the other side of the wall. From the creators of World of Goo and Human Resource Machine.",
+  "developers": [
+    "Tomorrow Corporation"
+  ],
+  "publishers": [
+    "Tomorrow Corporation"
+  ],
+  "release_date": "2012-11-19",
+  "website": "http://LittleInferno.com",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "puzzle",
+    "singleplayer",
+    "satire",
+    "funny",
+    "short",
+    "comedy",
+    "great-soundtrack",
+    "dark-humor",
+    "sandbox",
+    "atmospheric",
+    "story-rich",
+    "dark",
+    "touch-friendly",
+    "point-and-click",
+    "2d",
+    "surreal",
+    "parody"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "dutch",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "tchinese": "小小煉獄",
+    "schinese": "小小炼狱",
+    "japanese": " リトルインフェルノ",
+    "koreana": "리틀 인퍼노"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Little Inferno.exe",
+          "description": "Launch Game",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Little Inferno",
+          "pattern": "*.bin",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Little Inferno.app",
+          "description": "Launch Game",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Little Inferno",
+          "pattern": "*.bin",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "LittleInferno.bin.x86",
+          "description": "Launch Game",
+          "type": "default"
+        },
+        {
+          "executable": "LittleInferno.bin.x86_64",
+          "description": "Launch Game",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Little Inferno",
+          "pattern": "*.bin",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Little Inferno",
+    "Little Inferno.app",
+    "LittleInferno.bin.x86",
+    "LittleInferno.bin.x86_64",
+    "小小煉獄",
+    "小小炼狱",
+    "リトルインフェルノ",
+    "리틀 인퍼노"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/221260/478d0b4bbe94d5d6c5248e07f0da75cbe9f6ba95.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221260/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221260/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221260/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221260/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221260/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221260/ss_2e2c4f55eabb732d2e15c73654e861a68767a125.1920x1080.jpg?t=1668741117"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221260/ss_98e9d0fb4a0473c69e123a55765ec497d7f57f0d.1920x1080.jpg?t=1668741117"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221260/ss_21eabe703450d20e865292fff89d41569bf8f316.1920x1080.jpg?t=1668741117"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221260/ss_784e42789149f8147a39eef4c8dc02cdb851cb15.1920x1080.jpg?t=1668741117"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221260/ss_4f3939c32ef8ae8a6b0425df21e245f3fac23d21.1920x1080.jpg?t=1668741117"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Little Inferno Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028124/movie.293x165.jpg?t=1447357040",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/221260/9751/9884fb9c08a18a14e2d120b10fcc4cd62b274a08/1750481652/dash_h264.mpd?t=1447357040"
+    },
+    {
+      "name": "Little Inferno Jingle Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028125/movie.293x165.jpg?t=1447357040",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/221260/9752/9070a1708b184378afa003d5cc8942a0cc9feff2/1750481656/dash_h264.mpd?t=1447357040"
+    }
+  ],
+  "metacritic": {
+    "score": 68,
+    "url": "https://www.metacritic.com/game/pc/little-inferno?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 221260,
+    "store_url": "https://store.steampowered.com/app/221260/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Casual",
+      "Indie",
+      "Puzzle",
+      "Singleplayer",
+      "Satire",
+      "Funny",
+      "Short",
+      "Comedy",
+      "Great Soundtrack",
+      "Dark Humor",
+      "Sandbox",
+      "Atmospheric",
+      "Adventure",
+      "Story Rich",
+      "Dark",
+      "Touch-Friendly",
+      "Point & Click",
+      "2D",
+      "Surreal",
+      "Parody "
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 12963,
+    "review_negative": 696,
+    "review_total": 13659,
+    "review_positive_percent": 94.9
+  }
+}

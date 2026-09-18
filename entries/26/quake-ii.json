@@ -1,0 +1,180 @@
+{
+  "key": "quake-ii",
+  "name": "Quake II",
+  "description": "You are humanity’s last hope to stop the Strogg, a hostile alien race waging war against Earth. Play this military sci-fi FPS, now upgraded for modern platforms with improved visuals, new campaign content, online multiplayer/co-op, and more.",
+  "developers": [
+    "id Software"
+  ],
+  "publishers": [
+    "Bethesda Softworks"
+  ],
+  "release_date": "2007-08-04",
+  "website": "http://www.idsoftware.com/games/quake/quake2/",
+  "tags": [
+    "action",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "split-screen"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Russian*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "雷神之锤II"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "rerelease/quake2ex_steam.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "quake2.exe",
+          "description": "Play Quake II (Original)",
+          "type": "default"
+        },
+        {
+          "executable": "quake2.exe",
+          "description": "Play The Reckoning (Original)",
+          "type": "default"
+        },
+        {
+          "executable": "quake2.exe",
+          "description": "Play Ground Zero (Original)",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinSavedGames",
+          "path": "Nightdive Studios/Quake II/baseq2/save",
+          "pattern": "*.pak.gz",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "Nightdive Studios/Quake II/",
+          "pattern": "system.cfg",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "Nightdive Studios/Quake II/baseq2",
+          "pattern": "*.cfg",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Quake II",
+    "rerelease/quake2ex_steam",
+    "quake2"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2320/f4f8eda991901eae74562c30ba6e68715e3d6dcf.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/ss_5b85c7ee18c210a2f75320331b22abb860a10471.1920x1080.jpg?t=1750784724"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/ss_8b699b0ffdb585386e3092b31efbd487f9dcf011.1920x1080.jpg?t=1750784724"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/ss_863a58fb51dbc1d64b05358b61359ad297fe9459.1920x1080.jpg?t=1750784724"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/ss_7df88eccd9b900a60ecd40e50dbce10acad877c3.1920x1080.jpg?t=1750784724"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/ss_b54d1ba9801d9b8ef5f6f5dbb8c6c8e283214e31.1920x1080.jpg?t=1750784724"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/ss_0fd985f0c53e261ac78f2dda6b95db34aec02f46.1920x1080.jpg?t=1750784724"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/ss_01fcdf3053970797cadecf12f4acd386340dc988.1920x1080.jpg?t=1750784724"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/ss_b55e7f9c953cd81fe9557b2eb99399bd15086731.1920x1080.jpg?t=1750784724"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/ss_1bba55175301e8d23258161a4ca8a7f23ced1535.1920x1080.jpg?t=1750784724"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/ss_eb13b0b888ffd8a98f2dfcfe7186955419a81a5c.1920x1080.jpg?t=1750784724"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/ss_490ddd48690c7e1a2d1535cdc15a1e96cf7e5bc9.1920x1080.jpg?t=1750784724"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Enhanced Launch EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256962939/movie.293x165.jpg?t=1691686267",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2320/595911/75225bfe7bbafd1fa48be93c1da81c15e5d80fc9/1750480951/dash_h264.mpd?t=1691686267"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2320,
+    "store_url": "https://store.steampowered.com/app/2320/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Camera Comfort",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Stereo Sound",
+      "Surround Sound",
+      "Steam Cloud",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 9698,
+    "review_negative": 470,
+    "review_total": 10168,
+    "review_positive_percent": 95.38
+  }
+}

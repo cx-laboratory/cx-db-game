@@ -1,0 +1,180 @@
+{
+  "key": "final-fantasy-vii-remake-intergrade",
+  "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+  "description": "Cloud Strife, an ex-SOLDIER operative, descends on the mako-powered city of Midgar. The world of the timeless classic FINAL FANTASY VII is reborn, using cutting-edge graphics technology, a new battle system and an additional adventure featuring Yuffie Kisaragi.",
+  "developers": [
+    "Square Enix"
+  ],
+  "publishers": [
+    "Square Enix"
+  ],
+  "release_date": "2022-06-17",
+  "website": "https://ffvii-remake-intergrade.square-enix-games.com/en-us/",
+  "tags": [
+    "action",
+    "adventure",
+    "rpg",
+    "action-rpg",
+    "jrpg",
+    "singleplayer",
+    "action-adventure",
+    "party-based-rpg",
+    "spectacle-fighter",
+    "third-person",
+    "fantasy",
+    "controller",
+    "3d",
+    "magic",
+    "story-rich",
+    "3d-platformer",
+    "cinematic",
+    "realistic",
+    "sci-fi",
+    "great-soundtrack"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "japanese",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ff7remake.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/FINAL FANTASY VII REMAKE/Steam/{64BitSteamID}/",
+          "pattern": "ff7remakecommon.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/FINAL FANTASY VII REMAKE/Steam/{64BitSteamID}/",
+          "pattern": "ff7remake0*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/FINAL FANTASY VII REMAKE/Steam/{64BitSteamID}/",
+          "pattern": "ff7remakeplus0*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "FINAL FANTASY VII REMAKE INTERGRADE",
+    "ff7remake"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1462040/3cf19bc8fa3bc953d68a9b46b0a7555839188da0.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/ss_20a352a2c20dd4bfb08fa131dc4c2e763510f584.1920x1080.jpg?t=1773895755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/ss_55903e74751601e42fb7f858d5c07ec048386ce2.1920x1080.jpg?t=1773895755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/ss_ac55306d00923f2902de20bb5ade7f9cc190e8cf.1920x1080.jpg?t=1773895755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/ss_6e30290a5de36f3274a11bd6c78f077c9e489115.1920x1080.jpg?t=1773895755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/ss_170c616f08812827d70ac2d9099447a52e114546.1920x1080.jpg?t=1773895755"
+    }
+  ],
+  "videos": [
+    {
+      "name": "ESRB_EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256878893/movie.293x165.jpg?t=1655416854",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1462040/448849/9cebfd6851e2861a87c90e58db2cdb5476f43801/1750691718/dash_h264.mpd?t=1655416854"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1462040,
+    "store_url": "https://store.steampowered.com/app/1462040/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Gamepad Recommended",
+      "Keyboard Only Option",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Surround Sound",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "RPG",
+      "Action RPG",
+      "JRPG",
+      "Singleplayer",
+      "Action-Adventure",
+      "Party-Based RPG",
+      "Spectacle fighter",
+      "Third Person",
+      "Action",
+      "Fantasy",
+      "Controller",
+      "Adventure",
+      "3D",
+      "Magic",
+      "Story Rich",
+      "3D Platformer",
+      "Cinematic",
+      "Realistic",
+      "Sci-fi",
+      "Great Soundtrack"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 43028,
+    "review_negative": 6243,
+    "review_total": 49271,
+    "review_positive_percent": 87.33
+  }
+}

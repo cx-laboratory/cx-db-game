@@ -1,0 +1,195 @@
+{
+  "key": "mechwarrior-5-clans",
+  "name": "MechWarrior 5: Clans",
+  "description": "In MECHWARRIOR 5: CLANS, players become new Smoke Jaguar pilots in the Clan Invasion of the Inner Sphere. Lead a five-mech &quot;Star&quot; squad across diverse planets, engaging in an expansive campaign with immersive gameplay and intricate combat. Customize BattleMechs and explore strategic options.",
+  "developers": [
+    "Piranha Games Inc."
+  ],
+  "publishers": [
+    "Piranha Games Inc."
+  ],
+  "release_date": "2024-10-17",
+  "website": "https://mw5clans.com",
+  "tags": [
+    "action",
+    "simulation",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "mechs",
+    "shooter",
+    "fps",
+    "3d",
+    "first-person",
+    "immersive-sim",
+    "futuristic",
+    "realistic",
+    "military",
+    "sci-fi",
+    "war",
+    "character-customization",
+    "linear",
+    "pve",
+    "singleplayer"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "russian",
+    "japanese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "MechWarrior.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "MW5Clans/Saved/SaveGames",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "MechWarrior 5: Clans",
+    "MechWarrior"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2000890/6e0068ae43568b144b079c54d058b2d2548ba03d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000890/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000890/3156906701672549b68bcef34834caa2626c91a7/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000890/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000890/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000890/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000890/ss_ba0a0564ae7df7d460eb6eaad778d32fbeeef2be.1920x1080.jpg?t=1764885613"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000890/ss_880373694130eb0b8f2ec7c38a47a78d85d502b3.1920x1080.jpg?t=1764885613"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000890/ss_726522cce644cc927387b8b6a76aa2706b703b26.1920x1080.jpg?t=1764885613"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000890/ss_9cf3ded4bd5ae90230645d8493091582ffd09819.1920x1080.jpg?t=1764885613"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000890/ss_812da18d25bac7ede3d1cc9619a7a633184803ab.1920x1080.jpg?t=1764885613"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000890/ss_48265b005c7b9837a17a1d87ad35e053aa5d87f6.1920x1080.jpg?t=1764885613"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000890/ss_5208525d53790b72b30d76caa99a410fc489cebc.1920x1080.jpg?t=1764885613"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000890/ss_a22be3b48abf047b7672ce397cbc58d6d7fb886f.1920x1080.jpg?t=1764885613"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000890/ss_301d2aa11e346fb8d43cb379a539adedcf54ea0e.1920x1080.jpg?t=1764885613"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257066634/2e1399f8002f571948ba8dff2df198cc3be446f2/movie_600x337.jpg?t=1729304890",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2000890/774189/ef98d531ec8d2fa89dc52ed1c4156ac467f6a7e3/1750744309/dash_h264.mpd?t=1729304890"
+    },
+    {
+      "name": "Gamescom Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257049362/b1ffc285560a9a8471279d9b129b5d1757d9c5be/movie_600x337.jpg?t=1729304894",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2000890/745812/fb36635061cb2c828f29b67b468045d8bd5a4b76/1750744309/dash_h264.mpd?t=1729304894"
+    },
+    {
+      "name": "Jayden Character Featurette",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257035836/17d72efcfe5d806d560a2da045ac092d929763ed/movie_600x337.jpg?t=1729304898",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2000890/722390/76e72f911505b9480c97e26d34aa9e16d6b7d41d/1750744308/dash_h264.mpd?t=1729304898"
+    },
+    {
+      "name": "Release Date Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257029730/movie.293x165.jpg?t=1717951663",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2000890/711521/63a59a619de947cdf9b2218c455da765d548e528/1750744307/dash_h264.mpd?t=1717951663"
+    },
+    {
+      "name": "GDC Demo Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257012604/movie.293x165.jpg?t=1712067234",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2000890/682003/0163ce2ac1ba124f486061ae9baada75f3202d47/1750744306/dash_h264.mpd?t=1712067234"
+    },
+    {
+      "name": "Teaser Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256969748/movie.293x165.jpg?t=1724692094",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2000890/607951/a7a3e5e560fe2df308e58f3eb58c80fe6836c54f/1750744306/dash_h264.mpd?t=1724692094"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2000890,
+    "store_url": "https://store.steampowered.com/app/2000890/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Action",
+      "Simulation",
+      "Mechs",
+      "Shooter",
+      "FPS",
+      "3D",
+      "First-Person",
+      "Immersive Sim",
+      "Futuristic",
+      "Realistic",
+      "Military",
+      "Sci-fi",
+      "War",
+      "Character Customization",
+      "Linear",
+      "PvE",
+      "Co-op",
+      "Multiplayer",
+      "Singleplayer",
+      "Online Co-Op"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 4276,
+    "review_negative": 1481,
+    "review_total": 5757,
+    "review_positive_percent": 74.27
+  }
+}

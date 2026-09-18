@@ -1,0 +1,306 @@
+{
+  "key": "psychonauts-2",
+  "name": "Psychonauts 2",
+  "description": "Combining quirky missions and mysterious conspiracies, Psychonauts 2 is a platform-adventure game with cinematic style and tons of customizable psychic powers.",
+  "developers": [
+    "Double Fine Productions"
+  ],
+  "publishers": [
+    "Xbox Game Studios"
+  ],
+  "release_date": "2021-08-25",
+  "website": "https://www.doublefine.com/games/psychonauts-2",
+  "tags": [
+    "action",
+    "adventure",
+    "3d-platformer",
+    "story-rich",
+    "singleplayer",
+    "psychological",
+    "comedy",
+    "funny",
+    "psychedelic",
+    "platformer",
+    "cartoony",
+    "colorful",
+    "surreal",
+    "sequel",
+    "third-person",
+    "action-adventure",
+    "great-soundtrack",
+    "controller",
+    "lgbtq",
+    "arcade"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "russian",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Psychonauts2.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Psychonauts2\\Binaries\\Win64\\Psychonauts2-Win64-Test.exe",
+          "description": "Test Build",
+          "type": "option2"
+        },
+        {
+          "executable": "Psychonauts2\\Binaries\\Win64\\Psychonauts2-Win64-Test.exe",
+          "description": "Test Build",
+          "type": "option2"
+        },
+        {
+          "executable": "Psychonauts2\\Binaries\\Win64\\Psychonauts2-Win64-Test.exe",
+          "description": "Test Build",
+          "type": "option2"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Psychonauts2/Saved/SaveGames",
+          "pattern": "Psychonauts2Save*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Psychonauts2/Saved/SaveGames",
+          "pattern": "P2ConfigSaveSlot.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Psychonauts2-Mac-Shipping.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Psychonauts2/Saved/SaveGames",
+          "pattern": "Psychonauts2Save*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Psychonauts2/Saved/SaveGames",
+          "pattern": "P2ConfigSaveSlot.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Psychonauts2.sh",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Psychonauts2.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Psychonauts2/Saved/SaveGames",
+          "pattern": "Psychonauts2Save*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Psychonauts2/Saved/SaveGames",
+          "pattern": "P2ConfigSaveSlot.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Psychonauts 2",
+    "Psychonauts2",
+    "Psychonauts2\\Binaries\\Win64\\Psychonauts2-Win64-Test",
+    "Psychonauts2-Mac-Shipping.app",
+    "Psychonauts2.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/607080/ac07e34abbee5e3bc4a3b50877effe61ee76b0d9.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/ss_d78da4dbc35620193f7c14e0e5e68f7020adfd43.1920x1080.jpg?t=1745521663"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/ss_1b76e40ca9d92bfe8a51ec0603460641229676d4.1920x1080.jpg?t=1745521663"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/ss_1fca58dd7904427261233413a1232320d6c3f005.1920x1080.jpg?t=1745521663"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/ss_ee2375942ad59bb2027fc5a845bad9936b788b6e.1920x1080.jpg?t=1745521663"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/ss_6e7d5bb387e607873da9e763b3b4df240a0a14a9.1920x1080.jpg?t=1745521663"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/ss_ac156309813136d5a3154bee324335695af3e428.1920x1080.jpg?t=1745521663"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/ss_76c8bac20ceb6f143c6647d289e9e4183366087b.1920x1080.jpg?t=1745521663"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/ss_1bc213c36d41e88819efff1b59854296d9d0a743.1920x1080.jpg?t=1745521663"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/ss_be03f5f2d8f6ddd3061680e44c7d1ed8ef77a5c8.1920x1080.jpg?t=1745521663"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/ss_54c481949f241b675d5554a909a8b005d043b153.1920x1080.jpg?t=1745521663"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/ss_ac7d51dd9299eb680d1674dfe5934d70370b3dea.1920x1080.jpg?t=1745521663"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/ss_1b156e3250ef88e8a561c43e99a62cbbf5c6f26f.1920x1080.jpg?t=1745521663"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/ss_853957fbc8c4a458b8ccdfe3264587622c91d078.1920x1080.jpg?t=1745521663"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/ss_7ea4bd85ee72c8aba769e26cccb7fc1d32a51530.1920x1080.jpg?t=1745521663"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/ss_6dc34a4d2eeb251e8263aa119bb0970e290b949d.1920x1080.jpg?t=1745521663"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/ss_9227d4d485e7f25b5a046a70b99d3fddd157b5fd.1920x1080.jpg?t=1745521663"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/ss_842ea7e52cdff28d9c7ee04ed65897a4b23fb33d.1920x1080.jpg?t=1745521663"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Psychonauts 2 // Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256850720/movie.293x165.jpg?t=1631143569",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/607080/399707/dd325fd4be0ba8834af8868c983117e61780115c/1750561704/dash_h264.mpd?t=1631143569"
+    },
+    {
+      "name": "Psychonauts 2 // Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256849077/movie.293x165.jpg?t=1630022348",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/607080/396547/415bd11741c9c8f8eef05b6801060db196c0a41e/1750561700/dash_h264.mpd?t=1630022348"
+    },
+    {
+      "name": "Psychonauts 2 // Story Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256843249/movie.293x165.jpg?t=1626707236",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/607080/385346/79755182f77dd4a62cac0c02d0b6403bceafb4e2/1750561700/dash_h264.mpd?t=1626707236"
+    },
+    {
+      "name": "Psychonauts 2 // Action Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256839072/movie.293x165.jpg?t=1623790749",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/607080/377468/07d6e15bcd86c148ae333cd4352b76b689dd4c96/1750561694/dash_h264.mpd?t=1623790749"
+    },
+    {
+      "name": "Psychonauts 2 // Brain in a Jar Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256800685/movie.293x165.jpg?t=1599887601",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/607080/311708/02622d497d19fe52f80a26925a3c096bbffe54c0/1750561691/dash_h264.mpd?t=1599887601"
+    },
+    {
+      "name": "Psychonauts 2 // Official First Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256752883/movie.293x165.jpg?t=1560116657",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/607080/227137/ea965c9d6bc83df8106e12a67598d88372a0c0d0/1750561691/dash_h264.mpd?t=1560116657"
+    }
+  ],
+  "metacritic": {
+    "score": 89,
+    "url": "https://www.metacritic.com/game/pc/psychonauts-2?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 607080,
+    "store_url": "https://store.steampowered.com/app/607080/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "3D Platformer",
+      "Story Rich",
+      "Singleplayer",
+      "Psychological",
+      "Comedy",
+      "Adventure",
+      "Funny",
+      "Psychedelic",
+      "Platformer",
+      "Cartoony",
+      "Colorful",
+      "Action",
+      "Surreal",
+      "Sequel",
+      "Third Person",
+      "Action-Adventure",
+      "Great Soundtrack",
+      "Controller",
+      "LGBTQ+",
+      "Arcade"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 13631,
+    "review_negative": 605,
+    "review_total": 14236,
+    "review_positive_percent": 95.75
+  }
+}

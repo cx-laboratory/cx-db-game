@@ -1,0 +1,183 @@
+{
+  "key": "fast-food-simulator",
+  "name": "Fast Food Simulator",
+  "description": "Welcome to the world's most chaotic place! Play solo or co-op with up to 6 players. Run a fast-food restaurant, and work with your friends to expand your business. Take orders, make burgers, and increase your earnings by dealing with customers.",
+  "developers": [
+    "No Ceiling Games"
+  ],
+  "publishers": [
+    "No Ceiling Games"
+  ],
+  "release_date": "2024-12-11",
+  "website": "https://noceilinggames.com/",
+  "tags": [
+    "indie",
+    "simulation",
+    "early-access",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "cooking",
+    "management",
+    "first-person",
+    "singleplayer",
+    "3d",
+    "artificial-intelligence",
+    "realistic",
+    "job-simulator",
+    "immersive-sim",
+    "character-customization",
+    "funny",
+    "horror"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Hungarian",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Spanish - Latin America",
+    "Traditional Chinese",
+    "Turkish",
+    "Ukrainian",
+    "Portuguese - Portugal",
+    "Arabic",
+    "Dutch",
+    "Danish",
+    "Finnish",
+    "Swedish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Fast Food Simulator.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "ProjectBakery/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Fast Food Simulator"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2916430/15ed340ecea42c62e23b8c38c610959ebd275473.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/ss_bd6acdb1b2b53f50eff60541df2539c361ceed71.1920x1080.jpg?t=1762536253"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/ss_f482267a794e52de1eb2412b4cd28bfce243d133.1920x1080.jpg?t=1762536253"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/ss_53679ebea7901a5d98b39a2045705f4f5b7662be.1920x1080.jpg?t=1762536253"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/ss_77c32bf8497f440f212e63e52f4e9d22b7782306.1920x1080.jpg?t=1762536253"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/ss_3314824b06ea99d393a889e5c12f89e824000448.1920x1080.jpg?t=1762536253"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/ss_35ce5de5c1a01ecef4e29dd2b75ef9bb0af434c4.1920x1080.jpg?t=1762536253"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/ss_16646a91fde9a1f7e2a5223f50d80e60b6b95940.1920x1080.jpg?t=1762536253"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/ss_f831d19c8eb3da0bbe2f434c0b406bfbf70e56ea.1920x1080.jpg?t=1762536253"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/ss_37a9e520c1fb6af6a9f878577058d9509fd5933f.1920x1080.jpg?t=1762536253"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916430/ss_8e71334a74ebfe890b1e8249c350edf7ca87bacd.1920x1080.jpg?t=1762536253"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Fast Food Simulator Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257050056/movie.293x165.jpg?t=1724783694",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2916430/747038/d47ed48c82369504e819848e417ed7f34b4d2739/1750821410/dash_h264.mpd?t=1724783694"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2916430,
+    "store_url": "https://store.steampowered.com/app/2916430/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Online Co-Op",
+      "Cooking",
+      "Multiplayer",
+      "Management",
+      "Co-op",
+      "Indie",
+      "First-Person",
+      "Singleplayer",
+      "3D",
+      "Artificial Intelligence",
+      "Realistic",
+      "Job Simulator",
+      "Early Access",
+      "Immersive Sim",
+      "Character Customization",
+      "Psychological Horror",
+      "Funny",
+      "Horror"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8352,
+    "review_negative": 1080,
+    "review_total": 9432,
+    "review_positive_percent": 88.55
+  }
+}

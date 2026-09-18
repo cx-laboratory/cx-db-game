@@ -1,0 +1,203 @@
+{
+  "key": "motorsport-manager",
+  "name": "Motorsport Manager",
+  "description": "Have you got what it takes to become the manager of a high-performance motorsport team? Motorsport Manager is a highly detailed, best-in-class management game for fans of motorsport. You’ll hire the drivers, build the cars and embed yourself in the dynamic world of racing.",
+  "developers": [
+    "Playsport Games"
+  ],
+  "publishers": [
+    "Miniclip"
+  ],
+  "release_date": "2016-11-10",
+  "website": "",
+  "tags": [
+    "racing",
+    "simulation",
+    "sports",
+    "strategy",
+    "management",
+    "automobile-sim",
+    "singleplayer",
+    "multiplayer",
+    "difficult",
+    "action",
+    "great-soundtrack",
+    "economy",
+    "moddable"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian",
+    "polish",
+    "dutch",
+    "hungarian",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "赛车经理"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "MM.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Playsport Games/Motorsport Manager/Cloud",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "MM.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Playsport Games/Motorsport Manager/Cloud",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "MM.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Playsport Games/Motorsport Manager/Cloud",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Motorsport Manager",
+    "MM",
+    "MM.app",
+    "MM.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/415200/2b25f5560e3fb717c4d70e2089a56a0a9dd2df3f.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415200/b51d005e6cc79f7442a79c9754a58db28e4a3569/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415200/0cfb4bb872e38413dbd0970129333ac39d6283bc/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415200/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415200/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415200/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415200/ss_cfa613ab902191e4c167aeb5741b38a89d12e626.1920x1080.jpg?t=1782402914"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415200/ss_f7204b853ff940221f8b34b8e7a487ff252f7a95.1920x1080.jpg?t=1782402914"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415200/ss_cad4a02368ba95aa35aa44695098a945a05c520e.1920x1080.jpg?t=1782402914"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415200/ss_49297131e20d1919ecf867710d4c7723e823fde7.1920x1080.jpg?t=1782402914"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415200/ss_a18ee0c707fb2b4b3bc4ba13986b38b3ea33f085.1920x1080.jpg?t=1782402914"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415200/ss_668dd15500da071a20cfb9e181b2b5f45b5b9895.1920x1080.jpg?t=1782402914"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415200/ss_509451a95ceae628041390f7a5187b73cbce96d7.1920x1080.jpg?t=1782402914"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415200/ss_04e44df5056b9fa28c5e2504b18ecf4510405f2b.1920x1080.jpg?t=1782402914"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415200/ss_4a14bcad9a722ec0f72691c6d4a74443b48804f8.1920x1080.jpg?t=1782402914"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415200/ss_39432913cda1c8037c2d4346f483ab1ca51aacc8.1920x1080.jpg?t=1782402914"
+    }
+  ],
+  "videos": [
+    {
+      "name": "MM_Asset_Update_Trailer_PEGI",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256701371/5b27929269ad38056d7787398ff36b36d5c2b73a/movie_600x337.jpg?t=1775831341",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/415200/166441988/cdffb9036175f6ea77672e88cda4f5c0a8c24c0a/1775830716/dash_h264.mpd?t=1775831341"
+    }
+  ],
+  "metacritic": {
+    "score": 81,
+    "url": "https://www.metacritic.com/game/pc/motorsport-manager?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 415200,
+    "store_url": "https://store.steampowered.com/app/415200/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Racing",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Management",
+      "Racing",
+      "Simulation",
+      "Strategy",
+      "Sports",
+      "Automobile Sim",
+      "Singleplayer",
+      "Multiplayer",
+      "Difficult",
+      "Action",
+      "Great Soundtrack",
+      "Economy",
+      "Moddable"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 12964,
+    "review_negative": 1171,
+    "review_total": 14135,
+    "review_positive_percent": 91.72
+  }
+}

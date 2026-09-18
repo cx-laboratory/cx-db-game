@@ -1,0 +1,330 @@
+{
+  "key": "easy-red-2",
+  "name": "Easy Red 2",
+  "description": "Experience massive battles with infantry, tanks, artillery, and aircraft on large destructible open-world maps. Equip yourself, coordinate with your squad, and fight through World War II in singleplayer, co-op, or multiplayer!",
+  "developers": [
+    "Marco Amadei"
+  ],
+  "publishers": [
+    "Corvostudio di Amadei Marco"
+  ],
+  "release_date": "2022-01-07",
+  "website": "https://www.easyred2.com/",
+  "tags": [
+    "action",
+    "indie",
+    "simulation",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "world-war-ii",
+    "singleplayer",
+    "fps",
+    "war",
+    "sandbox",
+    "gore",
+    "shooter",
+    "realistic",
+    "wargame",
+    "violent",
+    "atmospheric",
+    "historical",
+    "team-based",
+    "first-person",
+    "immersive-sim"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English*",
+    "Italian",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Simplified Chinese",
+    "Russian",
+    "Spanish - Latin America",
+    "Arabic",
+    "Portuguese - Portugal",
+    "Portuguese - Brazil",
+    "Polish",
+    "Turkish",
+    "Japanese",
+    "Ukrainian*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Easy Red 2.exe",
+          "description": "Easy Red 2 - DirectX 11 (Recommended)",
+          "type": "option1"
+        },
+        {
+          "executable": "Easy Red 2.exe",
+          "description": "Easy Red 2 - Vulkan API",
+          "type": "option2"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "CorvoStudio/Easy Red 2",
+          "pattern": "*.er2",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "CorvoStudio/Easy Red 2",
+          "pattern": "*.er2m",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "CorvoStudio/Easy Red 2",
+          "pattern": "*.er2d",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "CorvoStudio/Easy Red 2",
+          "pattern": "*.mer2",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "EasyRed2_OSX.app\\",
+          "description": "Easy Red 2 - Apple Silicon (Suggested)",
+          "type": "option1"
+        },
+        {
+          "executable": "EasyRed2_OSX.app\\Contents\\MacOS\\Easy Red 2",
+          "description": "Easy Red 2 - Intel64",
+          "type": "option2"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "CorvoStudio/Easy Red 2",
+          "pattern": "*.er2",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "CorvoStudio/Easy Red 2",
+          "pattern": "*.er2m",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "CorvoStudio/Easy Red 2",
+          "pattern": "*.er2d",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "CorvoStudio/Easy Red 2",
+          "pattern": "*.mer2",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Easy Red 2.x86_64",
+          "description": "Vulkan API",
+          "type": "default"
+        },
+        {
+          "executable": "Easy Red 2.x86_64",
+          "description": "OpenGL API",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "CorvoStudio/Easy Red 2",
+          "pattern": "*.er2",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "CorvoStudio/Easy Red 2",
+          "pattern": "*.er2m",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "CorvoStudio/Easy Red 2",
+          "pattern": "*.er2d",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "CorvoStudio/Easy Red 2",
+          "pattern": "*.mer2",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Easy Red 2",
+    "EasyRed2_OSX.app\\",
+    "EasyRed2_OSX.app\\Contents\\MacOS\\Easy Red 2",
+    "Easy Red 2.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1324780/eb71bb9a2eb2dceb9989c35e60082df3dfe45fdd.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324780/3363888c8b58063e10a996b289611042c587ec7c/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324780/2da4a16d4e489b91dee3caaf61c8862eb6a89e75/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324780/069cb4261854471ef22b02ad3c072d24e40f22ee/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324780/95f15a70e0244e41c1238cda2264e5e3c0abad01/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324780/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324780/8c5d7bbdae4f1dea054a40308c07576d0308d475/ss_8c5d7bbdae4f1dea054a40308c07576d0308d475.1920x1080.jpg?t=1778234706"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324780/251dac69b8a757f4d0758b41436adf06dad8e6bc/ss_251dac69b8a757f4d0758b41436adf06dad8e6bc.1920x1080.jpg?t=1778234706"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324780/0f5400cecb27982639e5373a10e1929c04dd0f7e/ss_0f5400cecb27982639e5373a10e1929c04dd0f7e.1920x1080.jpg?t=1778234706"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324780/c9a37f71f80f5983b5c1922a3eb2ba6363a7975b/ss_c9a37f71f80f5983b5c1922a3eb2ba6363a7975b.1920x1080.jpg?t=1778234706"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324780/9ed1296708c0d0b478770d2dfd13745d7da7933f/ss_9ed1296708c0d0b478770d2dfd13745d7da7933f.1920x1080.jpg?t=1778234706"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324780/6eec1ed4c737ceedc3bf0f38522a67f15f4749d6/ss_6eec1ed4c737ceedc3bf0f38522a67f15f4749d6.1920x1080.jpg?t=1778234706"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324780/ss_7a58d19c3ab6bfbd6bcbbfa9f420ab9f88ab47c9.1920x1080.jpg?t=1778234706"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324780/420c198066e5eb9367e6c916ef525cb976e95165/ss_420c198066e5eb9367e6c916ef525cb976e95165.1920x1080.jpg?t=1778234706"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324780/5dd82da6339395360c7095ede968483f9bf77f9d/ss_5dd82da6339395360c7095ede968483f9bf77f9d.1920x1080.jpg?t=1778234706"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324780/3005e326fd92bc78dd1a23f215ece61df80c42b8/ss_3005e326fd92bc78dd1a23f215ece61df80c42b8.1920x1080.jpg?t=1778234706"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324780/234766cd144a234a779c9e8e761f3625046c1fdf/ss_234766cd144a234a779c9e8e761f3625046c1fdf.1920x1080.jpg?t=1778234706"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324780/7979dc45931cd133d9785dfa34766811a7fed20d/ss_7979dc45931cd133d9785dfa34766811a7fed20d.1920x1080.jpg?t=1778234706"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324780/1aa29ee49c0e3a68c3e74b398c8f706c728330a3/ss_1aa29ee49c0e3a68c3e74b398c8f706c728330a3.1920x1080.jpg?t=1778234706"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324780/d3be756f89e688b055e7bd6e0817d14e85f31b9c/ss_d3be756f89e688b055e7bd6e0817d14e85f31b9c.1920x1080.jpg?t=1778234706"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324780/16f80240d0e325e411d352cc42d79efcdaf09271/ss_16f80240d0e325e411d352cc42d79efcdaf09271.1920x1080.jpg?t=1778234706"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324780/fd23b143d09312e1272bd3af94c74e9d13913fe3/ss_fd23b143d09312e1272bd3af94c74e9d13913fe3.1920x1080.jpg?t=1778234706"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324780/74eeebfa0d2cacc1344592301cfd22ad9bc96151/ss_74eeebfa0d2cacc1344592301cfd22ad9bc96151.1920x1080.jpg?t=1778234706"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Easy Red 2: Update 2.0 | Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257226716/4248a85cfd85ea49c76da7b5ff14e1267998e9a6/movie_600x337.jpg?t=1762796525",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1324780/1592783688/ed130656b8cb93f62ecd469697a9486890ea93ba/1762265413/dash_h264.mpd?t=1762796525"
+    },
+    {
+      "name": "Workshop Trailer 2.0",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257230677/daa5fd682ab13d85eae18f14a3723bef86a66524/movie_600x337.jpg?t=1763031986",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1324780/592751365/6dde31baf616cb893786a86e3b8f5bb29d1d8c5b/1763030647/dash_h264.mpd?t=1763031986"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1324780,
+    "store_url": "https://store.steampowered.com/app/1324780/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Workshop",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Input API Support",
+      "Steam Cloud",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "World War II",
+      "Singleplayer",
+      "FPS",
+      "Action",
+      "Multiplayer",
+      "Simulation",
+      "War",
+      "Strategy",
+      "Indie",
+      "Sandbox",
+      "Gore",
+      "Shooter",
+      "Realistic",
+      "Wargame",
+      "Violent",
+      "Atmospheric",
+      "Historical",
+      "Team-Based",
+      "First-Person",
+      "Immersive Sim"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 12015,
+    "review_negative": 1308,
+    "review_total": 13323,
+    "review_positive_percent": 90.18
+  }
+}

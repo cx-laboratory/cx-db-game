@@ -1,0 +1,230 @@
+{
+  "key": "armello",
+  "name": "Armello",
+  "description": "Armello is a grim fairy-tale board game come to life, with every match combining deep, tactical card play, rich tabletop strategy and RPG elements. Leverage subterfuge, spells and careful strategy to wrangle control of the game's chaotic odds as you quest for the throne.",
+  "developers": [
+    "League of Geeks"
+  ],
+  "publishers": [
+    "League of Geeks"
+  ],
+  "release_date": "2015-09-02",
+  "website": "http://www.armello.com",
+  "tags": [
+    "adventure",
+    "indie",
+    "rpg",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "board-game",
+    "turn-based-strategy",
+    "card-game",
+    "turn-based",
+    "dark-fantasy",
+    "3d",
+    "atmospheric",
+    "hand-drawn",
+    "2d",
+    "tabletop",
+    "multiple-endings",
+    "fantasy",
+    "hex-grid",
+    "lore-rich",
+    "tactical-rpg"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "dutch",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "armello.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "armello.app",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "armello.x86",
+          "description": "Launch",
+          "type": "none"
+        },
+        {
+          "executable": "armello.x86_64",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Armello",
+    "armello",
+    "armello.app",
+    "armello.x86",
+    "armello.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/290340/1eb84eb6e2f5e611c16e13b380b38d15cbfcabd1.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290340/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290340/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290340/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290340/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290340/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290340/ss_90d7cf6d5413ed61b6ffca4659086282b42c3fa1.1920x1080.jpg?t=1712025834"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290340/ss_aa5d6a4d236aee51fa0a93e8c605dba49f3e7c22.1920x1080.jpg?t=1712025834"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290340/ss_df23796cc6821349698d6b0825ac6d3a016ca589.1920x1080.jpg?t=1712025834"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290340/ss_c3644b15faf7606d1b6c7e6280cc56598ff6a99f.1920x1080.jpg?t=1712025834"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290340/ss_6db44215385d58e6c31c4315956ca3a43fc4d6b1.1920x1080.jpg?t=1712025834"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290340/ss_60876803fc08462c845a783cd63c4da10cdba89b.1920x1080.jpg?t=1712025834"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290340/ss_e9dcae0b63dcb6eedcfc29f8add84959244ef235.1920x1080.jpg?t=1712025834"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290340/ss_a8e94f13f2034c2da709f694b1ab2827ef874057.1920x1080.jpg?t=1712025834"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290340/ss_f3ea836c8f0e6c461df53731c6f504c913a52e51.1920x1080.jpg?t=1712025834"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290340/ss_8cae92f1bfea1d65f9521d9f6cdce6af760c640f.1920x1080.jpg?t=1712025834"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/290340/ss_8910071f7134deaa16ed78a312a169cee4c75f2f.1920x1080.jpg?t=1712025834"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256656086/movie.293x165.jpg?t=1447377818",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/290340/42103/ae62744f8da5837431383cfbd3eb42cdf9e01123/1750501023/dash_h264.mpd?t=1447377818"
+    },
+    {
+      "name": "Armello - Debut Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2036130/movie.293x165.jpg?t=1447366009",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/290340/28661/6b45f5226c3b0e7a951711504eeecec82422366f/1750500997/dash_h264.mpd?t=1447366009"
+    },
+    {
+      "name": "Armello - Horrors & Heroes Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2036602/movie.293x165.jpg?t=1447367595",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/290340/29921/a07db84f0fa0a1d5b33c6640a46484ca3dfd8cf0/1750501006/dash_h264.mpd?t=1447367595"
+    },
+    {
+      "name": "v2.0 Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256743953/movie.293x165.jpg?t=1551205273",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/290340/210927/e9e68e8e1d0e457c87034f2107a5361613d65dfa/1750501032/dash_h264.mpd?t=1551205273"
+    }
+  ],
+  "metacritic": {
+    "score": 75,
+    "url": "https://www.metacritic.com/game/pc/armello?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 290340,
+    "store_url": "https://store.steampowered.com/app/290340/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Board Game",
+      "PvP",
+      "Turn-Based Strategy",
+      "Card Game",
+      "Turn-Based",
+      "Strategy",
+      "RPG",
+      "Dark Fantasy",
+      "3D",
+      "Atmospheric",
+      "Hand-drawn",
+      "2D",
+      "Tabletop",
+      "Multiple Endings",
+      "Fantasy",
+      "Hex Grid",
+      "Lore-Rich",
+      "Adventure",
+      "Tactical RPG",
+      "Multiplayer"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 13115,
+    "review_negative": 2911,
+    "review_total": 16026,
+    "review_positive_percent": 81.84
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "key": "horizon-forbidden-west-complete-edition",
+  "name": "Horizon Forbidden West™ Complete Edition",
+  "description": "Experience the epic Horizon Forbidden West™ in its entirety with bonus content and the Burning Shores expansion included. The Burning Shores add-on contains additional content for Aloy’s adventure, including new storylines, characters, and experiences in a stunning yet hazardous new area.",
+  "developers": [
+    "Guerrilla"
+  ],
+  "publishers": [
+    "PlayStation Publishing LLC"
+  ],
+  "release_date": "2024-03-21",
+  "website": "https://www.playstation.com/games/horizon-forbidden-west/pc/",
+  "tags": [
+    "action",
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "hungarian",
+    "czech",
+    "turkish",
+    "arabic",
+    "brazilian",
+    "greek",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "《地平线 西之绝境™》完整版",
+    "tchinese": "《地平線 西域禁地》完全版",
+    "koreana": "호라이즌 포비든 웨스트 컴플리트 에디션",
+    "polish": "Horizon Forbidden West™ Edycja kompletna",
+    "portuguese": " Horizon Forbidden West™ Edição Completa",
+    "brazilian": "Horizon Forbidden West™ - Edição Completa",
+    "russian": " Полное издание «Horizon Запретный Запад»",
+    "latam": " Edición Completa de Horizon Forbidden West™",
+    "ukrainian": " Повне видання Horizon Forbidden West™",
+    "spanish": "Horizon Forbidden West™ Complete Edition"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "BootLoader.Win64.ReleaseSymRtDbg.DX12.exe",
+          "description": "Bootloader",
+          "type": "option1"
+        },
+        {
+          "executable": "NIP.WinGameSteam.Submission.DX12.exe",
+          "description": "Submission for old branches",
+          "type": "default"
+        },
+        {
+          "executable": "HorizonForbiddenWest.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Horizon Forbidden West™ Complete Edition",
+    "BootLoader.Win64.ReleaseSymRtDbg.DX12",
+    "NIP.WinGameSteam.Submission.DX12",
+    "HorizonForbiddenWest",
+    "《地平线 西之绝境™》完整版",
+    "《地平線 西域禁地》完全版",
+    "호라이즌 포비든 웨스트 컴플리트 에디션",
+    "Horizon Forbidden West™ Edycja kompletna",
+    "Horizon Forbidden West™ Edição Completa",
+    "Horizon Forbidden West™ - Edição Completa",
+    "Полное издание «Horizon Запретный Запад»",
+    "Edición Completa de Horizon Forbidden West™",
+    "Повне видання Horizon Forbidden West™"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2420110/b06de101e39474f3c763a9b9aac8df876d4e482e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/ss_7c1ead4b3d952fd0fb92735397945bd8732bba53.1920x1080.jpg?t=1776465869"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/ss_2d05273cef37bcc3651dc9dbea42dbeca5f5f196.1920x1080.jpg?t=1776465869"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/ss_87750b2dbc34d82d1ffef7aaab40a9f46d970d99.1920x1080.jpg?t=1776465869"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/ss_a4a19b86e80488f3d608e835e5ae3086760db866.1920x1080.jpg?t=1776465869"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/ss_16055ecb20ad2879811db3e97375aef43eef0a8c.1920x1080.jpg?t=1776465869"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/ss_b7d25b4a328003d340913377793e83c961f2d7ab.1920x1080.jpg?t=1776465869"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/ss_36d70cdb331ce82bc7310c64e1a5c3f44b8e6a7b.1920x1080.jpg?t=1776465869"
+    }
+  ],
+  "videos": [
+    {
+      "name": "full launch trailer EN_US",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257007287/movie.293x165.jpg?t=1711032973",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2420110/673729/da330af842f0deee5a8b1b84a79c0f1cd24f68df/1750814445/dash_h264.mpd?t=1711032973"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2420110,
+    "store_url": "https://store.steampowered.com/app/2420110/",
+    "required_age": 13,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Input API Support",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Surround Sound",
+      "Steam Cloud",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 25883,
+    "review_negative": 3438,
+    "review_total": 29321,
+    "review_positive_percent": 88.27
+  }
+}

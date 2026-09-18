@@ -1,0 +1,257 @@
+{
+  "key": "star-conflict",
+  "name": "Star Conflict",
+  "description": "Star Conflict is an action-packed, massively multiplayer space simulation game that puts players in the role of elite pilots engaging in a widespread interplanetary skirmish. The whole world for PVP and PVE!",
+  "developers": [
+    "Star Gem Inc."
+  ],
+  "publishers": [
+    "Gaijin Network Ltd"
+  ],
+  "release_date": "2013-02-28",
+  "website": "http://star-conflict.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "massively-multiplayer",
+    "rpg",
+    "simulation",
+    "free-to-play",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "space-sim",
+    "open-world",
+    "pve",
+    "trading",
+    "sandbox",
+    "shooter",
+    "flight",
+    "3d",
+    "crafting",
+    "choose-your-own-adventure",
+    "sci-fi",
+    "third-person",
+    "atmospheric",
+    "science",
+    "aliens"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "spanish",
+    "russian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "game.exe",
+          "description": "Game Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "StarConflict.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "StarConflict",
+          "description": "Game Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Star Conflict",
+    "game",
+    "StarConflict.app",
+    "StarConflict"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/212070/1d239792f0cd35ace45c219fd2985340539feacc.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/00ee576ee18e18da1626d1c3dc55970941898276/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/f352d086e22e9d69931da38bcd4ece01efd3f969/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ff551cb899d9db6991c4f38b36a133f69354319e/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/3fc93fb3f19aa1350e9d3b9168dd18c3c6ef2a18/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/9a4c2196ee2eeeb7e90a92eac3c5150e9e09bca4/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_682c5d5a402e587f240951b1e74182ac2bac2bf9.1920x1080.jpg?t=1780294011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_105e8c2b405e3a02107fdaa3855adf2e99937896.1920x1080.jpg?t=1780294011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_e3a1005350f90afc4bdb3467093eb022fd86bd86.1920x1080.jpg?t=1780294011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_86065e8ae9e02272c2fcb0ddcdbdb0242f1c339d.1920x1080.jpg?t=1780294011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_a16cdfb4dcb1bd154c01fdd61ba626eac4f5a12d.1920x1080.jpg?t=1780294011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_9bd7a007ce8dbbfa2e225e8871c5fe76a56fb250.1920x1080.jpg?t=1780294011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_ca39cc0eb822d1f890bbb72d3a18cbdaa3629fac.1920x1080.jpg?t=1780294011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_87d2b9f174b87b0aaa3c737700bfda5608a85a6f.1920x1080.jpg?t=1780294011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_fe1321ac9c0426204731bae1efac0fda14a6abfd.1920x1080.jpg?t=1780294011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_a75e79e5da539efe38c2f73407f842f6a7a1158d.1920x1080.jpg?t=1780294011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_eed25ca3553677496722b52592d5c284f098fad1.1920x1080.jpg?t=1780294011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_3f9000b1089a82c5275624aa334d22effecc709e.1920x1080.jpg?t=1780294011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_741ef598790216523985c8abd926920e661565e4.1920x1080.jpg?t=1780294011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_c22826130bb9ff180a4c5f9fe90d5f344f028380.1920x1080.jpg?t=1780294011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_b1204854e17284d5aa1f86ccd6554a30ff56b109.1920x1080.jpg?t=1780294011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_195d25ec29f7f8ae3859b457e862d549c26be2ef.1920x1080.jpg?t=1780294011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_37614a7a5a8eee36cb25f234e45c23e417679221.1920x1080.jpg?t=1780294011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_fe7cffd6dd7eb6b4a44276d273dd701dfcaf82d3.1920x1080.jpg?t=1780294011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_528f90aa5eaa71f76ec9e8f80097b76c9b45cfa4.1920x1080.jpg?t=1780294011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_2abc86834da116304994821b006f1a351985d9c6.1920x1080.jpg?t=1780294011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_1fd056122819aa653c5c83351df5a4c4f462b51b.1920x1080.jpg?t=1780294011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_5630007f876c0fa772b1b639a6d5d6c75f2a9bf2.1920x1080.jpg?t=1780294011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_c3f0c3494f42f9e4a46b1f0852987066a3f71779.1920x1080.jpg?t=1780294011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_bbc442ac49ac33783971f6e6edab2a0519228e44.1920x1080.jpg?t=1780294011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_115aa6af73414e76cbc6fe1b04d399efce1c015d.1920x1080.jpg?t=1780294011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_b4ad60bb7ee2995f032db89f8db6927ef5412f81.1920x1080.jpg?t=1780294011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_1a2e8e28d6f7e8a5e5b2b07d0947dcc300d1d9ca.1920x1080.jpg?t=1780294011"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/ss_83654eaa3afab1a996365ac8d25f871a2a09a259.1920x1080.jpg?t=1780294011"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Split of Alliances",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257298939/c5675ec062a37137a1dba30038f534810ce42349/movie_600x337.jpg?t=1773121104",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/212070/875341271/d28c563f873bfc3f793b9c92ccf16bc4410a031b/1772797056/dash_h264.mpd?t=1773121104"
+    },
+    {
+      "name": "Star Conflict- Join The Fight",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256694883/movie.293x165.jpg?t=1668056766",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/212070/122005/a7bd84b8980d711381047d2de86cc05cd2049278/1750485678/dash_h264.mpd?t=1668056766"
+    }
+  ],
+  "metacritic": {
+    "score": 75,
+    "url": "https://www.metacritic.com/game/pc/star-conflict?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 212070,
+    "store_url": "https://store.steampowered.com/app/212070/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Simulation",
+      "Free To Play"
+    ],
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "VR Support",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "Partial Controller Support"
+    ],
+    "tags": [
+      "Online Co-Op",
+      "Free to Play",
+      "Space Sim",
+      "Massively Multiplayer",
+      "Open World",
+      "PvE",
+      "Action",
+      "Trading",
+      "Sandbox",
+      "Shooter",
+      "Flight",
+      "3D",
+      "Crafting",
+      "Choose Your Own Adventure",
+      "RPG",
+      "Sci-fi",
+      "Third Person",
+      "Atmospheric",
+      "Science",
+      "Aliens"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 11036,
+    "review_negative": 4164,
+    "review_total": 15200,
+    "review_positive_percent": 72.61
+  }
+}

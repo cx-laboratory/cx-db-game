@@ -1,0 +1,213 @@
+{
+  "key": "echo-point-nova",
+  "name": "Echo Point Nova",
+  "description": "Echo Point Nova is an open-world FPS that offers unparalleled freedom and thrilling speed. Designed for both singleplayer and coop. From the creators of Severed Steel.",
+  "developers": [
+    "Greylock Studio"
+  ],
+  "publishers": [
+    "Greylock Studio"
+  ],
+  "release_date": "2024-09-24",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "fps",
+    "shooter",
+    "exploration",
+    "arena-shooter",
+    "first-person",
+    "3d",
+    "parkour",
+    "stylized",
+    "voxel",
+    "destruction",
+    "atmospheric",
+    "old-school",
+    "co-op-campaign",
+    "relaxing",
+    "retro",
+    "open-world"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "koreana",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "turkish"
+  ],
+  "name_localized": {
+    "schinese": "回声点新星"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Greylock.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Greylock.exe",
+          "description": "with debug.",
+          "type": "option2"
+        },
+        {
+          "executable": "Greylock.exe",
+          "description": "with debug.",
+          "type": "option2"
+        },
+        {
+          "executable": "Greylock.exe",
+          "description": "with debug.",
+          "type": "option3"
+        },
+        {
+          "executable": "Greylock.exe",
+          "description": "Echo Point Nova with raytracing.",
+          "type": "option1"
+        },
+        {
+          "executable": "Greylock.exe",
+          "description": "with DX11.",
+          "type": "option3"
+        },
+        {
+          "executable": "Greylock.exe",
+          "description": "black screen fix for 10 series cards",
+          "type": "option3"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Greylock/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Echo Point Nova",
+    "Greylock"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1836730/e127de25605e0a939e2fc50d1672a1b75022b5a0.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836730/80d80e7510d9df1659801115516cf0100bc85cf2/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836730/8c5f8b1e2b0ec313f069f2c5db9a28af7e758fd5/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836730/ebe37e581c2a24f993a677939616bf917497ccf5/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836730/165f0396a72d03e80f59cddb72284da3587cb4c7/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836730/5d141293db0b24ae484c7fcaa23588a1b961388a/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836730/ss_eca963737f912183bba995d2a64fa15c6dd3e626.1920x1080.jpg?t=1775572906"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836730/ss_4c6c7ffc7cc38c13397e7af7cf1911ce271e66b5.1920x1080.jpg?t=1775572906"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836730/ss_660e4721b309926f1b7203c0b0b8d6dd6eb5d764.1920x1080.jpg?t=1775572906"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836730/ss_aae2d6ea6204eea81f8b40ea3980ebf39d37369b.1920x1080.jpg?t=1775572906"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836730/ss_8db615bb24bcaee440bc0fb96752c308d7583d75.1920x1080.jpg?t=1775572906"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836730/ss_588337761f514656559d0d647b84b3caa54c3915.1920x1080.jpg?t=1775572906"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836730/ss_ec9a9ef585f34229833422a8818fb8fd4317bd2a.1920x1080.jpg?t=1775572906"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836730/ss_6403531973b394c1aa849c979b6754b306ec5a37.1920x1080.jpg?t=1775572906"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836730/ss_b2c1cb31e2cd6f048e5763efdeb9810e4ac4fca9.1920x1080.jpg?t=1775572906"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836730/ss_a87009197c7e8d9743259292d549e30f7bd03b88.1920x1080.jpg?t=1775572906"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257057744/movie.293x165.jpg?t=1727186410",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1836730/760168/e1d72be6aa1aa99be13e86b26de5567d81643ad9/1750738110/dash_h264.mpd?t=1727186410"
+    },
+    {
+      "name": "LaunchAnnounce",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257055666/movie.293x165.jpg?t=1726581150",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1836730/756724/4e107f96fb269a82c2927beaeda8e5249a073ad4/1750738110/dash_h264.mpd?t=1726581150"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1836730,
+    "store_url": "https://store.steampowered.com/app/1836730/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "FPS",
+      "Shooter",
+      "Online Co-Op",
+      "Exploration",
+      "Arena Shooter",
+      "Action",
+      "First-Person",
+      "3D",
+      "Parkour",
+      "Stylized",
+      "Adventure",
+      "Voxel",
+      "Destruction",
+      "Atmospheric",
+      "Co-op",
+      "Old School",
+      "Co-op Campaign",
+      "Relaxing",
+      "Retro",
+      "Open World"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 7519,
+    "review_negative": 267,
+    "review_total": 7786,
+    "review_positive_percent": 96.57
+  }
+}

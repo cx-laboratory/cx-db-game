@@ -1,0 +1,177 @@
+{
+  "key": "paladins",
+  "name": "Paladins",
+  "description": "Paladins is the ultimate fantasy team-based shooter experience, with over 50 customizable Champions fighting in 5v5 action across a diverse Realm of modes and maps!",
+  "developers": [
+    "Evil Mojo Games"
+  ],
+  "publishers": [
+    "Hi-Rez Studios"
+  ],
+  "release_date": "2018-05-08",
+  "website": "http://www.paladins.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "massively-multiplayer",
+    "strategy",
+    "free-to-play",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "hero-shooter",
+    "fps",
+    "shooter",
+    "team-based",
+    "first-person",
+    "moba",
+    "online-co-op",
+    "fantasy",
+    "controller",
+    "co-op",
+    "character-customization",
+    "colorful",
+    "funny"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "spanish",
+    "russian",
+    "portuguese",
+    "polish",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Binaries\\Win32\\PaladinsEAC.exe",
+          "description": "Launch 32",
+          "type": "none"
+        },
+        {
+          "executable": "PaladinsBootstrapper.exe",
+          "description": "Launch 64",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Paladins",
+    "Binaries\\Win32\\PaladinsEAC",
+    "PaladinsBootstrapper"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/444090/1565119c17f532338a0645b98e69e1fc1df0c29e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444090/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444090/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444090/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444090/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444090/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444090/ss_f4c9db1a47e18a398d5b6a068dcd2a0cc87413ff.1920x1080.jpg?t=1713560419"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444090/ss_846b1464dc9242bc44c9b43547c7b5567cbbdf0c.1920x1080.jpg?t=1713560419"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444090/ss_ad869c6cb217556a844a2ca8558867c51dcc442e.1920x1080.jpg?t=1713560419"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444090/ss_ac0712e3807ebaf245b87ef9f3e02d5b82c2a6d4.1920x1080.jpg?t=1713560419"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444090/ss_41219f8e007c50a451bb2af6708605adf557118f.1920x1080.jpg?t=1713560419"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Champions Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256849677/movie.293x165.jpg?t=1713554500",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/444090/397637/cff5148f05c94766dfc2a77b184e391b0d71c61d/1750531568/dash_h264.mpd?t=1713554500"
+    },
+    {
+      "name": "Fight for the Realm",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256705950/movie.293x165.jpg?t=1713554505",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/444090/142007/cb23e5f199be3a450f33e7c937e034b7eba1c640/1750531545/dash_h264.mpd?t=1713554505"
+    },
+    {
+      "name": "Banners Fall",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256849674/movie.293x165.jpg?t=1713554509",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/444090/397634/00b9f573f7d621a079c5dfa8cf4e0490215db17e/1750531863/dash_h264.mpd?t=1713554509"
+    }
+  ],
+  "metacritic": {
+    "score": 83,
+    "url": "https://www.metacritic.com/game/pc/paladins?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 444090,
+    "store_url": "https://store.steampowered.com/app/444090/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "Strategy",
+      "Free To Play"
+    ],
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Hero Shooter",
+      "Free to Play",
+      "Multiplayer",
+      "FPS",
+      "Shooter",
+      "Action",
+      "Team-Based",
+      "First-Person",
+      "PvP",
+      "MOBA",
+      "Online Co-Op",
+      "Fantasy",
+      "Controller",
+      "Strategy",
+      "Co-op",
+      "Character Customization",
+      "Massively Multiplayer",
+      "Colorful",
+      "Adventure",
+      "Funny"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 293646,
+    "review_negative": 51718,
+    "review_total": 345364,
+    "review_positive_percent": 85.03
+  }
+}

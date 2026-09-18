@@ -1,0 +1,221 @@
+{
+  "key": "the-escapists",
+  "name": "The Escapists",
+  "description": "The Escapists provides players the opportunity of experiencing a light-hearted insight into everyday prison life with the main objective being that of escaping!",
+  "developers": [
+    "Mouldy Toof Studios"
+  ],
+  "publishers": [
+    "Team17"
+  ],
+  "release_date": "2015-02-14",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "simulation",
+    "strategy",
+    "pixel-graphics",
+    "crafting",
+    "singleplayer",
+    "2d",
+    "difficult",
+    "survival",
+    "puzzle",
+    "rpg",
+    "top-down",
+    "multiplayer",
+    "sandbox",
+    "funny",
+    "comedy",
+    "co-op",
+    "roguelike"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian",
+    "polish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "TheEscapists.exe",
+          "description": "Play The Escapists",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "The Escapists.app",
+          "description": "Play The Escapists",
+          "type": "default"
+        },
+        {
+          "executable": "Map Editor.app",
+          "description": "Launch Map Editor",
+          "type": "editor"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "run.sh",
+          "description": "Play The Escapists",
+          "type": "default"
+        },
+        {
+          "executable": "Map Editor/run.sh",
+          "description": "Launch Map Editor",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "The Escapists",
+    "TheEscapists",
+    "The Escapists.app",
+    "Map Editor.app",
+    "run.sh",
+    "Map Editor/run.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/298630/bd0870a5fb2b51f11699c9b77d1bc7e7ba688c74.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298630/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298630/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298630/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298630/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298630/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298630/ss_dc11dfa50054ecb10da0ef8d3fd2b43a45df34c7.1920x1080.jpg?t=1778528936"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298630/ss_ec12843a248ba9b0ad59a6e97b678c8f69fcddda.1920x1080.jpg?t=1778528936"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298630/ss_b9a6090b7b3e723be08134c00ba19dcb05e75df5.1920x1080.jpg?t=1778528936"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298630/ss_a4accc2bae72c80af1c6333233fa3e2c03ceb66c.1920x1080.jpg?t=1778528936"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298630/ss_2c66fd6e595e0490b70b877e86aa1b55e6a5964e.1920x1080.jpg?t=1778528936"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298630/ss_9c33d152baa303d61e2eb0d2863402eb7262381c.1920x1080.jpg?t=1778528936"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298630/ss_877dd37df7bd8e696626c30cf43cf05d013545e6.1920x1080.jpg?t=1778528936"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298630/ss_2c27b17941d2c86fa459b80e53dfc903ad3c2829.1920x1080.jpg?t=1778528936"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298630/ss_3d8d94375561d01ac8d90882f9e25a62e217678c.1920x1080.jpg?t=1778528936"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298630/ss_c77194db1305bd3dd8fcab2188c69eca633fdb5a.1920x1080.jpg?t=1778528936"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298630/ss_a0e3fd800010ea8ec3f64b0f63e2e0a9b9b06b18.1920x1080.jpg?t=1778528936"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298630/ss_1b160b5d86f814830d712b1da9409a1b694a593e.1920x1080.jpg?t=1778528936"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Escapists - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2037179/movie.293x165.jpg?t=1447369055",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/298630/31255/e5ac931afa7daae0645bcc1d9c7ce985f321814c/1750503367/dash_h264.mpd?t=1447369055"
+    },
+    {
+      "name": "The Escapists - Official Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2033302/movie.293x165.jpg?t=1447362620",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/298630/22779/6888109a2eaebf82e17414f15528d56eeb5aa71b/1750503367/dash_h264.mpd?t=1447362620"
+    },
+    {
+      "name": "The Escapists - Gameplay Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2032935/movie.293x165.jpg?t=1447362344",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/298630/21983/ec4473d9ec9445c5ef8496e40103dbc5c841e7c4/1750503356/dash_h264.mpd?t=1447362344"
+    }
+  ],
+  "metacritic": {
+    "score": 71,
+    "url": "https://www.metacritic.com/game/pc/the-escapists?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 298630,
+    "store_url": "https://store.steampowered.com/app/298630/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Pixel Graphics",
+      "Strategy",
+      "Crafting",
+      "Singleplayer",
+      "2D",
+      "Simulation",
+      "Indie",
+      "Action",
+      "Difficult",
+      "Survival",
+      "Adventure",
+      "Puzzle",
+      "RPG",
+      "Top-Down",
+      "Multiplayer",
+      "Sandbox",
+      "Funny",
+      "Comedy",
+      "Co-op",
+      "Roguelike"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 14598,
+    "review_negative": 1585,
+    "review_total": 16183,
+    "review_positive_percent": 90.21
+  }
+}

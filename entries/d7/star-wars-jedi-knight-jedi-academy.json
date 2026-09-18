@@ -1,0 +1,197 @@
+{
+  "key": "star-wars-jedi-knight-jedi-academy",
+  "name": "STAR WARS™ Jedi Knight: Jedi Academy™",
+  "description": "Forge your weapon and follow the path of the Jedi Jedi Knight: Jedi Academy is the latest installment of the highly acclaimed Jedi Knight series. Take on the role of a new student eager to learn the ways of the Force from Jedi Master Luke Skywalker.",
+  "developers": [
+    "Raven Software"
+  ],
+  "publishers": [
+    "LucasArts"
+  ],
+  "release_date": "2009-09-16",
+  "website": "http://www.lucasarts.com",
+  "tags": [
+    "action",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "sci-fi",
+    "third-person",
+    "classic",
+    "singleplayer",
+    "swordplay",
+    "character-customization",
+    "moddable",
+    "fps",
+    "adventure",
+    "shooter",
+    "first-person",
+    "rpg",
+    "third-person-shooter",
+    "great-soundtrack",
+    "hack-and-slash",
+    "fighting",
+    "female-protagonist",
+    "story-rich"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English*",
+    "French*",
+    "German*",
+    "Spanish - Spain**languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "星球大战 绝地武士III：绝地学院"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "GameData\\jasp.exe",
+          "description": "Launch Single Player",
+          "type": "default"
+        },
+        {
+          "executable": "GameData\\jamp.exe",
+          "description": "Launch Multiplayer",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "SWJKJA.app",
+          "description": "OS X",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "STAR WARS™ Jedi Knight: Jedi Academy™",
+    "GameData\\jasp",
+    "GameData\\jamp",
+    "SWJKJA.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/6020/2e359a8df71ea18ddd77fda3f6b307e6e86ef910.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6020/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6020/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6020/4dfba97288cdd751f4c8ff1f2b15acb44e9ea4fa/library_600x900.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6020/ss_b025e54e7be0c0374a70cc7cda53d94e3eaf245c.1920x1080.jpg?t=1741814908"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6020/ss_a760fa150ea3be09f438923933f85d63ccc9f943.1920x1080.jpg?t=1741814908"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6020/ss_c8dbb6346a948e122ac7de4b87a7299108974a00.1920x1080.jpg?t=1741814908"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6020/ss_722244b07245f5b64b097114c88eb9113aae1914.1920x1080.jpg?t=1741814908"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6020/ss_625ee87bb3234529357814446f67eafcc2819f6d.1920x1080.jpg?t=1741814908"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6020/ss_feb2570dddea903108312a7be9121360ae8ce38c.1920x1080.jpg?t=1741814908"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6020/ss_03e4bbe89a52098a916b59232e3572c3159c17cb.1920x1080.jpg?t=1741814908"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6020/ss_6b6b4bef912f65f2ac0d3b92416f59554c049770.1920x1080.jpg?t=1741814908"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6020/ss_55fce6453329fd1283a4329b1f6bd9de280c602d.1920x1080.jpg?t=1741814908"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6020/ss_f0056ec9fa4f24f7b18ee90e919c71ea5424bb91.1920x1080.jpg?t=1741814908"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6020/ss_426c90ad0ca5026e6f772ddcbe641d7815248958.1920x1080.jpg?t=1741814908"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6020/ss_7140d642ca6de9ee7316afc83eb2bbb1ce35ecf6.1920x1080.jpg?t=1741814908"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Jedi Academy Opening Crawl",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256663513/movie.293x165.jpg?t=1462237022",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/6020/57437/c80569120f019aef0bf2416d8643aaa4dcda5683/1750483717/dash_h264.mpd?t=1462237022"
+    },
+    {
+      "name": "Jedi Academy Gameplay",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256681357/movie.293x165.jpg?t=1489550169",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/6020/94468/04ffe06da542a92402bd5c636583d3a3aa9a3dad/1750483717/dash_h264.mpd?t=1489550169"
+    }
+  ],
+  "metacritic": {
+    "score": 81,
+    "url": "https://www.metacritic.com/game/pc/star-wars-jedi-knight-jedi-academy?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 6020,
+    "store_url": "https://store.steampowered.com/app/6020/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Action",
+      "Sci-fi",
+      "Third Person",
+      "Multiplayer",
+      "Classic",
+      "Singleplayer",
+      "Swordplay",
+      "Character Customization",
+      "Moddable",
+      "FPS",
+      "Adventure",
+      "Shooter",
+      "First-Person",
+      "RPG",
+      "Third-Person Shooter",
+      "Great Soundtrack",
+      "Hack and Slash",
+      "Fighting",
+      "Female Protagonist",
+      "Story Rich"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 13197,
+    "review_negative": 551,
+    "review_total": 13748,
+    "review_positive_percent": 95.99
+  }
+}

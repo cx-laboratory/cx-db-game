@@ -1,0 +1,193 @@
+{
+  "key": "tavern-master",
+  "name": "Tavern Master",
+  "description": "Tavern Master is all about managing your medieval tavern. You start with a very small room, couple of benches and tables and build your way up to a huge successful tavern with a kitchen, rooms for guests, group of loyal staff and much more!",
+  "developers": [
+    "Untitled Studio"
+  ],
+  "publishers": [
+    "Untitled Studio"
+  ],
+  "release_date": "2021-11-16",
+  "website": "",
+  "tags": [
+    "simulation",
+    "strategy",
+    "management",
+    "building",
+    "medieval",
+    "resource-management",
+    "indie",
+    "city-builder",
+    "relaxing",
+    "singleplayer",
+    "top-down",
+    "time-management",
+    "crafting",
+    "atmospheric",
+    "stylized",
+    "historical",
+    "3d",
+    "adventure",
+    "casual",
+    "multiplayer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "koreana",
+    "schinese",
+    "tchinese",
+    "japanese",
+    "turkish"
+  ],
+  "name_localized": {
+    "schinese": "酒馆大师"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Tavern Master.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Untitled Studio/Tavern Master",
+          "pattern": "*.json",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "TavernMaster_Mac.app\\Contents\\MacOS\\Tavern Master",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Untitled Studio/Tavern Master",
+          "pattern": "*.json",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "TavernMaster.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Untitled Studio/Tavern Master",
+          "pattern": "*.json",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Tavern Master",
+    "TavernMaster_Mac.app\\Contents\\MacOS\\Tavern Master",
+    "TavernMaster.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1525700/cb28eff674539b57874ab8928655543a1cc9be15.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1525700/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1525700/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1525700/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1525700/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1525700/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1525700/ss_12f9d1b425e277ff22137372be3d483e5d38ea3d.1920x1080.jpg?t=1760183607"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1525700/ss_3a425af699721878ca2dbc5eb876ad4de5cc54dc.1920x1080.jpg?t=1760183607"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1525700/ss_dc8ccdc4a509c99e6abe7bcd45a12d21dd6be342.1920x1080.jpg?t=1760183607"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1525700/ss_6519b1eae02bc1f98f74ba196877b83cbe10dcd7.1920x1080.jpg?t=1760183607"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1525700/ss_895942a2f1920bb8a6447dca456a6ad0924dbb5a.1920x1080.jpg?t=1760183607"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1525700/ss_7b3057aac770cd6806abb972cc7a8ca1087c573d.1920x1080.jpg?t=1760183607"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Tavern Master trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256837804/movie.293x165.jpg?t=1623139346",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1525700/375296/cc4a6f12afbf45d41792ca9ecf309247ed1c5c15/1750699304/dash_h264.mpd?t=1623139346"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1525700,
+    "store_url": "https://store.steampowered.com/app/1525700/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Management",
+      "Simulation",
+      "Building",
+      "Medieval",
+      "Resource Management",
+      "Strategy",
+      "Indie",
+      "City Builder",
+      "Relaxing",
+      "Singleplayer",
+      "Top-Down",
+      "Time Management",
+      "Crafting",
+      "Atmospheric",
+      "Stylized",
+      "Historical",
+      "3D",
+      "Adventure",
+      "Casual",
+      "Multiplayer"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 12060,
+    "review_negative": 1027,
+    "review_total": 13087,
+    "review_positive_percent": 92.15
+  }
+}

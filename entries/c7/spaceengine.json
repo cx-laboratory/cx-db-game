@@ -1,0 +1,275 @@
+{
+  "key": "spaceengine",
+  "name": "SpaceEngine",
+  "description": "The world's first science-based photorealistic interactive 3D planetarium that models the entire Universe, using procedural generation for uncharted areas.",
+  "developers": [
+    "Cosmographic Software"
+  ],
+  "publishers": [
+    "Cosmographic Software"
+  ],
+  "release_date": "2019-06-11",
+  "website": "https://spaceengine.org/",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "early-access",
+    "open-world",
+    "sci-fi",
+    "sandbox",
+    "space",
+    "space-sim",
+    "3d",
+    "flight",
+    "realistic",
+    "science",
+    "education",
+    "colorful",
+    "relaxing",
+    "atmospheric",
+    "futuristic",
+    "singleplayer",
+    "procedural-generation"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "German",
+    "Russian",
+    "Italian",
+    "French",
+    "Finnish",
+    "Polish",
+    "Spanish - Latin America",
+    "Spanish - Spain",
+    "Traditional Chinese",
+    "Simplified Chinese",
+    "Dutch",
+    "Czech",
+    "Swedish",
+    "Japanese",
+    "Portuguese - Brazil",
+    "Turkish",
+    "Ukrainian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "system\\SpaceEngine.exe",
+          "description": "Desktop",
+          "type": "default"
+        },
+        {
+          "executable": "system\\SpaceEngine.exe",
+          "description": "Oculus Rift",
+          "type": "othervr"
+        },
+        {
+          "executable": "system\\SpaceEngine.exe",
+          "description": "Steam VR (HTC Vive & Mixed Reality)",
+          "type": "vr"
+        },
+        {
+          "executable": "system\\LaunchPad.exe",
+          "description": "Workshop configuration and uploading tool",
+          "type": "config"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "SpaceEngine",
+    "system\\SpaceEngine",
+    "system\\LaunchPad"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/314650/816f69ec91e4735aed80253f536438699c8e065d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_3f53afc89d605d82d081ed102e1883893eb8a7be.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_96fc69680bfda93bb6fa126d1fea3ed7e065317e.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_8aab4cbc12dd6e8f7c790ffca591c3c6d72a4142.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_15be8a60fa3dd4abc8602fcd8a2cf43a8a4ff1cf.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_e87881d7e1daf311300205208945edc4897920b0.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_a9931c2364e5fd694f9d7f07aac03a204d53a757.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_3e6eeadde26589a050e84939fcbb7693f8566a11.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_2327ecde25b02c29c99a75174894b2053ba95232.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_9d0cad0cb802e748d6622ab17e321ab39c0000ed.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_9ae2a425c13a33d50395bc37e7f0c02f118c1eda.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_fe6f85145493558e5168d8083e3817878071ccfb.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_855c5da8687b9382659b1d29d84a4f2d67cd3448.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_ece900464a0c3e39415ad97f95ef4ef08ba566ad.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_4c9072db50784ca57ceecfb5857c2dac46204412.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_29245f1ed3ebe926cd7179c701674beb6ec9f727.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_afe646a244852670c836ce9f4d6629776d98d428.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_ee5cd15e61334930906b1e206bb8331501c641b6.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_fd606d3f4087c3ebf59365a0c8fc8d33105d162d.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_a7d89a7d8bfda3406e1c43801794dd846b11eca3.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_7c1b88901eae59918e627b471fe0ce411adc18ee.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_03c3bd22b3236e0eaa9245696baa448cd2a1f9f5.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_e98886b006e8e879f0effd45ecd32d3bbddd7509.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_318111de7424960294d2ddbf19d1dc3edb736831.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_04220c7c996585123eb2d0e4ca8e92e30b773273.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_c2e440d6198f72efbb271df1f6f687281772121a.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_e1cc899199d328786e9f4c6fe4965e29a7dbad15.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_4d5163e54075e3e2940087070972a092b1a4938b.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_dab1aa83dce316cca90f765206f1b97ab0e95c04.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_836f7fa0fd88dc2c7a002227121f8cb158b64990.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_1f1831fb1bd28e33e96bbea606af6c30831ddf38.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_4b3027446adeec383dd99bbff209a4e1993ba57b.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_7fb73fef30a4ce1f984f02687e016b917a96f5d0.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_f2a34ed93044efec16f628506c732ca5b4b989f3.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_0afff8e2c3268b9a613692e01735284538189f6f.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_45cec119540d699d920bc12d84a2060eccc7e75e.1920x1080.jpg?t=1773943102"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314650/ss_a37631d4a5de5b108a3dad67f22996437b73fcc5.1920x1080.jpg?t=1773943102"
+    }
+  ],
+  "videos": [
+    {
+      "name": "SpaceEngine Cinematic Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257001232/movie.293x165.jpg?t=1707946131",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/314650/662792/3a3579bb72c0ffdec3f36080c7769e9fbb4ecffd/1750506819/dash_h264.mpd?t=1707946131"
+    },
+    {
+      "name": "SpaceEngine 0.990 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256740281/movie.293x165.jpg?t=1560240193",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/314650/204255/a7ea2c1df54d1180d6769fc2f7aa5d306ec891c6/1750506817/dash_h264.mpd?t=1560240193"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 314650,
+    "store_url": "https://store.steampowered.com/app/314650/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Tracked Controller Support",
+      "VR Support",
+      "Steam Workshop",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Early Access",
+      "Open World",
+      "Sci-fi",
+      "Casual",
+      "Sandbox",
+      "Space",
+      "Space Sim",
+      "3D",
+      "Flight",
+      "Realistic",
+      "Science",
+      "Education",
+      "Simulation",
+      "Colorful",
+      "Relaxing",
+      "Atmospheric",
+      "Futuristic",
+      "Singleplayer",
+      "Indie",
+      "Procedural Generation"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 15321,
+    "review_negative": 623,
+    "review_total": 15944,
+    "review_positive_percent": 96.09
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "key": "to-the-moon",
+  "name": "To the Moon",
+  "description": "A story-driven experience about two doctors traversing backwards through a dying man's memories to artificially fulfill his last wish.",
+  "developers": [
+    "Freebird Games"
+  ],
+  "publishers": [
+    "Freebird Games"
+  ],
+  "release_date": "2012-09-08",
+  "website": "http://www.freebirdgames.com/to_the_moon/",
+  "tags": [
+    "adventure",
+    "indie",
+    "rpg",
+    "story-rich",
+    "great-soundtrack",
+    "emotional",
+    "pixel-graphics",
+    "singleplayer",
+    "interactive-fiction",
+    "romance",
+    "short",
+    "2d",
+    "funny",
+    "psychological",
+    "retro",
+    "cute",
+    "linear",
+    "casual",
+    "female-protagonist",
+    "walking-simulator"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "turkish",
+    "arabic",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "To the Moon《去月球》"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "To the Moon (SerenityForge)\\To the Moon.exe",
+          "description": "Play To the Moon",
+          "type": "default"
+        },
+        {
+          "executable": "Minisode_1 (SerenityForge)\\To the Moon - Sigmund Minisode 1.exe",
+          "description": "Play Bonus Minisode 1 (After Main Game)",
+          "type": "default"
+        },
+        {
+          "executable": "Minisode_2 (SerenityForge)\\To the Moon - Sigmund Minisode 2.exe",
+          "description": "Play Bonus Minisode 2 (After Main Game)",
+          "type": "default"
+        },
+        {
+          "executable": "To the Moon\\To the Moon.exe",
+          "description": "Play To the Moon (Classic)",
+          "type": "default"
+        },
+        {
+          "executable": "Minisode_1\\Sigmund Holiday Special 1\\Siggy - Holiday Special.exe",
+          "description": "Play Bonus Minisode 1 (Classic - After Main Game)",
+          "type": "default"
+        },
+        {
+          "executable": "Minisode_2\\Sigmund Holiday Special 2\\SigCorp Minisode 2.exe",
+          "description": "Play Bonus Minisode 2 (Classic - After Main Game)",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "ToTheMoon.app/Contents/MacOS/steamshim_parent",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "SigCorp Minisode 1 - Holiday Special 2013.app",
+          "description": "Play SigCorp - Minisode 1",
+          "type": "none"
+        },
+        {
+          "executable": "SigCorp Minisode 2.app",
+          "description": "Play SigCorp - Minisode 2",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "steamshim/parent.x86",
+          "description": "Launch",
+          "type": "none"
+        },
+        {
+          "executable": "steamshim/parent.amd64",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "Sigmund Holiday Special 1/launch_linux.sh",
+          "description": "SigCorp - Minisode 1",
+          "type": "option1"
+        },
+        {
+          "executable": "Sigmund Holiday Special 2/launch_linux.sh",
+          "description": "SigCorp - Minisode 2",
+          "type": "option2"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "To the Moon",
+    "To the Moon (SerenityForge)\\To the Moon",
+    "Minisode_1 (SerenityForge)\\To the Moon - Sigmund Minisode 1",
+    "Minisode_2 (SerenityForge)\\To the Moon - Sigmund Minisode 2",
+    "To the Moon\\To the Moon",
+    "Minisode_1\\Sigmund Holiday Special 1\\Siggy - Holiday Special",
+    "Minisode_2\\Sigmund Holiday Special 2\\SigCorp Minisode 2",
+    "ToTheMoon.app/Contents/MacOS/steamshim_parent",
+    "SigCorp Minisode 1 - Holiday Special 2013.app",
+    "SigCorp Minisode 2.app",
+    "steamshim/parent.x86",
+    "steamshim/parent.amd64",
+    "Sigmund Holiday Special 1/launch_linux.sh",
+    "Sigmund Holiday Special 2/launch_linux.sh",
+    "To the Moon《去月球》"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/206440/6e29eb4076a6253fdbccb987a2a21746d2df54d7.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206440/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206440/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206440/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206440/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206440/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206440/ss_9885a7091273a238f86165b85350d35fec639c3f.1920x1080.jpg?t=1780927584"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206440/ss_5e021433f5a32ec7ad031ce61c52c1ba4b2ecf9f.1920x1080.jpg?t=1780927584"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206440/ss_23b844b452cacfaaef177f78f99793ae527bb273.1920x1080.jpg?t=1780927584"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206440/ss_0135a9334d5c3493e9f3b769288d78c9e3bebfcf.1920x1080.jpg?t=1780927584"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206440/ss_0a25120991ec89dc4272d5020dc08d9de1e42156.1920x1080.jpg?t=1780927584"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206440/ss_1ad788262b8d672b5fd70299320c5c2323ba15ef.1920x1080.jpg?t=1780927584"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206440/ss_edee6b77fa9948845500b14af3db7c887a8f5819.1920x1080.jpg?t=1780927584"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206440/ss_78b0f24860edc6997bae09b04b3cd99258641454.1920x1080.jpg?t=1780927584"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206440/ss_3d3f47f9792e5328a694753553698a261d4fa799.1920x1080.jpg?t=1780927584"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206440/ss_4a7896fd41897b0b65db935a28d2c418e397d7ed.1920x1080.jpg?t=1780927584"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206440/ss_244339bfc260fdc2d2f4cdbe3fc3c6df0cb700ed.1920x1080.jpg?t=1780927584"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206440/ss_208780a8a7ac2148c77fbd95c917c37d1948e3c1.1920x1080.jpg?t=1780927584"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206440/ss_bb4cb80749c1703fe09b64b2641cd58521d1ce46.1920x1080.jpg?t=1780927584"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206440/ss_0a6088429a1f3e94f2595f89123e7c847f7d51eb.1920x1080.jpg?t=1780927584"
+    }
+  ],
+  "videos": [
+    {
+      "name": "To the Moon - Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256721880/movie.293x165.jpg?t=1530767608",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/206440/171680/f0baf6d86a109b64afa2b67a6e75464d0363ee93/1751249066/dash_h264.mpd?t=1530767608"
+    }
+  ],
+  "metacritic": {
+    "score": 81,
+    "url": "https://www.metacritic.com/game/pc/to-the-moon?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 206440,
+    "store_url": "https://store.steampowered.com/app/206440/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Story Rich",
+      "Great Soundtrack",
+      "Indie",
+      "Emotional",
+      "Pixel Graphics",
+      "Adventure",
+      "Singleplayer",
+      "Interactive Fiction",
+      "Romance",
+      "RPG",
+      "Short",
+      "2D",
+      "Funny",
+      "Psychological",
+      "Retro",
+      "Cute",
+      "Linear",
+      "Casual",
+      "Female Protagonist",
+      "Walking Simulator"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 82461,
+    "review_negative": 3285,
+    "review_total": 85746,
+    "review_positive_percent": 96.17
+  }
+}

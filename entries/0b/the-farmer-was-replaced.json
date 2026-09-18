@@ -1,0 +1,204 @@
+{
+  "key": "the-farmer-was-replaced",
+  "name": "The Farmer Was Replaced",
+  "description": "Program and optimize a drone to automate a farm and watch it do the work for you. Collect resources to unlock better technology and become the most efficient farmer in the world. Improve your problem solving and coding skills.",
+  "developers": [
+    "Timon Herzog"
+  ],
+  "publishers": [
+    "Metaroot"
+  ],
+  "release_date": "2025-10-10",
+  "website": "https://www.metaroot.ch/press-kit/the-farmer-was-replaced",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "strategy",
+    "programming",
+    "automation",
+    "education",
+    "idler",
+    "logic",
+    "puzzle",
+    "text-based",
+    "farming-sim",
+    "minimalist",
+    "farming",
+    "artificial-intelligence",
+    "resource-management",
+    "sandbox",
+    "singleplayer",
+    "3d",
+    "colorful",
+    "economy"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "编程农场",
+    "koreana": "농부는 대체되었다",
+    "japanese": "農家は Replace() されました"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "TheFarmerWasReplaced.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "TheFarmerWasReplaced/TheFarmerWasReplaced",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "TheFarmerWasReplaced.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "TheFarmerWasReplaced/TheFarmerWasReplaced",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The Farmer Was Replaced",
+    "TheFarmerWasReplaced",
+    "TheFarmerWasReplaced.app",
+    "编程农场",
+    "농부는 대체되었다",
+    "農家は Replace() されました"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2060160/c5e5f32afc4cc79cc7a92bf174375367509e2866.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/a93cdbf3f795ca7736dca7fde208c5cd5fcf2a9e/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/12f2add76581b250df67d45572754cf7152fe05d/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/38c93c24063cd8e547b3f0449730da2c73601ffe/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/621428717f6846ebb4b931883a1612173237682c/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/8cc577a3c704c0abf8b635012ed2c43c87618d48/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/cbc6d11bbfc223effb9025e4ecdcc55317f0d9d5/ss_cbc6d11bbfc223effb9025e4ecdcc55317f0d9d5.1920x1080.jpg?t=1781022139"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/028e32193a38da5565b54b5029879439d4cf2ada/ss_028e32193a38da5565b54b5029879439d4cf2ada.1920x1080.jpg?t=1781022139"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/626c7fd80f4febd821a57499a936a331dd782b26/ss_626c7fd80f4febd821a57499a936a331dd782b26.1920x1080.jpg?t=1781022139"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/e73b5d1fa288e22f49d81180138e54459b96d60f/ss_e73b5d1fa288e22f49d81180138e54459b96d60f.1920x1080.jpg?t=1781022139"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/c9da1711920aeafa732ebe5bdef18da3afe3c717/ss_c9da1711920aeafa732ebe5bdef18da3afe3c717.1920x1080.jpg?t=1781022139"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/ec1c68d2502ff19b7670ff87690b8582660627c8/ss_ec1c68d2502ff19b7670ff87690b8582660627c8.1920x1080.jpg?t=1781022139"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/756bbbb834c91e506a373ed2545253d7dd9e5cf7/ss_756bbbb834c91e506a373ed2545253d7dd9e5cf7.1920x1080.jpg?t=1781022139"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/8280805b57b961993801145d0f2856121f42d952/ss_8280805b57b961993801145d0f2856121f42d952.1920x1080.jpg?t=1781022139"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/ba884a1dad75964e7d00809387bbd04f8bb4e049/ss_ba884a1dad75964e7d00809387bbd04f8bb4e049.1920x1080.jpg?t=1781022139"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Farmer Was Replaced | Out Now",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257209127/d4ed49d2e60c23a1376a1b246de384d3a368f8bd/movie_600x337.jpg?t=1760102688",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2060160/378840942/6ad51d1f4723401328d023cf5e89dab216d64636/1759221471/dash_h264.mpd?t=1760102688"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2060160,
+    "store_url": "https://store.steampowered.com/app/2060160/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Programming",
+      "Automation",
+      "Education",
+      "Idler",
+      "Logic",
+      "Puzzle",
+      "Text-Based",
+      "Farming Sim",
+      "Minimalist",
+      "Farming",
+      "Artificial Intelligence",
+      "Resource Management",
+      "Simulation",
+      "Sandbox",
+      "Strategy",
+      "Singleplayer",
+      "3D",
+      "Colorful",
+      "Economy",
+      "Indie"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 8387,
+    "review_negative": 379,
+    "review_total": 8766,
+    "review_positive_percent": 95.68
+  }
+}

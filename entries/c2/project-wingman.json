@@ -1,0 +1,187 @@
+{
+  "key": "project-wingman",
+  "name": "Project Wingman",
+  "description": "Project Wingman is a flight action game that lets you take the seat of advanced fighter jets and become a true ace. Fight in various missions and gamemodes ranging from intense aerial dogfights to large scale ground assault in an alternate scorched earth setting.",
+  "developers": [
+    "Sector D2"
+  ],
+  "publishers": [
+    "Sector D2"
+  ],
+  "release_date": "2020-12-02",
+  "website": "https://www.humblegames.com/games/projectwingman/",
+  "tags": [
+    "action",
+    "indie",
+    "simulation",
+    "flight",
+    "war",
+    "military",
+    "singleplayer",
+    "arcade",
+    "vr",
+    "great-soundtrack",
+    "controller",
+    "story-rich",
+    "shooter",
+    "sci-fi",
+    "first-person",
+    "epic",
+    "third-person",
+    "realistic",
+    "roguelike",
+    "multiplayer"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "German",
+    "Japanese",
+    "Simplified Chinese",
+    "Spanish - Latin America",
+    "Korean",
+    "Russian*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "僚机计划"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ProjectWingman.exe",
+          "description": "Launch Project Wingman (Non-VR)",
+          "type": "default"
+        },
+        {
+          "executable": "ProjectWingman.exe",
+          "description": "Project Wingman",
+          "type": "vr"
+        },
+        {
+          "executable": "ProjectWingman.exe",
+          "description": "Project Wingman",
+          "type": "othervr"
+        },
+        {
+          "executable": "ProjectWingman.exe",
+          "description": "Project Wingman",
+          "type": "openxr"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Project Wingman",
+    "ProjectWingman"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/895870/cac32e8d11e46c215685f7a736c662009fb69f93.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/895870/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/895870/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/895870/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/895870/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/895870/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/895870/ss_a198aed40e8109bc44144a7aa693fc167d2b7487.1920x1080.jpg?t=1773695705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/895870/ss_0c3c1e3d9f6365b4545920512feb7113110caeef.1920x1080.jpg?t=1773695705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/895870/ss_2cc7e34fa8efc4bb4d4a5a385ac8d69c37941335.1920x1080.jpg?t=1773695705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/895870/ss_23a41b7a931ebcc2e3c916ddf3fe69adc854cac9.1920x1080.jpg?t=1773695705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/895870/ss_ebd838c749ed57f300a7524a2de04a00621b3d21.1920x1080.jpg?t=1773695705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/895870/ss_fae98b7552ad0b4639dd2ab92ec82bba4bb038db.1920x1080.jpg?t=1773695705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/895870/ss_91053990a907458c1801345f464dedff52e56121.1920x1080.jpg?t=1773695705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/895870/ss_c8ad80c90e1c1c3cb7ac43e36dab2cf08e40d1ca.1920x1080.jpg?t=1773695705"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Project Wingman - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256811731/movie.293x165.jpg?t=1606847174",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/895870/330457/b653e2a65dab229a6aacce64fa2b48d80b929a1e/1750594551/dash_h264.mpd?t=1606847174"
+    },
+    {
+      "name": "Project Wingman - Gamescom 2020 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256799304/movie.293x165.jpg?t=1598927321",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/895870/309240/0c504dd6614ff13479f6e7dcc4f8aca69aec507d/1750594538/dash_h264.mpd?t=1598927321"
+    },
+    {
+      "name": "Project Wingman - Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256789169/movie.293x165.jpg?t=1592163822",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/895870/292270/b35616cf0029636841a8c282843088930620aae4/1750594523/dash_h264.mpd?t=1592163822"
+    }
+  ],
+  "metacritic": {
+    "score": 75,
+    "url": "https://www.metacritic.com/game/pc/project-wingman?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 895870,
+    "store_url": "https://store.steampowered.com/app/895870/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "VR Supported",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Flight",
+      "Action",
+      "War",
+      "Military",
+      "Indie",
+      "Singleplayer",
+      "Arcade",
+      "VR",
+      "Great Soundtrack",
+      "Simulation",
+      "Controller",
+      "Story Rich",
+      "Shooter",
+      "Sci-fi",
+      "First-Person",
+      "Epic",
+      "Third Person",
+      "Realistic",
+      "Roguelike",
+      "Multiplayer"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 20456,
+    "review_negative": 1357,
+    "review_total": 21813,
+    "review_positive_percent": 93.78
+  }
+}

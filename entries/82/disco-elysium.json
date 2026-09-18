@@ -1,0 +1,249 @@
+{
+  "key": "disco-elysium",
+  "name": "Disco Elysium",
+  "description": "Disco Elysium - The Final Cut is a groundbreaking role playing game. You’re a detective with a unique skill system at your disposal and a whole city to carve your path across. Interrogate unforgettable characters, crack murders or take bribes. Become a hero or an absolute disaster of a human being.",
+  "developers": [
+    "ZA/UM"
+  ],
+  "publishers": [
+    "ZA/UM"
+  ],
+  "release_date": "2019-10-16",
+  "website": "http://www.zaumstudio.com",
+  "tags": [
+    "rpg",
+    "story-rich",
+    "choices-matter",
+    "detective",
+    "isometric",
+    "atmospheric",
+    "singleplayer",
+    "point-and-click",
+    "crpg",
+    "political",
+    "noir",
+    "surreal",
+    "visual-novel",
+    "exploration",
+    "funny",
+    "adventure",
+    "indie",
+    "open-world",
+    "character-customization",
+    "sexual-content"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "turkish",
+    "arabic",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "disco.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "c4.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "ZAUM Studio/Disco Elysium/SaveGames",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "disco.app",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "disco.app/Contents/MacOS/Disco Elysium",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "disco.app/Contents/MacOS/Disco Elysium",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "ZAUM Studio/Disco Elysium/SaveGames",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Disco Elysium",
+    "disco",
+    "c4",
+    "disco.app",
+    "disco.app/Contents/MacOS/Disco Elysium"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/632470/b681544caa931c7c1a6788e6e3e33cb42892d17c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/816ea59d6d8ac525f79a07c3a7afa94eddb3437c/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/9f2529fe9210b7f676bc78b323ef05a48e8eda61/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_b3694e99ffdb686d1bbbbe16a540d3d2ccd509c4.1920x1080.jpg?t=1780913406"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_9125a718ee9ba85386ae5d4eb820f3266073fc97.1920x1080.jpg?t=1780913406"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_4f5fdc3cf42feca8dafb1f7d2910ef96e62708a2.1920x1080.jpg?t=1780913406"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_fc6969799ebf19fd2a2c8a986c9419e053606a17.1920x1080.jpg?t=1780913406"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_dec29c440fab2f7817d68c1380c019290eb1755e.1920x1080.jpg?t=1780913406"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_ab38615b3a1d0d4309f06772db4bd9db5c250ef7.1920x1080.jpg?t=1780913406"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_81ea48324fbac48a00e482781be56cd57d796620.1920x1080.jpg?t=1780913406"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_0813f92720c59a5d21ed2d3291b8156bb4cb0fc8.1920x1080.jpg?t=1780913406"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_b1205caa224a0dea0d141c2d6f7db4240cd5dbb7.1920x1080.jpg?t=1780913406"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_23836438cd455287232be5ae9c4f48d5c488967b.1920x1080.jpg?t=1780913406"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_1733c149b614b835785ef48c2468b1e215f5c1ef.1920x1080.jpg?t=1780913406"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_d1556020c2c605230f9f70291d2cde1ba9d38f55.1920x1080.jpg?t=1780913406"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_0e2e63476bbf0736f3dccb03633d5af793d64b4b.1920x1080.jpg?t=1780913406"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_fbd29930bbad721ce251391d5ec622917b416aed.1920x1080.jpg?t=1780913406"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_60a5f4144156eda140e6c9bbf6f0d440e1b1aa17.1920x1080.jpg?t=1780913406"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_066e819168ec49dbee47fa128fb2ac756e89f569.1920x1080.jpg?t=1780913406"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/ss_ef8e3eca9fb67d94d8a3fb7b7934de5ccdeed4dd.1920x1080.jpg?t=1780913406"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Disco Elysium - The Final Cut - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256827872/movie.293x165.jpg?t=1617123094",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/632470/357391/40d4d0a212158209daf4efe0c8d98f90c1322e1b/1750564395/dash_h264.mpd?t=1617123094"
+    },
+    {
+      "name": "Disco Elysium - Date Announce and Features Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256762286/movie.293x165.jpg?t=1585912666",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/632470/243528/f816c18accca9a86a4364f309e9e2a338e1fb5cb/1750564389/dash_h264.mpd?t=1585912666"
+    },
+    {
+      "name": "Disco Elysium - Hardcore and Ultrawide Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256776131/movie.293x165.jpg?t=1585912659",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/632470/268659/6dff5d5a75e492c5be2a38d240422dfd2327e52d/1750564392/dash_h264.mpd?t=1585912659"
+    }
+  ],
+  "metacritic": {
+    "score": 97,
+    "url": "https://www.metacritic.com/game/pc/disco-elysium-the-final-cut?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 632470,
+    "store_url": "https://store.steampowered.com/app/632470/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "RPG",
+      "Story Rich",
+      "Choices Matter",
+      "Detective",
+      "Isometric",
+      "Atmospheric",
+      "Singleplayer",
+      "Point & Click",
+      "CRPG",
+      "Political",
+      "Noir",
+      "Surreal",
+      "Visual Novel",
+      "Exploration",
+      "Funny",
+      "Adventure",
+      "Indie",
+      "Open World",
+      "Character Customization",
+      "Sexual Content"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 118821,
+    "review_negative": 9470,
+    "review_total": 128291,
+    "review_positive_percent": 92.62
+  }
+}

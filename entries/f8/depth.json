@@ -1,0 +1,188 @@
+{
+  "key": "depth",
+  "name": "Depth",
+  "description": "Play as a shark or a diver in a dark aquatic world and overcome your enemies by employing cunning, teamwork, and stealth. Depth blends tension and visceral action as you team up against AI or be matched with other players in heart pounding combat.",
+  "developers": [
+    "Ammobox Studios"
+  ],
+  "publishers": [
+    "Ammobox Studios"
+  ],
+  "release_date": "2014-11-04",
+  "website": "https://www.depthgame.com",
+  "tags": [
+    "action",
+    "indie",
+    "multiplayer",
+    "pvp",
+    "online-pvp"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "portuguese",
+    "polish",
+    "dutch",
+    "norwegian",
+    "swedish",
+    "czech",
+    "romanian",
+    "turkish",
+    "brazilian",
+    "ukrainian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "深海惊魂 Depth",
+    "tchinese": "深海驚魂 Depth",
+    "japanese": "Depth（デプス）",
+    "koreana": "뎁스 (Depth)"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Binaries\\Win32\\DepthGame.exe",
+          "description": "Play Depth (32-bit)",
+          "type": "default"
+        },
+        {
+          "executable": "SDK\\Binaries\\Win64\\DepthEd.exe",
+          "description": "Launch Depth Editor",
+          "type": "none"
+        },
+        {
+          "executable": "BETA\\Binaries\\Win32\\DepthGame.exe",
+          "description": "Play Depth Public Beta",
+          "type": "none"
+        },
+        {
+          "executable": "Binaries\\Win64\\DepthGame.exe",
+          "description": "Play Depth (64-bit) [Experimental]",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Depth",
+    "Binaries\\Win32\\DepthGame",
+    "SDK\\Binaries\\Win64\\DepthEd",
+    "BETA\\Binaries\\Win32\\DepthGame",
+    "Binaries\\Win64\\DepthGame",
+    "深海惊魂 Depth",
+    "深海驚魂 Depth",
+    "Depth（デプス）",
+    "뎁스 (Depth)"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/274940/0c711a26af920e93af7cf0fc797fbb200367105e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274940/7a93e49dbb6612db3c42542301146240c6f67965/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274940/32133ed39b0dda23a1d27e43e52520e3be0376bd/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274940/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274940/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274940/739c47583d1fb6ec77e4ded3e1f7fbcfefa69396/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274940/ss_4c4113da58c2c855d9988761ac0b9befd1e78352.1920x1080.jpg?t=1763685233"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274940/ss_dd810a298a5955d1e9a9c7379e958c9ea90f981e.1920x1080.jpg?t=1763685233"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274940/ss_bb67c503081e4e0424015ff8277d9975ef812384.1920x1080.jpg?t=1763685233"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274940/ss_7f4b55f9ea9f982131781ad058ecca5ea48d0baa.1920x1080.jpg?t=1763685233"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274940/ss_dd061bece34c3180550c5ba8a4034da0eb3768ab.1920x1080.jpg?t=1763685233"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274940/ss_038576f82c199a780929cb2cf7ad554f316cb1ee.1920x1080.jpg?t=1763685233"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274940/ss_fdbc8dab732bf3dff623cff24828699196ebccab.1920x1080.jpg?t=1763685233"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274940/ss_057d1880089b900fcde279c65b60666069220cfd.1920x1080.jpg?t=1763685233"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274940/ss_c84c99c6432c07c22263d61852a5c71f373b2bee.1920x1080.jpg?t=1763685233"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Blood and Gold",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256681445/movie.293x165.jpg?t=1753678658",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/274940/94636/ccc9050bcf405bb992f9cd0f71b61b60509b61d8/1750500306/dash_h264.mpd?t=1753678658"
+    },
+    {
+      "name": "The Big Catch",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2036177/movie.293x165.jpg?t=1573178886",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/274940/28749/342f28411729f2dabbf4c298ae068d6777d1b28b/1750500279/dash_h264.mpd?t=1573178886"
+    },
+    {
+      "name": "Shipwrecked!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2038286/movie.293x165.jpg?t=1550454590",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/274940/33769/418a638009f00bee3778c2f96eb21867e16d0b49/1750500287/dash_h264.mpd?t=1550454590"
+    }
+  ],
+  "metacritic": {
+    "score": 65,
+    "url": "https://www.metacritic.com/game/pc/depth?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 274940,
+    "store_url": "https://store.steampowered.com/app/274940/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Workshop",
+      "In-App Purchases",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled",
+      "Stats",
+      "Steam Leaderboards",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 28938,
+    "review_negative": 3962,
+    "review_total": 32900,
+    "review_positive_percent": 87.96
+  }
+}

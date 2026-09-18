@@ -1,0 +1,225 @@
+{
+  "key": "marvels-spider-man-miles-morales",
+  "name": "Marvel's Spider-Man: Miles Morales",
+  "description": "After the events of Marvel’s Spider-Man Remastered, teenage Miles Morales is adjusting to his new home while following in the footsteps of his mentor, Peter Parker, as a new Spider-Man. When a fierce power struggle threatens to destroy his home, Miles must take up the mantle of Spider-Man and own it",
+  "developers": [
+    "Insomniac Games"
+  ],
+  "publishers": [
+    "PlayStation Publishing LLC"
+  ],
+  "release_date": "2022-11-18",
+  "website": "https://www.playstation.com/games/marvels-spider-man-miles-morales/pc/",
+  "tags": [
+    "action",
+    "adventure",
+    "open-world",
+    "superhero",
+    "singleplayer",
+    "third-person",
+    "combat",
+    "parkour",
+    "story-rich",
+    "action-adventure",
+    "exploration",
+    "stealth",
+    "comic-book",
+    "beat-em-up",
+    "great-soundtrack",
+    "beautiful",
+    "multiplayer",
+    "sci-fi",
+    "rpg",
+    "lgbtq"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "hungarian",
+    "czech",
+    "brazilian",
+    "greek",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "漫威蜘蛛侠：迈尔斯·莫拉莱斯"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "MilesMorales.exe",
+          "description": "Launch Spider-Man: Miles Morales",
+          "type": "default"
+        },
+        {
+          "executable": "i31_steam_Final.exe",
+          "description": "Launch Final",
+          "type": "default"
+        },
+        {
+          "executable": "i31_steam_FinalDM.exe",
+          "description": "Launch Final with Debug menus",
+          "type": "default"
+        },
+        {
+          "executable": "i31_steam_Release.exe",
+          "description": "Launch Release",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Marvel's Spider-Man Miles Morales/{64BitSteamID}/",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Marvel's Spider-Man: Miles Morales",
+    "MilesMorales",
+    "i31_steam_Final",
+    "i31_steam_FinalDM",
+    "i31_steam_Release"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1817190/fac57db36817793f8b53b220dfe76c692f502a8f.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_a240e0c6f37569493ed749d9317718d8ce9f5d18.1920x1080.jpg?t=1763569499"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_02bb2ac97c3ce854344a537d9ed89c70ba45c3d3.1920x1080.jpg?t=1763569499"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_616a0e2ab905281a483d99d0e1f07fc0749770d2.1920x1080.jpg?t=1763569499"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_1950c472438a5ccde0f9e7c112dceaddd7cd52f1.1920x1080.jpg?t=1763569499"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_4198c024c13b1477240cf043cd4f7867913f77e1.1920x1080.jpg?t=1763569499"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_971beba92204ad268878b23aa5288cc4f2118788.1920x1080.jpg?t=1763569499"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_beff0e42c05657a30af3adfdc61499e836b8830e.1920x1080.jpg?t=1763569499"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_34cd494551068f3c83179942b6964ece1333ccda.1920x1080.jpg?t=1763569499"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_c40ac4dddfc77f25bc0989cac8e7f5823998cdd3.1920x1080.jpg?t=1763569499"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_515bc875181014b2b59c77b15959cc5958d9d587.1920x1080.jpg?t=1763569499"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_7eef506e91053092c0dd6b119ebc963aa11c0815.1920x1080.jpg?t=1763569499"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_0870e362c2a29d1d09c47bbe1bf7e022ed5f91e4.1920x1080.jpg?t=1763569499"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer (US-EN)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256915117/movie.293x165.jpg?t=1672784168",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1817190/511935/1557888f7cb7bf7f56fb3b43c00daf9537f374ca/1750737979/dash_h264.mpd?t=1672784168"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1817190,
+    "store_url": "https://store.steampowered.com/app/1817190/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Steam Input API Support",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Surround Sound",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Open World",
+      "Action",
+      "Superhero",
+      "Singleplayer",
+      "Adventure",
+      "Third Person",
+      "Combat",
+      "Parkour",
+      "Story Rich",
+      "Action-Adventure",
+      "Exploration",
+      "Stealth",
+      "Comic Book",
+      "Beat 'em up",
+      "Great Soundtrack",
+      "Beautiful",
+      "Multiplayer",
+      "Sci-fi",
+      "RPG",
+      "LGBTQ+"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 49804,
+    "review_negative": 3596,
+    "review_total": 53400,
+    "review_positive_percent": 93.27
+  }
+}

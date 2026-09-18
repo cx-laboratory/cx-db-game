@@ -1,0 +1,217 @@
+{
+  "key": "the-mortuary-assistant",
+  "name": "The Mortuary Assistant",
+  "description": "Alone with the dead... Embalm corpses, banish demons, save your soul.",
+  "developers": [
+    "DarkStone Digital"
+  ],
+  "publishers": [
+    "DreadXP"
+  ],
+  "release_date": "2022-08-02",
+  "website": "",
+  "tags": [
+    "adventure",
+    "indie",
+    "simulation",
+    "horror",
+    "supernatural",
+    "demons",
+    "mystery",
+    "atmospheric",
+    "surreal",
+    "singleplayer",
+    "first-person",
+    "multiplayer",
+    "dark",
+    "exploration",
+    "realistic",
+    "3d",
+    "thriller",
+    "female-protagonist",
+    "hidden-object",
+    "medical-sim"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "Portuguese - Brazil",
+    "Italian",
+    "German",
+    "Japanese",
+    "Korean",
+    "Simplified Chinese",
+    "Turkish",
+    "Spanish - Latin America*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "停尸房助理"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "The Mortuary Assistant.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "DarkStone Digital/The Mortuary Assistant",
+          "pattern": "SaveData.dsd",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "DarkStone Digital/The Mortuary Assistant",
+          "pattern": "SaveDataLong.dsd",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "DarkStone Digital/The Mortuary Assistant",
+          "pattern": "SupportWorkarounds.dsd",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The Mortuary Assistant"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1295920/607e15f9a557b28109ba6ffca6734a45e2d2421a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295920/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295920/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295920/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295920/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295920/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295920/ss_95f294e3b2b43cf5c8f9765e51c0953663c30ad6.1920x1080.jpg?t=1772040295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295920/ss_8f7f15e075b4843726e2e52e0ca10df3b7022aba.1920x1080.jpg?t=1772040295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295920/ss_648b098a80d70afc687cea973298a4039c2eac80.1920x1080.jpg?t=1772040295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295920/ss_bfe5af7e6d6a8671edf025e0f9d00f9a2a414d92.1920x1080.jpg?t=1772040295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295920/ss_42f9274feae24d77a539fea430ae214f6bab62f4.1920x1080.jpg?t=1772040295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295920/ss_595746f0b8a03392b143d7dd74952f55db87b9a2.1920x1080.jpg?t=1772040295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295920/ss_9c03b9e47c3b3038c0b1f8c07d22627741f5d876.1920x1080.jpg?t=1772040295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295920/ss_b144f359ddfd81efb20a55440748ced0b3c36ace.1920x1080.jpg?t=1772040295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295920/ss_6b347b201a841701a7765a02a372551534347766.1920x1080.jpg?t=1772040295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295920/ss_1dd874221214b4c3c753bc0142bc345d2bc15735.1920x1080.jpg?t=1772040295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295920/ss_12ab4a16b0901b3939efd13b03ca0d625497dedb.1920x1080.jpg?t=1772040295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295920/ss_fd9c4f93a6c5eaa9e698616decfe1d1357840d3b.1920x1080.jpg?t=1772040295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295920/ss_d4767e3cc1cad71a68f0f79ba061de5eb770917a.1920x1080.jpg?t=1772040295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295920/ss_2cdf505b0575216a6ea88bfebe56a381d5f58750.1920x1080.jpg?t=1772040295"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Definitive Edition Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257038574/movie.293x165.jpg?t=1721314891",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1295920/727297/569101d1e8131982af61bb2152996e41bbc389ff/1750670226/dash_h264.mpd?t=1721314891"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256899127/movie.293x165.jpg?t=1659455077",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1295920/484562/f0020e3468edd866affb5cac9a8660bc1412c9f1/1750670224/dash_h264.mpd?t=1659455077"
+    },
+    {
+      "name": "Release Date Announce",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256892007/movie.293x165.jpg?t=1655326504",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1295920/472214/b61c3cc16e5325b6cb3543030ee7edc9aa69daef/1750670221/dash_h264.mpd?t=1655326504"
+    },
+    {
+      "name": "Mortuary Assistant Live Action Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256898850/movie.293x165.jpg?t=1659262250",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1295920/483926/01c70d2494bced515f7688acb4cdc44276b6e4ab/1750670224/dash_h264.mpd?t=1659262250"
+    },
+    {
+      "name": "Main",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256856631/movie.293x165.jpg?t=1634745569",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1295920/410358/fc5da2e170b9b30747b8930e03da182ea6f23d50/1750670217/dash_h264.mpd?t=1634745569"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1295920,
+    "store_url": "https://store.steampowered.com/app/1295920/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Horror",
+      "Supernatural",
+      "Demons",
+      "Mystery",
+      "Atmospheric",
+      "Surreal",
+      "Singleplayer",
+      "Simulation",
+      "First-Person",
+      "Multiplayer",
+      "Indie",
+      "Dark",
+      "Adventure",
+      "Exploration",
+      "Realistic",
+      "3D",
+      "Thriller",
+      "Female Protagonist",
+      "Hidden Object",
+      "Medical Sim"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7915,
+    "review_negative": 700,
+    "review_total": 8615,
+    "review_positive_percent": 91.87
+  }
+}

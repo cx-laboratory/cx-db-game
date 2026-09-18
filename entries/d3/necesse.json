@@ -1,0 +1,289 @@
+{
+  "key": "necesse",
+  "name": "Necesse",
+  "description": "Build, quest, and conquer across an infinite procedurally generated world. Play alone or with friends as you establish a settlement and explore deep dungeons, fight monsters and bosses, mine rare ores, craft magical equipment, recruit specialists for your colony, and more!",
+  "developers": [
+    "Fair Games ApS"
+  ],
+  "publishers": [
+    "Fair Games ApS"
+  ],
+  "release_date": "2025-10-17",
+  "website": "https://necessegame.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "open-world-survival-craft",
+    "pixel-graphics",
+    "open-world",
+    "sandbox",
+    "survival",
+    "crafting",
+    "building",
+    "base-building",
+    "exploration",
+    "2d",
+    "automation",
+    "atmospheric",
+    "early-access"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "hungarian",
+    "czech",
+    "turkish",
+    "arabic",
+    "brazilian",
+    "ukrainian",
+    "vietnamese",
+    "indonesian"
+  ],
+  "name_localized": {
+    "schinese": "奈斯启示录 Necesse",
+    "tchinese": "奈斯啟示錄 Necesse",
+    "japanese": "Necesse: ネセス",
+    "koreana": "Necesse: 네세스"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Necesse.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "jre/bin/javaw.exe",
+          "description": "Launch in low memory mode",
+          "type": "default"
+        },
+        {
+          "executable": "jre/bin/javaw.exe",
+          "description": "without memory optimizations",
+          "type": "option1"
+        },
+        {
+          "executable": "StartClientJava.bat",
+          "description": "Necesse - Only use if first option does not work",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Necesse/saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Necesse.app",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Necesse.app/Contents/Resources/jre/bin/java",
+          "description": "v0.21.23",
+          "type": "option1"
+        },
+        {
+          "executable": "Necesse.app/Contents/Resources/StartNatively.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Necesse/saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "./jre/bin/java",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Necesse/saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Necesse",
+    "jre/bin/javaw",
+    "StartClientJava.bat",
+    "Necesse.app",
+    "Necesse.app/Contents/Resources/jre/bin/java",
+    "Necesse.app/Contents/Resources/StartNatively.sh",
+    "./jre/bin/java",
+    "奈斯启示录 Necesse",
+    "奈斯啟示錄 Necesse",
+    "Necesse: ネセス",
+    "Necesse: 네세스"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1169040/b9e3becff5c706c4e57db3699ab7451cd178394e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169040/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169040/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169040/37993d4634bdd6e901ae4b8c3aaaff33829bdc34/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169040/7aa3c997307d98a29fe83714a13db149968cf80d/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169040/b7d50351940fabaa0d8ada2ce80dd52f2c5107dc/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169040/ss_92d45fe9e1c8aba2f491f1e76bac4618b7a897f7.1920x1080.jpg?t=1778533514"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169040/ss_d60f1b6d6528a844190638673241830b9ec27dd8.1920x1080.jpg?t=1778533514"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169040/ss_c6c639a500f4190d74a4a9947a291f1064baad91.1920x1080.jpg?t=1778533514"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169040/ss_feb8e7c8086eb564020b7e79259eaf603e4e6099.1920x1080.jpg?t=1778533514"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169040/ss_94e7f9f4e07b5fd7190ee650d35bdeefd7517e34.1920x1080.jpg?t=1778533514"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169040/ss_0d3f7126b00c890508e342dacf3ed890bece274f.1920x1080.jpg?t=1778533514"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169040/ss_ca6898c1a84b2a7e496f64cbcb8461b6c2a7abca.1920x1080.jpg?t=1778533514"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169040/ss_671c4e73d9e90ea24e75892b96d7449f47d0d4af.1920x1080.jpg?t=1778533514"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169040/ss_47be7ee9c4dbeca2ebe4bdf4614e133fb5818168.1920x1080.jpg?t=1778533514"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169040/ss_44f7fac585a92e7a00ea3e5870388f0139435282.1920x1080.jpg?t=1778533514"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169040/ss_f63946f05649a505e56da8d1c38fa952a5ca0c95.1920x1080.jpg?t=1778533514"
+    }
+  ],
+  "videos": [
+    {
+      "name": "1.0 Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257218823/2ac54fb520bc4f48d27aa95725a2f8d3e2a0f5b2/movie_600x337.jpg?t=1760633955",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1169040/345364347/35d060f9c7c64a271a3f4e005bd6e1b7b909e742/1760626840/dash_h264.mpd?t=1760633955"
+    },
+    {
+      "name": "1.0 Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257196261/b40a32121c6a49c37db2b30656dba88c54df7f34/movie_600x337.jpg?t=1757605070",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1169040/850877101/59a3f98565e254b3ec10a22124f6399700ad5a14/1757600576/dash_h264.mpd?t=1757605070"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1169040,
+    "store_url": "https://store.steampowered.com/app/1169040/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Input API Support",
+      "Steam Cloud",
+      "Stats",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Open World Survival Craft",
+      "Pixel Graphics",
+      "Multiplayer",
+      "Open World",
+      "Sandbox",
+      "Survival",
+      "Adventure",
+      "Crafting",
+      "Indie",
+      "RPG",
+      "Co-op",
+      "Building",
+      "Action",
+      "Base Building",
+      "Exploration",
+      "Online Co-Op",
+      "2D",
+      "Automation",
+      "Atmospheric",
+      "Early Access"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 25579,
+    "review_negative": 1890,
+    "review_total": 27469,
+    "review_positive_percent": 93.12
+  }
+}

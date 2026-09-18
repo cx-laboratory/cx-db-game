@@ -1,0 +1,145 @@
+{
+  "key": "five-nights-at-freddys-4",
+  "name": "Five Nights at Freddy's 4",
+  "description": "In this last chapter of the Five Nights at Freddy's original story, you must once again defend yourself against Freddy Fazbear, Chica, Bonnie, Foxy, and even worse things that lurk in the shadows.",
+  "developers": [
+    "Scott Cawthon"
+  ],
+  "publishers": [
+    "Scott Cawthon"
+  ],
+  "release_date": "2015-07-24",
+  "website": "",
+  "tags": [
+    "action",
+    "indie",
+    "strategy",
+    "horror",
+    "singleplayer",
+    "first-person",
+    "robots",
+    "dark",
+    "difficult",
+    "point-and-click",
+    "survival",
+    "story-rich",
+    "atmospheric",
+    "family-friendly",
+    "jump-scare",
+    "simulation",
+    "animation-and-modeling",
+    "memes"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "FiveNightsatFreddys4.exe",
+          "description": "Launch Standard Edition",
+          "type": "none"
+        },
+        {
+          "executable": "HalloweenEdition.exe",
+          "description": "Launch Halloween Edition",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Five Nights at Freddy's 4",
+    "FiveNightsatFreddys4",
+    "HalloweenEdition"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/388090/5973643d5902043e1953b068cacd909693fa43bd.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/388090/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/388090/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/388090/capsule_231x87.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/388090/ss_ed133c092449015276842c83a347fcd1f544fd1e.1920x1080.jpg?t=1579635988"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/388090/ss_f2024ef4e66e17d89f9c0af8f2ec33c9f873accb.1920x1080.jpg?t=1579635988"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/388090/ss_65dcdae9afd884f985827dc591ce18be1f574617.1920x1080.jpg?t=1579635988"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/388090/ss_32592700ad0ba14371f8237155a31d8c92bec7c1.1920x1080.jpg?t=1579635988"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/388090/ss_1ade3023b1e5555b11d723b9532d1c7453246b2e.1920x1080.jpg?t=1579635988"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256654861/movie.293x165.jpg?t=1447377151",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/388090/39464/5342cdb10559278b420dda0599042a2099ba3330/1750523485/dash_h264.mpd?t=1447377151"
+    }
+  ],
+  "metacritic": {
+    "score": 51,
+    "url": "https://www.metacritic.com/game/pc/five-nights-at-freddys-4?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 388090,
+    "store_url": "https://store.steampowered.com/app/388090/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Horror",
+      "Survival Horror",
+      "Singleplayer",
+      "First-Person",
+      "Robots",
+      "Dark",
+      "Difficult",
+      "Point & Click",
+      "Psychological Horror",
+      "Survival",
+      "Strategy",
+      "Indie",
+      "Story Rich",
+      "Atmospheric",
+      "Action",
+      "Family Friendly",
+      "Jump Scare",
+      "Simulation",
+      "Animation & Modeling",
+      "Memes"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 15517,
+    "review_negative": 1184,
+    "review_total": 16701,
+    "review_positive_percent": 92.91
+  }
+}

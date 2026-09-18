@@ -1,0 +1,216 @@
+{
+  "key": "far-lone-sails",
+  "name": "FAR: Lone Sails",
+  "description": "Traverse a dried-out seabed littered with the remains of a decaying civilization. Keep your unique vessel going, overcome numerous obstacles and withstand the hazardous weather conditions. How far can you make it? What will you find?",
+  "developers": [
+    "Okomotive"
+  ],
+  "publishers": [
+    "Okomotive"
+  ],
+  "release_date": "2018-05-17",
+  "website": "http://www.far-game.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "atmospheric",
+    "post-apocalyptic",
+    "singleplayer",
+    "exploration",
+    "2-5d",
+    "puzzle",
+    "driving",
+    "story-rich",
+    "short",
+    "puzzle-platformer",
+    "steampunk",
+    "platformer",
+    "survival",
+    "cinematic",
+    "action-adventure",
+    "nature",
+    "casual"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "ukrainian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Game\\FarLoneSails.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Okomotive/FarLoneSails",
+          "pattern": "*.*.fb",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Game\\FarLoneSails.app\\Contents\\MacOS\\FarLoneSails",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Game\\FarLoneSails.app\\Contents\\MacOS\\FarLoneSails",
+          "description": "with OpenGL",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Okomotive/FarLoneSails",
+          "pattern": "*.*.fb",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "FAR: Lone Sails",
+    "Game\\FarLoneSails",
+    "Game\\FarLoneSails.app\\Contents\\MacOS\\FarLoneSails"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/609320/3e1dc29370610797cfebed20bb202f5bffd236fe.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/ss_1985fdcbf2bdf0d9f739176fc2c7951cf6d4aacb.1920x1080.jpg?t=1769095038"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/ss_f6ca3dd20cb0d266fad1cd6176e554e9c774d814.1920x1080.jpg?t=1769095038"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/ss_e38ac00696bb7a1f292b051dc46dc5ba6d367049.1920x1080.jpg?t=1769095038"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/ss_200474e7e298b365734e400f70c2f8c09d1a1876.1920x1080.jpg?t=1769095038"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/ss_6a6b0709345798688ea6159f15ffee7e4646ab96.1920x1080.jpg?t=1769095038"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/ss_fbc1c98368ba6826ec5efab3e7e46d6e2dd4f407.1920x1080.jpg?t=1769095038"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/ss_70406e6c8d9a42162a2c6c5086e8720432309753.1920x1080.jpg?t=1769095038"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/ss_1c35bd112e1fce0599f9f2ccbbde40dd28d4b2c7.1920x1080.jpg?t=1769095038"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/ss_507c97eb2ed82ab564297fe206952c89936e23f2.1920x1080.jpg?t=1769095038"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/ss_f71b4b7eb02230144d80a226fbcc107aeb6f8beb.1920x1080.jpg?t=1769095038"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/ss_0f10e3d8f949b2be978605c9abababc3a587e961.1920x1080.jpg?t=1769095038"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/ss_daa100b79db18548b5417fb35478ef88f332d792.1920x1080.jpg?t=1769095038"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609320/ss_307a2a7525551fe71721cee5f0d12b3cf45a37f7.1920x1080.jpg?t=1769095038"
+    }
+  ],
+  "videos": [
+    {
+      "name": "FAR_Final_Gameplay",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256711611/movie.293x165.jpg?t=1521110522",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/609320/152100/cc153147cef6286ac6d7c1121fbba1d7a113f5f7/1750561859/dash_h264.mpd?t=1521110522"
+    },
+    {
+      "name": "FAR_Launch",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256717100/movie.293x165.jpg?t=1526572706",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/609320/163326/23f323fd5119f0cba4ee2f29b76c27c6239f6599/1750561878/dash_h264.mpd?t=1526572706"
+    },
+    {
+      "name": "FAR_Accolades",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256747064/movie.293x165.jpg?t=1554296330",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/609320/216530/a495ee7215c689aa59071617b63674272efd0cfd/1750561881/dash_h264.mpd?t=1554296330"
+    }
+  ],
+  "metacritic": {
+    "score": 80,
+    "url": "https://www.metacritic.com/game/pc/far-lone-sails?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 609320,
+    "store_url": "https://store.steampowered.com/app/609320/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Atmospheric",
+      "Adventure",
+      "Post-apocalyptic",
+      "Singleplayer",
+      "Exploration",
+      "2.5D",
+      "Puzzle",
+      "Indie",
+      "Driving",
+      "Story Rich",
+      "Short",
+      "Puzzle Platformer",
+      "Steampunk",
+      "Platformer",
+      "Survival",
+      "Action",
+      "Cinematic",
+      "Action-Adventure",
+      "Nature",
+      "Casual"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 24824,
+    "review_negative": 1235,
+    "review_total": 26059,
+    "review_positive_percent": 95.26
+  }
+}

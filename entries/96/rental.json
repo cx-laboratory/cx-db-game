@@ -1,0 +1,140 @@
+{
+  "key": "rental",
+  "name": "Rental",
+  "description": "Rental is a short and spooky adventure game about the dangers of renting a house in an unknown place.",
+  "developers": [
+    "Lonely House"
+  ],
+  "publishers": [
+    "Animita Project"
+  ],
+  "release_date": "2024-03-08",
+  "website": "https://www.animitaproject.com/",
+  "tags": [
+    "adventure",
+    "indie",
+    "free-to-play",
+    "horror",
+    "atmospheric",
+    "exploration",
+    "singleplayer",
+    "mystery",
+    "cute",
+    "retro",
+    "dark",
+    "female-protagonist",
+    "3d",
+    "short",
+    "story-rich"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "Spanish - Latin America",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Japanese",
+    "Spanish - Spain"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "RENTAL.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Rental",
+    "RENTAL"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2796550/abef122f07e00c544aabdb5e227cb7dfd5a260d3.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796550/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796550/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796550/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796550/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796550/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796550/ss_0fe8e5aaac8f399433f6e1f4e8b7312f59bd86b7.1920x1080.jpg?t=1777756348"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796550/ss_f5b48d36805529d175f6dd890a5c57606cf4918f.1920x1080.jpg?t=1777756348"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796550/ss_69322924beda8641c10fe8c78be1aad486a3953b.1920x1080.jpg?t=1777756348"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796550/ss_06cc88a4768abce38f822ccce6d4cea964906052.1920x1080.jpg?t=1777756348"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796550/ss_0149dd05f9728c3e6b7618cc25de99b41032bbdf.1920x1080.jpg?t=1777756348"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Rental trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256997461/movie.293x165.jpg?t=1707858972",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2796550/656368/7465104586ceb77fa17608c014c30119b894cb5c/1750901060/dash_h264.mpd?t=1707858972"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2796550,
+    "store_url": "https://store.steampowered.com/app/2796550/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Horror",
+      "Free to Play",
+      "Atmospheric",
+      "Exploration",
+      "Indie",
+      "Singleplayer",
+      "Mystery",
+      "Adventure",
+      "Cute",
+      "Retro",
+      "Dark",
+      "Female Protagonist",
+      "3D",
+      "Psychological Horror",
+      "Short",
+      "Story Rich"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 5049,
+    "review_negative": 414,
+    "review_total": 5463,
+    "review_positive_percent": 92.42
+  }
+}

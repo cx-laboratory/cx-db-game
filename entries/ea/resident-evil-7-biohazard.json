@@ -1,0 +1,127 @@
+{
+  "key": "resident-evil-7-biohazard",
+  "name": "Resident Evil 7 Biohazard",
+  "description": "Fear and isolation seep through the walls of an abandoned southern farmhouse. &quot;7&quot; marks a new beginning for survival horror with the “Isolated View” of the visceral new first-person perspective.",
+  "developers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "publishers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "release_date": "2017-01-26",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "polish",
+    "arabic",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "japanese": "BIOHAZARD 7 resident evil",
+    "koreana": "BIOHAZARD 7 resident evil"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "re7.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Resident Evil 7 Biohazard",
+    "re7",
+    "BIOHAZARD 7 resident evil"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/418370/675cd2fbaae3c2a74a0c7e9eea71e969ff90d6bb.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/ss_d07fd9fca3644350782356667ce78d436c574680.1920x1080.jpg?t=1778464947"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/ss_93663d90ead22ac9481b7c75eaea57509cdf41cb.1920x1080.jpg?t=1778464947"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/ss_4ba2efde83e86ad41dd962b6802c45029efbe75d.1920x1080.jpg?t=1778464947"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/ss_48bece562e150aa557b7debda63af059ef5ca1be.1920x1080.jpg?t=1778464947"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/ss_4f42f8bb0c4eda5b0911a25a18b4812cb25d8e34.1920x1080.jpg?t=1778464947"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/ss_26cee827684c0b0ba39764add124c764979022d3.1920x1080.jpg?t=1778464947"
+    }
+  ],
+  "videos": [
+    {
+      "name": "03_Resident Evil 7 biohazard: TAPE-4 “Biohazard\"_US",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256665621/movie.293x165.jpg?t=1485771781",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/418370/62371/e1aface7d56acf79d920ab223166696867e7a8e2/1750527985/dash_h264.mpd?t=1485771781"
+    }
+  ],
+  "metacritic": {
+    "score": 83,
+    "url": "https://www.metacritic.com/game/pc/resident-evil-7-biohazard?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 418370,
+    "store_url": "https://store.steampowered.com/app/418370/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 117576,
+    "review_negative": 5780,
+    "review_total": 123356,
+    "review_positive_percent": 95.31
+  }
+}

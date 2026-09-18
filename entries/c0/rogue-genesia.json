@@ -1,0 +1,296 @@
+{
+  "key": "rogue-genesia",
+  "name": "Rogue: Genesia",
+  "description": "Walk upon a new world and slay foes endangering it. Rogue : Genesia is an action rogue-lite game, where you fight relentless hordes consisting of hundreds and thousands of monsters, make your build, break the balance, defeat bosses and save one of the many worlds.",
+  "developers": [
+    "Ouadi Huard"
+  ],
+  "publishers": [
+    "Ouadi Huard"
+  ],
+  "release_date": "2025-03-08",
+  "website": "",
+  "tags": [
+    "action",
+    "casual",
+    "rpg",
+    "strategy",
+    "bullet-heaven",
+    "bullet-hell",
+    "action-roguelike",
+    "roguelite",
+    "arcade",
+    "twin-stick-shooter",
+    "pve",
+    "choices-matter",
+    "2-5d",
+    "roguelike",
+    "2d",
+    "top-down",
+    "procedural-generation",
+    "3d",
+    "controller",
+    "pixel-graphics"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "french",
+    "koreana",
+    "schinese",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "english": "Rogue: Genesia",
+    "schinese": "罗格：救世传说"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Rogue Genesia.exe",
+          "description": "Play Windows Version",
+          "type": "default"
+        },
+        {
+          "executable": "Vanilla/Rogue Genesia.exe",
+          "description": "Vanilla",
+          "type": "option1"
+        },
+        {
+          "executable": "Modded/Rogue Genesia.exe",
+          "description": "Modded",
+          "type": "option1"
+        },
+        {
+          "executable": "Rogue Genesia.exe",
+          "description": "Play Version 0.7 of Rogue: Genesia",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "HuardOuadi/Rogue Genesia",
+          "pattern": "GameDataSave.rgsav",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "HuardOuadi/Rogue Genesia",
+          "pattern": "Achievements.rgsav",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "HuardOuadi/Rogue Genesia",
+          "pattern": "Achievement.rgsav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "HuardOuadi/Rogue Genesia",
+          "pattern": "PersistantSave.rgsav",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "HuardOuadi/Rogue Genesia/Profile",
+          "pattern": "EnabledMods.json",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "HuardOuadi/Rogue Genesia/Profile",
+          "pattern": "*GameHistory.rgsav",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "HuardOuadi/Rogue Genesia/Profile",
+          "pattern": "*Run.rgsav",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Rogue Genesia.x86_64",
+          "description": "Linux",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "HuardOuadi/Rogue Genesia",
+          "pattern": "GameDataSave.rgsav",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "HuardOuadi/Rogue Genesia",
+          "pattern": "Achievements.rgsav",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "HuardOuadi/Rogue Genesia",
+          "pattern": "Achievement.rgsav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "HuardOuadi/Rogue Genesia",
+          "pattern": "PersistantSave.rgsav",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "HuardOuadi/Rogue Genesia/Profile",
+          "pattern": "EnabledMods.json",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "HuardOuadi/Rogue Genesia/Profile",
+          "pattern": "*GameHistory.rgsav",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "HuardOuadi/Rogue Genesia/Profile",
+          "pattern": "*Run.rgsav",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Rogue: Genesia",
+    "Rogue Genesia",
+    "Vanilla/Rogue Genesia",
+    "Modded/Rogue Genesia",
+    "Rogue Genesia.x86_64",
+    "罗格：救世传说"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2067920/3902c16718546348eae5db5838e1123189641198.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/08bfbc36a1f18279c081cf562b76c9679109e523/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/f3d0c0a45de43890d0856b4fceeac2e77f3568e1/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/80b8630d97a4b905c8b0206d7404a724495ff273/ss_80b8630d97a4b905c8b0206d7404a724495ff273.1920x1080.jpg?t=1782910476"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/4f57fa5c64bfc0d71e1a2ab4d4f3bb7779d05e42/ss_4f57fa5c64bfc0d71e1a2ab4d4f3bb7779d05e42.1920x1080.jpg?t=1782910476"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/ss_c852a41af5208577f76a6e01d129ccd77d452f17.1920x1080.jpg?t=1782910476"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/6aed6ac451818bc55725d755d1624cd4974ca863/ss_6aed6ac451818bc55725d755d1624cd4974ca863.1920x1080.jpg?t=1782910476"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/ss_dc2891926508cd9c02d4a1b122ceacf0d2b3797e.1920x1080.jpg?t=1782910476"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/4c2ea3fca3eb2fff396718fcc3721b3acf688805/ss_4c2ea3fca3eb2fff396718fcc3721b3acf688805.1920x1080.jpg?t=1782910476"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/308590992551553c444b8d30297717aacf66e8b0/ss_308590992551553c444b8d30297717aacf66e8b0.1920x1080.jpg?t=1782910476"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/ss_2a6c4259b2f4756fe9bb675737da3feaaec5003f.1920x1080.jpg?t=1782910476"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/ef9e29e1d97187f1b152d0d7ed8579c5832527b5/ss_ef9e29e1d97187f1b152d0d7ed8579c5832527b5.1920x1080.jpg?t=1782910476"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/ss_412164472e69f0b1682e91619b77b2ac7d4a30d8.1920x1080.jpg?t=1782910476"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/15110d021f325f6ae18c87af31a20105cf6f76aa/ss_15110d021f325f6ae18c87af31a20105cf6f76aa.1920x1080.jpg?t=1782910476"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067920/ss_224b5bfaa8055db6c468e5ce6188dae786c5fa9d.1920x1080.jpg?t=1782910476"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256993998/movie.293x165.jpg?t=1723016634",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2067920/649931/6b7d66b7eae30af0cbf20b505b976887a5f4fcbe/1750745837/dash_h264.mpd?t=1723016634"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2067920,
+    "store_url": "https://store.steampowered.com/app/2067920/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual",
+      "RPG",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Keyboard Only Option",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Stereo Sound",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Bullet Heaven",
+      "Bullet Hell",
+      "Action Roguelike",
+      "Roguelite",
+      "Arcade",
+      "Twin Stick Shooter",
+      "PvE",
+      "Choices Matter",
+      "2.5D",
+      "Action",
+      "Roguelike",
+      "2D",
+      "Strategy",
+      "Top-Down",
+      "Procedural Generation",
+      "3D",
+      "Controller",
+      "RPG",
+      "Casual",
+      "Pixel Graphics"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7712,
+    "review_negative": 781,
+    "review_total": 8493,
+    "review_positive_percent": 90.8
+  }
+}

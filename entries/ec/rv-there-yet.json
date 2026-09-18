@@ -1,0 +1,217 @@
+{
+  "key": "rv-there-yet",
+  "name": "RV There Yet?",
+  "description": "A co-op adventure about driving your Recreational Vehicle home.",
+  "developers": [
+    "Nuggets Entertainment"
+  ],
+  "publishers": [
+    "Nuggets Entertainment"
+  ],
+  "release_date": "2025-10-21",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "funny",
+    "driving",
+    "physics",
+    "first-person",
+    "exploration",
+    "3d",
+    "atmospheric",
+    "offroad",
+    "casual",
+    "singleplayer",
+    "controller",
+    "character-customization",
+    "stylized"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Czech",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese - Brazil",
+    "Portuguese - Portugal",
+    "Romanian",
+    "Russian",
+    "Simplified Chinese",
+    "Spanish - Latin America",
+    "Traditional Chinese",
+    "Turkish",
+    "Ukrainian*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "我们到了吗？",
+    "tchinese": "我們到了嗎？"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Ride.exe",
+          "description": "with DirectX 12 (default)",
+          "type": "default"
+        },
+        {
+          "executable": "Ride.exe",
+          "description": "with DirectX 11 (solves some startup crashes)",
+          "type": "option2"
+        },
+        {
+          "executable": "Ride.exe",
+          "description": "with DirectX 12 (default)",
+          "type": "default"
+        },
+        {
+          "executable": "Ride.exe",
+          "description": "with DirectX 11 (solves some startup crashes)",
+          "type": "option2"
+        },
+        {
+          "executable": "Ride.exe",
+          "description": "with DirectX 12 (default)",
+          "type": "default"
+        },
+        {
+          "executable": "Ride.exe",
+          "description": "with DirectX 11 (solves some startup crashes)",
+          "type": "option2"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Ride/Saved/SaveGames/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "RV There Yet?",
+    "Ride",
+    "我们到了吗？",
+    "我們到了嗎？"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3949040/cd01f1daaaa3fb022e9913dc2d66a23c5091b5d5.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/cae24b4ed7f4531be51f0d63f785b7d253f92dc3/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/05b77bc86d227612ded8e54753063e43c44698c4/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/701632e4a84f8378c23fdf18ae127cb6a0f3f904/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/ec187832e5b30b4fd849dddd7b4ba8441c2700b5/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/f3e11f936795b5e4b58ad52a0299824b9d972b48/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/ed2f7080c6622688a72a86ca85af600f2a2bdfb9/ss_ed2f7080c6622688a72a86ca85af600f2a2bdfb9.1920x1080.jpg?t=1778071815"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/7d246f94e4ec2ff4c7be3ded82bcdd558274d7c7/ss_7d246f94e4ec2ff4c7be3ded82bcdd558274d7c7.1920x1080.jpg?t=1778071815"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/f5663e0220e188d4c9db0789f0cbb4ddefd762d5/ss_f5663e0220e188d4c9db0789f0cbb4ddefd762d5.1920x1080.jpg?t=1778071815"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/9face7033df9bd0274428d6215711c5dec20f245/ss_9face7033df9bd0274428d6215711c5dec20f245.1920x1080.jpg?t=1778071815"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/aa6d58ff1f0eb5c5b3e6d7cc10c1576b62a745b0/ss_aa6d58ff1f0eb5c5b3e6d7cc10c1576b62a745b0.1920x1080.jpg?t=1778071815"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/9c06d0d1e31ab3e05b1ce24692a9397ca7bfabf1/ss_9c06d0d1e31ab3e05b1ce24692a9397ca7bfabf1.1920x1080.jpg?t=1778071815"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/e1d049defe6110250dd1e0e50cf1112ff6391381/ss_e1d049defe6110250dd1e0e50cf1112ff6391381.1920x1080.jpg?t=1778071815"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/4dfb30018ca9c4994883f20aa0a6edd4a944569c/ss_4dfb30018ca9c4994883f20aa0a6edd4a944569c.1920x1080.jpg?t=1778071815"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/c30eb4f8c688a46edb891ea195acb14549a09c0f/ss_c30eb4f8c688a46edb891ea195acb14549a09c0f.1920x1080.jpg?t=1778071815"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/fb646de9f84fdc610d394d78e81b4af4608c7045/ss_fb646de9f84fdc610d394d78e81b4af4608c7045.1920x1080.jpg?t=1778071815"
+    }
+  ],
+  "videos": [
+    {
+      "name": "RV There Yet? Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257215104/091ef229a8ab7216e094b3d5ac2f3ea7d75d5c95/movie_600x337.jpg?t=1760357938",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3949040/750434220/4debbf5fe1ea5546b18ab2c4c608e94b04a2a95f/1760356005/dash_h264.mpd?t=1760357938"
+    },
+    {
+      "name": "RV There Yet? - Mt. Yurbuttsk",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257250829/4b524c7a81cf046d84cb7822e0f8706364fb2258/movie_600x337.jpg?t=1765897881",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3949040/454755052/57242bfb6bbd49408528dc1a10302edb1665213d/1765892091/dash_h264.mpd?t=1765897881"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3949040,
+    "store_url": "https://store.steampowered.com/app/3949040/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Full controller support",
+      "Steam Input API Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Co-op",
+      "Funny",
+      "Online Co-Op",
+      "Adventure",
+      "Driving",
+      "Physics",
+      "First-Person",
+      "Exploration",
+      "Indie",
+      "3D",
+      "Atmospheric",
+      "Offroad",
+      "Casual",
+      "Singleplayer",
+      "Psychological Horror",
+      "Controller",
+      "Action",
+      "Character Customization",
+      "Stylized"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 73073,
+    "review_negative": 7754,
+    "review_total": 80827,
+    "review_positive_percent": 90.41
+  }
+}

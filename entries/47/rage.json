@@ -1,0 +1,169 @@
+{
+  "key": "rage",
+  "name": "RAGE",
+  "description": "Powered by id’s revolutionary id Tech® 5 technology, RAGE is an intense first-person shooter with breakneck vehicle combat, an expansive world to explore, and jaw-dropping graphics!",
+  "developers": [
+    "id Software"
+  ],
+  "publishers": [
+    "Bethesda Softworks"
+  ],
+  "release_date": "2011-10-03",
+  "website": "http://rage.com/gate/",
+  "tags": [
+    "action",
+    "multiplayer",
+    "co-op"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian",
+    "japanese",
+    "polish",
+    "czech"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "rage.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Rage64.exe",
+          "description": "Play RAGE 64-bit with Mods (unsupported)",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/Rage/base/savegame",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "RAGE",
+    "rage",
+    "Rage64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/9200/258791dd730f3009acc4c6c1846ed75b2c3911fa.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9200/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9200/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9200/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9200/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9200/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9200/ss_f531a899e9781f423efab9ec108ae2822c6117dc.1920x1080.jpg?t=1706806214"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9200/ss_e030a96ebaef76393acde360ebd8d9499984e9fd.1920x1080.jpg?t=1706806214"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9200/ss_f2bf58dd4bdd52f361033d2873d47d90016cbb4e.1920x1080.jpg?t=1706806214"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9200/ss_e775f10ba76c644ff3253fb07647ce46efc43abe.1920x1080.jpg?t=1706806214"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9200/ss_6df0c52ea7f4a894a084a67530d2c052c29f5b6e.1920x1080.jpg?t=1706806214"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9200/ss_08c44f2340e0d1b5601d425f695dd3425645fb6d.1920x1080.jpg?t=1706806214"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9200/ss_1ef2bc19eac9d24025cb8b569e0b8939a35c1503.1920x1080.jpg?t=1706806214"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9200/ss_f7a2a5235a798529f2d24796e0004dbde22fee4f.1920x1080.jpg?t=1706806214"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9200/ss_7b516da43b4130b9ccd983d8c9a0718e124df3a4.1920x1080.jpg?t=1706806214"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9200/ss_f9588c08aca3a425a9dc3d89d0a5405ed4072a78.1920x1080.jpg?t=1706806214"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9200/ss_a168fdb5c9849b0bdf13cff1461ced58c80d1383.1920x1080.jpg?t=1706806214"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Rage Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81013/movie.293x165.jpg?t=1447354530",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/9200/5583/3727c5e24e5ee6a6af3437e14ab990b40eb20824/1750484183/dash_h264.mpd?t=1447354530"
+    },
+    {
+      "name": "Rage - Blake Griffin",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81024/movie.293x165.jpg?t=1447354567",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/9200/5633/c0b7ae836ee44516b346cd7cebea76c65d90ddab/1750484183/dash_h264.mpd?t=1447354567"
+    },
+    {
+      "name": "Rage - Making of Wasteland",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81025/movie.293x165.jpg?t=1447354568",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/9200/5634/bc2e9c7ef4324d5a9124413a75201888702b0cf2/1750484195/dash_h264.mpd?t=1447354568"
+    },
+    {
+      "name": "Rage - The Sound and The Art",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81036/movie.293x165.jpg?t=1447354568",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/9200/5635/8e68f1b6dd5b484ee669ee18aded5aad58b34480/1750484196/dash_h264.mpd?t=1447354568"
+    },
+    {
+      "name": "Rage - Making of Legacy",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81029/movie.293x165.jpg?t=1447354569",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/9200/5636/f6c0ce5b28be28fe12ef603f091d7e0b63efb5c2/1750484214/dash_h264.mpd?t=1447354569"
+    },
+    {
+      "name": "Rage - Making of Arsenal",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81030/movie.293x165.jpg?t=1447354570",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/9200/5637/d2542a96135cac20c1a1c29703ec313a0dcf85d7/1750484220/dash_h264.mpd?t=1447354570"
+    }
+  ],
+  "metacritic": {
+    "score": 79,
+    "url": "https://www.metacritic.com/game/pc/rage?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 9200,
+    "store_url": "https://store.steampowered.com/app/9200/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Steam Achievements",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 14183,
+    "review_negative": 4029,
+    "review_total": 18212,
+    "review_positive_percent": 77.88
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "key": "ravenswatch",
+  "name": "Ravenswatch",
+  "description": "Fallen heroes of old folk tales and legends: you are on the verge of a crucial battle against the Nightmare invading and corrupting your world. A roguelike action game from the creators of Curse of the Dead Gods©, playable solo or in online co-op.",
+  "developers": [
+    "Passtech Games"
+  ],
+  "publishers": [
+    "Nacon"
+  ],
+  "release_date": "2024-09-27",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure",
+    "multiplayer",
+    "co-op",
+    "online-co-op"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "Ravenswatch 鸦卫奇旅",
+    "tchinese": "Ravenswatch 鸦卫奇旅"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Ravenswatch.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "_Save/",
+          "pattern": "Profile_1.ob",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "_Save/",
+          "pattern": "Profile_2.ob",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "_Save/",
+          "pattern": "Profile_3.ob",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Ravenswatch",
+    "Ravenswatch 鸦卫奇旅"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2071280/f1f1815dab259b1e00125a3e58b9c107945b265a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/7c03b1bafb313fb04331fa735ec4101b2f812286/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/d936ed9aeaea7557c1a5a01636d8c7e5e2332550/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/3f938416d7abcb5628ba7cf2936fbd1f27be8519/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/9f105347ea3f6ab45ccd5ca2c29487026fd6b5bd/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/ss_b6826b65f6602cf7da2a9836958fc9919c4f96ee.1920x1080.jpg?t=1782466354"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/ss_aac11bf9c96435f234166c17bbdbbcba657abfc6.1920x1080.jpg?t=1782466354"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/ss_375f664eec9e43594663103f08f3f373649fbdef.1920x1080.jpg?t=1782466354"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/ss_9152a64ff11487cdcd661dab7912aa410629e9d0.1920x1080.jpg?t=1782466354"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/ss_c032bfbd862a30d3125a876c3a5fad4008825e20.1920x1080.jpg?t=1782466354"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/ss_bcbc65a8c7662be312636c68c3655e1c2aa0e5c2.1920x1080.jpg?t=1782466354"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/ss_624f8ab9217ca833f1e28ca7d3f6b94b759afe67.1920x1080.jpg?t=1782466354"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/ss_523bda5251c57b700796ad8188a52a257391db04.1920x1080.jpg?t=1782466354"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/ss_7d2da60bd7caa560ca3f7584894554bfc87c29c4.1920x1080.jpg?t=1782466354"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/ss_265f4aa30b0a9d57f26a35ac672c628371337715.1920x1080.jpg?t=1782466354"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer PC",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257056194/f77a7630db66e4137a0d30dd2cdb20f5d079fe17/movie_600x337.jpg?t=1739807167",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2071280/757590/5d14f9da1e112d0f85b6298c855243a0167d9745/1750745934/dash_h264.mpd?t=1739807167"
+    },
+    {
+      "name": "Ravenswatch in 60s",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257099260/d157456d48153db2a9ef18995938468a614b1c00/movie_600x337.jpg?t=1739807169",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2071280/830425/7ed10b23996e0b4c0456f564abd9d45f877712be/1750745937/dash_h264.mpd?t=1739807169"
+    },
+    {
+      "name": "Accolade trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257099261/a63185d241d4ae672b72ca4ecce9297ff6d398e8/movie_600x337.jpg?t=1739807172",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2071280/830426/2dc766fd490d4b9ef53aafac2d8d70d29dcb8f14/1750745938/dash_h264.mpd?t=1739807172"
+    }
+  ],
+  "metacritic": {
+    "score": 84,
+    "url": "https://www.metacritic.com/game/pc/ravenswatch?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 2071280,
+    "store_url": "https://store.steampowered.com/app/2071280/",
+    "required_age": 13,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 17509,
+    "review_negative": 4448,
+    "review_total": 21957,
+    "review_positive_percent": 79.74
+  }
+}

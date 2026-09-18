@@ -1,0 +1,228 @@
+{
+  "key": "dredge",
+  "name": "DREDGE",
+  "description": "DREDGE is a single-player fishing adventure with a sinister undercurrent. Sell your catch, upgrade your boat, and dredge the depths for long-buried secrets. Explore a mysterious archipelago and discover why some things are best left forgotten.",
+  "developers": [
+    "Black Salt Games"
+  ],
+  "publishers": [
+    "Team17"
+  ],
+  "release_date": "2023-03-31",
+  "website": "https://www.dredge.game/",
+  "tags": [
+    "adventure",
+    "rpg",
+    "exploration",
+    "fishing",
+    "lovecraftian",
+    "open-world",
+    "inventory-management",
+    "mystery",
+    "atmospheric",
+    "horror",
+    "singleplayer",
+    "simulation",
+    "stylized",
+    "indie",
+    "story-rich",
+    "sailing",
+    "psychological",
+    "3d"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "《渔帆暗涌》"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "DREDGE.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Black Salt Games/DREDGE/saves",
+          "pattern": "*.bin",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "DREDGE.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Black Salt Games/DREDGE/saves",
+          "pattern": "*.bin",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "DREDGE",
+    "DREDGE.app",
+    "《渔帆暗涌》"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1562430/c8b352e87c28aa9ffe3a4641b230beb5064a49e6.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/d6c28e6402e85395421ac06ac86cdb0e28b48e27/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_70f88014423ed93eaa111c0d0daca2c500f76908.1920x1080.jpg?t=1780479732"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_d4d4b14c5cd071307e27b4e9737f23f28b096248.1920x1080.jpg?t=1780479732"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_9529104cde1af2ffbb715cab42bbb3012fb9b7d8.1920x1080.jpg?t=1780479732"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_b60f2ff50997c5da29fcd783770053263aac26c0.1920x1080.jpg?t=1780479732"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_e964290b6a6a6941e299ba5be00fd3d98aec6d06.1920x1080.jpg?t=1780479732"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_87d0d9ba6e7851a07778ac696d56af8e0ab71a21.1920x1080.jpg?t=1780479732"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_fb81a15978913f50e17d8f59346ae7688b405ab2.1920x1080.jpg?t=1780479732"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_d98d0c25d9cdb72f4d8e78818a49a34ace974d47.1920x1080.jpg?t=1780479732"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_00ce76c4796919378af70f8b64897829e55745ba.1920x1080.jpg?t=1780479732"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_6e4d73bdbea2f723b66aabf92a6bf19bdd35e9d1.1920x1080.jpg?t=1780479732"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_7234cd6fca2969ac13824a22f771c9d572802958.1920x1080.jpg?t=1780479732"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_1ec12a463daaad36d8675cb193f14a33a5025441.1920x1080.jpg?t=1780479732"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_1d4854c6dff662b68b4218cdfaa4ee7ec9251da9.1920x1080.jpg?t=1780479732"
+    }
+  ],
+  "videos": [
+    {
+      "name": "DREDGE: Complete Edition Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257052901/movie.293x165.jpg?t=1725614790",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1562430/751913/2f166531a359b6bbad73e42bb417a30b2eb61798/1750701525/dash_h264.mpd?t=1725614790"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256938596/movie.293x165.jpg?t=1680192002",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1562430/553322/db0df35acf025e6ecd0c3305a8b97ed97c0bab33/1750701500/dash_h264.mpd?t=1680192002"
+    },
+    {
+      "name": "Update 3 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256970250/movie.293x165.jpg?t=1695055166",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1562430/608861/680db670dbc1eeb05185b000ed458f106f825856/1750701525/dash_h264.mpd?t=1695055166"
+    },
+    {
+      "name": "Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256928385/movie.293x165.jpg?t=1680171045",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1562430/535315/5c47677e95ebf76ce5026c01ab60fb82664e53b5/1750701489/dash_h264.mpd?t=1680171045"
+    },
+    {
+      "name": "Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256903110/movie.293x165.jpg?t=1680171049",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1562430/491552/d660424ef5f5b2dbe26feec5545222ab434ee8c8/1750701487/dash_h264.mpd?t=1680171049"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1562430,
+    "store_url": "https://store.steampowered.com/app/1562430/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Keyboard Only Option",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Exploration",
+      "Fishing",
+      "Lovecraftian",
+      "Open World",
+      "Adventure",
+      "Inventory Management",
+      "Mystery",
+      "Atmospheric",
+      "Psychological Horror",
+      "Horror",
+      "Singleplayer",
+      "RPG",
+      "Simulation",
+      "Stylized",
+      "Survival Horror",
+      "Indie",
+      "Story Rich",
+      "Sailing",
+      "Psychological",
+      "3D"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 52957,
+    "review_negative": 2301,
+    "review_total": 55258,
+    "review_positive_percent": 95.84
+  }
+}

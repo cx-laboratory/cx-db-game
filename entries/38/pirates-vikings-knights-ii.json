@@ -1,0 +1,235 @@
+{
+  "key": "pirates-vikings-knights-ii",
+  "name": "Pirates Vikings & Knights II",
+  "description": "Step into the ultimate three-way war for honor, glory, and gold! This beloved community-driven game brings together swashbuckling Pirates, battle-hardened Vikings, and chivalrous Knights in hilarious and intense class-based combat. Join the fun, embrace the chaos, and fight your way to victory!",
+  "developers": [
+    "Octoshark Studios"
+  ],
+  "publishers": [
+    "Octoshark Studios"
+  ],
+  "release_date": "2010-02-13",
+  "website": "http://www.octosharkstudios.com/pvkii",
+  "tags": [
+    "action",
+    "indie",
+    "free-to-play",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "medieval",
+    "pirates",
+    "swordplay",
+    "fps",
+    "funny",
+    "first-person",
+    "hack-and-slash",
+    "mod",
+    "vikings",
+    "historical",
+    "fast-paced",
+    "singleplayer",
+    "shooter",
+    "massively-multiplayer",
+    "memes"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "schinese",
+    "tchinese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "sdkbase_pvkii\\pvkii_win64.exe",
+          "description": "Pirates Vikings & Knights II - 64-bit",
+          "type": "option1"
+        },
+        {
+          "executable": "sdkbase_pvkii\\pvkii_win32.exe",
+          "description": "Pirates Vikings & Knights II - 32-bit",
+          "type": "option2"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "sdkbase_pvkii/pvkii.sh",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Pirates Vikings & Knights II",
+    "sdkbase_pvkii\\pvkii_win64",
+    "sdkbase_pvkii\\pvkii_win32",
+    "sdkbase_pvkii/pvkii.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/17570/f7514ec6c8dd606a8058e9e60e963ad55f7f77ab.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17570/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17570/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17570/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17570/20eb5bc8640a6823b07c4753ea21bac1444c61dd/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17570/c606c3d2e67eaab68fa4dbaafecbe0e3bd824f8c/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17570/ss_5d36c773396b17f01acb3a4d2388c702057bf85c.1920x1080.jpg?t=1755116237"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17570/ss_0f3562d2bc77c99985ff4d1f53eb622c0285e171.1920x1080.jpg?t=1755116237"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17570/ss_e736a2d8fa83cb8f68955f2db3d2c0a1025c8e76.1920x1080.jpg?t=1755116237"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17570/ss_a23eaa5916abba9c3dfef1820099a0d8dc8875f7.1920x1080.jpg?t=1755116237"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17570/ss_562b5c17e9094dd8025419005e8e4862941e4825.1920x1080.jpg?t=1755116237"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17570/ss_d2057075113b8a8dbc39fcc26399e4693de73b05.1920x1080.jpg?t=1755116237"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17570/ss_5a0aee49db5f101f00622c4429d69bb833da5455.1920x1080.jpg?t=1755116237"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17570/d8bdc2d01fbe282b8a5caa6992d822cfdfad4a9f/ss_d8bdc2d01fbe282b8a5caa6992d822cfdfad4a9f.1920x1080.jpg?t=1755116237"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17570/44c8af75163fa39d30c995dc0d8287d34c5dc495/ss_44c8af75163fa39d30c995dc0d8287d34c5dc495.1920x1080.jpg?t=1755116237"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17570/a339bafe43a2c41625c39b3e4d2dbdd293609e0b/ss_a339bafe43a2c41625c39b3e4d2dbdd293609e0b.1920x1080.jpg?t=1755116237"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17570/f18ed3264fa45a8f890df5034d7dfef325ec7b99/ss_f18ed3264fa45a8f890df5034d7dfef325ec7b99.1920x1080.jpg?t=1755116237"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17570/d34e4eca5d95a290ab0d4c57dd2e0c10ad288524/ss_d34e4eca5d95a290ab0d4c57dd2e0c10ad288524.1920x1080.jpg?t=1755116237"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17570/237c7e4fb69e84e5090e3aba5e54b806a1fe1d35/ss_237c7e4fb69e84e5090e3aba5e54b806a1fe1d35.1920x1080.jpg?t=1755116237"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17570/19d241f43921c96e4e6755bae52741e456b6060a/ss_19d241f43921c96e4e6755bae52741e456b6060a.1920x1080.jpg?t=1755116237"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17570/ss_67c47e7cdd53d6222b23dbad80c266b8b315084a.1920x1080.jpg?t=1755116237"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17570/ss_3a2b0c532c36d46b214c75699a4dedd8646144a6.1920x1080.jpg?t=1755116237"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17570/ss_1b03b2d8d186e1c60f0d9766b6116b20a58d1150.1920x1080.jpg?t=1755116237"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17570/ss_1489295f84d488bdd5dc8a5b225b47d5e6b8c22e.1920x1080.jpg?t=1755116237"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17570/ss_4d31229984f3577c03f1c5ad1de5ad0c19c78634.1920x1080.jpg?t=1755116237"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17570/ss_f0216e2445202a41357a46f3b9fec98eecf0a893.1920x1080.jpg?t=1755116237"
+    }
+  ],
+  "videos": [
+    {
+      "name": "1.0 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257182819/8c71e4b98ac8476e2d55d90a5f650eef3aaea0f5/movie_600x337.jpg?t=1755116228",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/17570/2110994866/6fb56d90559f3e14495570ccf3b5648874f5baae/1755115307/dash_h264.mpd?t=1755116228"
+    },
+    {
+      "name": "Bondi Trailer by AGSMA",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256734009/movie.293x165.jpg?t=1755116230",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/17570/193566/433b65f40e8f285bd7fc4d6f0eae893f7c78070c/1751245960/dash_h264.mpd?t=1755116230"
+    },
+    {
+      "name": "SFM Trailer by Ferhod",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256660116/movie.293x165.jpg?t=1755116232",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/17570/50881/d200502004237172bafdd18fbf8becffcfeb7103/1751245960/dash_h264.mpd?t=1755116232"
+    },
+    {
+      "name": "3.0 Man-at-Arms Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2038309/movie.293x165.jpg?t=1755116234",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/17570/33832/91135dc46f1cc469f5b6c53a1c0f55b9a9a1e7c9/1751245960/dash_h264.mpd?t=1755116234"
+    },
+    {
+      "name": "2.6 Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2030028/movie.293x165.jpg?t=1755116236",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/17570/15064/ca75088ccc7a2ffa83115aad95a212bc8f650d67/1751245960/dash_h264.mpd?t=1755116236"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 17570,
+    "store_url": "https://store.steampowered.com/app/17570/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Indie",
+      "Free To Play"
+    ],
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Cross-Platform Multiplayer",
+      "Mods",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled",
+      "Stats",
+      "Includes level editor",
+      "Includes Source SDK",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Multiplayer",
+      "Action",
+      "Medieval",
+      "Pirates",
+      "Swordplay",
+      "FPS",
+      "Funny",
+      "First-Person",
+      "Indie",
+      "Hack and Slash",
+      "Mod",
+      "Vikings",
+      "Historical",
+      "PvP",
+      "Fast-Paced",
+      "Singleplayer",
+      "Shooter",
+      "Massively Multiplayer",
+      "Memes"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 5506,
+    "review_negative": 765,
+    "review_total": 6271,
+    "review_positive_percent": 87.8
+  }
+}

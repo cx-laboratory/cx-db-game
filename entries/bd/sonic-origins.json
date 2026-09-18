@@ -1,0 +1,189 @@
+{
+  "key": "sonic-origins",
+  "name": "Sonic Origins",
+  "description": "Experience the collected adventures of Sonic the Hedgehog in Sonic Origins Plus! With 16 legendary Sonic titles, including 12 Game Gear games, new playable characters, modes, challenges, behind-the-scenes content, and more, this is the definitive way to play these classic games!",
+  "developers": [
+    "Sonic Team"
+  ],
+  "publishers": [
+    "SEGA"
+  ],
+  "release_date": "2022-06-23",
+  "website": "http://sonicthehedgehog.com",
+  "tags": [
+    "action",
+    "adventure",
+    "casual",
+    "2d-platformer",
+    "retro",
+    "pixel-graphics",
+    "platformer",
+    "great-soundtrack",
+    "classic",
+    "fast-paced",
+    "2d",
+    "family-friendly",
+    "singleplayer",
+    "arcade",
+    "cute",
+    "exploration",
+    "nostalgia",
+    "remake",
+    "1990-s",
+    "colorful"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "japanese": "ソニックオリジンズ",
+    "koreana": "소닉 오리진스",
+    "tchinese": "索尼克 起源",
+    "schinese": "索尼克 起源"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "build/main/projects/exec/SonicOrigins.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "SEGA/SonicOrigins/steam/{64BitSteamID}/game/",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Sonic Origins",
+    "build/main/projects/exec/SonicOrigins",
+    "ソニックオリジンズ",
+    "소닉 오리진스",
+    "索尼克 起源"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1794960/f3601b63acb04613d5437a56aae1dbac77d12ba7.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794960/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794960/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794960/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794960/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794960/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794960/ss_5c7a8a7c506fe2a0e606de768b291a5c24a2763f.1920x1080.jpg?t=1762752035"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794960/ss_7e93ca3dbea7d6a1396a4a1da2f3202c16935100.1920x1080.jpg?t=1762752035"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794960/ss_17be33bd0fcb8b63596bac3965a022c6611b73fa.1920x1080.jpg?t=1762752035"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794960/ss_1648242eaeed753eca1a3a3c52db5d27c919776c.1920x1080.jpg?t=1762752035"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794960/ss_25e742c46e1836c64e52f68e9582fe82d2f4498b.1920x1080.jpg?t=1762752035"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794960/ss_64af34b6c4565b0e1af0c92d3ab59351bdf678d6.1920x1080.jpg?t=1762752035"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794960/ss_2ee7896f033b15530fad793250cb9cb344431771.1920x1080.jpg?t=1762752035"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794960/ss_126ed20cd593dfcfd5ea0a06bf85b606276b9c04.1920x1080.jpg?t=1762752035"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794960/ss_3c25d601dd8a5d233bf845cd08c566f7c775c539.1920x1080.jpg?t=1762752035"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794960/ss_24bb49b66c05e7a0526e8e4a6e4c504ad3669008.1920x1080.jpg?t=1762752035"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794960/ss_88adb48a26261cb3739eb891dcd0c427153fa1ac.1920x1080.jpg?t=1762752035"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794960/ss_f49d934ce4a04ace16a512c396f1e9ee363ec491.1920x1080.jpg?t=1762752035"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Announce ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256882816/movie.293x165.jpg?t=1650472152",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1794960/456380/55c5826afdbc3beee989ded43ae93dded70d30f4/1750736849/dash_h264.mpd?t=1650472152"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1794960,
+    "store_url": "https://store.steampowered.com/app/1794960/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Action",
+      "2D Platformer",
+      "Adventure",
+      "Retro",
+      "Pixel Graphics",
+      "Platformer",
+      "Great Soundtrack",
+      "Casual",
+      "Classic",
+      "Fast-Paced",
+      "2D",
+      "Family Friendly",
+      "Singleplayer",
+      "Arcade",
+      "Cute",
+      "Exploration",
+      "Nostalgia",
+      "Remake",
+      "1990's",
+      "Colorful"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 4695,
+    "review_negative": 1496,
+    "review_total": 6191,
+    "review_positive_percent": 75.84
+  }
+}

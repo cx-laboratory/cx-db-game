@@ -1,0 +1,214 @@
+{
+  "key": "ball-x-pit",
+  "name": "BALL x PIT",
+  "description": "BALL x PIT is a brick-breaking, ball-fusing, base-building survival roguelite. Batter hordes of enemies with ricocheting balls and gather the riches of the pit to expand your homestead, generate resources and recruit unique heroes.",
+  "developers": [
+    "Kenny Sun and Friends"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "release_date": "2025-10-15",
+  "website": "https://www.ballxpit.com/",
+  "tags": [
+    "action",
+    "indie",
+    "roguelite",
+    "arcade",
+    "bullet-hell",
+    "roguelike",
+    "action-roguelike",
+    "shoot-em-up",
+    "top-down-shooter",
+    "pixel-graphics",
+    "2d",
+    "top-down",
+    "building",
+    "base-building",
+    "crafting",
+    "bullet-heaven",
+    "singleplayer",
+    "combat",
+    "controller",
+    "co-op"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "polish",
+    "turkish",
+    "brazilian",
+    "ukrainian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "BALL x PIT — 球比伦战记"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Balls.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Kenny Sun/BALL x PIT",
+          "pattern": "*.yankai",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Balls.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Kenny Sun/BALL x PIT",
+          "pattern": "*.yankai",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "BALL x PIT",
+    "Balls",
+    "Balls.app",
+    "BALL x PIT — 球比伦战记"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2062430/7651f4667f6084ef598a2da930d11e26d0aa5f82.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062430/a157aa8de4bd9070194ddffb27c31636355dca05/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062430/93669476208e773101f9949b9e668322fc39ef85/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062430/b6cabe1940c55119820eee4ed2d0b604bd5b3af4/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062430/1d72e463611ac3e4c6f7c80a835931ce6af67893/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062430/776432359d586a2cf428b40cab1c3f827fc8e2dc/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062430/a28844182780f12e79a6b8d5db69eb8677642440/ss_a28844182780f12e79a6b8d5db69eb8677642440.1920x1080.jpg?t=1781357518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062430/04e4302332ab3277284b3e7e7a99501ffdc4055e/ss_04e4302332ab3277284b3e7e7a99501ffdc4055e.1920x1080.jpg?t=1781357518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062430/dce6cf631cee30e209e4e4ef93eefe065690a3a0/ss_dce6cf631cee30e209e4e4ef93eefe065690a3a0.1920x1080.jpg?t=1781357518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062430/9ec0c5e5675c79ae2ff721f4ba2aa7844107588e/ss_9ec0c5e5675c79ae2ff721f4ba2aa7844107588e.1920x1080.jpg?t=1781357518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062430/5a16b72e446af3483d64c2a88bc8c484595194ee/ss_5a16b72e446af3483d64c2a88bc8c484595194ee.1920x1080.jpg?t=1781357518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062430/867f1ac74f4058d74aad8961983a3fe98aa395bb/ss_867f1ac74f4058d74aad8961983a3fe98aa395bb.1920x1080.jpg?t=1781357518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062430/abef212ea484878e9713fe3b4bf9f833420c1834/ss_abef212ea484878e9713fe3b4bf9f833420c1834.1920x1080.jpg?t=1781357518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062430/710d59f069b225e17b2d446fb714da0aa2d34688/ss_710d59f069b225e17b2d446fb714da0aa2d34688.1920x1080.jpg?t=1781357518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062430/0a4f554b1680075cb5c3cdaba308a0a6c16e7998/ss_0a4f554b1680075cb5c3cdaba308a0a6c16e7998.1920x1080.jpg?t=1781357518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062430/0f725ba646b4c9dec3f661bbb8423047fd67057d/ss_0f725ba646b4c9dec3f661bbb8423047fd67057d.1920x1080.jpg?t=1781357518"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Shadow Update | Out Now",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257327010/70a7dcc33c7486bf2bb3760997ccb96c8758e252/movie_600x337.jpg?t=1777308966",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2062430/1027271492/9ca07ebfca58f164859fe103705541d86d1429c0/1777240461/dash_h264.mpd?t=1777308966"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257214473/159a88e0d706d0158f20895804a0046e730fb463/movie_600x337.jpg?t=1760647671",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2062430/1468607397/3585842f9abc41bbf0614701445cbee64394480b/1759954499/dash_h264.mpd?t=1760647671"
+    },
+    {
+      "name": "Regal Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257271260/f637d198a39c90975634cfbecea5cd34544e0eaf/movie_600x337.jpg?t=1777312664",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2062430/1864112102/0ff71034d47b7f8fc62aac073476df8cd55cef39/1769189092/dash_h264.mpd?t=1777312664"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2062430,
+    "store_url": "https://store.steampowered.com/app/2062430/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Action",
+      "Roguelite",
+      "Arcade",
+      "Bullet Hell",
+      "Roguelike",
+      "Action Roguelike",
+      "Shoot 'Em Up",
+      "Top-Down Shooter",
+      "Pixel Graphics",
+      "2D",
+      "Top-Down",
+      "Building",
+      "Base Building",
+      "Crafting",
+      "Bullet Heaven",
+      "Singleplayer",
+      "Combat",
+      "Indie",
+      "Controller",
+      "Co-op"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 24472,
+    "review_negative": 1177,
+    "review_total": 25649,
+    "review_positive_percent": 95.41
+  }
+}

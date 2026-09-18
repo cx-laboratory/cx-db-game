@@ -1,0 +1,175 @@
+{
+  "key": "aliens-fireteam-elite",
+  "name": "Aliens: Fireteam Elite",
+  "description": "Aliens: Fireteam Elite is a cooperative third-person survival game set in the iconic Alien Universe. Battle through hordes of different types of Xenomorph, customize your character and gear, and level-up as you try to contain this ever-growing threat.",
+  "developers": [
+    "Cold Iron Studios"
+  ],
+  "publishers": [
+    "Cold Iron Studios"
+  ],
+  "release_date": "2021-08-24",
+  "website": "http://www.aliensfireteamelite.com",
+  "tags": [
+    "action",
+    "rpg",
+    "multiplayer",
+    "co-op",
+    "online-co-op"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "schinese",
+    "tchinese",
+    "russian",
+    "polish",
+    "czech",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Endeavor.exe",
+          "description": "Play Aliens: Fireteam Elite",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Endeavor/Saved/SaveGames",
+          "pattern": "char.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Endeavor/Saved/SaveGames/{64BitSteamID}",
+          "pattern": "char.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Endeavor/Saved/SaveGames/{64BitSteamID}",
+          "pattern": "char_knowngood.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Endeavor/Saved/SaveGames/{64BitSteamID}",
+          "pattern": "SharedSettings.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Endeavor/Saved/SaveGames/{64BitSteamID}",
+          "pattern": "CrossplaySocial.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Endeavor/Saved/SaveGames/{64BitSteamID}",
+          "pattern": "hardcore.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Endeavor/Saved/SaveGames/{64BitSteamID}",
+          "pattern": "hardcore_knowngood.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Endeavor/Saved/SaveGames/{64BitSteamID}",
+          "pattern": "graveyard.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Aliens: Fireteam Elite",
+    "Endeavor"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1549970/c2ad8ba213932fae2b528eda83973c22ae7379eb.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1549970/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1549970/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1549970/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1549970/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1549970/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1549970/ss_1d3f53c2ae3e4ac2885114aa255489b57eb89c5c.1920x1080.jpg?t=1727102951"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1549970/ss_b0cb31b2977312de10720ddf052e0a8a74a85d6a.1920x1080.jpg?t=1727102951"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1549970/ss_9841254c3383fe6815b0017394ab84d3ecc31d14.1920x1080.jpg?t=1727102951"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1549970/ss_f271d11ec630b3c8fe11f9f196842718e1145f9c.1920x1080.jpg?t=1727102951"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1549970/ss_03896903e32739497c26e1724dcbab75772970fe.1920x1080.jpg?t=1727102951"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1549970/ss_b9457bbac770ad2b8540d7959171112d91a9f98c.1920x1080.jpg?t=1727102951"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1549970/ss_79561b151ad9f129f9ece9d7a9c7158a516a3e96.1920x1080.jpg?t=1727102951"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Aliens: Fireteam Elite - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256848819/movie.293x165.jpg?t=1630265396",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1549970/396163/250934457c2e2dafa8ecdc31f99f631295fc57ab/1750700300/dash_h264.mpd?t=1630265396"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1549970,
+    "store_url": "https://store.steampowered.com/app/1549970/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 21356,
+    "review_negative": 5435,
+    "review_total": 26791,
+    "review_positive_percent": 79.71
+  }
+}

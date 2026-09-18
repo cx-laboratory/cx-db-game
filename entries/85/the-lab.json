@@ -1,0 +1,169 @@
+{
+  "key": "the-lab",
+  "name": "The Lab",
+  "description": "Welcome to The Lab, a compilation of Valve’s room-scale VR experiments set in a pocket universe within Aperture Science. Fix a robot, defend a castle, adopt a mechanical dog, and more. Still not sold? It’s free!",
+  "developers": [
+    "Valve"
+  ],
+  "publishers": [
+    "Valve"
+  ],
+  "release_date": "2016-04-05",
+  "website": "",
+  "tags": [
+    "free-to-play",
+    "vr",
+    "singleplayer",
+    "action",
+    "first-person",
+    "adventure",
+    "funny",
+    "sandbox",
+    "casual",
+    "family-friendly",
+    "sci-fi",
+    "fps",
+    "puzzle",
+    "shooter",
+    "strategy",
+    "archery",
+    "memes",
+    "multiplayer",
+    "atmospheric",
+    "simulation"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "German",
+    "Czech",
+    "Finnish",
+    "Hungarian",
+    "Polish",
+    "Portuguese - Portugal",
+    "Portuguese - Brazil",
+    "Ukrainian",
+    "Bulgarian",
+    "Swedish",
+    "Italian",
+    "Japanese",
+    "Spanish - Spain",
+    "Danish",
+    "Korean",
+    "Russian",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Turkish*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "实验室 (游戏)"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "TheLab/win64/TheLab.exe",
+          "description": "",
+          "type": "vr"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "The Lab",
+    "TheLab/win64/TheLab"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/450390/69ca11312e3a1779946de8871d6bdb003636ffbf.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/450390/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/450390/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/450390/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/450390/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/450390/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/450390/ss_62690ec83252d1699996f4d248a005eb27c9702d.1920x1080.jpg?t=1677266902"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/450390/ss_1c17623855533a0b90c34061477a638a0200702d.1920x1080.jpg?t=1677266902"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/450390/ss_b297c61cdc62c206561fa5c194ec24d179981918.1920x1080.jpg?t=1677266902"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/450390/ss_bbdec73ee36fc998dbd22e197dee0c82e6ef8c6c.1920x1080.jpg?t=1677266902"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/450390/ss_828ea03ca82ac39110e337cfea9e652ae991e240.1920x1080.jpg?t=1677266902"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/450390/ss_54adacd5d22f775a2127177de458c21911e8ac6a.1920x1080.jpg?t=1677266902"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/450390/ss_e23896e296e69afb656bca5ab2f214844694e5a7.1920x1080.jpg?t=1677266902"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Lab Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256662461/movie.293x165.jpg?t=1459973739",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/450390/55572/dc50db08c8c01544d5aec8f8f5be7759fc2a1b4f/1751287114/dash_h264.mpd?t=1459973739"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 450390,
+    "store_url": "https://store.steampowered.com/app/450390/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Tracked Controller Support",
+      "VR Only",
+      "VR Support",
+      "SteamVR Collectibles",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "VR",
+      "Singleplayer",
+      "Action",
+      "First-Person",
+      "Adventure",
+      "Funny",
+      "Sandbox",
+      "Casual",
+      "Family Friendly",
+      "Sci-fi",
+      "FPS",
+      "Puzzle",
+      "Shooter",
+      "Strategy",
+      "Archery",
+      "Memes",
+      "Multiplayer",
+      "Atmospheric",
+      "Simulation"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 6302,
+    "review_negative": 341,
+    "review_total": 6643,
+    "review_positive_percent": 94.87
+  }
+}

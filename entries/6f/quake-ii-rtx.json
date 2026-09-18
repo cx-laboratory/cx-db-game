@@ -1,0 +1,130 @@
+{
+  "key": "quake-ii-rtx",
+  "name": "Quake II RTX",
+  "description": "Quake II RTX is a cutting-edge, ray-traced reimagining of id software’s old school classic, by NVIDIA’s Lightspeed Studios. Global lighting effects, including realistic reflections, refraction, shadows, ambient occlusion and global illumination are a result of the path-traced simulation of light.",
+  "developers": [
+    "Lightspeed Studios™"
+  ],
+  "publishers": [
+    "NVIDIA"
+  ],
+  "release_date": "2019-06-06",
+  "website": "https://www.GeForce.com/QuakeIIRTX",
+  "tags": [
+    "action",
+    "free-to-play"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "q2rtx.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "q2rtx.sh",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "find-retail-paks.sh",
+          "description": "Find Retail Quake II Content",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Quake II RTX",
+    "q2rtx",
+    "q2rtx.sh",
+    "find-retail-paks.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1089130/61775308689cd1f97d5487252f045055ab5bfc00.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089130/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089130/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089130/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089130/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089130/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089130/ss_e69c5d0b3d527199a1132210e7e9aa22c847c9fe.1920x1080.jpg?t=1667234977"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089130/ss_3fdaa881b801c7626e95b5ae80875176454d7fbd.1920x1080.jpg?t=1667234977"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089130/ss_97e8c8ffd3d0f7a9d58f72ff1836e7701710823e.1920x1080.jpg?t=1667234977"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089130/ss_f9172cdbe2bf2356efb87d0d8323647b37ce9fac.1920x1080.jpg?t=1667234977"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089130/ss_1fc47fe3e8c44f8b74bb37a4dfe136ccb64fd632.1920x1080.jpg?t=1667234977"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089130/ss_baa728ef0eef6e4ec4ce53ffbd1a35d57c249afb.1920x1080.jpg?t=1667234977"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089130/ss_fa7599a54f5e3a10de91100789390725c64b22e2.1920x1080.jpg?t=1667234977"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089130/ss_b15294279a12a5eb2803ff42f5e1791630419657.1920x1080.jpg?t=1667234977"
+    }
+  ],
+  "videos": [
+    {
+      "name": "launch",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256752729/movie.293x165.jpg?t=1559827848",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1089130/226881/5eb9e5cd844a94b3e7a7f72fd43f3a29dc7d37d1/1751186721/dash_h264.mpd?t=1559827848"
+    },
+    {
+      "name": "Official Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256751911/movie.293x165.jpg?t=1559357895",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1089130/225439/43865e5d9dccf6de2a0cb9f96d5e561189a8a502/1751187642/dash_h264.mpd?t=1559357895"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1089130,
+    "store_url": "https://store.steampowered.com/app/1089130/",
+    "required_age": 17,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 4136,
+    "review_negative": 618,
+    "review_total": 4754,
+    "review_positive_percent": 87
+  }
+}

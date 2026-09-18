@@ -1,0 +1,171 @@
+{
+  "key": "postal-redux",
+  "name": "POSTAL Redux",
+  "description": "POSTAL Redux is a high definition remake of the classic dark and surreal twin-stick isometric shooter. Take control of The POSTAL Dude as he fights to survive in a world gone mad with violence.",
+  "developers": [
+    "Running With Scissors"
+  ],
+  "publishers": [
+    "Running With Scissors"
+  ],
+  "release_date": "2016-05-21",
+  "website": "https://runningwithscissors.com/",
+  "tags": [
+    "action",
+    "indie",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "English*",
+    "Simplified Chinese**languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "喋血街头：重制版"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "PostalREDUX.exe",
+          "description": "POSTAL Redux (Win64)",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "PostalREDUX/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": true
+        },
+        {
+          "root": "LinuxHome",
+          "path": ".config/Epic/PostalREDUX/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "PostalREDUX.sh",
+          "description": "POSTAL Redux (Linux)",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "PostalREDUX/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": true
+        },
+        {
+          "root": "LinuxHome",
+          "path": ".config/Epic/PostalREDUX/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "POSTAL Redux",
+    "PostalREDUX",
+    "PostalREDUX.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/401680/a57246bf84154f199a0233f735d89df5d1ff9ff2.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/401680/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/401680/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/401680/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/401680/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/401680/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/401680/ss_76f7ef4b136e7cfa585dd8687a8495430ae61a47.1920x1080.jpg?t=1726332234"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/401680/ss_0c037b5ec6df0a24fbfbff7186390b9b5bd85e5e.1920x1080.jpg?t=1726332234"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/401680/ss_3faa18260a3e2e62e26b1464ac9a5b32a9671311.1920x1080.jpg?t=1726332234"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/401680/ss_aa42bd260261d351d11e3af6fe7697dd65eb8788.1920x1080.jpg?t=1726332234"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/401680/ss_a832130ae600b531fb5f1e327ae5d207afcebdf5.1920x1080.jpg?t=1726332234"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/401680/ss_a87cec4b47fe12f2c51077bdbfb7a085f835b1d0.1920x1080.jpg?t=1726332234"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/401680/ss_c6bfbf98f48b328469133bd15402fb5f3814d3d5.1920x1080.jpg?t=1726332234"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/401680/ss_879f0a9cdad00b2fb561bd8410a206010693d438.1920x1080.jpg?t=1726332234"
+    }
+  ],
+  "videos": [
+    {
+      "name": "POSTAL Redux Co-Op Mode Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256669416/movie.293x165.jpg?t=1471995658",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/401680/69994/22d1fe6d62d9363719b273745c37724128b599a4/1750525975/dash_h264.mpd?t=1471995658"
+    },
+    {
+      "name": "POSTAL Redux Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256664013/movie.293x165.jpg?t=1462887290",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/401680/58516/f7513bf6bef108b6255d3805d2bb7aefb9ac732f/1750525965/dash_h264.mpd?t=1462887290"
+    }
+  ],
+  "metacritic": {
+    "score": 54,
+    "url": "https://www.metacritic.com/game/pc/postal-redux?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 401680,
+    "store_url": "https://store.steampowered.com/app/401680/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7417,
+    "review_negative": 634,
+    "review_total": 8051,
+    "review_positive_percent": 92.13
+  }
+}

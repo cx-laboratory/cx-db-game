@@ -1,0 +1,244 @@
+{
+  "key": "two-point-hospital",
+  "name": "Two Point Hospital",
+  "description": "Design stunning hospitals, cure peculiar illnesses and manage troublesome staff as you spread your budding healthcare organisation across Two Point County.",
+  "developers": [
+    "Two Point Studios"
+  ],
+  "publishers": [
+    "SEGA"
+  ],
+  "release_date": "2018-08-30",
+  "website": "https://www.twopointhospital.com",
+  "tags": [
+    "indie",
+    "simulation",
+    "management",
+    "medical-sim",
+    "building",
+    "funny",
+    "singleplayer",
+    "strategy",
+    "sandbox",
+    "comedy",
+    "casual",
+    "city-builder",
+    "replay-value",
+    "cartoony",
+    "multiplayer",
+    "isometric",
+    "family-friendly",
+    "retro",
+    "classic",
+    "tactical"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "双点医院",
+    "sc_schinese": "双点医院"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "TPH.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "TPH.exe",
+          "description": "",
+          "type": "config"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "{Steam3AccountID}",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "TPH.app",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "TPH.app",
+          "description": "Two Point Hospital (OpenGL;10.11, 10.12)",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "{Steam3AccountID}",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "TPH.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "{Steam3AccountID}",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Two Point Hospital",
+    "TPH",
+    "TPH.app",
+    "TPH.x86_64",
+    "双点医院"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/535930/7d4e0bb3a682616929406ea2b55cffc17505835c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535930/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535930/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535930/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535930/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535930/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535930/ss_513fe00a570aae8aa17f0c7c34441d900ecea67d.1920x1080.jpg?t=1763648286"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535930/ss_239c16a6a0faf1463d043503a828a1e443bd8d70.1920x1080.jpg?t=1763648286"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535930/ss_37b485ac8c86b35d0d28afbb9d2f8370db45c87c.1920x1080.jpg?t=1763648286"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535930/ss_d4eb2054ed07876863d049c741afe9c0c4b4b23d.1920x1080.jpg?t=1763648286"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535930/ss_05a652fdf6590b3225194cf00c31da1d21045175.1920x1080.jpg?t=1763648286"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535930/ss_0ce23e37ac9871bad50afbd3766e1a4c00361aad.1920x1080.jpg?t=1763648286"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535930/ss_730ffaa53e8ab770853dfa900c44680bba605d6d.1920x1080.jpg?t=1763648286"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535930/ss_6f2a296861c5ff74e890a1f669692afcfa119508.1920x1080.jpg?t=1763648286"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535930/ss_683013847b9a53b9b3eaf3fab5db2d13834dbc68.1920x1080.jpg?t=1763648286"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535930/ss_498bdab4baf27defd280d181bc79e1a2f78f4bba.1920x1080.jpg?t=1763648286"
+    }
+  ],
+  "videos": [
+    {
+      "name": "ESRB Launch",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256727160/movie.293x165.jpg?t=1535609046",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/535930/181783/51b36f466e06d1956e338a319a707cbdecba246e/1750547354/dash_h264.mpd?t=1535609046"
+    },
+    {
+      "name": "[US-ESRB] TPH - Superbug Initiative - Attention Grabber",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256748163/movie.293x165.jpg?t=1555424308",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/535930/218540/e4a41d9f89bcd9bd22f6f01d28965fe9252d4786/1750547492/dash_h264.mpd?t=1555424308"
+    },
+    {
+      "name": "TPH_Trial_of_Trevor_ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256722934/movie.293x165.jpg?t=1531923694",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/535930/173771/8968363d8822ca0cb73df6631fe15a0f1b08e48a/1750547253/dash_h264.mpd?t=1531923694"
+    },
+    {
+      "name": "TwoPoint_Announcement_ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256705953/movie.293x165.jpg?t=1516114803",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/535930/142014/cb4cb47528a2bd2e06d9d690d2dd507c21e794e5/1750547038/dash_h264.mpd?t=1516114803"
+    }
+  ],
+  "metacritic": {
+    "score": 83,
+    "url": "https://www.metacritic.com/game/pc/two-point-hospital?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 535930,
+    "store_url": "https://store.steampowered.com/app/535930/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Management",
+      "Medical Sim",
+      "Building",
+      "Funny",
+      "Singleplayer",
+      "Strategy",
+      "Sandbox",
+      "Indie",
+      "Comedy",
+      "Casual",
+      "City Builder",
+      "Replay Value",
+      "Cartoony",
+      "Multiplayer",
+      "Isometric",
+      "Family Friendly",
+      "Retro",
+      "Classic",
+      "Tactical"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 31916,
+    "review_negative": 2790,
+    "review_total": 34706,
+    "review_positive_percent": 91.96
+  }
+}

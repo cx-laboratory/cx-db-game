@@ -1,0 +1,221 @@
+{
+  "key": "islanders",
+  "name": "ISLANDERS",
+  "description": "ISLANDERS is a minimalist strategy game about building cities on colorful islands.",
+  "developers": [
+    "Coatsink"
+  ],
+  "publishers": [
+    "Coatsink"
+  ],
+  "release_date": "2019-04-04",
+  "website": "",
+  "tags": [
+    "casual",
+    "indie",
+    "strategy",
+    "relaxing",
+    "city-builder",
+    "building",
+    "puzzle",
+    "minimalist",
+    "singleplayer",
+    "beautiful",
+    "colony-sim",
+    "atmospheric",
+    "colorful",
+    "procedural-generation",
+    "addictive",
+    "replay-value",
+    "score-attack",
+    "3d",
+    "top-down",
+    "turn-based-strategy",
+    "multiplayer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish - Spain",
+    "Simplified Chinese",
+    "Spanish - Latin America",
+    "Russian",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese - Brazil",
+    "Turkish"
+  ],
+  "name_localized": {
+    "schinese": "海岛文明"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ISLANDERS.exe",
+          "description": "Windows",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Coatsink/ISLANDERS",
+          "pattern": "*.island",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Coatsink/ISLANDERS",
+          "pattern": "*.stats",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Coatsink/ISLANDERS",
+          "pattern": "*.archi",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "ISLANDERS.app\\Contents\\MacOS\\ISLANDERS",
+          "description": "Mac OS X",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Coatsink/ISLANDERS",
+          "pattern": "*.island",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Coatsink/ISLANDERS",
+          "pattern": "*.stats",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Coatsink/ISLANDERS",
+          "pattern": "*.archi",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "ISLANDERS",
+    "ISLANDERS.app\\Contents\\MacOS\\ISLANDERS"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1046030/59b7cab8ac00df39ca5857f4a4fcdc922ad94f06.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1046030/1bc0f29a0f3e4cdfd7a0d209ca0264228e39ee98/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1046030/cf66e7b342f3dda782088ce22ca98020654b2d29/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1046030/82b04ae3dc0cc06a0d73a45e013ac0c15eb6bbbf/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1046030/00709cec3c532eb8c9f29d9930d7752538bcaf08/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1046030/3620d8727dded55f608567d4bbdefb6e1adc0bd8/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1046030/ss_8c62b14de6d60916ff35a50000596bff79fadd71.1920x1080.jpg?t=1760689653"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1046030/ss_e0d7d61fffc5c216a044bc44775bf5a05252bfd9.1920x1080.jpg?t=1760689653"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1046030/ss_0c343e4041966c8bf1584297b7c29b3cc0af7ebb.1920x1080.jpg?t=1760689653"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1046030/ss_d586e1096a9fa1a790066b513286b20e671e681c.1920x1080.jpg?t=1760689653"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1046030/ss_73aae5ab3ff80d30c01bbf84ad1829831a92c8d1.1920x1080.jpg?t=1760689653"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1046030/ss_780c4ec90749ebdcadfb0c445fc7fb97d165c115.1920x1080.jpg?t=1760689653"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1046030/ss_67c1dd326887a536b46c8409416959fca3a4c02d.1920x1080.jpg?t=1760689653"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1046030/ss_4cc2e91e9f14f145ad05ad815592df4fc7274bfb.1920x1080.jpg?t=1760689653"
+    }
+  ],
+  "videos": [
+    {
+      "name": "ISLANDERS Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256747111/movie.293x165.jpg?t=1554320824",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1046030/216622/d02a1df208e4cecba36a634443123b8d04fbf621/1750609556/dash_h264.mpd?t=1554320824"
+    },
+    {
+      "name": "ISLANDERS Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256744769/movie.293x165.jpg?t=1552318604",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1046030/212406/2e6003de9a0dd00991cb66ce0f7c1b8520d3f864/1750609546/dash_h264.mpd?t=1552318604"
+    }
+  ],
+  "metacritic": {
+    "score": 82,
+    "url": "https://www.metacritic.com/game/pc/islanders?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1046030,
+    "store_url": "https://store.steampowered.com/app/1046030/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Relaxing",
+      "City Builder",
+      "Strategy",
+      "Building",
+      "Puzzle",
+      "Indie",
+      "Minimalist",
+      "Singleplayer",
+      "Beautiful",
+      "Colony Sim",
+      "Atmospheric",
+      "Colorful",
+      "Procedural Generation",
+      "Addictive",
+      "Replay Value",
+      "Score Attack",
+      "3D",
+      "Top-Down",
+      "Turn-Based Strategy",
+      "Multiplayer"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 15834,
+    "review_negative": 934,
+    "review_total": 16768,
+    "review_positive_percent": 94.43
+  }
+}

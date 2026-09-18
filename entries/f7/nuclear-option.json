@@ -1,0 +1,240 @@
+{
+  "key": "nuclear-option",
+  "name": "Nuclear Option",
+  "description": "Fly near-future aircraft with immersive physics across dynamic battlefields, facing land, air, and sea threats. Wage war against AI or rival pilots using an array of advanced weaponry, including tactical and strategic nuclear weapons capable of annihilating anything in your path.",
+  "developers": [
+    "Shockfront Studios"
+  ],
+  "publishers": [
+    "Shockfront Studios"
+  ],
+  "release_date": "2023-10-16",
+  "website": "https://linktr.ee/shockfrontstudios",
+  "tags": [
+    "action",
+    "indie",
+    "simulation",
+    "early-access",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "flight",
+    "military",
+    "war",
+    "wargame",
+    "physics",
+    "3d",
+    "first-person",
+    "pve",
+    "level-editor",
+    "sandbox",
+    "controller",
+    "arcade",
+    "stealth",
+    "artificial-intelligence",
+    "realistic",
+    "sci-fi"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "核选项"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "NuclearOption.exe",
+          "description": "Nuclear Option (DirectX 11)",
+          "type": "default"
+        },
+        {
+          "executable": "NuclearOption.exe",
+          "description": "Nuclear Option (DirectX 12)",
+          "type": "option1"
+        },
+        {
+          "executable": "NuclearOption.exe",
+          "description": "Nuclear Option (Vulkan)",
+          "type": "option2"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Nuclear Option",
+    "NuclearOption"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2168680/117b1238ecc31520d222eb39777405f6eb365557.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168680/cbce2acfbcdebe0d67f909fdcb025719c4f327f9/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168680/23d24a19fe1887319d49309bb307d416f263304d/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168680/91181656a5bcbada1870f123d0424d1ac8cbe00a/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168680/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168680/db603ee674177db4ac3c30de21488f22ba0ca7c4/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168680/ee210a05c494d311b5e40d906896dad088d79642/ss_ee210a05c494d311b5e40d906896dad088d79642.1920x1080.jpg?t=1781221391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168680/436df5b24c30753e1ee653fa61883227ecc51585/ss_436df5b24c30753e1ee653fa61883227ecc51585.1920x1080.jpg?t=1781221391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168680/b1d6da54a84360de91e61e5acf6b4c7ea1a8a8e8/ss_b1d6da54a84360de91e61e5acf6b4c7ea1a8a8e8.1920x1080.jpg?t=1781221391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168680/1fbab55bac638a42f307021e5a7cae6a701935b0/ss_1fbab55bac638a42f307021e5a7cae6a701935b0.1920x1080.jpg?t=1781221391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168680/41a108c22da3f65d3ac5808d0afcee79d69b4623/ss_41a108c22da3f65d3ac5808d0afcee79d69b4623.1920x1080.jpg?t=1781221391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168680/792eda02e96dd366dd1ee4b0aa704beb0db5e5da/ss_792eda02e96dd366dd1ee4b0aa704beb0db5e5da.1920x1080.jpg?t=1781221391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168680/821a81774361b8da84dfa627330475bc351a2966/ss_821a81774361b8da84dfa627330475bc351a2966.1920x1080.jpg?t=1781221391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168680/dc9e50f672d8968843ba45b3d2bcea7bedee32cf/ss_dc9e50f672d8968843ba45b3d2bcea7bedee32cf.1920x1080.jpg?t=1781221391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168680/33f32a9feaae8ca574e96787476f4854ed9ae5ba/ss_33f32a9feaae8ca574e96787476f4854ed9ae5ba.1920x1080.jpg?t=1781221391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168680/65500ad85abd7a661dd0b7782fd2136d587c2819/ss_65500ad85abd7a661dd0b7782fd2136d587c2819.1920x1080.jpg?t=1781221391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168680/ss_9466fa6a67fe560f22858de7f8c030707484027f.1920x1080.jpg?t=1781221391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168680/270aef2b872268665350d33cc2e97485c7b278ec/ss_270aef2b872268665350d33cc2e97485c7b278ec.1920x1080.jpg?t=1781221391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168680/ss_b67a3520b28c68fdd8ba096560c7be0e5c1c638a.1920x1080.jpg?t=1781221391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168680/ss_e78b8dd7f6ba672dc320b2c22e9c5e713c3f42fe.1920x1080.jpg?t=1781221391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168680/5e590f2bb2e9dc5ee20310b717b98170f9313fde/ss_5e590f2bb2e9dc5ee20310b717b98170f9313fde.1920x1080.jpg?t=1781221391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168680/1684159f7f1a6e6b062ef305aaf2333ff7d146da/ss_1684159f7f1a6e6b062ef305aaf2333ff7d146da.1920x1080.jpg?t=1781221391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168680/7b2537c0fb78b6b0172599c99dbef99e3fa26def/ss_7b2537c0fb78b6b0172599c99dbef99e3fa26def.1920x1080.jpg?t=1781221391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168680/c23fbff6521e8a4fd7adfcec7fd371c1639c03bf/ss_c23fbff6521e8a4fd7adfcec7fd371c1639c03bf.1920x1080.jpg?t=1781221391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168680/89ac08c9535f098e78f7066e7330336e5d33c143/ss_89ac08c9535f098e78f7066e7330336e5d33c143.1920x1080.jpg?t=1781221391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2168680/343243c50cb5e7dfa80a93150b752a95ff21cab0/ss_343243c50cb5e7dfa80a93150b752a95ff21cab0.1920x1080.jpg?t=1781221391"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Alkyon AB-4 Tailer || Update 0.33",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257323148/ce1abb27a7c803a5eab594019a7167457a46689f/movie_600x337.jpg?t=1776733275",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2168680/526305324/e7940100fa8fd326d84753f962efe186c9c5c677/1776732806/dash_h264.mpd?t=1776733275"
+    },
+    {
+      "name": "Brawler Trailer || Update 0.32",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257272736/5fa8e45954dde03b682f8cbb46b132c79332e845/movie_600x337.jpg?t=1769404066",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2168680/2063113327/9c2046b885ce62c8a74b74bc9fd432fc98fe1acd/1769401549/dash_h264.mpd?t=1769404066"
+    },
+    {
+      "name": "Ibis Trailer || Update 0.31",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257201196/c278bb7a992832df35174efb14d3e1f37eedf2c7/movie_600x337.jpg?t=1769404066",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2168680/78919061/6fd0296b82206fb9c691f4145d7c600d68ef5f42/1758200301/dash_h264.mpd?t=1769404066"
+    },
+    {
+      "name": "Vortex Trailer || Update 0.30",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257118219/68fe872566162b9f6b0185d3d0029b9ea403888d/movie_600x337.jpg?t=1742878886",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2168680/857194/f86e28229553413e76136f22e00265fd42df4739/1750780698/dash_h264.mpd?t=1742878886"
+    },
+    {
+      "name": "Tarantula Trailer || Update 0.29",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257070263/40222645f082477dac5429ca63e70377b6751a57/movie_600x337.jpg?t=1742878890",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2168680/780293/51113461476627bd679003047fc2a37771efb000/1750780447/dash_h264.mpd?t=1742878890"
+    },
+    {
+      "name": "Ifrit Trailer || Update 0.28",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257045446/movie.293x165.jpg?t=1723511381",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2168680/739064/ed12e79e46f0d509f5a0e17f24ba47278081278e/1750779817/dash_h264.mpd?t=1723511381"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2168680,
+    "store_url": "https://store.steampowered.com/app/2168680/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Workshop",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Partial Controller Support",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Early Access",
+      "Flight",
+      "Simulation",
+      "Military",
+      "Action",
+      "War",
+      "Wargame",
+      "Physics",
+      "3D",
+      "First-Person",
+      "PvP",
+      "PvE",
+      "Level Editor",
+      "Sandbox",
+      "Controller",
+      "Arcade",
+      "Stealth",
+      "Artificial Intelligence",
+      "Realistic",
+      "Sci-fi"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 9323,
+    "review_negative": 447,
+    "review_total": 9770,
+    "review_positive_percent": 95.42
+  }
+}

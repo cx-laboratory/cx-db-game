@@ -1,0 +1,227 @@
+{
+  "key": "warhammer-40-000-mechanicus",
+  "name": "Warhammer 40,000: Mechanicus",
+  "description": "MECHANICUS II ANNOUNCED! Take control of one of the most technologically advanced factions in the Imperium: the Adeptus Mechanicus. In this turn-based tactical game, your every decision will weigh heavily on the outcome of the conflict. Will you be blessed by the Omnissiah?",
+  "developers": [
+    "Bulwark Studios"
+  ],
+  "publishers": [
+    "Kasedo Games"
+  ],
+  "release_date": "2018-11-16",
+  "website": "https://mechanicus40k.com",
+  "tags": [
+    "strategy",
+    "turn-based-tactics",
+    "turn-based-combat",
+    "sci-fi",
+    "turn-based",
+    "great-soundtrack",
+    "atmospheric",
+    "tactical",
+    "singleplayer",
+    "turn-based-strategy",
+    "robots",
+    "indie",
+    "rpg",
+    "dungeon-crawler",
+    "difficult",
+    "character-customization",
+    "story-rich",
+    "board-game",
+    "co-op",
+    "tabletop"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "spanish",
+    "schinese",
+    "russian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Mechanicus.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BulwarkStudios/Mechanicus/Saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Mechanicus.app",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BulwarkStudios/Mechanicus/Saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Mechanicus.x86_64",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BulwarkStudios/Mechanicus/Saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Warhammer 40,000: Mechanicus",
+    "Mechanicus",
+    "Mechanicus.app",
+    "Mechanicus.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/673880/47dfa2f06c3c27db8cb3a42813ebe4d12f291df5.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673880/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673880/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673880/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673880/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673880/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673880/ss_053733745315db1c8e91169713972e167496a0f7.1920x1080.jpg?t=1747933345"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673880/ss_7daa644baeb3820d75f1b4dcfb738e7577f6fe13.1920x1080.jpg?t=1747933345"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673880/ss_e175678493a5f4c55bfa253f20ecf9a6617548d9.1920x1080.jpg?t=1747933345"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673880/ss_a0ee9bd47ca88417b22ad620806d424564ec8a7e.1920x1080.jpg?t=1747933345"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673880/ss_cb9c66bf0555081f947257468cd03c9cb51089da.1920x1080.jpg?t=1747933345"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673880/ss_9ad55c2335a55ad90ff7349f287a381b5e49bf51.1920x1080.jpg?t=1747933345"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673880/ss_e993e41f65308c39e1c89d6fed41f8125e6ecbc6.1920x1080.jpg?t=1747933345"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673880/ss_56d33daed601e5e8ed281e6bce7841138cedd892.1920x1080.jpg?t=1747933345"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673880/ss_e3d1fb7f10bdc53f991382a227e5a84fca70db23.1920x1080.jpg?t=1747933345"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673880/ss_2cefefd1a39bcdc872a2ca80a57fac8775ee67e5.1920x1080.jpg?t=1747933345"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673880/ss_88b476221f18c92e1dbd7fc4d3b8cd81678767c7.1920x1080.jpg?t=1747933345"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Complete Collection Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256804923/movie.293x165.jpg?t=1602751957",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/673880/319251/7da6a433aa7cc5dc0e9d4b009d8c0d81fd7d5925/1750568864/dash_h264.mpd?t=1602751957"
+    },
+    {
+      "name": "Teaser Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256707535/movie.293x165.jpg?t=1542135248",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/673880/144887/7b49ffa2560c712c183063d9d4f24820eb2e730e/1750568854/dash_h264.mpd?t=1542135248"
+    },
+    {
+      "name": "Customisation",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256733399/movie.293x165.jpg?t=1542135253",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/673880/192489/5bbe334b206bed3fd52dc5f6e7a4ba094758a1c0/1750568855/dash_h264.mpd?t=1542135253"
+    },
+    {
+      "name": "Exploration",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256734623/movie.293x165.jpg?t=1541502064",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/673880/194409/454d1414abf5701bfe2e79d55fb33fddec476fb7/1750568864/dash_h264.mpd?t=1541502064"
+    }
+  ],
+  "metacritic": {
+    "score": 78,
+    "url": "https://www.metacritic.com/game/pc/warhammer-40000-mechanicus?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 673880,
+    "store_url": "https://store.steampowered.com/app/673880/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "Turn-Based Tactics",
+      "Turn-Based Combat",
+      "Sci-fi",
+      "Turn-Based",
+      "Great Soundtrack",
+      "Atmospheric",
+      "Tactical",
+      "Singleplayer",
+      "Turn-Based Strategy",
+      "Robots",
+      "Indie",
+      "RPG",
+      "Dungeon Crawler",
+      "Difficult",
+      "Character Customization",
+      "Story Rich",
+      "Board Game",
+      "Co-op",
+      "Tabletop"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 13223,
+    "review_negative": 1298,
+    "review_total": 14521,
+    "review_positive_percent": 91.06
+  }
+}

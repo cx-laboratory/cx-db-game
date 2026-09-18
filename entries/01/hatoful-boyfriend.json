@@ -1,0 +1,192 @@
+{
+  "key": "hatoful-boyfriend",
+  "name": "Hatoful Boyfriend",
+  "description": "Congratulations! You’ve been accepted as the only human student at the prestigious St. PigeoNation’s Institute, a school for talented birds! Roam the halls and find love in between classes as a sophomore student at the world’s greatest pigeon high school.",
+  "developers": [
+    "Mediatonic"
+  ],
+  "publishers": [
+    "Epic Games"
+  ],
+  "release_date": "2014-09-04",
+  "website": "https://www.mediatonicgames.com/",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "visual-novel",
+    "dating-sim",
+    "anime",
+    "female-protagonist",
+    "story-rich",
+    "otome",
+    "comedy",
+    "romance",
+    "multiple-endings",
+    "birds",
+    "singleplayer",
+    "funny",
+    "great-soundtrack",
+    "parody",
+    "mystery",
+    "memes",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "japanese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "hatoful.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "hatoful.app",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "hatoful.x86",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "hatoful.x86_64",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Hatoful Boyfriend",
+    "hatoful",
+    "hatoful.app",
+    "hatoful.x86",
+    "hatoful.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/310080/1fec8ef53bcbd40149e47820abeaf969f364e1da.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/310080/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/310080/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/310080/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/310080/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/310080/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/310080/ss_6c191678caebc93c559fc7d9c895abe215560570.1920x1080.jpg?t=1777053977"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/310080/ss_bd9f6e77ff633d4c15dde3deafa0899ff0cf4e00.1920x1080.jpg?t=1777053977"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/310080/ss_94735607ed53b9daeb811514ccbbf559802dc4f9.1920x1080.jpg?t=1777053977"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/310080/ss_60dababb744ce30f0f51d98977d6395ae7c21898.1920x1080.jpg?t=1777053977"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/310080/ss_8daf4f18c3db38d3ad11a64346c243e96cea9d74.1920x1080.jpg?t=1777053977"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/310080/ss_c6b9abb8295e32b66ab4792568954b952c69dab0.1920x1080.jpg?t=1777053977"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/310080/ss_caf5e4727f7b95b431cf52e2473ff416a3550c3c.1920x1080.jpg?t=1777053977"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/310080/ss_b0e06f881d2c09896acd1d8f9b0f068dc4b1d9e9.1920x1080.jpg?t=1777053977"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/310080/ss_ae0f5eab023c11eac41cf4d7cecfe523088cc421.1920x1080.jpg?t=1777053977"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/310080/ss_dae191b6876fb75265f72cc2a8da1f9f7725d43d.1920x1080.jpg?t=1777053977"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/310080/ss_d0dfc0991947f95938f32a35ea2806dd76e5eb10.1920x1080.jpg?t=1777053977"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2033486/movie.293x165.jpg?t=1447362756",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/310080/23152/a09c1d93a8dc3ecb28a6a4a4e09b4afa1a401398/1750504613/dash_h264.mpd?t=1447362756"
+    }
+  ],
+  "metacritic": {
+    "score": 68,
+    "url": "https://www.metacritic.com/game/pc/hatoful-boyfriend?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 310080,
+    "store_url": "https://store.steampowered.com/app/310080/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Visual Novel",
+      "Dating Sim",
+      "Anime",
+      "Female Protagonist",
+      "Story Rich",
+      "Otome",
+      "Comedy",
+      "Romance",
+      "Multiple Endings",
+      "Birds",
+      "Singleplayer",
+      "Indie",
+      "Simulation",
+      "Funny",
+      "Casual",
+      "Great Soundtrack",
+      "Parody ",
+      "Mystery",
+      "Memes",
+      "Adventure"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7115,
+    "review_negative": 449,
+    "review_total": 7564,
+    "review_positive_percent": 94.06
+  }
+}

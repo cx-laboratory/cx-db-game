@@ -1,0 +1,374 @@
+{
+  "key": "songs-of-conquest",
+  "name": "Songs of Conquest",
+  "description": "Raise mighty armies, wield ancient magic and forge an empire. This turn-based strategy adventure game fuses strategic decision making, tactical combat and kingdom management.",
+  "developers": [
+    "Lavapotion"
+  ],
+  "publishers": [
+    "Coffee Stain Publishing"
+  ],
+  "release_date": "2024-05-20",
+  "website": "https://www.songsofconquest.com/",
+  "tags": [
+    "adventure",
+    "rpg",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "split-screen",
+    "local-multiplayer",
+    "turn-based-tactics",
+    "tactical",
+    "4x",
+    "turn-based-strategy",
+    "turn-based-combat",
+    "fantasy",
+    "strategy-rpg",
+    "pixel-graphics",
+    "magic",
+    "atmospheric",
+    "lore-rich",
+    "retro",
+    "story-rich",
+    "tactical-rpg",
+    "2-5d",
+    "old-school",
+    "controller"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "swedish",
+    "turkish",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "征服之歌"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SongsOfConquest.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "AdventuresAndConquest.exe",
+          "description": "(develop)",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Lavapotion/SongsOfConquest/Savegames",
+          "pattern": "*.sav",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Lavapotion/SongsOfConquest/Campaign",
+          "pattern": "*.cmpsav",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Lavapotion/SongsOfConquest/Levels",
+          "pattern": "*.bytes",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Lavapotion/SongsOfConquest/Savegames",
+          "pattern": "*.sav",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Lavapotion/SongsOfConquest/Campaign",
+          "pattern": "*.cmpsav",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Lavapotion/SongsOfConquest/Levels",
+          "pattern": "*.bytes",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Lavapotion/SongsOfConquest/CustomArmies",
+          "pattern": "*.army",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Lavapotion/SongsOfConquest/CustomArmies",
+          "pattern": "*.army",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Lavapotion/SongsOfConquest/Misc",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Lavapotion/SongsOfConquest/Misc",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Lavapotion/SongsOfConquest/WielderVault",
+          "pattern": "*.wdr",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Lavapotion/SongsOfConquest/WielderVault",
+          "pattern": "*.wdr",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "SongsOfConquest.app\\Contents\\MacOS\\SongsOfConquest",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "AdventuresAndConquest.app\\Contents\\MacOS\\AdventuresAndConquest",
+          "description": "(develop)",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Lavapotion/SongsOfConquest/Savegames",
+          "pattern": "*.sav",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Lavapotion/SongsOfConquest/Campaign",
+          "pattern": "*.cmpsav",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Lavapotion/SongsOfConquest/Levels",
+          "pattern": "*.bytes",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Lavapotion/SongsOfConquest/Savegames",
+          "pattern": "*.sav",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Lavapotion/SongsOfConquest/Campaign",
+          "pattern": "*.cmpsav",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Lavapotion/SongsOfConquest/Levels",
+          "pattern": "*.bytes",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Lavapotion/SongsOfConquest/CustomArmies",
+          "pattern": "*.army",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Lavapotion/SongsOfConquest/CustomArmies",
+          "pattern": "*.army",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Lavapotion/SongsOfConquest/Misc",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Lavapotion/SongsOfConquest/Misc",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Lavapotion/SongsOfConquest/WielderVault",
+          "pattern": "*.wdr",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Lavapotion/SongsOfConquest/WielderVault",
+          "pattern": "*.wdr",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Songs of Conquest",
+    "SongsOfConquest",
+    "AdventuresAndConquest",
+    "SongsOfConquest.app\\Contents\\MacOS\\SongsOfConquest",
+    "AdventuresAndConquest.app\\Contents\\MacOS\\AdventuresAndConquest",
+    "征服之歌"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/867210/c97f86d7b9e49311a1023fd9b48492cd04e22c85.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/867210/1b5b1025d51c42b6d4bb955737068e513b45382d/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/867210/bff90110b44194a1262357ea09161edd57fe20d9/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/867210/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/867210/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/867210/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/867210/ss_4363a4c6d46e4a86e975538fa53000aa8fdad561.1920x1080.jpg?t=1780586065"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/867210/ss_d06e6e8e8b68f32e1fa4ecbc3a7a83d9ac80a3c1.1920x1080.jpg?t=1780586065"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/867210/ss_1c38ce7a38d35207ce440c50cc2c2fc88ce8a770.1920x1080.jpg?t=1780586065"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/867210/ss_1547033ea1673abf58e8e76cc87f94f3f055c39a.1920x1080.jpg?t=1780586065"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/867210/ss_098f9c7c3daf66ba6c8599d937455aee9a59d5c9.1920x1080.jpg?t=1780586065"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/867210/ss_05aa6a23efd2bb4ef348f496836ea99287307763.1920x1080.jpg?t=1780586065"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/867210/ss_3300c853abec9643113916ceb6569d9728f4cb03.1920x1080.jpg?t=1780586065"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/867210/ss_b0022348daddc6479d7ca443c7267e448343eae9.1920x1080.jpg?t=1780586065"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/867210/ss_dc04c6f231ea1bea5483b658517ad5c726f5d4b1.1920x1080.jpg?t=1780586065"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/867210/ss_669bb5c811e023f69e38dc035d89f7a89d583d13.1920x1080.jpg?t=1780586065"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/867210/ss_e63a972e88a02293cfd392def7af94096ae8ca2b.1920x1080.jpg?t=1780586065"
+    }
+  ],
+  "videos": [
+    {
+      "name": "1.0 Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257024489/movie.293x165.jpg?t=1716218587",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/867210/702481/4d985d6971a46bfb224a59f3f50fec75502d539e/1750591395/dash_h264.mpd?t=1716218587"
+    },
+    {
+      "name": "Feature Overview",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256879255/movie.293x165.jpg?t=1716217502",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/867210/449669/7ed72ffe1069eb7605098ea887d49d2b5f59d3d6/1750591244/dash_h264.mpd?t=1716217502"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 867210,
+    "store_url": "https://store.steampowered.com/app/867210/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Captions available",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Includes level editor",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Local Multiplayer",
+      "Turn-Based Tactics",
+      "Tactical",
+      "4X",
+      "Turn-Based Strategy",
+      "Turn-Based Combat",
+      "Fantasy",
+      "Strategy RPG",
+      "Pixel Graphics",
+      "Strategy",
+      "Magic",
+      "Atmospheric",
+      "Lore-Rich",
+      "Retro",
+      "Story Rich",
+      "Tactical RPG",
+      "2.5D",
+      "Old School",
+      "Co-op",
+      "Controller"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 11505,
+    "review_negative": 1938,
+    "review_total": 13443,
+    "review_positive_percent": 85.58
+  }
+}

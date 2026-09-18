@@ -1,0 +1,207 @@
+{
+  "key": "rise-of-the-tomb-raider",
+  "name": "Rise of the Tomb Raider",
+  "description": "Rise of the Tomb Raider: 20 Year Celebration includes the base game and Season Pass featuring all-new content. Explore Croft Manor in the new “Blood Ties” story, then defend it against a zombie invasion in “Lara’s Nightmare”.",
+  "developers": [
+    "Crystal Dynamics"
+  ],
+  "publishers": [
+    "Crystal Dynamics"
+  ],
+  "release_date": "2016-01-29",
+  "website": "http://www.tombraider.com/us/",
+  "tags": [
+    "action",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "dutch",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ROTTR.exe",
+          "description": "Launch TR2 GM",
+          "type": "default"
+        },
+        {
+          "executable": "TR2_x64_final.exe",
+          "description": "Launch TR2 Final",
+          "type": "none"
+        },
+        {
+          "executable": "TR2_x64_release.exe",
+          "description": "Launch TR2 Release",
+          "type": "none"
+        },
+        {
+          "executable": "ROTTR_prot.exe",
+          "description": "Launch ROTTR Protected",
+          "type": "none"
+        },
+        {
+          "executable": "ROTTR_orig.exe",
+          "description": "Launch ROTTR Original GM",
+          "type": "none"
+        },
+        {
+          "executable": "ROTTR.exe",
+          "description": "",
+          "type": "vr"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "TR2_x64_release.exe",
+          "description": "Launch TR2 Release",
+          "type": "none"
+        },
+        {
+          "executable": "Rise of the Tomb Raider.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "TR2_x64_release.exe",
+          "description": "Launch TR2 Release",
+          "type": "none"
+        },
+        {
+          "executable": "RiseOfTheTombRaider.sh",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Rise of the Tomb Raider",
+    "ROTTR",
+    "TR2_x64_final",
+    "TR2_x64_release",
+    "ROTTR_prot",
+    "ROTTR_orig",
+    "Rise of the Tomb Raider.app",
+    "RiseOfTheTombRaider.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/391220/0b8a37f32ed2b7c934be8aa94d53f71e274c6497.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/ss_4ef0868ecfc6b19bc1af18b88cabe33fe8147cf7.1920x1080.jpg?t=1766187095"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/ss_be8bcd75e7dbf8cf7d8c861e15c12211b39f160d.1920x1080.jpg?t=1766187095"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/ss_3b46aa127290e6ad2f62c125096bf5e901458ad6.1920x1080.jpg?t=1766187095"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/ss_0602fd918166985793cbae01df4c8a944f1f76dd.1920x1080.jpg?t=1766187095"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/ss_749f99146e5ebad371e37d95bfab7b17847c1d81.1920x1080.jpg?t=1766187095"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/ss_2b612bfa62d920b061e900e1f7a975a2de6729ec.1920x1080.jpg?t=1766187095"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/ss_c61955cad6c9ec672f6a2f4a192b234a6f752d10.1920x1080.jpg?t=1766187095"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/ss_08273833fededcf921783ed723787bfb860245ad.1920x1080.jpg?t=1766187095"
+    }
+  ],
+  "videos": [
+    {
+      "name": "ROTTR Make Your Mark ESRB ENG",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256659141/movie.293x165.jpg?t=1452106937",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/391220/48775/f065dcb446b4c3fa46f65c52e950e246843cb47f/1750524075/dash_h264.mpd?t=1452106937"
+    },
+    {
+      "name": "ROTTR Tech Video ESRB ENG",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256660260/movie.293x165.jpg?t=1454000418",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/391220/51177/6b7f78b17ad893aa5eb97f7c7008f2f8c4ef76f6/1750525201/dash_h264.mpd?t=1454000418"
+    },
+    {
+      "name": "20 Year Wrap-up 2016 ESRB EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256680257/movie.293x165.jpg?t=1487933649",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/391220/91885/1b40eff87647d0733ad7edda4ef2186825354884/1750524169/dash_h264.mpd?t=1487933649"
+    }
+  ],
+  "metacritic": {
+    "score": 86,
+    "url": "https://www.metacritic.com/game/pc/rise-of-the-tomb-raider?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 391220,
+    "store_url": "https://store.steampowered.com/app/391220/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Tracked Controller Support",
+      "VR Supported",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 144434,
+    "review_negative": 8949,
+    "review_total": 153383,
+    "review_positive_percent": 94.17
+  }
+}

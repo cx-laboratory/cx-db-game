@@ -1,0 +1,222 @@
+{
+  "key": "prominence-poker",
+  "name": "Prominence Poker",
+  "description": "Welcome to Prominence Poker, a card game that pits players from around the world against each other – and devious AI – to build the rep, prestige, and bankroll needed to be, and beat, the best of the best.",
+  "developers": [
+    "Pipeworks Studios"
+  ],
+  "publishers": [
+    "Pipeworks Studios"
+  ],
+  "release_date": "2016-12-13",
+  "website": "https://www.pipeworks.com/poker/",
+  "tags": [
+    "casual",
+    "massively-multiplayer",
+    "simulation",
+    "strategy",
+    "free-to-play",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "card-game",
+    "poker",
+    "gambling",
+    "atmospheric",
+    "character-customization",
+    "early-access"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Prominence\\Binaries\\Win64\\Prominence-Win64-Shipping.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Debug\\Prominence\\Binaries\\Win64\\Prominence.exe",
+          "description": "Debug (dev)",
+          "type": "option1"
+        },
+        {
+          "executable": "Debug\\Prominence\\Binaries\\Win64\\Prominence.exe",
+          "description": "Debug (testing)",
+          "type": "option1"
+        },
+        {
+          "executable": "Debug\\Prominence\\Binaries\\Win64\\Prominence.exe",
+          "description": "Debug (release)",
+          "type": "option1"
+        },
+        {
+          "executable": "Debug\\Prominence\\Binaries\\Win64\\Prominence.exe",
+          "description": "Debug (locqa)",
+          "type": "option1"
+        },
+        {
+          "executable": "Debug\\Prominence\\Binaries\\Win64\\Prominence.exe",
+          "description": "Debug (feature)",
+          "type": "option1"
+        },
+        {
+          "executable": "Debug\\Prominence\\Binaries\\Win64\\Prominence.exe",
+          "description": "Debug (stage)",
+          "type": "option1"
+        },
+        {
+          "executable": "Debug\\Prominence\\Binaries\\Win64\\Prominence.exe",
+          "description": "Debug (testing_fallback)",
+          "type": "option1"
+        },
+        {
+          "executable": "Debug\\Prominence\\Binaries\\Win64\\Prominence.exe",
+          "description": "Debug (stage_fallback)",
+          "type": "option1"
+        },
+        {
+          "executable": "Debug\\Prominence\\Binaries\\Win64\\Prominence.exe",
+          "description": "Debug (river)",
+          "type": "option1"
+        },
+        {
+          "executable": "Debug\\Prominence\\Binaries\\Win64\\Prominence.exe",
+          "description": "Debug (river_testing)",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Prominence Poker",
+    "Prominence\\Binaries\\Win64\\Prominence-Win64-Shipping",
+    "Debug\\Prominence\\Binaries\\Win64\\Prominence"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/384180/1f68148cc81b74c408784bd7f6499804c1e4d4ef.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384180/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384180/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384180/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384180/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384180/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384180/ss_4d6e9e188cfc12a223d951272e0d72ae62e90714.1920x1080.jpg?t=1780417469"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384180/ss_365e830bd3b19ba9b5b31828f620d7525b302378.1920x1080.jpg?t=1780417469"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384180/ss_6bbb5779ea82ae01263c69bcf870a98b5b415166.1920x1080.jpg?t=1780417469"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384180/ss_103312103bdd93e72dcabe93282ef208cc84c322.1920x1080.jpg?t=1780417469"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384180/ss_1f78986ec7d22036e25945a08e963924912116c2.1920x1080.jpg?t=1780417469"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384180/ss_7b281361038b0f36468422458856059084c7798d.1920x1080.jpg?t=1780417469"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384180/ss_68fba121717b67a0589d17b769504593ae729118.1920x1080.jpg?t=1780417469"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384180/ss_a93b8db097d50b0de958b9e2e14485175828d45e.1920x1080.jpg?t=1780417469"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384180/ss_f0997a19859899a71f57640991f40397c033389e.1920x1080.jpg?t=1780417469"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384180/ss_bc0b0712c8036685a911a528bfcd81571ef72eb6.1920x1080.jpg?t=1780417469"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384180/ss_1db5faac2921c7463aeedaf7fcf7c59bc4156de1.1920x1080.jpg?t=1780417469"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384180/ss_092c08ae1c4152596029721063e8e53f480cf2e3.1920x1080.jpg?t=1780417469"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384180/ss_a9c7901162cf0f0fd1cc136a05ac1b6dcc6ba20a.1920x1080.jpg?t=1780417469"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384180/ss_f54908031189145d729a277ec35d7b772b556b1a.1920x1080.jpg?t=1780417469"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384180/ss_f481c7642319ea8a4e17eee65471adea9598e904.1920x1080.jpg?t=1780417469"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Rooftop Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256904832/0fb7f4f10b3746e2038afc0a5b2ac7222fc671a8/movie_600x337.jpg?t=1756334555",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/384180/645196326/d5dae20f388e50f2acb6c8a0dfdc72ce8cad0162/1756326242/dash_h264.mpd?t=1756334555"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 384180,
+    "store_url": "https://store.steampowered.com/app/384180/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Casual",
+      "Massively Multiplayer",
+      "Simulation",
+      "Strategy",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Card Game",
+      "Free to Play",
+      "Poker",
+      "Multiplayer",
+      "Gambling",
+      "Strategy",
+      "Massively Multiplayer",
+      "Simulation",
+      "Atmospheric",
+      "Casual",
+      "Character Customization",
+      "Early Access"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7148,
+    "review_negative": 1399,
+    "review_total": 8547,
+    "review_positive_percent": 83.63
+  }
+}

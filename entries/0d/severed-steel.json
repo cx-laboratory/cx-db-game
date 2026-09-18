@@ -1,0 +1,182 @@
+{
+  "key": "severed-steel",
+  "name": "Severed Steel",
+  "description": "An intense single-player FPS featuring a stylish movement system, completely destructible levels, and an acclaimed OST.",
+  "developers": [
+    "Greylock Studio"
+  ],
+  "publishers": [
+    "Greylock Studio"
+  ],
+  "release_date": "2021-09-18",
+  "website": "https://www.greylockgamesstudio.com/",
+  "tags": [
+    "action",
+    "indie",
+    "fps",
+    "parkour",
+    "bullet-time",
+    "shooter",
+    "female-protagonist",
+    "first-person",
+    "destruction",
+    "singleplayer",
+    "stylized",
+    "cyberpunk",
+    "voxel",
+    "3d",
+    "soundtrack",
+    "violent",
+    "level-editor",
+    "time-attack",
+    "base-building",
+    "great-soundtrack"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "russian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SeveredSteel.exe",
+          "description": "DirectX12 no RTX (best performance)",
+          "type": "default"
+        },
+        {
+          "executable": "SeveredSteel.exe",
+          "description": "DirectX12 version (For RTX)",
+          "type": "none"
+        },
+        {
+          "executable": "SeveredSteel.exe",
+          "description": "Unlock all ",
+          "type": "default"
+        },
+        {
+          "executable": "SeveredSteel.exe",
+          "description": "DirectX11 version",
+          "type": "default"
+        },
+        {
+          "executable": "SeveredSteel.exe",
+          "description": "Unlock all ",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Severed Steel",
+    "SeveredSteel"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1227690/67b664a5cfd297a1444c75345e75a4d06dc3dcd8.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1227690/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1227690/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1227690/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1227690/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1227690/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1227690/ss_ec0bde83a5886d65102556b8943abbf7a714bf53.1920x1080.jpg?t=1723920018"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1227690/ss_25479196c68c7cc5b264ed6fc8762b9f22ee1d81.1920x1080.jpg?t=1723920018"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1227690/ss_f54a9edb308dc94725ab697ad30162a3ffa5f30a.1920x1080.jpg?t=1723920018"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1227690/ss_0adf8f585aa6809c9f1f3f3a69a1b59a7b3daa24.1920x1080.jpg?t=1723920018"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1227690/ss_65ccb2d5e89734316b533bbba4e0528099a9cb8b.1920x1080.jpg?t=1723920018"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1227690/ss_67ec94d7eda02607557dd320c8972b432597595c.1920x1080.jpg?t=1723920018"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1227690/ss_b90fa4598cfa13e09541a631048f56cc6d4b97ab.1920x1080.jpg?t=1723920018"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1227690/ss_6388c06e73cd2dd78bcc370c409f373c21b04938.1920x1080.jpg?t=1723920018"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1227690/ss_2d3ee165a5f5de7e4074081dda7bd149107ef8d2.1920x1080.jpg?t=1723920018"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1227690/ss_bd7de0428389711eb4633e15a82583628eaba875.1920x1080.jpg?t=1723920018"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1227690/ss_0466e35b4c96f16de4f466c57df64ba0660bd628.1920x1080.jpg?t=1723920018"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Severed Steel | Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256964833/movie.293x165.jpg?t=1693240056",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1227690/599213/c4a520ef0ff965e91853e04534ef7f02a7dc7314/1750645333/dash_h264.mpd?t=1693240056"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1227690,
+    "store_url": "https://store.steampowered.com/app/1227690/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "FPS",
+      "Parkour",
+      "Bullet Time",
+      "Action",
+      "Shooter",
+      "Female Protagonist",
+      "First-Person",
+      "Destruction",
+      "Singleplayer",
+      "Stylized",
+      "Cyberpunk",
+      "Voxel",
+      "3D",
+      "Indie",
+      "Soundtrack",
+      "Violent",
+      "Level Editor",
+      "Time Attack",
+      "Base Building",
+      "Great Soundtrack"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 9585,
+    "review_negative": 465,
+    "review_total": 10050,
+    "review_positive_percent": 95.37
+  }
+}

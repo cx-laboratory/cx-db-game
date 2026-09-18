@@ -1,0 +1,122 @@
+{
+  "key": "dragon-age-origins-ultimate-edition",
+  "name": "Dragon Age: Origins - Ultimate Edition",
+  "description": "Explore a stunning world, make complex moral choices, and engage in bone-crushing combat against massive and terrifying creatures. The Ultimate Edition includes Dragon Age: Origins, Dragon Age: Origins - Awakening and all nine content packs.",
+  "developers": [
+    "BioWare"
+  ],
+  "publishers": [
+    "Electronic Arts"
+  ],
+  "release_date": "2010-10-26",
+  "website": "http://dragonage.bioware.com/dao/",
+  "tags": [
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "Italian",
+    "Spanish - Spain",
+    "German*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "DAOriginsLauncher.exe",
+          "description": "Default",
+          "type": "default"
+        },
+        {
+          "executable": "docs\\EA Help\\Electronic_Arts_Technical_Support.htm",
+          "description": "View Support Information",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Dragon Age: Origins - Ultimate Edition",
+    "DAOriginsLauncher",
+    "docs\\EA Help\\Electronic_Arts_Technical_Support.htm"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/47810/e5e0b9629b314f7338f493d26227eb2bd1172e77.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_7fe94447069d399c8b32c125d684ec7b255600ba.1920x1080.jpg?t=1782471846"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_32fa8fda83dcb8152ba6d83bda8379eb1bf6ed2c.1920x1080.jpg?t=1782471846"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_6d3f7f75d007bc2efe93b1f230b66850757001db.1920x1080.jpg?t=1782471846"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_2ed7d42701bb8d97b5eaab3f26c9be5e37dc0957.1920x1080.jpg?t=1782471846"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_15c511e75db32a0ff967b9b97ac0fb824556b707.1920x1080.jpg?t=1782471846"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_ee0b4f2fb49908b30ec794e5567c21885e5d5db9.1920x1080.jpg?t=1782471846"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_afc54931c8ae9665ab2716e40c814ba0d8997972.1920x1080.jpg?t=1782471846"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_4bad018ac270857660c0d82ba62c5651ef47e497.1920x1080.jpg?t=1782471846"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Sacred Ashes",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256823689/movie.293x165.jpg?t=1614195331",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/47810/350137/cd160b04f45c6191dc8962a6771998e89e22c4c1/1750480954/dash_h264.mpd?t=1614195331"
+    },
+    {
+      "name": "GamePlay",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256823687/movie.293x165.jpg?t=1614195339",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/47810/350133/85619a038b1503b3718c254136b3ad129a15c68a/1750480953/dash_h264.mpd?t=1614195339"
+    }
+  ],
+  "metacritic": {
+    "score": 91,
+    "url": "https://www.metacritic.com/game/pc/dragon-age-origins?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 47810,
+    "store_url": "https://store.steampowered.com/app/47810/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 26456,
+    "review_negative": 4413,
+    "review_total": 30869,
+    "review_positive_percent": 85.7
+  }
+}

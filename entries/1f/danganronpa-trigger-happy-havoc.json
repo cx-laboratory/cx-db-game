@@ -1,0 +1,258 @@
+{
+  "key": "danganronpa-trigger-happy-havoc",
+  "name": "Danganronpa: Trigger Happy Havoc",
+  "description": "Investigate murders, search for clues and talk to your classmates to prepare for trial. There, you'll engage in deadly wordplay, going back and forth with suspects. Dissect their statements and fire their words back at them to expose their lies! There's only one way to survive—pull the trigger.",
+  "developers": [
+    "Spike Chunsoft Co., Ltd."
+  ],
+  "publishers": [
+    "Spike Chunsoft Co., Ltd."
+  ],
+  "release_date": "2016-02-19",
+  "website": "",
+  "tags": [
+    "adventure",
+    "visual-novel",
+    "anime",
+    "detective",
+    "mystery",
+    "story-rich",
+    "great-soundtrack",
+    "singleplayer",
+    "horror",
+    "dark-comedy",
+    "dark-humor",
+    "puzzle",
+    "point-and-click",
+    "funny",
+    "exploration",
+    "comedy",
+    "survival",
+    "action",
+    "memes"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "japanese": "ダンガンロンパ 希望の学園と絶望の高校生"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Launcher.exe",
+          "description": "",
+          "type": "config"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "/",
+          "pattern": "savedata.vfs",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "/",
+          "pattern": "savedata_jp.vfs",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "/",
+          "pattern": "savedata_ch.vfs",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Launcher.app/Contents/MacOS/Launcher",
+          "description": "Start Launcher",
+          "type": "default"
+        },
+        {
+          "executable": "Danganronpa.app/Contents/MacOS/Danganronpa",
+          "description": "Skip Launcher",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "/",
+          "pattern": "savedata.vfs",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "/",
+          "pattern": "savedata_jp.vfs",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "/",
+          "pattern": "savedata_ch.vfs",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Launcher",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Launcher",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "/",
+          "pattern": "savedata.vfs",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "/",
+          "pattern": "savedata_jp.vfs",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "/",
+          "pattern": "savedata_ch.vfs",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Danganronpa: Trigger Happy Havoc",
+    "Launcher",
+    "Launcher.app/Contents/MacOS/Launcher",
+    "Danganronpa.app/Contents/MacOS/Danganronpa",
+    "ダンガンロンパ 希望の学園と絶望の高校生"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/413410/221f5116c2c1d46fa71a7b014b5e882334a2d0da.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413410/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413410/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413410/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413410/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413410/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413410/ss_3111fac0ca3749fd394ac7b4a6b1fd2fbeb1f0a3.1920x1080.jpg?t=1781085607"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413410/ss_a9d9e6b9df01a24eeb866692ac3c02a31d380c8c.1920x1080.jpg?t=1781085607"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413410/ss_6ed67e35e2c9556c5f13d58146ba9f57bd2f76d7.1920x1080.jpg?t=1781085607"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413410/ss_ea6543e065554db862f5a6a31505131fcb3e40b7.1920x1080.jpg?t=1781085607"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413410/ss_ebfce8e261ae00df31aa687c9d79d585c23c7513.1920x1080.jpg?t=1781085607"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413410/ss_1db8423ebc229f6951ea7308bf0926b0d8a8c11f.1920x1080.jpg?t=1781085607"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413410/ss_77151e20eff1a063158b200f12a263d630dc4522.1920x1080.jpg?t=1781085607"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413410/ss_1a54ebbd0bedfd7b434e0450fe1aa34a2a94c125.1920x1080.jpg?t=1781085607"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413410/ss_cd368505daa5499afe7c04a8d9ffc6b4701c7f17.1920x1080.jpg?t=1781085607"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256660841/movie.293x165.jpg?t=1455822699",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/413410/52461/11a0ff9624d61373617185f95e4bd4d15963d99b/1750527633/dash_h264.mpd?t=1455822699"
+    },
+    {
+      "name": "Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256659737/movie.293x165.jpg?t=1453107649",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/413410/50128/3301f9013e0208a59d3911a7ada37a6f9f837637/1750527577/dash_h264.mpd?t=1453107649"
+    }
+  ],
+  "metacritic": {
+    "score": 82,
+    "url": "https://www.metacritic.com/game/pc/danganronpa-trigger-happy-havoc?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 413410,
+    "store_url": "https://store.steampowered.com/app/413410/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Visual Novel",
+      "Anime",
+      "Detective",
+      "Mystery",
+      "Story Rich",
+      "Great Soundtrack",
+      "Singleplayer",
+      "Psychological Horror",
+      "Horror",
+      "Adventure",
+      "Dark Comedy",
+      "Dark Humor",
+      "Puzzle",
+      "Point & Click",
+      "Funny",
+      "Exploration",
+      "Comedy",
+      "Survival",
+      "Action",
+      "Memes"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 35987,
+    "review_negative": 1499,
+    "review_total": 37486,
+    "review_positive_percent": 96
+  }
+}

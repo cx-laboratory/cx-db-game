@@ -1,0 +1,182 @@
+{
+  "key": "suzerain",
+  "name": "Suzerain",
+  "description": "Assume the role of President Anton Rayne and guide the nation of Sordland. Amidst brewing international conflicts, need for reform, deep-seated corruption, and economic recession, you must make the decisions in this political drama. How will you lead?",
+  "developers": [
+    "Torpor Games"
+  ],
+  "publishers": [
+    "Torpor Games"
+  ],
+  "release_date": "2020-12-04",
+  "website": "https://www.suzeraingame.com/",
+  "tags": [
+    "adventure",
+    "indie",
+    "rpg",
+    "visual-novel",
+    "choose-your-own-adventure",
+    "political-sim",
+    "political",
+    "choices-matter",
+    "interactive-fiction",
+    "story-rich",
+    "text-based",
+    "politics",
+    "multiple-endings",
+    "strategy-rpg",
+    "point-and-click",
+    "alternate-history",
+    "singleplayer",
+    "old-school",
+    "narrative",
+    "hand-drawn",
+    "2d"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Suzerain.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Torpor Games/Suzerain/",
+          "pattern": "*.json",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "SuzerainMac.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Torpor Games/Suzerain/",
+          "pattern": "*.json",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Suzerain",
+    "SuzerainMac.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1207650/4be97e1b0dbd562a757d766806ad82df4ad1ee0a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1207650/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1207650/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1207650/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1207650/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1207650/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1207650/62d537e066cd46a0a37e8a56f26fd0dd0f07b042/ss_62d537e066cd46a0a37e8a56f26fd0dd0f07b042.1920x1080.jpg?t=1774543554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1207650/70f4f58cd7814f4acf6e6bcf9839d3bc9720d99f/ss_70f4f58cd7814f4acf6e6bcf9839d3bc9720d99f.1920x1080.jpg?t=1774543554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1207650/6b0128309ffeca8ce112990b35e0e1300e9fa7fe/ss_6b0128309ffeca8ce112990b35e0e1300e9fa7fe.1920x1080.jpg?t=1774543554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1207650/407b096728a93c3afc66cf0ae152c1c9f6ab71ea/ss_407b096728a93c3afc66cf0ae152c1c9f6ab71ea.1920x1080.jpg?t=1774543554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1207650/82dd7b322610e7deae092ed3ba01b2cba552083b/ss_82dd7b322610e7deae092ed3ba01b2cba552083b.1920x1080.jpg?t=1774543554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1207650/c854b48f451cc3500db00d0f524aedfb6bb14f30/ss_c854b48f451cc3500db00d0f524aedfb6bb14f30.1920x1080.jpg?t=1774543554"
+    }
+  ],
+  "videos": [
+    {
+      "name": "3.1 OUT NOW!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257136447/7b5b9dd4b9639b2195968f8d9918abd71f3ea45e/movie_600x337.jpg?t=1746634209",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1207650/875546850/9b4f1d6983ac598fbc6d2664bd1b0c1b9626c152/1750642500/dash_h264.mpd?t=1746634209"
+    },
+    {
+      "name": "Suzerain Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256812365/movie.293x165.jpg?t=1746635069",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1207650/331526/464da473882b413cd57b74b6c07836ed802f1a58/1750642465/dash_h264.mpd?t=1746635069"
+    }
+  ],
+  "metacritic": {
+    "score": 81,
+    "url": "https://www.metacritic.com/game/pc/suzerain?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1207650,
+    "store_url": "https://store.steampowered.com/app/1207650/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Visual Novel",
+      "Choose Your Own Adventure",
+      "Political Sim",
+      "Political",
+      "Choices Matter",
+      "Interactive Fiction",
+      "Story Rich",
+      "Text-Based",
+      "Politics",
+      "Multiple Endings",
+      "RPG",
+      "Strategy RPG",
+      "Point & Click",
+      "Alternate History",
+      "Singleplayer",
+      "Adventure",
+      "Old School",
+      "Narrative",
+      "Hand-drawn",
+      "2D"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 10647,
+    "review_negative": 862,
+    "review_total": 11509,
+    "review_positive_percent": 92.51
+  }
+}

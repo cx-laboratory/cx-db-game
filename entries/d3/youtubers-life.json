@@ -1,0 +1,268 @@
+{
+  "key": "youtubers-life",
+  "name": "Youtubers Life",
+  "description": "Become the most successful youtuber on the planet! Create videos, get subscribers, attend events, interact with your fans… and grow your channel. Live a youtuber’s life!",
+  "developers": [
+    "UPLAY Online"
+  ],
+  "publishers": [
+    "UPLAY Online"
+  ],
+  "release_date": "2017-02-03",
+  "website": "http://www.youtuberslife.com",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "simulation",
+    "strategy",
+    "management",
+    "singleplayer",
+    "life-sim",
+    "character-customization",
+    "comedy",
+    "memes",
+    "family-friendly",
+    "funny",
+    "time-management",
+    "cartoon",
+    "female-protagonist",
+    "resource-management",
+    "realistic",
+    "open-world",
+    "sandbox"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "YoutubersLife.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "U-Play online/Youtubers Life/Saves",
+          "pattern": "*.yls",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "U-Play online/Youtubers Life",
+          "pattern": "*.yls",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "YoutubersLife.app/Contents/MacOS/YoutubersLife",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "U-Play online/Youtubers Life/Saves",
+          "pattern": "*.yls",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "U-Play online/Youtubers Life",
+          "pattern": "*.yls",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "YoutubersLife.x86_64",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "YoutubersLife.x86",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "U-Play online/Youtubers Life/Saves",
+          "pattern": "*.yls",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "U-Play online/Youtubers Life",
+          "pattern": "*.yls",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Youtubers Life",
+    "YoutubersLife",
+    "YoutubersLife.app/Contents/MacOS/YoutubersLife",
+    "YoutubersLife.x86_64",
+    "YoutubersLife.x86"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/428690/3ab0776943109e0c91af6adc19e78b36b958febd.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428690/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428690/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428690/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428690/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428690/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428690/ss_45d2920b73a3eaf805dfc0cad9185e009913647b.1920x1080.jpg?t=1782212506"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428690/ss_dbb6a9b5c9f8534a0ca28a8f581cda42c0c67e7d.1920x1080.jpg?t=1782212506"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428690/ss_78bdbc547411491d9782bc08a8bd109fba03b65c.1920x1080.jpg?t=1782212506"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428690/ss_21bc4b16c06ca3d6fe729b36cd6b2e744b2d3577.1920x1080.jpg?t=1782212506"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428690/ss_478ac083b64698207caa6c73b0282991e83addeb.1920x1080.jpg?t=1782212506"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428690/ss_521297b737f901d25625298ce9257cb2b296cfb3.1920x1080.jpg?t=1782212506"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428690/ss_07ffe2bb677bbbed360c5de240b05e3a941f4e7b.1920x1080.jpg?t=1782212506"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428690/ss_ceedfc3ea40f9a8eccb1eef3df0e4340b2f830a4.1920x1080.jpg?t=1782212506"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428690/ss_b11929307ef84f8ecc546ff291095ee3f8b1a9eb.1920x1080.jpg?t=1782212506"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428690/ss_e2e382ca48170e38c0de28dda815874eedc17611.1920x1080.jpg?t=1782212506"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428690/ss_4c660b7ed5e976ba5e85a1b65156838a0b50ab16.1920x1080.jpg?t=1782212506"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428690/ss_1d1746968929da6584ad11720f6355f4097fbaa0.1920x1080.jpg?t=1782212506"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428690/ss_f65b6886dded89923916f637e86b7046daef892f.1920x1080.jpg?t=1782212506"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428690/ss_2e67f96eb55b9ac6c78490f14b9d6e5d942d0585.1920x1080.jpg?t=1782212506"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428690/ss_649ab628b0d41f96f51509c21bc11b022d8a5baa.1920x1080.jpg?t=1782212506"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Youtubers Life - Fashion update - English",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256766484/movie.293x165.jpg?t=1573226762",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/428690/251391/bb828d3fa661638bab6dcfef5f9b7bfdaf69c9e9/1750529829/dash_h264.mpd?t=1573226762"
+    },
+    {
+      "name": "Youtubers Life Video Gameplay",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256813430/movie.293x165.jpg?t=1607860561",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/428690/333158/306ea3f9ef6de62e1fe487067db462f845f49a44/1750529868/dash_h264.mpd?t=1607860561"
+    },
+    {
+      "name": "Youtubers Life - 2019",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256750496/movie.293x165.jpg?t=1559641316",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/428690/222782/a024e5ba79bfa89f5b5fac7898493276989e085e/1750529827/dash_h264.mpd?t=1559641316"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 428690,
+    "store_url": "https://store.steampowered.com/app/428690/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Management",
+      "Singleplayer",
+      "Life Sim",
+      "Character Customization",
+      "Casual",
+      "Simulation",
+      "Adventure",
+      "Comedy",
+      "Memes",
+      "Family Friendly",
+      "Funny",
+      "Time Management",
+      "Indie",
+      "Cartoon",
+      "Female Protagonist",
+      "Resource Management",
+      "Strategy",
+      "Realistic",
+      "Open World",
+      "Sandbox"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 11925,
+    "review_negative": 3483,
+    "review_total": 15408,
+    "review_positive_percent": 77.39
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "key": "war-of-rights",
+  "name": "War of Rights",
+  "description": "War of Rights is a first person multiplayer game featuring massive 400 player battles with a focus on historical authenticity, teamplay and immersion. It is set during the perilous days of the American Civil War, in the Maryland Campaign of September, 1862.",
+  "developers": [
+    "Campfire Games"
+  ],
+  "publishers": [
+    "Campfire Games"
+  ],
+  "release_date": "2018-12-04",
+  "website": "https://warofrights.com/",
+  "tags": [
+    "action",
+    "indie",
+    "massively-multiplayer",
+    "simulation",
+    "strategy",
+    "early-access",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "historical",
+    "war",
+    "realistic",
+    "military",
+    "fps",
+    "first-person",
+    "shooter",
+    "violent",
+    "singleplayer",
+    "gore",
+    "tactical",
+    "anime"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "\\War of Rights Launcher.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "UserConfig/Cloud",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "War of Rights",
+    "\\War of Rights Launcher"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/424030/236d807a219431a3b2dbd3d8db0950b614df5ae5.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_88a0681e2dcc04601f42d290a3750e4c18e2966f.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_35760c0ebecb91c4c1b2ff58cb4e2b2cda636145.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_4a9935fba858f1b803de49c854bbd75a529da6cc.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_bc5e1fb70ead9a5713cef5844d7f42e52e645e49.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_ecaa17d65f1ca1ba7010b7a82c5380f6f0cb97d1.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_ee9a92aae17d4344b2ed5c8e286f4358ca40b933.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_13f41bade9be565d2018fdcaa94837548f3caf5a.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_e0dbca19bcef2f84e50eff907ed3a311ddf89a16.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_ec8394bcda949f62ff97c0242be459e28f54d892.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_dade3db74393ba6d069fcf540b586513125d0c42.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_c526fa155e3f2b9c436ec5f1aaf1d1dbab483efc.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_f83eaa7d9a8f3c06b76ea781f04f9bb78849c029.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_d728d655b0be97c72d41b91b3424c59233fdfbdc.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_fbbd5b23b290837fc43866879a9d77afc55a6deb.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_6f9993476eb9932891afb933bfa2328ce3f08452.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_3717138b9054c42b3cefde1719cdae47f476a712.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_1fb6294774c5fc93c5ff178e021bd585c2cc9492.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_15c8f036852253e27a0c50d6679229b0d6bf1808.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_1666ae4a3c5634fb49649755b6d2e89d7aa98e5f.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_fdfac04b491c06fd364151ea1d20448484a7b4ca.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_76d66ce9c9ee4f3a1d744c1f9b8d7e571ae12161.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_7af16d08358893a432d23f7f197386fa52b76195.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_5e3a3da3cf5c002ea8672326f8fcf127f754c29c.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_d2efeba0899ef7dcfa29527f548f952f1b530ed5.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_0040cc63a8ec07e2ce101e3b3099ec57a110c202.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_47161ed80a0cac2f53c094195aa88be2254e1861.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_b556ef857cb62b5670725240f172a02be789229a.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_d744e8b6808c77201a8a0443abd90104b3238225.1920x1080.jpg?t=1774370458"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424030/ss_54c22fb1e4b6ff079cac7b9c253744e8a2dc83a5.1920x1080.jpg?t=1774370458"
+    }
+  ],
+  "videos": [
+    {
+      "name": "War of Rights - 400 Player Battles Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257186893/d5634d0b6c54c07b1f2ae2d0ddac0f40b0fb8844/movie_600x337.jpg?t=1755888338",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/424030/1240684943/7cfa456adc834bb6f5ff544650e4ccd8a0bf2243/1755814524/dash_h264.mpd?t=1755888338"
+    },
+    {
+      "name": "War of Rights - Autumn 1862",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257307754/04ce414269d4eec96cc3811dfa4ce2bebf808fd4/movie_600x337.jpg?t=1774370456",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/424030/874086932/5077cf780b0fead80e5da4dbb83a6c365ce8662b/1774269467/dash_h264.mpd?t=1774370456"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 424030,
+    "store_url": "https://store.steampowered.com/app/424030/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Massively Multiplayer",
+      "Simulation",
+      "Strategy",
+      "Early Access"
+    ],
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Stats",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Historical",
+      "War",
+      "Multiplayer",
+      "Realistic",
+      "Military",
+      "Action",
+      "Simulation",
+      "FPS",
+      "Strategy",
+      "First-Person",
+      "Massively Multiplayer",
+      "Shooter",
+      "Early Access",
+      "Indie",
+      "Violent",
+      "Singleplayer",
+      "Gore",
+      "Tactical",
+      "Psychological Horror",
+      "Anime"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 13074,
+    "review_negative": 1720,
+    "review_total": 14794,
+    "review_positive_percent": 88.37
+  }
+}

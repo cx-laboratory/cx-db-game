@@ -1,0 +1,136 @@
+{
+  "key": "saints-row-iv",
+  "name": "Saints Row IV",
+  "description": "Experience the insane antics of Saints Row IV. The Saints have gone from the Penthouse to the White House - but Earth has been invaded and it’s up to you to save it with an arsenal of superpowers and strange weapons, in the wildest open world game ever.",
+  "developers": [
+    "Deep Silver Volition"
+  ],
+  "publishers": [
+    "Deep Silver"
+  ],
+  "release_date": "2013-08-20",
+  "website": "http://www.saintsrow.com",
+  "tags": [
+    "action",
+    "adventure",
+    "multiplayer",
+    "co-op",
+    "online-co-op"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian",
+    "japanese",
+    "polish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SaintsRowIV.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "./saintsrow4",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Saints Row IV",
+    "SaintsRowIV",
+    "./saintsrow4"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/206420/211c502e385781a17b4d02cad7a3ef53f09f1e91.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206420/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206420/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206420/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206420/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206420/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206420/ss_10f32f4ca88b479648cc08a4b7af269f3cb905ca.1920x1080.jpg?t=1764670979"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206420/ss_92e54253c19f9536c3932caa7b8b581cea74e665.1920x1080.jpg?t=1764670979"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206420/ss_3750989bb2f99fb0ab07da509441bf47f1c88c7b.1920x1080.jpg?t=1764670979"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206420/ss_34178411d350c6895c2a21554db1b0f17e1381bc.1920x1080.jpg?t=1764670979"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206420/ss_ccb7413366f9a3eab3d7870ff8ca25aa15fa20ac.1920x1080.jpg?t=1764670979"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206420/ss_c06ff90946fdc8b192023fe8309d21e8b3bf0137.1920x1080.jpg?t=1764670979"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Re-Elected Update Trailer ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256919500/movie.293x165.jpg?t=1670513847",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/206420/519497/450c8c3f7a892e082a7f8858eaa3eee8857b179a/1750493084/dash_h264.mpd?t=1670513847"
+    }
+  ],
+  "metacritic": {
+    "score": 86,
+    "url": "https://www.metacritic.com/game/pc/saints-row-iv?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 206420,
+    "store_url": "https://store.steampowered.com/app/206420/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 67948,
+    "review_negative": 9545,
+    "review_total": 77493,
+    "review_positive_percent": 87.68
+  }
+}

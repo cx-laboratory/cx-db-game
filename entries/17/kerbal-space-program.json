@@ -1,0 +1,408 @@
+{
+  "key": "kerbal-space-program",
+  "name": "Kerbal Space Program",
+  "description": "In Kerbal Space Program, take charge of the space program for the alien race known as the Kerbals. You have access to an array of parts to assemble fully-functional spacecraft that flies (or doesn’t) based on realistic aerodynamic and orbital physics.",
+  "developers": [
+    "Squad"
+  ],
+  "publishers": [
+    "Private Division"
+  ],
+  "release_date": "2015-04-28",
+  "website": "https://kerbalspaceprogram.com/",
+  "tags": [
+    "indie",
+    "simulation",
+    "space",
+    "sandbox",
+    "physics",
+    "science",
+    "space-sim",
+    "building",
+    "moddable",
+    "education",
+    "singleplayer",
+    "open-world",
+    "exploration",
+    "funny",
+    "sci-fi",
+    "difficult",
+    "adventure",
+    "strategy",
+    "replay-value",
+    "comedy"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "Spanish - Spain",
+    "Simplified Chinese",
+    "Japanese",
+    "Russian",
+    "French",
+    "Italian",
+    "German",
+    "Portuguese - Brazil"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "KSP_x64.exe",
+          "description": "Launch KSP (64-bit)",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.sfs",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.craft",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "Missions",
+          "pattern": "*.mission",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "Missions",
+          "pattern": "*.craft",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "Missions",
+          "pattern": "*.png",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "Missions",
+          "pattern": "*.jpg",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "thumbs",
+          "pattern": "*.png",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Ships",
+          "pattern": "*.craft",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "Ships",
+          "pattern": "*.png",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "Missions",
+          "pattern": "*.loadmeta",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.loadmeta",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "KSP.app",
+          "description": "Launch KSP",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.sfs",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.craft",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "Missions",
+          "pattern": "*.mission",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "Missions",
+          "pattern": "*.craft",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "Missions",
+          "pattern": "*.png",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "Missions",
+          "pattern": "*.jpg",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "thumbs",
+          "pattern": "*.png",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Ships",
+          "pattern": "*.craft",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "Ships",
+          "pattern": "*.png",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "Missions",
+          "pattern": "*.loadmeta",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.loadmeta",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "KSP.x86_64",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.sfs",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.craft",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "Missions",
+          "pattern": "*.mission",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "Missions",
+          "pattern": "*.craft",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "Missions",
+          "pattern": "*.png",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "Missions",
+          "pattern": "*.jpg",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "thumbs",
+          "pattern": "*.png",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Ships",
+          "pattern": "*.craft",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "Ships",
+          "pattern": "*.png",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "Missions",
+          "pattern": "*.loadmeta",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.loadmeta",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Kerbal Space Program",
+    "KSP_x64",
+    "KSP.app",
+    "KSP.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/220200/6dc8c1377c6b0ffedaeaec59c253f8c33fb3e62b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/ss_44f586b0c58ed455c309efd87ce15f46e072242b.1920x1080.jpg?t=1738037585"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/ss_d393792997ca01960a6843a5f6eb381895866662.1920x1080.jpg?t=1738037585"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/ss_25cce0f89404bb3ddc4028644a040784082b0763.1920x1080.jpg?t=1738037585"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/ss_dcfe84a90aba509e459d1e7d119aa7d365faf34a.1920x1080.jpg?t=1738037585"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/ss_395fa5eeac33f83a3f80cfabfe221899d41e21d0.1920x1080.jpg?t=1738037585"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/ss_04fade61dd5ebce0f8cec9efe67e6e9d23d3b9a7.1920x1080.jpg?t=1738037585"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/ss_56a37855f26e4737222e912a2e309cb26386ae68.1920x1080.jpg?t=1738037585"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/ss_65398e623d014d17fbf963b94ae69c4034d95c40.1920x1080.jpg?t=1738037585"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/ss_9fc2032db736a2a9919aba739566a8353c2cd3cb.1920x1080.jpg?t=1738037585"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/ss_c5b19aad79ad37ba36708f22742c1bf81f9220ca.1920x1080.jpg?t=1738037585"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/ss_f258c8ebef5e2bf47a2feca529a2cd3f864cfbb0.1920x1080.jpg?t=1738037585"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/ss_f93547d532f3b0b19dbc23a1500fd313f3619e03.1920x1080.jpg?t=1738037585"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Cinematic Trailer (Multi)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256721665/movie.293x165.jpg?t=1530546317",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/220200/171271/78c61bd83ebdcf9bfd985dc8dd77db6c4e272a9d/1750481505/dash_h264.mpd?t=1530546317"
+    },
+    {
+      "name": "CommNet Trailer (Multi)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256721667/movie.293x165.jpg?t=1530546338",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/220200/171274/41cc1286d2831ee14d2d2ad406cea1be4c816ec2/1750481509/dash_h264.mpd?t=1530546338"
+    },
+    {
+      "name": "Away with Words (Multi)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256721668/movie.293x165.jpg?t=1530546348",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/220200/171275/05402c0d73c11650cc837932b2e0a66007c238b5/1750481523/dash_h264.mpd?t=1530546348"
+    }
+  ],
+  "metacritic": {
+    "score": 88,
+    "url": "https://www.metacritic.com/game/pc/kerbal-space-program?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 220200,
+    "store_url": "https://store.steampowered.com/app/220200/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Space",
+      "Simulation",
+      "Sandbox",
+      "Physics",
+      "Science",
+      "Space Sim",
+      "Building",
+      "Moddable",
+      "Education",
+      "Indie",
+      "Singleplayer",
+      "Open World",
+      "Exploration",
+      "Funny",
+      "Sci-fi",
+      "Difficult",
+      "Adventure",
+      "Strategy",
+      "Replay Value",
+      "Comedy"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 137406,
+    "review_negative": 6415,
+    "review_total": 143821,
+    "review_positive_percent": 95.54
+  }
+}

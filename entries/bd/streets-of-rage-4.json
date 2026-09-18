@@ -1,0 +1,270 @@
+{
+  "key": "streets-of-rage-4",
+  "name": "Streets of Rage 4",
+  "description": "Amongst the best beat’em up series ever created, jammin’ ‘90s beats and over the top street fighting, the iconic series Streets of Rage comes back with a masterful tribute to and revitalization of the classic action fans adore.",
+  "developers": [
+    "Dotemu"
+  ],
+  "publishers": [
+    "Dotemu"
+  ],
+  "release_date": "2020-04-30",
+  "website": "https://www.streets4rage.com/",
+  "tags": [
+    "action",
+    "indie",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "split-screen",
+    "beat-em-up",
+    "2d",
+    "fighting",
+    "arcade",
+    "local-multiplayer",
+    "side-scroller",
+    "great-soundtrack",
+    "retro",
+    "co-op-campaign",
+    "adventure",
+    "hand-drawn",
+    "classic",
+    "casual",
+    "colorful"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "怒之铁拳4",
+    "tchinese": "怒之鐵拳4",
+    "japanese": "ベア・ナックル4"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "x64\\SOR4.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Streets of Rage 4 Save and Config",
+          "pattern": "*.bin",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Streets of Rage 4.app/Contents/MacOS/SOR4",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Streets of Rage 4 Save and Config",
+          "pattern": "*.bin",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "./SOR4",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Streets of Rage 4 Save and Config",
+          "pattern": "*.bin",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Streets of Rage 4",
+    "x64\\SOR4",
+    "Streets of Rage 4.app/Contents/MacOS/SOR4",
+    "./SOR4",
+    "怒之铁拳4",
+    "怒之鐵拳4",
+    "ベア・ナックル4"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/985890/befb7c78958bea322edfaa2f87abefaa28d35c37.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985890/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985890/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985890/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985890/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985890/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985890/ss_0cbc51b8ec12859e9f180217bee8b973f9b99924.1920x1080.jpg?t=1763718423"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985890/ss_1f48943ea994936e2a75463b46ea635f72ba3a0a.1920x1080.jpg?t=1763718423"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985890/ss_de2ffc96c3640f57e84094c6cb2df3d9db0e3bc1.1920x1080.jpg?t=1763718423"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985890/ss_9b520e2d15aa78d3834e2bbbd25090b3f6ca1404.1920x1080.jpg?t=1763718423"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985890/ss_4dcdd6d0cb38e3bcb747ac7cf69b6b608ae2d46a.1920x1080.jpg?t=1763718423"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985890/ss_bf3310b1b77fe864b02142e8545c0b268db9d350.1920x1080.jpg?t=1763718423"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985890/ss_846e82bd5a40f7847436145221ee2b6caa1cb4e2.1920x1080.jpg?t=1763718423"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985890/ss_f1717ac6324e90d581fc0ed6ded94a0ff41ee6f7.1920x1080.jpg?t=1763718423"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985890/ss_130b4fcc919444c8ed1276e40982c46365a10b53.1920x1080.jpg?t=1763718423"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Streets of Rage 4 - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256783825/movie.293x165.jpg?t=1588284724",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/985890/282435/4f956e9e1d89af3ce8e24fd82d45e2189d88a226/1750604253/dash_h264.mpd?t=1588284724"
+    },
+    {
+      "name": "Streets of Rage 4 - Battle Mode",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256782988/movie.293x165.jpg?t=1588256374",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/985890/280842/7b188940ca277ae4ca9f7f73e3e4b6435d39df11/1750604195/dash_h264.mpd?t=1588256374"
+    },
+    {
+      "name": "Streets of Rage 4 - Pixel Characters",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256782989/movie.293x165.jpg?t=1588256382",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/985890/280843/6a554966fd2ca7c643ab8cb0e62d19abd051f8c0/1750604211/dash_h264.mpd?t=1588256382"
+    },
+    {
+      "name": "Streets of Rage 4 - Floyd Iraia",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256778309/movie.293x165.jpg?t=1588256429",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/985890/272526/53ebbd979753f101949017eb667b2d6fa67ada62/1750604167/dash_h264.mpd?t=1588256429"
+    },
+    {
+      "name": "Streets of Rage 4 - Adam Hunter",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256769594/movie.293x165.jpg?t=1588256435",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/985890/256904/431b30e38e470710d38d3486be7c41dc36fd5d6c/1750604154/dash_h264.mpd?t=1588256435"
+    },
+    {
+      "name": "Streets of Rage 4 - Cherry Hunter",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256762127/movie.293x165.jpg?t=1588256442",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/985890/243284/a5e0123f28cdead891ac67c046fa452ebbcfedec/1750604127/dash_h264.mpd?t=1588256442"
+    },
+    {
+      "name": "Streets Of Rage 4 - Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256761668/movie.293x165.jpg?t=1588070129",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/985890/242504/2a50596355b619d03f051dfdd1932e5594846017/1750604121/dash_h264.mpd?t=1588070129"
+    },
+    {
+      "name": "Streets Of Rage 4 - Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256762277/movie.293x165.jpg?t=1588070137",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/985890/243503/95c1187224e8d1a15d498f2ed59534954e12cb57/1750604145/dash_h264.mpd?t=1588070137"
+    }
+  ],
+  "metacritic": {
+    "score": 84,
+    "url": "https://www.metacritic.com/game/pc/streets-of-rage-4?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 985890,
+    "store_url": "https://store.steampowered.com/app/985890/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Gamepad Recommended",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Beat 'em up",
+      "Action",
+      "Indie",
+      "2D",
+      "Fighting",
+      "Arcade",
+      "Local Multiplayer",
+      "Online Co-Op",
+      "Side Scroller",
+      "Local Co-Op",
+      "Multiplayer",
+      "Great Soundtrack",
+      "Retro",
+      "Co-op",
+      "Co-op Campaign",
+      "Adventure",
+      "Hand-drawn",
+      "Classic",
+      "Casual",
+      "Colorful"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 18009,
+    "review_negative": 1469,
+    "review_total": 19478,
+    "review_positive_percent": 92.46
+  }
+}

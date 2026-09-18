@@ -1,0 +1,255 @@
+{
+  "key": "thehunter-call-of-the-wild",
+  "name": "theHunter: Call of the Wild™",
+  "description": "Discover an atmospheric hunting game like no other in this realistic, stunning open world – regularly updated in collaboration with the community. Immerse yourself in the single player campaign, or share the ultimate hunting experience with friends.",
+  "developers": [
+    "Expansive Worlds"
+  ],
+  "publishers": [
+    "Avalanche Studios"
+  ],
+  "release_date": "2017-02-16",
+  "website": "http://callofthewild.thehunter.com/",
+  "tags": [
+    "adventure",
+    "simulation",
+    "sports",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "hunting",
+    "open-world",
+    "nature",
+    "relaxing",
+    "stealth",
+    "fps",
+    "survival",
+    "realistic",
+    "sandbox",
+    "first-person",
+    "walking-simulator",
+    "immersive-sim",
+    "shooter",
+    "controller",
+    "strategy"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "czech",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "《猎人：荒野的召唤™》"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "theHunterCotW_F.exe",
+          "description": "the Hunter: Call of the Wild",
+          "type": "default"
+        },
+        {
+          "executable": "theHunterCotW_R.exe",
+          "description": "Release.exe",
+          "type": "option1"
+        },
+        {
+          "executable": "theHunterCotW_P.exe",
+          "description": "Profile exe",
+          "type": "option2"
+        },
+        {
+          "executable": "theHunterCotW_R.exe",
+          "description": "Release.exe",
+          "type": "option1"
+        },
+        {
+          "executable": "theHunterCotW_R.exe",
+          "description": "Release.exe (locally-running social server)",
+          "type": "option2"
+        },
+        {
+          "executable": "theHunterCotW_R.exe",
+          "description": "Release.exe (connecting to int social server)",
+          "type": "option3"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Avalanche Studios/COTW/Saves/{64BitSteamID}",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Avalanche Studios/theHunter Call of the Wild/Saves/settings",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "theHunter: Call of the Wild™",
+    "theHunterCotW_F",
+    "theHunterCotW_R",
+    "theHunterCotW_P",
+    "《猎人：荒野的召唤™》"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/518790/8cd121cb62c8f98019ed333716657449c8da2b81.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/00f0df3558439a6a2cc4fbd7a658b00fb71353ea/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/599d7d90d73a8a5ca08d7a0413c2487a6334c250/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/ss_1d4862325cbb1b929af51d5bd3c91160797565d1.1920x1080.jpg?t=1781679235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/ss_318b270747b228975c4a6e3e06d9133db6a72f1b.1920x1080.jpg?t=1781679235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/ss_dce419f29e299c1966b361ff24f6b2d6e1130e82.1920x1080.jpg?t=1781679235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/ss_6a42297e92da375520a1cadc9e369ca3429bc280.1920x1080.jpg?t=1781679235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/ss_8a75aa823fbaa3a8ec3cf844d1340308250737a4.1920x1080.jpg?t=1781679235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/ss_9e1405661f3a1e697ae7d5a8017fa4141cb6fe4f.1920x1080.jpg?t=1781679235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/ss_4aecf6ed4e1cbacb97800650f928d80f364487bc.1920x1080.jpg?t=1781679235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/ss_dbdc601a21f16bde11cbcbad1e4bf2bfdf6f5eac.1920x1080.jpg?t=1781679235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/ss_8b37275966bdc78f2779141b9f418779cf07d6e3.1920x1080.jpg?t=1781679235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/ss_63de30126624f031b7d81a841d5cd33d18d67aa0.1920x1080.jpg?t=1781679235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/ss_c36c49958679fdf7fa590b78780ae52107def60d.1920x1080.jpg?t=1781679235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/ss_b7dd2e7d70a1e84a5b845b646952ed231032db1c.1920x1080.jpg?t=1781679235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/ss_f89a99bba357e602cddf108862216ea7bebb7af4.1920x1080.jpg?t=1781679235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/ss_7e87252627b2f503aff0c2bd65655e8366024ecb.1920x1080.jpg?t=1781679235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/ss_95b8fe8959bcaa3c5321bb9b3393b4af46a785ef.1920x1080.jpg?t=1781679235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/ss_f0f141a04df7e8b575757d2a02d72cc25fb7f5a3.1920x1080.jpg?t=1781679235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/ss_49f958da1f4bdf95bc993af32664932430b37067.1920x1080.jpg?t=1781679235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/ss_6e18b4d9e0d366c551851eaa2d4f99515dc7b273.1920x1080.jpg?t=1781679235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/ss_536a525974b3b390eb15fc8702770e04ce911144.1920x1080.jpg?t=1781679235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/ss_39c535f3ea0805ba8f8cc58039c4b9f42ec8d024.1920x1080.jpg?t=1781679235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/ss_6d659cea09e0477c8850c130bac9c13eddadcfb8.1920x1080.jpg?t=1781679235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/ss_53e92ceca5f3b4da8dbfe2e74b2236906c976219.1920x1080.jpg?t=1781679235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/ss_2611b58a352bbade0e95c866ad57ebf99bd02566.1920x1080.jpg?t=1781679235"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/ss_5cd224ebef6464119ed41afa1cd3705ea5018930.1920x1080.jpg?t=1781679235"
+    }
+  ],
+  "videos": [
+    {
+      "name": "2014WithSubtitles",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257035194/movie.293x165.jpg?t=1719904850",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/518790/721168/99f19f2cb38801a4ad401db5369a6f63202aa698/1750542548/dash_h264.mpd?t=1719904850"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 518790,
+    "store_url": "https://store.steampowered.com/app/518790/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Simulation",
+      "Sports"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "In-App Purchases",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Hunting",
+      "Open World",
+      "Multiplayer",
+      "Nature",
+      "Relaxing",
+      "Stealth",
+      "FPS",
+      "Simulation",
+      "Survival",
+      "Realistic",
+      "Sandbox",
+      "Online Co-Op",
+      "Co-op",
+      "First-Person",
+      "Walking Simulator",
+      "Immersive Sim",
+      "Shooter",
+      "Sports",
+      "Controller",
+      "Strategy"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 177942,
+    "review_negative": 21816,
+    "review_total": 199758,
+    "review_positive_percent": 89.08
+  }
+}

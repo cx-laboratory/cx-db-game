@@ -1,0 +1,129 @@
+{
+  "key": "battlefield-3",
+  "name": "Battlefield 3™",
+  "description": "Enjoy total freedom to fight the way you want. Explore 29 massive multiplayer maps and use loads of vehicles, weapons, and gadgets to help you turn up the heat. Every second of battle gets you closer to unlocking tons of extras and moving up in the Ranks. So get in the action.",
+  "developers": [
+    "DICE"
+  ],
+  "publishers": [
+    "Electronic Arts"
+  ],
+  "release_date": "2020-06-11",
+  "website": "",
+  "tags": [
+    "action",
+    "multiplayer",
+    "pvp",
+    "online-pvp"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish"
+  ],
+  "name_localized": {
+    "tchinese": "《戰地風雲3》",
+    "japanese": "バトルフィールド 3 ",
+    "schinese": "《Battlefield 3™》"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "link2ea://launchgame/1238820?platform=steam&theme=bf3",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Battlefield 3™",
+    "link2ea://launchgame/1238820?platform=steam&theme=bf3",
+    "《戰地風雲3》",
+    "バトルフィールド 3",
+    "《Battlefield 3™》"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1238820/48ec8b0881aeb00c57bad1af9f60a2c384ce1aed.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238820/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238820/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238820/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238820/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238820/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238820/ss_3e59b961834a4ef2d36e600db373049927cb2f0f.1920x1080.jpg?t=1777326004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238820/ss_8fce61feee86b183dd6c0b38270ea445017c2794.1920x1080.jpg?t=1777326004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238820/ss_2ee2d601c10fb9db2d9adf31f42183e7465927be.1920x1080.jpg?t=1777326004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238820/ss_c378ec3b0951e274244f337cf6fd42cd0ce875ed.1920x1080.jpg?t=1777326004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238820/ss_bec636fba276b96066f4f73d1f28034962bc15ea.1920x1080.jpg?t=1777326004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238820/ss_888515496687d61f4026f78e7adb9eb44542f634.1920x1080.jpg?t=1777326004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238820/ss_9d0429372a9b13bc3131a8f46d7a6cbf942bfbb9.1920x1080.jpg?t=1777326004"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Close Quarters Launch trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256787639/movie.293x165.jpg?t=1591887373",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1238820/289908/9e81691cc4b2689d760b576504aa2bcd92582183/1750647972/dash_h264.mpd?t=1591887373"
+    }
+  ],
+  "metacritic": {
+    "score": 89,
+    "url": "https://www.metacritic.com/game/pc/battlefield-3?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1238820,
+    "store_url": "https://store.steampowered.com/app/1238820/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 13486,
+    "review_negative": 5268,
+    "review_total": 18754,
+    "review_positive_percent": 71.91
+  }
+}

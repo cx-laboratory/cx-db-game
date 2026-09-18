@@ -1,0 +1,194 @@
+{
+  "key": "cozy-grove",
+  "name": "Cozy Grove",
+  "description": "Welcome to Cozy Grove, a game about camping on a haunted, ever-changing island. As a Spirit Scout, you'll wander the island's forest each day, finding new hidden secrets and helping soothe the local ghosts. With a little time and a lot of crafting, you'll bring color and joy back to Cozy Grove!",
+  "developers": [
+    "Spry Fox"
+  ],
+  "publishers": [
+    " Spry Fox"
+  ],
+  "release_date": "2021-04-08",
+  "website": "http://cozygrovegame.com/",
+  "tags": [
+    "casual",
+    "indie",
+    "relaxing",
+    "cute",
+    "story-rich",
+    "cozy",
+    "collectathon",
+    "hidden-object",
+    "colorful",
+    "atmospheric",
+    "life-sim",
+    "procedural-generation",
+    "2d",
+    "management",
+    "cartoony",
+    "character-customization",
+    "singleplayer",
+    "crafting",
+    "funny",
+    "surreal"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "dutch",
+    "turkish",
+    "arabic",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "CozyGrove.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Spry Fox/Cozy Grove",
+          "pattern": "cg_save*.sf",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Spry Fox/Cozy Grove",
+          "pattern": "cg_save*.jpg",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Cozy Grove",
+    "CozyGrove"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1458100/53089871f8cbe934aea1a86096ef502473ca86da.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458100/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458100/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458100/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458100/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458100/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458100/ss_4e637bfdb6089d8eadd6e23d7d7868628198bad1.1920x1080.jpg?t=1764788370"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458100/ss_c96f42f93ecc85a33e8a1a27c5c5e03c033669ba.1920x1080.jpg?t=1764788370"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458100/ss_7ccc68d4ac9698f3066995d02587b50977dace71.1920x1080.jpg?t=1764788370"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458100/ss_c60c924cb5ef5b366969e168b76a8631d2c5f2b1.1920x1080.jpg?t=1764788370"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458100/ss_16788e043db36362328ae8f9a4157c9937e2da5a.1920x1080.jpg?t=1764788370"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458100/ss_085cecee318531d9262d3781f810c38d0d72a9fe.1920x1080.jpg?t=1764788370"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458100/ss_b00003a34e67b3c012080ecb1065aa1dd9ffd1d2.1920x1080.jpg?t=1764788370"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458100/ss_48d88aad827dcae3046b00835c8f6f0db7de17e1.1920x1080.jpg?t=1764788370"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256826723/movie.293x165.jpg?t=1616195028",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1458100/355453/a72fcaf1920324dbbea79427791c64dee33cc48f/1750691450/dash_h264.mpd?t=1616195028"
+    },
+    {
+      "name": "Winter Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256865628/movie.293x165.jpg?t=1640019731",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1458100/425659/07079ea38cb3164a39e40a72fd4ebe6b7aca7658/1750691467/dash_h264.mpd?t=1640019731"
+    },
+    {
+      "name": "Autumn Update Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256854938/movie.293x165.jpg?t=1633646015",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1458100/407473/03c4d4f03bb6fae05b5d8bf0f39c8ab81045dd93/1750691462/dash_h264.mpd?t=1633646015"
+    },
+    {
+      "name": "Summer Update Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256840126/movie.293x165.jpg?t=1624432162",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1458100/379354/0e3a2ae70bbf0c27ec394d60f22bb8dd615362a6/1750691457/dash_h264.mpd?t=1624432162"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1458100,
+    "store_url": "https://store.steampowered.com/app/1458100/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Relaxing",
+      "Cute",
+      "Story Rich",
+      "Cozy",
+      "Collectathon",
+      "Hidden Object",
+      "Colorful",
+      "Atmospheric",
+      "Life Sim",
+      "Procedural Generation",
+      "2D",
+      "Management",
+      "Cartoony",
+      "Casual",
+      "Character Customization",
+      "Singleplayer",
+      "Crafting",
+      "Funny",
+      "Indie",
+      "Surreal"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7534,
+    "review_negative": 866,
+    "review_total": 8400,
+    "review_positive_percent": 89.69
+  }
+}

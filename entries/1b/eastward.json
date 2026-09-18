@@ -1,0 +1,224 @@
+{
+  "key": "eastward",
+  "name": "Eastward",
+  "description": "Welcome to the charming world of Eastward - population declining! Journey through a society on the brink of collapse. Discover delightful towns, strange creatures and even stranger people! Wield a trusty frying pan and mystic powers on an adventure into the unknown…",
+  "developers": [
+    "Pixpil"
+  ],
+  "publishers": [
+    "Chucklefish"
+  ],
+  "release_date": "2021-09-16",
+  "website": "https://eastwardgame.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "pixel-graphics",
+    "story-rich",
+    "singleplayer",
+    "action-rpg",
+    "atmospheric",
+    "post-apocalyptic",
+    "jrpg",
+    "2d",
+    "cute",
+    "soundtrack",
+    "female-protagonist",
+    "relaxing",
+    "dark",
+    "comedy",
+    "casual",
+    "colorful"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "tchinese": "風來之國 (Eastward)",
+    "japanese": "Eastward（イーストワード）",
+    "schinese": "风来之国 (Eastward)",
+    "sc_schinese": "风来之国",
+    "french": "Eastward"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Eastward.exe",
+          "description": "Start in D3D10 Mode",
+          "type": "default"
+        },
+        {
+          "executable": "Eastward.exe",
+          "description": "Start in OpenGL mode",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Pixpil/Eastward/steam_{64BitSteamID}",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Eastward.app/Contents/MacOS/eastward",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Pixpil/Eastward/steam_{64BitSteamID}",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Eastward",
+    "Eastward.app/Contents/MacOS/eastward",
+    "風來之國 (Eastward)",
+    "Eastward（イーストワード）",
+    "风来之国 (Eastward)",
+    "风来之国"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/977880/2b6ec2b769d10c0d289aa943ea26501dfa28a9cb.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977880/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977880/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977880/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977880/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977880/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977880/ss_5d50545b49db3a8502666b4195d2fabd0e31a29d.1920x1080.jpg?t=1782290198"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977880/ss_b3512f7576dbdd1e35dd3fb27a04f29174efb00d.1920x1080.jpg?t=1782290198"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977880/ss_2c7516dbcfba035a359a2eb7257356809a3f5eaa.1920x1080.jpg?t=1782290198"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977880/ss_ddd76431b1df70e234494c92370e2391680c98ef.1920x1080.jpg?t=1782290198"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977880/ss_fc97f011126b32f77cbb66a9dc59e22cc353c2b8.1920x1080.jpg?t=1782290198"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977880/ss_cde0e802a2ce50572e16be8422479d5b54181577.1920x1080.jpg?t=1782290198"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977880/ss_c9a1045cf8d4c65cf0bdf38c4b5de7c9a05a0fb9.1920x1080.jpg?t=1782290198"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977880/ss_bf8d65929d363f1b62f632d934eda94ef5188049.1920x1080.jpg?t=1782290198"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977880/ss_d33bc97134437987ed89194d04b39f2e4658df20.1920x1080.jpg?t=1782290198"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977880/ss_29d7dd0891c88b08d699556ed62fcc37f1aea47f.1920x1080.jpg?t=1782290198"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977880/ss_3808968005d3154e95f4ed77c363da176e4dca7c.1920x1080.jpg?t=1782290198"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Day Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256851826/movie.293x165.jpg?t=1631782252",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/977880/401766/15d395f8b6e853b52333c4d4908099b63f0d7305/1750603461/dash_h264.mpd?t=1631782252"
+    },
+    {
+      "name": "Release Date Announcement",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256846408/movie.293x165.jpg?t=1628704672",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/977880/392006/57d4ed23e04ce80f0a7ef2317b0a9f9e01c9975c/1750603412/dash_h264.mpd?t=1628704672"
+    },
+    {
+      "name": "Indie World EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256835330/movie.293x165.jpg?t=1621513184",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/977880/370769/6eae017fa7de2f4ac8ca95e91d73ad2a2d0c963c/1750603392/dash_h264.mpd?t=1621513184"
+    }
+  ],
+  "metacritic": {
+    "score": 82,
+    "url": "https://www.metacritic.com/game/pc/eastward?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 977880,
+    "store_url": "https://store.steampowered.com/app/977880/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Pixel Graphics",
+      "Story Rich",
+      "Adventure",
+      "Singleplayer",
+      "Action RPG",
+      "RPG",
+      "Atmospheric",
+      "Post-apocalyptic",
+      "Action",
+      "JRPG",
+      "2D",
+      "Cute",
+      "Soundtrack",
+      "Female Protagonist",
+      "Relaxing",
+      "Dark",
+      "Indie",
+      "Comedy",
+      "Casual",
+      "Colorful"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 13863,
+    "review_negative": 2647,
+    "review_total": 16510,
+    "review_positive_percent": 83.97
+  }
+}

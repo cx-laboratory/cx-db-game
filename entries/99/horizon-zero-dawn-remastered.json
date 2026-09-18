@@ -1,0 +1,156 @@
+{
+  "key": "horizon-zero-dawn-remastered",
+  "name": "Horizon Zero Dawn™ Remastered",
+  "description": "Experience the critically acclaimed Horizon Zero Dawn™ with stunning new visuals and upgraded features. In a far future where colossal machines roam the Earth, pockets of humanity survive in unique tribes among the lush, overgrown ruins of our long-lost civilization.",
+  "developers": [
+    "Guerrilla Games"
+  ],
+  "publishers": [
+    "PlayStation Publishing LLC"
+  ],
+  "release_date": "2024-10-31",
+  "website": "https://www.guerrilla-games.com/tags/horizon",
+  "tags": [
+    "action",
+    "adventure",
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "arabic",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "《地平线 零之曙光™》重制版",
+    "tchinese": "Horizon Zero Dawn™重製版",
+    "koreana": "Horizon Zero Dawn™ 리마스터",
+    "latam": "Horizon Zero Dawn™ remasterizado",
+    "vietnamese": "Horizon Zero Dawn™ Cải tiến"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "BootLoader.Win64.ReleaseSymRtDbg.exe",
+          "description": "Bootloader",
+          "type": "option1"
+        },
+        {
+          "executable": "NIP.WinGameSteam.Submission.exe",
+          "description": "Submission for dev branches",
+          "type": "default"
+        },
+        {
+          "executable": "HorizonZeroDawnRemastered.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Horizon Zero Dawn™ Remastered",
+    "BootLoader.Win64.ReleaseSymRtDbg",
+    "NIP.WinGameSteam.Submission",
+    "HorizonZeroDawnRemastered",
+    "《地平线 零之曙光™》重制版",
+    "Horizon Zero Dawn™重製版",
+    "Horizon Zero Dawn™ 리마스터",
+    "Horizon Zero Dawn™ remasterizado",
+    "Horizon Zero Dawn™ Cải tiến"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2561580/c4ac0e964ac3391e1c842a4f732d95ccd2227d26.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561580/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561580/507f27b6be81658f406a42e269a2e4b065941ade/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561580/ae8e7f8cc7f0e494e6dfda3ee51161881b49acb7/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561580/82ca173a29578ae2b3946e66b4e892c75dd9fd10/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561580/f7d381646faba25f4d8dc06c90ad62c38dab3664/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561580/ss_cf69250b6b7144244fe5ec715a82e9cf52398715.1920x1080.jpg?t=1750952943"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561580/ss_0e5d0eb8f55e5c201e5bfdaf605ecd20e568771e.1920x1080.jpg?t=1750952943"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561580/ss_eea08b3d6b4fe9c1d44d2c5aeb669cfaec8c0e46.1920x1080.jpg?t=1750952943"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561580/ss_434f39fa7e77ec6e7989acf60a8a5012e9a9c924.1920x1080.jpg?t=1750952943"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561580/ss_d10acc633e3125f9f7b1398f1d2ace380a30cc48.1920x1080.jpg?t=1750952943"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561580/ss_d82500307efed701e12e9b382462322655bb7fb5.1920x1080.jpg?t=1750952943"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561580/ss_a6b53ec7766957393c5bd80e29eb0f846d6335ee.1920x1080.jpg?t=1750952943"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Horizon Zero Dawn Remastered Launch trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257069627/6e3df2a3a6b194b5393cb1438fc80a5dd629fde0/movie_600x337.jpg?t=1730386623",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2561580/779260/e06be4059ea8631d035126b49b91355f8e2a425d/1750817037/dash_h264.mpd?t=1730386623"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2561580,
+    "store_url": "https://store.steampowered.com/app/2561580/",
+    "required_age": 13,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Input API Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 6041,
+    "review_negative": 1126,
+    "review_total": 7167,
+    "review_positive_percent": 84.29
+  }
+}

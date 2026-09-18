@@ -1,0 +1,153 @@
+{
+  "key": "wolfenstein-the-old-blood",
+  "name": "Wolfenstein: The Old Blood",
+  "description": "Wolfenstein®: The Old Blood™ is a standalone prequel to the critically acclaimed first-person action-adventure shooter, Wolfenstein®: The New Order. This adventure spans eight chapters and features the hallmarks of MachineGames – thrilling action, immersive story, and intense FPS combat.",
+  "developers": [
+    "MachineGames"
+  ],
+  "publishers": [
+    "Bethesda Softworks"
+  ],
+  "release_date": "2015-05-05",
+  "website": "http://www.wolfenstein.com",
+  "tags": [
+    "action"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian",
+    "japanese",
+    "polish",
+    "czech"
+  ],
+  "name_localized": {
+    "german": "Wolfenstein: The Old Blood International Version"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "WolfOldBlood_x64.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinSavedGames",
+          "path": "MachineGames/Wolfenstein The Old Blood/base/savegame",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Wolfenstein: The Old Blood",
+    "WolfOldBlood_x64",
+    "Wolfenstein: The Old Blood International Version"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/350080/e45bc4d7a8233546c74f1cbba4e7d7a02bfc53a0.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/ss_eb84aa860eecf04ac1a821043442738e16129ae2.1920x1080.jpg?t=1750784023"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/ss_9b11ca32b4d911518a1a8739b37821e4edd93568.1920x1080.jpg?t=1750784023"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/ss_46340b444145128b105c7d437d54844f817f3a89.1920x1080.jpg?t=1750784023"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/ss_8a491d16e12e8e0f5993716c0ab4e1f02dbbf14e.1920x1080.jpg?t=1750784023"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/ss_8d6d56a6c1b1412ae0e8efd3ef0be1b19af5abd0.1920x1080.jpg?t=1750784023"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/ss_f20272ceef66db3fcc51dd95802d264bb33a7b18.1920x1080.jpg?t=1750784023"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/ss_1eacae802d22881d85e016ddfeab58cab7732e79.1920x1080.jpg?t=1750784023"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/ss_dd8d0a9a8a012ec1324d9775e15651628fb5a502.1920x1080.jpg?t=1750784023"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/ss_05fdc17a2eaac3fbe2a0c6c2f740ee6857e23e15.1920x1080.jpg?t=1750784023"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/ss_07462c9d971491b9c2de7c6f10e0e1a3f2ba503d.1920x1080.jpg?t=1750784023"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/ss_75d514c5a616903225f0112e3fe6f86c2b79dfb6.1920x1080.jpg?t=1750784023"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/ss_01ec432da051cd7af48cdfbb518f5fd992a5b9dd.1920x1080.jpg?t=1750784023"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/ss_3896c9e33382a9fa01e77e117276cc6747acea10.1920x1080.jpg?t=1750784023"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Wolfenstein The Old Blood Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2039114/movie.293x165.jpg?t=1447374088",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/350080/35414/457ad4f0ac318b684a8f0ee91f02a2817208607e/1750513801/dash_h264.mpd?t=1447374088"
+    },
+    {
+      "name": "Wolfenstein The Old Blood Announce Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2037672/movie.293x165.jpg?t=1447370435",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/350080/32366/c072745fe7cf29997aef2beccc0f90e425d4155b/1750513792/dash_h264.mpd?t=1447370435"
+    }
+  ],
+  "metacritic": {
+    "score": 76,
+    "url": "https://www.metacritic.com/game/pc/wolfenstein-the-old-blood?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 350080,
+    "store_url": "https://store.steampowered.com/app/350080/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Color Alternatives",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 20907,
+    "review_negative": 2259,
+    "review_total": 23166,
+    "review_positive_percent": 90.25
+  }
+}

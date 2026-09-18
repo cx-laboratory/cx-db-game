@@ -1,0 +1,151 @@
+{
+  "key": "house-party",
+  "name": "House Party",
+  "description": "House Party is an edgy comedy adventure game inspired by classic comedies of the '90s. Every decision changes your story and every character has something to reveal. There’s also a button to take your pants off.",
+  "developers": [
+    "Eek! Games, LLC"
+  ],
+  "publishers": [
+    "Eek! Games, LLC"
+  ],
+  "release_date": "2022-07-16",
+  "website": "https://housepartygame.com",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "rpg",
+    "simulation"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "Simplified Chinese",
+    "French",
+    "Russian",
+    "Spanish - Latin America",
+    "German",
+    "Turkish",
+    "Italian",
+    "Polish",
+    "Czech*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "HouseParty.exe",
+          "description": "Play",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Eek/House Party/Saves",
+          "pattern": "*.save",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Eek/House Party/Saves/ToolTipData",
+          "pattern": "*.ttsave",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "House Party",
+    "HouseParty"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/611790/ba90873a010477342a3286a2152f5ab6648028ed.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611790/f2ea95879df10cbfed69e5f9f60814c11dd0d370/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611790/dda421ba13dd0dd4614ac6360eeaaaf01893a3cc/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611790/738ebc92e090f58fbcd72b456055aa3714faff6a/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611790/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611790/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611790/ss_6b6723e77311843c7de356538f41a7c03079fa41.1920x1080.jpg?t=1771516030"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611790/ss_73c9a4db9d1b4c219700442f3d083c27e33f1b3f.1920x1080.jpg?t=1771516030"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611790/ss_52356a403b7eceb307fa862512276e3b3bbb80ba.1920x1080.jpg?t=1771516030"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611790/ss_4d84f7b29bc360ccd31dbd4e385e78b9b835c981.1920x1080.jpg?t=1771516030"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611790/ss_2eeadf0ea2d5a7765ee5e69853bc40fd621c5140.1920x1080.jpg?t=1771516030"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611790/ss_bf87d85ed45130ce9e38f19d0f5aa2e584fd33fc.1920x1080.jpg?t=1771516030"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611790/ss_ab432a19e4c88af892e404d5f4ba0d3b855d2eed.1920x1080.jpg?t=1771516030"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611790/ss_4a932ef42de42ffe99e91814cc92bf292aabc8dd.1920x1080.jpg?t=1771516030"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611790/ss_49285ef6106e6109435efe9ebca2f18d72c5bc90.1920x1080.jpg?t=1771516030"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611790/ss_e7bc95ab6aaec6be458d2a8145e6a01be29823a3.1920x1080.jpg?t=1771516030"
+    }
+  ],
+  "videos": [
+    {
+      "name": "House Party Trailer 2024",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256990446/movie.293x165.jpg?t=1703282588",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/611790/643128/c60dd6cf11c583c9a2be45c876b177b554b7eb07/1750562436/dash_h264.mpd?t=1703282588"
+    },
+    {
+      "name": "Customizer Overview",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256990450/movie.293x165.jpg?t=1703282595",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/611790/643133/76f5f32dbb304c3d6e0a787b5de7537d5e59b4cd/1750562447/dash_h264.mpd?t=1703282595"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 611790,
+    "store_url": "https://store.steampowered.com/app/611790/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 13192,
+    "review_negative": 2169,
+    "review_total": 15361,
+    "review_positive_percent": 85.88
+  }
+}

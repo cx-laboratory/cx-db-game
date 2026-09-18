@@ -1,0 +1,191 @@
+{
+  "key": "kingdoms-reborn",
+  "name": "Kingdoms Reborn",
+  "description": "A city builder with simulated citizens, set in a procedurally-generated world map. Grow your kingdom through the eras from a tiny medieval hamlet into a prosperous global empire! Cooperate or compete in real-time with your friends in multiplayer mode.",
+  "developers": [
+    "Earthshine"
+  ],
+  "publishers": [
+    "Earthshine"
+  ],
+  "release_date": "2020-11-03",
+  "website": "https://kingdomsreborn.com/",
+  "tags": [
+    "indie",
+    "simulation",
+    "strategy",
+    "early-access",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "city-builder",
+    "colony-sim",
+    "base-building",
+    "management",
+    "economy",
+    "resource-management",
+    "medieval",
+    "building",
+    "singleplayer",
+    "rts",
+    "open-world",
+    "procedural-generation",
+    "survival",
+    "card-game"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German",
+    "Japanese",
+    "Polish",
+    "Russian",
+    "Simplified Chinese",
+    "Hungarian",
+    "Thai"
+  ],
+  "name_localized": {
+    "schinese": "Kingdoms Reborn 王国重生"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "KingdomsReborn.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "PunCity\\Saved\\GameSaves",
+          "pattern": "*.dat",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Kingdoms Reborn",
+    "KingdomsReborn",
+    "Kingdoms Reborn 王国重生"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1307890/c3f94bfe90b72d45ffd81875b3017a6a66191d14.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307890/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307890/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307890/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307890/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307890/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307890/ss_24f536a9ec7012f96bb7c82d472b09fbedcab13c.1920x1080.jpg?t=1710049664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307890/ss_c49480fb42b09f54e519643350e0aeb0b6b149ba.1920x1080.jpg?t=1710049664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307890/ss_0d07967f4227fec8ffe44145f4d576f90e1bbf9b.1920x1080.jpg?t=1710049664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307890/ss_5bf778fda494a6221f6ca265fd712d73033d79a8.1920x1080.jpg?t=1710049664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307890/ss_6c2ba63e5e1744883e6feb675dab360ba63b7d4b.1920x1080.jpg?t=1710049664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307890/ss_46f7f58cbaf38aacfc4c9e9e46d3ec9c895a29ac.1920x1080.jpg?t=1710049664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307890/ss_e4c69bc48b9ae6ff4d532a4399a93cea3dcc4008.1920x1080.jpg?t=1710049664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307890/ss_0343dcbfe4db96d4d353d2d77a8869918c03f08d.1920x1080.jpg?t=1710049664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307890/ss_31cd880e4c719630c3fa1ee6d65d4d605e38241c.1920x1080.jpg?t=1710049664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307890/ss_8f28df832e853379a3e57fe9666137a18ab95078.1920x1080.jpg?t=1710049664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307890/ss_c195b2fd5c55ee679cb293a90e1c18883ebae598.1920x1080.jpg?t=1710049664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307890/ss_e5e674e52d0659462732f63206cb8807435ed4a8.1920x1080.jpg?t=1710049664"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256800870/movie.293x165.jpg?t=1684504665",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1307890/312022/dae7065b7c3d775a4afd65d0b992d62324c5ec20/1750671318/dash_h264.mpd?t=1684504665"
+    },
+    {
+      "name": "Japan Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256947869/movie.293x165.jpg?t=1684504670",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1307890/569580/6f0321e96c2034568e7dcfdf08e933f5c3d31eca/1750671320/dash_h264.mpd?t=1684504670"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1307890,
+    "store_url": "https://store.steampowered.com/app/1307890/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Family Sharing"
+    ],
+    "tags": [
+      "City Builder",
+      "Colony Sim",
+      "Base Building",
+      "Multiplayer",
+      "Management",
+      "Strategy",
+      "Co-op",
+      "Economy",
+      "Resource Management",
+      "Medieval",
+      "Simulation",
+      "PvP",
+      "Early Access",
+      "Building",
+      "Singleplayer",
+      "RTS",
+      "Open World",
+      "Procedural Generation",
+      "Survival",
+      "Card Game"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8738,
+    "review_negative": 918,
+    "review_total": 9656,
+    "review_positive_percent": 90.49
+  }
+}

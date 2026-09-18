@@ -1,0 +1,229 @@
+{
+  "key": "sid-meiers-civilization-v",
+  "name": "Sid Meier's Civilization V",
+  "description": "Create, discover, and download new player-created maps, scenarios, interfaces, and more!",
+  "developers": [
+    "Firaxis Games"
+  ],
+  "publishers": [
+    "2K"
+  ],
+  "release_date": "2010-09-22",
+  "website": "http://www.civilization.com",
+  "tags": [
+    "strategy",
+    "multiplayer",
+    "turn-based-strategy",
+    "turn-based",
+    "historical",
+    "4x",
+    "addictive",
+    "singleplayer",
+    "hex-grid",
+    "grand-strategy",
+    "replay-value",
+    "co-op",
+    "economy",
+    "tactical",
+    "diplomacy",
+    "moddable",
+    "simulation",
+    "classic",
+    "great-soundtrack",
+    "touch-friendly"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish"
+  ],
+  "name_localized": {
+    "schinese": "文明V"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Launcher.exe",
+          "description": "Sid Meier's Civilization V - Legacy Launcher",
+          "type": "default"
+        },
+        {
+          "executable": "LaunchPad/LaunchPad.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "LaunchPad/LaunchPad.exe",
+          "description": "Launchconfig launchpad",
+          "type": "default"
+        },
+        {
+          "executable": "CivilizationV.exe",
+          "description": "Sid Meier’s Civilization V (DirectX 9)",
+          "type": "option1"
+        },
+        {
+          "executable": "CivilizationV_DX11.exe",
+          "description": "Sid Meier’s Civilization V (DirectX 10/11)",
+          "type": "option2"
+        },
+        {
+          "executable": "CivilizationV_Tablet.exe",
+          "description": "Sid Meier’s Civilization V (Touch)",
+          "type": "option3"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Civilization V.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "./Civ5XP",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Sid Meier's Civilization V",
+    "Launcher",
+    "LaunchPad/LaunchPad",
+    "CivilizationV",
+    "CivilizationV_DX11",
+    "CivilizationV_Tablet",
+    "Civilization V.app",
+    "./Civ5XP"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/8930/fbe80c4743e226f0bf65559c91b12953d4446808.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8930/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8930/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8930/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8930/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8930/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8930/ss_7082faf1b0941ddbc4ba9dab5807a9b5e77d72f9.1920x1080.jpg?t=1724341158"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8930/ss_e6f9ef54f06ffebc9445d8b29d8d2054fa3185d4.1920x1080.jpg?t=1724341158"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8930/ss_aa383406a5f2979598b543d8f272d3ac145e357a.1920x1080.jpg?t=1724341158"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8930/ss_84ee7ab3b0148a260359f8d5a78a2ab9033aa695.1920x1080.jpg?t=1724341158"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8930/ss_5dfcd65b611b35a9dc126335dca2d48ef8180106.1920x1080.jpg?t=1724341158"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Sid Meier's Civilization® V Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5690/movie.293x165.jpg?t=1447353146",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/8930/3528/4c8fd508e810c14095ccbee38b9cd26ed45baa9a/1750484171/dash_h264.mpd?t=1447353146"
+    },
+    {
+      "name": "Civ V DLC Explorers Map Pack Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80825/movie.293x165.jpg?t=1447354197",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/8930/5102/83eede39e6751ee6d75193083568f169948991b2/1750484182/dash_h264.mpd?t=1447354197"
+    },
+    {
+      "name": "Civ V DLC Denmark Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80824/movie.293x165.jpg?t=1447354198",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/8930/5103/6f1846fa3645c7e3f244d3bd1a2eb82e38a7489b/1750484182/dash_h264.mpd?t=1447354198"
+    },
+    {
+      "name": "Civilization V - Polynesia DLC Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80682/movie.293x165.jpg?t=1447354028",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/8930/4836/a2aee9cd35aad4e0b211dc9940a886e4fe0110ff/1750484176/dash_h264.mpd?t=1447354028"
+    },
+    {
+      "name": "Double Civ DLC - Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80493/movie.293x165.jpg?t=1447353808",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/8930/4487/6d4a12ab06fd0c1fbece0b10bcf449f100edc5b6/1750484176/dash_h264.mpd?t=1447353808"
+    }
+  ],
+  "metacritic": {
+    "score": 90,
+    "url": "https://www.metacritic.com/game/pc/sid-meiers-civilization-v?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 8930,
+    "store_url": "https://store.steampowered.com/app/8930/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Turn-Based Strategy",
+      "Strategy",
+      "Turn-Based",
+      "Multiplayer",
+      "Historical",
+      "4X",
+      "Addictive",
+      "Singleplayer",
+      "Hex Grid",
+      "Grand Strategy",
+      "Replay Value",
+      "Co-op",
+      "Economy",
+      "Tactical",
+      "Diplomacy",
+      "Moddable",
+      "Simulation",
+      "Classic",
+      "Great Soundtrack",
+      "Touch-Friendly"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 200732,
+    "review_negative": 9243,
+    "review_total": 209975,
+    "review_positive_percent": 95.6
+  }
+}

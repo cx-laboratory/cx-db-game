@@ -1,0 +1,171 @@
+{
+  "key": "team-fortress-classic",
+  "name": "Team Fortress Classic",
+  "description": "One of the most popular online action games of all time, Team Fortress Classic features over nine character classes -- from Medic to Spy to Demolition Man -- enlisted in a unique style of online team warfare. Each character class possesses unique weapons, items, and abilities, as teams compete online in a variety of game play modes.",
+  "developers": [
+    "Valve"
+  ],
+  "publishers": [
+    "Valve"
+  ],
+  "release_date": "1999-04-01",
+  "website": "http://www.steampowered.com/",
+  "tags": [
+    "action",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "fps",
+    "classic",
+    "shooter",
+    "hero-shooter",
+    "team-based",
+    "class-based",
+    "first-person",
+    "1990-s",
+    "old-school",
+    "co-op",
+    "competitive",
+    "fast-paced",
+    "retro",
+    "online-co-op",
+    "violent",
+    "mod",
+    "funny",
+    "remake"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish - Spain",
+    "Korean",
+    "Russian",
+    "Simplified Chinese",
+    "Traditional Chinese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "hl.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "hl.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "hl.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Team Fortress Classic",
+    "hl",
+    "hl.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/20/38ea7ebe3c1abbbbf4eabdbef174c41a972102b9.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000164.1920x1080.jpg?t=1745368565"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000165.1920x1080.jpg?t=1745368565"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000166.1920x1080.jpg?t=1745368565"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000167.1920x1080.jpg?t=1745368565"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000168.1920x1080.jpg?t=1745368565"
+    }
+  ],
+  "videos": [],
+  "metacritic": null,
+  "steam": {
+    "appid": 20,
+    "store_url": "https://store.steampowered.com/app/20/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Custom Volume Controls",
+      "Keyboard Only Option",
+      "Stereo Sound",
+      "Valve Anti-Cheat enabled",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Action",
+      "FPS",
+      "Multiplayer",
+      "Classic",
+      "Shooter",
+      "Hero Shooter",
+      "Team-Based",
+      "Class-Based",
+      "First-Person",
+      "1990's",
+      "Old School",
+      "Co-op",
+      "Competitive",
+      "Fast-Paced",
+      "Retro",
+      "Online Co-Op",
+      "Violent",
+      "Mod",
+      "Funny",
+      "Remake"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8018,
+    "review_negative": 1184,
+    "review_total": 9202,
+    "review_positive_percent": 87.13
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "key": "postal-2",
+  "name": "POSTAL 2",
+  "description": "Live a week in the life of &quot;The POSTAL Dude&quot;; a hapless everyman just trying to check off some chores. Buying milk, returning an overdue library book, getting Gary Coleman's autograph, what could possibly go wrong?",
+  "developers": [
+    "Running With Scissors"
+  ],
+  "publishers": [
+    "Running With Scissors"
+  ],
+  "release_date": "2012-11-02",
+  "website": "http://www.runningwithscissors.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "English*",
+    "Russian*",
+    "Simplified Chinese*",
+    "Spanish - Spain",
+    "Turkish*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "System\\Postal2.exe",
+          "description": "POSTAL 2",
+          "type": "default"
+        },
+        {
+          "executable": "ShareThePain\\System\\Postal2MP.exe",
+          "description": "Multiplayer (Unsupported)",
+          "type": "none"
+        },
+        {
+          "executable": "Paradise Lost\\System\\ParadiseLost.exe",
+          "description": "POSTAL 2: Paradise Lost",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "System/postal2-bin",
+          "description": "POSTAL 2",
+          "type": "none"
+        },
+        {
+          "executable": "Paradise Lost/System/paradiselost-bin",
+          "description": "POSTAL 2: Paradise Lost",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "POSTAL 2",
+    "System\\Postal2",
+    "ShareThePain\\System\\Postal2MP",
+    "Paradise Lost\\System\\ParadiseLost",
+    "System/postal2-bin",
+    "Paradise Lost/System/paradiselost-bin"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/223470/1b6787955f48e75db92205e7db5ad820cf7d5251.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223470/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223470/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223470/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223470/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223470/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223470/ss_13e460aa2915fb31bdbd723365e7965c9accf117.1920x1080.jpg?t=1782946265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223470/ss_9d4e64b002c7142fa9ddb6ea868c9d54e7a1798b.1920x1080.jpg?t=1782946265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223470/ss_92337c91044cd4ad767c856469db49d31841bf6b.1920x1080.jpg?t=1782946265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223470/ss_389ccbcd731e6adf1a596a19aafc03102806ebc1.1920x1080.jpg?t=1782946265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223470/ss_0cd804ecb534e4346001f083f0920af543299e89.1920x1080.jpg?t=1782946265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223470/ss_df69841962a068dbeb740aff9108cb5dde6b3d6c.1920x1080.jpg?t=1782946265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223470/ss_4b7640c0d921556fb756095652c06b7fe4c392af.1920x1080.jpg?t=1782946265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223470/ss_9b2701c550ce34697b1870f9855af493cb25622a.1920x1080.jpg?t=1782946265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223470/ss_5864b644327fef8ce721d16d9265cad4dd825add.1920x1080.jpg?t=1782946265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223470/ss_09f3197d600150b37f314c96dccd20d5f1b31e8a.1920x1080.jpg?t=1782946265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223470/ss_a7f2151b4b7b0dfbd71f249d3d87c0d1eb986ca7.1920x1080.jpg?t=1782946265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223470/ss_1b39fa4155143bf01662a1e08fbe07e1f009a4fc.1920x1080.jpg?t=1782946265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223470/ss_b4d8fcdab89dd33564cfb8e594b266127a1c28e8.1920x1080.jpg?t=1782946265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223470/ss_a6e84d81eec795605a3a08bdb747663c44cba615.1920x1080.jpg?t=1782946265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223470/ss_919cc4fdf25a69d2887b2a10d3a6c929d2cca278.1920x1080.jpg?t=1782946265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223470/ss_5bb9843df667184ca7d1af81404883b985b80c0e.1920x1080.jpg?t=1782946265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223470/ss_b79d151be7c32b457fedf46e9105aebb19dc98fe.1920x1080.jpg?t=1782946265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223470/ss_07c8c11783b5121cc38c459a5a1463561e5847f7.1920x1080.jpg?t=1782946265"
+    }
+  ],
+  "videos": [
+    {
+      "name": "POSTAL 2 - Official Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2040802/movie.293x165.jpg?t=1456997327",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/223470/39299/cc6b02a534770ef7d82632acb92fcbc4b1b21083/1750481844/dash_h264.mpd?t=1456997327"
+    },
+    {
+      "name": "POSTAL 2 - Fan Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2030497/movie.293x165.jpg?t=1459239808",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/223470/16111/6701095ffdd01c2d02f10dafdc36bf3cb7b29f04/1750481757/dash_h264.mpd?t=1459239808"
+    }
+  ],
+  "metacritic": {
+    "score": 59,
+    "url": "https://www.metacritic.com/game/pc/postal-2-share-the-pain?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 223470,
+    "store_url": "https://store.steampowered.com/app/223470/",
+    "required_age": 18,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 130937,
+    "review_negative": 4110,
+    "review_total": 135047,
+    "review_positive_percent": 96.96
+  }
+}

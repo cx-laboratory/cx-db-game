@@ -1,0 +1,171 @@
+{
+  "key": "the-swapper",
+  "name": "The Swapper",
+  "description": "What if someone knew your mind better than you did? The Swapper is an award-winning, narrative driven puzzle game set in the furthest reaches of space.",
+  "developers": [
+    "Olli Harjola, Otto Hantula, Tom Jubert, Carlo Castellano"
+  ],
+  "publishers": [
+    "Facepalm Games"
+  ],
+  "release_date": "2013-05-31",
+  "website": "http://facepalmgames.com/the-swapper",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "puzzle",
+    "sci-fi",
+    "atmospheric",
+    "space",
+    "platformer",
+    "puzzle-platformer",
+    "singleplayer",
+    "philosophical",
+    "great-soundtrack",
+    "2d",
+    "metroidvania",
+    "mystery",
+    "exploration",
+    "story-rich",
+    "side-scroller",
+    "difficult"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "TheSwapper.exe",
+          "description": "Play Game...",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "SavesDir",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The Swapper",
+    "TheSwapper"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/231160/4d3e99b7d885baba60ea29ee1634cc58bf22e41d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231160/18296f9c4adf96ec1aedc3daf8b817afbc41f740/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231160/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231160/8825860664c5d8e1af1140101891282bb31fa797/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231160/8b4f86a9862ca62fd104ad8124516c68d145dbd6/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231160/4d4960ee646dba23af460ee3e92c2bc698490f85/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231160/ss_8de69a913406640b7f818ea9ad8559e3f44d4223.1920x1080.jpg?t=1742578969"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231160/ss_d3aa954a66823719f9e9f32b098a6d15bcd00605.1920x1080.jpg?t=1742578969"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231160/ss_c74bac7962fabb415b37ac8b9aecab000af00daa.1920x1080.jpg?t=1742578969"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231160/ss_343c9451cde43171c4bff1a5dd8ffc1f952a69dc.1920x1080.jpg?t=1742578969"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231160/ss_74db6d8995bf338c38c9ba8158259c8d4fb76500.1920x1080.jpg?t=1742578969"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231160/ss_0d2aabd0a54815ef72f649af6ec44391f9ec36eb.1920x1080.jpg?t=1742578969"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231160/ss_3f23084bcf1462c36e4610318feb9f6eb6b19655.1920x1080.jpg?t=1742578969"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231160/ss_22f0c121f82078c7167e3f4dd8d9e083f14699fe.1920x1080.jpg?t=1742578969"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231160/ss_38c7134030aa29fb399c3c0461bd7e8deb9305a9.1920x1080.jpg?t=1742578969"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231160/ss_1b677e7945c3d51a6747d892f43f4ad362e5fcec.1920x1080.jpg?t=1742578969"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Swapper Trailer 2",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028727/movie.293x165.jpg?t=1447357957",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/231160/11673/5d309cf87a908ea69e4b25e5820477f6a3c09952/1751278986/dash_h264.mpd?t=1447357957"
+    },
+    {
+      "name": "The Swapper Trailer 1",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028726/movie.293x165.jpg?t=1447357957",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/231160/11672/1783bc4c5085fef6d842873736c9aca73ae444ff/1751278984/dash_h264.mpd?t=1447357957"
+    }
+  ],
+  "metacritic": {
+    "score": 87,
+    "url": "https://www.metacritic.com/game/pc/the-swapper?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 231160,
+    "store_url": "https://store.steampowered.com/app/231160/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Puzzle",
+      "Sci-fi",
+      "Atmospheric",
+      "Indie",
+      "Space",
+      "Platformer",
+      "Puzzle Platformer",
+      "Singleplayer",
+      "Adventure",
+      "Philosophical",
+      "Great Soundtrack",
+      "2D",
+      "Psychological Horror",
+      "Metroidvania",
+      "Mystery",
+      "Exploration",
+      "Story Rich",
+      "Action",
+      "Side Scroller",
+      "Difficult"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7107,
+    "review_negative": 444,
+    "review_total": 7551,
+    "review_positive_percent": 94.12
+  }
+}

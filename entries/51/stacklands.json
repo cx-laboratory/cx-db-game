@@ -1,0 +1,191 @@
+{
+  "key": "stacklands",
+  "name": "Stacklands",
+  "description": "Stacklands is a village builder where you stack cards to collect food, build structures, and fight creatures. 🃏 For example, dragging a Villager card on top of a Berry Bush card will spawn Berry cards which the villagers can eat to survive. 🃏 Play your cards right and expand your village!",
+  "developers": [
+    "Sokpop Collective"
+  ],
+  "publishers": [
+    "Sokpop Collective"
+  ],
+  "release_date": "2022-04-09",
+  "website": "https://sokpop.co",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "card-game",
+    "management",
+    "survival",
+    "roguelike",
+    "roguelite",
+    "card-battler",
+    "city-builder",
+    "strategy",
+    "building",
+    "solitaire",
+    "singleplayer",
+    "2d",
+    "deckbuilding",
+    "tabletop",
+    "cute",
+    "hand-drawn",
+    "colorful",
+    "fantasy"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "japanese",
+    "polish",
+    "dutch",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Stacklands.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "sokpop/Stacklands",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Stacklands.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "sokpop/Stacklands",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Stacklands",
+    "Stacklands.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1948280/23fe385571e311477310e092901af4273e546ad8.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948280/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948280/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948280/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948280/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948280/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948280/ss_8a4eae84cdc5e8996a33d66c22f1537568654aaf.1920x1080.jpg?t=1769357052"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948280/ss_962b1fd0961f54cd3b7c3f7a5181ef9f260ff1af.1920x1080.jpg?t=1769357052"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948280/ss_bd3af9ad2dc489246661bb4fe0488a4ccacf7d3f.1920x1080.jpg?t=1769357052"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948280/ss_4a2a44468bec65a6beb57138cdac779154fc4529.1920x1080.jpg?t=1769357052"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948280/ss_c3d850ba32dc7ed66d5691966cef7e5724f6dfbc.1920x1080.jpg?t=1769357052"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948280/ss_47047d138a4296b482fd1a5b8259b59792399348.1920x1080.jpg?t=1769357052"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948280/ss_ae83d3bd517b9757090162c4f64b4f789b543c00.1920x1080.jpg?t=1769357052"
+    }
+  ],
+  "videos": [
+    {
+      "name": "gameplay_trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256880780/movie.293x165.jpg?t=1649308329",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1948280/452454/158e9270f2a1ebd685a2521018bacdffd2f99de7/1750742401/dash_h264.mpd?t=1649308329"
+    },
+    {
+      "name": "general",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256881669/movie.293x165.jpg?t=1649667836",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1948280/454289/c00a251615aed934053761d8c9661cd7285be2eb/1750742402/dash_h264.mpd?t=1649667836"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1948280,
+    "store_url": "https://store.steampowered.com/app/1948280/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Card Game",
+      "Management",
+      "Survival",
+      "Roguelite",
+      "Card Battler",
+      "City Builder",
+      "Strategy",
+      "Building",
+      "Solitaire",
+      "Singleplayer",
+      "2D",
+      "Deckbuilding",
+      "Tabletop",
+      "Cute",
+      "Simulation",
+      "Indie",
+      "Hand-drawn",
+      "Casual",
+      "Colorful",
+      "Fantasy"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 28607,
+    "review_negative": 1165,
+    "review_total": 29772,
+    "review_positive_percent": 96.09
+  }
+}

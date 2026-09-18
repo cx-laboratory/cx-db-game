@@ -1,0 +1,124 @@
+{
+  "key": "need-for-speed-rivals",
+  "name": "Need for Speed™ Rivals",
+  "description": "Erase the line between single player and multiplayer in this street-racing rivalry between Cops and Racers. Seamlessly join a world where your friends are already racing and chasing",
+  "developers": [
+    "Criterion Games"
+  ],
+  "publishers": [
+    "Electronic Arts"
+  ],
+  "release_date": "2020-06-04",
+  "website": "https://www.ea.com/games/need-for-speed",
+  "tags": [
+    "action",
+    "adventure",
+    "racing",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French*",
+    "Italian*",
+    "German*",
+    "Spanish - Spain*",
+    "Portuguese - Brazil",
+    "Dutch",
+    "Polish",
+    "Russian*",
+    "Japanese*",
+    "Traditional Chinese*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "link2ea://launchgame/1262600?platform=steam&theme=nfsr",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Need for Speed™ Rivals",
+    "link2ea://launchgame/1262600?platform=steam&theme=nfsr"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1262600/b1377c82f5895612bc8ff0ccacae48dcff9dcd17.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262600/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262600/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262600/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262600/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262600/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262600/ss_973335e826e450b176fdc5e54c003ffbdf48a8c2.1920x1080.jpg?t=1777394510"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262600/ss_25ed9eea91e7d3d582eebc4d3df2a03cbc4ac295.1920x1080.jpg?t=1777394510"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262600/ss_e8801aa10a3a3089d34672a7e28bcb9d711c8d46.1920x1080.jpg?t=1777394510"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262600/ss_990f6c9a6888e240eade54a03877f4a78bb737d6.1920x1080.jpg?t=1777394510"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262600/ss_8461cce6d26b96253870ebd962e890eb69264ba6.1920x1080.jpg?t=1777394510"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Need for Speed Rivals 1",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256787680/movie.293x165.jpg?t=1591282645",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1262600/289970/4ed1fa0661264fd2dbd47303dcd9d4c519793ac8/1750657220/dash_h264.mpd?t=1591282645"
+    }
+  ],
+  "metacritic": {
+    "score": 76,
+    "url": "https://www.metacritic.com/game/pc/need-for-speed-rivals?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1262600,
+    "store_url": "https://store.steampowered.com/app/1262600/",
+    "required_age": 10,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Racing"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Full controller support",
+      "Steam Trading Cards"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 7636,
+    "review_negative": 2457,
+    "review_total": 10093,
+    "review_positive_percent": 75.66
+  }
+}

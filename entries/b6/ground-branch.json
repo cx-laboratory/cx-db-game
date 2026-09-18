@@ -1,0 +1,222 @@
+{
+  "key": "ground-branch",
+  "name": "GROUND BRANCH",
+  "description": "From one of the developers behind the original Rainbow Six® and Ghost Recon® games, comes a thinking-man's first-person shooter featuring in-depth character and weapon customization. Take your time. Think ahead. Get the job done.",
+  "developers": [
+    "BlackFoot Studios"
+  ],
+  "publishers": [
+    "MicroProse Software"
+  ],
+  "release_date": "2018-08-14",
+  "website": "https://www.groundbranch.com",
+  "tags": [
+    "action",
+    "indie",
+    "simulation",
+    "early-access",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "tactical",
+    "realistic",
+    "military",
+    "fps",
+    "shooter",
+    "singleplayer",
+    "first-person",
+    "gun-customization",
+    "war",
+    "strategy",
+    "team-based",
+    "sandbox",
+    "atmospheric"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "GroundBranch.exe",
+          "description": "GROUND BRANCH DX11",
+          "type": "default"
+        },
+        {
+          "executable": "GroundBranch.exe",
+          "description": "GROUND BRANCH DX12",
+          "type": "option2"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "GroundBranch",
+          "pattern": "*.kit",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "GROUND BRANCH",
+    "GroundBranch"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/16900/61d821abae6880b59dd17ac99901279ed1d4968b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/9f7df73fe0ee56f03a11a18ebd758b0e7cec3941/ss_9f7df73fe0ee56f03a11a18ebd758b0e7cec3941.1920x1080.jpg?t=1782827644"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/525f727afe1d876f25f223c822785e58dd6a33ce/ss_525f727afe1d876f25f223c822785e58dd6a33ce.1920x1080.jpg?t=1782827644"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/1efd87fad179182b299901125ac907cbb0de37c9/ss_1efd87fad179182b299901125ac907cbb0de37c9.1920x1080.jpg?t=1782827644"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/d4f7532c2b0834a09c515d86f1d540cfbb025f1b/ss_d4f7532c2b0834a09c515d86f1d540cfbb025f1b.1920x1080.jpg?t=1782827644"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/d8300984c08d38190c2bba3e7adc3ed1bc7099af/ss_d8300984c08d38190c2bba3e7adc3ed1bc7099af.1920x1080.jpg?t=1782827644"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/92ba9d54530c7443d54633e4f39cc5771799d827/ss_92ba9d54530c7443d54633e4f39cc5771799d827.1920x1080.jpg?t=1782827644"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/7d844f07c533381c215d5971046bc775290e9b70/ss_7d844f07c533381c215d5971046bc775290e9b70.1920x1080.jpg?t=1782827644"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/7c2e64a284c89e44df88062d5e927817e03c0c0a/ss_7c2e64a284c89e44df88062d5e927817e03c0c0a.1920x1080.jpg?t=1782827644"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/772a67929e86e0a130487a74db32adbe95a5102e/ss_772a67929e86e0a130487a74db32adbe95a5102e.1920x1080.jpg?t=1782827644"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/2b1472b9fa9375a96e66d00e8059f6fb025ff4a2/ss_2b1472b9fa9375a96e66d00e8059f6fb025ff4a2.1920x1080.jpg?t=1782827644"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/324b1d59d5d2fc0e45aeafe00874f0787d058f30/ss_324b1d59d5d2fc0e45aeafe00874f0787d058f30.1920x1080.jpg?t=1782827644"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/ec08ffddb73069b4cd732aee26ef59efb3611bc8/ss_ec08ffddb73069b4cd732aee26ef59efb3611bc8.1920x1080.jpg?t=1782827644"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/6c5a176769b0226191fe89caa8919fa82eff3e81/ss_6c5a176769b0226191fe89caa8919fa82eff3e81.1920x1080.jpg?t=1782827644"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/3a4a2c30748b9e0cf7fe3f1478519d52d80aa04c/ss_3a4a2c30748b9e0cf7fe3f1478519d52d80aa04c.1920x1080.jpg?t=1782827644"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/65cc71e496391acf688e252638888ed9907c9b8b/ss_65cc71e496391acf688e252638888ed9907c9b8b.1920x1080.jpg?t=1782827644"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/9fc4d2f0134b51c8f49e51ecd60365d59ea76612/ss_9fc4d2f0134b51c8f49e51ecd60365d59ea76612.1920x1080.jpg?t=1782827644"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/49ded900faedc1ab61fd1d44cbf4f002bbbfc0ba/ss_49ded900faedc1ab61fd1d44cbf4f002bbbfc0ba.1920x1080.jpg?t=1782827644"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/9623cf54965204e75eccabdf9f0c8071649965a0/ss_9623cf54965204e75eccabdf9f0c8071649965a0.1920x1080.jpg?t=1782827644"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/16900/b65c352390d88382a61f457377187467a24b0d0e/ss_b65c352390d88382a61f457377187467a24b0d0e.1920x1080.jpg?t=1782827644"
+    }
+  ],
+  "videos": [
+    {
+      "name": "1.0 release date",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257368292/2ff0a95a416f1062b75032d75cb5153ad1e97176/movie_600x337.jpg?t=1782817122",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/16900/1854923448/52336bdf9f6fc50466fbab527316a0377c491f72/1782813711/dash_h264.mpd?t=1782817122"
+    },
+    {
+      "name": "V1035 Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257138456/f0d2a8ecc681c5f5290293f87d837625208cfa05/movie_600x337.jpg?t=1747049836",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/16900/20277739/93179290a1ff0af2f7c139d53f4b9b056c106ace/1750480953/dash_h264.mpd?t=1747049836"
+    },
+    {
+      "name": "V1034 Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257010234/movie.293x165.jpg?t=1711054295",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/16900/677989/a24578cb5ebe852336ef2a5b5b61473977af7fe0/1750480953/dash_h264.mpd?t=1711054295"
+    },
+    {
+      "name": "V1033 Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256936148/movie.293x165.jpg?t=1678989791",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/16900/548977/cc44465ca10c149df245ed74a305d605c2754e6a/1750480953/dash_h264.mpd?t=1678989791"
+    },
+    {
+      "name": "V1032 Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256871046/movie.293x165.jpg?t=1643333532",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/16900/435185/9b768f4d21fcf2ea44ba38de51502037eaf979d7/1750480953/dash_h264.mpd?t=1643333532"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 16900,
+    "store_url": "https://store.steampowered.com/app/16900/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Tactical",
+      "Realistic",
+      "Military",
+      "FPS",
+      "Shooter",
+      "Multiplayer",
+      "Singleplayer",
+      "Simulation",
+      "Action",
+      "Co-op",
+      "First-Person",
+      "Gun Customization",
+      "War",
+      "Online Co-Op",
+      "Early Access",
+      "Indie",
+      "Strategy",
+      "Team-Based",
+      "Sandbox",
+      "Atmospheric"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 20748,
+    "review_negative": 2732,
+    "review_total": 23480,
+    "review_positive_percent": 88.36
+  }
+}

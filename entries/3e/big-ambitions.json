@@ -1,0 +1,229 @@
+{
+  "key": "big-ambitions",
+  "name": "Big Ambitions",
+  "description": "Big Ambitions is a revolutionary role-playing business sim. Go from nothing to the biggest entrepreneur in New York by opening small businesses or slowly building huge corporations any way you like.",
+  "developers": [
+    "Hovgaard Games"
+  ],
+  "publishers": [
+    "Hovgaard Games"
+  ],
+  "release_date": "2023-03-11",
+  "website": "https://www.bigambitionsgame.com",
+  "tags": [
+    "indie",
+    "simulation",
+    "early-access",
+    "management",
+    "economy",
+    "capitalism",
+    "life-sim",
+    "sandbox",
+    "singleplayer",
+    "resource-management",
+    "inventory-management",
+    "time-management",
+    "immersive-sim",
+    "3d",
+    "top-down",
+    "third-person",
+    "open-world",
+    "rpg",
+    "modern",
+    "stylized",
+    "isometric"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Korean",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Turkish",
+    "Italian",
+    "Traditional Chinese",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "Finnish",
+    "Greek",
+    "Hungarian",
+    "Japanese",
+    "Polish",
+    "Romanian",
+    "Ukrainian",
+    "Lithuanian*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Big Ambitions.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Hovgaard Games/Big Ambitions/SaveGames",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Big Ambitions.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Hovgaard Games/Big Ambitions/SaveGames",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Big Ambitions",
+    "Big Ambitions.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1331550/60aebf00570326de512e63db245f1da5a82e30b8.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/d6e6e1bf8235086c0a2197b55a11f8759fd3a563/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/27887038a8d3efc49f1deb9ca56bb9c9b5de2530/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/4eca4f38251958a2e3df2644ef15a8c509123b17/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/ss_0f84cea5cfa82f4572cccba73d5aff03b173c664.1920x1080.jpg?t=1781802607"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/ss_fe4c474439f12cd49e1a85335fe1a7338174ac62.1920x1080.jpg?t=1781802607"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/ss_ec43fb7bbd4ea891c9e5ae8f3b349d4bad302b77.1920x1080.jpg?t=1781802607"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/ss_1281f226a17d8fb645a74480641a4e28898ae4dc.1920x1080.jpg?t=1781802607"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/ss_b824340b7d1aa0bcc915bff056d36a0e405e5c53.1920x1080.jpg?t=1781802607"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/ss_62d68f7a0f628875d1e8d9d38346e1646dac0bef.1920x1080.jpg?t=1781802607"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/ss_64b1d11f3b428d5fa05724fb4015bf8b357a03ca.1920x1080.jpg?t=1781802607"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/ss_e47fc64e7e9d43217a3200007a8d9a6994688f3e.1920x1080.jpg?t=1781802607"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/ss_dbb76912d0bf83785b08f6a74601ac798b50b80c.1920x1080.jpg?t=1781802607"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/ss_5d935ca62c456d37ac6bd0814bd75f89d758e643.1920x1080.jpg?t=1781802607"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/ss_c8a01138363d182b95d332ad30599eff4b01add9.1920x1080.jpg?t=1781802607"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/ss_e458adaa75d6f7e5bc74c3083043f8ae58704c09.1920x1080.jpg?t=1781802607"
+    }
+  ],
+  "videos": [
+    {
+      "name": "EA 0.11 Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257361932/764b568a331870db89b94c0577de976fe48565a5/movie_600x337.jpg?t=1781802599",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1331550/165487864/0c61c04d8e7d44d3b65566602570eab2d1263378/1781800994/dash_h264.mpd?t=1781802599"
+    },
+    {
+      "name": "EA 0.10 Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257304957/affdd1ae569a7b005f2c01804419e3da54cd7846/movie_600x337.jpg?t=1773760920",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1331550/1709053309/f1b201b3b26da25256db3fa5f4d9a07f023f1c28/1773757563/dash_h264.mpd?t=1773760920"
+    },
+    {
+      "name": "EA 0.9 Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257211219/189f9b3f1dcf42213a0a8f80bf086551d50ec9b0/movie_600x337.jpg?t=1759508497",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1331550/288013081/b15e6c6d1b427a08258087be6bfe30e89444985c/1759480306/dash_h264.mpd?t=1759508497"
+    },
+    {
+      "name": "EA 0.8 Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257142139/54389ebe71ccfebfaf4422f32ce4fd306a314e74/movie_600x337.jpg?t=1747743835",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1331550/307726466/927e28c6c50aea3f6f7385354dc38395013d1e4b/1750672979/dash_h264.mpd?t=1747743835"
+    },
+    {
+      "name": "EA 0.7 Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257087000/6879fcbb7eb7acaccc8cbe55f6a831538cc2b214/movie_600x337.jpg?t=1736269227",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1331550/808917/f5900d56ebca24abce306b73bd850b9e142c14e8/1750672971/dash_h264.mpd?t=1736269227"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1331550,
+    "store_url": "https://store.steampowered.com/app/1331550/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Early Access",
+      "Management",
+      "Economy",
+      "Simulation",
+      "Capitalism",
+      "Life Sim",
+      "Sandbox",
+      "Singleplayer",
+      "Resource Management",
+      "Inventory Management",
+      "Time Management",
+      "Immersive Sim",
+      "3D",
+      "Top-Down",
+      "Third Person",
+      "Open World",
+      "RPG",
+      "Modern",
+      "Stylized",
+      "Isometric"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 12174,
+    "review_negative": 970,
+    "review_total": 13144,
+    "review_positive_percent": 92.62
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "key": "danganronpa-2-goodbye-despair",
+  "name": "Danganronpa 2: Goodbye Despair",
+  "description": "Jabberwock Island—You and your classmates were ready for fun in the sun until Monokuma returned to restart his murderous game! Trapped in a kill-or-be-killed situation, your only hope rests in solving the island’s mysteries.",
+  "developers": [
+    "Spike Chunsoft Co., Ltd."
+  ],
+  "publishers": [
+    "Spike Chunsoft Co., Ltd."
+  ],
+  "release_date": "2016-04-19",
+  "website": "",
+  "tags": [
+    "adventure",
+    "anime",
+    "detective",
+    "visual-novel",
+    "mystery",
+    "story-rich",
+    "great-soundtrack",
+    "singleplayer",
+    "dark-comedy",
+    "horror",
+    "puzzle",
+    "atmospheric",
+    "dark",
+    "comedy",
+    "dating-sim",
+    "funny",
+    "memes",
+    "walking-simulator",
+    "sexual-content"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "japanese": "スーパーダンガンロンパ2 さよなら絶望学園",
+    "tchinese": "超級槍彈辯駁2 再會了絕望學園"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Launcher.exe",
+          "description": "",
+          "type": "config"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "/",
+          "pattern": "savedata.vfs",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "/",
+          "pattern": "savedata_jp.vfs",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "/",
+          "pattern": "savedata_ch.vfs",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Launcher.app/Contents/MacOS/Launcher",
+          "description": "",
+          "type": "config"
+        },
+        {
+          "executable": "Danganronpa2.app/Contents/MacOS/Danganronpa2",
+          "description": "Skip Launcher",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "/",
+          "pattern": "savedata.vfs",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "/",
+          "pattern": "savedata_jp.vfs",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "/",
+          "pattern": "savedata_ch.vfs",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Launcher",
+          "description": "",
+          "type": "config"
+        },
+        {
+          "executable": "Launcher",
+          "description": "",
+          "type": "config"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "/",
+          "pattern": "savedata.vfs",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "/",
+          "pattern": "savedata_jp.vfs",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "/",
+          "pattern": "savedata_ch.vfs",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Danganronpa 2: Goodbye Despair",
+    "Launcher",
+    "Launcher.app/Contents/MacOS/Launcher",
+    "Danganronpa2.app/Contents/MacOS/Danganronpa2",
+    "スーパーダンガンロンパ2 さよなら絶望学園",
+    "超級槍彈辯駁2 再會了絕望學園"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/413420/912bb82c4ee0f7734ed28c97fde01a1371978896.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_981ffc83d3679799be78315cf98b133df11e94ec.1920x1080.jpg?t=1781085654"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_cffb6efcf228987f59e7a728fbe0c5bbbd15591e.1920x1080.jpg?t=1781085654"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_e118a801498f04bf89a3cc5ece78baa95cad0e98.1920x1080.jpg?t=1781085654"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_59d7f30d91086efe40796160d075e796881f51f1.1920x1080.jpg?t=1781085654"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_9284c78802e9f7399788e94695c7e80ec4efb6d0.1920x1080.jpg?t=1781085654"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_8a0c1492f2f35cbdecfaed64e9ed5df92edc2de4.1920x1080.jpg?t=1781085654"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_1f40912953b8b268f7e88d6c2e059a40d58c6c7d.1920x1080.jpg?t=1781085654"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_572c6c3a58a4347c7d8467707befca5c2e6e6345.1920x1080.jpg?t=1781085654"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_8bb7a14ec53a41f66679c117614c6431c99fd751.1920x1080.jpg?t=1781085654"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_76f7bb6adbad1754f78f70117c59428cafcfd141.1920x1080.jpg?t=1781085654"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_63fbc892cc7d9ddb3d06cbf6614e5aa0e160d1cc.1920x1080.jpg?t=1781085654"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_2db908982b50f1006726cd49191656968282a1ad.1920x1080.jpg?t=1781085654"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_7a15e78514d6581b629c1d5afe57a8f44c0031e2.1920x1080.jpg?t=1781085654"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256661640/movie.293x165.jpg?t=1457935520",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/413420/54130/35bcea3f7fc4603760a63a70e9524429e2e33572/1750838067/dash_h264.mpd?t=1457935520"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256663124/movie.293x165.jpg?t=1470375887",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/413420/56790/ecd0179be0425cc68b1237e416c12e295a634b20/1750527607/dash_h264.mpd?t=1470375887"
+    }
+  ],
+  "metacritic": {
+    "score": 83,
+    "url": "https://www.metacritic.com/game/pc/danganronpa-2-goodbye-despair?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 413420,
+    "store_url": "https://store.steampowered.com/app/413420/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Anime",
+      "Detective",
+      "Visual Novel",
+      "Mystery",
+      "Story Rich",
+      "Great Soundtrack",
+      "Singleplayer",
+      "Psychological Horror",
+      "Adventure",
+      "Dark Comedy",
+      "Horror",
+      "Puzzle",
+      "Atmospheric",
+      "Dark",
+      "Comedy",
+      "Dating Sim",
+      "Funny",
+      "Memes",
+      "Walking Simulator",
+      "Sexual Content"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 30558,
+    "review_negative": 1330,
+    "review_total": 31888,
+    "review_positive_percent": 95.83
+  }
+}

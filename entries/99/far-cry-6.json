@@ -1,0 +1,131 @@
+{
+  "key": "far-cry-6",
+  "name": "Far Cry 6",
+  "description": "Enter the adrenaline-filled world of a modern-day guerrilla revolution. With stunning vistas, visceral gunplay, and a huge variety of gameplay experiences, there's never been a better time to join the fight.",
+  "developers": [
+    "Ubisoft Toronto"
+  ],
+  "publishers": [
+    "Ubisoft"
+  ],
+  "release_date": "2023-05-12",
+  "website": "https://www.ubisoft.com/en-en/game/far-cry/far-cry-6",
+  "tags": [
+    "action",
+    "adventure",
+    "multiplayer",
+    "co-op",
+    "online-co-op"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "polish",
+    "arabic",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "bin\\FarCry6.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Far Cry 6",
+    "bin\\FarCry6"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2369390/178c21f6ed3ea43c9e5b3c9ea2919e7bca63c7b0.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369390/64af0c6b70ef233bbdff1e5ffe0e397481efb3c9/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369390/0155dcf6a44343b85e682b48648d95716f92a5c6/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369390/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369390/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369390/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369390/ss_65c6467467795423bb959aa2c76ad2659f6553cd.1920x1080.jpg?t=1781619334"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369390/ss_195eb286dad05d3b9e56f22eafacce7efe9c9ebf.1920x1080.jpg?t=1781619334"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369390/ss_8bf4118728c0df8340c665329b78e428ed0a7c9f.1920x1080.jpg?t=1781619334"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369390/ss_b0fa07116df319216ac4a4e7855a4c4a1d224bd0.1920x1080.jpg?t=1781619334"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369390/ss_d3b78bb05886f9961869b03701f5920537e0decc.1920x1080.jpg?t=1781619334"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer ERSB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256941288/movie.293x165.jpg?t=1682096993",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2369390/558151/696addee731b70d41eacbe86e9637c711dc49d40/1750813545/dash_h264.mpd?t=1682096993"
+    },
+    {
+      "name": "Steam Trailer ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256941285/movie.293x165.jpg?t=1682097010",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2369390/558148/ba6c4375bb6c43bce9eafad6280081996c32b54b/1750813151/dash_h264.mpd?t=1682097010"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2369390,
+    "store_url": "https://store.steampowered.com/app/2369390/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Captions available",
+      "In-App Purchases",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Partial Controller Support",
+      "HDR available"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 24760,
+    "review_negative": 9960,
+    "review_total": 34720,
+    "review_positive_percent": 71.31
+  }
+}

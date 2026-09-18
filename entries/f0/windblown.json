@@ -1,0 +1,202 @@
+{
+  "key": "windblown",
+  "name": "Windblown",
+  "description": "A lightning-fast 1–3 player co-op roguelite from the creators of Dead Cells. DASH, DIVE and DESTROY across a shattered world. Build wild loadouts, unleash devastating Alterattacks, and become the last stand against the Vortex.",
+  "developers": [
+    "Motion Twin"
+  ],
+  "publishers": [
+    "Motion Twin"
+  ],
+  "release_date": "2024-10-24",
+  "website": "https://windblown.game",
+  "tags": [
+    "action",
+    "indie",
+    "early-access",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "action-roguelike",
+    "hack-and-slash",
+    "roguelite",
+    "metroidvania",
+    "combat",
+    "fast-paced",
+    "dark-fantasy",
+    "souls-like",
+    "difficult",
+    "pve",
+    "top-down",
+    "arcade",
+    "roguelike",
+    "isometric",
+    "3d",
+    "procedural-generation"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "风中行者"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Windblown.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Motion Twin/Windblown/Steam_{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Motion Twin/Windblown/Steam_{64BitSteamID}",
+          "pattern": "*.json",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Windblown",
+    "风中行者"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1911610/cd297be670a9fb510af69fb31cab14a60712bd67.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/850231e582a57a22abc5bf597bf6455d280c588c/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/792ce74cb0fb2fdf3928abd515b723615c2daa4d/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/92b0ea91a699fd52ae61cf4bfd5b7cb4188f9647/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/73a5a96fb7c3c8018aeaefcf0de2a115a295d1ca/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/66ca3670e057f6da35c3755c1d29e40ebf35ce3f/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/ss_cac5261b41219363b6fa4317b40e9a85e56d136f.1920x1080.jpg?t=1782722895"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/ss_21e3221ab8f40bfab6cbd039822b03fb6e789182.1920x1080.jpg?t=1782722895"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/ss_866c06f75896628e610fff747f11674cc6b8d847.1920x1080.jpg?t=1782722895"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/ss_8cc73455b8dbb9303386bba774797fab0814e914.1920x1080.jpg?t=1782722895"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/ss_39bd91b51db816cc2fee568a7a75711f5dbc1a66.1920x1080.jpg?t=1782722895"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/ss_893a7fdda8622fa1619547720c896db5d93508ac.1920x1080.jpg?t=1782722895"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/ss_ab3435c3294b5bb712a0be5210ea714d24969725.1920x1080.jpg?t=1782722895"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/ss_3348089134f365d97d2b51a6164f02c0884fee29.1920x1080.jpg?t=1782722895"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/ss_8bce9df7f24e1dd1260e578eeb233f4669988307.1920x1080.jpg?t=1782722895"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/ss_37ca71238d629be2cf2362441c43f886f92e75c9.1920x1080.jpg?t=1782722895"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/ss_baa2c490b4e5e9b5c827d81ee6a6034e87608019.1920x1080.jpg?t=1782722895"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1911610/ss_06cbb98124161d82c5fd31da00a98bb9850369e7.1920x1080.jpg?t=1782722895"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Hunters Gonna Hunt - Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257364231/d74812130a957873f8ea245ad4123148bb275629/movie_600x337.jpg?t=1782222460",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1911610/1348085762/e8163de6ee02508cbac253392d703e18fe83dad7/1782221122/dash_h264.mpd?t=1782222460"
+    },
+    {
+      "name": "Early Access Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257068355/72cc8a544069ec705041f0a7dc934b69a6fd8866/movie_600x337.jpg?t=1729868060",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1911610/777123/a949611683c8908a7b6e33808b3cfbbbe8c26678/1750740966/dash_h264.mpd?t=1729868060"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1911610,
+    "store_url": "https://store.steampowered.com/app/1911610/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Gamepad Recommended",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Hack and Slash",
+      "Online Co-Op",
+      "Roguelite",
+      "Metroidvania",
+      "Combat",
+      "Fast-Paced",
+      "Dark Fantasy",
+      "Early Access",
+      "Action",
+      "Souls-like",
+      "Difficult",
+      "PvE",
+      "Top-Down",
+      "Arcade",
+      "Roguelike",
+      "Isometric",
+      "3D",
+      "Procedural Generation",
+      "Indie"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 9059,
+    "review_negative": 1122,
+    "review_total": 10181,
+    "review_positive_percent": 88.98
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "key": "steam-1126310",
+  "name": "风信楼",
+  "description": "昏君误国，怨声载道，无数野心家暗起反心。在京城一家青楼的掩饰下，你培养手下、积攒钱财、收集情报、建立人脉，等待兵变夺权的最好时机……《风信楼》是一部拥有海量选项和丰富剧情的高自由度养成游戏——百种不同结局，尽在你的选择之中。",
+  "developers": [
+    "Pingfang Games"
+  ],
+  "publishers": [
+    "Pingfang Games"
+  ],
+  "release_date": "2021-10-14",
+  "website": "https://weibo.com/pingfanggames",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "rpg",
+    "simulation",
+    "multiple-endings",
+    "choices-matter",
+    "interactive-fiction",
+    "visual-novel",
+    "word-game",
+    "story-rich",
+    "martial-arts",
+    "resource-management",
+    "romance",
+    "alternate-history",
+    "emotional",
+    "management",
+    "early-access",
+    "lore-rich",
+    "text-based",
+    "first-person"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "fxl.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "RenPy/qinglou-1557175488",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "game/saves",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "fxl.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "RenPy/qinglou-1557175488",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "game/saves",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "fxl.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "RenPy/qinglou-1557175488",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "game/saves",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "风信楼",
+    "fxl",
+    "fxl.app",
+    "fxl.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1126310/e6ef2c6ac7e0de8b54ce62a4de04b08d0e44e8a1.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126310/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126310/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126310/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126310/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126310/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126310/ss_f72b027053f5e3df8fbd9890315856bfa3b1b701.1920x1080.jpg?t=1643414520"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126310/ss_1f02f2ddabce33c969d2e35eac52799def9131be.1920x1080.jpg?t=1643414520"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126310/ss_d25ec04b1d8c0b83eefcebb52ec4fd4f9b24a6a9.1920x1080.jpg?t=1643414520"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126310/ss_52a7468c9e45c83435a300fb5541532fd4738585.1920x1080.jpg?t=1643414520"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126310/ss_811aca73123afa78671a74eafffed74157f05fd6.1920x1080.jpg?t=1643414520"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126310/ss_123af7914edb5f1448ff43351de3219a9911457d.1920x1080.jpg?t=1643414520"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126310/ss_3fbed5d4faaf9a354dc0f0f6697e0888b1412a9b.1920x1080.jpg?t=1643414520"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126310/ss_610c5dcf982b04e61e7dc610b6eaf996df66c2d9.1920x1080.jpg?t=1643414520"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126310/ss_757df2c3c0ab610c15d2680b0e8721384199f625.1920x1080.jpg?t=1643414520"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126310/ss_32ac9b3423e22fc9e86b1dd539bb71e302886548.1920x1080.jpg?t=1643414520"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126310/ss_5a35bceece0f2923dbc7c46d923a6c1c758789da.1920x1080.jpg?t=1643414520"
+    }
+  ],
+  "videos": [
+    {
+      "name": "《风信楼》宣传视频",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256758846/movie.293x165.jpg?t=1633416742",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1126310/237804/e3b093bed1151c0112978f9b9653521d4f3f0c98/1751192161/dash_h264.mpd?t=1633416742"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1126310,
+    "store_url": "https://store.steampowered.com/app/1126310/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Multiple Endings",
+      "Choices Matter",
+      "Interactive Fiction",
+      "Visual Novel",
+      "Word Game",
+      "Story Rich",
+      "Martial Arts",
+      "Resource Management",
+      "Romance",
+      "Alternate History",
+      "RPG",
+      "Simulation",
+      "Indie",
+      "Emotional",
+      "Adventure",
+      "Management",
+      "Early Access",
+      "Lore-Rich",
+      "Text-Based",
+      "First-Person"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 3456,
+    "review_negative": 210,
+    "review_total": 3666,
+    "review_positive_percent": 94.27
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "key": "bloons-monkey-city",
+  "name": "Bloons Monkey City",
+  "description": "Create, upgrade, and customize your very own Bloons Monkey City in this groundbreaking blend of city building and tower defense awesomeness!",
+  "developers": [
+    "Ninja Kiwi"
+  ],
+  "publishers": [
+    "Ninja Kiwi"
+  ],
+  "release_date": "2020-04-10",
+  "website": "http://ninjakiwi.com",
+  "tags": [
+    "action",
+    "strategy",
+    "free-to-play",
+    "tower-defense",
+    "city-builder",
+    "multiplayer",
+    "co-op",
+    "casual",
+    "family-friendly",
+    "singleplayer",
+    "great-soundtrack",
+    "2d"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "MonkeyCity-Win.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "BMC-Steam.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Bloons Monkey City",
+    "MonkeyCity-Win",
+    "BMC-Steam.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1252780/0cdba2d14bf2880937a46079d6af4d9ff1995435.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252780/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252780/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252780/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252780/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252780/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252780/ss_eff01c03aa46f017f1d884952904fa63c19d13da.1920x1080.jpg?t=1725012313"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252780/ss_aab9577545cd55a63919686789fbe37f84ab21eb.1920x1080.jpg?t=1725012313"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252780/ss_6f9b052e95b9c75c64bea5002e90650caf124563.1920x1080.jpg?t=1725012313"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252780/ss_1742010b526e5bae8b42e986c59fcb8efc83fba3.1920x1080.jpg?t=1725012313"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252780/ss_92e3f004b9de507fa0aaa3ba4f20394353ab6e37.1920x1080.jpg?t=1725012313"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Bloons Monkey City",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256780234/movie.293x165.jpg?t=1586507163",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1252780/276010/a49fd62726f8e44d32d5ff1d5f216de92d06364c/1751209981/dash_h264.mpd?t=1586507163"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1252780,
+    "store_url": "https://store.steampowered.com/app/1252780/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Strategy",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "In-App Purchases",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Strategy",
+      "Action",
+      "Tower Defense",
+      "City Builder",
+      "Multiplayer",
+      "Co-op",
+      "Casual",
+      "Family Friendly",
+      "Singleplayer",
+      "Great Soundtrack",
+      "2D"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 6109,
+    "review_negative": 599,
+    "review_total": 6708,
+    "review_positive_percent": 91.07
+  }
+}

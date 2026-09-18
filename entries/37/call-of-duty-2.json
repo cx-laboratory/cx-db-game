@@ -1,0 +1,164 @@
+{
+  "key": "call-of-duty-2",
+  "name": "Call of Duty 2",
+  "description": "Call of Duty® 2 redefines the cinematic intensity and chaos of battle as seen through the eyes of ordinary soldiers fighting together in epic WWII conflicts. The sequel to 2003's Call of Duty, winner of over 80 Game of the Year awards, Call of Duty 2 offers more immense, more intense, more realistic battles than ever before, thanks to...",
+  "developers": [
+    "Infinity Ward"
+  ],
+  "publishers": [
+    "Activision"
+  ],
+  "release_date": "2006-10-14",
+  "website": "http://www.callofduty.com/",
+  "tags": [
+    "action",
+    "multiplayer",
+    "world-war-ii",
+    "fps",
+    "singleplayer",
+    "shooter",
+    "war",
+    "classic",
+    "first-person",
+    "historical",
+    "military",
+    "atmospheric",
+    "controller",
+    "story-rich",
+    "violent",
+    "adventure",
+    "co-op",
+    "online-co-op",
+    "casual",
+    "simulation"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish - Spain"
+  ],
+  "name_localized": {
+    "schinese": "使命召唤2"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "CoD2SP_s.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "CoD2MP_s.exe",
+          "description": "Launch Call of Duty 2 Multiplayer",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Call of Duty 2.app",
+          "description": "Launch Call of Duty 2",
+          "type": "default"
+        },
+        {
+          "executable": "Call of Duty 2.app/Contents/Call of Duty 2 Multiplayer.app",
+          "description": "Launch Call of Duty 2 Multiplayer",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Call of Duty 2",
+    "CoD2SP_s",
+    "CoD2MP_s",
+    "Call of Duty 2.app",
+    "Call of Duty 2.app/Contents/Call of Duty 2 Multiplayer.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2630/2e455daa8702a3cb9da8733232ec330a06936df3.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2630/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2630/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2630/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2630/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2630/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2630/0000000696.1920x1080.jpg?t=1780962161"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2630/0000000692.1920x1080.jpg?t=1780962161"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2630/0000000693.1920x1080.jpg?t=1780962161"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2630/0000000694.1920x1080.jpg?t=1780962161"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2630/0000000695.1920x1080.jpg?t=1780962161"
+    }
+  ],
+  "videos": [],
+  "metacritic": {
+    "score": 86,
+    "url": "https://www.metacritic.com/game/pc/call-of-duty-2?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 2630,
+    "store_url": "https://store.steampowered.com/app/2630/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Family Sharing"
+    ],
+    "tags": [
+      "World War II",
+      "Action",
+      "FPS",
+      "Singleplayer",
+      "Multiplayer",
+      "Shooter",
+      "War",
+      "Classic",
+      "First-Person",
+      "Historical",
+      "Military",
+      "Atmospheric",
+      "Controller",
+      "Story Rich",
+      "Violent",
+      "Adventure",
+      "Co-op",
+      "Online Co-Op",
+      "Casual",
+      "Simulation"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 10661,
+    "review_negative": 722,
+    "review_total": 11383,
+    "review_positive_percent": 93.66
+  }
+}

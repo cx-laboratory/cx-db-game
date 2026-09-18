@@ -1,0 +1,361 @@
+{
+  "key": "half-life-2",
+  "name": "Half-Life 2",
+  "description": "Reawakened from stasis in the occupied metropolis of City 17, Gordon Freeman is joined by Alyx Vance as he leads a desperate human resistance. Experience the landmark first-person shooter packed with immersive world-building, boundary-pushing physics, and exhilarating combat.",
+  "developers": [
+    "Valve"
+  ],
+  "publishers": [
+    "Valve"
+  ],
+  "release_date": "2004-11-16",
+  "website": "http://www.half-life.com/halflife2",
+  "tags": [
+    "action",
+    "fps",
+    "sci-fi",
+    "classic",
+    "singleplayer",
+    "story-rich",
+    "shooter",
+    "first-person",
+    "adventure",
+    "dystopian",
+    "atmospheric",
+    "silent-protagonist",
+    "zombies",
+    "physics",
+    "aliens",
+    "great-soundtrack",
+    "horror",
+    "multiplayer",
+    "puzzle",
+    "moddable"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "hungarian",
+    "czech",
+    "romanian",
+    "turkish",
+    "brazilian",
+    "bulgarian",
+    "greek",
+    "ukrainian",
+    "vietnamese",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "半衰期2"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "hl2.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "hl2.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "hl2.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "hl2/save",
+          "pattern": "*.*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "episodic/save",
+          "pattern": "*.*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "ep2/save",
+          "pattern": "*.*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "lostcoast/save",
+          "pattern": "*.*",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "hl2.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "hl2/save",
+          "pattern": "*.*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "episodic/save",
+          "pattern": "*.*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "ep2/save",
+          "pattern": "*.*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "lostcoast/save",
+          "pattern": "*.*",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "hl2.sh",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "hl2.sh",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "hl2.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "hl2/save",
+          "pattern": "*.*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "episodic/save",
+          "pattern": "*.*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "ep2/save",
+          "pattern": "*.*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "lostcoast/save",
+          "pattern": "*.*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Half-Life 2",
+    "hl2",
+    "hl2.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/220/fcfb366051782b8ebf2aa297f3b746395858cb62.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/951c6aca52bf32d7c95e9f8b3c04fa95e9a735ea/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/ac2f074d790656a06ef8305bd54a6f64e9a70082/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/5925343a8312ea07f234d48170963aafae4158bf/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/ss_47b4105b396de408cb8b6b4f358c69e5e2a62dae.1920x1080.jpg?t=1745368545"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/ss_0e499071a60a20b24149ad65a8edb769250f2921.1920x1080.jpg?t=1745368545"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/ss_ffb00abd45012680e4f209355ec81f961b6dd1fb.1920x1080.jpg?t=1745368545"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/ss_b822a29b3804e05ab9517cac99a5d978d109a32b.1920x1080.jpg?t=1745368545"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/ss_c400361f185800786ea984e795f2a0dd4afee990.1920x1080.jpg?t=1745368545"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/ss_a2aeefb3ad34c46af5c381ff03ac0973892f5530.1920x1080.jpg?t=1745368545"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/ss_394f4ad714937db2cc90545972b318ddb6db7231.1920x1080.jpg?t=1745368545"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/ss_412b0e9f8285d3695d0b39840da41c184dff591a.1920x1080.jpg?t=1745368545"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/ss_93d1112a93572b2826a02456db4195c07bd2221a.1920x1080.jpg?t=1745368545"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/ss_ed5532325f508728f8481f0109d662352a519e0a.1920x1080.jpg?t=1745368545"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/ss_4e76506add2af0c438d3c4bc810ccb823353fd13.1920x1080.jpg?t=1745368545"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/ss_8d6f9f74b33e2b0b296c6bff9836085e063b2d2f.1920x1080.jpg?t=1745368545"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/ss_1ee62eeed05669128167c2f28c5ece55aa683191.1920x1080.jpg?t=1745368545"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/ss_1a36c58cd035de49493962da7bb929501a4b3bcc.1920x1080.jpg?t=1745368545"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/ss_06d5f06190db60187bb7128ae44902d676efef10.1920x1080.jpg?t=1745368545"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/ss_b3de6987b384b2db61b5dcad2dd6460fd2969612.1920x1080.jpg?t=1745368545"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/ss_4b9943f1961a35f0cdbeceed2f48c70cb05d791a.1920x1080.jpg?t=1745368545"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/ss_18841cb9a8fc2cf67039317b601d10c4059b6fa8.1920x1080.jpg?t=1745368545"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/ss_fe894d70bdfa75236a4b451efbeea7d4ce3e0174.1920x1080.jpg?t=1745368545"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/ss_70af5835953e5367fe536d90a8ddf2a26c2668dc.1920x1080.jpg?t=1745368545"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Half-Life 2 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257074217/2a5d40f3f7cd4a644849a7dae7ee9f9d7fb2074d/movie_600x337.jpg?t=1732069594",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/220/786885/faaab313be3601c35e8790f0eb2f6b32e5eda63b/1749861546/dash_h264.mpd?t=1732069594"
+    },
+    {
+      "name": "Half-Life 2 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/904/003a9a6063e5f154f7244aa5b55e16ddeb390dc4/movie_600x337.jpg?t=1732069598",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/220/301/4ef935668e3113456d690174ae43410626b8855a/1749861546/dash_h264.mpd?t=1732069598"
+    }
+  ],
+  "metacritic": {
+    "score": 96,
+    "url": "https://www.metacritic.com/game/pc/half-life-2?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 220,
+    "store_url": "https://store.steampowered.com/app/220/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Workshop",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Steam Input API Support",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Surround Sound",
+      "Steam Cloud",
+      "Includes Source SDK",
+      "Commentary available",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play Together",
+      "Family Sharing",
+      "Steam Timeline"
+    ],
+    "tags": [
+      "FPS",
+      "Action",
+      "Sci-fi",
+      "Classic",
+      "Singleplayer",
+      "Story Rich",
+      "Shooter",
+      "First-Person",
+      "Adventure",
+      "Dystopian ",
+      "Atmospheric",
+      "Silent Protagonist",
+      "Zombies",
+      "Physics",
+      "Aliens",
+      "Great Soundtrack",
+      "Horror",
+      "Multiplayer",
+      "Puzzle",
+      "Moddable"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 268559,
+    "review_negative": 6603,
+    "review_total": 275162,
+    "review_positive_percent": 97.6
+  }
+}

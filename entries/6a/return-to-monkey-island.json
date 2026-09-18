@@ -1,0 +1,267 @@
+{
+  "key": "return-to-monkey-island",
+  "name": "Return to Monkey Island",
+  "description": "Return to Monkey Island is an unexpected, thrilling return of series creator Ron Gilbert that continues the story of the legendary adventure games.",
+  "developers": [
+    "Terrible Toybox"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "release_date": "2022-09-19",
+  "website": "https://returntomonkeyisland.com/",
+  "tags": [
+    "adventure",
+    "casual",
+    "point-and-click",
+    "comedy",
+    "puzzle",
+    "funny",
+    "singleplayer",
+    "story-rich",
+    "2d",
+    "hand-drawn",
+    "pirates",
+    "nostalgia",
+    "cartoon",
+    "choices-matter",
+    "colorful",
+    "family-friendly",
+    "1990-s",
+    "cartoony",
+    "stylized",
+    "linear"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "重返猴岛",
+    "tchinese": "重返猴島"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Return to Monkey Island.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "MacAppSupport",
+          "path": "Terrible Toybox/Return to Monkey Island",
+          "pattern": "*.save",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Terrible Toybox/Return to Monkey Island",
+          "pattern": "*.png",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Terrible Toybox/Return to Monkey Island",
+          "pattern": "*.bin",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Return to Monkey Island.app\\Contents\\MacOS\\Return to Monkey Island",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "MacAppSupport",
+          "path": "Terrible Toybox/Return to Monkey Island",
+          "pattern": "*.save",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Terrible Toybox/Return to Monkey Island",
+          "pattern": "*.png",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Terrible Toybox/Return to Monkey Island",
+          "pattern": "*.bin",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Return to Monkey Island",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "MacAppSupport",
+          "path": "Terrible Toybox/Return to Monkey Island",
+          "pattern": "*.save",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Terrible Toybox/Return to Monkey Island",
+          "pattern": "*.png",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Terrible Toybox/Return to Monkey Island",
+          "pattern": "*.bin",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Return to Monkey Island",
+    "Return to Monkey Island.app\\Contents\\MacOS\\Return to Monkey Island",
+    "重返猴岛",
+    "重返猴島"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2060130/059f2a68c1a3c8afda0b5833aaa6b9e16174e6b1.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060130/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060130/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060130/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060130/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060130/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060130/ss_bd989f1025e559eec8d6993666323c9d06181a04.1920x1080.jpg?t=1711536318"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060130/ss_2f7e407b460e4053d142dd1dbae050407d84fe4d.1920x1080.jpg?t=1711536318"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060130/ss_df2537e4ebf236fb9782baea0ab5f782ca344327.1920x1080.jpg?t=1711536318"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060130/ss_2d2ec4d82af7ef0df626b7867adca9cdd7cb698d.1920x1080.jpg?t=1711536318"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060130/ss_c8f41062e3c2845eda201ac87f17e4b28b476c78.1920x1080.jpg?t=1711536318"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060130/ss_ed9413e842d0a863453351bb924582015200ab29.1920x1080.jpg?t=1711536318"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060130/ss_ebae963e0be47f12388ab995d07f461d4462087e.1920x1080.jpg?t=1711536318"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060130/ss_0b7f24e6ba3c36aeb1567a3c6daeeed5fc9ed34d.1920x1080.jpg?t=1711536318"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060130/ss_6b8d2ce0db08c84b89c0fe10613404711430f29d.1920x1080.jpg?t=1711536318"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060130/ss_28a2b5444758cae1f6be31ea7186a6c0c62a07b2.1920x1080.jpg?t=1711536318"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060130/ss_cebbf42e5b00714c3e00ee254db4d01591094dc7.1920x1080.jpg?t=1711536318"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060130/ss_81959063916a2e57b9d9749de6c49dce62e608a8.1920x1080.jpg?t=1711536318"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256906546/movie.293x165.jpg?t=1663602971",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2060130/497409/636cc67fcc3b7b40082b06a2ab6c920fbf324efc/1750745650/dash_h264.mpd?t=1663602971"
+    },
+    {
+      "name": "Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256902298/movie.293x165.jpg?t=1661283296",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2060130/490170/8d15fa2bdfd39394b10c59d89f3c7dcc5a4bb21d/1750745647/dash_h264.mpd?t=1661283296"
+    },
+    {
+      "name": "Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256893802/movie.293x165.jpg?t=1656421220",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2060130/475270/85469697ac57cc576d051c4702064b11560d0c53/1750745645/dash_h264.mpd?t=1656421220"
+    }
+  ],
+  "metacritic": {
+    "score": 87,
+    "url": "https://www.metacritic.com/game/pc/return-to-monkey-island?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 2060130,
+    "store_url": "https://store.steampowered.com/app/2060130/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Point & Click",
+      "Adventure",
+      "Comedy",
+      "Puzzle",
+      "Funny",
+      "Singleplayer",
+      "Story Rich",
+      "2D",
+      "Hand-drawn",
+      "Pirates",
+      "Nostalgia",
+      "Cartoon",
+      "Choices Matter",
+      "Colorful",
+      "Family Friendly",
+      "Casual",
+      "1990's",
+      "Cartoony",
+      "Stylized",
+      "Linear"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8230,
+    "review_negative": 796,
+    "review_total": 9026,
+    "review_positive_percent": 91.18
+  }
+}

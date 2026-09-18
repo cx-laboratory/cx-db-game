@@ -1,0 +1,308 @@
+{
+  "key": "griftlands",
+  "name": "Griftlands",
+  "description": "Griftlands is a deck-building roguelite where you negotiate, fight, steal or otherwise persuade others to get your way. Every decision is important, be it the jobs you take, the friends you make, or the cards you collect.",
+  "developers": [
+    "Klei Entertainment"
+  ],
+  "publishers": [
+    "Klei Entertainment"
+  ],
+  "release_date": "2021-06-02",
+  "website": "http://www.griftlands.com",
+  "tags": [
+    "indie",
+    "card-battler",
+    "roguelite",
+    "deckbuilding",
+    "choices-matter",
+    "rpg",
+    "turn-based",
+    "card-game",
+    "story-rich",
+    "strategy",
+    "dark-humor",
+    "roguelike",
+    "turn-based-combat",
+    "2d",
+    "comic-book",
+    "choose-your-own-adventure",
+    "multiple-endings",
+    "singleplayer",
+    "sci-fi",
+    "hand-drawn",
+    "roguelike-deckbuilder"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "schinese",
+    "tchinese"
+  ],
+  "name_localized": {
+    "schinese": "欺诈之地",
+    "tchinese": "欺詐之地"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "bin/Griftlands.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Klei/Griftlands/steam-{64BitSteamID}",
+          "pattern": "*.lua",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Klei/Griftlands/steam-{64BitSteamID}/saves",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Klei/Griftlands_testing/steam-{64BitSteamID}",
+          "pattern": "*.lua",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Klei/Griftlands_testing/steam-{64BitSteamID}/saves",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Klei/Griftlands_dev/steam-{64BitSteamID}",
+          "pattern": "*.lua",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Klei/Griftlands_dev/steam-{64BitSteamID}/saves",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Griftlands.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Klei/Griftlands/steam-{64BitSteamID}",
+          "pattern": "*.lua",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Klei/Griftlands/steam-{64BitSteamID}/saves",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Klei/Griftlands_testing/steam-{64BitSteamID}",
+          "pattern": "*.lua",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Klei/Griftlands_testing/steam-{64BitSteamID}/saves",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Klei/Griftlands_dev/steam-{64BitSteamID}",
+          "pattern": "*.lua",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Klei/Griftlands_dev/steam-{64BitSteamID}/saves",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "bin/Griftlands",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Klei/Griftlands/steam-{64BitSteamID}",
+          "pattern": "*.lua",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Klei/Griftlands/steam-{64BitSteamID}/saves",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Klei/Griftlands_testing/steam-{64BitSteamID}",
+          "pattern": "*.lua",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Klei/Griftlands_testing/steam-{64BitSteamID}/saves",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Klei/Griftlands_dev/steam-{64BitSteamID}",
+          "pattern": "*.lua",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Klei/Griftlands_dev/steam-{64BitSteamID}/saves",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Griftlands",
+    "bin/Griftlands",
+    "Griftlands.app",
+    "欺诈之地",
+    "欺詐之地"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/601840/db635b881c25e62a67a324e66a22fde7054717c0.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601840/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601840/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601840/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601840/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601840/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601840/ss_e008b3d7e81277001de6ffec22acf75430d18772.1920x1080.jpg?t=1781206715"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601840/ss_b3eae62fa975c76ddfa187e3c002a005f234b24a.1920x1080.jpg?t=1781206715"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601840/ss_b390cf8fb94adeaa838b4e7321e0ee5351dc2345.1920x1080.jpg?t=1781206715"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601840/ss_161eb55f39a59eefcb51a969d2b402bf84e50ce4.1920x1080.jpg?t=1781206715"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601840/ss_f2b88e55a4eb1d75968e62b9fc739beef9543a4b.1920x1080.jpg?t=1781206715"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601840/ss_51abc64e2b00d62ecca1f33fdc4f9766b706fe94.1920x1080.jpg?t=1781206715"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601840/ss_ae36ffa6c195dbf0c5593aeeda46c255422689ce.1920x1080.jpg?t=1781206715"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601840/ss_e6465cadff2a36fa9501a2167f4549fd398f2fce.1920x1080.jpg?t=1781206715"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601840/ss_00bd3c2e1421cbb8b5809ca89727aa0c247e81de.1920x1080.jpg?t=1781206715"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601840/ss_c1bc722a7363bfe75cebc21d82f98c24e8349216.1920x1080.jpg?t=1781206715"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601840/ss_ec19881be952ff0c56c897227435cdb03f1496e7.1920x1080.jpg?t=1781206715"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Griftlands Early Access Cinematic Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256789160/movie.293x165.jpg?t=1592152030",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/601840/292259/945ea78ed34058ca959d705e4c680ded58dabf6c/1750560488/dash_h264.mpd?t=1592152030"
+    },
+    {
+      "name": "Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256752880/movie.293x165.jpg?t=1560189192",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/601840/227132/a19d58099c5891fbfddc593a7fe6179e07ac77a2/1750560359/dash_h264.mpd?t=1560189192"
+    }
+  ],
+  "metacritic": {
+    "score": 84,
+    "url": "https://www.metacritic.com/game/pc/griftlands?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 601840,
+    "store_url": "https://store.steampowered.com/app/601840/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Card Battler",
+      "Roguelite",
+      "Deckbuilding",
+      "Choices Matter",
+      "RPG",
+      "Turn-Based",
+      "Card Game",
+      "Story Rich",
+      "Strategy",
+      "Dark Humor",
+      "Roguelike",
+      "Turn-Based Combat",
+      "2D",
+      "Comic Book",
+      "Choose Your Own Adventure",
+      "Multiple Endings",
+      "Singleplayer",
+      "Sci-fi",
+      "Hand-drawn",
+      "Roguelike Deckbuilder"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 13486,
+    "review_negative": 918,
+    "review_total": 14404,
+    "review_positive_percent": 93.63
+  }
+}

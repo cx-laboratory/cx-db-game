@@ -1,0 +1,181 @@
+{
+  "key": "the-one-who-pulls-out-the-sword-will-be-crowned-king",
+  "name": "The one who pulls out the sword will be crowned king",
+  "description": "Are you The Rightful King™ or just a filthy peasant? The sword is waiting for you to lift it, but it gets longer and heavier each time someone else succeeds...",
+  "developers": [
+    "Majorariatto"
+  ],
+  "publishers": [
+    "Majorariatto"
+  ],
+  "release_date": "2022-03-29",
+  "website": "https://www.majorariatto.com/swordking",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "free-to-play",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "short",
+    "dark-comedy",
+    "experimental",
+    "medieval",
+    "cinematic",
+    "atmospheric",
+    "fantasy",
+    "exploration",
+    "singleplayer",
+    "instrumental-music",
+    "simulation",
+    "emotional",
+    "3d",
+    "soundtrack",
+    "historical",
+    "walking-simulator"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "spanish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "The one who pulls out the sword will be crowned king.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "The one who pulls out the sword will be crowned king.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "The one who pulls out the sword will be crowned king.app",
+          "description": "using Metal Graphical API (recommended)",
+          "type": "option1"
+        },
+        {
+          "executable": "The one who pulls out the sword will be crowned king opengl.app",
+          "description": "using OpenGLCore Graphical API (compatibility, try this one if the metal version doesn't work properly)",
+          "type": "option2"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "The one who pulls out the sword will be crowned king.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "The one who pulls out the sword will be crowned king",
+    "The one who pulls out the sword will be crowned king.app",
+    "The one who pulls out the sword will be crowned king opengl.app",
+    "The one who pulls out the sword will be crowned king.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1865370/ae8182546b5be5c35de0f9937c1a607e8b4b569c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865370/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865370/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865370/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865370/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865370/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865370/ss_70dee7988c8931a8f346e0e9a894205911ef9f7f.1920x1080.jpg?t=1772810240"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865370/ss_cc72ec697e0d751a9de15a3ce33a213dc54af303.1920x1080.jpg?t=1772810240"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865370/ss_0587c9986f99639ab1e53682226186a728b667a9.1920x1080.jpg?t=1772810240"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865370/ss_7b7fdf36fae6990d66eaf7bf714e2bc04e2ddfe7.1920x1080.jpg?t=1772810240"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865370/ss_6bc865dc78104d6e489b3e586e901e0adb58e609.1920x1080.jpg?t=1772810240"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The one who pulls out the sword will be crowned king trailer 1",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256879317/movie.293x165.jpg?t=1648157870",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1865370/449777/5fe95fc642eb452cc8dab37f5466010318a8aa6a/1751492460/dash_h264.mpd?t=1648157870"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1865370,
+    "store_url": "https://store.steampowered.com/app/1865370/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Indie",
+      "Short",
+      "Dark Comedy",
+      "Experimental",
+      "Medieval",
+      "Cinematic",
+      "Atmospheric",
+      "Fantasy",
+      "Casual",
+      "Adventure",
+      "Exploration",
+      "Singleplayer",
+      "Instrumental Music",
+      "Simulation",
+      "Emotional",
+      "3D",
+      "Soundtrack",
+      "Historical",
+      "Walking Simulator"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7938,
+    "review_negative": 824,
+    "review_total": 8762,
+    "review_positive_percent": 90.6
+  }
+}

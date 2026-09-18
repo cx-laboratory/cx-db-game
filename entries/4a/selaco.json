@@ -1,0 +1,261 @@
+{
+  "key": "selaco",
+  "name": "Selaco",
+  "description": "Selaco is a brand new original shooter inspired by classics, featuring thrilling action set pieces, destructibility, smart enemies and a fleshed out story taking place within an immersive game world.",
+  "developers": [
+    "Altered Orbit Studios"
+  ],
+  "publishers": [
+    "Altered Orbit Studios"
+  ],
+  "release_date": "2024-05-31",
+  "website": "https://selacogame.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "early-access",
+    "fps",
+    "shooter",
+    "female-protagonist",
+    "first-person",
+    "boomer-shooter",
+    "2-5d",
+    "retro",
+    "sci-fi",
+    "pixel-graphics",
+    "story-rich",
+    "old-school",
+    "futuristic",
+    "singleplayer",
+    "gore",
+    "combat",
+    "fast-paced",
+    "soundtrack"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SELACO.bat",
+          "description": "",
+          "type": "option1"
+        },
+        {
+          "executable": "SELACO_Vulkan.bat",
+          "description": "Selaco using Vulkan (Recommended)",
+          "type": "option2"
+        },
+        {
+          "executable": "SELACO_OpenGL.bat",
+          "description": "Selaco using OpenGL",
+          "type": "option3"
+        },
+        {
+          "executable": "UltimateSelacoBuilder/Builder.exe",
+          "description": "Level Editor (Alpha)",
+          "type": "editor"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Save/",
+          "pattern": "*.zds",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "Selaco-EA/",
+          "pattern": "*.zds",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/Selaco-EA/",
+          "pattern": "*.zds",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Save/",
+          "pattern": "*.globals",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "RunSelaco.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Save/",
+          "pattern": "*.zds",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "Selaco-EA/",
+          "pattern": "*.zds",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/Selaco-EA/",
+          "pattern": "*.zds",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Save/",
+          "pattern": "*.globals",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Selaco",
+    "SELACO.bat",
+    "SELACO_Vulkan.bat",
+    "SELACO_OpenGL.bat",
+    "UltimateSelacoBuilder/Builder",
+    "RunSelaco.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1592280/997920f8d6f3f4a15a36a5161e29081bcc22ec15.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/764e5971f501d0000b744d6df2e8f4efeebc0662/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/663af1ea0ca4ddc085c8a40d41a96f12b1fb697f/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/ss_515b646ca4fa4d49f2ca3ca428256b0839a869fe.1920x1080.jpg?t=1771520922"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/ss_83f21f753385f2a9c6b0cfc3a77f012c8038e762.1920x1080.jpg?t=1771520922"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/ss_d78db4e9f6e4f680adb5dcb021eff21566857c61.1920x1080.jpg?t=1771520922"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/ss_6b51e2798d68eaf27dd5df95602a0650f8710547.1920x1080.jpg?t=1771520922"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/ss_bc6ddb05173410679a9b98003ea04e49922987e5.1920x1080.jpg?t=1771520922"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/ss_4b61de3433f48ea35e2d50d5a4f72a9d539994c4.1920x1080.jpg?t=1771520922"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/ss_85444406dadb5b2eb85fbb0f2b0f6d3dd7622ac0.1920x1080.jpg?t=1771520922"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/ss_117c195f47ef152e0d46b66abe6a57f719787a55.1920x1080.jpg?t=1771520922"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/ss_712798f86b89c8d2ce43bbcdbc69d0c7949acb3a.1920x1080.jpg?t=1771520922"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/ss_cb10cc334d14b819092d5087152a40570e6cc32b.1920x1080.jpg?t=1771520922"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Selaco - Early Access Announcement trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256972521/movie.293x165.jpg?t=1723386627",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1592280/612842/d8823af8617613c21505f62594b99723fa0cbd0a/1750708035/dash_h264.mpd?t=1723386627"
+    },
+    {
+      "name": "Selaco - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257045304/movie.293x165.jpg?t=1723386622",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1592280/738823/18e2a6adc1d07fb5689078f84ec464a7def91a12/1750708078/dash_h264.mpd?t=1723386622"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1592280,
+    "store_url": "https://store.steampowered.com/app/1592280/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Keyboard Only Option",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Surround Sound",
+      "Steam Cloud",
+      "Stats",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "FPS",
+      "Shooter",
+      "Female Protagonist",
+      "First-Person",
+      "Boomer Shooter",
+      "Action",
+      "2.5D",
+      "Retro",
+      "Sci-fi",
+      "Pixel Graphics",
+      "Story Rich",
+      "Old School",
+      "Futuristic",
+      "Singleplayer",
+      "Gore",
+      "Combat",
+      "Adventure",
+      "Fast-Paced",
+      "Soundtrack",
+      "Early Access"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 4715,
+    "review_negative": 315,
+    "review_total": 5030,
+    "review_positive_percent": 93.74
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "key": "mass-effect-2007",
+  "name": "Mass Effect (2007)",
+  "description": "As Commander Shepard, you lead an elite squad on a heroic, action-packed adventure throughout the galaxy.",
+  "developers": [
+    "BioWare"
+  ],
+  "publishers": [
+    "Electronic Arts"
+  ],
+  "release_date": "2008-12-19",
+  "website": "http://masseffect.bioware.com/",
+  "tags": [
+    "action",
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Italian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Binaries\\MassEffect.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "docs\\EA Help\\Electronic_Arts_Technical_Support.htm",
+          "description": "View Support Information",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Mass Effect (2007)",
+    "Binaries\\MassEffect",
+    "docs\\EA Help\\Electronic_Arts_Technical_Support.htm"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/17460/57be81f70afa48c65437df93d75ba167a29687bc.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17460/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17460/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17460/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17460/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17460/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17460/0000006620.1920x1080.jpg?t=1777395273"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17460/0000006621.1920x1080.jpg?t=1777395273"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17460/0000006622.1920x1080.jpg?t=1777395273"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17460/0000006623.1920x1080.jpg?t=1777395273"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17460/0000006624.1920x1080.jpg?t=1777395273"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17460/0000006625.1920x1080.jpg?t=1777395273"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17460/0000006626.1920x1080.jpg?t=1777395273"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17460/0000006627.1920x1080.jpg?t=1777395273"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17460/0000006628.1920x1080.jpg?t=1777395273"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17460/0000006629.1920x1080.jpg?t=1777395273"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17460/0000006630.1920x1080.jpg?t=1777395273"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17460/0000006631.1920x1080.jpg?t=1777395273"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Mass Effect HD Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5159/movie.jpg?t=1447351600",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/17460/1514/b4dba3ca4a7756eebebca80cd2d0b51286072191/1750484595/dash_h264.mpd?t=1447351600"
+    }
+  ],
+  "metacritic": {
+    "score": 89,
+    "url": "https://www.metacritic.com/game/pc/mass-effect?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 17460,
+    "store_url": "https://store.steampowered.com/app/17460/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 15501,
+    "review_negative": 1055,
+    "review_total": 16556,
+    "review_positive_percent": 93.63
+  }
+}

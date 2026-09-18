@@ -1,0 +1,243 @@
+{
+  "key": "impostor-factory",
+  "name": "Impostor Factory",
+  "description": "A bonkers time-loop tragicomedy murder mystery thriller featuring multiple casualties and a suspicious cat, from the creator of To the Moon &amp; Finding Paradise.",
+  "developers": [
+    "Freebird Games"
+  ],
+  "publishers": [
+    "Freebird Games"
+  ],
+  "release_date": "2021-10-01",
+  "website": "https://freebirdgames.com/impostor-factory/",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "rpg",
+    "story-rich",
+    "emotional",
+    "pixel-graphics",
+    "2d",
+    "singleplayer",
+    "top-down",
+    "atmospheric",
+    "mystery",
+    "comedy",
+    "narrative",
+    "interactive-fiction",
+    "lovecraftian",
+    "linear",
+    "cute",
+    "funny",
+    "retro",
+    "jrpg"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "portuguese",
+    "polish",
+    "turkish",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "Impostor Factory《影子工厂》"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Impostor Factory\\steamshim_parent.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Impostor Factory - AU Playbook\\Alternate Universe Playbook.exe",
+          "description": "Launch AU Playbook",
+          "type": "none"
+        },
+        {
+          "executable": "Bestest Dancers Comic\\open_folder_windows.bat",
+          "description": "Browse \"Bestest Dancers\" Comic",
+          "type": "none"
+        },
+        {
+          "executable": "Impostor Factory\\steamshim_parent64.exe",
+          "description": "Launch 64bit version",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "*.rxdata",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Impostor Factory/ImpostorFactory.app/Contents/MacOS/steamshim_parent",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "Bestest Dancers Comic/open_folder_macos.sh",
+          "description": "Browse \"Bestest Dancers\" Comic",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "*.rxdata",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Impostor Factory/steamshim/parent.amd64",
+          "description": "Launch main game",
+          "type": "default"
+        },
+        {
+          "executable": "Bestest Dancers Comic/open_folder_linux.sh",
+          "description": "Browse \"Bestest Dancers\" Comic",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "*.rxdata",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Impostor Factory",
+    "Impostor Factory\\steamshim_parent",
+    "Impostor Factory - AU Playbook\\Alternate Universe Playbook",
+    "Bestest Dancers Comic\\open_folder_windows.bat",
+    "Impostor Factory\\steamshim_parent64",
+    "Impostor Factory/ImpostorFactory.app/Contents/MacOS/steamshim_parent",
+    "Bestest Dancers Comic/open_folder_macos.sh",
+    "Impostor Factory/steamshim/parent.amd64",
+    "Bestest Dancers Comic/open_folder_linux.sh",
+    "Impostor Factory《影子工厂》"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1182620/1480aaf1d4064636ed356d75a696de5f1216b730.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182620/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182620/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182620/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182620/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182620/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182620/ss_74f8c25d19eab5d5081c0a544fc3aac2fb568b93.1920x1080.jpg?t=1726196467"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182620/ss_c1835a7236fcbbf1fc074d98ee4e7e000a4c8354.1920x1080.jpg?t=1726196467"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182620/ss_1f8250a9e2ab2668b3e45a96700e1667641ef2bd.1920x1080.jpg?t=1726196467"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182620/ss_f3de185d3bf1844f6dab1ca9036e3fdbef0a0785.1920x1080.jpg?t=1726196467"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182620/ss_e51fe6a2622d759c8d6c0fe32897be01a7441f31.1920x1080.jpg?t=1726196467"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182620/ss_107c2b2071a524fb14540b8761643fedbea8dba8.1920x1080.jpg?t=1726196467"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182620/ss_245de034e1b5fb52d4c6f65b7eb16f293df791bf.1920x1080.jpg?t=1726196467"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Impostor Factory - Official Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256795427/movie.293x165.jpg?t=1596633335",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1182620/302755/374d7786f8c5ed7c093711816ba0c2d55c1e5c31/1751200215/dash_h264.mpd?t=1596633335"
+    }
+  ],
+  "metacritic": {
+    "score": 80,
+    "url": "https://www.metacritic.com/game/pc/impostor-factory?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1182620,
+    "store_url": "https://store.steampowered.com/app/1182620/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Story Rich",
+      "Emotional",
+      "Pixel Graphics",
+      "Adventure",
+      "RPG",
+      "2D",
+      "Singleplayer",
+      "Top-Down",
+      "Atmospheric",
+      "Psychological Horror",
+      "Mystery",
+      "Comedy",
+      "Narrative",
+      "Interactive Fiction",
+      "Lovecraftian",
+      "Linear",
+      "Cute",
+      "Funny",
+      "Retro",
+      "JRPG"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 12180,
+    "review_negative": 532,
+    "review_total": 12712,
+    "review_positive_percent": 95.81
+  }
+}

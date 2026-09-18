@@ -1,0 +1,235 @@
+{
+  "key": "i-am-bread",
+  "name": "I Am Bread",
+  "description": "You are bread. Your mission, become toast! Take on all hazards to deliciousness as you head on an epic adventure in one of the the toughest games ever baked. All of the game modes (including Bagel Race) are now unlocked so there's sure to be something to suit everyone's taste!",
+  "developers": [
+    "Bossa Studios"
+  ],
+  "publishers": [
+    "tinyBuild"
+  ],
+  "release_date": "2015-04-10",
+  "website": "http://www.iambreadgame.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "simulation",
+    "funny",
+    "physics",
+    "difficult",
+    "3d-platformer",
+    "singleplayer",
+    "comedy",
+    "intentionally-awkward-controls",
+    "controller",
+    "family-friendly",
+    "cute",
+    "third-person",
+    "casual",
+    "epic",
+    "early-access",
+    "beautiful",
+    "third-person-shooter"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "iambread.exe",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "iambread.exe",
+          "description": "Launch (Force DX9)",
+          "type": "default"
+        },
+        {
+          "executable": "iambread.exe",
+          "description": "Launch (Force OpenGL)",
+          "type": "default"
+        },
+        {
+          "executable": "iambread.exe",
+          "description": "Launch Safe Mode",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "iambread.app",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "iambread.app",
+          "description": "Launch Safe Mode",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "I Am Bread",
+    "iambread",
+    "iambread.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/327890/40b2f1ff3dd97df35c094f4d8e8f2e98b8f75eee.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327890/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327890/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327890/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327890/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327890/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327890/ss_80b18133f84e7e12cdfeb2dc2ceb726b3b3d0051.1920x1080.jpg?t=1781528803"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327890/ss_1b7569536ca0a73d597f7153717bcddab8e227cd.1920x1080.jpg?t=1781528803"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327890/ss_f7b93b864bad346c69ad9f9799c573d793c17d25.1920x1080.jpg?t=1781528803"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327890/ss_c09572251ebb256d9b07919e109f04305b4ea86e.1920x1080.jpg?t=1781528803"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327890/ss_9cb751b6df1c21bf019974381da4b176c3094534.1920x1080.jpg?t=1781528803"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327890/ss_f9b286cc0ea57a2e6f3f3b32bee81e7ee158eda9.1920x1080.jpg?t=1781528803"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327890/ss_07ef5a3cfa91d4c47ecffd379d2cc72c27e856d5.1920x1080.jpg?t=1781528803"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327890/ss_2ca755ce856499776a78eead2fed5a94d48c4ff4.1920x1080.jpg?t=1781528803"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327890/ss_4cc79d51ce8818dc75a2cc1aacd984d69c437df1.1920x1080.jpg?t=1781528803"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327890/ss_03119a92730aea6f5032805812c9d718ad671234.1920x1080.jpg?t=1781528803"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327890/ss_9eca3ed7390182d9296df4eeee6d9456255d9386.1920x1080.jpg?t=1781528803"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327890/ss_4734c67564053f9bccddc6cfba8348abca6fdd8e.1920x1080.jpg?t=1781528803"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327890/ss_cd90586545656b4c2f5f3ce2309c1ec2c7934f1b.1920x1080.jpg?t=1781528803"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327890/ss_e9424697c38ab29361af71c921fc8b2de4716d06.1920x1080.jpg?t=1781528803"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327890/ss_6f76acb5d9f0e4a19c98b90443108c08234c3698.1920x1080.jpg?t=1781528803"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327890/ss_00dd9f66ca5c1a8d01ead46a82337991122865d5.1920x1080.jpg?t=1781528803"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327890/ss_3811ccced1de62b0f30fffd9f34ecedb448e2913.1920x1080.jpg?t=1781528803"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327890/ss_06d78cb5f131accc8518f7ccb621c25337caff24.1920x1080.jpg?t=1781528803"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327890/ss_fd86039f8ac35cc369514a0f521711faea43e872.1920x1080.jpg?t=1781528803"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327890/ss_cfe8bf75bca47a056e4cb1bbd4c416450db8ab23.1920x1080.jpg?t=1781528803"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327890/ss_959a66c997960a8a1593201e3a92c7e0d77a7734.1920x1080.jpg?t=1781528803"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Updated Trailer - Aug '16",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256659347/movie.293x165.jpg?t=1473431141",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/327890/49148/b1bf9380161f849c6903edaededdd41015e562f5/1751264726/dash_h264.mpd?t=1473431141"
+    }
+  ],
+  "metacritic": {
+    "score": 60,
+    "url": "https://www.metacritic.com/game/pc/i-am-bread?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 327890,
+    "store_url": "https://store.steampowered.com/app/327890/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Funny",
+      "Physics",
+      "Difficult",
+      "Adventure",
+      "3D Platformer",
+      "Singleplayer",
+      "Comedy",
+      "Action",
+      "Intentionally Awkward Controls",
+      "Controller",
+      "Family Friendly",
+      "Cute",
+      "Third Person",
+      "Casual",
+      "Indie",
+      "Epic",
+      "Early Access",
+      "Beautiful",
+      "Third-Person Shooter"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 4610,
+    "review_negative": 1334,
+    "review_total": 5944,
+    "review_positive_percent": 77.56
+  }
+}

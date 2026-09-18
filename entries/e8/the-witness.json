@@ -1,0 +1,180 @@
+{
+  "key": "the-witness",
+  "name": "The Witness",
+  "description": "You wake up, alone, on a strange island full of puzzles that will challenge and surprise you.",
+  "developers": [
+    "Thekla, Inc."
+  ],
+  "publishers": [
+    "Thekla, Inc."
+  ],
+  "release_date": "2016-01-27",
+  "website": "http://the-witness.net/",
+  "tags": [
+    "adventure",
+    "indie",
+    "puzzle",
+    "exploration",
+    "first-person",
+    "open-world",
+    "singleplayer",
+    "colorful",
+    "atmospheric",
+    "difficult",
+    "walking-simulator",
+    "mystery",
+    "nonlinear",
+    "philosophical",
+    "relaxing",
+    "surreal",
+    "casual",
+    "great-soundtrack",
+    "beautiful",
+    "story-rich"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "hungarian",
+    "arabic",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "witness_d3d11.exe",
+          "description": "The Witness",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "The Witness.app",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "The Witness",
+    "witness_d3d11",
+    "The Witness.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/210970/5406b4e33862420abfb60a23e581cad2a1ec85f7.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210970/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210970/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210970/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210970/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210970/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210970/ss_9c73ac83c8acfb69db6166f239fdba2ffa099b32.1920x1080.jpg?t=1720810823"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210970/ss_6a7964a4dede8ad7d8b4e413e8b291defbbaa55b.1920x1080.jpg?t=1720810823"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210970/ss_583fdbf6aa66a179d60a2261bab7b10c102e36e8.1920x1080.jpg?t=1720810823"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210970/ss_05033717114ac8a697fbf45c149d26bb1cfc6893.1920x1080.jpg?t=1720810823"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210970/ss_86c4e2f0fd7cc62d3bfbc4a6cd8f7423650610bb.1920x1080.jpg?t=1720810823"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210970/ss_fabb0939200a1f2bbb40b775c8e07645f21dc44a.1920x1080.jpg?t=1720810823"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256659068/movie.293x165.jpg?t=1453238896",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/210970/48606/d91f43a3b3d871e8650a876391fb620985cf7cda/1751248980/dash_h264.mpd?t=1453238896"
+    },
+    {
+      "name": "Long Screenshot #1",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256659964/movie.293x165.jpg?t=1453241589",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/210970/50608/859d0f0c41630ec9b7dbaef6d41f681ee54bb969/1751248980/dash_h264.mpd?t=1453241589"
+    }
+  ],
+  "metacritic": {
+    "score": 87,
+    "url": "https://www.metacritic.com/game/pc/the-witness?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 210970,
+    "store_url": "https://store.steampowered.com/app/210970/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Captions available",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Puzzle",
+      "Exploration",
+      "First-Person",
+      "Open World",
+      "Singleplayer",
+      "Colorful",
+      "Indie",
+      "Atmospheric",
+      "Difficult",
+      "Walking Simulator",
+      "Adventure",
+      "Mystery",
+      "Nonlinear",
+      "Philosophical",
+      "Relaxing",
+      "Surreal",
+      "Casual",
+      "Great Soundtrack",
+      "Beautiful",
+      "Story Rich"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 17720,
+    "review_negative": 3267,
+    "review_total": 20987,
+    "review_positive_percent": 84.43
+  }
+}

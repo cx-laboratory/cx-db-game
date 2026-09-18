@@ -1,0 +1,240 @@
+{
+  "key": "aska",
+  "name": "ASKA",
+  "description": "A new Viking age dawns with you at its helm. Forge a thriving colony from nothing in this mythic open-world survival sim. Earn the gods' favor and survive in a land ruled by ancient terrors and unforgiving seasons. Rally unique villagers, expand your settlement and defend your tribe - solo or co-op!",
+  "developers": [
+    "Sand Sailor Studio"
+  ],
+  "publishers": [
+    "Thunderful Publishing"
+  ],
+  "release_date": "2024-06-20",
+  "website": "http://www.playaska.com",
+  "tags": [
+    "adventure",
+    "simulation",
+    "strategy",
+    "early-access",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "survival",
+    "colony-sim",
+    "open-world-survival-craft",
+    "vikings",
+    "sandbox",
+    "base-building",
+    "crafting",
+    "building",
+    "singleplayer",
+    "open-world",
+    "automation",
+    "resource-management",
+    "exploration",
+    "action-rpg",
+    "female-protagonist"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "romanian",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Aska.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Sand Sailor Studio/Aska/data",
+          "pattern": "Characters.*",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Sand Sailor Studio/Aska/data",
+          "pattern": "Tutorials.*",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Sand Sailor Studio/Aska/data",
+          "pattern": "DeedsProgress.*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "ASKA",
+    "Aska"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1898300/153ab3ef3b1db7248ecf79b586037b57cb3db42d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898300/23528b2b61353979035f8efceef82ce3aa6bb311/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898300/dd9708acf4996c2a4ad1896dc506db0bdccf9940/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898300/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898300/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898300/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898300/fd81504299949d63c0b70cc5bb85a39ddb448f1b/ss_fd81504299949d63c0b70cc5bb85a39ddb448f1b.1920x1080.jpg?t=1777304243"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898300/8acd82606fa09a6cff9c8f03681c994dc0d4fe19/ss_8acd82606fa09a6cff9c8f03681c994dc0d4fe19.1920x1080.jpg?t=1777304243"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898300/8c2767489ff8fddbd5fe87fb5f160f7d25944e84/ss_8c2767489ff8fddbd5fe87fb5f160f7d25944e84.1920x1080.jpg?t=1777304243"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898300/f433cdf25db35a8c62071ea08aeaae028af0c4ce/ss_f433cdf25db35a8c62071ea08aeaae028af0c4ce.1920x1080.jpg?t=1777304243"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898300/039b9bc448fd93288514fbb631ad106fb706e500/ss_039b9bc448fd93288514fbb631ad106fb706e500.1920x1080.jpg?t=1777304243"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898300/e09e0913e257e95f3497f0063a7b96634a219117/ss_e09e0913e257e95f3497f0063a7b96634a219117.1920x1080.jpg?t=1777304243"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898300/ss_3a22e2d95521759e31ab4e58de785c51b9d6464c.1920x1080.jpg?t=1777304243"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898300/ss_9e3eb21c17839b4c10590020eed814a714fc45d3.1920x1080.jpg?t=1777304243"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898300/cbb8f004496e985b67906d2e6c01f6b1f82cdfb3/ss_cbb8f004496e985b67906d2e6c01f6b1f82cdfb3.1920x1080.jpg?t=1777304243"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898300/76680b5523e6511de3621c96eb077ce38127a7e6/ss_76680b5523e6511de3621c96eb077ce38127a7e6.1920x1080.jpg?t=1777304243"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898300/d0b84c96cede97216eeb4f33f50adb02e6d4f48f/ss_d0b84c96cede97216eeb4f33f50adb02e6d4f48f.1920x1080.jpg?t=1777304243"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898300/62bb135e9a14622dc89fec631cf4a53c97ffbbc2/ss_62bb135e9a14622dc89fec631cf4a53c97ffbbc2.1920x1080.jpg?t=1777304243"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898300/b97821b403be5d7bd74ec5e0131cee344ba0179f/ss_b97821b403be5d7bd74ec5e0131cee344ba0179f.1920x1080.jpg?t=1777304243"
+    }
+  ],
+  "videos": [
+    {
+      "name": "ASKA - Hearth & Honey Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257323338/bfddc83afa4e625eee051542ea6f7bcd3f062afd/movie_600x337.jpg?t=1776757549",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1898300/1723706878/50c49d968c4c335502963c553d6abeb5fee300e5/1776757182/dash_h264.mpd?t=1776757549"
+    },
+    {
+      "name": "ASKA - Early Access Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257208636/a3d0286159d39828a0aa77da877e5982c317ea42/movie_600x337.jpg?t=1759157449",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1898300/1156083053/b7fe47920730f4140d388428aa3e03340d71e325/1759156864/dash_h264.mpd?t=1759157449"
+    },
+    {
+      "name": "ASKA Seaborne Raiders Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257227787/bf77d49dd584a1ca4cd95411511c22e999952c9d/movie_600x337.jpg?t=1762449683",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1898300/1063675060/bec85433522c9da7c6f4792bab38b8b0ff384d3e/1762448998/dash_h264.mpd?t=1762449683"
+    },
+    {
+      "name": "Commercial",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257077889/ae0f8f79c4ad6cbfecc3e62bd08f391042fceb74/movie_600x337.jpg?t=1732970778",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1898300/793240/169fac3576cbd536aadf5990f8617fe7049ba8c9/1750740412/dash_h264.mpd?t=1732970778"
+    },
+    {
+      "name": "ASKA - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257032276/movie.293x165.jpg?t=1718895395",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1898300/715836/9444857abfa68e461778c9d0e8a54391393b58db/1750740410/dash_h264.mpd?t=1718895395"
+    },
+    {
+      "name": "ASKA - Deep Dive Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257025286/movie.293x165.jpg?t=1716475887",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1898300/704007/8d3f0a3b05bce4c60c9f5117f632f300cd0cd362/1750740405/dash_h264.mpd?t=1716475887"
+    },
+    {
+      "name": "ASKA - Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257004263/movie.293x165.jpg?t=1711555984",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1898300/668139/82b63819e4e25f9f9252cff4ed5a0349b9c53538/1750740405/dash_h264.mpd?t=1711555984"
+    },
+    {
+      "name": "ASKA - Cinematic Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256916558/movie.293x165.jpg?t=1709214981",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1898300/514400/56ad5716289edf9bb02423ba18d91119a9b2d252/1750740400/dash_h264.mpd?t=1709214981"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1898300,
+    "store_url": "https://store.steampowered.com/app/1898300/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Simulation",
+      "Strategy",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Early Access",
+      "Survival",
+      "Colony Sim",
+      "Open World Survival Craft",
+      "Multiplayer",
+      "Vikings",
+      "Sandbox",
+      "Base Building",
+      "Online Co-Op",
+      "Crafting",
+      "Co-op",
+      "Building",
+      "Singleplayer",
+      "Open World",
+      "Automation",
+      "Simulation",
+      "Resource Management",
+      "Exploration",
+      "Action RPG",
+      "Female Protagonist"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 9504,
+    "review_negative": 2394,
+    "review_total": 11898,
+    "review_positive_percent": 79.88
+  }
+}

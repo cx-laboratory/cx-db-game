@@ -1,0 +1,191 @@
+{
+  "key": "mutant-year-zero-road-to-eden",
+  "name": "Mutant Year Zero: Road to Eden",
+  "description": "A tactical game combining the turn-based combat of XCOM with story, exploration, stealth, and strategy. Take control of a team of Mutants navigating a post-human Earth. Created by a team including former HITMAN leads and the designer of PAYDAY.",
+  "developers": [
+    "The Bearded Ladies"
+  ],
+  "publishers": [
+    "Funcom"
+  ],
+  "release_date": "2018-12-04",
+  "website": "https://www.mutantyearzero.com/",
+  "tags": [
+    "rpg",
+    "strategy",
+    "turn-based-combat",
+    "post-apocalyptic",
+    "turn-based-tactics",
+    "tactical",
+    "turn-based",
+    "adventure",
+    "stealth",
+    "singleplayer",
+    "turn-based-strategy",
+    "atmospheric",
+    "action",
+    "survival",
+    "dark-fantasy",
+    "difficult",
+    "funny",
+    "horror",
+    "exploration",
+    "fantasy"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ZoneUE4.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "ZoneUE4/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "ZoneUE4/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Mutant Year Zero: Road to Eden",
+    "ZoneUE4"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/760060/b263a08326409d579612ac5745bab3c3543ab442.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760060/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760060/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760060/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760060/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760060/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760060/ss_cc3ae0dc48d7f9294eadadd2ffd96a8284455e7a.1920x1080.jpg?t=1764698075"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760060/ss_455ca83e8708581231fe8c7c8861aa47547f50db.1920x1080.jpg?t=1764698075"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760060/ss_3e897582becb70f80afa568fe85004ba4e507caa.1920x1080.jpg?t=1764698075"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760060/ss_1c499d1996b390e2d6e5a95d1b73f54e3fd9ec1e.1920x1080.jpg?t=1764698075"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760060/ss_a61f5608dfaee2e5f152d512744b3924ab43ce35.1920x1080.jpg?t=1764698075"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760060/ss_422c06d4911bb0a4c1f9dd010f4af26a06bbbf83.1920x1080.jpg?t=1764698075"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760060/ss_cd1af2c00807a6e4645506a3943491833c562313.1920x1080.jpg?t=1764698075"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760060/ss_fd0d399c7c6d1823963a56b73e4964f9b52d4dc6.1920x1080.jpg?t=1764698075"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760060/ss_d2e76794f7064f55dda5ca66aa79e7b26271ff4c.1920x1080.jpg?t=1764698075"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256737394/movie.293x165.jpg?t=1551267812",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/760060/199077/678eb92dcef3467de68d0a9b13f6e1ff7fd088f9/1750579492/dash_h264.mpd?t=1551267812"
+    },
+    {
+      "name": "Cinematic Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256709949/movie.293x165.jpg?t=1519819194",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/760060/149183/e846f81f4fde3000c916dbcd9327b5eea6f51261/1750579488/dash_h264.mpd?t=1519819194"
+    },
+    {
+      "name": "What is Mutant Year Zero: Road to Eden",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256732491/movie.293x165.jpg?t=1539868347",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/760060/190942/e1ffe222d87ab00000c10707a892c605dea869bc/1750579491/dash_h264.mpd?t=1539868347"
+    }
+  ],
+  "metacritic": {
+    "score": 78,
+    "url": "https://www.metacritic.com/game/pc/mutant-year-zero-road-to-eden?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 760060,
+    "store_url": "https://store.steampowered.com/app/760060/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "RPG",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "RPG",
+      "Turn-Based Combat",
+      "Post-apocalyptic",
+      "Turn-Based Tactics",
+      "Tactical",
+      "Turn-Based",
+      "Adventure",
+      "Stealth",
+      "Singleplayer",
+      "Turn-Based Strategy",
+      "Atmospheric",
+      "Action",
+      "Survival",
+      "Dark Fantasy",
+      "Difficult",
+      "Funny",
+      "Horror",
+      "Exploration",
+      "Fantasy"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 18487,
+    "review_negative": 1997,
+    "review_total": 20484,
+    "review_positive_percent": 90.25
+  }
+}

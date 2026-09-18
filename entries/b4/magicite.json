@@ -1,0 +1,162 @@
+{
+  "key": "magicite",
+  "name": "Magicite",
+  "description": "Explore, craft, and survive in this Multiplayer RPG Platformer with permanent death! Featuring many Rogue-like elements, Magicite randomly generates each underground dungeon for you and your friends to delve deep into.",
+  "developers": [
+    "Sean Young"
+  ],
+  "publishers": [
+    "SmashGames"
+  ],
+  "release_date": "2014-06-10",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "multiplayer",
+    "roguelike",
+    "pixel-graphics",
+    "2d",
+    "action-roguelike",
+    "platformer",
+    "crafting",
+    "co-op",
+    "perma-death",
+    "survival",
+    "difficult",
+    "online-co-op",
+    "roguelite",
+    "singleplayer",
+    "sandbox",
+    "side-scroller"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Magicite.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Magicite.app\\Contents\\MacOS\\Magicite",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Magicite",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Magicite",
+    "Magicite.app\\Contents\\MacOS\\Magicite"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/268750/c6255e1b4572edc623171fd521ebb4b4d9a4b75a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268750/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268750/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268750/capsule_231x87.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268750/ss_5a91071f1624dfe96b085630795e9363fee6d8d8.1920x1080.jpg?t=1710472289"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268750/ss_887f93bcc635120ff3bec67997db386081f09847.1920x1080.jpg?t=1710472289"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268750/ss_a14e69bea2cf4235c81671f6eeccd1dbf721e108.1920x1080.jpg?t=1710472289"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268750/ss_d42a4fec86bd1a207d0df892e1f873ee3561872c.1920x1080.jpg?t=1710472289"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268750/ss_71cf1ec9158027681f39c15e98a8bc098d672ea8.1920x1080.jpg?t=1710472289"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Magicite Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2030977/movie.293x165.jpg?t=1447360435",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/268750/17384/55a0edc873fb5bd72297ebbc3dbae6f2e5223417/1751260880/dash_h264.mpd?t=1447360435"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 268750,
+    "store_url": "https://store.steampowered.com/app/268750/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Indie",
+      "RPG",
+      "Roguelike",
+      "Multiplayer",
+      "Pixel Graphics",
+      "2D",
+      "Action Roguelike",
+      "Adventure",
+      "Platformer",
+      "Crafting",
+      "Co-op",
+      "Perma Death",
+      "Action",
+      "Survival",
+      "Difficult",
+      "Online Co-Op",
+      "Roguelite",
+      "Singleplayer",
+      "Sandbox",
+      "Side Scroller"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 6463,
+    "review_negative": 1123,
+    "review_total": 7586,
+    "review_positive_percent": 85.2
+  }
+}

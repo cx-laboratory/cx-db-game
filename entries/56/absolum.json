@@ -1,0 +1,249 @@
+{
+  "key": "absolum",
+  "name": "Absolum",
+  "description": "Fight as the outcast heroes of Talamh in a fierce battle to retake magic from Sun King Azra’s grasp in Absolum, an original roguelite beat ‘em up by Dotemu.",
+  "developers": [
+    "Dotemu"
+  ],
+  "publishers": [
+    "Dotemu"
+  ],
+  "release_date": "2025-10-09",
+  "website": "https://www.playabsolum.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "split-screen",
+    "beat-em-up",
+    "roguelike",
+    "roguelite",
+    "local-multiplayer",
+    "hand-drawn",
+    "fantasy",
+    "fighting",
+    "side-scroller",
+    "hack-and-slash",
+    "action-adventure",
+    "dwarves",
+    "action-roguelike",
+    "arcade",
+    "old-school"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "绝对魔权",
+    "tchinese": "絕對魔權",
+    "japanese": "Absolum (アブソラム)",
+    "koreana": "압솔룸"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "x64.steam\\Absolum.exe",
+          "description": "Retail",
+          "type": "default"
+        },
+        {
+          "executable": "x64.NON_RETAIL\\Absolum.exe",
+          "description": "NON RETAIL",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Absolum_SaveGame_Steam",
+          "pattern": "Save.bin",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Absolum",
+    "x64.steam\\Absolum",
+    "x64.NON_RETAIL\\Absolum",
+    "绝对魔权",
+    "絕對魔權",
+    "Absolum (アブソラム)",
+    "압솔룸"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1904480/e8df84738a435cdcc3e6355ac63b33413ba93faf.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/65f868078425ea29b87cb85075fcd1b3a8b71400/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/8d12dc39e315778caba4da711250e7618b6c9cf3/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/ade63b00f9dd2b767dc1fd7c0df0cd17013c7eed/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/77de5d73d892e6a163b5e4758f8ffe8a492591c7/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/0975dfa83e28cc60d33d280d9dd63a1e3574da0a/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/d71352f60e6b4cc27c5b9a224d6827ec647d2fac/ss_d71352f60e6b4cc27c5b9a224d6827ec647d2fac.1920x1080.jpg?t=1782461798"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/7eb27341f5ce29c6deccfde32792fd9a156ff57a/ss_7eb27341f5ce29c6deccfde32792fd9a156ff57a.1920x1080.jpg?t=1782461798"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/c678e413a5268e5a60e9ec08dfa6dc3e079e432e/ss_c678e413a5268e5a60e9ec08dfa6dc3e079e432e.1920x1080.jpg?t=1782461798"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/d9b75c8a2e9dc9ddb09f8390f23e9e8ed44111c2/ss_d9b75c8a2e9dc9ddb09f8390f23e9e8ed44111c2.1920x1080.jpg?t=1782461798"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/ea0656207cbaf00003294eee4ce963b6df166916/ss_ea0656207cbaf00003294eee4ce963b6df166916.1920x1080.jpg?t=1782461798"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/c8246fcdb78cab61fba6d1ac8265982e9d601ac5/ss_c8246fcdb78cab61fba6d1ac8265982e9d601ac5.1920x1080.jpg?t=1782461798"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/b3a8d0020cec236134d98cae4f3c3cea31258a0f/ss_b3a8d0020cec236134d98cae4f3c3cea31258a0f.1920x1080.jpg?t=1782461798"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/e409fa794bdb1f938e2f9eb4c099a69cc567e1f6/ss_e409fa794bdb1f938e2f9eb4c099a69cc567e1f6.1920x1080.jpg?t=1782461798"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/d63a25ed4dfdd40c56ca9183f5269c013bdcaa9b/ss_d63a25ed4dfdd40c56ca9183f5269c013bdcaa9b.1920x1080.jpg?t=1782461798"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/0f55b2190d847601a4576c6008c04a00620ee96b/ss_0f55b2190d847601a4576c6008c04a00620ee96b.1920x1080.jpg?t=1782461798"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/bc8ceff4c2af27b2f7b475e4dce00cbfb6505778/ss_bc8ceff4c2af27b2f7b475e4dce00cbfb6505778.1920x1080.jpg?t=1782461798"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/0f34686ccbba73337c7da08dd355b728a91adb6b/ss_0f34686ccbba73337c7da08dd355b728a91adb6b.1920x1080.jpg?t=1782461798"
+    }
+  ],
+  "videos": [
+    {
+      "name": "1.1 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257285326/7760af592991998adf58948c65dd7d9de4780ab0/movie_600x337.jpg?t=1770912198",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1904480/2068584767/144517086f27756a5eae5718049e47748069020b/1770884262/dash_h264.mpd?t=1770912198"
+    },
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257201320/1c40f8278d969439447727747ca9dd32b150f9ef/movie_600x337.jpg?t=1758219541",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1904480/98855824/2c17d4f09d67d5e350416938455ae026119a3d6a/1758208704/dash_h264.mpd?t=1758219541"
+    },
+    {
+      "name": "Accolade Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257219159/0c7be85294931353fc35cfd35c44a2d9f0014d0d/movie_600x337.jpg?t=1770912198",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1904480/1170748570/4afe2e5864670282408b7872eeca33e04a360f58/1760691988/dash_h264.mpd?t=1770912198"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257214295/b6e09b95daef8300d5f99fffde34b62bf5eed748/movie_600x337.jpg?t=1760014203",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1904480/14703344/f4f32682eb04c0b8a5ab38ff32796f9e1f7fe9fe/1759933373/dash_h264.mpd?t=1760014203"
+    },
+    {
+      "name": "Brome Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257185472/d8965f64995a535680f816150c90d9cb32f5ab71/movie_600x337.jpg?t=1755625535",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1904480/239162565/913f07ea449ac27bb9179fe70a8e58477aa60778/1755616488/dash_h264.mpd?t=1755625535"
+    },
+    {
+      "name": "Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257099952/75da89baaff6a518d09b361e13ba60b9e3f51427/movie_600x337.jpg?t=1741103500",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1904480/831625/1b0d8d268b0d13ab65f18f1a50d18cb293cfbc68/1751494319/dash_h264.mpd?t=1741103500"
+    },
+    {
+      "name": "Cider Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257144247/c19152a40e31e3aef4933a5e1436f2701c180196/movie_600x337.jpg?t=1748973943",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1904480/1593348454/1d55804cbf1dd8c039a4442df0d6542d3116c835/1751045780/dash_h264.mpd?t=1748973943"
+    }
+  ],
+  "metacritic": {
+    "score": 87,
+    "url": "https://www.metacritic.com/game/pc/absolum?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1904480,
+    "store_url": "https://store.steampowered.com/app/1904480/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Gamepad Recommended",
+      "Keyboard Only Option",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Beat 'em up",
+      "Roguelite",
+      "Local Co-Op",
+      "Hand-drawn",
+      "Fantasy",
+      "Action",
+      "Co-op",
+      "Adventure",
+      "Fighting",
+      "Side Scroller",
+      "RPG",
+      "Hack and Slash",
+      "Multiplayer",
+      "Action-Adventure",
+      "Indie",
+      "Dwarves",
+      "Action Roguelike",
+      "Arcade",
+      "Online Co-Op",
+      "Old School"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 9317,
+    "review_negative": 794,
+    "review_total": 10111,
+    "review_positive_percent": 92.15
+  }
+}

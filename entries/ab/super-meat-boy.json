@@ -1,0 +1,236 @@
+{
+  "key": "super-meat-boy",
+  "name": "Super Meat Boy",
+  "description": "The infamous, tough-as-nails platformer comes to Steam with a playable Head Crab character (Steam-exclusive)!",
+  "developers": [
+    "Team Meat"
+  ],
+  "publishers": [],
+  "release_date": "2010-12-01",
+  "website": "http://www.supermeatboy.com",
+  "tags": [
+    "indie",
+    "precision-platformer",
+    "platformer",
+    "difficult",
+    "2d-platformer",
+    "pixel-graphics",
+    "2d",
+    "singleplayer",
+    "great-soundtrack",
+    "fast-paced",
+    "retro",
+    "controller",
+    "gore",
+    "action",
+    "time-attack",
+    "funny",
+    "comedy",
+    "side-scroller",
+    "replay-value",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "spanish",
+    "russian",
+    "japanese",
+    "polish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SuperMeatBoy.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "UserData",
+          "pattern": "savegame.dat",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "UserData",
+          "pattern": "reg*.dat",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "SuperMeatBoy.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "UserData",
+          "pattern": "savegame.dat",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "UserData",
+          "pattern": "reg*.dat",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "SuperMeatBoy",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "UserData",
+          "pattern": "savegame.dat",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "UserData",
+          "pattern": "reg*.dat",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Super Meat Boy",
+    "SuperMeatBoy",
+    "SuperMeatBoy.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/40800/64eec20c9375e7473b964f0d0bc41d19f03add3b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40800/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40800/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40800/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40800/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40800/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40800/ss_2482dad154fa38c32195a5301891ec7d9cefa7da.1920x1080.jpg?t=1700669950"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40800/ss_652092068cc0d5e75fe3f199ad1bbc395806c1f2.1920x1080.jpg?t=1700669950"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40800/ss_71f114e451550394500613d8ec8082ae3eac44e5.1920x1080.jpg?t=1700669950"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40800/ss_d158c2843c714bf2294376e03d9c4d6c7cd96397.1920x1080.jpg?t=1700669950"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40800/ss_8579adfaa58c863497e71df1b36331d37e51aeab.1920x1080.jpg?t=1700669950"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40800/ss_84f8832c8cfb5d93dba79c099b0067e22447cbab.1920x1080.jpg?t=1700669950"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40800/ss_1d69a008fd9716dd2c35f8c1b5ccd467cd1a2ad3.1920x1080.jpg?t=1700669950"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40800/ss_caa6db7059ac1e918ea38d643ef752e2dccef970.1920x1080.jpg?t=1700669950"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40800/ss_dd29364268bcc989db0b56f3c2a95c67fc6f6761.1920x1080.jpg?t=1700669950"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40800/ss_b2998adf37b0276c240315732169e06886942e78.1920x1080.jpg?t=1700669950"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40800/ss_06d79fbc925d6d8e6709b9878885dcce8e0b689a.1920x1080.jpg?t=1700669950"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40800/ss_1e0f1c101a41a4120b552be8c4e037ef5025102a.1920x1080.jpg?t=1700669950"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40800/ss_b0e5343cb98e7811ed6db19311ce7fada7889442.1920x1080.jpg?t=1700669950"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Super Meat Boy Trailer 2",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5713/movie.293x165.jpg?t=1447353186",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/40800/3587/48c3f6f70f8d244dd58c9a7d365c3796ed0dfc0b/1750485478/dash_h264.mpd?t=1447353186"
+    }
+  ],
+  "metacritic": {
+    "score": 87,
+    "url": "https://www.metacritic.com/game/pc/super-meat-boy?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 40800,
+    "store_url": "https://store.steampowered.com/app/40800/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Gamepad Recommended",
+      "Steam Leaderboards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Precision Platformer",
+      "Platformer",
+      "Difficult",
+      "Indie",
+      "2D Platformer",
+      "Pixel Graphics",
+      "2D",
+      "Singleplayer",
+      "Great Soundtrack",
+      "Fast-Paced",
+      "Retro",
+      "Controller",
+      "Gore",
+      "Action",
+      "Time Attack",
+      "Funny",
+      "Comedy",
+      "Side Scroller",
+      "Replay Value",
+      "Adventure"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 36430,
+    "review_negative": 2241,
+    "review_total": 38671,
+    "review_positive_percent": 94.2
+  }
+}

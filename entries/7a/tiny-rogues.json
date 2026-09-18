@@ -1,0 +1,170 @@
+{
+  "key": "tiny-rogues",
+  "name": "Tiny Rogues",
+  "description": "Tiny Rogues is a challenging fantasy rogue-lite bullet-hell dungeon crawler with rpg elements. Build a new unique character each run and fight one monster-infested room after another! Discover unique weapons, collect magical items and level up to become more and more powerful!",
+  "developers": [
+    "RubyDev"
+  ],
+  "publishers": [
+    "RubyDev"
+  ],
+  "release_date": "2022-09-23",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "early-access",
+    "action-roguelike",
+    "bullet-hell",
+    "replay-value",
+    "top-down-shooter",
+    "difficult",
+    "roguelite",
+    "dungeon-crawler",
+    "roguelike",
+    "top-down",
+    "action-adventure",
+    "1980s",
+    "fantasy",
+    "pixel-graphics",
+    "singleplayer",
+    "combat",
+    "2d"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Tiny Rogues.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "RubyDev/Tiny Rogues",
+          "pattern": "*.save",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "RubyDev/Tiny Rogues",
+          "pattern": "*.json",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Tiny Rogues"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2088570/7ec7eebf0e29881f26fb55fa9e031e6228941811.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088570/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088570/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088570/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088570/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088570/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088570/ss_7c92a16dc0b0b57c960cef58bd9d3df97a783a6e.1920x1080.jpg?t=1757771623"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088570/ss_28467cdba34d32a72e56f05edfedf84672654790.1920x1080.jpg?t=1757771623"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088570/ss_54f4d64f51002dd93f199ac1c8ddeb6bceaffa8e.1920x1080.jpg?t=1757771623"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088570/ss_c7b98154cb863fec07dddcb6ed92de19012dfebd.1920x1080.jpg?t=1757771623"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088570/ss_3a9dc2df2b7b97f2f5520d0f3fd036e8219b140c.1920x1080.jpg?t=1757771623"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088570/ss_bac1768fd95948ae3f60f7980c71b7a8ef8615f0.1920x1080.jpg?t=1757771623"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088570/ss_ffd24d07fd8f80c32c0e6da67fd042564ef2c8a0.1920x1080.jpg?t=1757771623"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088570/ss_920baef15de62ce60a1636f88874f7ea048b9ab0.1920x1080.jpg?t=1757771623"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Tiny Rogues Expansion",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256990640/movie.293x165.jpg?t=1703258565",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2088570/643402/bc0f63bae1d1db8138cb00cffabd781016b14784/1750746317/dash_h264.mpd?t=1703258565"
+    },
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256904129/movie.293x165.jpg?t=1662448012",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2088570/493306/b6f015d04e0ff06516e4ff1aae6794343594ca2d/1750746316/dash_h264.mpd?t=1662448012"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2088570,
+    "store_url": "https://store.steampowered.com/app/2088570/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Bullet Hell",
+      "Replay Value",
+      "Top-Down Shooter",
+      "Difficult",
+      "Roguelite",
+      "Dungeon Crawler",
+      "Roguelike",
+      "Top-Down",
+      "Action-Adventure",
+      "1980s",
+      "Adventure",
+      "Fantasy",
+      "Pixel Graphics",
+      "Singleplayer",
+      "RPG",
+      "Combat",
+      "Early Access",
+      "2D",
+      "Indie"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 10226,
+    "review_negative": 405,
+    "review_total": 10631,
+    "review_positive_percent": 96.19
+  }
+}

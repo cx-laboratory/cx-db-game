@@ -1,0 +1,244 @@
+{
+  "key": "everspace",
+  "name": "EVERSPACE™",
+  "description": "EVERSPACE™ combines fast-paced combat with roguelike elements, great visuals and a captivating story. It takes you on a challenging journey through an ever-changing, beautifully crafted universe full of surprises. Shoot, craft and loot your way to victory while the odds are stacked against you.",
+  "developers": [
+    "ROCKFISH Games"
+  ],
+  "publishers": [
+    "ROCKFISH Games"
+  ],
+  "release_date": "2017-05-26",
+  "website": "https://everspace-game.com/",
+  "tags": [
+    "action",
+    "indie",
+    "space",
+    "action-roguelike",
+    "sci-fi",
+    "space-sim",
+    "roguelite",
+    "singleplayer",
+    "flight",
+    "shooter",
+    "vr",
+    "roguelike",
+    "6dof",
+    "exploration",
+    "survival",
+    "difficult",
+    "arcade",
+    "great-soundtrack",
+    "simulation",
+    "first-person"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "russian",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "RSG\\Binaries\\Win64\\RSG-Win64-Shipping.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "RSG\\Binaries\\Win32\\RSG-Win32-Shipping.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "RSG\\Binaries\\Win64\\RSG-Win64-Shipping.exe",
+          "description": "EVERSPACE™",
+          "type": "vr"
+        },
+        {
+          "executable": "RSG\\Binaries\\Win64\\RSG-Win64-Shipping.exe",
+          "description": "EVERSPACE™",
+          "type": "othervr"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "EVERSPACE.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "EverspaceWithSystemLibraries.sh",
+          "description": "EVERSPACE™ (system video libraries)",
+          "type": "default"
+        },
+        {
+          "executable": "EverspaceWithShippedLibraries.sh",
+          "description": "EVERSPACE™ (shipped video libraries)",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "EVERSPACE™",
+    "RSG\\Binaries\\Win64\\RSG-Win64-Shipping",
+    "RSG\\Binaries\\Win32\\RSG-Win32-Shipping",
+    "EVERSPACE.app",
+    "EverspaceWithSystemLibraries.sh",
+    "EverspaceWithShippedLibraries.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/396750/46e33e30c65ec0c149f57a903e964ef6f14cf6f7.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396750/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396750/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396750/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396750/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396750/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396750/ss_275df9806519b7ea0b425fb30e89064fe1630ad0.1920x1080.jpg?t=1778565150"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396750/ss_5832d8465bb172d3a05b554138cf12db9fde56a6.1920x1080.jpg?t=1778565150"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396750/ss_96dfe9eca586c42e4a109eb90021bee5dc1edc74.1920x1080.jpg?t=1778565150"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396750/ss_40a065e7703849e210402fa985addf799a7cdfa9.1920x1080.jpg?t=1778565150"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396750/ss_ae399780030a1936084520f1632595a1e79a36ce.1920x1080.jpg?t=1778565150"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396750/ss_be3fc827a8d5e72443b34c846ab4c32df8fd5cb6.1920x1080.jpg?t=1778565150"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396750/ss_c9a3188f0f7a2d051894f07b58dba57824e66c5b.1920x1080.jpg?t=1778565150"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396750/ss_a8f49d42a8739bd6acb91c48f903a148556b3507.1920x1080.jpg?t=1778565150"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396750/ss_c6634d515b554ca97cc95088e3c27e32d7cc87f1.1920x1080.jpg?t=1778565150"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396750/ss_80d9cd76c1b5548052951a7a11249d728d8e7f71.1920x1080.jpg?t=1778565150"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396750/ss_cb985acb0b53fb73d519dece47b2f7390b9e8b48.1920x1080.jpg?t=1778565150"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396750/ss_5b33e626d04f63e8b2b8c06c45482f2472a7580c.1920x1080.jpg?t=1778565150"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396750/ss_fd30fb3bfda67181204191ef10c40ff35ed5210f.1920x1080.jpg?t=1778565150"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396750/ss_734e5c13fceef8d9e23b8474dbd672c292e8c2d9.1920x1080.jpg?t=1778565150"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396750/ss_a046c0096d15866e5fdfe99b185470b94c41e53b.1920x1080.jpg?t=1778565150"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396750/ss_4021cc547ec2f959ae867721acecb671554c8443.1920x1080.jpg?t=1778565150"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396750/ss_c5b7dcc080d50d7c41b5b689cb231c0fd4ee4deb.1920x1080.jpg?t=1778565150"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396750/ss_e62119a0889967920ca309921f932708d65fd3c8.1920x1080.jpg?t=1778565150"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396750/ss_a91ff11d61e9554ecbf90a63c0ec6bbc9e83fc83.1920x1080.jpg?t=1778565150"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396750/ss_5e2d850886f56355a8244e22bf53864b6de54d9f.1920x1080.jpg?t=1778565150"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Early Access Launch Trailer 60 fps ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256670673/movie.293x165.jpg?t=1683141843",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/396750/72580/4543f3fb3ed7f8794a4614d596276058c2fe5140/1751275513/dash_h264.mpd?t=1683141843"
+    }
+  ],
+  "metacritic": {
+    "score": 79,
+    "url": "https://www.metacritic.com/game/pc/everspace?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 396750,
+    "store_url": "https://store.steampowered.com/app/396750/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "VR Supported",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Space",
+      "Action Roguelike",
+      "Action",
+      "Indie",
+      "Sci-fi",
+      "Space Sim",
+      "Roguelite",
+      "Singleplayer",
+      "Flight",
+      "Shooter",
+      "VR",
+      "Roguelike",
+      "6DOF",
+      "Exploration",
+      "Survival",
+      "Difficult",
+      "Arcade",
+      "Great Soundtrack",
+      "Simulation",
+      "First-Person"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 8952,
+    "review_negative": 2486,
+    "review_total": 11438,
+    "review_positive_percent": 78.27
+  }
+}

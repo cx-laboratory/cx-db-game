@@ -1,0 +1,174 @@
+{
+  "key": "shelldiver",
+  "name": "Shelldiver",
+  "description": "Take a deep breath and dive right into this cozy incremental game about a senior turtle trying to start a business selling jellyfish. Upgrade your equipment, explore biomes, and help your turtly village!",
+  "developers": [
+    "Gagonfe"
+  ],
+  "publishers": [
+    "Gagonfe"
+  ],
+  "release_date": "2025-11-16",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure",
+    "incremental",
+    "casual",
+    "resource-management",
+    "management",
+    "idler",
+    "arcade",
+    "relaxing",
+    "simulation",
+    "2d",
+    "colorful",
+    "cute",
+    "strategy",
+    "2d-platformer",
+    "platformer",
+    "pixel-graphics",
+    "singleplayer",
+    "economy",
+    "collectathon"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "Portuguese - Brazil*",
+    "French*",
+    "German*",
+    "Spanish - Spain*",
+    "Japanese*",
+    "Korean*",
+    "Polish*",
+    "Russian*",
+    "Simplified Chinese*",
+    "Traditional Chinese*",
+    "Portuguese - Portugal*",
+    "Italian**languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "龟龟潜海记 Shelldiver",
+    "tchinese": "龜龜潛海記 Shelldiver"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Shelldiver.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Shelldiver",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Shelldiver",
+    "龟龟潜海记 Shelldiver",
+    "龜龜潛海記 Shelldiver"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3862670/595a781bdf5384d269f24b8f05a158788b772e6b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3862670/e967f8f5201f55f7b098bf3b9a54c8c8f38012b3/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3862670/4ffb6685d97f5427df16cc85804ef2845fb5b4ea/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3862670/8628f63e0a3c69501f553ba8e41dfacb4d0cd614/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3862670/2c454927ac11dab7d0d6ce82a47a1a5c6453fdb9/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3862670/12afc7cabd1b4e3941f1430601d2339f5c5458ae/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3862670/95fd11033396ee6cc9f854936c0a176074b7a565/ss_95fd11033396ee6cc9f854936c0a176074b7a565.1920x1080.jpg?t=1782010049"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3862670/8db98935b90ce26a668eb2bb39f07dc97e6313b2/ss_8db98935b90ce26a668eb2bb39f07dc97e6313b2.1920x1080.jpg?t=1782010049"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3862670/11b67ffe293afdd4daba43d66a01c7b73b6e8a47/ss_11b67ffe293afdd4daba43d66a01c7b73b6e8a47.1920x1080.jpg?t=1782010049"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3862670/eb4f487936b97aa0da6b79de3ef67c0c0c999583/ss_eb4f487936b97aa0da6b79de3ef67c0c0c999583.1920x1080.jpg?t=1782010049"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3862670/dd775d91cdf09d703f3ef631ffc7980f1d6746bf/ss_dd775d91cdf09d703f3ef631ffc7980f1d6746bf.1920x1080.jpg?t=1782010049"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3862670/5622ca3c164c0223672651ad1b1576d50479b766/ss_5622ca3c164c0223672651ad1b1576d50479b766.1920x1080.jpg?t=1782010049"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Shelldiver Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257171360/2bd2fa0180e3fc6b7ba5c20def40e6c04634aa6b/movie_600x337.jpg?t=1762634983",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3862670/608603523/803c809243ae97f31c52231547b1ff886cde6f16/1762633612/dash_h264.mpd?t=1762634983"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3862670,
+    "store_url": "https://store.steampowered.com/app/3862670/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Camera Comfort",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Incremental",
+      "Casual",
+      "Resource Management",
+      "Management",
+      "Idler",
+      "Arcade",
+      "Relaxing",
+      "Simulation",
+      "2D",
+      "Colorful",
+      "Cute",
+      "Strategy",
+      "Action",
+      "2D Platformer",
+      "Platformer",
+      "Adventure",
+      "Pixel Graphics",
+      "Singleplayer",
+      "Economy",
+      "Collectathon"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 14959,
+    "review_negative": 189,
+    "review_total": 15148,
+    "review_positive_percent": 98.75
+  }
+}

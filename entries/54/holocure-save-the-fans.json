@@ -1,0 +1,180 @@
+{
+  "key": "holocure-save-the-fans",
+  "name": "HoloCure - Save the Fans!",
+  "description": "Play as your favorite Vtubers from Hololive! Fight, explore, and clear your way through armies of fans and save them from their mind-control in this unofficial free fan-game.",
+  "developers": [
+    "KayAnimate"
+  ],
+  "publishers": [
+    "KayAnimate"
+  ],
+  "release_date": "2023-08-17",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure",
+    "casual",
+    "indie",
+    "pixel-graphics",
+    "bullet-heaven",
+    "anime",
+    "roguelike",
+    "action-roguelike",
+    "bullet-hell",
+    "cute",
+    "roguelite",
+    "2d",
+    "singleplayer",
+    "top-down-shooter",
+    "female-protagonist",
+    "arcade",
+    "colorful",
+    "fishing",
+    "free-to-play",
+    "farming",
+    "score-attack",
+    "fantasy"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "japanese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "HoloCure.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "SteamCloudDocuments",
+          "path": "HoloCure/",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "HoloCure - Save the Fans!",
+    "HoloCure"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2420510/424bcd57080c089514802ec96ce87c4a3ffd7bbe.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420510/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420510/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420510/4fe4a46c533931695265008aa6158f947bb7ddde/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420510/1fd9a8f11cf8ca1d458d7b492e2b94da8b38410d/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420510/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420510/ss_0b4a50d12f737a522960ba3b3229546f536ff57f.1920x1080.jpg?t=1740642230"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420510/ss_a393d743965dc088d53d97c493ee6728d74b384d.1920x1080.jpg?t=1740642230"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420510/ss_f678c4dd81fd2c42b0682cba66317e6914bde75b.1920x1080.jpg?t=1740642230"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420510/ss_7a15a419e71af6c3e27cf077056ec497fe411649.1920x1080.jpg?t=1740642230"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420510/ss_bb2bc42e3f60aca430e72a2806a8425f57564da5.1920x1080.jpg?t=1740642230"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420510/ss_ed3167797ee64fb25c72d6f32201d4e8a54fc272.1920x1080.jpg?t=1740642230"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420510/ss_aca4b48b38e544f93fa6490e8be9516dd775e541.1920x1080.jpg?t=1740642230"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420510/ss_46356c2154eabbd56455a57051b53ea81be2936d.1920x1080.jpg?t=1740642230"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420510/ss_e699da8e3d0e23decce2d3761be4b0cad7361c2c.1920x1080.jpg?t=1740642230"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420510/ss_de5c1fef005614d3492d43d8ef8da4a399c81b51.1920x1080.jpg?t=1740642230"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420510/ss_4f201257bdbcef36f748a754d0b8180f0e38002a.1920x1080.jpg?t=1740642230"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420510/ss_4986ba33112e0f501c93324cf7a6789bd7995a32.1920x1080.jpg?t=1740642230"
+    }
+  ],
+  "videos": [
+    {
+      "name": "0.6 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256958389/movie.293x165.jpg?t=1689447106",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2420510/587885/b78b6bc5d5c7e4619d2b513050394e4f6a0ba624/1750917107/dash_h264.mpd?t=1689447106"
+    },
+    {
+      "name": "Intro Cinematic",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256948625/movie.293x165.jpg?t=1684877665",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2420510/570939/208fd51b24f76a8d669d803915da993dd538ede4/1750917107/dash_h264.mpd?t=1684877665"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2420510,
+    "store_url": "https://store.steampowered.com/app/2420510/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Gamepad Recommended",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Pixel Graphics",
+      "Bullet Heaven",
+      "Anime",
+      "Action Roguelike",
+      "Bullet Hell",
+      "Cute",
+      "Roguelite",
+      "2D",
+      "Action",
+      "Singleplayer",
+      "Top-Down Shooter",
+      "Casual",
+      "Female Protagonist",
+      "Arcade",
+      "Colorful",
+      "Fishing",
+      "Free to Play",
+      "Farming",
+      "Score Attack",
+      "Fantasy"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 40045,
+    "review_negative": 399,
+    "review_total": 40444,
+    "review_positive_percent": 99.01
+  }
+}

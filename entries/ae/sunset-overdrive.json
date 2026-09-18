@@ -1,0 +1,161 @@
+{
+  "key": "sunset-overdrive",
+  "name": "Sunset Overdrive",
+  "description": "Sunset Overdrive transforms an open-world apocalypse into your tactical playground. Zip, grind and wall-run across Sunset City with an unconventional arsenal. Hyper-agility, unique weapons, and customizable abilities deliver an explosive and irreverent adventure in the end times.",
+  "developers": [
+    "Insomniac Games"
+  ],
+  "publishers": [
+    "Xbox Game Studios"
+  ],
+  "release_date": "2018-11-17",
+  "website": "https://insomniac.games/game/sunset-overdrive/",
+  "tags": [
+    "action",
+    "adventure",
+    "open-world",
+    "parkour",
+    "character-customization",
+    "third-person-shooter",
+    "funny",
+    "singleplayer",
+    "comedy",
+    "violent",
+    "zombies",
+    "colorful",
+    "post-apocalyptic",
+    "great-soundtrack",
+    "third-person",
+    "shooter",
+    "fast-paced",
+    "sandbox",
+    "female-protagonist",
+    "3d-platformer"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Sunset.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "SavesDir",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Sunset Overdrive",
+    "Sunset"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/847370/9870dc3dc81444a78503eecb9ca54a9628a836f5.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/847370/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/847370/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/847370/library_600x900.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/847370/ss_bc4e90bd5505c06e70f58ae96b12f6be4835c0eb.1920x1080.jpg?t=1667851405"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/847370/ss_02db5be67f3a355e70eae25464d0ee3a4c2d0161.1920x1080.jpg?t=1667851405"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/847370/ss_a075dc8fedb2ef0eae0d797b85b1de00611359fe.1920x1080.jpg?t=1667851405"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/847370/ss_fdd2c21037567f512f15e85a285e62f94a554ccf.1920x1080.jpg?t=1667851405"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/847370/ss_1ac96a26cd56eaca8f40ebf8eb2472e524807e2b.1920x1080.jpg?t=1667851405"
+    }
+  ],
+  "videos": [
+    {
+      "name": "ESRB Rating Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256728972/movie.293x165.jpg?t=1541015606",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/847370/184770/3ce52a98c92f33836722f966ecc2f668676e354c/1750588801/dash_h264.mpd?t=1541015606"
+    }
+  ],
+  "metacritic": {
+    "score": 83,
+    "url": "https://www.metacritic.com/game/pc/sunset-overdrive?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 847370,
+    "store_url": "https://store.steampowered.com/app/847370/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Open World",
+      "Action",
+      "Parkour",
+      "Character Customization",
+      "Third-Person Shooter",
+      "Funny",
+      "Adventure",
+      "Singleplayer",
+      "Comedy",
+      "Violent",
+      "Zombies",
+      "Colorful",
+      "Post-apocalyptic",
+      "Great Soundtrack",
+      "Third Person",
+      "Shooter",
+      "Fast-Paced",
+      "Sandbox",
+      "Female Protagonist",
+      "3D Platformer"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 12900,
+    "review_negative": 1418,
+    "review_total": 14318,
+    "review_positive_percent": 90.1
+  }
+}

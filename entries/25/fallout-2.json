@@ -1,0 +1,110 @@
+{
+  "key": "fallout-2",
+  "name": "Fallout 2",
+  "description": "Fallout® 2 is the sequel to the critically acclaimed game that took RPG'ing out of the dungeons and into a dynamic, apocalyptic retro-future. It's been 80 long years since your ancestors trod across the wastelands.",
+  "developers": [
+    "Black Isle Studios"
+  ],
+  "publishers": [
+    "Bethesda Softworks"
+  ],
+  "release_date": "2009-08-19",
+  "website": "",
+  "tags": [
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "fallout2launcher.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "fallout2launcher.exe",
+          "description": "Play Classic Version (Best for older systems)",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Fallout 2",
+    "fallout2launcher"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/38410/df0001a1aa011e6c7a8f38a65908070eba3d2f61.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38410/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38410/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38410/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38410/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38410/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38410/ss_b47cd0e44a218e7461a93fd0cc9fdaf8288ed188.1920x1080.jpg?t=1572025546"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38410/ss_84fe8b4a65ca8ba733c5009cf783b29e40379fef.1920x1080.jpg?t=1572025546"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38410/ss_ea88210af50c888380a9c76adcf0999b48fe0ed7.1920x1080.jpg?t=1572025546"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38410/ss_0258a48bd38a15667c4871fcaba914153bb84084.1920x1080.jpg?t=1572025546"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38410/ss_3f91a8940ad9f3db99e604dbbb2f36dc189395fa.1920x1080.jpg?t=1572025546"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/38410/ss_84fbaa75ea4111b9341d47444c450ce1eefea4b1.1920x1080.jpg?t=1572025546"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Fallout 2 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/900941/movie.jpg?t=1447352413",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/38410/2362/819c947a5b0ecb64a847f30f00241d1f87e81d8e/1750485186/dash_h264.mpd?t=1447352413"
+    }
+  ],
+  "metacritic": {
+    "score": 86,
+    "url": "https://www.metacritic.com/game/pc/fallout-2?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 38410,
+    "store_url": "https://store.steampowered.com/app/38410/",
+    "required_age": 16,
+    "is_free": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 16209,
+    "review_negative": 1047,
+    "review_total": 17256,
+    "review_positive_percent": 93.93
+  }
+}

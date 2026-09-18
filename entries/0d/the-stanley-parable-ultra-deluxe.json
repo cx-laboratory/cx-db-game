@@ -1,0 +1,207 @@
+{
+  "key": "the-stanley-parable-ultra-deluxe",
+  "name": "The Stanley Parable: Ultra Deluxe",
+  "description": "The Stanley Parable: Ultra Deluxe is an expanded re-imagining of 2013's The Stanley Parable. You will play as Stanley, and you will not play as Stanley. You will make a choice, and you will become powerless. You are not here to win. The Stanley Parable is a game that plays you.",
+  "developers": [
+    "Crows Crows Crows"
+  ],
+  "publishers": [
+    "Crows Crows Crows"
+  ],
+  "release_date": "2022-04-28",
+  "website": "https://www.stanleyparable.com/",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "multiple-endings",
+    "choices-matter",
+    "comedy",
+    "walking-simulator",
+    "first-person",
+    "singleplayer",
+    "funny",
+    "exploration",
+    "3d",
+    "story-rich",
+    "mystery",
+    "emotional",
+    "dark-humor",
+    "atmospheric",
+    "horror",
+    "game-development"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "The Stanley Parable Ultra Deluxe.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Crows Crows Crows/The Stanley Parable_ Ultra Deluxe",
+          "pattern": "*.txt",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "TSPUD.app/Contents/MacOS/The Stanley Parable_ Ultra Deluxe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Crows Crows Crows/The Stanley Parable_ Ultra Deluxe",
+          "pattern": "*.txt",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "The Stanley Parable Ultra Deluxe.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Crows Crows Crows/The Stanley Parable_ Ultra Deluxe",
+          "pattern": "*.txt",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The Stanley Parable: Ultra Deluxe",
+    "The Stanley Parable Ultra Deluxe",
+    "TSPUD.app/Contents/MacOS/The Stanley Parable_ Ultra Deluxe",
+    "The Stanley Parable Ultra Deluxe.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1703340/f95fbb1094549fac0af15f7e905207da0e4d339d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1703340/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1703340/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1703340/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1703340/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1703340/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1703340/ss_b28f3003aac31f59d469468c8c74bbe410279a21.1920x1080.jpg?t=1712065263"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1703340/ss_eec7001b1e0fde761c5425bef747d17d57fec235.1920x1080.jpg?t=1712065263"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1703340/ss_44c19694ab4b0300c2c51dd0b3d69320ddf6a5a1.1920x1080.jpg?t=1712065263"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1703340/ss_a1df7d4b2546d11789b1e15a7627daccab13ff33.1920x1080.jpg?t=1712065263"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1703340/ss_1a0059da2e4f496f313acb7c65b58294d8f539f4.1920x1080.jpg?t=1712065263"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1703340/ss_12cfc84d1cd91027132e8d47eb2acaf1cc069349.1920x1080.jpg?t=1712065263"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Stanley Parable: Ultra Deluxe Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256886189/movie.293x165.jpg?t=1652303703",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1703340/462328/cdc931ae44fb10e373e085c5bbcf0d9d7e233919/1750727858/dash_h264.mpd?t=1652303703"
+    },
+    {
+      "name": "The Stanley Parable: Ultra Deluxe Launch Presentation",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256884231/movie.293x165.jpg?t=1652303708",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1703340/458711/a813c98db7b4cda26ab4cee7beb8d8fa3f5e024e/1750727816/dash_h264.mpd?t=1652303708"
+    },
+    {
+      "name": "The Stanley Parable: Ultra Deluxe Release Date",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256880185/movie.293x165.jpg?t=1648662113",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1703340/451215/b0d08e212d5af8ceb78292886898553c7c4bfc5a/1750727814/dash_h264.mpd?t=1648662113"
+    },
+    {
+      "name": "Where is The Stanley Parable: Ultra Deluxe?",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256861948/movie.293x165.jpg?t=1638463919",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1703340/419623/b2e0f710d315608b0bf62d393b616d363667394a/1750727808/dash_h264.mpd?t=1638463919"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1703340,
+    "store_url": "https://store.steampowered.com/app/1703340/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Multiple Endings",
+      "Choices Matter",
+      "Comedy",
+      "Walking Simulator",
+      "First-Person",
+      "Singleplayer",
+      "Funny",
+      "Psychological Horror",
+      "Exploration",
+      "3D",
+      "Story Rich",
+      "Adventure",
+      "Casual",
+      "Mystery",
+      "Emotional",
+      "Dark Humor",
+      "Atmospheric",
+      "Horror",
+      "Game Development",
+      "Indie"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 33202,
+    "review_negative": 2070,
+    "review_total": 35272,
+    "review_positive_percent": 94.13
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "key": "call-of-duty-2003",
+  "name": "Call of Duty (2003)",
+  "description": "Call of Duty® delivers the gritty realism and cinematic intensity of World War II's epic battlefield moments like never before.",
+  "developers": [
+    "Infinity Ward"
+  ],
+  "publishers": [
+    "Activision"
+  ],
+  "release_date": "2006-10-14",
+  "website": "http://www.callofduty.com/",
+  "tags": [
+    "action",
+    "multiplayer",
+    "fps",
+    "world-war-ii",
+    "classic",
+    "singleplayer",
+    "shooter",
+    "war",
+    "military",
+    "first-person",
+    "historical",
+    "atmospheric",
+    "linear",
+    "story-rich",
+    "violent",
+    "old-school",
+    "difficult",
+    "realistic",
+    "co-op",
+    "controller"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "German"
+  ],
+  "name_localized": {
+    "schinese": "使命召唤 (游戏)"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "CoDSP.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "CoDMP.exe",
+          "description": "Launch Call of Duty Multiplayer",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Call of Duty (2003)",
+    "CoDSP",
+    "CoDMP"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2620/b4ce47894dee6ec21b0ad96cfb2b8c0036098e39.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620/0000000686.1920x1080.jpg?t=1731699308"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620/0000000687.1920x1080.jpg?t=1731699308"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620/0000000688.1920x1080.jpg?t=1731699308"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620/0000000689.1920x1080.jpg?t=1731699308"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2620/0000000690.1920x1080.jpg?t=1731699308"
+    }
+  ],
+  "videos": [],
+  "metacritic": {
+    "score": 91,
+    "url": "https://www.metacritic.com/game/pc/call-of-duty?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 2620,
+    "store_url": "https://store.steampowered.com/app/2620/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Family Sharing"
+    ],
+    "tags": [
+      "FPS",
+      "World War II",
+      "Action",
+      "Classic",
+      "Singleplayer",
+      "Multiplayer",
+      "Shooter",
+      "War",
+      "Military",
+      "First-Person",
+      "Historical",
+      "Atmospheric",
+      "Linear",
+      "Story Rich",
+      "Violent",
+      "Old School",
+      "Difficult",
+      "Realistic",
+      "Co-op",
+      "Controller"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7266,
+    "review_negative": 410,
+    "review_total": 7676,
+    "review_positive_percent": 94.66
+  }
+}

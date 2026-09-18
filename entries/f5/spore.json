@@ -1,0 +1,186 @@
+{
+  "key": "spore",
+  "name": "Spore",
+  "description": "Be the architect of your own universe with Spore, an exciting single-player adventure. From Single Cell to Galactic God, evolve your creature in a universe of your own creations.",
+  "developers": [
+    "Maxis™"
+  ],
+  "publishers": [
+    "Electronic Arts"
+  ],
+  "release_date": "2008-12-19",
+  "website": "http://www.spore.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "casual",
+    "rpg",
+    "simulation",
+    "strategy",
+    "god-game",
+    "open-world",
+    "sandbox",
+    "colony-sim",
+    "exploration",
+    "space",
+    "cute",
+    "science",
+    "funny",
+    "aliens",
+    "sci-fi",
+    "cartoony",
+    "colorful",
+    "family-friendly",
+    "resource-management",
+    "comedy",
+    "cartoon"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "Czech",
+    "Danish",
+    "German",
+    "Spanish - Spain",
+    "Finnish",
+    "French",
+    "Italian",
+    "Hungarian",
+    "Dutch",
+    "Norwegian",
+    "Polish",
+    "Russian",
+    "Swedish",
+    "Portuguese - Portugal"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SporeBin\\SporeApp.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Support\\EA Help\\Electronic_Arts_Technical_Support.htm",
+          "description": "View Support Information",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Spore",
+    "SporeBin\\SporeApp",
+    "Support\\EA Help\\Electronic_Arts_Technical_Support.htm"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/17390/00e6b5f1f7173e5a2db9978de34df03abb886430.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17390/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17390/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17390/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17390/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17390/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17390/0000006439.1920x1080.jpg?t=1777486064"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17390/0000006440.1920x1080.jpg?t=1777486064"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17390/0000006441.1920x1080.jpg?t=1777486064"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17390/0000006442.1920x1080.jpg?t=1777486064"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17390/0000006443.1920x1080.jpg?t=1777486064"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17390/0000006444.1920x1080.jpg?t=1777486064"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17390/0000006445.1920x1080.jpg?t=1777486064"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17390/0000006446.1920x1080.jpg?t=1777486064"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17390/0000006447.1920x1080.jpg?t=1777486064"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17390/0000006448.1920x1080.jpg?t=1777486064"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17390/0000006449.1920x1080.jpg?t=1777486064"
+    }
+  ],
+  "videos": [
+    {
+      "name": "SPORE™ HD Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5158/movie.jpg?t=1447351599",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/17390/1513/d63b931c64ef884dea676f234ed700dfc68d7f3d/1750484580/dash_h264.mpd?t=1447351599"
+    }
+  ],
+  "metacritic": {
+    "score": 84,
+    "url": "https://www.metacritic.com/game/pc/spore?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 17390,
+    "store_url": "https://store.steampowered.com/app/17390/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Trading Cards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "God Game",
+      "Open World",
+      "Sandbox",
+      "Colony Sim",
+      "Simulation",
+      "Exploration",
+      "Space",
+      "Casual",
+      "Cute",
+      "Science",
+      "Funny",
+      "Aliens",
+      "Sci-fi",
+      "Adventure",
+      "Cartoony",
+      "Colorful",
+      "Family Friendly",
+      "Resource Management",
+      "Comedy",
+      "Cartoon"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 66567,
+    "review_negative": 5326,
+    "review_total": 71893,
+    "review_positive_percent": 92.59
+  }
+}

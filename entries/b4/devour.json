@@ -1,0 +1,261 @@
+{
+  "key": "devour",
+  "name": "DEVOUR",
+  "description": "DEVOUR is a co-op horror survival game for 1-4 players. Stop possessed cultists before they drag you to hell. Run. Scream. Hide. Just don't get caught.",
+  "developers": [
+    "Straight Back Games"
+  ],
+  "publishers": [
+    "Straight Back Games"
+  ],
+  "release_date": "2021-01-28",
+  "website": "http://www.devourgame.com",
+  "tags": [
+    "indie",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "horror",
+    "sexual-content",
+    "dark",
+    "survival",
+    "first-person",
+    "vr",
+    "atmospheric",
+    "gore",
+    "puzzle",
+    "difficult",
+    "singleplayer",
+    "violent",
+    "action",
+    "stealth"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "thai",
+    "japanese",
+    "portuguese",
+    "polish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "hungarian",
+    "czech",
+    "romanian",
+    "turkish",
+    "brazilian",
+    "ukrainian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "DEVOUR.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "DEVOUR.exe",
+          "description": "DEVOUR in VR",
+          "type": "option1"
+        },
+        {
+          "executable": "DEVOUR.exe",
+          "description": "",
+          "type": "vr"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Devour.app\\Contents\\MacOS\\DEVOUR",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "DEVOUR",
+    "Devour.app\\Contents\\MacOS\\DEVOUR"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1274570/e24aa080068d3686e0b1b5aa52a4155dc553e69d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/bb90f9fa36e4c35a5f28cdc38cf75b3eb5c39032/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/2bb13acfb7a1803ce427263e03a00d005029b490/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/9042301622369e9b82f54d49b8cc0d058fbc8006/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/21b3304d8784c10a578001de22f99ccd0f9d6242/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/459ff5f5e256e7ec2bfb5a8228fa49deb14bd8a7/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/ss_74c69c54b1b4f2dc14789e001787c6b462549698.1920x1080.jpg?t=1765533474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/ss_45cba337b726295b3ae6342b2ba9efefa9e6d8bc.1920x1080.jpg?t=1765533474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/ss_65b0bd84707c9c8b58a81adee7600014ca0cdeb8.1920x1080.jpg?t=1765533474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/ss_7545218574056a589e033425412d14b963b09e9a.1920x1080.jpg?t=1765533474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/ss_36738ba47b3b784fa6985cb9e4e835dd76a61087.1920x1080.jpg?t=1765533474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/ss_789fef11c0dbc306fc7627fca89649558c8cd5b1.1920x1080.jpg?t=1765533474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/ss_57335ee9ed5eea5e966c07681306ff4b816054a1.1920x1080.jpg?t=1765533474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/ss_e923485cb498cde39c49f012a4c7277b216033d2.1920x1080.jpg?t=1765533474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/ss_d8c7ddd3e7af60f7adbe2d752828bf2cea439f82.1920x1080.jpg?t=1765533474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/ss_a2f1db9158ddd1aac7d1cb2c6b0990bcae48eedd.1920x1080.jpg?t=1765533474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/ss_cd5f6885db130b00d490145a135af0afd50e1f77.1920x1080.jpg?t=1765533474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/ss_f1e3d84928786fcda5f57fc5ad9fa15cbad8db85.1920x1080.jpg?t=1765533474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/ss_af46992ff9dffaa071f87e2b2694d4ba68f3dd0c.1920x1080.jpg?t=1765533474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/ss_72ef154b7f27f6fae90d0ac397ebd844269d759e.1920x1080.jpg?t=1765533474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/ss_c960b48a33fdcadb66ffc641e774ed6943dfc7b6.1920x1080.jpg?t=1765533474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/ss_23c01248ad04b67f9075e650cd6bb4d620f4ec8c.1920x1080.jpg?t=1765533474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/ss_1de63f703eb689caae63a50731962d7ec586bb1b.1920x1080.jpg?t=1765533474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/29678df216a61ac47a79bacef7fb884d69b2fe85/ss_29678df216a61ac47a79bacef7fb884d69b2fe85.1920x1080.jpg?t=1765533474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274570/1e3207e19ee6157529989dda2dfe602256034299/ss_1e3207e19ee6157529989dda2dfe602256034299.1920x1080.jpg?t=1765533474"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Carnival Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257217484/fca369d451dfb9ec8b3a200ebcb9d04b2550e606/movie_600x337.jpg?t=1760547194",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1274570/101765352/92910a82e569cbb80049b2694edf433be32af73a/1760406001/dash_h264.mpd?t=1760547194"
+    },
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256815701/movie.293x165.jpg?t=1683079454",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1274570/336145/f6eacb092e3f6eca464ce55327a0de2c23f2b8e5/1750659351/dash_h264.mpd?t=1683079454"
+    },
+    {
+      "name": "The Manor Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257056439/77c1e39a3e7c20386c8d4c2458be3d0109075ac9/movie_600x337.jpg?t=1728688118",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1274570/757986/abdf17333f9eb040b7a9d1acd53c1e75fda1dd02/1750659418/dash_h264.mpd?t=1728688118"
+    },
+    {
+      "name": "The Slaughterhouse Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256934377/movie.293x165.jpg?t=1683079448",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1274570/545796/efc3edf3dfc50687e81e5d0d42fb63964775a88e/1750659385/dash_h264.mpd?t=1683079448"
+    },
+    {
+      "name": "The Town Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256878624/movie.293x165.jpg?t=1683079461",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1274570/448348/2707651034d6f0907a7fdc71d471ecfba6a971f6/1750659378/dash_h264.mpd?t=1683079461"
+    },
+    {
+      "name": "The Inn Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256851357/movie.293x165.jpg?t=1683079468",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1274570/400856/177656e866111b7c18d420ea0f8522c13f199de6/1750659376/dash_h264.mpd?t=1683079468"
+    },
+    {
+      "name": "The Asylum Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256831468/movie.293x165.jpg?t=1683079474",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1274570/363462/a565e70e17e1e3d2c9417ce47b12b9f5c046d8a1/1750659357/dash_h264.mpd?t=1683079474"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1274570,
+    "store_url": "https://store.steampowered.com/app/1274570/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Tracked Controller Support",
+      "VR Supported",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Horror",
+      "Online Co-Op",
+      "Multiplayer",
+      "Survival Horror",
+      "Sexual Content",
+      "Co-op",
+      "Psychological Horror",
+      "Dark",
+      "Survival",
+      "First-Person",
+      "VR",
+      "Atmospheric",
+      "Indie",
+      "Gore",
+      "Puzzle",
+      "Difficult",
+      "Singleplayer",
+      "Violent",
+      "Action",
+      "Stealth"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 79376,
+    "review_negative": 8313,
+    "review_total": 87689,
+    "review_positive_percent": 90.52
+  }
+}

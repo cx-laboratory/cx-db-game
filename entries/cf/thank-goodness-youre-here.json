@@ -1,0 +1,205 @@
+{
+  "key": "thank-goodness-youre-here",
+  "name": "Thank Goodness You're Here!",
+  "description": "Thank Goodness You're Here! is an absurd comedy slapformer set in the bizarre Northern English town of Barnsworth. As a traveling salesman, take the time to see the sights and meet the locals, who are very eager to give you a series of increasingly odd jobs…",
+  "developers": [
+    "Coal Supper"
+  ],
+  "publishers": [
+    "Panic"
+  ],
+  "release_date": "2024-08-01",
+  "website": "https://thankgoodness.game/",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "comedy",
+    "funny",
+    "hand-drawn",
+    "exploration",
+    "2d-platformer",
+    "2d",
+    "platformer",
+    "short",
+    "side-scroller",
+    "cartoon",
+    "colorful",
+    "singleplayer",
+    "cartoony",
+    "puzzle",
+    "open-world",
+    "cinematic",
+    "puzzle-platformer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Thank Goodness You're Here!.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Coal Supper/Thank Goodness You're Here!/saves/",
+          "pattern": "*.dat",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Thank Goodness You're Here!.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Coal Supper/Thank Goodness You're Here!/saves/",
+          "pattern": "*.dat",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Thank Goodness You're Here!",
+    "Thank Goodness You're Here!.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2366980/81ed58d1e830670e39a0f92f9f46e1582c1ad8be.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366980/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366980/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366980/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366980/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366980/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366980/ss_928c3226d2a3723e29e63cc19c13f47bd88faa86.1920x1080.jpg?t=1733154706"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366980/ss_c624fda9191859781cf9b34a6563c1953d977800.1920x1080.jpg?t=1733154706"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366980/ss_179e32f0cddfa678a826750968325810bf83e6b3.1920x1080.jpg?t=1733154706"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366980/ss_dfd24b8c643032dea42919d1584b94f100dccd2b.1920x1080.jpg?t=1733154706"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366980/ss_d9dc1ea31fae0bbe198885ef23ed9a6348190a5f.1920x1080.jpg?t=1733154706"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366980/ss_21e18c4d8f5e892281a5f6877abb878812379141.1920x1080.jpg?t=1733154706"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366980/ss_e421026db9d4c7243bd50a10286dd91fbe73b66c.1920x1080.jpg?t=1733154706"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366980/ss_5b30e20935577fce25ecbbc5de88de4e90360ba1.1920x1080.jpg?t=1733154706"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366980/ss_7ab5b787a84dda59e58652ececd904a6ea391fe3.1920x1080.jpg?t=1733154706"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257040308/movie.293x165.jpg?t=1722528754",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2366980/730397/39d3b03c4060730cdd7f053bf0286bcfa3037249/1750813090/dash_h264.mpd?t=1722528754"
+    },
+    {
+      "name": "Thank Goodness You're Here! - Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256964057/movie.293x165.jpg?t=1704989969",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2366980/597900/1cb3b81d6d66f89ea07a0408740a4523360dca9b/1750813090/dash_h264.mpd?t=1704989969"
+    },
+    {
+      "name": "Thank Goodness You're Here! - Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257026995/movie.293x165.jpg?t=1717790760",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2366980/707029/c8503cf36fb0d6d8a8f81a8f411da35b7fb5d358/1750813090/dash_h264.mpd?t=1717790760"
+    }
+  ],
+  "metacritic": {
+    "score": 89,
+    "url": "https://www.metacritic.com/game/pc/thank-goodness-youre-here!?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 2366980,
+    "store_url": "https://store.steampowered.com/app/2366980/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Gamepad Recommended",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Adventure",
+      "Comedy",
+      "Funny",
+      "Hand-drawn",
+      "Exploration",
+      "Casual",
+      "Indie",
+      "2D Platformer",
+      "2D",
+      "Platformer",
+      "Short",
+      "Side Scroller",
+      "Cartoon",
+      "Colorful",
+      "Singleplayer",
+      "Cartoony",
+      "Puzzle",
+      "Open World",
+      "Cinematic",
+      "Puzzle Platformer"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 7861,
+    "review_negative": 306,
+    "review_total": 8167,
+    "review_positive_percent": 96.25
+  }
+}

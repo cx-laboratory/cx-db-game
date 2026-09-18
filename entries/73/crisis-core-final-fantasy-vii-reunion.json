@@ -1,0 +1,164 @@
+{
+  "key": "crisis-core-final-fantasy-vii-reunion",
+  "name": "CRISIS CORE –FINAL FANTASY VII– REUNION",
+  "description": "CRISIS CORE -FINAL FANTASY VII- REUNION is a remaster of CRISIS CORE featuring updated graphics, combat systems and soundtrack. Follow the tale of SOLDIER operative Zack Fair, as he discovers the secrets of Shinra's dark experiments.",
+  "developers": [
+    "Square Enix"
+  ],
+  "publishers": [
+    "Square Enix"
+  ],
+  "release_date": "2022-12-14",
+  "website": "https://CrisisCoreFF7R.com",
+  "tags": [
+    "action",
+    "rpg",
+    "jrpg",
+    "adventure",
+    "action-rpg",
+    "action-adventure",
+    "party-based-rpg",
+    "spectacle-fighter",
+    "3d",
+    "3d-platformer",
+    "cinematic",
+    "third-person",
+    "realistic",
+    "fantasy",
+    "magic",
+    "sci-fi",
+    "singleplayer",
+    "story-rich",
+    "controller",
+    "anime"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "CCFF7R.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "DigitalContents\\CCFF7R_DigiCont.exe",
+          "description": "CCFF7 Digital Contents",
+          "type": "default"
+        },
+        {
+          "executable": "DigitalContents\\CCFF7R_DigiCont.exe",
+          "description": "CCFF7 Digital Contents test",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "CRISIS CORE –FINAL FANTASY VII– REUNION",
+    "CCFF7R",
+    "DigitalContents\\CCFF7R_DigiCont"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1608070/80f4044e4cf12b1eb8d344b19af99629022c3ab3.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608070/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608070/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608070/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608070/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608070/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608070/ss_caa17bc876c731e1a19a7fdf10706ec366114185.1920x1080.jpg?t=1777343206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608070/ss_c759930106ea03cbe9c2708ca08fb634aaefb375.1920x1080.jpg?t=1777343206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608070/ss_2ef6bdcd36bc808afd229d6b81653a5014a45a53.1920x1080.jpg?t=1777343206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608070/ss_42e6963a96835a2ca9a83afe7272d6032405bba3.1920x1080.jpg?t=1777343206"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608070/ss_fe125367e6994f7ec8170df375f4889040e09493.1920x1080.jpg?t=1777343206"
+    }
+  ],
+  "videos": [
+    {
+      "name": "ESRB EN Pre-Purchase",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256905186/movie.293x165.jpg?t=1663171183",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1608070/495098/f78aee6f6cd805364a5c46bcb0b8e3adb9d14fb9/1750710787/dash_h264.mpd?t=1663171183"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1608070,
+    "store_url": "https://store.steampowered.com/app/1608070/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Keyboard Only Option",
+      "Playable without Timed Input",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Action",
+      "RPG",
+      "JRPG",
+      "Adventure",
+      "Action RPG",
+      "Action-Adventure",
+      "Party-Based RPG",
+      "Spectacle fighter",
+      "3D",
+      "3D Platformer",
+      "Cinematic",
+      "Third Person",
+      "Realistic",
+      "Fantasy",
+      "Magic",
+      "Sci-fi",
+      "Singleplayer",
+      "Story Rich",
+      "Controller",
+      "Anime"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7823,
+    "review_negative": 918,
+    "review_total": 8741,
+    "review_positive_percent": 89.5
+  }
+}

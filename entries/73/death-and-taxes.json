@@ -1,0 +1,262 @@
+{
+  "key": "death-and-taxes",
+  "name": "Death and Taxes",
+  "description": "In this 2D, short narrative-based game, you assume the role of the Grim Reaper... on an office job. Your job is to decide which people are going to live or die. The consequences of your choices are yours to bear, while the mystery of your incarnation awaits revelation!",
+  "developers": [
+    "Placeholder Gameworks"
+  ],
+  "publishers": [
+    "Placeholder Gameworks"
+  ],
+  "release_date": "2020-02-21",
+  "website": "",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "simulation",
+    "strategy",
+    "choices-matter",
+    "story-rich",
+    "point-and-click",
+    "multiple-endings",
+    "choose-your-own-adventure",
+    "puzzle",
+    "replay-value",
+    "interactive-fiction",
+    "dark-comedy",
+    "narrative",
+    "atmospheric",
+    "2d",
+    "dialogue-heavy",
+    "singleplayer",
+    "character-customization"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "schinese",
+    "tchinese"
+  ],
+  "name_localized": {
+    "schinese": "死亡与税赋",
+    "tchinese": "死亡與稅賦"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Death and Taxes.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Placeholder Gameworks/Death and Taxes/Saves",
+          "pattern": "*.RIP",
+          "recursive": false
+        },
+        {
+          "root": "LinuxHome",
+          "path": "Placeholder Gameworks/Death and Taxes/Saves",
+          "pattern": "*.RIP",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Placeholder Gameworks/Death and Taxes/Saves",
+          "pattern": "*.RIP",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Death and Taxes.app\\Contents\\MacOS\\Death and Taxes",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Placeholder Gameworks/Death and Taxes/Saves",
+          "pattern": "*.RIP",
+          "recursive": false
+        },
+        {
+          "root": "LinuxHome",
+          "path": "Placeholder Gameworks/Death and Taxes/Saves",
+          "pattern": "*.RIP",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Placeholder Gameworks/Death and Taxes/Saves",
+          "pattern": "*.RIP",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "DeathAndTaxes.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Placeholder Gameworks/Death and Taxes/Saves",
+          "pattern": "*.RIP",
+          "recursive": false
+        },
+        {
+          "root": "LinuxHome",
+          "path": "Placeholder Gameworks/Death and Taxes/Saves",
+          "pattern": "*.RIP",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Placeholder Gameworks/Death and Taxes/Saves",
+          "pattern": "*.RIP",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Death and Taxes",
+    "Death and Taxes.app\\Contents\\MacOS\\Death and Taxes",
+    "DeathAndTaxes.x86_64",
+    "死亡与税赋",
+    "死亡與稅賦"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1166290/37ac7556cca4338aae9660af3c359faf6bba95a3.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166290/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166290/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166290/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166290/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166290/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166290/ss_0ec1aad19f8f3bd4a66bc6de3c07cb50e8dcbfbc.1920x1080.jpg?t=1776015823"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166290/ss_1aa0e49c43ea837caa84e80e7f31d246de64fa3e.1920x1080.jpg?t=1776015823"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166290/ss_9948ae31eb0926dfe1004e1224de6ba4bda727f6.1920x1080.jpg?t=1776015823"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166290/ss_a5ac4083874bd3e31a39632b387f64d8c39ecfb1.1920x1080.jpg?t=1776015823"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166290/ss_2cc3339bf8073f3f10805f271c34d6dd3f12c3db.1920x1080.jpg?t=1776015823"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166290/ss_7998794ddc3d52f29935a445730452125762442a.1920x1080.jpg?t=1776015823"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166290/ss_30f5ff350e1e448a6ff0563ec8d071cf090a98b5.1920x1080.jpg?t=1776015823"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166290/ss_e90eaa355b4dcb4f7e3380457abe503a332a0932.1920x1080.jpg?t=1776015823"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166290/ss_67907c2ca852f69f58405e5c34c721707500ca8b.1920x1080.jpg?t=1776015823"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166290/ss_658b48997c6e9fd7cda01049b044854c3e78d49c.1920x1080.jpg?t=1776015823"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256772053/movie.293x165.jpg?t=1581973218",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1166290/261171/adee5befae8c1036f6bf5a7de7c361db1cea9a17/1751197961/dash_h264.mpd?t=1581973218"
+    },
+    {
+      "name": "Halloween Content Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256807291/movie.293x165.jpg?t=1603966169",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1166290/322921/1ee1c7bedf508d132284b81152130858cdbb58fb/1751198100/dash_h264.mpd?t=1603966169"
+    },
+    {
+      "name": "The pre-launch pre-trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256774999/movie.293x165.jpg?t=1640438731",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1166290/266647/b9746fc5be434306814824063d4e40eb648bb0d3/1751197966/dash_h264.mpd?t=1640438731"
+    },
+    {
+      "name": "Cinematic Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256765624/movie.293x165.jpg?t=1572532226",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1166290/249811/6f08b6769c7da46e33414b701127081bcc1f3782/1751197960/dash_h264.mpd?t=1572532226"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1166290,
+    "store_url": "https://store.steampowered.com/app/1166290/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Choices Matter",
+      "Story Rich",
+      "Simulation",
+      "Point & Click",
+      "Multiple Endings",
+      "Strategy",
+      "Choose Your Own Adventure",
+      "Puzzle",
+      "Replay Value",
+      "Casual",
+      "Interactive Fiction",
+      "Dark Comedy",
+      "Narrative",
+      "Indie",
+      "Adventure",
+      "Atmospheric",
+      "2D",
+      "Dialogue Heavy",
+      "Singleplayer",
+      "Character Customization"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7215,
+    "review_negative": 1169,
+    "review_total": 8384,
+    "review_positive_percent": 86.06
+  }
+}

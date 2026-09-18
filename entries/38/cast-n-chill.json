@@ -1,0 +1,261 @@
+{
+  "key": "cast-n-chill",
+  "name": "Cast n Chill",
+  "description": "Cast n Chill is a relaxing fishing game where you explore serene lakes, rivers, and oceans. Catch rare fish, upgrade your gear and reel in legendary catches - all with your loyal companion by your side.",
+  "developers": [
+    "Wombat Brawler"
+  ],
+  "publishers": [
+    "Wombat Brawler"
+  ],
+  "release_date": "2025-06-17",
+  "website": "",
+  "tags": [
+    "casual",
+    "indie",
+    "rpg",
+    "simulation",
+    "sports",
+    "multiplayer",
+    "co-op",
+    "split-screen",
+    "pixel-graphics",
+    "relaxing",
+    "fishing",
+    "idler",
+    "creature-collector",
+    "cozy",
+    "atmospheric",
+    "minimalist",
+    "desktop-companion",
+    "resource-management",
+    "nature",
+    "2d",
+    "underwater",
+    "family-friendly",
+    "controller",
+    "economy"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "抛竿放松"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "castnchill.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Wombat Brawler/Cast n Chill/Journals",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Cast n Chill.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Wombat Brawler/Cast n Chill/Journals",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Cast n Chill",
+    "castnchill",
+    "Cast n Chill.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3483740/43d2abadc9e6e299f4ba92db1676bafb9ec4438a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/b3861b297ccb9284cd066c91f57b8b97b8e9fa91/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/69a88dc7c3311e0db03d43816ceb585f49295113/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/ae3040b8888720472de900f70824c845fac45aaf/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/365576d07346778fbbb6a22c185516bfed9ef1e4/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/3b77b5412b560053fc4574cdac743358f60469a3/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/4b30a8cd1d2ff31bc61c3961cd4a146f8e410034/ss_4b30a8cd1d2ff31bc61c3961cd4a146f8e410034.1920x1080.jpg?t=1782971441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/85b7cce2701886954bb348bcff6abd94c0c6469d/ss_85b7cce2701886954bb348bcff6abd94c0c6469d.1920x1080.jpg?t=1782971441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/5ad3f1fa2033c66e7c3fdbf542bc31881fa0d5f3/ss_5ad3f1fa2033c66e7c3fdbf542bc31881fa0d5f3.1920x1080.jpg?t=1782971441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/acda5f40b3321c06b41b2c03f748d2910cae8709/ss_acda5f40b3321c06b41b2c03f748d2910cae8709.1920x1080.jpg?t=1782971441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/bd78f5cae09561612ea23ca6954f0ccb01c82182/ss_bd78f5cae09561612ea23ca6954f0ccb01c82182.1920x1080.jpg?t=1782971441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/6257371bd908621e9b8bab675e534346a969af49/ss_6257371bd908621e9b8bab675e534346a969af49.1920x1080.jpg?t=1782971441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/60c4260e619056a78e1f7aca127220af929ec223/ss_60c4260e619056a78e1f7aca127220af929ec223.1920x1080.jpg?t=1782971441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/5eb672a8e09db888a28cfb7da8f4066fbd8e60ae/ss_5eb672a8e09db888a28cfb7da8f4066fbd8e60ae.1920x1080.jpg?t=1782971441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/101941946662dae4888dd08da94aa29f2daa40f0/ss_101941946662dae4888dd08da94aa29f2daa40f0.1920x1080.jpg?t=1782971441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/09f89bd70b555d1fb0ad6e29312316844345e7d9/ss_09f89bd70b555d1fb0ad6e29312316844345e7d9.1920x1080.jpg?t=1782971441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/24caddf5fecb7842143d707629f49ca619e74dbc/ss_24caddf5fecb7842143d707629f49ca619e74dbc.1920x1080.jpg?t=1782971441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/963fb16db05cb40fa4e6084fb8b2b325108aac04/ss_963fb16db05cb40fa4e6084fb8b2b325108aac04.1920x1080.jpg?t=1782971441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/294298a9a53c7f887afbc3e4cbeaa0cb57e24b22/ss_294298a9a53c7f887afbc3e4cbeaa0cb57e24b22.1920x1080.jpg?t=1782971441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/cc5f4684c1f04bbd7f2ea10c06898ed6407f3b9a/ss_cc5f4684c1f04bbd7f2ea10c06898ed6407f3b9a.1920x1080.jpg?t=1782971441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/00f7dd5cbb46d4e6e3c56f96160ee83ca2bc6279/ss_00f7dd5cbb46d4e6e3c56f96160ee83ca2bc6279.1920x1080.jpg?t=1782971441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/f5c982436c188cddcb6d2dbc734dc442aa5518b2/ss_f5c982436c188cddcb6d2dbc734dc442aa5518b2.1920x1080.jpg?t=1782971441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/f6180893a83578c91e617987670ddca705bc4662/ss_f6180893a83578c91e617987670ddca705bc4662.1920x1080.jpg?t=1782971441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/d661994988135c5215b21bfae5d7aa3145d3f094/ss_d661994988135c5215b21bfae5d7aa3145d3f094.1920x1080.jpg?t=1782971441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/26a246bc33b63722dc611e84860c1c43357741af/ss_26a246bc33b63722dc611e84860c1c43357741af.1920x1080.jpg?t=1782971441"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Official Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257157449/ed267772da2cb0348b4b754f4f48168b0ff5fbdc/movie_600x337.jpg?t=1750089746",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3483740/240568674/d940c681835364d44194d4f17fc0f439a63f1dfa/1750315702/dash_h264.mpd?t=1750089746"
+    },
+    {
+      "name": "Old Moose Cabin Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257369444/a7c4be4241de8d5188103be2cc67424931a499b0/movie_600x337.jpg?t=1782971439",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3483740/970513407/5aff37c94a6ad224cac871afe1b8761156466571/1782970464/dash_h264.mpd?t=1782971439"
+    },
+    {
+      "name": "Lake Hunkerdown Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257152627/67ed0f52f28c0e17a6e2a2a190f738e47100c290/movie_600x337.jpg?t=1764550772",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3483740/704835029/2a32bdfa56f04ea949ede7dd12d5de168ab8af8f/1764549871/dash_h264.mpd?t=1764550772"
+    },
+    {
+      "name": "Autumnwood Lake Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257193430/db59ed36abb4b43c9eeaa267415e1a9d72b67254/movie_600x337.jpg?t=1782971440",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3483740/1909447617/0868b9417a7e6070ef7808050cea978df2fb10b1/1757032451/dash_h264.mpd?t=1782971440"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3483740,
+    "store_url": "https://store.steampowered.com/app/3483740/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Sports"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Keyboard Only Option",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Steam Input API Support",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Pixel Graphics",
+      "Relaxing",
+      "Fishing",
+      "Idler",
+      "Creature Collector",
+      "Cozy",
+      "Atmospheric",
+      "Casual",
+      "Minimalist",
+      "Desktop Companion",
+      "Resource Management",
+      "Nature",
+      "Simulation",
+      "2D",
+      "Underwater",
+      "Indie",
+      "Family Friendly",
+      "Controller",
+      "Sports",
+      "Economy"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7542,
+    "review_negative": 399,
+    "review_total": 7941,
+    "review_positive_percent": 94.98
+  }
+}

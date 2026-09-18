@@ -1,0 +1,185 @@
+{
+  "key": "the-dark-pictures-anthology-man-of-medan",
+  "name": "The Dark Pictures Anthology: Man of Medan",
+  "description": "The Dark Pictures Anthology is a series of stand-alone, branching cinematic horror games that can also be played online with a friend. In Man of Medan, five friends set sail on a holiday diving trip that soon changes into something much more sinister.",
+  "developers": [
+    "Supermassive Games"
+  ],
+  "publishers": [
+    "BANDAI NAMCO Entertainment Europe"
+  ],
+  "release_date": "2019-08-30",
+  "website": "https://www.thedarkpictures.com/",
+  "tags": [
+    "adventure",
+    "multiplayer",
+    "pvp",
+    "online-pvp"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "arabic",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ManOfMedan.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "ManOfMedan.exe",
+          "description": "The Dark Pictures Anthology: Man of Medan (DX12)",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "ManOfMedan/Saved/SaveGames",
+          "pattern": "OptionSettings.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "ManOfMedan/Saved/SaveGames",
+          "pattern": "SP*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "ManOfMedan/Saved/SaveGames",
+          "pattern": "MP*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "ManOfMedan/Saved/SaveGames",
+          "pattern": "PP*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "ManOfMedan/Saved/SaveGames",
+          "pattern": "ST*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The Dark Pictures Anthology: Man of Medan",
+    "ManOfMedan"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/939850/b0f46c98eece58ccb79ba9337ca6190c060786a4.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939850/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939850/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939850/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939850/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939850/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939850/ss_1af0e37de162c10f6c17160801f5941f08cfcc37.1920x1080.jpg?t=1728913265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939850/ss_47b3cc64b4b2637f6c988eeb64ed2e5efc80ea9b.1920x1080.jpg?t=1728913265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939850/ss_a839dd472bba49ff3f1f38699a35b7e9455e9ecb.1920x1080.jpg?t=1728913265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939850/ss_d4c61629dd5f19edef4a3a17c370fdcbc9d70e7c.1920x1080.jpg?t=1728913265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939850/ss_bfd7de1d7ea5676b743e1b4c09a318cdb6936d51.1920x1080.jpg?t=1728913265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939850/ss_5f175b9d054f45a0209b2c5030c0057ee12939f0.1920x1080.jpg?t=1728913265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939850/ss_55b2b81fbe7a228e1aee6daf50ad6f2e97e740f8.1920x1080.jpg?t=1728913265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939850/ss_08b1c72e5951fcdde9b688147553048aff2c0c09.1920x1080.jpg?t=1728913265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939850/ss_8bc89f7862c4d9f1d441ba0bcf66e321a63bc57d.1920x1080.jpg?t=1728913265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939850/ss_f1bf77fb7147f3e344c0917f5b45e4529b5bad5c.1920x1080.jpg?t=1728913265"
+    }
+  ],
+  "videos": [
+    {
+      "name": "ESRB The Dark Pictures Anthology: Man of Medan & Little Hope – New Updates Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256919439/movie.293x165.jpg?t=1670602483",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/939850/519384/868aa6acc73c780babeb18eaf17b0f3b14d37f96/1750599006/dash_h264.mpd?t=1670602483"
+    },
+    {
+      "name": "Man of Medan Trailer 3 EN [ESRB]",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256758196/movie.293x165.jpg?t=1564995116",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/939850/236661/4dcdeb5f235637f4f6f635a48da1baaf97976bb3/1750598975/dash_h264.mpd?t=1564995116"
+    }
+  ],
+  "metacritic": {
+    "score": 75,
+    "url": "https://www.metacritic.com/game/pc/the-dark-pictures-anthology-man-of-medan?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 939850,
+    "store_url": "https://store.steampowered.com/app/939850/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 10546,
+    "review_negative": 3166,
+    "review_total": 13712,
+    "review_positive_percent": 76.91
+  }
+}

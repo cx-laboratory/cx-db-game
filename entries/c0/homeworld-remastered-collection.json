@@ -1,0 +1,233 @@
+{
+  "key": "homeworld-remastered-collection",
+  "name": "Homeworld Remastered Collection",
+  "description": "Experience the epic space strategy games that redefined the RTS genre. Control your fleet and build an armada across more than 30 single-player missions. Choose unit types, fleet formations and flight tactics for each strategic situation.",
+  "developers": [
+    "Gearbox Software"
+  ],
+  "publishers": [
+    "Gearbox Publishing"
+  ],
+  "release_date": "2015-02-26",
+  "website": "http://homeworldremastered.com",
+  "tags": [
+    "simulation",
+    "strategy",
+    "multiplayer",
+    "space",
+    "rts",
+    "sci-fi",
+    "classic",
+    "great-soundtrack",
+    "story-rich",
+    "atmospheric",
+    "remake",
+    "tactical",
+    "singleplayer",
+    "moddable",
+    "epic",
+    "action",
+    "adventure",
+    "futuristic",
+    "female-protagonist",
+    "4x"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "HWLauncher\\Launcher.exe",
+          "description": "Homeworld Launcher (NEW)",
+          "type": "default"
+        },
+        {
+          "executable": "HomeworldRM\\bin\\Release\\HomeworldRM.exe",
+          "description": "Parkinglot",
+          "type": "vr"
+        },
+        {
+          "executable": "HomeworldRM\\bin\\Release\\HomeworldRM.exe",
+          "description": "HW1 2v2 CPU Spectator",
+          "type": "vr"
+        },
+        {
+          "executable": "HomeworldRM\\bin\\Release\\HomeworldRM.exe",
+          "description": "HW2 2v2 CPU Spectator",
+          "type": "vr"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "HomeworldRemastered.app",
+          "description": "Homeworld Remastered",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Homeworld Remastered Collection",
+    "HWLauncher\\Launcher",
+    "HomeworldRM\\bin\\Release\\HomeworldRM",
+    "HomeworldRemastered.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/244160/8c74f09dfd9598adab163b2000e9696faff73024.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244160/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244160/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244160/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244160/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244160/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244160/ss_2d5780ac7d52fa62cd1f7dbbaf54062e39205072.1920x1080.jpg?t=1781819205"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244160/ss_30fd7cd949e975074d75496ee45c3694e58568d8.1920x1080.jpg?t=1781819205"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244160/ss_00c4865153238dfa69fa88e135d23577e152bc79.1920x1080.jpg?t=1781819205"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244160/ss_ea9b77342982d63fddc53de39b7ec904c09dc1b8.1920x1080.jpg?t=1781819205"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244160/ss_3565a97ff6f8aaa6d79e3096247365a2c0bfd87e.1920x1080.jpg?t=1781819205"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244160/ss_7fe0826d4834adb0b86a4abec1ac0172a507c283.1920x1080.jpg?t=1781819205"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244160/ss_680418354fc588753b0a6602ee06d23975443e4d.1920x1080.jpg?t=1781819205"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244160/ss_f6f30b33726e479b1da637e25540c27ab4f6d694.1920x1080.jpg?t=1781819205"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244160/ss_2524e126a4b4d9bf688ebc4ae7c2f2c9e27cc444.1920x1080.jpg?t=1781819205"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244160/ss_94b0e933eb586c43719a38b0016d293bde0d2e8a.1920x1080.jpg?t=1781819205"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244160/ss_c5e0efbdbf2a645ef59abfd4295da3090753978e.1920x1080.jpg?t=1781819205"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244160/ss_a9ac8564986c9781bbe878edbd2af09b69689d82.1920x1080.jpg?t=1781819205"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244160/ss_193e0990036fa5b1446e4e488d67a468229db147.1920x1080.jpg?t=1781819205"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244160/ss_a0d9c08453cb00fdd5ade74ef57a285ecf56c5a6.1920x1080.jpg?t=1781819205"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244160/ss_adeedef67dc718c2bccdd36eae0a8c41d64885aa.1920x1080.jpg?t=1781819205"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244160/ss_2d5780ac7d52fa62cd1f7dbbaf54062e39205072.1920x1080.jpg?t=1781819205"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244160/ss_2d71f5b5114c81a9c4cb9711253161c317d6009b.1920x1080.jpg?t=1781819205"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244160/ss_04a7978e11b1f4f41c677092bb6d1cad821c0fa6.1920x1080.jpg?t=1781819205"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244160/ss_2272b74e2d211f76e77f527e8a568fde823f6203.1920x1080.jpg?t=1781819205"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Homeworld Remastered Collection Story Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256660506/movie.293x165.jpg?t=1454704943",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/244160/51703/7bdaf4627680302109cf4f33ecafd7a7592137f7/1751248583/dash_h264.mpd?t=1454704943"
+    },
+    {
+      "name": "Homeworld 2 Remastered Collection Story Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256660507/movie.293x165.jpg?t=1454704954",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/244160/51704/fa467970621a620a05734107392e12cfe07dc34a/1751248583/dash_h264.mpd?t=1454704954"
+    },
+    {
+      "name": "An Introduction to Homeworld Remastered Collection",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2037209/movie.293x165.jpg?t=1464969971",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/244160/31352/3eefa6ee8d17cd67ecdf7baa94c554b2e0ed02f3/1751248583/dash_h264.mpd?t=1464969971"
+    }
+  ],
+  "metacritic": {
+    "score": 86,
+    "url": "https://www.metacritic.com/game/pc/homeworld-remastered-collection?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 244160,
+    "store_url": "https://store.steampowered.com/app/244160/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Save Anytime",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Space",
+      "Strategy",
+      "RTS",
+      "Sci-fi",
+      "Classic",
+      "Great Soundtrack",
+      "Story Rich",
+      "Atmospheric",
+      "Multiplayer",
+      "Remake",
+      "Simulation",
+      "Tactical",
+      "Singleplayer",
+      "Moddable",
+      "Epic",
+      "Action",
+      "Adventure",
+      "Futuristic",
+      "Female Protagonist",
+      "4X"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 12397,
+    "review_negative": 1694,
+    "review_total": 14091,
+    "review_positive_percent": 87.98
+  }
+}

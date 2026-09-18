@@ -1,0 +1,149 @@
+{
+  "key": "brutal-legend",
+  "name": "Brutal Legend",
+  "description": "Brütal Legend is an action-adventure that marries visceral action combat with open-world freedom. Set in a universe somewhere between Lord of the Rings and Spinal Tap, it’s a fresh take on the action/driving genre, which in this case is full of imitation cover bands, demons intent on enslaving humanity and Heavy metal tunes.",
+  "developers": [
+    "Double Fine Productions"
+  ],
+  "publishers": [
+    "Double Fine Productions"
+  ],
+  "release_date": "2013-02-27",
+  "website": "https://www.doublefine.com/games/brutal-legend",
+  "tags": [
+    "action",
+    "adventure",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish"
+  ],
+  "name_localized": {
+    "schinese": "残酷传奇"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "BrutalLegend.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Buddha.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Buddha.bin.x86",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Brutal Legend",
+    "BrutalLegend",
+    "Buddha.app",
+    "Buddha.bin.x86"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/225260/e3f25fba8538e5fb1ead751e767c2774df4fb0b4.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225260/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225260/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225260/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225260/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225260/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225260/ss_dc08f8689a8f19100c7bd3245d44a4f6aba86fb5.1920x1080.jpg?t=1776379359"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225260/ss_18d2dd8379122ca826a4e02ba652e7f624d7a79b.1920x1080.jpg?t=1776379359"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225260/ss_1c1c018a1d7b597bea836eec24dbfe4170ffb069.1920x1080.jpg?t=1776379359"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225260/ss_e3bebd4c526ac3a0edff40779e37bfbb5c96893a.1920x1080.jpg?t=1776379359"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225260/ss_d7bb99be73b6bda558483b81274ea492989a9172.1920x1080.jpg?t=1776379359"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225260/ss_83618e23466644e0658e88c2753665a867ae34c5.1920x1080.jpg?t=1776379359"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Brutal Legend Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028371/movie.293x165.jpg?t=1447357433",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/225260/10608/0fdb25f324c0a1a0a2e5a77a9f44c680ff4c64d5/1750837070/dash_h264.mpd?t=1447357433"
+    }
+  ],
+  "metacritic": {
+    "score": 80,
+    "url": "https://www.metacritic.com/game/pc/brutal-legend?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 225260,
+    "store_url": "https://store.steampowered.com/app/225260/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 18862,
+    "review_negative": 1370,
+    "review_total": 20232,
+    "review_positive_percent": 93.23
+  }
+}

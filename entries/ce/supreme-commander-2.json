@@ -1,0 +1,193 @@
+{
+  "key": "supreme-commander-2",
+  "name": "Supreme Commander 2",
+  "description": "Includes 47 Steam achievements, leaderboards, and stats!",
+  "developers": [
+    "Gas Powered Games"
+  ],
+  "publishers": [
+    "Square Enix"
+  ],
+  "release_date": "2010-03-03",
+  "website": "http://www.supremecommander.com/",
+  "tags": [
+    "strategy",
+    "multiplayer",
+    "rts",
+    "sci-fi",
+    "base-building",
+    "robots",
+    "co-op",
+    "singleplayer",
+    "grand-strategy",
+    "real-time",
+    "action",
+    "military",
+    "war",
+    "tactical",
+    "futuristic",
+    "classic",
+    "sandbox",
+    "mechs",
+    "great-soundtrack",
+    "space"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian",
+    "japanese",
+    "polish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "bin\\SupremeCommander2.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games\\SquareEnix\\Supreme Commander 2\\savegames\\{Steam3AccountID}",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Supreme Commander 2",
+    "bin\\SupremeCommander2"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/40100/96e22cb9c9b063c9f0398f248fef850a679ced5a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40100/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40100/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40100/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40100/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40100/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40100/ss_dd2180fd9f3ac3a5868370ace3d6cd419dc29763.1920x1080.jpg?t=1779202393"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40100/ss_6d2819d50cde56766f2e3d250489e2baf7d7f795.1920x1080.jpg?t=1779202393"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40100/ss_71da294b9ba55ac90c66e165f254b96cfaa95eed.1920x1080.jpg?t=1779202393"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40100/ss_fbaa15aee58adb8aa3a65893ee09935af5e16158.1920x1080.jpg?t=1779202393"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40100/ss_13fb215d3c7a565c12d3712afd21a45142b6c872.1920x1080.jpg?t=1779202393"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40100/ss_f9e334758a0f94818cba4ca840d69c5f731bf31c.1920x1080.jpg?t=1779202393"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40100/ss_6db94051b3daad4dfdf11603191bdc7feff72215.1920x1080.jpg?t=1779202393"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40100/ss_c65380cd8f64f9f9a0789478380fe1986356ea48.1920x1080.jpg?t=1779202393"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40100/ss_8ec5661a369852b806903bfd8b2f22873fc99e36.1920x1080.jpg?t=1779202393"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40100/ss_e56ab159eba0d89c03bee29f7e6739bc4df8e237.1920x1080.jpg?t=1779202393"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Supreme Commander 2 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5552/movie.jpg?t=1447352832",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/40100/3058/9aec3014eb60a9264d80c1ff6641997895d8b788/1750485377/dash_h264.mpd?t=1447352832"
+    },
+    {
+      "name": "Supreme Commander 2 Flowfield Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5652/movie.293x165.jpg?t=1447353086",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/40100/3437/77250837287ba768ee940fddb988b440f01dacab/1750485393/dash_h264.mpd?t=1447353086"
+    },
+    {
+      "name": "Supreme Commander 2 Multiplayer Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5653/movie.293x165.jpg?t=1447353087",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/40100/3438/71ae00194f8523e7ea9ea9eebc601d7db1a15128/1750485733/dash_h264.mpd?t=1447353087"
+    },
+    {
+      "name": "Supreme Commander 2 Story Final Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5654/movie.293x165.jpg?t=1447353087",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/40100/3439/4c0255f25bd4c24a400862057a87abf75f7612eb/1750485398/dash_h264.mpd?t=1447353087"
+    },
+    {
+      "name": "Supreme Commander 2 Tech and Strategy Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5655/movie.293x165.jpg?t=1447353088",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/40100/3440/15fb47e83e63d352f5cd0d63077ce28e91cd55b4/1750485411/dash_h264.mpd?t=1447353088"
+    }
+  ],
+  "metacritic": {
+    "score": 77,
+    "url": "https://www.metacritic.com/game/pc/supreme-commander-2?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 40100,
+    "store_url": "https://store.steampowered.com/app/40100/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Stats",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "RTS",
+      "Sci-fi",
+      "Multiplayer",
+      "Base Building",
+      "Robots",
+      "Co-op",
+      "Singleplayer",
+      "Grand Strategy",
+      "Real-Time",
+      "Action",
+      "Military",
+      "War",
+      "Tactical",
+      "Futuristic",
+      "Classic",
+      "Sandbox",
+      "Mechs",
+      "Great Soundtrack",
+      "Space"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 11375,
+    "review_negative": 1520,
+    "review_total": 12895,
+    "review_positive_percent": 88.21
+  }
+}

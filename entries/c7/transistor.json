@@ -1,0 +1,214 @@
+{
+  "key": "transistor",
+  "name": "Transistor",
+  "description": "Discover the world of Transistor, a sci-fi-themed action RPG from the creators of Bastion.",
+  "developers": [
+    "Supergiant Games"
+  ],
+  "publishers": [
+    "Supergiant Games"
+  ],
+  "release_date": "2014-05-21",
+  "website": "https://www.supergiantgames.com/games/transistor/",
+  "tags": [
+    "action",
+    "indie",
+    "rpg",
+    "great-soundtrack",
+    "female-protagonist",
+    "cyberpunk",
+    "story-rich",
+    "sci-fi",
+    "action-rpg",
+    "singleplayer",
+    "beautiful",
+    "isometric",
+    "atmospheric",
+    "strategy",
+    "tactical",
+    "adventure",
+    "turn-based",
+    "short",
+    "hack-and-slash",
+    "soundtrack"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "x64\\Transistor.exe",
+          "description": "Launch 64-bit",
+          "type": "default"
+        },
+        {
+          "executable": "x86\\Transistor.exe",
+          "description": "Launch 32-bit",
+          "type": "default"
+        },
+        {
+          "executable": "Debug\\x64\\Transistor.exe",
+          "description": "Debug",
+          "type": "option1"
+        },
+        {
+          "executable": "Debug\\x86\\Transistor.exe",
+          "description": "Debug",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Transistor.app/Contents/MacOS/Transistor",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Transistor",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Transistor",
+    "x64\\Transistor",
+    "x86\\Transistor",
+    "Debug\\x64\\Transistor",
+    "Debug\\x86\\Transistor",
+    "Transistor.app/Contents/MacOS/Transistor"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/237930/b45dc369d45afe945d379e75545959f845094f92.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/237930/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/237930/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/237930/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/237930/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/237930/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/237930/ss_1fdf65579ebad27f4d6a6732e44fc84180016a7b.1920x1080.jpg?t=1729113992"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/237930/ss_9858355976e979758841f05839ccc6224ddaa00e.1920x1080.jpg?t=1729113992"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/237930/ss_1916e041ab65f8b6256a09ab494d5a2ab372fefe.1920x1080.jpg?t=1729113992"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/237930/ss_3b1538861473fb042792380ce85c3fda2f95a459.1920x1080.jpg?t=1729113992"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/237930/ss_341fc37cbb9c3da906f07c8c0f5b9aa187510bc8.1920x1080.jpg?t=1729113992"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/237930/ss_ceec46589ca1914cb584d80a1cc4779b216cd937.1920x1080.jpg?t=1729113992"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/237930/ss_0877306bb90bc4a1755223642b21484fa6fcce4e.1920x1080.jpg?t=1729113992"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/237930/ss_ba509bfde06591298410299b106747e7694ad011.1920x1080.jpg?t=1729113992"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/237930/ss_2cab3adb713796bbf64c09fdf1aa95ff1c87cca4.1920x1080.jpg?t=1729113992"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/237930/ss_28f612131bb50ec3812d19c33608747f25cd0581.1920x1080.jpg?t=1729113992"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Transistor - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2032455/movie.293x165.jpg?t=1447361955",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/237930/20996/8b1943f7505da5232c4f37f167006e1a2b9f80f7/1750483205/dash_h264.mpd?t=1447361955"
+    },
+    {
+      "name": "Transistor - Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2032056/movie.293x165.jpg?t=1447361607",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/237930/20144/d845ee52d6a8103c26e46a8e08e449d3d8ed9289/1750483818/dash_h264.mpd?t=1447361607"
+    }
+  ],
+  "metacritic": {
+    "score": 83,
+    "url": "https://www.metacritic.com/game/pc/transistor?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 237930,
+    "store_url": "https://store.steampowered.com/app/237930/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Great Soundtrack",
+      "Female Protagonist",
+      "Indie",
+      "Cyberpunk",
+      "Story Rich",
+      "Sci-fi",
+      "Action RPG",
+      "Singleplayer",
+      "RPG",
+      "Beautiful",
+      "Isometric",
+      "Atmospheric",
+      "Action",
+      "Strategy",
+      "Tactical",
+      "Adventure",
+      "Turn-Based",
+      "Short",
+      "Hack and Slash",
+      "Soundtrack"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 29293,
+    "review_negative": 1888,
+    "review_total": 31181,
+    "review_positive_percent": 93.95
+  }
+}

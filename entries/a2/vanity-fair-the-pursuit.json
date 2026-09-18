@@ -1,0 +1,192 @@
+{
+  "key": "vanity-fair-the-pursuit",
+  "name": "Vanity Fair: The Pursuit",
+  "description": "Players follow Lu Yuan through important stages of his life and experience his growth trajectory from youth to maturity. It will take you to relive those decisions that you have never tried to make in reality, and feel the different life brought about by each choice.",
+  "developers": [
+    "木焱工作室"
+  ],
+  "publishers": [
+    "Wave Games"
+  ],
+  "release_date": "2024-02-20",
+  "website": "",
+  "tags": [
+    "casual",
+    "indie",
+    "rpg",
+    "simulation",
+    "fmv",
+    "choices-matter",
+    "story-rich",
+    "cinematic",
+    "immersive-sim",
+    "interactive-fiction",
+    "visual-novel",
+    "word-game",
+    "singleplayer",
+    "dating-sim",
+    "life-sim",
+    "puzzle-platformer",
+    "third-person",
+    "colorful",
+    "idler",
+    "1990-s"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "koreana",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese"
+  ],
+  "name_localized": {
+    "tchinese": "名利遊戲",
+    "english": "Vanity Fair: The Pursuit",
+    "japanese": "名利のゲーム",
+    "koreana": "명예와 부의 게임",
+    "russian": "Игра славы и богатства",
+    "sc_schinese": "名利游戏"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "FameAndWealth.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BoLang2/FameAndWealth",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "FameAndWealth.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BoLang2/FameAndWealth",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Vanity Fair: The Pursuit",
+    "FameAndWealth",
+    "FameAndWealth.app",
+    "名利遊戲",
+    "名利のゲーム",
+    "명예와 부의 게임",
+    "Игра славы и богатства",
+    "名利游戏"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2758000/96dc98c666f70636cee7150bd1d5c05de003db3f.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2758000/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2758000/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2758000/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2758000/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2758000/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2758000/ss_2ad939a407a15cebc0f4c87544d3c49380d5a551.1920x1080.jpg?t=1761806268"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2758000/ss_005478ca0a2772424ddc0638a2ece6192abc41f5.1920x1080.jpg?t=1761806268"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2758000/ss_4e87fd7dfe0ee54458c5464e85ee046f90c260da.1920x1080.jpg?t=1761806268"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2758000/ss_86002ca4f9b7b8f5d2e9085c07bc88dbad46bc5e.1920x1080.jpg?t=1761806268"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2758000/ss_dce4ae529faffce9908690d94e7f4f8c97e40dc7.1920x1080.jpg?t=1761806268"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2758000/ss_96f2605ad4fadcf3e39c3555698f4961f1b8b972.1920x1080.jpg?t=1761806268"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2758000/ss_f2aabf8728b2fdecd66420194e61f65a043d4ac8.1920x1080.jpg?t=1761806268"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2758000/ss_176363b6fff5efef549525621929ad10ccd4a028.1920x1080.jpg?t=1761806268"
+    }
+  ],
+  "videos": [
+    {
+      "name": "名利游戏",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256994775/movie.293x165.jpg?t=1706817509",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2758000/651473/6a94db2490e80fa43fc6d179a069eef0ccb013c6/1750819683/dash_h264.mpd?t=1706817509"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2758000,
+    "store_url": "https://store.steampowered.com/app/2758000/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "FMV",
+      "RPG",
+      "Choices Matter",
+      "Story Rich",
+      "Cinematic",
+      "Indie",
+      "Immersive Sim",
+      "Simulation",
+      "Interactive Fiction",
+      "Visual Novel",
+      "Word Game",
+      "Singleplayer",
+      "Dating Sim",
+      "Life Sim",
+      "Puzzle Platformer",
+      "Third Person",
+      "Colorful",
+      "Idler",
+      "1990's",
+      "Casual"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 3977,
+    "review_negative": 557,
+    "review_total": 4534,
+    "review_positive_percent": 87.72
+  }
+}

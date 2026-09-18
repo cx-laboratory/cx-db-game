@@ -1,0 +1,244 @@
+{
+  "key": "backpack-hero",
+  "name": "Backpack Hero",
+  "description": "The inventory management roguelike! Collect rare items, organize your backpack, and vanquish your foes!",
+  "developers": [
+    "Jaspel"
+  ],
+  "publishers": [
+    "Pretty Soon"
+  ],
+  "release_date": "2023-11-15",
+  "website": "",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "rpg",
+    "strategy",
+    "replay-value",
+    "inventory-management",
+    "turn-based",
+    "roguelike-deckbuilder",
+    "deckbuilding",
+    "2d",
+    "roguelike",
+    "fantasy",
+    "building",
+    "choices-matter",
+    "turn-based-strategy",
+    "roguelite",
+    "procedural-generation",
+    "singleplayer",
+    "female-protagonist",
+    "card-battler",
+    "controller",
+    "moddable"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "German",
+    "Czech",
+    "Dutch",
+    "Polish",
+    "Portuguese - Brazil",
+    "Romanian",
+    "Russian",
+    "Simplified Chinese",
+    "Spanish - Latin America",
+    "Turkish",
+    "Japanese",
+    "Korean",
+    "Italian",
+    "French",
+    "Traditional Chinese",
+    "Ukrainian",
+    "Irish"
+  ],
+  "name_localized": {
+    "schinese": "背包英雄 Backpack Hero"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Backpack Hero.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "TheJaspel/Backpack Hero/",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "BackpackHero.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "TheJaspel/Backpack Hero/",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "linux.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "TheJaspel/Backpack Hero/",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Backpack Hero",
+    "BackpackHero.app",
+    "linux.x86_64",
+    "背包英雄 Backpack Hero"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1970580/19d9b22c941cfc77888e08d5c01161a6e5c7f6c2.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970580/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970580/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970580/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970580/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970580/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970580/ss_34b2c0a700a0b3486233b5d73d0643433593975e.1920x1080.jpg?t=1771527569"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970580/ss_35d0be5367e06332d1e7f82bf3d21759c0697cb6.1920x1080.jpg?t=1771527569"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970580/ss_e39025fae7fd8cc1f0f9c15cc7c66748e92d4773.1920x1080.jpg?t=1771527569"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970580/ss_c7c33e8f7564465b8ccc1ac0ada1cd7f1f3cdf65.1920x1080.jpg?t=1771527569"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970580/ss_c32b0f5d7a3efdb3d935f8090d8790afbcd18433.1920x1080.jpg?t=1771527569"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970580/ss_65bf0d971c8c135dd4f2124ca321db2cc6db1920.1920x1080.jpg?t=1771527569"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970580/ss_507d43eec5d1b81ac876d25619e058a1672e64b0.1920x1080.jpg?t=1771527569"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970580/ss_b1ebae84f9337eba08ebeda5ee1425f6dfe1ef61.1920x1080.jpg?t=1771527569"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970580/ss_e9a4098cbc37b6057501f78124944b80399a17f4.1920x1080.jpg?t=1771527569"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970580/ss_4fa9f07c786d2ae08ae87f94154f3ed0311e19f6.1920x1080.jpg?t=1771527569"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970580/ss_34f8989603fae6271448b2c5965096c783a3ee09.1920x1080.jpg?t=1771527569"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970580/ss_443a178355263f7d42d3df2dffa9d0c52b55d009.1920x1080.jpg?t=1771527569"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970580/ss_cc025dd8c6015c038c38b559c400140537e03364.1920x1080.jpg?t=1771527569"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970580/ss_d655952daeadd28cb188cd276971700ccdee1e07.1920x1080.jpg?t=1771527569"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970580/ss_5d59bf6f94d524eaa64db393c56296dbc420f8eb.1920x1080.jpg?t=1771527569"
+    }
+  ],
+  "videos": [
+    {
+      "name": "1.0 Launch",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256982338/movie.293x165.jpg?t=1699984646",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1970580/629265/3e6b7df3a166048e484cf54e0a0b6dfb2945c7e5/1750743148/dash_h264.mpd?t=1699984646"
+    }
+  ],
+  "metacritic": {
+    "score": 76,
+    "url": "https://www.metacritic.com/game/pc/backpack-hero?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1970580,
+    "store_url": "https://store.steampowered.com/app/1970580/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Replay Value",
+      "Inventory Management",
+      "Turn-Based",
+      "Roguelike Deckbuilder",
+      "Deckbuilding",
+      "2D",
+      "Roguelike",
+      "Fantasy",
+      "Strategy",
+      "Building",
+      "Choices Matter",
+      "Turn-Based Strategy",
+      "Roguelite",
+      "Casual",
+      "Procedural Generation",
+      "Singleplayer",
+      "Female Protagonist",
+      "Card Battler",
+      "Controller",
+      "Moddable"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7310,
+    "review_negative": 1121,
+    "review_total": 8431,
+    "review_positive_percent": 86.7
+  }
+}

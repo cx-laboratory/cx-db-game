@@ -1,0 +1,238 @@
+{
+  "key": "thymesia",
+  "name": "Thymesia",
+  "description": "Thymesia is a gruelling action-RPG with fast-paced combat and an intricate plague weapon system. In a kingdom where death spreads, play as a mysterious character known by the code name &quot;Corvus&quot;. Prey upon your enemies, wield the power of disease and find the truth in your own memories.",
+  "developers": [
+    "OverBorder Studio"
+  ],
+  "publishers": [
+    "Team17"
+  ],
+  "release_date": "2022-08-18",
+  "website": "https://www.thymesia.info/",
+  "tags": [
+    "action",
+    "souls-like",
+    "difficult",
+    "singleplayer",
+    "dark-fantasy",
+    "hack-and-slash",
+    "action-rpg",
+    "third-person",
+    "atmospheric",
+    "rpg",
+    "dark",
+    "fantasy",
+    "gore",
+    "gothic",
+    "medieval",
+    "horror",
+    "combat",
+    "3d",
+    "post-apocalyptic",
+    "fighting"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese"
+  ],
+  "name_localized": {
+    "tchinese": "記憶邊境",
+    "schinese": "记忆边境"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "PlagueProject.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "DeveloperBuild\\PlagueProject.exe",
+          "description": "Development Build",
+          "type": "option1"
+        },
+        {
+          "executable": "DeveloperBuild\\PlagueProject.exe",
+          "description": "Development Build",
+          "type": "option1"
+        },
+        {
+          "executable": "ShippingBuild\\PlagueProject.exe",
+          "description": "Shipping Build (Usability)",
+          "type": "option2"
+        },
+        {
+          "executable": "DeveloperBuild\\PlagueProject.exe",
+          "description": "Development Build (Kakehashi)",
+          "type": "option1"
+        },
+        {
+          "executable": "DeveloperBuild\\PlagueProject.exe",
+          "description": "Development Build",
+          "type": "option1"
+        },
+        {
+          "executable": "DeveloperBuild\\PlagueProject.exe",
+          "description": "Development Build",
+          "type": "option1"
+        },
+        {
+          "executable": "DeveloperBuild\\PlagueProject.exe",
+          "description": "Development Build",
+          "type": "option1"
+        },
+        {
+          "executable": "DeveloperBuild\\PlagueProject.exe",
+          "description": "Development Build",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Thymesia",
+    "PlagueProject",
+    "DeveloperBuild\\PlagueProject",
+    "ShippingBuild\\PlagueProject",
+    "記憶邊境",
+    "记忆边境"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1343240/615a6e504a759546ef8d571e84be0f806e372e21.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343240/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343240/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343240/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343240/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343240/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343240/ss_799361600fa00f88bfd5b4b3e1909869db1b4a96.1920x1080.jpg?t=1778528381"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343240/ss_8c5e1789547e5808e586296fd065c6840da173f5.1920x1080.jpg?t=1778528381"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343240/ss_9aa5a7e3818567986f657241ae6b0ff05e24fb4d.1920x1080.jpg?t=1778528381"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343240/ss_fd04d9a2306745ca056f8d0264c19d26436976f7.1920x1080.jpg?t=1778528381"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343240/ss_1d30aa3651207ff3aca850df3c4bffcd075592e8.1920x1080.jpg?t=1778528381"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343240/ss_f51285ebed2867ab753d0f56878b99903a1cca90.1920x1080.jpg?t=1778528381"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343240/ss_50e0d97e14d8b64ffba17194b3898171ff570594.1920x1080.jpg?t=1778528381"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343240/ss_9e30684182468d748be13139853496a0da8bf52e.1920x1080.jpg?t=1778528381"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343240/ss_26ab54e9ae178a7029c5ead7cb482e2bcf54e129.1920x1080.jpg?t=1778528381"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343240/ss_ea31e0c9c99bd3544697ac886d645a1e9f8b1292.1920x1080.jpg?t=1778528381"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343240/ss_fa2ddc761bf936f52c145e684070f4954d86b76a.1920x1080.jpg?t=1778528381"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343240/ss_25036d343283a30d5db2dfd1420ef1c1068c238c.1920x1080.jpg?t=1778528381"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343240/ss_4de40bf6885b59dac3088c4d0e3b08cee8dce141.1920x1080.jpg?t=1778528381"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256912756/movie.293x165.jpg?t=1666710191",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1343240/507995/29957a1616a01b10de679c240128db655532a2ce/1750676068/dash_h264.mpd?t=1666710191"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256901235/movie.293x165.jpg?t=1666710197",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1343240/488431/56a33d4bbf57464227e4daa333151e5f694b8449/1750676059/dash_h264.mpd?t=1666710197"
+    },
+    {
+      "name": "Release Date Announce",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256896431/movie.293x165.jpg?t=1666710203",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1343240/479886/5a1117e860866371a7e8a90631ae182cfd7125d3/1750676048/dash_h264.mpd?t=1666710203"
+    },
+    {
+      "name": "Release Date 2022",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256861064/movie.293x165.jpg?t=1666710211",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1343240/418129/41850b661e6643578e06a821e4b4fa7ccb60fd61/1750676045/dash_h264.mpd?t=1666710211"
+    },
+    {
+      "name": "Announce Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256827380/movie.293x165.jpg?t=1666710222",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1343240/356569/ddad0195de01610daefd345306b3e5bd503e0303/1750676028/dash_h264.mpd?t=1666710222"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1343240,
+    "store_url": "https://store.steampowered.com/app/1343240/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Souls-like",
+      "Difficult",
+      "Singleplayer",
+      "Dark Fantasy",
+      "Hack and Slash",
+      "Action RPG",
+      "Third Person",
+      "Action",
+      "Atmospheric",
+      "RPG",
+      "Dark",
+      "Fantasy",
+      "Gore",
+      "Gothic",
+      "Medieval",
+      "Horror",
+      "Combat",
+      "3D",
+      "Post-apocalyptic",
+      "Fighting"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8099,
+    "review_negative": 1726,
+    "review_total": 9825,
+    "review_positive_percent": 82.43
+  }
+}

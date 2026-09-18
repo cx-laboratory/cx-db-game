@@ -1,0 +1,198 @@
+{
+  "key": "sonic-mania",
+  "name": "Sonic Mania",
+  "description": "Sonic Mania is an all-new adventure with Sonic, Tails, and Knuckles full of unique bosses, rolling 2D landscapes, and fun classic gameplay.",
+  "developers": [
+    "Christian Whitehead"
+  ],
+  "publishers": [
+    "SEGA"
+  ],
+  "release_date": "2017-08-30",
+  "website": "http://www.sonicthehedgehog.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "casual",
+    "multiplayer",
+    "pvp",
+    "co-op",
+    "split-screen",
+    "great-soundtrack",
+    "2d",
+    "platformer",
+    "retro",
+    "classic",
+    "pixel-graphics",
+    "fast-paced",
+    "colorful",
+    "side-scroller",
+    "singleplayer",
+    "family-friendly",
+    "local-multiplayer",
+    "arcade",
+    "action-adventure",
+    "cartoony",
+    "remake"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "japanese": "ソニックマニア",
+    "schinese": "Sonic Mania",
+    "tchinese": "SONIC MANIA",
+    "koreana": "소닉 매니아"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SonicMania.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "",
+          "pattern": "*.bin",
+          "recursive": false
+        },
+        {
+          "root": "SteamCloudDocuments",
+          "path": "SavesDir",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Sonic Mania",
+    "SonicMania",
+    "ソニックマニア",
+    "SONIC MANIA",
+    "소닉 매니아"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/584400/c329b28adc1eb1ae73c9d4df9d9e48d7ea63bd86.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584400/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584400/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584400/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584400/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584400/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584400/ss_27efb8f61892a9bd732952c76dae9dd7ad1b6748.1920x1080.jpg?t=1762751921"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584400/ss_93ee106db863c16e00989ad9d51bcbea4af91ab0.1920x1080.jpg?t=1762751921"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584400/ss_72b7374ba1d4978c2b5e7c74c2e56aecc33b0d3c.1920x1080.jpg?t=1762751921"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584400/ss_5168ae3cd4e0ccac9808325242ccb2e6760ee2f0.1920x1080.jpg?t=1762751921"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584400/ss_1e19c5bd7aaada51a7811f8468f5fb71cf42f3f7.1920x1080.jpg?t=1762751921"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Sonic_Mania_PEGI_Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256693465/movie.293x165.jpg?t=1504024132",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/584400/119472/7b5d3da09a239bbeb2af4e81e156c5faa06de8d2/1750556235/dash_h264.mpd?t=1504024132"
+    },
+    {
+      "name": "Sonic_Mania_ESRB_Preorder_Trailer_2",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256686271/movie.293x165.jpg?t=1496310257",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/584400/105720/2b223e01cdc8e3af6614b6fa00bff5b5e55175e1/1750556150/dash_h264.mpd?t=1496310257"
+    },
+    {
+      "name": "Sonic_Mania_Preorder_Trailer_ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256685080/movie.293x165.jpg?t=1495807490",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/584400/102940/9a19ac4f36383d4150dd9859fa51771403553f2c/1750556030/dash_h264.mpd?t=1495807490"
+    }
+  ],
+  "metacritic": {
+    "score": 84,
+    "url": "https://www.metacritic.com/game/pc/sonic-mania?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 584400,
+    "store_url": "https://store.steampowered.com/app/584400/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Great Soundtrack",
+      "2D",
+      "Platformer",
+      "Retro",
+      "Classic",
+      "Pixel Graphics",
+      "Fast-Paced",
+      "Colorful",
+      "Adventure",
+      "Action",
+      "Side Scroller",
+      "Singleplayer",
+      "Family Friendly",
+      "Local Co-Op",
+      "Multiplayer",
+      "Casual",
+      "Arcade",
+      "Action-Adventure",
+      "Cartoony",
+      "Remake"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 26572,
+    "review_negative": 1737,
+    "review_total": 28309,
+    "review_positive_percent": 93.86
+  }
+}

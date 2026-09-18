@@ -1,0 +1,207 @@
+{
+  "key": "bit-blaster-xl",
+  "name": "Bit Blaster XL",
+  "description": "Bit Blaster XL is a fast-paced, retro arcade shoot 'em up (shmup) inspired by the classic quarter-munchers of the ‘80s. Easy to pick up, hard to put down, boost, dodge, shoot, and chase high scores in this addictive, old-school action game!",
+  "developers": [
+    "Adamvision Studios"
+  ],
+  "publishers": [
+    "Adamvision Studios"
+  ],
+  "release_date": "2016-01-23",
+  "website": "http://www.adamvisionstudios.com",
+  "tags": [
+    "action",
+    "casual",
+    "indie",
+    "bullet-hell",
+    "shoot-em-up",
+    "difficult",
+    "shooter",
+    "arcade",
+    "2d",
+    "controller",
+    "minimalist",
+    "pixel-graphics",
+    "family-friendly",
+    "sci-fi",
+    "space",
+    "score-attack",
+    "survival",
+    "cartoon",
+    "aliens",
+    "old-school",
+    "retro"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Portuguese - Portugal",
+    "Russian",
+    "Simplified Chinese",
+    "Portuguese - Brazil"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "BitBlasterXL.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Adamvision Studios/Bit Blaster XL",
+          "pattern": "*.bbxl",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "BitBlasterXL.app",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Adamvision Studios/Bit Blaster XL",
+          "pattern": "*.bbxl",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "BitBlasterXL.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Adamvision Studios/Bit Blaster XL",
+          "pattern": "*.bbxl",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Bit Blaster XL",
+    "BitBlasterXL",
+    "BitBlasterXL.app",
+    "BitBlasterXL.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/433950/de749aa6f191796e141f0dce05bc80217d7532d1.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433950/78163a0d17719e45ec372fffe960478bc84183cf/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433950/63d3c64e835629f99ae77e4a521826888088217e/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433950/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433950/0f9943e6b29fe6815de13dd56463ba989d84a938/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433950/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433950/b773c719d152cb7166f50361da9f84cb092f030a/ss_b773c719d152cb7166f50361da9f84cb092f030a.1920x1080.jpg?t=1745903625"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433950/ef9871b933b91d5a418daad750e1150168c3b095/ss_ef9871b933b91d5a418daad750e1150168c3b095.1920x1080.jpg?t=1745903625"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433950/426174e64d00a60f1f35778f362568d2be392d6a/ss_426174e64d00a60f1f35778f362568d2be392d6a.1920x1080.jpg?t=1745903625"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433950/1120310192b3cb3a36c5b2d8acec599dd0cb2461/ss_1120310192b3cb3a36c5b2d8acec599dd0cb2461.1920x1080.jpg?t=1745903625"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433950/afc3590f4fd996a909f96c756b22b82f872a8fb7/ss_afc3590f4fd996a909f96c756b22b82f872a8fb7.1920x1080.jpg?t=1745903625"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433950/e27b7eb62192a372acc9b7e1a4bd65d462f4eb9d/ss_e27b7eb62192a372acc9b7e1a4bd65d462f4eb9d.1920x1080.jpg?t=1745903625"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433950/698408432b74ce18d75052391b254e3985e6aee3/ss_698408432b74ce18d75052391b254e3985e6aee3.1920x1080.jpg?t=1745903625"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433950/78f39a91f6d7249875b4cec5cab461ebcff13587/ss_78f39a91f6d7249875b4cec5cab461ebcff13587.1920x1080.jpg?t=1745903625"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Bit Blaster XL Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256863923/movie.293x165.jpg?t=1683074939",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/433950/423044/4350d14a2ca3291e4d11854c2e63ded487562cf3/1751284220/dash_h264.mpd?t=1683074939"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 433950,
+    "store_url": "https://store.steampowered.com/app/433950/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Bullet Hell",
+      "Shoot 'Em Up",
+      "Difficult",
+      "Shooter",
+      "Arcade",
+      "2D",
+      "Controller",
+      "Action",
+      "Casual",
+      "Minimalist",
+      "Pixel Graphics",
+      "Family Friendly",
+      "Sci-fi",
+      "Space",
+      "Score Attack",
+      "Survival",
+      "Cartoon",
+      "Aliens",
+      "Old School",
+      "Retro"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 5933,
+    "review_negative": 221,
+    "review_total": 6154,
+    "review_positive_percent": 96.41
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "key": "the-wandering-village",
+  "name": "The Wandering Village",
+  "description": "The Wandering Village is a city-building simulation game on the back of a giant, wandering creature. Build your settlement and form a symbiotic relationship with the colossus. Will you survive together in this hostile, yet beautiful post-apocalyptic world, contaminated by poisonous plants?",
+  "developers": [
+    "Stray Fawn Studio"
+  ],
+  "publishers": [
+    "Stray Fawn Publishing"
+  ],
+  "release_date": "2025-07-17",
+  "website": "https://thewanderingvillage.com/",
+  "tags": [
+    "simulation",
+    "strategy",
+    "city-builder",
+    "management",
+    "post-apocalyptic",
+    "colony-sim",
+    "resource-management",
+    "exploration",
+    "cute",
+    "nature",
+    "survival",
+    "rts",
+    "life-sim",
+    "sandbox",
+    "farming-sim",
+    "roguelike",
+    "base-building",
+    "singleplayer",
+    "relaxing",
+    "automation",
+    "controller"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "turkish",
+    "arabic",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "漂泊牧歌 (The Wandering Village)",
+    "japanese": "The Wandering Village～さまよえる村"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Windows64/WanderingVillage.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Windows32/WanderingVillage.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Stray Fawn Studio/The Wandering Village",
+          "pattern": "*.onbu",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Stray Fawn Studio/The Wandering Village",
+          "pattern": "persistent_progress.json",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Mac\\WanderingVillage.app\\Contents\\MacOS\\The Wandering Village",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Stray Fawn Studio/The Wandering Village",
+          "pattern": "*.onbu",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Stray Fawn Studio/The Wandering Village",
+          "pattern": "persistent_progress.json",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Linux\\WanderingVillage.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Stray Fawn Studio/The Wandering Village",
+          "pattern": "*.onbu",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Stray Fawn Studio/The Wandering Village",
+          "pattern": "persistent_progress.json",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The Wandering Village",
+    "Windows64/WanderingVillage",
+    "Windows32/WanderingVillage",
+    "Mac\\WanderingVillage.app\\Contents\\MacOS\\The Wandering Village",
+    "Linux\\WanderingVillage.x86_64",
+    "漂泊牧歌 (The Wandering Village)",
+    "The Wandering Village～さまよえる村"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1121640/1afcc38a5003e351efa1acfa45254c570eef7cc2.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1121640/1fb7e9ed41e98c6b289f9abdd9686cc7f38b1b3e/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1121640/3c59f658cfac54c415d68f7ba6a9fbcf6ce330da/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1121640/f6b5dc2776b74aabb6fd2db7e778c6ea6cc0f9fc/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1121640/d38b3a46de21ebe3e5926e643e12120a43c8c003/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1121640/a1fe75dd58e68f0844febc2bac0ea191f6a396b4/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1121640/577c727eea7a4128927bc30a049baf0825bc7cfa/ss_577c727eea7a4128927bc30a049baf0825bc7cfa.1920x1080.jpg?t=1782735677"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1121640/11d4c2eb356731eab66bcc43d299374a33f23d5e/ss_11d4c2eb356731eab66bcc43d299374a33f23d5e.1920x1080.jpg?t=1782735677"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1121640/2b53d67e04b864745ebcca60b90d740f81fed5b4/ss_2b53d67e04b864745ebcca60b90d740f81fed5b4.1920x1080.jpg?t=1782735677"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1121640/955fdda360a857bde257995f85e763007e7f7b63/ss_955fdda360a857bde257995f85e763007e7f7b63.1920x1080.jpg?t=1782735677"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1121640/e7830a5515b500faab5c186275a18afc7967141c/ss_e7830a5515b500faab5c186275a18afc7967141c.1920x1080.jpg?t=1782735677"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1121640/95134ab3c5b4932ab94ff9f99888736024c08c14/ss_95134ab3c5b4932ab94ff9f99888736024c08c14.1920x1080.jpg?t=1782735677"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1121640/3ae54ae19bc02e9c7354f3de562953821b9b51ff/ss_3ae54ae19bc02e9c7354f3de562953821b9b51ff.1920x1080.jpg?t=1782735677"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1121640/ce026d3883c5c43780576dca785d35639cd83dff/ss_ce026d3883c5c43780576dca785d35639cd83dff.1920x1080.jpg?t=1782735677"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1121640/3f785e283646bb28a921fe9624f969eea6a60b8f/ss_3f785e283646bb28a921fe9624f969eea6a60b8f.1920x1080.jpg?t=1782735677"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1121640/bb1799ef8df10c879513b88811cacdd23b4cbf40/ss_bb1799ef8df10c879513b88811cacdd23b4cbf40.1920x1080.jpg?t=1782735677"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1121640/32cd07cb087ba2924e965a533f44f14e17a3a246/ss_32cd07cb087ba2924e965a533f44f14e17a3a246.1920x1080.jpg?t=1782735677"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1121640/13051c9341da61237300dd43f8ecab3b70049955/ss_13051c9341da61237300dd43f8ecab3b70049955.1920x1080.jpg?t=1782735677"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1121640/506c9f92205285e066fe6b6c90d79ab68f02c863/ss_506c9f92205285e066fe6b6c90d79ab68f02c863.1920x1080.jpg?t=1782735677"
+    }
+  ],
+  "videos": [
+    {
+      "name": "1.0 Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257142744/e3f020ee918112074328ca17a5a63ff711504490/movie_600x337.jpg?t=1753365988",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1121640/741421215/ed4727162d8942f747f721235b970e207418b005/1753363437/dash_h264.mpd?t=1753365988"
+    },
+    {
+      "name": "Ocean Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256959044/movie.293x165.jpg?t=1689870628",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1121640/589058/adeadc13e75ab7e9aa2749a2f6e4465086caa0d8/1750623705/dash_h264.mpd?t=1689870628"
+    },
+    {
+      "name": "Early Access Out Now",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256905909/movie.293x165.jpg?t=1689870632",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1121640/496367/6a432b0b620560e6f0170c053b24ca25e98dd348/1750623628/dash_h264.mpd?t=1689870632"
+    },
+    {
+      "name": "Short Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256936100/movie.293x165.jpg?t=1689870636",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1121640/548881/7fb7c20cf88c3adeff9c26dc8af875e952290351/1750623689/dash_h264.mpd?t=1689870636"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1121640,
+    "store_url": "https://store.steampowered.com/app/1121640/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Adjustable Text Size",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "City Builder",
+      "Management",
+      "Simulation",
+      "Post-apocalyptic",
+      "Colony Sim",
+      "Resource Management",
+      "Exploration",
+      "Cute",
+      "Nature",
+      "Survival",
+      "RTS",
+      "Life Sim",
+      "Sandbox",
+      "Farming Sim",
+      "Roguelike",
+      "Base Building",
+      "Singleplayer",
+      "Relaxing",
+      "Automation",
+      "Controller"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7625,
+    "review_negative": 668,
+    "review_total": 8293,
+    "review_positive_percent": 91.95
+  }
+}

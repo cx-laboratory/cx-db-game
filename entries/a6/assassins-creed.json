@@ -1,0 +1,124 @@
+{
+  "key": "assassins-creed",
+  "name": "Assassin's Creed",
+  "description": "Assassin's Creed™ is the next-gen game developed by Ubisoft Montreal that redefines the action genre. While other games claim to be next-gen with impressive graphics and physics, Assassin's Creed merges technology, game design, theme and emotions into a world where you instigate chaos and become a vulnerable, yet powerful, agent of...",
+  "developers": [
+    "Ubisoft Montreal"
+  ],
+  "publishers": [
+    "Ubisoft"
+  ],
+  "release_date": "2008-04-10",
+  "website": "http://www.assassinscreed.com",
+  "tags": [
+    "action",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "AssassinsCreed_Game.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Assassin's Creed",
+    "AssassinsCreed_Game"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/15100/cd8f7a795e34e16449f7ad8d8190dce521967917.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/15100/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/15100/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/15100/capsule_231x87.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/15100/0000003837.1920x1080.jpg?t=1602600542"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/15100/0000003838.1920x1080.jpg?t=1602600542"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/15100/0000003839.1920x1080.jpg?t=1602600542"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/15100/0000003840.1920x1080.jpg?t=1602600542"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/15100/0000003841.1920x1080.jpg?t=1602600542"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/15100/0000003842.1920x1080.jpg?t=1602600542"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/15100/0000003843.1920x1080.jpg?t=1602600542"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/15100/0000003844.1920x1080.jpg?t=1602600542"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/15100/0000003845.1920x1080.jpg?t=1602600542"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/15100/0000003846.1920x1080.jpg?t=1602600542"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/15100/0000003847.1920x1080.jpg?t=1602600542"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Assassin's Creed™ HD Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5030/movie.jpg?t=1447351288",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/15100/1029/f0126aa91a6328d9592aec7d5ad2210429b35078/1750484536/dash_h264.mpd?t=1447351288"
+    }
+  ],
+  "metacritic": {
+    "score": 79,
+    "url": "https://www.metacritic.com/game/pc/assassins-creed-directors-cut-edition?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 15100,
+    "store_url": "https://store.steampowered.com/app/15100/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 20094,
+    "review_negative": 4822,
+    "review_total": 24916,
+    "review_positive_percent": 80.65
+  }
+}

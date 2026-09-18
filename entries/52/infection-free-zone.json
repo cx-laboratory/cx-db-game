@@ -1,0 +1,227 @@
+{
+  "key": "infection-free-zone",
+  "name": "Infection Free Zone",
+  "description": "Choose any real region from the world. Choose your base of operations, then rebuild and readapt the buildings around you to create a self-sustaining settlement. Take charge of a group of survivors from your city. And when the night falls - Defend the zone from the infected!",
+  "developers": [
+    "Jutsu Games"
+  ],
+  "publishers": [
+    "Games Operators"
+  ],
+  "release_date": "2024-04-12",
+  "website": "http://infection-free-zone.com/",
+  "tags": [
+    "action",
+    "indie",
+    "simulation",
+    "strategy",
+    "early-access",
+    "base-building",
+    "post-apocalyptic",
+    "zombies",
+    "city-builder",
+    "management",
+    "survival",
+    "rts",
+    "outbreak-sim",
+    "colony-sim",
+    "sandbox",
+    "singleplayer",
+    "immersive-sim",
+    "time-management",
+    "3d",
+    "minimalist",
+    "atmospheric",
+    "dark"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Russian",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Portuguese - Brazil",
+    "Turkish*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "Infection Free Zone (无感染区)"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Infection Free Zone.exe",
+          "description": "Play",
+          "type": "default"
+        },
+        {
+          "executable": "launcher/Launcher.exe",
+          "description": "Play Launcher",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "JutsuGames/Infection Free Zone/Cloud/{64BitSteamID}",
+          "pattern": "*.dat",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Infection Free Zone",
+    "launcher/Launcher",
+    "Infection Free Zone (无感染区)"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1465460/cfaa3ce1b09e39db5109008e44223503d9106736.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465460/30867667e80580bed424dd9d946f1aa7110bf0c0/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465460/43f59e58a89e53394022a1c0bf2a5f2b29353368/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465460/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465460/77b057c52f8f859d7bdcec8cc6283ee8f7123841/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465460/fea55e2899c0e18c0621e42a9fdef164b9ca0056/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465460/068529731154ce0c5f89484548d7726068e73f3e/ss_068529731154ce0c5f89484548d7726068e73f3e.1920x1080.jpg?t=1781188246"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465460/e5af8d0400f636c666a9663a668f957513fa84b1/ss_e5af8d0400f636c666a9663a668f957513fa84b1.1920x1080.jpg?t=1781188246"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465460/bd46eac911f967c69d527f26abdec539834b031b/ss_bd46eac911f967c69d527f26abdec539834b031b.1920x1080.jpg?t=1781188246"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465460/f491ba2f6c7e764bfe0b9844841312b94e7ac29b/ss_f491ba2f6c7e764bfe0b9844841312b94e7ac29b.1920x1080.jpg?t=1781188246"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465460/aad6152d396de004c9014c1c094472d13d1b8390/ss_aad6152d396de004c9014c1c094472d13d1b8390.1920x1080.jpg?t=1781188246"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465460/2d65ed48a4474bc58ccbcf9767e00d614c018cba/ss_2d65ed48a4474bc58ccbcf9767e00d614c018cba.1920x1080.jpg?t=1781188246"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465460/f0981f994eb04bc066884631834388732e35db7b/ss_f0981f994eb04bc066884631834388732e35db7b.1920x1080.jpg?t=1781188246"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465460/24a40931daceb86e8c5f08591dc8b504aa4d759f/ss_24a40931daceb86e8c5f08591dc8b504aa4d759f.1920x1080.jpg?t=1781188246"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465460/a4ffce002b56e845687ddf911ce837c4528b0091/ss_a4ffce002b56e845687ddf911ce837c4528b0091.1920x1080.jpg?t=1781188246"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465460/d3618c15e72aea03e3b7f42cc84529e0d4cf9083/ss_d3618c15e72aea03e3b7f42cc84529e0d4cf9083.1920x1080.jpg?t=1781188246"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465460/2524d213ff71a6e8af162e7d18a8f35dd2259586/ss_2524d213ff71a6e8af162e7d18a8f35dd2259586.1920x1080.jpg?t=1781188246"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465460/20e9395666ec8d4bb5d2e97974121c4b072d6da2/ss_20e9395666ec8d4bb5d2e97974121c4b072d6da2.1920x1080.jpg?t=1781188246"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465460/04d57fae43c91c59a87e70b2c54540e1475d53ef/ss_04d57fae43c91c59a87e70b2c54540e1475d53ef.1920x1080.jpg?t=1781188246"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465460/6a3393d807318b0ac710fe86ea080e8b1fe0d2fd/ss_6a3393d807318b0ac710fe86ea080e8b1fe0d2fd.1920x1080.jpg?t=1781188246"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465460/1c28840a53e733c247d64a69b627d99d66026931/ss_1c28840a53e733c247d64a69b627d99d66026931.1920x1080.jpg?t=1781188246"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465460/af8f05dedddf3e10986960e63cdf2b692cb7e8f2/ss_af8f05dedddf3e10986960e63cdf2b692cb7e8f2.1920x1080.jpg?t=1781188246"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465460/2a0753af061e72eb9842d18ca9d9b0b7df08e486/ss_2a0753af061e72eb9842d18ca9d9b0b7df08e486.1920x1080.jpg?t=1781188246"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465460/98c5c2a449dd8da470b832f24d0a6c63bd17dad6/ss_98c5c2a449dd8da470b832f24d0a6c63bd17dad6.1920x1080.jpg?t=1781188246"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Infection Free Zone - Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256852826/movie.293x165.jpg?t=1712860065",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1465460/403590/2455387f9467f12e836fb616afce000366483a99/1750691958/dash_h264.mpd?t=1712860065"
+    },
+    {
+      "name": "Infection Free Zone - Major Update 6 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257219570/bed12456c0ec7f327e4b0f313faf966e378825ae/movie_600x337.jpg?t=1781005457",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1465460/2108902036/44467545a24e375f125661bb02ffdcc9d4c6f31d/1781005169/dash_h264.mpd?t=1781005457"
+    },
+    {
+      "name": "Infection Free Zone - Story Intro",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256984388/movie.293x165.jpg?t=1700734956",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1465460/632851/f9c2abc0fd4b4517b324119388d1ec56159c0618/1750692055/dash_h264.mpd?t=1700734956"
+    },
+    {
+      "name": "Major Update 4 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257182640/bcc035886a29f67208ee2413b17b016449f5f95b/movie_600x337.jpg?t=1755095538",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1465460/200526878/6852dcc336562ee1aa8b13fa67c59eeb1eb1acc2/1755091739/dash_h264.mpd?t=1755095538"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1465460,
+    "store_url": "https://store.steampowered.com/app/1465460/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation",
+      "Strategy",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Early Access",
+      "Base Building",
+      "Post-apocalyptic",
+      "Zombies",
+      "City Builder",
+      "Strategy",
+      "Management",
+      "Simulation",
+      "Survival",
+      "RTS",
+      "Outbreak Sim",
+      "Colony Sim",
+      "Sandbox",
+      "Singleplayer",
+      "Immersive Sim",
+      "Time Management",
+      "3D",
+      "Minimalist",
+      "Atmospheric",
+      "Dark"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 14587,
+    "review_negative": 3518,
+    "review_total": 18105,
+    "review_positive_percent": 80.57
+  }
+}

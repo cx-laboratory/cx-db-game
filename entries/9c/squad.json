@@ -1,0 +1,271 @@
+{
+  "key": "squad",
+  "name": "Squad",
+  "description": "Squad is a tactical FPS that provides authentic combat experiences through teamwork, communication, and realistic combat. It bridges the gap between arcade shooter and military realism with 100-player battles, combined-arms warfare, and base building.",
+  "developers": [
+    "Offworld"
+  ],
+  "publishers": [
+    "Offworld"
+  ],
+  "release_date": "2020-09-24",
+  "website": "http://joinsquad.com",
+  "tags": [
+    "action",
+    "indie",
+    "massively-multiplayer",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "military",
+    "realistic",
+    "fps",
+    "pve",
+    "tactical",
+    "shooter",
+    "first-person",
+    "wargame",
+    "team-based",
+    "war",
+    "simulation",
+    "modern",
+    "base-building",
+    "immersive-sim"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "Simplified Chinese",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Portuguese - Brazil",
+    "Russian",
+    "Ukrainian*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "squad_launcher.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Squad.exe",
+          "description": "without EAC",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Squad",
+    "squad_launcher"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/393380/eb66a8cb52165274c84cae6526205065d13119d5.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/0b19b50aabea356bd8f534fbe7d6db9bd227810a/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/e069cbeca98b633002e2d2202b4cc4ae58138549/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/98a2fb72a788b60361f98ea07d1584ced808bcaa/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_646857af730262e7f6f92e67bf2d8b47bf0c662c.1920x1080.jpg?t=1781548039"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_0ca9f1167852de187a7f929da20421ddb08fc752.1920x1080.jpg?t=1781548039"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_a50882d54e8fdf8478bbbe5cd8df4bd086fc1a0f.1920x1080.jpg?t=1781548039"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_b256c427c3dc178a04fb54c92d563aae12c0ea36.1920x1080.jpg?t=1781548039"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_6b6aa0741b6e65f34b153f0e6468412e104dbc64.1920x1080.jpg?t=1781548039"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_6fabf783d6897ad15486b2051c997d9f9a8f2ab0.1920x1080.jpg?t=1781548039"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_7104c711d927338448fb86882c70ed7a4e396a70.1920x1080.jpg?t=1781548039"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_62314ae7cc786d5f4ce67f191d37e9a1520d4cb4.1920x1080.jpg?t=1781548039"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_602d31a8254112c1f0fb9deba558b7eff3739831.1920x1080.jpg?t=1781548039"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_e89794b102ad163e67b6c4fb1c666c092415981e.1920x1080.jpg?t=1781548039"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_097796d0779c7befd5c2fd8c5e58a982831012b3.1920x1080.jpg?t=1781548039"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_bdb91c17dfdc10f43c5ed32d2bfe426ed7adbcfe.1920x1080.jpg?t=1781548039"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_fa694ba86cd62d4edc34c8bef3d316d81a04cba1.1920x1080.jpg?t=1781548039"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_c39de587d7cc3b4fd6b28921a301262a1294cc7f.1920x1080.jpg?t=1781548039"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_a419d181682533a3b5b624773bacfb3b0279ad0e.1920x1080.jpg?t=1781548039"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_e58eec44436ef659065f12837cfc9c55c8ae9073.1920x1080.jpg?t=1781548039"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_6cda3e8d662cee6df174e7b9d1a784cc5dad061f.1920x1080.jpg?t=1781548039"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_841b39d994779b901cc7ac722cd65f18a0a058c2.1920x1080.jpg?t=1781548039"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_a5857bdd1ff0c71e6af12393d4642b40cc55f48d.1920x1080.jpg?t=1781548039"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_dad75bd528133c48043da1479eedb83f6cfa9f8a.1920x1080.jpg?t=1781548039"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_42aea87f22459febea72a9e2f6df5d46003196e4.1920x1080.jpg?t=1781548039"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_79f8e966b5507f922bf0de8395e87d5ed580d750.1920x1080.jpg?t=1781548039"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_97950d3afce83244b88199b103a45d76e9ddc092.1920x1080.jpg?t=1781548039"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_ad1dd36b1a1c2a0f530865b5feeed5d58a054993.1920x1080.jpg?t=1781548039"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_0a4ccf99b44b959c4ae186d26d5ce0cd03daefa3.1920x1080.jpg?t=1781548039"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_b4e0a80cd5d70fcf2e04e44f08afc598db8bee08.1920x1080.jpg?t=1781548039"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_d011bf94a4bfbb645c09c09fa0f68061522fa5dc.1920x1080.jpg?t=1781548039"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_bd8e2ee00864de749c62d719541a67ff4730e9f7.1920x1080.jpg?t=1781548039"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Squad Fireteam Edition",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257359661/6a682eeade6b0d4bc279f49bf0b3536515b74fd2/movie_600x337.jpg?t=1781542997",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/393380/1658031126/eb620b8f76978b8fff72fb3ab16ede5c14785571/1781541279/dash_h264.mpd?t=1781542997"
+    },
+    {
+      "name": "Welcome to Squad",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257058446/7ce024610266a2c2a0363bc76dab3f6ae46fc4e2/movie_600x337.jpg?t=1761665571",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/393380/761271/2e3c65f1c249a0beff07bd2a2171262e8b3ddc97/1750525143/dash_h264.mpd?t=1761665571"
+    },
+    {
+      "name": "Update 10.3 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257289530/51455056ef4c8b2907f6852d6bdd47d9aca140e1/movie_600x337.jpg?t=1771431592",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/393380/2004029481/34e88782c07dc910defb61115b74ff86bc7796eb/1771431115/dash_h264.mpd?t=1771431592"
+    },
+    {
+      "name": "Fireteam Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257243055/fab4ab9d1ce0d1a22be8e0d0367e46c607dbc936/movie_600x337.jpg?t=1764789669",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/393380/1636213066/f1efe5b936047332c2972897e42976205beac0b5/1764788793/dash_h264.mpd?t=1764789669"
+    },
+    {
+      "name": "Armed Forces of Ukraine Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257245336/784a28f283f78321710cffee29ed0540c62683ea/movie_600x337.jpg?t=1766817065",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/393380/215580102/01cc0fdd23fc8dad1c523aa95c62bab9ef85bbad/1766816554/dash_h264.mpd?t=1766817065"
+    },
+    {
+      "name": "Squad Welcome to Al-Basrah Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257195106/19e8454d2ae27c0266ceee129a87f29c25d38dc8/movie_600x337.jpg?t=1761665573",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/393380/231802103/0bed669be864b73bb81ae1be6cd44f9c82bb786a/1757430321/dash_h264.mpd?t=1761665573"
+    },
+    {
+      "name": "Squad - Iron Thunder Introduction",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257031140/movie.293x165.jpg?t=1718320326",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/393380/713712/a19820fbb7b653c173e58d3b4757f5b2107005ee/1750525101/dash_h264.mpd?t=1718320326"
+    },
+    {
+      "name": "Squad - Operation Sanxian Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256999979/movie.293x165.jpg?t=1719340761",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/393380/660582/7e002b387d4e4a07838c25d9dc537d8ce83fdd31/1750525094/dash_h264.mpd?t=1719340761"
+    },
+    {
+      "name": "Squad - PLA Navy Marine Corps Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256998298/movie.293x165.jpg?t=1718320331",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/393380/657869/6270a6cded9826251e9178f3ddb7940d010e9259/1750525078/dash_h264.mpd?t=1718320331"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 393380,
+    "store_url": "https://store.steampowered.com/app/393380/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Massively Multiplayer",
+      "Strategy"
+    ],
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Valve Anti-Cheat enabled"
+    ],
+    "tags": [
+      "Military",
+      "Realistic",
+      "FPS",
+      "Multiplayer",
+      "PvP",
+      "PvE",
+      "Tactical",
+      "Shooter",
+      "First-Person",
+      "Action",
+      "Wargame",
+      "Team-Based",
+      "Online Co-Op",
+      "War",
+      "Massively Multiplayer",
+      "Strategy",
+      "Simulation",
+      "Modern",
+      "Base Building",
+      "Immersive Sim"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 194520,
+    "review_negative": 45031,
+    "review_total": 239551,
+    "review_positive_percent": 81.2
+  }
+}

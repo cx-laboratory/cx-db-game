@@ -1,0 +1,161 @@
+{
+  "key": "gorebox",
+  "name": "GoreBox",
+  "description": "GoreBox is a chaotic physics-driven sandbox where creativity meets destruction. Use the Reality Crusher to spawn, manipulate, and obliterate anything. Customize, roleplay, or face devious creatures. In this world, your imagination rules, and chaos is your playground!",
+  "developers": [
+    "F2Games"
+  ],
+  "publishers": [
+    "F2Games"
+  ],
+  "release_date": "2023-07-22",
+  "website": "",
+  "tags": [
+    "action",
+    "casual",
+    "indie",
+    "simulation",
+    "gore",
+    "sandbox",
+    "violent",
+    "physics",
+    "fps",
+    "shooter",
+    "pve",
+    "first-person",
+    "stylized",
+    "3d",
+    "level-editor",
+    "pvp",
+    "voxel",
+    "immersive-sim",
+    "exploration",
+    "relaxing",
+    "controller",
+    "colorful",
+    "atmospheric"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "GoreBox.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "GoreBox.exe",
+          "description": "Force D3D11",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "GoreBox"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2027330/f0c12ee6f09500cbf8ee76eb2c0d4ca138b0702a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2027330/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2027330/b3ab1437336d94837b4595bdc83a87a669037329/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2027330/6cc4a407aa06e5b4bf47e1ccf1df25601d4e5419/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2027330/a0020409d20b127edf9a1f56ead8fad9d41246ae/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2027330/aec2f2544ab81a077a5ac27e01b110449073cffe/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2027330/ss_aea94e4410b3fb7ac9199171afc9ac7a2dc3789c.1920x1080.jpg?t=1782702518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2027330/ss_17d63839d8631367a16dee8bdef91683a9aeb28a.1920x1080.jpg?t=1782702518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2027330/ss_7ac2b27cfed18af13923973efa2e1a27345e525c.1920x1080.jpg?t=1782702518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2027330/ss_0b884501711328f8ab0e12d3e9f351e6dc94bff8.1920x1080.jpg?t=1782702518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2027330/ss_70864de5998525f2eb1b74cd83dbd699d3492cef.1920x1080.jpg?t=1782702518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2027330/ss_9c3b349db6c8e81e3544a70d759cc9e616640449.1920x1080.jpg?t=1782702518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2027330/ss_af24ea3175e09135ff1db92bda68a93fccd269dd.1920x1080.jpg?t=1782702518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2027330/ss_f3546fe0f4fba42f6e8d073ff3f3a5645cc1de18.1920x1080.jpg?t=1782702518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2027330/ss_eb870af29eba962990bbdcb89858e88ebe4a3af5.1920x1080.jpg?t=1782702518"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2027330/ss_7420d32e91c9c1e5ec111edeb4e7cd3aade9618c.1920x1080.jpg?t=1782702518"
+    }
+  ],
+  "videos": [
+    {
+      "name": "GoreBox - Official Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256958156/ffb65a4ce35044dfd0faa3ddf1f5968192cf6e93/movie_600x337.jpg?t=1731451012",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2027330/587464/50cd22cb9e8a0f5060994e90119a019b6c613630/1750745077/dash_h264.mpd?t=1731451012"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2027330,
+    "store_url": "https://store.steampowered.com/app/2027330/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Includes level editor"
+    ],
+    "tags": [
+      "Gore",
+      "Sandbox",
+      "Violent",
+      "Physics",
+      "FPS",
+      "Shooter",
+      "PvE",
+      "First-Person",
+      "Stylized",
+      "3D",
+      "Level Editor",
+      "PvP",
+      "Voxel",
+      "Action",
+      "Immersive Sim",
+      "Exploration",
+      "Relaxing",
+      "Controller",
+      "Colorful",
+      "Atmospheric"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 20080,
+    "review_negative": 3738,
+    "review_total": 23818,
+    "review_positive_percent": 84.31
+  }
+}

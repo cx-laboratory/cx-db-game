@@ -1,0 +1,197 @@
+{
+  "key": "granblue-fantasy-relink",
+  "name": "Granblue Fantasy: Relink",
+  "description": "A grand adventure in the skies awaits! Form a party of four from a diverse roster of skyfarers and slash—or shoot or hex—your way to victory against treacherous foes in this action RPG. Take on quests solo or with the help of others in up to 4-player co-op play!",
+  "developers": [
+    "Cygames, Inc."
+  ],
+  "publishers": [
+    "Cygames, Inc."
+  ],
+  "release_date": "2024-02-01",
+  "website": "https://relink.granbluefantasy.jp/",
+  "tags": [
+    "action",
+    "adventure",
+    "rpg",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "anime",
+    "action-rpg",
+    "jrpg",
+    "fantasy",
+    "female-protagonist",
+    "singleplayer",
+    "third-person",
+    "hack-and-slash",
+    "spectacle-fighter",
+    "3d",
+    "magic",
+    "controller",
+    "swordplay",
+    "pve",
+    "dragons",
+    "tutorial"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "japanese",
+    "portuguese",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "japanese": "GRANBLUE FANTASY: Relink"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "granblue_fantasy_relink.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "GBFR/Saved/SaveGames",
+          "pattern": "*.dat",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Granblue Fantasy: Relink",
+    "granblue_fantasy_relink",
+    "GRANBLUE FANTASY: Relink"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/881020/1b9bcf2c07e1c760349fd4ecbc3b8690ef915e11.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/6c0fd615d362313d08d76e530ceb72265bbade2f/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/ss_cdda0cdcd1f5aec78bb9edea1fa7d80feaf46d77.1920x1080.jpg?t=1782204577"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/ss_26d3bbdddbf5f1b2c21c59bd0a1fe1fdd109cce4.1920x1080.jpg?t=1782204577"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/ss_0f2acb9ebaaee9380739587ccf5457047d9adfa6.1920x1080.jpg?t=1782204577"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/ss_6317bd5cd7153005ee1f089cb2c1dbeec80a06ca.1920x1080.jpg?t=1782204577"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/ss_7a9a55c2ed9fbe79afc824f57c345a7324bfd4dd.1920x1080.jpg?t=1782204577"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/ss_5232722b91d02a541091656b9664c6e007381fe9.1920x1080.jpg?t=1782204577"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/ss_85a946a1e70a5700d1fd8f9db3383dbda1a89a7f.1920x1080.jpg?t=1782204577"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/ss_35f3e00c56c6cb604f792a137a5ce00f32d769c1.1920x1080.jpg?t=1782204577"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/ss_9a1ab78753cd137d5a0708ff8a4732aaed92ddf9.1920x1080.jpg?t=1782204577"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/ss_7ed9b8bfc0aaafe19a9d5cbede4e11216cf6cec3.1920x1080.jpg?t=1782204577"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/ss_49a5d76c8a9da694926477445dac1f30b35281e6.1920x1080.jpg?t=1782204577"
+    }
+  ],
+  "videos": [
+    {
+      "name": "NewContentTrailer（英語）",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257063267/fefc272b3fa3749b669f6de86d05051a5aff4442/movie_600x337.jpg?t=1728493213",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/881020/769005/d20d6aaba80a12e1f2cedc68188023904edff45d/1750592877/dash_h264.mpd?t=1728493213"
+    },
+    {
+      "name": "ファイナルトレーラームービー",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256996956/movie.293x165.jpg?t=1706450310",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/881020/655426/4cf3bbbd61024feb4aa37aecaa9e037323f2c13a/1750592846/dash_h264.mpd?t=1706450310"
+    },
+    {
+      "name": "トレーラームービー",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256994991/movie.293x165.jpg?t=1705651222",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/881020/651897/98e7f2a2a3c905b1e31e0ea2c8ff5be1b92c0b26/1750592842/dash_h264.mpd?t=1705651222"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 881020,
+    "store_url": "https://store.steampowered.com/app/881020/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Gamepad Recommended",
+      "Steam Input API Support",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Anime",
+      "Action RPG",
+      "JRPG",
+      "Online Co-Op",
+      "Action",
+      "Multiplayer",
+      "Fantasy",
+      "RPG",
+      "Female Protagonist",
+      "Singleplayer",
+      "Third Person",
+      "Hack and Slash",
+      "Spectacle fighter",
+      "3D",
+      "Magic",
+      "Controller",
+      "Swordplay",
+      "PvE",
+      "Dragons",
+      "Tutorial"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 46996,
+    "review_negative": 5126,
+    "review_total": 52122,
+    "review_positive_percent": 90.17
+  }
+}

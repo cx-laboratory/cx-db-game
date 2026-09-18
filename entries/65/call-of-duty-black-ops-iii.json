@@ -1,0 +1,238 @@
+{
+  "key": "call-of-duty-black-ops-iii",
+  "name": "Call of Duty: Black Ops III",
+  "description": "Call of Duty®: Black Ops III Zombies Chronicles Edition includes the full base game plus the Zombies Chronicles content expansion.",
+  "developers": [
+    "Treyarch"
+  ],
+  "publishers": [
+    "Activision"
+  ],
+  "release_date": "2015-11-06",
+  "website": "https://www.callofduty.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "multiplayer",
+    "co-op"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "arabic",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "blackops3.exe",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "players",
+          "pattern": "*.cgp",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "CoDBlkOps3.app",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "players",
+          "pattern": "*.cgp",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Call of Duty: Black Ops III",
+    "blackops3",
+    "CoDBlkOps3.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/311210/bd3e3a9516b480164df25d16e49ae4ce4a063cb4.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_ca7376d838d5714f916936f0070824c27c4c5641.1920x1080.jpg?t=1780963650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_150874824f4fff0915e63ea2ade5410e576a2b70.1920x1080.jpg?t=1780963650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_4b270e7a32d3a93a8119e7bcc3d8dcaa784f84f1.1920x1080.jpg?t=1780963650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_c4f8101a3529e2e430641af1e061926b1f57e4e7.1920x1080.jpg?t=1780963650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_5f7f870196c956da97f37b066310e963643a63a8.1920x1080.jpg?t=1780963650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_3a84113daacead987f549fbc3bd95fa9e66a833b.1920x1080.jpg?t=1780963650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_dfcf315c0c02ae7b62b47306c4b9ae774c2b14d0.1920x1080.jpg?t=1780963650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_44b153c469da3d79a03221e11b51c59807f3b6e7.1920x1080.jpg?t=1780963650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_1e4a1d817d5b6b456bec8f71f5cb99e6a306e759.1920x1080.jpg?t=1780963650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_fb8189adfd4a639392544169e5a526be020b7fdd.1920x1080.jpg?t=1780963650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_01c9cbde469b82ab719fb30c491f5e1102894607.1920x1080.jpg?t=1780963650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_fd59cd3b0af53cef7f9a726f3dbfc92625452f9e.1920x1080.jpg?t=1780963650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_61b6c855912c4542162252584b73dec0f9962f38.1920x1080.jpg?t=1780963650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_5ab9e51484a92cefa60d1959ddc8067c90fccac2.1920x1080.jpg?t=1780963650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_31f499fa9bb7eb4b4cd5209988ff5f1d81756027.1920x1080.jpg?t=1780963650"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Celebrating 10 Years of Black Ops",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256785837/movie.293x165.jpg?t=1589836574",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/311210/286691/6de70006660e82726636a6994b3acbd5085e20b3/1750506121/dash_h264.mpd?t=1589836574"
+    },
+    {
+      "name": "Call of Duty®: Black Ops III - 10/18 Black Market Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256672764/movie.293x165.jpg?t=1476830888",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/311210/76735/42dda09de3e010c9f3e96a082d70433d4daf3a3b/1750506114/dash_h264.mpd?t=1476830888"
+    },
+    {
+      "name": "Call of Duty®: Black Ops III - 3/22 Black Market Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256662080/movie.293x165.jpg?t=1476830898",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/311210/54992/ea57f586c001851c5b7880a6c27deb3fb6b5190f/1750506067/dash_h264.mpd?t=1476830898"
+    },
+    {
+      "name": "Call of Duty®: Black Ops III - Black Market Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256659175/movie.293x165.jpg?t=1464917136",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/311210/48848/79e44729a972ca105f374cfee5d946e03dd5c314/1750506053/dash_h264.mpd?t=1464917136"
+    },
+    {
+      "name": "Call of Duty®: Black Ops III - Launch Gameplay Accolades",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256658334/movie.293x165.jpg?t=1470330654",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/311210/46966/0ab3971764eef841697395692d09438e4d6c6dc1/1750506048/dash_h264.mpd?t=1470330654"
+    },
+    {
+      "name": "Call of Duty®: Black Ops III Live Action Trailer - “Seize Glory”",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256657989/movie.293x165.jpg?t=1447378774",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/311210/46135/8490dc961025484a3d80118705221ceb6c570590/1750505852/dash_h264.mpd?t=1447378774"
+    },
+    {
+      "name": "Call of Duty®: Black Ops III - Nuk3town Bonus Map Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256657928/movie.293x165.jpg?t=1457029384",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/311210/46032/d7e294fce52cc96127a34895c615ec7d6e500902/1750505802/dash_h264.mpd?t=1457029384"
+    },
+    {
+      "name": "Call of Duty®: Black Ops III - Zombies Shadows of Evil Prologue Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256657042/movie.293x165.jpg?t=1447378361",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/311210/44220/9469edcc5e01ba56345e740a721a51b292af053f/1750505620/dash_h264.mpd?t=1447378361"
+    },
+    {
+      "name": "Call of Duty®: Black Ops III - Story Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256656991/movie.293x165.jpg?t=1447378338",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/311210/44101/2e201b69867df3e9972d3f5c311cd05cbe6136ce/1750505543/dash_h264.mpd?t=1447378338"
+    },
+    {
+      "name": "Call of Duty®: Black Ops III - Zombie Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2040750/movie.293x165.jpg?t=1447377079",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/311210/39219/983d660dc076cc4ee4915253a7f9ee106f0df758/1750505460/dash_h264.mpd?t=1447377079"
+    },
+    {
+      "name": "Call of Duty®: Black Ops III - Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2038894/movie.293x165.jpg?t=1447373583",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/311210/34977/c7deb3fe174637c9c63a242f16e6d6bd842d4737/1750505450/dash_h264.mpd?t=1447373583"
+    },
+    {
+      "name": "Call of Duty®: Black Ops III - MP Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2040192/movie.293x165.jpg?t=1447376715",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/311210/37994/d5ada2dff6524a6d94fd28b19a25a2566915c8d1/1750505453/dash_h264.mpd?t=1447376715"
+    }
+  ],
+  "metacritic": {
+    "score": 73,
+    "url": "https://www.metacritic.com/game/pc/call-of-duty-black-ops-iii?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 311210,
+    "store_url": "https://store.steampowered.com/app/311210/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Valve Anti-Cheat enabled",
+      "Steam Leaderboards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 195928,
+    "review_negative": 34488,
+    "review_total": 230416,
+    "review_positive_percent": 85.03
+  }
+}

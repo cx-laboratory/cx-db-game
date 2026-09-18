@@ -1,0 +1,218 @@
+{
+  "key": "tropico-6",
+  "name": "Tropico 6",
+  "description": "El Presidente is back! Prove yourself once again as a feared dictator or peace-loving statesman on the island state of Tropico and shape the fate of your very own banana republic through four distinctive eras.",
+  "developers": [
+    "Limbic Entertainment"
+  ],
+  "publishers": [
+    "Kalypso Media"
+  ],
+  "release_date": "2019-03-30",
+  "website": "http://www.worldoftropico.com",
+  "tags": [
+    "simulation",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Tropico6.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Tropico6/Saved/SaveGames/",
+          "pattern": "*.t6sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Tropico6.app/Contents/MacOS/Tropico6",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Tropico6/Saved/SaveGames/",
+          "pattern": "*.t6sav",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Tropico6.sh",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Tropico6/Saved/SaveGames/",
+          "pattern": "*.t6sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Tropico 6",
+    "Tropico6",
+    "Tropico6.app/Contents/MacOS/Tropico6",
+    "Tropico6.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/492720/11f6e0cc7514f7ef8f1687276718c6f95d3c3e50.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_b42df2bcf6dfa639490169474181bec8f2929b27.1920x1080.jpg?t=1755702256"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_436ad59ec875edddf5db2a255189eed6dba3bf3f.1920x1080.jpg?t=1755702256"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_0549f2698a70ac1136e6e59eacb261aeaf5054f0.1920x1080.jpg?t=1755702256"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_4d93898fe41ee43b1f25bd24d0711226c283afd0.1920x1080.jpg?t=1755702256"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_d5a58d25a040b0b4d008ec3a39f10484fe7e1c66.1920x1080.jpg?t=1755702256"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_c16410e4fd74ef21eeb2b689240d0ab879b9144a.1920x1080.jpg?t=1755702256"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_435ee50f438d0bdabc99039c2cb113d1f869c2ab.1920x1080.jpg?t=1755702256"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_142c569b3e22c6c348e069e7ddb76485a9f191f5.1920x1080.jpg?t=1755702256"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_5de618f60881ebcc143c33d152f628c6ae149b5b.1920x1080.jpg?t=1755702256"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_b946d6ef6a31d60083cd228c454ecd94ddd4322d.1920x1080.jpg?t=1755702256"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_02a6f53004a80f8613ba0aac909bd4dc0bbb09fd.1920x1080.jpg?t=1755702256"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_8e0acd0a5574a9296883bcd91463d714047fde32.1920x1080.jpg?t=1755702256"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_0af6de16d49c5f9afde250b2fb6145cd895c76c8.1920x1080.jpg?t=1755702256"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_ddc43006e213b23981b1baed150fff6bb47883ec.1920x1080.jpg?t=1755702256"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Tropico 6 Accolades Trailer US",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256749282/movie.293x165.jpg?t=1591813349",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/492720/220552/910f096670e2e8510d829a4ab46db6eab3587909/1750537096/dash_h264.mpd?t=1591813349"
+    },
+    {
+      "name": "Tropico 6 Release Trailer US",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256746677/movie.293x165.jpg?t=1591813357",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/492720/215824/a8350ac863a5eb2eb9e3772fb150a51a2c4b6c1a/1750537159/dash_h264.mpd?t=1591813357"
+    },
+    {
+      "name": "Tropico 6 Featurette US",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256746474/movie.293x165.jpg?t=1591813390",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/492720/215458/ebc6d75e17da468b2186b7b2c13f34c884beaca8/1750537069/dash_h264.mpd?t=1591813390"
+    },
+    {
+      "name": "Tropico 6 - Announcement Teaser US",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256746671/movie.293x165.jpg?t=1591813441",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/492720/215816/3e2088104d2a41a4b2937f9b00bd461eb4f38aa6/1750537079/dash_h264.mpd?t=1591813441"
+    },
+    {
+      "name": "20 Years of Tropico - Anniversary Trailer US",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256831384/movie.293x165.jpg?t=1618940084",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/492720/363329/ba51d72b04c367939d54c14f33c60a09872731c3/1750537099/dash_h264.mpd?t=1618940084"
+    }
+  ],
+  "metacritic": {
+    "score": 78,
+    "url": "https://www.metacritic.com/game/pc/tropico-6?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 492720,
+    "store_url": "https://store.steampowered.com/app/492720/",
+    "required_age": 13,
+    "is_free": false,
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 25579,
+    "review_negative": 3598,
+    "review_total": 29177,
+    "review_positive_percent": 87.67
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "key": "assassins-creed-odyssey",
+  "name": "Assassin's Creed Odyssey",
+  "description": "In this action-adventure game, set sail for Ancient Greece to alter its fate. Fight in visceral battles on land and sea, shape your destiny from outcast to legend, and uncover secrets of your past.",
+  "developers": [
+    "Ubisoft Quebec"
+  ],
+  "publishers": [
+    "Ubisoft"
+  ],
+  "release_date": "2018-10-06",
+  "website": "http://www.assassinscreed.com",
+  "tags": [
+    "action",
+    "adventure",
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "dutch",
+    "czech",
+    "arabic",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ACOdyssey.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "ACOdyssey.exe",
+          "description": "Free Weekend",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Assassin's Creed Odyssey",
+    "ACOdyssey"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/812140/4b6cf0715b30669411bf204bce7ed99a9c84671b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/ss_0ef33c0f230da6ebac94f5959f0e0a8bbc48cf8a.1920x1080.jpg?t=1777476997"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/ss_3f8f4a09fb1d69648a8c20aae19ca2924ba275bd.1920x1080.jpg?t=1777476997"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/ss_6dc9f95cfb6d264c3535b53ce08f36ee07066550.1920x1080.jpg?t=1777476997"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/ss_458b7cc7392b6fd073bbd679868fd486013cb474.1920x1080.jpg?t=1777476997"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/ss_71f5c2052a6bfb94486e929db3d6b92c06696843.1920x1080.jpg?t=1777476997"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/ss_c334fed07712111399ab1951eee432ec9ed46d28.1920x1080.jpg?t=1777476997"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/ss_16fc551879ac299dca68839da90f89d9e624db48.1920x1080.jpg?t=1777476997"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/ss_23039e3003448ee760030faf5e3bf8637f8d4063.1920x1080.jpg?t=1777476997"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256730943/movie.293x165.jpg?t=1538446462",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/812140/188108/c4645bee56b0064f56227f331372a34ceb3ee6e6/1750585982/dash_h264.mpd?t=1538446462"
+    },
+    {
+      "name": "E3 announce ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256720007/movie.293x165.jpg?t=1529067524",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/812140/168564/53de00f792e9870f2311107e4ebd5f2b96a44dd3/1750585965/dash_h264.mpd?t=1529067524"
+    },
+    {
+      "name": "ESRB Post Launch content",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256729409/movie.293x165.jpg?t=1537273511",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/812140/185456/ae1cc00c2eb69a79be5afc803c04498a738b982d/1750585978/dash_h264.mpd?t=1537273511"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 812140,
+    "store_url": "https://store.steampowered.com/app/812140/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Captions available",
+      "In-App Purchases",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Keyboard Only Option",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Stereo Sound",
+      "Surround Sound",
+      "Partial Controller Support",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "HDR available"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 164147,
+    "review_negative": 20784,
+    "review_total": 184931,
+    "review_positive_percent": 88.76
+  }
+}

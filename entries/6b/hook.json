@@ -1,0 +1,208 @@
+{
+  "key": "hook",
+  "name": "Hook",
+  "description": "HOOK is a short minimal, puzzle game.",
+  "developers": [
+    "Maciej Targoni"
+  ],
+  "publishers": [
+    "Maciej Targoni"
+  ],
+  "release_date": "2015-07-07",
+  "website": "http://rainbowtrain.eu",
+  "tags": [
+    "casual",
+    "indie",
+    "puzzle",
+    "relaxing",
+    "minimalist",
+    "abstract",
+    "short",
+    "singleplayer",
+    "family-friendly",
+    "2d",
+    "logic",
+    "touch-friendly",
+    "great-soundtrack",
+    "atmospheric",
+    "mouse-only",
+    "difficult"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English*",
+    "French*",
+    "Italian*",
+    "German*",
+    "Spanish - Spain*",
+    "Arabic*",
+    "Bulgarian*",
+    "Traditional Chinese*",
+    "Simplified Chinese*",
+    "Czech*",
+    "Danish*",
+    "Finnish*",
+    "Greek*",
+    "Dutch*",
+    "Japanese*",
+    "Korean*",
+    "Norwegian*",
+    "Polish*",
+    "Portuguese - Portugal*",
+    "Portuguese - Brazil*",
+    "Russian*",
+    "Romanian*",
+    "Swedish*",
+    "Thai*",
+    "Turkish*",
+    "Ukrainian*",
+    "Hungarian**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Hook.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "RainbowTrain/Hook/{64BitSteamID}",
+          "pattern": "*.txt",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "hook.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "RainbowTrain/Hook/{64BitSteamID}",
+          "pattern": "*.txt",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "hook.x86_64",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "RainbowTrain/Hook/{64BitSteamID}",
+          "pattern": "*.txt",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Hook",
+    "hook.app",
+    "hook.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/367580/ce3ee9c92cc2c0ade27224c28afce44173fce14a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367580/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367580/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367580/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367580/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367580/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367580/ss_3afcce40df0c7e27027668005a6036f1983f9be5.1920x1080.jpg?t=1728467031"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367580/ss_2564b5a07becfbd30bceb9b5156e755e568b96a8.1920x1080.jpg?t=1728467031"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367580/ss_ab000593ce343c1f5671b2687586791437044f46.1920x1080.jpg?t=1728467031"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367580/ss_a75c1b8898c293052650a30f36b067c7fbe01749.1920x1080.jpg?t=1728467031"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367580/ss_6192e8e1b86e9e5e8914b419e20521d6ffde1bd1.1920x1080.jpg?t=1728467031"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367580/ss_7b7fe630e49321d743b5ab133e7bd76a67b15ea6.1920x1080.jpg?t=1728467031"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367580/ss_8af96089a60d2b71af2c5a668916f18205f8f687.1920x1080.jpg?t=1728467031"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Hook Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2040605/movie.293x165.jpg?t=1447376984",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/367580/38920/dba1761baab31c80417dcb7ab82e57114afdd43a/1751277314/dash_h264.mpd?t=1447376984"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 367580,
+    "store_url": "https://store.steampowered.com/app/367580/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Casual",
+      "Puzzle",
+      "Relaxing",
+      "Minimalist",
+      "Abstract",
+      "Short",
+      "Singleplayer",
+      "Family Friendly",
+      "Indie",
+      "2D",
+      "Logic",
+      "Touch-Friendly",
+      "Great Soundtrack",
+      "Atmospheric",
+      "Mouse Only",
+      "Difficult"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 8640,
+    "review_negative": 271,
+    "review_total": 8911,
+    "review_positive_percent": 96.96
+  }
+}

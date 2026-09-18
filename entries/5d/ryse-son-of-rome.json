@@ -1,0 +1,126 @@
+{
+  "key": "ryse-son-of-rome",
+  "name": "Ryse: Son of Rome",
+  "description": "“Ryse: Son of Rome” tells the story of Marius Titus, a young Roman soldier who witnesses the murder of his family at the hands of barbarian bandits, then travels with the Roman army to Britannia to seek revenge.",
+  "developers": [
+    "Crytek"
+  ],
+  "publishers": [
+    "Crytek "
+  ],
+  "release_date": "2014-10-10",
+  "website": "http://www.rysegame.com",
+  "tags": [
+    "action",
+    "multiplayer",
+    "co-op"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Bin64\\Ryse.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Ryse: Son of Rome",
+    "Bin64\\Ryse"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/302510/46114151ac11d6984ec280405d65c15a4ed9438e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302510/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302510/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302510/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302510/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302510/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302510/ss_bcbd3405df6d1332416994090544456e39d36188.1920x1080.jpg?t=1588670554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302510/ss_27fd86c85a7c99a532a3b01b28f9cc86dc2c7c7d.1920x1080.jpg?t=1588670554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302510/ss_94ea559e8814b0de31d969fce3e1da9b882534a6.1920x1080.jpg?t=1588670554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302510/ss_9c9e2791104ac58bfb1bf44719f8151f52dd95f6.1920x1080.jpg?t=1588670554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302510/ss_5080b6dbfd44d21a9f1deb57c59e5079a2689653.1920x1080.jpg?t=1588670554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302510/ss_07f76f063711c43e4599b81b0d0a0c682f4ce738.1920x1080.jpg?t=1588670554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/302510/ss_b3e9d790ef391e750e31dd8cd2a3200460819b8e.1920x1080.jpg?t=1588670554"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Ryse: Son of Rome Launch Trailer ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2034897/movie.293x165.jpg?t=1447364123",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/302510/26179/e98db0458d32c244ed0c9c5c02527bf4d9da60dc/1750503722/dash_h264.mpd?t=1447364123"
+    },
+    {
+      "name": "Ryse: Son of Rome Vengeance Trailer ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2034271/movie.293x165.jpg?t=1447363493",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/302510/24773/8102d7dc7eb6b06a74d6e4d147a0cc5ec3b0efe9/1750503651/dash_h264.mpd?t=1447363493"
+    }
+  ],
+  "metacritic": {
+    "score": 61,
+    "url": "https://www.metacritic.com/game/pc/ryse-son-of-rome?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 302510,
+    "store_url": "https://store.steampowered.com/app/302510/",
+    "required_age": 16,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Stats",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 38797,
+    "review_negative": 5771,
+    "review_total": 44568,
+    "review_positive_percent": 87.05
+  }
+}

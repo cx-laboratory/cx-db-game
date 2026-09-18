@@ -1,0 +1,207 @@
+{
+  "key": "counter-strike-source",
+  "name": "Counter-Strike: Source",
+  "description": "Counter-Strike: Source blends Counter-Strike's award-winning teamplay action with the advanced technology of Source™ technology.",
+  "developers": [
+    "Valve"
+  ],
+  "publishers": [
+    "Valve"
+  ],
+  "release_date": "2004-11-01",
+  "website": "http://www.steampowered.com/",
+  "tags": [
+    "action",
+    "multiplayer",
+    "shooter",
+    "fps",
+    "team-based",
+    "first-person",
+    "competitive",
+    "tactical",
+    "pvp",
+    "esports",
+    "military",
+    "war",
+    "strategy",
+    "moddable",
+    "singleplayer",
+    "difficult",
+    "atmospheric",
+    "survival",
+    "simulation",
+    "sandbox"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "hungarian",
+    "czech",
+    "romanian",
+    "turkish",
+    "brazilian",
+    "bulgarian",
+    "greek",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "绝对武力：次世代"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "cstrike.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "cstrike_win64.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "hl2.exe",
+          "description": "Play Previous Build Branch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "cstrike.sh",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "hl2.sh",
+          "description": "Play Previous Build Branch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Counter-Strike: Source",
+    "cstrike",
+    "cstrike_win64",
+    "hl2",
+    "cstrike.sh",
+    "hl2.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/240/9052fa60c496a1c03383b27687ec50f4bf0f0e10.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240/0000000027.1920x1080.jpg?t=1745368575"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240/0000000028.1920x1080.jpg?t=1745368575"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240/0000000029.1920x1080.jpg?t=1745368575"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240/0000000030.1920x1080.jpg?t=1745368575"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240/0000000031.1920x1080.jpg?t=1745368575"
+    }
+  ],
+  "videos": [],
+  "metacritic": {
+    "score": 88,
+    "url": "https://www.metacritic.com/game/pc/counter-strike-source?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 240,
+    "store_url": "https://store.steampowered.com/app/240/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Surround Sound",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled",
+      "Stats",
+      "Includes Source SDK",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Shooter",
+      "FPS",
+      "Action",
+      "Multiplayer",
+      "Team-Based",
+      "First-Person",
+      "Competitive",
+      "Tactical",
+      "PvP",
+      "eSports",
+      "Military",
+      "War",
+      "Strategy",
+      "Moddable",
+      "Singleplayer",
+      "Difficult",
+      "Atmospheric",
+      "Survival",
+      "Simulation",
+      "Sandbox"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 184920,
+    "review_negative": 7126,
+    "review_total": 192046,
+    "review_positive_percent": 96.29
+  }
+}

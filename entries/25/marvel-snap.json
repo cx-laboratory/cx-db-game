@@ -1,0 +1,187 @@
+{
+  "key": "marvel-snap",
+  "name": "MARVEL SNAP",
+  "description": "MARVEL SNAP is everything you know and love about Collectible Card Games, but faster… Like WAY faster. You can enjoy all of the high stakes PvP strategy and deck building without having to watch your opponent play solitaire. Now THIS is what free-to-play should be.",
+  "developers": [
+    "Second Dinner Studios, Inc."
+  ],
+  "publishers": [],
+  "release_date": "2023-08-23",
+  "website": "https://marvelsnap.com",
+  "tags": [
+    "casual",
+    "strategy",
+    "free-to-play",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "deckbuilding",
+    "card-battler",
+    "trading-card-game",
+    "turn-based-tactics",
+    "card-game",
+    "superhero",
+    "turn-based",
+    "turn-based-strategy",
+    "board-game",
+    "comic-book",
+    "anime",
+    "2d",
+    "controller",
+    "tactical",
+    "stylized",
+    "cartoon"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French*",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese*",
+    "Korean*",
+    "Portuguese - Brazil",
+    "Simplified Chinese",
+    "Spanish - Latin America*",
+    "Thai",
+    "Traditional Chinese*",
+    "Indonesian",
+    "Russian",
+    "Vietnamese*languages with full audio support"
+  ],
+  "name_localized": {
+    "japanese": "MARVEL SNAP (マーベル・スナップ)",
+    "koreana": "마블스냅",
+    "tchinese": "漫威：瞬戰超能"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SNAP.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Snap NvStaging.exe",
+          "description": "event build",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "MARVEL SNAP",
+    "SNAP",
+    "Snap NvStaging",
+    "MARVEL SNAP (マーベル・スナップ)",
+    "마블스냅",
+    "漫威：瞬戰超能"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1997040/ac70da51184b62607a88b9bd33cef0fab6aa2ebc.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1997040/47bfae67977f349b56d1cfdceba9e6f9f9f4951e/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1997040/989d5832e452c66c5f9162321edfe9c2f200c37a/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1997040/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1997040/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1997040/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1997040/7f1670ed0cc90cb56894f0652c7185b2f87d18a5/ss_7f1670ed0cc90cb56894f0652c7185b2f87d18a5.1920x1080.jpg?t=1782145280"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1997040/d47d1038edc8a0c2d0fe121008050d4c01adfe0d/ss_d47d1038edc8a0c2d0fe121008050d4c01adfe0d.1920x1080.jpg?t=1782145280"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1997040/19ca9629dd7846507d6fe0f8374fda8f290d19d8/ss_19ca9629dd7846507d6fe0f8374fda8f290d19d8.1920x1080.jpg?t=1782145280"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1997040/43b137d737d6cc805da7f5477c1ad00e75ffaf21/ss_43b137d737d6cc805da7f5477c1ad00e75ffaf21.1920x1080.jpg?t=1782145280"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1997040/012149a12287c8458e878d60188eba8360386e2d/ss_012149a12287c8458e878d60188eba8360386e2d.1920x1080.jpg?t=1782145280"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1997040/8f9802427a4f58cfa157e2eace993f27e70666e5/ss_8f9802427a4f58cfa157e2eace993f27e70666e5.1920x1080.jpg?t=1782145280"
+    }
+  ],
+  "videos": [
+    {
+      "name": "How to play",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256964418/movie.293x165.jpg?t=1777781342",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1997040/598543/7c5061fb6121997d5dedbf24c3ef83808706fd11/1750744104/dash_h264.mpd?t=1777781342"
+    },
+    {
+      "name": "Fast, Fresh, Fun!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257328468/9283fce96e64a1c35c1cef2925eda0cd263cb442/movie_600x337.jpg?t=1777500692",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1997040/636123114/736f2050326a3a42d75b64bebd998aa9994bc804/1777491176/dash_h264.mpd?t=1777500692"
+    },
+    {
+      "name": "Show YOUR Style",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257328473/73ddf9d204a867dfc4ad484306b3e5b3948d0b05/movie_600x337.jpg?t=1777500693",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1997040/692789408/33f534ed2cb8acc8f8ec087a0f16b97c56f0742e/1777418310/dash_h264.mpd?t=1777500693"
+    },
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256964424/movie.293x165.jpg?t=1693936407",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1997040/598552/72d0dacb2ee1c96b0b5bd218610819a203ff0999/1750744105/dash_h264.mpd?t=1693936407"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1997040,
+    "store_url": "https://store.steampowered.com/app/1997040/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Casual",
+      "Strategy",
+      "Free To Play"
+    ],
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Cross-Platform Multiplayer",
+      "In-App Purchases",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Deckbuilding",
+      "Card Battler",
+      "Trading Card Game",
+      "Turn-Based Tactics",
+      "Card Game",
+      "Superhero",
+      "PvP",
+      "Turn-Based",
+      "Turn-Based Strategy",
+      "Board Game",
+      "Strategy",
+      "Comic Book",
+      "Anime",
+      "2D",
+      "Casual",
+      "Controller",
+      "Tactical",
+      "Multiplayer",
+      "Stylized",
+      "Cartoon"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 25405,
+    "review_negative": 9469,
+    "review_total": 34874,
+    "review_positive_percent": 72.85
+  }
+}

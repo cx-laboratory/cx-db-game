@@ -1,0 +1,170 @@
+{
+  "key": "borderlands-the-pre-sequel",
+  "name": "Borderlands: The Pre-Sequel",
+  "description": "Launch into the Borderlands universe and shoot ‘n’ loot your way through a brand new adventure that rockets you onto Pandora’s moon in Borderlands: The Pre-Sequel!",
+  "developers": [
+    "2K Australia"
+  ],
+  "publishers": [
+    "2K"
+  ],
+  "release_date": "2014-10-13",
+  "website": "http://borderlandsthegame.com/",
+  "tags": [
+    "action",
+    "rpg",
+    "multiplayer",
+    "co-op"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "russian",
+    "japanese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Binaries\\Win32\\Launcher.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "borderlandspresequel.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "./BorderlandsPreSequel",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Borderlands: The Pre-Sequel",
+    "Binaries\\Win32\\Launcher",
+    "borderlandspresequel.app",
+    "./BorderlandsPreSequel"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/261640/af5ef05eac8b1eb618e4f57354ac7b3e918ab1bd.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261640/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261640/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261640/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261640/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261640/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261640/ss_d7c5a2288d1f74f0f93c27d1cd3353651625f664.1920x1080.jpg?t=1750081341"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261640/ss_745fe6fcb9074caeeddbfabcef1264c36c375860.1920x1080.jpg?t=1750081341"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261640/ss_620a08475148f81b056f36e964335b2eeba3406f.1920x1080.jpg?t=1750081341"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261640/ss_881d88fcc6055fcb7703673bc1815ab349c57133.1920x1080.jpg?t=1750081341"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261640/ss_96816f173442d4c22d1009355891f627af67c6ae.1920x1080.jpg?t=1750081341"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261640/ss_a04737488d400bf8cc140c6b1a12b0e4aaeece5b.1920x1080.jpg?t=1750081341"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261640/ss_67fccbac39b495b4b8dfeac8456dfc9955495614.1920x1080.jpg?t=1750081341"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261640/ss_88f5b0bf52bb9238d0ff1a35b5133d70617cfb37.1920x1080.jpg?t=1750081341"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2035009/movie.293x165.jpg?t=1447364247",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/261640/26392/7601f107e3d8fa9f076027d92f7b68f2c0fa578c/1750497839/dash_h264.mpd?t=1447364247"
+    },
+    {
+      "name": "Introduction by Sir Hammerlock & Mister Torgue",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2034755/movie.293x165.jpg?t=1447363979",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/261640/25883/b4dd8628e13150d31bec9a4e11b47f2cbb61d6c0/1750497826/dash_h264.mpd?t=1447363979"
+    },
+    {
+      "name": "Pre-Order Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2034481/movie.293x165.jpg?t=1447363668",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/261640/25168/d8ab79509aefba86fdb7fe25db9949ee60fcd6d3/1750497816/dash_h264.mpd?t=1447363668"
+    },
+    {
+      "name": "Borderlands: The Pre-Sequel Last Hope Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2034114/movie.293x165.jpg?t=1447363366",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/261640/24435/c3be01be30ec4b4c21e3a12c5469a92e37ddddfe/1750497802/dash_h264.mpd?t=1447363366"
+    },
+    {
+      "name": "Borderlands: The Pre-Sequel Moon Dance Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2032814/movie.293x165.jpg?t=1447362258",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/261640/21757/bb0bd027026cfba011bc7cd98c05cb5f3a00459c/1750497797/dash_h264.mpd?t=1447362258"
+    }
+  ],
+  "metacritic": {
+    "score": 75,
+    "url": "https://www.metacritic.com/game/pc/borderlands-the-pre-sequel?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 261640,
+    "store_url": "https://store.steampowered.com/app/261640/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 33998,
+    "review_negative": 9086,
+    "review_total": 43084,
+    "review_positive_percent": 78.91
+  }
+}

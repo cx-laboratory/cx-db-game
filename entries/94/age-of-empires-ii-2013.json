@@ -1,0 +1,188 @@
+{
+  "key": "age-of-empires-ii-2013",
+  "name": "Age of Empires II (2013)",
+  "description": "Age of Empires II has been re-imagined in high definition. With the release of Age of Empires II: Definitive Edition, this product will not be updated further.",
+  "developers": [
+    "Skybox Labs"
+  ],
+  "publishers": [
+    "Xbox Game Studios"
+  ],
+  "release_date": "2013-04-09",
+  "website": "https://www.ageofempires.com/games/aoeii/",
+  "tags": [
+    "strategy",
+    "multiplayer",
+    "rts",
+    "medieval",
+    "classic",
+    "historical",
+    "base-building",
+    "city-builder",
+    "resource-management",
+    "singleplayer",
+    "tactical",
+    "real-time",
+    "co-op",
+    "competitive",
+    "replay-value",
+    "remake",
+    "2d",
+    "isometric",
+    "action",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "dutch",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "帝国时代II：高清版"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Launcher.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Profiles",
+          "pattern": "*.nfp",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "Profiles",
+          "pattern": "*.hki",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "SaveGame",
+          "pattern": "*.aoe2spgame",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "SaveGame",
+          "pattern": "*.aoe2mpgame",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Age of Empires II (2013)",
+    "Launcher"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/221380/109c74df17f9b67ea47d8f01e3d1ec25278b9f73.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221380/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221380/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221380/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221380/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221380/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221380/ss_f196e3b1c70038e09140f12aebcfdf0ef57915b0.1920x1080.jpg?t=1705596928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221380/ss_78cc1f90aaa7f368a05ceb5f2ea29109696736c4.1920x1080.jpg?t=1705596928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221380/ss_9ccf9acb373b3e26f9e42a053147845561b2c224.1920x1080.jpg?t=1705596928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221380/ss_5723ddcec6da4d9697f73882fab90e6cec99a8ad.1920x1080.jpg?t=1705596928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221380/ss_bfb7d671a8fe0bd20d34bd8f3455bac98e49639e.1920x1080.jpg?t=1705596928"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221380/ss_ea28d966c363726dcee8848b20a634a75d62ee97.1920x1080.jpg?t=1705596928"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Age of Empires II HD - Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028444/movie.293x165.jpg?t=1447357594",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/221380/10892/9afa534ab66de18a4d07f51ab901d408bf74e2e9/1750481665/dash_h264.mpd?t=1447357594"
+    }
+  ],
+  "metacritic": {
+    "score": 68,
+    "url": "https://www.metacritic.com/game/pc/age-of-empires-ii-hd-edition?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 221380,
+    "store_url": "https://store.steampowered.com/app/221380/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Stats",
+      "Steam Leaderboards",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "RTS",
+      "Medieval",
+      "Multiplayer",
+      "Classic",
+      "Historical",
+      "Base Building",
+      "City Builder",
+      "Resource Management",
+      "Singleplayer",
+      "Tactical",
+      "Real-Time",
+      "Co-op",
+      "Competitive",
+      "Replay Value",
+      "Remake",
+      "2D",
+      "Isometric",
+      "Action",
+      "Adventure"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 98388,
+    "review_negative": 4281,
+    "review_total": 102669,
+    "review_positive_percent": 95.83
+  }
+}

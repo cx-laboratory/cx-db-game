@@ -1,0 +1,329 @@
+{
+  "key": "house-flipper-2",
+  "name": "House Flipper 2",
+  "description": "Clean your worries away with this relaxing renovation simulator! Buy, fix, sell, and become a local legend. Or grab your power tools and build anything from scratch! With the online 2-4 players co-op mode, you can play both in sandbox and story mode together.",
+  "developers": [
+    "Frozen District"
+  ],
+  "publishers": [
+    "Frozen District"
+  ],
+  "release_date": "2023-12-14",
+  "website": "https://houseflipper2.com/",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "immersive-sim",
+    "relaxing",
+    "decorating",
+    "design-and-illustration",
+    "first-person",
+    "building",
+    "cleaning",
+    "family-friendly",
+    "base-building",
+    "singleplayer",
+    "organizing",
+    "economy",
+    "3d",
+    "colorful",
+    "realistic",
+    "sandbox"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "dutch",
+    "norwegian",
+    "turkish",
+    "brazilian",
+    "ukrainian",
+    "latam"
+  ],
+  "name_localized": {
+    "koreana": "하우스 플리퍼 2",
+    "russian": "Хаус Флиппер 2",
+    "japanese": "ハウスフリッパー２",
+    "schinese": "房产达人 2",
+    "tchinese": "房產達人2"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "HouseFlipper2.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Digital Deluxe Edition DLC\\BrowseCurrentDir.bat",
+          "description": "Deluxe DLC Content Browser",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "House Flipper 2/Profiles",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "House Flipper 2",
+          "pattern": "recovery*",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "House Flipper 2",
+          "pattern": "user*",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "House Flipper 2/Pictures",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "House Flipper 2/Override",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "House Flipper 2/Timelines",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Frozen District/House Flipper 2/Profiles",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Frozen District/House Flipper 2",
+          "pattern": "recovery*",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Frozen District/House Flipper 2",
+          "pattern": "user*",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Frozen District/House Flipper 2/Pictures",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Frozen District/House Flipper 2/Override",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Frozen District/House Flipper 2/Timelines",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Frozen District/House Flipper 2",
+          "pattern": "migrated",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Frozen District/House Flipper 2",
+          "pattern": "status.txt",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "House Flipper 2",
+    "HouseFlipper2",
+    "Digital Deluxe Edition DLC\\BrowseCurrentDir.bat",
+    "하우스 플리퍼 2",
+    "Хаус Флиппер 2",
+    "ハウスフリッパー２",
+    "房产达人 2",
+    "房產達人2"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1190970/1b2d7e7824627c605cb4ddb29e3be200fccd8438.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190970/a8c4bf872d073e27e96c2179e19a5cd9971bfd2e/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190970/acbf0f91bf304751429b34a1e8232157a961a449/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190970/188277714bea4a6f9ad0835c3682582edb88a8f6/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190970/d70fefcbeb348ffbfbcd44f36e7173f70dfe6585/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190970/3e6976c713786d0edead2843e5fd612ed6a2c023/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190970/e78e151bb7e91c2b53656cfc6918700002de78cd/ss_e78e151bb7e91c2b53656cfc6918700002de78cd.1920x1080.jpg?t=1782758014"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190970/d2d2c2f0a971c76ceaf3091e5bbd023c0fe75762/ss_d2d2c2f0a971c76ceaf3091e5bbd023c0fe75762.1920x1080.jpg?t=1782758014"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190970/eea81cb75ed2612970186739de5993fd9f9d33be/ss_eea81cb75ed2612970186739de5993fd9f9d33be.1920x1080.jpg?t=1782758014"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190970/05d9194174adb81a552743d6a665d862020c2e2a/ss_05d9194174adb81a552743d6a665d862020c2e2a.1920x1080.jpg?t=1782758014"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190970/1687b51046695ec287be2805455029b5060d5337/ss_1687b51046695ec287be2805455029b5060d5337.1920x1080.jpg?t=1782758014"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190970/6f103dc74f3cdb6b4e1c0be7ebd559b8f7808121/ss_6f103dc74f3cdb6b4e1c0be7ebd559b8f7808121.1920x1080.jpg?t=1782758014"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190970/ac28bc0b34acfbadf036003d08c43062573bbd95/ss_ac28bc0b34acfbadf036003d08c43062573bbd95.1920x1080.jpg?t=1782758014"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190970/b9dc39b44828136c81e08eaa4e85b81fa54381cb/ss_b9dc39b44828136c81e08eaa4e85b81fa54381cb.1920x1080.jpg?t=1782758014"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190970/682a6d76f41d773aad0cda88ea49ddb223505424/ss_682a6d76f41d773aad0cda88ea49ddb223505424.1920x1080.jpg?t=1782758014"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190970/b135ed5c7b40c391e62c5be7c9c78b0157deedd1/ss_b135ed5c7b40c391e62c5be7c9c78b0157deedd1.1920x1080.jpg?t=1782758014"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190970/39bbf15cd536ff363bd4e256c5a257a34813b3ca/ss_39bbf15cd536ff363bd4e256c5a257a34813b3ca.1920x1080.jpg?t=1782758014"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190970/2c09e5c6f07998a7da2701b9b3768ceb21176854/ss_2c09e5c6f07998a7da2701b9b3768ceb21176854.1920x1080.jpg?t=1782758014"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190970/f45d351f6109d2d2afd31fc5a76a01858b35bcc6/ss_f45d351f6109d2d2afd31fc5a76a01858b35bcc6.1920x1080.jpg?t=1782758014"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190970/52e66f7790efa84802ed60751717f8bfe88f7671/ss_52e66f7790efa84802ed60751717f8bfe88f7671.1920x1080.jpg?t=1782758014"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190970/5b6f59769c5bc88879aecf39242a0ea6d638b7ab/ss_5b6f59769c5bc88879aecf39242a0ea6d638b7ab.1920x1080.jpg?t=1782758014"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190970/3993a79d2577d8ae3d28111990f16d9ce926057e/ss_3993a79d2577d8ae3d28111990f16d9ce926057e.1920x1080.jpg?t=1782758014"
+    }
+  ],
+  "videos": [
+    {
+      "name": "HF2 Trailer Main + Coop",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257140207/99349f74511603caf72a18f5e122b43736593715/movie_600x337.jpg?t=1747826937",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1190970/860817388/fea0d82d0fffe031a8b62a414f59786f9ef52c4d/1750636543/dash_h264.mpd?t=1747826937"
+    },
+    {
+      "name": "HF2 Release trailer - Out Now",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256988463/movie.293x165.jpg?t=1702558812",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1190970/639661/efd01f3088bdfa8aae31bf611b5c44cf22e9ed62/1750636493/dash_h264.mpd?t=1702558812"
+    },
+    {
+      "name": "HF2 Story and Environment",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256988736/movie.293x165.jpg?t=1758035739",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1190970/640093/a57c140cf153cae110b87e8ab452229f8f701159/1750636526/dash_h264.mpd?t=1758035739"
+    },
+    {
+      "name": "HF2 trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256906889/movie.293x165.jpg?t=1687863640",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1190970/498041/47c6e389f7e6074aea7da498c63fa73c6559c558/1750836157/dash_h264.mpd?t=1687863640"
+    }
+  ],
+  "metacritic": {
+    "score": 79,
+    "url": "https://www.metacritic.com/game/pc/house-flipper-2?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1190970,
+    "store_url": "https://store.steampowered.com/app/1190970/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Co-op",
+      "Immersive Sim",
+      "Casual",
+      "Relaxing",
+      "Decorating",
+      "Design & Illustration",
+      "Simulation",
+      "First-Person",
+      "Building",
+      "Cleaning",
+      "Family Friendly",
+      "Base Building",
+      "Singleplayer",
+      "Online Co-Op",
+      "Organizing",
+      "Economy",
+      "3D",
+      "Colorful",
+      "Realistic",
+      "Sandbox"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 16783,
+    "review_negative": 2482,
+    "review_total": 19265,
+    "review_positive_percent": 87.12
+  }
+}

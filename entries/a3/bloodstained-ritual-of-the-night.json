@@ -1,0 +1,214 @@
+{
+  "key": "bloodstained-ritual-of-the-night",
+  "name": "Bloodstained: Ritual of the Night",
+  "description": "Bloodstained: Ritual of the Night is an exploration-focused, side-scroller action RPG by Koji Igarashi. Play as Miriam, an orphan scarred by an alchemist's curse that slowly crystallizes her body. Battle through a demon-infested castle and defeat its master to save yourself, and all of humanity!",
+  "developers": [
+    "ArtPlay"
+  ],
+  "publishers": [
+    "505 Games"
+  ],
+  "release_date": "2019-06-18",
+  "website": "https://playbloodstained.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "rpg",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "split-screen",
+    "metroidvania",
+    "female-protagonist",
+    "anime",
+    "side-scroller",
+    "2-5d",
+    "platformer",
+    "great-soundtrack",
+    "gothic",
+    "dark-fantasy",
+    "exploration",
+    "singleplayer",
+    "crafting",
+    "2d",
+    "difficult",
+    "nudity",
+    "indie",
+    "vampires"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "血污：夜之仪式"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "BloodstainedRotN.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "BloodstainedRotN/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "BloodstainedRotN/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Bloodstained: Ritual of the Night",
+    "BloodstainedRotN"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/692850/993b57262d28db59ca1afee53681a4c1c87a254f.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692850/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692850/5df6b92f8efa3304ded876cf3ab721b26afb69ce/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692850/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692850/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692850/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692850/ss_63ccdb5c871228081496da3e50d1282c5417fece.1920x1080.jpg?t=1750409671"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692850/ss_64a85b980aff1af3b691d8841273a3618c9efeab.1920x1080.jpg?t=1750409671"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692850/ss_625c73bdeea4cfd9e131a5b4ab12c6e159deb47b.1920x1080.jpg?t=1750409671"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692850/ss_4a39fd45bb2ca57cd6916b8d583766a118f81f38.1920x1080.jpg?t=1750409671"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692850/ss_dad3b2c7354347827f2e35b844713cf2697937a5.1920x1080.jpg?t=1750409671"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692850/ss_03b1cb75c142b6e60601c0d5fdb44b12755976c5.1920x1080.jpg?t=1750409671"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692850/ss_fab67b4d7eb811fd4e35a6909711004785aab57b.1920x1080.jpg?t=1750409671"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692850/ss_5bc398ba88d79913497facc6b895d4286c43aa29.1920x1080.jpg?t=1750409671"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692850/ss_1abc39000a51740bb113a336047e6cfbfc3786c0.1920x1080.jpg?t=1750409671"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692850/ss_b6395f6f0a5fd2aba444bfea1a3b63d3e1ba4621.1920x1080.jpg?t=1750409671"
+    }
+  ],
+  "videos": [
+    {
+      "name": "BLOOD_CM2_1920x1080_30fps_ESRB_EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257031964/movie.293x165.jpg?t=1718722845",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/692850/715283/683d3e2917f95195477092cf8874b1e05cfad0f7/1750571479/dash_h264.mpd?t=1718722845"
+    },
+    {
+      "name": "Bloodstained: Ritual of the Night - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256753720/movie.293x165.jpg?t=1715358531",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/692850/228675/6eed7781fc38abedd2696db5785552110557700f/1750571454/dash_h264.mpd?t=1715358531"
+    },
+    {
+      "name": "Bloodstained: Ritual of the Night - Classic Mode",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256818237/movie.293x165.jpg?t=1610669379",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/692850/340581/7b02661079181426ec7704454b3934487aa44176/1750571470/dash_h264.mpd?t=1610669379"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 692850,
+    "store_url": "https://store.steampowered.com/app/692850/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Metroidvania",
+      "Female Protagonist",
+      "RPG",
+      "Action",
+      "Adventure",
+      "Anime",
+      "Side Scroller",
+      "2.5D",
+      "Platformer",
+      "Great Soundtrack",
+      "Gothic",
+      "Dark Fantasy",
+      "Exploration",
+      "Singleplayer",
+      "Crafting",
+      "2D",
+      "Difficult",
+      "Nudity",
+      "Indie",
+      "Vampires"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 38450,
+    "review_negative": 2797,
+    "review_total": 41247,
+    "review_positive_percent": 93.22
+  }
+}

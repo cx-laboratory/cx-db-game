@@ -1,0 +1,256 @@
+{
+  "key": "fallen-aces",
+  "name": "Fallen Aces",
+  "description": "The A.C.E.S. Once the watchful guardians of Switchblade City - are being taken down, one by one. Now it's up to one man, with two fists, to get to the bottom of it all. Fallen Aces is a crime noir FPS that plays right out of the '90s and looks like it's right outta the comics.",
+  "developers": [
+    "Trey Powell"
+  ],
+  "publishers": [
+    "New Blood Interactive"
+  ],
+  "release_date": "2024-06-15",
+  "website": "",
+  "tags": [
+    "action",
+    "indie",
+    "early-access",
+    "immersive-sim",
+    "fps",
+    "noir",
+    "comic-book",
+    "stealth",
+    "retro",
+    "shooter",
+    "gore",
+    "2-5d",
+    "2d",
+    "violent",
+    "singleplayer",
+    "hand-drawn",
+    "old-school",
+    "arena-shooter",
+    "cartoon",
+    "level-editor",
+    "fast-paced"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "堕落王牌"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Fallen Aces.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "\\Tools\\AceEd\\AceEd.exe",
+          "description": "AceEd",
+          "type": "editor"
+        },
+        {
+          "executable": "\\Tools\\Lead Pipe\\LeadPipe.exe",
+          "description": "Workshop Uploader",
+          "type": "editor"
+        },
+        {
+          "executable": "\\Tools\\Mod Manager\\Aces Mod Manager.exe",
+          "description": "Aces Mod Manager",
+          "type": "editor"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Saves",
+          "pattern": "*.png",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "*.json",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "AcesData/Profiles",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Fallen Aces",
+    "\\Tools\\AceEd\\AceEd",
+    "\\Tools\\Lead Pipe\\LeadPipe",
+    "\\Tools\\Mod Manager\\Aces Mod Manager"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1411910/dac5738770b04417c746abccca9877ecd172f1d8.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ea0eae1151766edce750962ac20a748144c8d252/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/8012a39074a3946dddf9725f121f05ef0cda7f3e/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_805a9c1f30e97e232c80e5e0994fbc48120fb006.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_0e14374f052218ae2e275960f6c4222b7f515ae9.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_e2b084290d4e949d5c5a321caa626e09a109cca7.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_1c55a98504e5272594809f95e5745e971e7b82c9.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_4cf55fd457672a0d4e10878d821ea4d5122acbe3.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_b589a29cbcc5582c7f6157bc4bc6ec0f9f2dc007.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_04236f1a2feb2a77fcc4aeffea685742a509e4c1.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_c4488f960b0d6ca29839ae652c1f3dea82b1db0b.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_20c49292af788445196ef39d62d0772c6a965a07.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_0fa3591d9608dc18719eb73ef49a0a580edf8e28.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_c8be064a8f3300cd9c6fbc912f02b710a4efdbf6.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_dfba2e573daa08dbac2d335648ff5274bf00ade4.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_1bb5a6948a76ff345457e87a18c08d5c5e7e6ea1.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_407f76de6f8bfa324313f3d9c8355939287e88ac.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_b9f488fad57816e1044714254f06f9ba76b4df04.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_5d35fef94f14530a18dcec879a0b40466561084b.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_fb7afbe0015d69e217bd765fea7b5e8ce3b03a1e.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_5049794a6842fdd316f29d36d07f7e2699bd33dd.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_cd9451006ae6544e0b55c2c39145581ca6327763.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_c021a3978e2b23f60ca4494c6a443150ca0d70a5.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_30e50ce3097831b2e5df829f900d225d3e84ede9.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_410a653cdc7eea8af73341d992fe755ef1fcdcbb.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_955fba81258280486e6b998d43bcc6fa7ccdb881.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_455bff093553d643f32f716a1f09f2e4727595c5.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_256c5a7a43650d44968edf1f677e61deaa6392b6.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_422ab2d89d5a13b1117a99064f74f7f188567312.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_0f30a613bcebed1c2cc2bb9a470905244765b30f.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_a63a4384d672484fa67989a0536d847ba8b68537.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_067dc6858e203e01daebe027de0de4f2800d4931.1920x1080.jpg?t=1767227994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1411910/ss_44c23a1d0ae81a01fad2ee6a03ae5650fcbfa174.1920x1080.jpg?t=1767227994"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Fallen Aces Episode 1 OUT NOW",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257031324/movie.293x165.jpg?t=1718390387",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1411910/714062/7edb926a54c2c769d009c3016576f4aa2b5053b1/1750685972/dash_h264.mpd?t=1718390387"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1411910,
+    "store_url": "https://store.steampowered.com/app/1411910/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Full controller support",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Early Access",
+      "Immersive Sim",
+      "FPS",
+      "Noir",
+      "Comic Book",
+      "Stealth",
+      "Action",
+      "Retro",
+      "Shooter",
+      "Gore",
+      "2.5D",
+      "2D",
+      "Violent",
+      "Singleplayer",
+      "Hand-drawn",
+      "Old School",
+      "Arena Shooter",
+      "Cartoon",
+      "Level Editor",
+      "Fast-Paced"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 6447,
+    "review_negative": 178,
+    "review_total": 6625,
+    "review_positive_percent": 97.31
+  }
+}

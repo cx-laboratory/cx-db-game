@@ -1,0 +1,267 @@
+{
+  "key": "gothic-1-remake",
+  "name": "Gothic 1 Remake",
+  "description": "The Legend is Back - Return to the Valley of the Mines in this faithful remake of the genre-defining classic RPG. Explore a hand-crafted, organic open world that reacts dynamically to your actions in a gritty, unrestricted experience like no other.",
+  "developers": [
+    "Alkimia Interactive"
+  ],
+  "publishers": [
+    "Alkimia Interactive"
+  ],
+  "release_date": "2026-06-06",
+  "website": "http://www.gothic-game.com",
+  "tags": [
+    "action",
+    "rpg",
+    "exploration",
+    "adventure",
+    "third-person",
+    "atmospheric",
+    "action-rpg",
+    "dark-fantasy",
+    "realistic",
+    "gothic",
+    "3d",
+    "fantasy",
+    "medieval",
+    "magic",
+    "combat",
+    "singleplayer",
+    "crafting",
+    "story-rich",
+    "remake",
+    "choose-your-own-adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "G1R.exe",
+          "description": "Gothic 1 Remake (Dev Exe)",
+          "type": "option1"
+        },
+        {
+          "executable": "G1R-Win64-Shipping.exe",
+          "description": "Gothic 1 Remake (Shipping Exe)",
+          "type": "option1"
+        },
+        {
+          "executable": "G1R-Win64-Test.exe",
+          "description": "Gothic 1 Remake (Test Exe)",
+          "type": "option1"
+        },
+        {
+          "executable": "G1R-Win64-Shipping.exe",
+          "description": "Gothic 1 Remake (Shipping)",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "G1R/Saved/SaveGames",
+          "pattern": "*.*",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "G1R/Saved/SaveGames",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Gothic 1 Remake",
+    "G1R",
+    "G1R-Win64-Shipping",
+    "G1R-Win64-Test"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1297900/9a99817606e675c583d4a88bbfccb54ced30e7cc.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/65bac0ffa9e365a6591c984c1dd6273ccf502665/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/37fa8ac46882648fd4941f7e213452c49707193e/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/8435c6f9fd27daf64402eeca99922fb2de9d533a/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/8442c45d74b55e7da9b0e18c94ce85fa47998b0a/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/09d4206dedf6fa71a14a375325482c43ef03f201/ss_09d4206dedf6fa71a14a375325482c43ef03f201.1920x1080.jpg?t=1782739446"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/1c3b2b3524c6323b0cada742b988c7e0d3b25185/ss_1c3b2b3524c6323b0cada742b988c7e0d3b25185.1920x1080.jpg?t=1782739446"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/1e289f3bceac481f6771ba09060f6c4d0f67ba76/ss_1e289f3bceac481f6771ba09060f6c4d0f67ba76.1920x1080.jpg?t=1782739446"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/ss_072cf9be6024e1c9dd113828977749ba5a5ee861.1920x1080.jpg?t=1782739446"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/a2ca0d486ef05bf20a357e2ed46ad0f012bea669/ss_a2ca0d486ef05bf20a357e2ed46ad0f012bea669.1920x1080.jpg?t=1782739446"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/ss_92fc7406839d5c3d534ab28350f8019d7a724089.1920x1080.jpg?t=1782739446"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/ss_fe1a5eb19fbba9095756ce40d3007251880b4f9b.1920x1080.jpg?t=1782739446"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/ss_384b0956bec4a37b38ac77b31e6e75a017930d69.1920x1080.jpg?t=1782739446"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/ss_1b2e4aeae52e06e80ae4028c9215d3fb7dc98357.1920x1080.jpg?t=1782739446"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/83114e73896a7960778e5d3736ede4b2db34ba14/ss_83114e73896a7960778e5d3736ede4b2db34ba14.1920x1080.jpg?t=1782739446"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/540653064aa0d1c8c7cb20d46d91a125bb4c6ee7/ss_540653064aa0d1c8c7cb20d46d91a125bb4c6ee7.1920x1080.jpg?t=1782739446"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/080c9f0f9f03b79c42c1da0418a422353cc6d4d5/ss_080c9f0f9f03b79c42c1da0418a422353cc6d4d5.1920x1080.jpg?t=1782739446"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/ss_a83075602fb1499183544db627180809fa2e37dd.1920x1080.jpg?t=1782739446"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/83aefe1a3518c392715514194b823d210f4585ba/ss_83aefe1a3518c392715514194b823d210f4585ba.1920x1080.jpg?t=1782739446"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/b98f16eafdda2be104cb8360764523ed56991c11/ss_b98f16eafdda2be104cb8360764523ed56991c11.1920x1080.jpg?t=1782739446"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/b16f81371fd166d09ec421cfcd87ef230419ab7a/ss_b16f81371fd166d09ec421cfcd87ef230419ab7a.1920x1080.jpg?t=1782739446"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/985f5d7d502f3ffad86f0a55073c941b4358203b/ss_985f5d7d502f3ffad86f0a55073c941b4358203b.1920x1080.jpg?t=1782739446"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/24a2612dd616aa1ae478381528776bf867007429/ss_24a2612dd616aa1ae478381528776bf867007429.1920x1080.jpg?t=1782739446"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/feb5881fa87e589c6393b12596802ee0e59fe36f/ss_feb5881fa87e589c6393b12596802ee0e59fe36f.1920x1080.jpg?t=1782739446"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257363696/0f07872b1e442188dd105f3262a8e66cccece92b/movie_600x337.jpg?t=1782140242",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1297900/290251454/4656d4f8aa907aebe620cd9fafbbee6614632e86/1782138171/dash_h264.mpd?t=1782140242"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257348518/24e1709980149d7901c05e21c83a900d23175a2f/movie_600x337.jpg?t=1780678754",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1297900/838021560/03faed948b94dcb687238929b2a8de8ca94969db/1780406928/dash_h264.mpd?t=1780678754"
+    },
+    {
+      "name": "Pre-Order Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257312576/ee7a2a297554d3d2e6ee35cd0e63d69312d9e068/movie_600x337.jpg?t=1775567060",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1297900/1166039691/f46e39e4ae3e02df27c1f0b3a150cf0eb94d5bc9/1775040304/dash_h264.mpd?t=1775567060"
+    },
+    {
+      "name": "Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257285763/372181aa3f4b1b5f04aebbf6e0ec2bc3afe6eae6/movie_600x337.jpg?t=1770925155",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1297900/1620906743/b03ee6a7972f55a59cae86b108b1dd4027126400/1770921049/dash_h264.mpd?t=1770925155"
+    },
+    {
+      "name": "Showcase 2025 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257176838/b0d83e72522939a53c2098ea5e54ca29f7ad6d73/movie_600x337.jpg?t=1754075733",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1297900/2042871112/77be21d4a4109c7ab0b1fd07ab62f66748769101/1754056313/dash_h264.mpd?t=1754075733"
+    },
+    {
+      "name": "Showcase 2024 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257043538/movie.293x165.jpg?t=1722852604",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1297900/735750/7c9a0db8544de78f188d99d1a3bc30bf96313e2b/1751217317/dash_h264.mpd?t=1722852604"
+    },
+    {
+      "name": "Showcase 2023 trailer (Old Camp)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256962452/movie.293x165.jpg?t=1713275097",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1297900/595023/a1c72140bf8cfa15faee2167cd3cc4f1966e2e03/1751217316/dash_h264.mpd?t=1713275097"
+    },
+    {
+      "name": "Showcase 2022 trailer (Old Mine)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256900072/movie.293x165.jpg?t=1713275102",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1297900/486297/034190db1311ee15a7c918382a5628d1a847ddfe/1751217312/dash_h264.mpd?t=1713275102"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1297900,
+    "store_url": "https://store.steampowered.com/app/1297900/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Surround Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "RPG",
+      "Action",
+      "Exploration",
+      "Adventure",
+      "Third Person",
+      "Atmospheric",
+      "Action RPG",
+      "Dark Fantasy",
+      "Realistic",
+      "Gothic",
+      "3D",
+      "Fantasy",
+      "Medieval",
+      "Magic",
+      "Combat",
+      "Singleplayer",
+      "Crafting",
+      "Story Rich",
+      "Remake",
+      "Choose Your Own Adventure"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 29333,
+    "review_negative": 3649,
+    "review_total": 32982,
+    "review_positive_percent": 88.94
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "key": "paralives",
+  "name": "Paralives",
+  "description": "Paralives is a life simulation game about building homes, lives and bonds. Through both hardship and success, where will your story take you?",
+  "developers": [
+    "Alex Massé and team"
+  ],
+  "publishers": [
+    "Paralives Studio"
+  ],
+  "release_date": "2026-05-25",
+  "website": "https://paralives.com",
+  "tags": [
+    "simulation",
+    "early-access",
+    "life-sim",
+    "character-customization",
+    "building",
+    "indie",
+    "open-world",
+    "singleplayer",
+    "lgbtq",
+    "sandbox",
+    "relaxing",
+    "casual",
+    "cute",
+    "cozy",
+    "family-friendly",
+    "moddable",
+    "realistic",
+    "sexual-content",
+    "immersive-sim",
+    "atmospheric"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Polish",
+    "Portuguese - Brazil",
+    "Spanish - Latin America",
+    "Simplified Chinese"
+  ],
+  "name_localized": {
+    "schinese": "平行人生 Paralives"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Paralives.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Paralives/Paralives/MySavedGames.mod",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Paralives.app\\Contents\\MacOS\\Paralives",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Paralives/Paralives/MySavedGames.mod",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Paralives",
+    "Paralives.app\\Contents\\MacOS\\Paralives",
+    "平行人生 Paralives"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1118520/f8aae54cd542195bc59b27738f8331147b41256a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118520/277ab7a2ad1bbce0f4837bb37a3c86d109bd5258/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118520/13d15d732cf142a4546bf749ef587e5e6e6acd64/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118520/cd9ef5d9d08f42262c1243269b19954d8924a0d1/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118520/5f280cf8a3bc766c54615a9a84a2f8255be7bfba/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118520/6a435eb7747110267b3b480f8503ad3502933a16/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118520/7339e23def4d5e2189b8bcfb453e810af4b1d382/ss_7339e23def4d5e2189b8bcfb453e810af4b1d382.1920x1080.jpg?t=1783011783"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118520/ss_9dd14f33624a19e7ce3f711543d632446c5b93f2.1920x1080.jpg?t=1783011783"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118520/7a9e0d329fb4f87bbb1ed4285bff0db54602e704/ss_7a9e0d329fb4f87bbb1ed4285bff0db54602e704.1920x1080.jpg?t=1783011783"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118520/ss_95e3bb27d2761e1fda3767f04ce3b8cf44120a19.1920x1080.jpg?t=1783011783"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118520/ss_4bdd8607569b11de50fe0fdfed3152cc43e9033f.1920x1080.jpg?t=1783011783"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118520/6351f29224f613e11c30b681a17118217d63da85/ss_6351f29224f613e11c30b681a17118217d63da85.1920x1080.jpg?t=1783011783"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257342317/81b09ac04e030dc255b71927639ac5cd17659374/movie_600x337.jpg?t=1779717646",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1118520/2097361403/4ba8145fd691013003df6b22a30cf9836336f409/1779623404/dash_h264.mpd?t=1779717646"
+    },
+    {
+      "name": "Gameplay Trailer - May 2026",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257337534/ecbeca67878a50bedf2e501e4252df48f252f9cf/movie_600x337.jpg?t=1779206451",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1118520/1942703901/b1521173875fd0620d69d1c541c87c8ac5e1ad8e/1778878038/dash_h264.mpd?t=1779206451"
+    },
+    {
+      "name": "Release Date Reveal",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257151751/294387cbabac9f4bacc7948408d9bd103524d269/movie_600x337.jpg?t=1749413903",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1118520/1210071482/3f5b20def0f4998fc85724221afbb406bbd5378a/1751190982/dash_h264.mpd?t=1749413903"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1118520,
+    "store_url": "https://store.steampowered.com/app/1118520/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Workshop",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Life Sim",
+      "Character Customization",
+      "Simulation",
+      "Building",
+      "Indie",
+      "Open World",
+      "Singleplayer",
+      "LGBTQ+",
+      "Sandbox",
+      "Relaxing",
+      "Casual",
+      "Early Access",
+      "Cute",
+      "Cozy",
+      "Family Friendly",
+      "Moddable",
+      "Realistic",
+      "Sexual Content",
+      "Immersive Sim",
+      "Atmospheric"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 16871,
+    "review_negative": 1776,
+    "review_total": 18647,
+    "review_positive_percent": 90.48
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "key": "the-walking-dead-saints-sinners",
+  "name": "The Walking Dead: Saints & Sinners",
+  "description": "Saints &amp; Sinners is a game unlike any other in The Walking Dead universe. Every challenge you face and decision you make is driven by YOU. Fight the undead, scavenge through the flooded ruins of New Orleans, and face gut-wrenching choices for you and the other survivors. Live The Walking Dead.",
+  "developers": [
+    "Skydance Interactive"
+  ],
+  "publishers": [
+    "Skydance Interactive"
+  ],
+  "release_date": "2020-01-24",
+  "website": "https://vrwalkingdead.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "simulation",
+    "strategy",
+    "vr",
+    "zombies",
+    "gore",
+    "horror",
+    "shooter",
+    "survival",
+    "violent",
+    "singleplayer",
+    "choices-matter",
+    "open-world",
+    "first-person",
+    "multiplayer",
+    "fps"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "spanish",
+    "japanese",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "TWD.exe",
+          "description": "TWD",
+          "type": "vr"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "TWD/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "TWD/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The Walking Dead: Saints & Sinners",
+    "TWD"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/916840/57379893a3fffc2127d85e9e1ab7201410137566.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916840/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916840/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916840/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916840/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916840/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916840/ss_4a8c017a822d17d4a664fe3c44a59bdd2208b8d0.1920x1080.jpg?t=1744761535"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916840/ss_a461ce5966069da59600271fb8d392e6366f152a.1920x1080.jpg?t=1744761535"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916840/ss_8b3b23a05713d3115bb38acdc498498216a2c7b5.1920x1080.jpg?t=1744761535"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916840/ss_9e8acbe7127e45a0f50e3fd0e90163e8f3b5fe25.1920x1080.jpg?t=1744761535"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916840/ss_1cf17c9884788969dc638616c575f18f077bf95c.1920x1080.jpg?t=1744761535"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916840/ss_716901a142a6b3d6b914e30c27b9e1c0b6329540.1920x1080.jpg?t=1744761535"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916840/ss_f732a512b30a1f583fce0525038304684618aa7e.1920x1080.jpg?t=1744761535"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916840/ss_afd82729c8075cd71e5766ffe2f05eb49cc32070.1920x1080.jpg?t=1744761535"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916840/ss_180e01f1da8a0e2d227140cf0474971535125876.1920x1080.jpg?t=1744761535"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916840/ss_2e142e21c24e9405f7c34c4a628520f6c0d9aea8.1920x1080.jpg?t=1744761535"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916840/ss_73a0837168bc164a9c8629c11f16d318fc39320a.1920x1080.jpg?t=1744761535"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916840/ss_e5ff74048bd1a05dd228bbc41b26bbbe450a8e95.1920x1080.jpg?t=1744761535"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916840/ss_a0bc2e9ca7a82fcc8a8369eaaa61aa53d7f13b03.1920x1080.jpg?t=1744761535"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916840/ss_5ffcf1704d378b2ca72a628b3ef79674f958de8e.1920x1080.jpg?t=1744761535"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916840/ss_70ce45a382b2bcf2111b92af25c77d469187f019.1920x1080.jpg?t=1744761535"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916840/ss_9c95536ea635a38e6c08b135a81b0738d056170c.1920x1080.jpg?t=1744761535"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916840/ss_b1c2bd9c592ab156877d2349b20c194546187172.1920x1080.jpg?t=1744761535"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Meatgrinder Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256792642/movie.293x165.jpg?t=1594746136",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/916840/298188/e93bf5189e97ebb902b7dad6c37e58052010174d/1750595848/dash_h264.mpd?t=1594746136"
+    },
+    {
+      "name": "Gameplay Snack",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256763651/movie.293x165.jpg?t=1570059137",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/916840/246033/c239736b3ebb31a77265297d481af1dbb5a7ae70/1750595798/dash_h264.mpd?t=1570059137"
+    },
+    {
+      "name": "The Walking Dead: Saints and Sinners Cinematic Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256763646/movie.293x165.jpg?t=1570059147",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/916840/246028/9013905cdd56d345dcbdbac2d989fcd826b3193c/1750595783/dash_h264.mpd?t=1570059147"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 916840,
+    "store_url": "https://store.steampowered.com/app/916840/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Tracked Controller Support",
+      "VR Only",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "VR",
+      "Zombies",
+      "Action",
+      "Gore",
+      "Adventure",
+      "Horror",
+      "Survival Horror",
+      "Shooter",
+      "Survival",
+      "Violent",
+      "Singleplayer",
+      "RPG",
+      "Choices Matter",
+      "Indie",
+      "Simulation",
+      "Strategy",
+      "Open World",
+      "First-Person",
+      "Multiplayer",
+      "FPS"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8583,
+    "review_negative": 1448,
+    "review_total": 10031,
+    "review_positive_percent": 85.56
+  }
+}

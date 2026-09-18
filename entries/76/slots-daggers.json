@@ -1,0 +1,205 @@
+{
+  "key": "slots-daggers",
+  "name": "Slots & Daggers",
+  "description": "A retro mini-roguelike inside a slot machine. Steady your blade - and spin!",
+  "developers": [
+    "Friedemann"
+  ],
+  "publishers": [
+    "Future Friends Games"
+  ],
+  "release_date": "2025-10-25",
+  "website": "",
+  "tags": [
+    "indie",
+    "simulation",
+    "strategy",
+    "casual",
+    "roguelike",
+    "dark-fantasy",
+    "1990-s",
+    "retro",
+    "roguelite",
+    "gambling",
+    "2d",
+    "pixel-graphics",
+    "deckbuilding",
+    "tabletop",
+    "atmospheric",
+    "noir",
+    "card-battler",
+    "singleplayer",
+    "gothic",
+    "old-school"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "German",
+    "Japanese",
+    "Simplified Chinese",
+    "Italian",
+    "Spanish - Spain",
+    "Korean",
+    "Portuguese - Brazil",
+    "Russian*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "命运转轮 | Slots & Daggers",
+    "japanese": "スロット＆ダガー | Slots & Daggers",
+    "koreana": "슬롯 앤 대거 | Slots & Daggers"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Slots and Daggers.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Friedemann/SlotsAndDaggers",
+          "pattern": "*.save",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Friedemann/SlotsAndDaggers",
+          "pattern": "*.tutProg",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Slots and Daggers.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Friedemann/SlotsAndDaggers",
+          "pattern": "*.save",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Friedemann/SlotsAndDaggers",
+          "pattern": "*.tutProg",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Slots & Daggers",
+    "Slots and Daggers",
+    "Slots and Daggers.app",
+    "命运转轮 | Slots & Daggers",
+    "スロット＆ダガー | Slots & Daggers",
+    "슬롯 앤 대거 | Slots & Daggers"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3631290/bb96d9504759b09d384a4bf934dfe94fc19f57e3.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/e6717abc9fe7d15049543614ffd69317b9e1e4b4/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/8930a3333520bff75be49d946f9a5c47fc10ba2d/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/5ebf0f6e974bd15049a78cc890181903ecab8f9b/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/522241b5c0705dd61dece1a80c3cfaba71b31558/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/8e8e2fb4ced8d6b0ffc9ab338803c399fb57625a/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/e2a3734711219afb2cfd1da514d96cd2e6ee872b/ss_e2a3734711219afb2cfd1da514d96cd2e6ee872b.1920x1080.jpg?t=1780064257"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/0e7c3a493791162188306c23ceee3792434f6fc0/ss_0e7c3a493791162188306c23ceee3792434f6fc0.1920x1080.jpg?t=1780064257"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/36459dd67faae971ff811e06233b0b34f5b41649/ss_36459dd67faae971ff811e06233b0b34f5b41649.1920x1080.jpg?t=1780064257"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/2d51abe6d342f2bff86b2889398ed52416da26e6/ss_2d51abe6d342f2bff86b2889398ed52416da26e6.1920x1080.jpg?t=1780064257"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/8d0caaaba111c29a914bdd173f6be5f605e0c5ea/ss_8d0caaaba111c29a914bdd173f6be5f605e0c5ea.1920x1080.jpg?t=1780064257"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/4e0621ca2ccefebf45bae8ec0c78919f60981e88/ss_4e0621ca2ccefebf45bae8ec0c78919f60981e88.1920x1080.jpg?t=1780064257"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/a3f0b02f4078775e5b9fb6dd2915db1b76278fdc/ss_a3f0b02f4078775e5b9fb6dd2915db1b76278fdc.1920x1080.jpg?t=1780064257"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257221683/a3e1609e44330415d35f76733e7d82cd2da5ae85/movie_600x337.jpg?t=1761246230",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3631290/137468819/96a15bbc1e8eaddc6eef6ef203243559fdb4d14c/1761230493/dash_h264.mpd?t=1761246230"
+    },
+    {
+      "name": "Game reveal trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257173043/9fb9a686862957f5eba42c9d4f0f1e3c641f6e63/movie_600x337.jpg?t=1753376566",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3631290/1491345768/dd186da5b153de9d99f0e364833621a060461050/1753299465/dash_h264.mpd?t=1753376566"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3631290,
+    "store_url": "https://store.steampowered.com/app/3631290/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "Casual",
+      "Roguelike",
+      "Dark Fantasy",
+      "1990's",
+      "Retro",
+      "Roguelite",
+      "Gambling",
+      "2D",
+      "Pixel Graphics",
+      "Deckbuilding",
+      "Indie",
+      "Tabletop",
+      "Atmospheric",
+      "Noir",
+      "Card Battler",
+      "Singleplayer",
+      "Simulation",
+      "Gothic",
+      "Old School"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 6807,
+    "review_negative": 414,
+    "review_total": 7221,
+    "review_positive_percent": 94.27
+  }
+}

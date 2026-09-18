@@ -1,0 +1,201 @@
+{
+  "key": "octopath-traveler-ii",
+  "name": "OCTOPATH TRAVELER II",
+  "description": "This game is a brand-new entry in the OCTOPATH TRAVELER series, the first installment of which was initially released in 2018 and sold over 3 million copies worldwide.",
+  "developers": [
+    "Square Enix"
+  ],
+  "publishers": [
+    "Square Enix"
+  ],
+  "release_date": "2023-02-25",
+  "website": "",
+  "tags": [
+    "rpg",
+    "turn-based",
+    "jrpg",
+    "2-5d",
+    "party-based-rpg",
+    "pixel-graphics",
+    "story-rich",
+    "open-world",
+    "turn-based-combat",
+    "choices-matter",
+    "strategy",
+    "cute",
+    "anime",
+    "fantasy",
+    "casual",
+    "magic",
+    "adventure",
+    "singleplayer",
+    "atmospheric",
+    "great-soundtrack"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "japanese": "オクトパストラベラー II",
+    "tchinese": "歧路旅人 II",
+    "schinese": "歧路旅人 II",
+    "koreana": "옥토패스 트래블러 II"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Octopath_Traveler2\\Binaries\\Win64\\Octopath_Traveler2-Win64-Shipping.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Octopath_Traveler2\\Binaries\\Win64\\Octopath_Traveler2-Win64-Shipping.exe",
+          "description": "ship launch only",
+          "type": "config"
+        },
+        {
+          "executable": "Octopath_Traveler2\\Binaries\\Win64\\Octopath_Traveler2.exe",
+          "description": "dev launch only",
+          "type": "config"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "OCTOPATH TRAVELER II",
+    "Octopath_Traveler2\\Binaries\\Win64\\Octopath_Traveler2-Win64-Shipping",
+    "Octopath_Traveler2\\Binaries\\Win64\\Octopath_Traveler2",
+    "オクトパストラベラー II",
+    "歧路旅人 II",
+    "옥토패스 트래블러 II"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1971650/7a90088ff3b521a0edcbd414fcd88361dd3d8b45.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971650/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971650/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971650/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971650/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971650/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971650/ss_063d6228ccd9256814aec0cd46ebb4c093b56fea.1920x1080.jpg?t=1781762559"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971650/ss_dd347306294990fbb93e88a9fb6d694a7a2eec13.1920x1080.jpg?t=1781762559"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971650/ss_ffcc9f56fdf7d36ad4c0414dd2d85ed7389b42fe.1920x1080.jpg?t=1781762559"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971650/ss_d94d1bdba59a0a021225949f13fa8036b85808a7.1920x1080.jpg?t=1781762559"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971650/ss_cd859f6ff08f678304dac0d8c36299b0a2f82a32.1920x1080.jpg?t=1781762559"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971650/ss_dee5d3b75c3e94f48b7bca073e0ed83ca98484d5.1920x1080.jpg?t=1781762559"
+    }
+  ],
+  "videos": [
+    {
+      "name": "ESRB EN - BP Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257081807/317731ca566c161fb57a5dbabdf36414702c7281/movie_600x337.jpg?t=1734425550",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1971650/799601/91577050e592180ddb9a8701204feec56a8faea7/1750743288/dash_h264.mpd?t=1734425550"
+    },
+    {
+      "name": "ESRB EN Accolades",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256933709/movie.293x165.jpg?t=1678490053",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1971650/544600/5e4163d075f694698cad76d3834d3624b4ae3e54/1750743281/dash_h264.mpd?t=1678490053"
+    },
+    {
+      "name": "ESRB EN Demo",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256929567/movie.293x165.jpg?t=1675962118",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1971650/537362/6f9f3f80e6ae27981e75e7e10ca335428c150890/1750743268/dash_h264.mpd?t=1675962118"
+    },
+    {
+      "name": "ESRB EN December",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256921375/movie.293x165.jpg?t=1671121365",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1971650/522546/f19941b302f500e2549dba239df4671c9d712185/1750743233/dash_h264.mpd?t=1671121365"
+    },
+    {
+      "name": "NOV trailer - EN ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256914291/movie.293x165.jpg?t=1667432620",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1971650/510550/9aa64d1e080a3967a1f8bdb3b4bc9d843e4408d3/1750743224/dash_h264.mpd?t=1667432620"
+    },
+    {
+      "name": "ESEB EN Pre-Purchase",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256905644/movie.293x165.jpg?t=1663083162",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1971650/495929/eb3684f9466939716ed3dbe54cd50a0cc8e08414/1750743192/dash_h264.mpd?t=1663083162"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1971650,
+    "store_url": "https://store.steampowered.com/app/1971650/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Keyboard Only Option",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "RPG",
+      "Turn-Based",
+      "JRPG",
+      "2.5D",
+      "Party-Based RPG",
+      "Pixel Graphics",
+      "Story Rich",
+      "Open World",
+      "Turn-Based Combat",
+      "Choices Matter",
+      "Strategy",
+      "Cute",
+      "Anime",
+      "Fantasy",
+      "Casual",
+      "Magic",
+      "Adventure",
+      "Singleplayer",
+      "Atmospheric",
+      "Great Soundtrack"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 15551,
+    "review_negative": 1045,
+    "review_total": 16596,
+    "review_positive_percent": 93.7
+  }
+}

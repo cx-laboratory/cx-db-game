@@ -1,0 +1,166 @@
+{
+  "key": "emily-is-away",
+  "name": "Emily is Away",
+  "description": "Emily is Away is an interactive story. Create a screenname and choose your path through the branching narrative.",
+  "developers": [
+    "Kyle Seeley"
+  ],
+  "publishers": [
+    "Kyle Seeley"
+  ],
+  "release_date": "2015-11-21",
+  "website": "http://emilyisaway.com/",
+  "tags": [
+    "adventure",
+    "casual",
+    "free-to-play",
+    "indie",
+    "simulation",
+    "story-rich",
+    "choices-matter",
+    "singleplayer",
+    "interactive-fiction",
+    "retro",
+    "choose-your-own-adventure",
+    "visual-novel",
+    "romance",
+    "pixel-graphics",
+    "dating-sim",
+    "short",
+    "text-based",
+    "2d",
+    "funny",
+    "horror"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "emily is away.exe",
+          "description": "Windows Launcher",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "emily is away.app",
+          "description": "OSX Launcher",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "emily is away.x86",
+          "description": "Linux Launcher",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Emily is Away",
+    "emily is away",
+    "emily is away.app",
+    "emily is away.x86"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/417860/51909ffd578abe91b984f60c9cfe90ec74845608.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/417860/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/417860/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/417860/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/417860/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/417860/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/417860/ss_08e2c212c04db9807696a24d142d5b788d4cfc42.1920x1080.jpg?t=1619107266"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/417860/ss_129aad1aeb5c744405fa6327a7fe27fa836de812.1920x1080.jpg?t=1619107266"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/417860/ss_7318e7d1c250028664392d1fa59cf663a8340cce.1920x1080.jpg?t=1619107266"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/417860/ss_92777cdd4e4beb3c320b4e9af4cc975575af5426.1920x1080.jpg?t=1619107266"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/417860/ss_8bf4d3f32941669c39cae1e9ece6f66e3c84bccd.1920x1080.jpg?t=1619107266"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Emily is Away Steam Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256658137/movie.293x165.jpg?t=1447979469",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/417860/46456/090f0010064b37edee6c78c22d0901106b600f70/1751280784/dash_h264.mpd?t=1447979469"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 417860,
+    "store_url": "https://store.steampowered.com/app/417860/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Free To Play",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Story Rich",
+      "Choices Matter",
+      "Singleplayer",
+      "Indie",
+      "Interactive Fiction",
+      "Simulation",
+      "Retro",
+      "Casual",
+      "Choose Your Own Adventure",
+      "Visual Novel",
+      "Romance",
+      "Pixel Graphics",
+      "Dating Sim",
+      "Short",
+      "Text-Based",
+      "Adventure",
+      "2D",
+      "Funny",
+      "Horror"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 28601,
+    "review_negative": 3684,
+    "review_total": 32285,
+    "review_positive_percent": 88.59
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "key": "purrgatory",
+  "name": "Purrgatory",
+  "description": "A slice-of-death visual novel about making friends, cracking cat puns, and waiting for eternity to pass.",
+  "developers": [
+    "Niv"
+  ],
+  "publishers": [
+    "Niv"
+  ],
+  "release_date": "2021-08-23",
+  "website": "",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "free-to-play",
+    "visual-novel",
+    "cute",
+    "lgbtq",
+    "point-and-click",
+    "cats",
+    "funny",
+    "story-rich",
+    "hand-drawn",
+    "minimalist",
+    "multiple-endings",
+    "pixel-graphics",
+    "singleplayer",
+    "nonlinear",
+    "dialogue-heavy",
+    "2d"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "Spanish - Spain",
+    "Simplified Chinese",
+    "Italian",
+    "Polish",
+    "Portuguese - Brazil",
+    "Spanish - Latin America",
+    "French",
+    "Norwegian",
+    "Russian"
+  ],
+  "name_localized": {
+    "schinese": "喵的炼狱 / Purrgatory",
+    "polish": "Miauczyściec",
+    "brazilian": "Purrgatório"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "purrgatory.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Purrgatory",
+    "purrgatory",
+    "喵的炼狱 / Purrgatory",
+    "Miauczyściec",
+    "Purrgatório"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1713610/56d8392a4b3411b4de322db9381c863f7decaba5.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1713610/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1713610/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1713610/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1713610/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1713610/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1713610/ss_0d6df47e428b8178675eb58d2f6116230059a486.1920x1080.jpg?t=1772312659"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1713610/ss_3ba079e1fc77a5874c35721a6ca59b78c1e9847b.1920x1080.jpg?t=1772312659"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1713610/ss_2f0d9d2a948dc643d1e69b4a0239e010846f1209.1920x1080.jpg?t=1772312659"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1713610/ss_a001eec49e8598bd7188f7ee66e26080b3dc30a7.1920x1080.jpg?t=1772312659"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1713610/ss_f289a5446efcf0f9d6137e53c1c1d19c12bf35e2.1920x1080.jpg?t=1772312659"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1713610/ss_9515610288c5432ae9801047d139073edd7a8f3d.1920x1080.jpg?t=1772312659"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Purrgatory Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256845183/movie.293x165.jpg?t=1628290718",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1713610/389675/2d750b75a3af0ea370a6e0c42dbd6c139e080610/1751022777/dash_h264.mpd?t=1628290718"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1713610,
+    "store_url": "https://store.steampowered.com/app/1713610/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Visual Novel",
+      "Cute",
+      "LGBTQ+",
+      "Point & Click",
+      "Cats",
+      "Funny",
+      "Story Rich",
+      "Hand-drawn",
+      "Casual",
+      "Minimalist",
+      "Multiple Endings",
+      "Pixel Graphics",
+      "Singleplayer",
+      "Free to Play",
+      "Nonlinear",
+      "Adventure",
+      "Indie",
+      "Dialogue Heavy",
+      "2D",
+      "Psychological Horror"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 4942,
+    "review_negative": 58,
+    "review_total": 5000,
+    "review_positive_percent": 98.84
+  }
+}

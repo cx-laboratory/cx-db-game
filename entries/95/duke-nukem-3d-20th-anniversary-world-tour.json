@@ -1,0 +1,130 @@
+{
+  "key": "duke-nukem-3d-20th-anniversary-world-tour",
+  "name": "Duke Nukem 3D: 20th Anniversary World Tour",
+  "description": "Frag like it’s 1996 – this time with even more asses to kick! Join the world’s greatest action hero in Duke Nukem 3D: 20th Anniversary World Tour as he saves Earth once again, kicking alien ass and saving babes across the globe along the way.",
+  "developers": [
+    "Nerve Software, Gearbox Software, LLC"
+  ],
+  "publishers": [
+    "Gearbox Publishing"
+  ],
+  "release_date": "2016-10-12",
+  "website": "http://www.gearboxsoftware.com/game/duke-3d-20th/",
+  "tags": [
+    "action",
+    "adventure",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "duke3d.exe",
+          "description": "Launch Game",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Duke Nukem 3D: 20th Anniversary World Tour",
+    "duke3d"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/434050/c40e954b965c96e494fdeb27923464debe44e95e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/434050/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/434050/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/434050/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/434050/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/434050/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/434050/ss_785b12b9a530b217221354d3c3c456389ac75763.1920x1080.jpg?t=1782157815"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/434050/ss_e2e2b6a8165b11d40c83af2123452ac195150f0e.1920x1080.jpg?t=1782157815"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/434050/ss_aeda6081ba1e8b3f148c9234a42e302d1c2d8873.1920x1080.jpg?t=1782157815"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/434050/ss_427f709a8e5a0b66addc383a489c4bfdea7066a7.1920x1080.jpg?t=1782157815"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/434050/ss_fc63ae64853a6123d33b95e4335336463fb5e3d0.1920x1080.jpg?t=1782157815"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/434050/ss_3421a9c10e263a29001127eb908be381b826adf1.1920x1080.jpg?t=1782157815"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/434050/ss_12e9044a8ec3ee4e29f0359ea20cc5b844ca7a0a.1920x1080.jpg?t=1782157815"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Duke Nukem 3D: 20th Anniversary World Tour ESRB Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256672404/movie.293x165.jpg?t=1518545442",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/434050/76140/311444d008477228ea05a61d4423c1f10668dd42/1750530530/dash_h264.mpd?t=1518545442"
+    }
+  ],
+  "metacritic": {
+    "score": 72,
+    "url": "https://www.metacritic.com/game/pc/duke-nukem-3d-20th-anniversary-world-tour?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 434050,
+    "store_url": "https://store.steampowered.com/app/434050/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 5456,
+    "review_negative": 1006,
+    "review_total": 6462,
+    "review_positive_percent": 84.43
+  }
+}

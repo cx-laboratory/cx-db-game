@@ -1,0 +1,213 @@
+{
+  "key": "empires-of-the-undergrowth",
+  "name": "Empires of the Undergrowth",
+  "description": "Command swarms of warriors at an unprecedented scale of warfare in this blend of RTS and base-building. Lead ant colonies against the many fearsome threats of the insect world, while building intricate nests, developing pheromone-based tactics, and evolving to meet growing dangers.",
+  "developers": [
+    "Slug Disco"
+  ],
+  "publishers": [
+    "Hooded Horse"
+  ],
+  "release_date": "2024-06-08",
+  "website": "http://www.eotugame.com",
+  "tags": [
+    "simulation",
+    "strategy",
+    "base-building",
+    "city-builder",
+    "grand-strategy",
+    "management",
+    "colony-sim",
+    "sandbox",
+    "building",
+    "historical",
+    "economy",
+    "resource-management",
+    "survival",
+    "open-world",
+    "singleplayer",
+    "moddable",
+    "4x",
+    "replay-value",
+    "alternate-history",
+    "diplomacy"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "dutch",
+    "hungarian",
+    "czech",
+    "turkish",
+    "brazilian",
+    "ukrainian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "地下蚁国 Empires of the Undergrowth",
+    "tchinese": "地下蟻國 Empires of the Undergrowth",
+    "japanese": "Empires of the Undergrowth エンパイア・オブ・ジ・アンダーグロウス",
+    "koreana": "Empires of the Undergrowth 엠파이어 오브 더 언더그로스"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "EotU.exe",
+          "description": "Empires of the Undergrowth with DirectX 11",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "EotU/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "EotU.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "EotU/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Empires of the Undergrowth",
+    "EotU",
+    "EotU.app",
+    "地下蚁国 Empires of the Undergrowth",
+    "地下蟻國 Empires of the Undergrowth",
+    "Empires of the Undergrowth エンパイア・オブ・ジ・アンダーグロウス",
+    "Empires of the Undergrowth 엠파이어 오브 더 언더그로스"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/463530/ba6ae8dac9333776689f4603da09346e41c5cef6.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463530/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463530/f8c76fdca0bdd4d135895b686bd26e50e3bd98bd/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463530/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463530/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463530/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463530/cf632e466dfeb3b90e6a3bbaab94685f8d76bee6/ss_cf632e466dfeb3b90e6a3bbaab94685f8d76bee6.1920x1080.jpg?t=1783067932"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463530/3bc19980acf84fe306e9e7e09ba8a7ed52ae553f/ss_3bc19980acf84fe306e9e7e09ba8a7ed52ae553f.1920x1080.jpg?t=1783067932"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463530/39813541ef2a5eec60b89780d2fc9532bed8a93d/ss_39813541ef2a5eec60b89780d2fc9532bed8a93d.1920x1080.jpg?t=1783067932"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463530/33d7307e09b129ad5ae12fb32abfaad8ce9fa598/ss_33d7307e09b129ad5ae12fb32abfaad8ce9fa598.1920x1080.jpg?t=1783067932"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463530/f38a87c3e6a8edeefd8714083b70df1394240624/ss_f38a87c3e6a8edeefd8714083b70df1394240624.1920x1080.jpg?t=1783067932"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463530/6dab42db94f749ce613997621902d5099aadeddb/ss_6dab42db94f749ce613997621902d5099aadeddb.1920x1080.jpg?t=1783067932"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463530/4bba6437da7bb2c47fd9890b361f5d993fe30c15/ss_4bba6437da7bb2c47fd9890b361f5d993fe30c15.1920x1080.jpg?t=1783067932"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463530/3eb238d806e00cb4aad07231dd002dc1162d7a43/ss_3eb238d806e00cb4aad07231dd002dc1162d7a43.1920x1080.jpg?t=1783067932"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463530/612a8cd882b4d85a7f29e2240b9ec9225aebe04b/ss_612a8cd882b4d85a7f29e2240b9ec9225aebe04b.1920x1080.jpg?t=1783067932"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463530/89dc64adeef7bac7ad24809a67dfb47fad5c1d6f/ss_89dc64adeef7bac7ad24809a67dfb47fad5c1d6f.1920x1080.jpg?t=1783067932"
+    }
+  ],
+  "videos": [
+    {
+      "name": "1.0 Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257365997/af3f0b577a1f47f3cbbdd0550f226db0e480f29e/movie_600x337.jpg?t=1782460105",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/463530/1547654049/07d28005dfe882e70f98e72a36bf36ab6fa56d4a/1782459536/dash_h264.mpd?t=1782460105"
+    },
+    {
+      "name": "1.0 Launch Date Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257020064/movie.293x165.jpg?t=1715086511",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/463530/694647/796e84638cd24c67556bcbd5e509ae7e2378b7dd/1750534183/dash_h264.mpd?t=1715086511"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 463530,
+    "store_url": "https://store.steampowered.com/app/463530/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "Simulation",
+      "Base Building",
+      "City Builder",
+      "Grand Strategy",
+      "Management",
+      "Colony Sim",
+      "Sandbox",
+      "Building",
+      "Historical",
+      "Economy",
+      "Resource Management",
+      "Survival",
+      "Open World",
+      "Singleplayer",
+      "Moddable",
+      "4X",
+      "Replay Value",
+      "Alternate History",
+      "Diplomacy"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 17223,
+    "review_negative": 1023,
+    "review_total": 18246,
+    "review_positive_percent": 94.39
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "key": "solasta-crown-of-the-magister",
+  "name": "Solasta: Crown of the Magister",
+  "description": "Roll for initiative, take attacks of opportunity, manage player location and the verticality of the battle field in this Turn-Based Tactical RPG based on the SRD 5.1 Ruleset. In Solasta, you make the choices, dice decide your destiny.",
+  "developers": [
+    "Tactical Adventures"
+  ],
+  "publishers": [
+    "Tactical Adventures"
+  ],
+  "release_date": "2021-05-27",
+  "website": "https://www.solasta-game.com/",
+  "tags": [
+    "adventure",
+    "rpg",
+    "strategy",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "fantasy",
+    "character-customization",
+    "story-rich",
+    "turn-based-combat",
+    "choices-matter",
+    "top-down",
+    "strategy-rpg",
+    "co-op-campaign",
+    "party-based-rpg",
+    "turn-based-strategy",
+    "singleplayer",
+    "class-based",
+    "crpg",
+    "combat",
+    "level-editor",
+    "team-based"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "schinese",
+    "russian",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "索拉斯塔：魔导师之冠"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Solasta.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Tactical Adventures/Solasta/Saves",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Tactical Adventures/Solasta/Characters",
+          "pattern": "*.chr",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Tactical Adventures/Solasta",
+          "pattern": "UserPreferences.xml",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Solasta.app",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Tactical Adventures/Solasta/Saves",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Tactical Adventures/Solasta/Characters",
+          "pattern": "*.chr",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Tactical Adventures/Solasta",
+          "pattern": "UserPreferences.xml",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Solasta: Crown of the Magister",
+    "Solasta",
+    "Solasta.app",
+    "索拉斯塔：魔导师之冠"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1096530/ee1daddb7b47a1861d1274e46904bd1aee98ecff.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096530/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096530/9d503135a2215550c93b5f5117a19b7ac34d8830/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096530/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096530/68b8a75a889a4a16503f7d8adc631add9f8009c6/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096530/a63b2ffb41a4b830cfd0b74fc23ed77d05c828a5/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096530/ss_34aa096640c07f9081de758a566d7c3dedaaae08.1920x1080.jpg?t=1772029038"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096530/ss_87c2ce426073e4846ea92a7a5b441d158d3961df.1920x1080.jpg?t=1772029038"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096530/ss_e576236ea0ffd8f13e8750f0757bd77c12622bca.1920x1080.jpg?t=1772029038"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096530/ss_d3bbee08b66899caf2a8f3517e77676a146101fe.1920x1080.jpg?t=1772029038"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096530/ss_9717da90481003724e7e2fe95d0774cabfa18372.1920x1080.jpg?t=1772029038"
+    }
+  ],
+  "videos": [
+    {
+      "name": "1.0 Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256835858/movie.293x165.jpg?t=1625065496",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1096530/371843/9c18f83d5e5a0d6e4d5fbc2573748d81328ae1c4/1750618351/dash_h264.mpd?t=1625065496"
+    },
+    {
+      "name": "Dungeon Maker Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256841026/movie.293x165.jpg?t=1625065504",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1096530/381047/e9402fcb5a343d55d9d8ad7645d230bfd206d4ed/1750618356/dash_h264.mpd?t=1625065504"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1096530,
+    "store_url": "https://store.steampowered.com/app/1096530/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Workshop",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Surround Sound",
+      "Steam Cloud",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Fantasy",
+      "Character Customization",
+      "Story Rich",
+      "RPG",
+      "Turn-Based Combat",
+      "Adventure",
+      "Choices Matter",
+      "Top-Down",
+      "Strategy RPG",
+      "Co-op Campaign",
+      "Party-Based RPG",
+      "Turn-Based Strategy",
+      "Singleplayer",
+      "Class-Based",
+      "CRPG",
+      "Online Co-Op",
+      "Multiplayer",
+      "Combat",
+      "Level Editor",
+      "Team-Based"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 19301,
+    "review_negative": 2943,
+    "review_total": 22244,
+    "review_positive_percent": 86.77
+  }
+}

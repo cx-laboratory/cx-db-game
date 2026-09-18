@@ -1,0 +1,190 @@
+{
+  "key": "lunacid",
+  "name": "Lunacid",
+  "description": "Cast into the Great Well, unwanted by the world above. You delve the dark in search of the Old One, your last salvation. Lunacid is a dark fantasy dungeon crawler inspired by Shadow Tower and King’s Field.",
+  "developers": [
+    "KIRA LLC"
+  ],
+  "publishers": [
+    "KIRA LLC"
+  ],
+  "release_date": "2023-10-31",
+  "website": "https://www.kira-llc.com/",
+  "tags": [
+    "indie",
+    "rpg",
+    "dungeon-crawler",
+    "dark-fantasy",
+    "first-person",
+    "retro",
+    "atmospheric",
+    "souls-like",
+    "action-rpg",
+    "singleplayer",
+    "horror",
+    "3d",
+    "metroidvania",
+    "stylized",
+    "open-world",
+    "combat",
+    "pve",
+    "violent",
+    "gore",
+    "lgbtq"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english"
+  ],
+  "name_localized": {
+    "schinese": "月下之癫"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "LUNACID.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "LUNACID_Data",
+          "pattern": "*.MIDNIGHT",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "LUNACID_Data",
+          "pattern": "*.png",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Lunacid",
+    "LUNACID",
+    "月下之癫"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1745510/009333bdf77ddd80e4d998686de20d56bf9a8fd7.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745510/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745510/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745510/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745510/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745510/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745510/ss_2481e2130f4a9145d64f2e5481385b5173fba245.1920x1080.jpg?t=1777045181"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745510/ss_9b06123c6971390c47adcd86588d9596c1fd9423.1920x1080.jpg?t=1777045181"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745510/ss_7148977e25ca77aef9c406398d3dbd72679e93bc.1920x1080.jpg?t=1777045181"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745510/ss_a3f4e7d0d71728aabfe4a27a62e213286483b56f.1920x1080.jpg?t=1777045181"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745510/ss_d9368a7320ea5a44af431673a9eb3ac13f25d8ca.1920x1080.jpg?t=1777045181"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745510/ss_c30f7d7a091df4170cfb27fa6a27b3e79431877f.1920x1080.jpg?t=1777045181"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745510/ss_1a5aa5d3da491f0256c8a63d0a293677acd5eb86.1920x1080.jpg?t=1777045181"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745510/ss_ac0ee9d2393a1a87c6e13d4c5a6904dabd2dca46.1920x1080.jpg?t=1777045181"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745510/ss_e7a91e81b84dde2ac447b730f4bb05c2e9643a3e.1920x1080.jpg?t=1777045181"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745510/ss_a4e07c7c2665368d9525c25e5e02f639270c4047.1920x1080.jpg?t=1777045181"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745510/ss_a66c35422b3c1ac7ee1eb3bd4ec1d72108f4a00e.1920x1080.jpg?t=1777045181"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745510/ss_26ec6ed1c591e331cca0da5fca2456d6df2f7366.1920x1080.jpg?t=1777045181"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745510/ss_6b47d4ad8fb15b61d3d46149519869dfd43c8c7f.1920x1080.jpg?t=1777045181"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745510/ss_0752d02776c6bd0092146f7f90d89b82978f2256.1920x1080.jpg?t=1777045181"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745510/ss_66c644e48e6f0ab74ff11f678ed6276f594455e3.1920x1080.jpg?t=1777045181"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745510/ss_1db87d927659ac8d32e16fd2ecc720b75ca504ef.1920x1080.jpg?t=1777045181"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256855266/movie.293x165.jpg?t=1633879040",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1745510/408005/34eae90252d550ca20ad9ed825c5fe001d6ef7e8/1750731797/dash_h264.mpd?t=1633879040"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1745510,
+    "store_url": "https://store.steampowered.com/app/1745510/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Dungeon Crawler",
+      "Dark Fantasy",
+      "First-Person",
+      "RPG",
+      "Retro",
+      "Atmospheric",
+      "Souls-like",
+      "Action RPG",
+      "Singleplayer",
+      "Indie",
+      "Horror",
+      "3D",
+      "Metroidvania",
+      "Stylized",
+      "Open World",
+      "Combat",
+      "PvE",
+      "Violent",
+      "Gore",
+      "LGBTQ+"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 10123,
+    "review_negative": 1057,
+    "review_total": 11180,
+    "review_positive_percent": 90.55
+  }
+}

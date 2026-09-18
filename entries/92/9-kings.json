@@ -1,0 +1,240 @@
+{
+  "key": "9-kings",
+  "name": "9 Kings",
+  "description": "A fast-paced roguelike kingdom builder. Grow your empire and fight massive battles against powerful rival kings. Break the game with thousands of insane builds to become the King of Kings.",
+  "developers": [
+    "Sad Socket"
+  ],
+  "publishers": [
+    "Hooded Horse"
+  ],
+  "release_date": "2025-05-23",
+  "website": "https://www.sadsocket.com",
+  "tags": [
+    "rpg",
+    "strategy",
+    "early-access",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "roguelike",
+    "card-game",
+    "deckbuilding",
+    "roguelike-deckbuilder",
+    "turn-based-combat",
+    "card-battler",
+    "roguelite",
+    "dungeon-crawler",
+    "2d",
+    "fantasy",
+    "replay-value",
+    "indie",
+    "casual",
+    "singleplayer",
+    "procedural-generation",
+    "difficult",
+    "mouse-only",
+    "turn-based"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "hungarian",
+    "czech",
+    "romanian",
+    "turkish",
+    "brazilian",
+    "bulgarian",
+    "greek",
+    "ukrainian",
+    "latam",
+    "indonesian"
+  ],
+  "name_localized": {
+    "koreana": "9 Kings 나인 킹즈",
+    "japanese": "9 Kings 9 キングス",
+    "schinese": "九王 9 Kings",
+    "tchinese": "九王 9 Kings"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "9Kings.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "SadSocket/9Kings",
+          "pattern": "*.json",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "9Kings.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "SadSocket/9Kings",
+          "pattern": "*.json",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "9 Kings",
+    "9Kings",
+    "9Kings.app",
+    "9 Kings 나인 킹즈",
+    "9 Kings 9 キングス",
+    "九王 9 Kings"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2784470/d1d0c590e82d977b24e1070a9ec1aeea9e4cd9f4.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/696583b4634bfd2777a516cfc59b752f06150c62/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/52914cecbaa148fd0533aff3c5297306757cd4a0/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/0a8ea2b911f74d8d45ec665e5cea38a34959c3fd/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/a913c44574d9047d7d8c16e4e92198f06ec983d2/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/a4af675f7517dad079fc7ee911aa56021443471e/ss_a4af675f7517dad079fc7ee911aa56021443471e.1920x1080.jpg?t=1783066311"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/5702336d94fbe69df85acd0e8fc66178ac5596a2/ss_5702336d94fbe69df85acd0e8fc66178ac5596a2.1920x1080.jpg?t=1783066311"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/61532c75356e52838cc74ba64977ba837d1f8c80/ss_61532c75356e52838cc74ba64977ba837d1f8c80.1920x1080.jpg?t=1783066311"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/70324907375a2dae2ec16e3b2baf1c2eb8721ab5/ss_70324907375a2dae2ec16e3b2baf1c2eb8721ab5.1920x1080.jpg?t=1783066311"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/d217eea521c15ce3a9dcb093325f61455186e55c/ss_d217eea521c15ce3a9dcb093325f61455186e55c.1920x1080.jpg?t=1783066311"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/8f08bcf564c6e906c9163f7508cc567e57fe7d46/ss_8f08bcf564c6e906c9163f7508cc567e57fe7d46.1920x1080.jpg?t=1783066311"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/a29c24822c8c4296d1bbcdd0480b3fcaf3150409/ss_a29c24822c8c4296d1bbcdd0480b3fcaf3150409.1920x1080.jpg?t=1783066311"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/d87c06e7d48cd087ca7ad3de715bfee7ac9d5b27/ss_d87c06e7d48cd087ca7ad3de715bfee7ac9d5b27.1920x1080.jpg?t=1783066311"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/f6ac181ad0553aefbaebe98ea11bc1772f4a71ea/ss_f6ac181ad0553aefbaebe98ea11bc1772f4a71ea.1920x1080.jpg?t=1783066311"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/d7fc773dfc691536b9ed32b5e57169dea30d7c90/ss_d7fc773dfc691536b9ed32b5e57169dea30d7c90.1920x1080.jpg?t=1783066311"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257142549/b4efd0f9147fd0738af5e0823bb699cf68bf8ca9/movie_600x337.jpg?t=1752003790",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2784470/650674534/2b144ab1ab9a1740dcca7b7a2a9491d550f5c7e2/1748811521/dash_h264.mpd?t=1752003790"
+    },
+    {
+      "name": "Multiplayer Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257334725/b637ec4491857cd520e139263d8897601b725553/movie_600x337.jpg?t=1779728167",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2784470/1247369818/041dc61b8ee22f3f773b48a1bac088a3ea9de047/1778496131/dash_h264.mpd?t=1779728167"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2784470,
+    "store_url": "https://store.steampowered.com/app/2784470/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "RPG",
+      "Strategy",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Mouse Only Option",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Steam Input API Support",
+      "Touch Only Option",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "Roguelike",
+      "Card Game",
+      "Deckbuilding",
+      "Roguelike Deckbuilder",
+      "Turn-Based Combat",
+      "Card Battler",
+      "Roguelite",
+      "Dungeon Crawler",
+      "2D",
+      "Fantasy",
+      "Replay Value",
+      "Indie",
+      "Casual",
+      "Singleplayer",
+      "Procedural Generation",
+      "Difficult",
+      "Mouse Only",
+      "Early Access",
+      "Turn-Based"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 20650,
+    "review_negative": 1659,
+    "review_total": 22309,
+    "review_positive_percent": 92.56
+  }
+}

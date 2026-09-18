@@ -1,0 +1,185 @@
+{
+  "key": "bramble-the-mountain-king",
+  "name": "Bramble: The Mountain King",
+  "description": "Bramble The Mountain King is a grim adventure set in a world inspired by dark, Nordic fables. Explore the beautiful yet dangerous and twisted land of Bramble in your endeavour to rescue your sister. Traverse a wondrous landscape and survive deadly encounters with Bramble's many hideous creatures.",
+  "developers": [
+    "Dimfrost Studio"
+  ],
+  "publishers": [
+    "Maximum Entertainment"
+  ],
+  "release_date": "2023-04-27",
+  "website": "https://www.dimfroststudio.com",
+  "tags": [
+    "adventure",
+    "indie",
+    "horror",
+    "cinematic",
+    "atmospheric",
+    "dark-fantasy",
+    "mythology",
+    "dark",
+    "emotional",
+    "3d",
+    "singleplayer",
+    "lore-rich",
+    "third-person",
+    "gore",
+    "exploration",
+    "story-rich",
+    "linear",
+    "action-adventure",
+    "3d-platformer",
+    "fantasy"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Portuguese - Brazil",
+    "Japanese",
+    "Portuguese - Portugal",
+    "Russian",
+    "Simplified Chinese",
+    "Turkish",
+    "Finnish",
+    "Norwegian",
+    "Swedish",
+    "Korean",
+    "Polish",
+    "Traditional Chinese",
+    "Ukrainian*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "IntermediateBuildDRM\\WindowsNoEditor\\Bramble_TMK.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "IntermediateBuildDRM\\WindowsNoEditor\\Bramble_TMK.exe",
+          "description": "Play development branch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Bramble: The Mountain King",
+    "IntermediateBuildDRM\\WindowsNoEditor\\Bramble_TMK"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1623940/334e35ae8c0cbd295d82e72cf9a7d31b14291a9f.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623940/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623940/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623940/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623940/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623940/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623940/ss_5f7e80cd42199d60c1b1fdb3d67a39a1e76d5b4c.1920x1080.jpg?t=1776193650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623940/ss_b22e285d4e478ed12633610b8e9caeb28c8d1a07.1920x1080.jpg?t=1776193650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623940/ss_b8b6546a5038ce007f0e8400ce6a49469cf898c0.1920x1080.jpg?t=1776193650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623940/ss_bed248c06cbd7800a83136884f2263a11c4af89e.1920x1080.jpg?t=1776193650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623940/ss_669e1c472823c64995e0ae7318453d579f507a88.1920x1080.jpg?t=1776193650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623940/ss_cbd57d7325ad610b1b2f6ca3ef903b5e02144f2a.1920x1080.jpg?t=1776193650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623940/ss_7c71093666329f9063e70c4d9ab8c4c6ec86fa7b.1920x1080.jpg?t=1776193650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623940/ss_e9bc34eb998fd6abbc5589179136b41c94db52ca.1920x1080.jpg?t=1776193650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623940/ss_5b22eed9502f6a46da1bd2396a7a380cfb186711.1920x1080.jpg?t=1776193650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623940/ss_b6a1c04831d5985640e4c780998788f9095fb64b.1920x1080.jpg?t=1776193650"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623940/ss_d529e33109c716bf1ecaf325dd91961eef790831.1920x1080.jpg?t=1776193650"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Bramble: The Mountain King - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256941819/movie.293x165.jpg?t=1682601068",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1623940/558987/4caeb19a6eedbfcb48a793b7ed59cea6f3952087/1750713122/dash_h264.mpd?t=1682601068"
+    },
+    {
+      "name": "Bramble: The Mountain King - Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256929261/movie.293x165.jpg?t=1682086119",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1623940/536795/2c60d3d633524339c79fd9ed90f3a88621bc4d83/1750713105/dash_h264.mpd?t=1682086119"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1623940,
+    "store_url": "https://store.steampowered.com/app/1623940/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Horror",
+      "Adventure",
+      "Cinematic",
+      "Atmospheric",
+      "Dark Fantasy",
+      "Mythology",
+      "Dark",
+      "Emotional",
+      "3D",
+      "Singleplayer",
+      "Lore-Rich",
+      "Third Person",
+      "Gore",
+      "Exploration",
+      "Survival Horror",
+      "Story Rich",
+      "Linear",
+      "Action-Adventure",
+      "3D Platformer",
+      "Fantasy"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7221,
+    "review_negative": 401,
+    "review_total": 7622,
+    "review_positive_percent": 94.74
+  }
+}

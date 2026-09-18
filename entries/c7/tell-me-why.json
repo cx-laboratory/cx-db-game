@@ -1,0 +1,112 @@
+{
+  "key": "tell-me-why",
+  "name": "Tell Me Why",
+  "description": "Tell Me Why is the multi-award winning episodic adventure game from Dontnod Entertainment in which twins use their supernatural bond to discover the truth of their troubled past.",
+  "developers": [
+    "DONTNOD Entertainment"
+  ],
+  "publishers": [
+    "Xbox Game Studios"
+  ],
+  "release_date": "2020-08-27",
+  "website": "https://www.tellmewhygame.com/",
+  "tags": [
+    "adventure",
+    "free-to-play"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "japanese",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "TME-Win64-Shipping.exe",
+          "description": "Launch Tell me Why",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Tell Me Why",
+    "TME-Win64-Shipping"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1180660/6eb40e6f71226ce5bea75601a1ec0f9d6f647dd1.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1180660/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1180660/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1180660/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1180660/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1180660/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1180660/ss_b2b4987fc9dbabac780086fb56664ad60cf2e0fd.1920x1080.jpg?t=1780349055"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1180660/ss_acc16251124ec3cdf196a9aff9d75d04ee719266.1920x1080.jpg?t=1780349055"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1180660/ss_0d822f07dd84e6e2fc0e559d113e0ea58f0e3bfa.1920x1080.jpg?t=1780349055"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1180660/ss_08633ddfd27af776c7f507e1b75d94a33e13b4dc.1920x1080.jpg?t=1780349055"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1180660/ss_31a6100d39cb25bf4ba9d3da1bec1b9f10be2fbf.1920x1080.jpg?t=1780349055"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1180660/ss_2fcfca95f6e49b0222e39290b00ade572148f439.1920x1080.jpg?t=1780349055"
+    }
+  ],
+  "videos": [
+    {
+      "name": "accodales",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256804877/movie.293x165.jpg?t=1622564787",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1180660/319166/20719158ceb3c0425d6d67a8158c9505ffffb955/1750635073/dash_h264.mpd?t=1622564787"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1180660,
+    "store_url": "https://store.steampowered.com/app/1180660/",
+    "required_age": 17,
+    "is_free": true,
+    "genres": [
+      "Adventure",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Captions available",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 12985,
+    "review_negative": 2860,
+    "review_total": 15845,
+    "review_positive_percent": 81.95
+  }
+}

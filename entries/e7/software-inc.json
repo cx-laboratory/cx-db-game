@@ -1,0 +1,401 @@
+{
+  "key": "software-inc",
+  "name": "Software Inc.",
+  "description": "Construct and design buildings for optimal working conditions. Hire people to design and release software, so you can defeat the simulated competition and take over their businesses. Manage and educate your employees to make sure they are skilled and satisfied with their job.",
+  "developers": [
+    "Coredumping"
+  ],
+  "publishers": [
+    "Coredumping"
+  ],
+  "release_date": "2015-05-01",
+  "website": "https://softwareinc.coredumping.com",
+  "tags": [
+    "indie",
+    "simulation",
+    "strategy",
+    "early-access",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "management",
+    "economy",
+    "capitalism",
+    "building",
+    "sandbox",
+    "game-development",
+    "moddable",
+    "tutorial",
+    "time-management",
+    "character-customization",
+    "programming",
+    "3d",
+    "automation"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {
+    "schinese": "软件公司"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Software Inc.exe",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Saves",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "sharedsettings.txt",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "Hints.bin",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "ConsoleHistory.txt",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "ReportID.txt",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Blueprints",
+          "pattern": "*.xml",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "Buildings",
+          "pattern": "*.build",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "Teams.tyd",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Characters",
+          "pattern": "*.xml",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "Logos.txt",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "ProjectManagement.tyd",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Software Inc.app/Contents/MacOS/Software Inc",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Saves",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "sharedsettings.txt",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "Hints.bin",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "ConsoleHistory.txt",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "ReportID.txt",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Blueprints",
+          "pattern": "*.xml",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "Buildings",
+          "pattern": "*.build",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "Teams.tyd",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Characters",
+          "pattern": "*.xml",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "Logos.txt",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "ProjectManagement.tyd",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Software Inc.x86",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "Software Inc.x86_64",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Saves",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "sharedsettings.txt",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "Hints.bin",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "ConsoleHistory.txt",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "ReportID.txt",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Blueprints",
+          "pattern": "*.xml",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "Buildings",
+          "pattern": "*.build",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "Teams.tyd",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Characters",
+          "pattern": "*.xml",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "Logos.txt",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "ProjectManagement.tyd",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Software Inc.",
+    "Software Inc",
+    "Software Inc.app/Contents/MacOS/Software Inc",
+    "Software Inc.x86",
+    "Software Inc.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/362620/135605c081f3bffa7a0bfbc07fdad394387fc8c6.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362620/10ead0a36d2661a7d78db9d097b54ff80411d2d8/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362620/b1b6a086d3e30d882cbe8e875ff8e029fe4e2c74/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362620/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362620/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362620/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362620/ss_6949cb0d8e6428424c5466b866b7293002fde71f.1920x1080.jpg?t=1763102408"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362620/ss_5683ee45fd1627b7ed405361be2eee07a0395a88.1920x1080.jpg?t=1763102408"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362620/ss_ed2ed5c00cf6e6feb75faa3e27107c93eaab7aa6.1920x1080.jpg?t=1763102408"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362620/ss_a3008f0189f7ee81f9c9fbf6cb8edccaf42c3223.1920x1080.jpg?t=1763102408"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362620/ss_af63b804af54dcf0edeb90cc1171cf62b88a920f.1920x1080.jpg?t=1763102408"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362620/ss_1d47fba62ef9deebdc531ca05560934e5a19f0bd.1920x1080.jpg?t=1763102408"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362620/ss_edd6dc85e955d2f50de8dd4fea7e2a91603cea69.1920x1080.jpg?t=1763102408"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Beta Trailer 2022",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256881400/movie.293x165.jpg?t=1763102407",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/362620/453825/c6a31583f2650aac0e331b6456e24519f334de1f/1750516023/dash_h264.mpd?t=1763102407"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 362620,
+    "store_url": "https://store.steampowered.com/app/362620/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Stereo Sound",
+      "Surround Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Early Access",
+      "Management",
+      "Economy",
+      "Simulation",
+      "Capitalism",
+      "Building",
+      "Sandbox",
+      "Game Development",
+      "Indie",
+      "Moddable",
+      "Multiplayer",
+      "Online Co-Op",
+      "Co-op",
+      "Tutorial",
+      "Time Management",
+      "Character Customization",
+      "Programming",
+      "Strategy",
+      "3D",
+      "Automation"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7282,
+    "review_negative": 447,
+    "review_total": 7729,
+    "review_positive_percent": 94.22
+  }
+}

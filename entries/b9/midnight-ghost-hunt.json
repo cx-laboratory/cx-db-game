@@ -1,0 +1,225 @@
+{
+  "key": "midnight-ghost-hunt",
+  "name": "Midnight Ghost Hunt",
+  "description": "The chaotic multiplayer hide-and-seek game. Possess seemingly harmless objects as Ghosts or chase them down as Hunters before the clock strikes midnight!",
+  "developers": [
+    "Vaulted Sky Games"
+  ],
+  "publishers": [
+    "Coffee Stain Publishing"
+  ],
+  "release_date": "2024-03-22",
+  "website": "http://www.midnightghosthunt.com",
+  "tags": [
+    "action",
+    "indie",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "combat",
+    "team-based",
+    "supernatural",
+    "fps",
+    "first-person",
+    "shooter",
+    "1990-s",
+    "sci-fi",
+    "horror",
+    "comedy",
+    "realistic",
+    "tactical",
+    "3d",
+    "co-op",
+    "third-person-shooter",
+    "controller"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "polish",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "午夜猎魂"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "LaunchMidnightGhostHunt.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "MidnightGhostHunt.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "MidnightGhostHunt.exe",
+          "description": "MidnightGhostHunt Not Protected",
+          "type": "default"
+        },
+        {
+          "executable": "LaunchMidnightGhostHunt.exe",
+          "description": "MidnightGhostHunt with EOS Bootstrapper",
+          "type": "option1"
+        },
+        {
+          "executable": "LaunchMidnightGhostHunt.exe",
+          "description": "MidnightGhostHunt with EOS Bootstrapper",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Midnight Ghost Hunt",
+    "LaunchMidnightGhostHunt",
+    "MidnightGhostHunt",
+    "午夜猎魂"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/915810/8a5d189d042482d800101866b8e4fb4356474713.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/915810/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/915810/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/915810/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/915810/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/915810/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/915810/ss_7c941008a578bacbf8cb6d685bf51d415cd27b67.1920x1080.jpg?t=1723598682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/915810/ss_e9c08ee4eb89d66eccb296f5339b897176283331.1920x1080.jpg?t=1723598682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/915810/ss_ffa5cb0ecf67e6783b90cc368796ae1d86c2bcfb.1920x1080.jpg?t=1723598682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/915810/ss_cf871100e38ece97bff7b935529bd7162dcbd34c.1920x1080.jpg?t=1723598682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/915810/ss_36cc5dcd556393cc1e3959940d807ec2a608b246.1920x1080.jpg?t=1723598682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/915810/ss_4f90b3a1d5eb7273e6e3e1eea7f15fc607dd0ce2.1920x1080.jpg?t=1723598682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/915810/ss_625f3621756cd7caf28e3c0ae77ecba958ad78ba.1920x1080.jpg?t=1723598682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/915810/ss_13c7c6254a9636c1725ae10d886e689607e566be.1920x1080.jpg?t=1723598682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/915810/ss_2a7e948f1925e840b84726ff0563ea1adc79a550.1920x1080.jpg?t=1723598682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/915810/ss_0b446a5e7ca2170d204d454b51beb35a415178bf.1920x1080.jpg?t=1723598682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/915810/ss_202b2c66c872227f82a845453cefd2997ab69595.1920x1080.jpg?t=1723598682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/915810/ss_f696e881e142668a334774ae13457f2dd546cd28.1920x1080.jpg?t=1723598682"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Midnight Ghost Hunt - 1.0 Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257009283/movie.293x165.jpg?t=1711040414",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/915810/676637/a255518aa9261810e70be488d94277e6bf1c485c/1750598176/dash_h264.mpd?t=1711040414"
+    },
+    {
+      "name": "Midnight Ghost Hunt - Explainer Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256877470/movie.293x165.jpg?t=1685700244",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/915810/446315/b3178bcc211d6aa591c8a9538239ad64901e4396/1750595756/dash_h264.mpd?t=1685700244"
+    },
+    {
+      "name": "Midnight Ghost Hunt - Update 05",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256922522/movie.293x165.jpg?t=1685700252",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/915810/524506/9117b44efab356f88d5fd77e3db602ae8b4a8a7c/1750595768/dash_h264.mpd?t=1685700252"
+    },
+    {
+      "name": "Midnight Ghost Hunt - Update 02 Promo",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256907078/movie.293x165.jpg?t=1685700255",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/915810/498390/7440fe7950b9acd5c5c3792f45f4bcb2a0a48c25/1750595766/dash_h264.mpd?t=1685700255"
+    },
+    {
+      "name": "Midnight Ghost Hunt - Update 01 Promo",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256887162/movie.293x165.jpg?t=1685700259",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/915810/464111/aef502eae75b7df9fff9332018af3baa5da36942/1750595765/dash_h264.mpd?t=1685700259"
+    },
+    {
+      "name": "Midnight Ghost Hunt - Cinematic Out Now Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256880429/movie.293x165.jpg?t=1685700263",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/915810/451675/93606cdf76808203ea89779d9253e237f7d4d35b/1750595763/dash_h264.mpd?t=1685700263"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 915810,
+    "store_url": "https://store.steampowered.com/app/915810/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Combat",
+      "Team-Based",
+      "Supernatural",
+      "PvP",
+      "FPS",
+      "First-Person",
+      "Action",
+      "Shooter",
+      "1990's",
+      "Indie",
+      "Sci-fi",
+      "Horror",
+      "Comedy",
+      "Realistic",
+      "Tactical",
+      "3D",
+      "Co-op",
+      "Third-Person Shooter",
+      "Controller"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 5770,
+    "review_negative": 1765,
+    "review_total": 7535,
+    "review_positive_percent": 76.58
+  }
+}

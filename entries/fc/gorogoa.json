@@ -1,0 +1,195 @@
+{
+  "key": "gorogoa",
+  "name": "Gorogoa",
+  "description": "Gorogoa is an elegant evolution of the puzzle genre, told through a beautifully hand-drawn story designed and illustrated by Jason Roberts. Winner of Debut Game at the 2018 BAFTA Games Awards, as well as Best Mobile Game and the Innovation Award at the GDC 2018 Choice Awards.",
+  "developers": [
+    "Buried Signal"
+  ],
+  "publishers": [
+    "Annapurna Interactive"
+  ],
+  "release_date": "2017-12-15",
+  "website": "http://gorogoa.com",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "puzzle",
+    "hand-drawn",
+    "beautiful",
+    "singleplayer",
+    "atmospheric",
+    "point-and-click",
+    "stylized",
+    "short",
+    "2d",
+    "story-rich",
+    "mystery",
+    "great-soundtrack",
+    "interactive-fiction",
+    "exploration",
+    "experimental",
+    "cartoony",
+    "surreal"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "polish",
+    "dutch",
+    "swedish",
+    "turkish",
+    "arabic",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Gorogoa.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Annapurna/Gorogoa/{64BitSteamID}",
+          "pattern": "*.sav.xml",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Gorogoa.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Annapurna/Gorogoa/{64BitSteamID}",
+          "pattern": "*.sav.xml",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Gorogoa",
+    "Gorogoa.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/557600/ae001eaabbb76bf67661566249c978b73c4693e7.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557600/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557600/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557600/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557600/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557600/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557600/ss_9493c2549394df3f4675078b1f6eab9f4d82d3bd.1920x1080.jpg?t=1729099787"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557600/ss_ae5c2e784e2fab9b8512dd31b7e31300cf3241a6.1920x1080.jpg?t=1729099787"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557600/ss_aa212d776cb3cd25316b3932c218c08f4843f4dd.1920x1080.jpg?t=1729099787"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557600/ss_a2c2926eaf4b50ef6a329f3964d2ef2ea39f54d9.1920x1080.jpg?t=1729099787"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/557600/ss_5fc6c828c5455bb30d066b7a61bbba4a16748f66.1920x1080.jpg?t=1729099787"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256717596/movie.293x165.jpg?t=1527026591",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/557600/164315/e5b2789493ff1563b73b947e17f0970a51183f89/1750551137/dash_h264.mpd?t=1527026591"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256702749/movie.293x165.jpg?t=1512412011",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/557600/136347/df9420db642e5d2b4bc3033c9585a1e63ff8cd6d/1750551128/dash_h264.mpd?t=1512412011"
+    },
+    {
+      "name": "Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256678594/movie.293x165.jpg?t=1485581502",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/557600/88164/767390e1f7d79a8312d910cc355816de4062fbb9/1750551122/dash_h264.mpd?t=1485581502"
+    }
+  ],
+  "metacritic": {
+    "score": 84,
+    "url": "https://www.metacritic.com/game/pc/gorogoa?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 557600,
+    "store_url": "https://store.steampowered.com/app/557600/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Puzzle",
+      "Hand-drawn",
+      "Indie",
+      "Beautiful",
+      "Singleplayer",
+      "Atmospheric",
+      "Casual",
+      "Point & Click",
+      "Stylized",
+      "Short",
+      "Adventure",
+      "2D",
+      "Story Rich",
+      "Mystery",
+      "Great Soundtrack",
+      "Interactive Fiction",
+      "Exploration",
+      "Experimental",
+      "Cartoony",
+      "Surreal"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 19844,
+    "review_negative": 509,
+    "review_total": 20353,
+    "review_positive_percent": 97.5
+  }
+}

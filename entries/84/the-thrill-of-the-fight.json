@@ -1,0 +1,142 @@
+{
+  "key": "the-thrill-of-the-fight",
+  "name": "The Thrill of the Fight",
+  "description": "The Thrill of the Fight is a room-scale only VR boxing game focused on authenticity. Face off in the virtual ring where you'll jab, dodge, and sweat your way to the top of the boxing world. Grab your gloves, step through the ropes, and become a champion.",
+  "developers": [
+    "Halfbrick Studios Pty Ltd"
+  ],
+  "publishers": [
+    "Halfbrick Studios Pty Ltd"
+  ],
+  "release_date": "2019-10-25",
+  "website": "",
+  "tags": [
+    "action",
+    "sports",
+    "vr",
+    "boxing",
+    "3d-fighter",
+    "fighting",
+    "multiplayer",
+    "singleplayer"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "搏击的快感"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "The Thrill of the Fight.exe",
+          "description": "(new beta exe)",
+          "type": "vr"
+        },
+        {
+          "executable": "The Thrill of the Fight.exe",
+          "description": "(new beta exe)",
+          "type": "othervr"
+        },
+        {
+          "executable": "game.exe",
+          "description": "",
+          "type": "vr"
+        },
+        {
+          "executable": "game.exe",
+          "description": "",
+          "type": "othervr"
+        },
+        {
+          "executable": "The Thrill of the Fight.exe",
+          "description": "(new beta exe)",
+          "type": "vr"
+        },
+        {
+          "executable": "The Thrill of the Fight.exe",
+          "description": "(new beta exe)",
+          "type": "othervr"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "The Thrill of the Fight",
+    "game"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/494150/44cbcee14efb7c06caa1f0144660294206023be9.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494150/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494150/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494150/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494150/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494150/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494150/ss_2b1a804efe8383fc36f7b3df490a3a191388c2f1.1920x1080.jpg?t=1754538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494150/ss_b06cdb88e89e9c19fed03626ceb2afeddd0908f2.1920x1080.jpg?t=1754538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494150/ss_12a837830a46435b3c0295f2e31698d46bd86397.1920x1080.jpg?t=1754538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494150/ss_3b81f9b3d3adeae77afa6458537e6016e1a89fb9.1920x1080.jpg?t=1754538118"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494150/ss_d9b086c4d60ef6024ec243e169cf5309efa2b465.1920x1080.jpg?t=1754538118"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256765081/movie.293x165.jpg?t=1571936263",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/494150/248867/f05019d30d7b8a5d5f2e5e36f695cb0eba1299c5/1750537892/dash_h264.mpd?t=1571936263"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 494150,
+    "store_url": "https://store.steampowered.com/app/494150/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Sports"
+    ],
+    "categories": [
+      "Single-player",
+      "Tracked Controller Support",
+      "VR Only",
+      "Family Sharing"
+    ],
+    "tags": [
+      "VR",
+      "Sports",
+      "Action",
+      "Boxing",
+      "3D Fighter",
+      "Fighting",
+      "Multiplayer",
+      "Singleplayer"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 3868,
+    "review_negative": 193,
+    "review_total": 4061,
+    "review_positive_percent": 95.25
+  }
+}

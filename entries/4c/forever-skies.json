@@ -1,0 +1,256 @@
+{
+  "key": "forever-skies",
+  "name": "Forever Skies",
+  "description": "A first-person survival game set on a post-apocalyptic, ecologically ruined Earth. Play solo or with up to 3 friends as you build, upgrade, and fly a high-tech airship. Scavenge resources, craft tools, and face dangers on the surface as you hunt for a cure to save humanity.",
+  "developers": [
+    "Far From Home"
+  ],
+  "publishers": [
+    "Far From Home"
+  ],
+  "release_date": "2025-04-15",
+  "website": "https://www.farfromhomegames.com/en/foreverskies",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "simulation",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "singleplayer",
+    "exploration",
+    "survival",
+    "base-building",
+    "open-world",
+    "crafting",
+    "open-world-survival-craft",
+    "atmospheric",
+    "building",
+    "post-apocalyptic",
+    "first-person",
+    "3d",
+    "futuristic",
+    "sci-fi",
+    "resource-management",
+    "science"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "永恒天空"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ForeverSkies.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "ForeverSkies.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "ForeverSkies.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "ProjectZeppelin/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Forever Skies",
+    "ForeverSkies",
+    "永恒天空"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1641960/459e0f7f8a90e1b11bd6a30c922ccf0f68ba2208.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/5afd7a74cd852f48c07294a9a2a1a2801af87aeb/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/444485546639a6113ac899292fd11e0bfbf9ca49/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_a6de6331c0279dd1a09deccbea1e1b9fbd4a9623.1920x1080.jpg?t=1782407339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_f88a94ca46d353cca12ea88bb80b02c6a94cbd05.1920x1080.jpg?t=1782407339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_893a59bf8d34c91f2a288c59d16223e586c3b77b.1920x1080.jpg?t=1782407339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_6f4fba9febd0e206ed46ed00ad1158017ddeaaaf.1920x1080.jpg?t=1782407339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_a0e9e0ba964c81ba6c81bbd27752d873c66f8074.1920x1080.jpg?t=1782407339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_28631765dac1fd3650cdb4d30e2947d9265cb436.1920x1080.jpg?t=1782407339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_49efde80db33a77351acda9e947b479564b19e5b.1920x1080.jpg?t=1782407339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_e45636b5d0499269a42dedb4de1a59443b862779.1920x1080.jpg?t=1782407339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_c3245be7989cae26d105e82aed78363349913e26.1920x1080.jpg?t=1782407339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_91c9afacd6d7159ac3effc3534b662374840ee80.1920x1080.jpg?t=1782407339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_8d5bc1c0eddcf443bb3a2f031668b0ce266400f1.1920x1080.jpg?t=1782407339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_e715fcbf4d52f5a9c0ef24fb921345ad0ed75f4d.1920x1080.jpg?t=1782407339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_ca5f31cd8d6e2af657ee465d7df496776c2cf721.1920x1080.jpg?t=1782407339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_09e209c37dae1f78eb9500393a618ebb884124da.1920x1080.jpg?t=1782407339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_2e7f3a2bffc0e837245ba4b579d959ac77827de8.1920x1080.jpg?t=1782407339"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Forever Skies | 1.0 Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257125964/2e929013db1e68a257ce0d4e685cdda648f5af91/movie_600x337.jpg?t=1765798685",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1641960/870021/ff266241bbc2593ab446be80cd57ba8c3a557399/1750714754/dash_h264.mpd?t=1765798685"
+    },
+    {
+      "name": "Forever Skies | Final Echoes Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257354280/eb5bd20c6fb8e166eeee28a6125780097aaa6129/movie_600x337.jpg?t=1781015325",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1641960/925685460/31302fa88f54ccbae0f4ab033de26332a0f0cd36/1781014439/dash_h264.mpd?t=1781015325"
+    },
+    {
+      "name": "Echoes Part Two Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257250020/c71206e0fa07d108d61a4be92d7cf1e71bbf565e/movie_600x337.jpg?t=1765815080",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1641960/1039627374/8413ee802140ed90ec9d496fee8de5fcf56416bd/1765795527/dash_h264.mpd?t=1765815080"
+    },
+    {
+      "name": "Echoes Part One Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257233469/a1d9f6e5078c6e1c6e1d4702177fd09e2f228f89/movie_600x337.jpg?t=1765798685",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1641960/2033421279/ad0d783a2c3e7de1f070be605011afa05c7e781a/1763402913/dash_h264.mpd?t=1765798685"
+    },
+    {
+      "name": "Co-op Release date trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257077182/f0b750ee72025b8a895c571ccb80864a50fb06ce/movie_600x337.jpg?t=1733779984",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1641960/792018/1d47495d0ecfdbd7929b80c06662d391715bce6c/1750714733/dash_h264.mpd?t=1733779984"
+    },
+    {
+      "name": "Survive_Build_Scavenge",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257061114/4172b165c4b041d7022c39c60ee67f9374605edf/movie_600x337.jpg?t=1727882904",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1641960/765403/ecb3dceabd9dae01e995d9ae883b8444c17c82fa/1750714723/dash_h264.mpd?t=1727882904"
+    },
+    {
+      "name": "Airship Gardening Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257013105/movie.293x165.jpg?t=1725650283",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1641960/683012/5805430206813c070dba61d7e0640c7bb3e210e8/1750714748/dash_h264.mpd?t=1725650283"
+    },
+    {
+      "name": "Launch Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256951595/movie.293x165.jpg?t=1725650287",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1641960/576047/6e5eeb4b6f9a30db9ee66a73bf2abc07e0d97f74/1750714653/dash_h264.mpd?t=1725650287"
+    },
+    {
+      "name": "Combat Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257052986/movie.293x165.jpg?t=1725638417",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1641960/752052/04e11c3caf0c646f86cfb3d605d82c3c6969a8f3/1750714720/dash_h264.mpd?t=1725638417"
+    },
+    {
+      "name": "Explore Ruined Skies 2",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256922448/movie.293x165.jpg?t=1671709266",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1641960/524387/6b1f4a818c676380331fd05a1b93aec003f0bb7e/1750714652/dash_h264.mpd?t=1671709266"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1641960,
+    "store_url": "https://store.steampowered.com/app/1641960/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Exploration",
+      "Co-op",
+      "Survival",
+      "Base Building",
+      "Open World",
+      "Crafting",
+      "Adventure",
+      "Open World Survival Craft",
+      "Action",
+      "Atmospheric",
+      "Multiplayer",
+      "Building",
+      "Post-apocalyptic",
+      "First-Person",
+      "3D",
+      "Futuristic",
+      "Sci-fi",
+      "Resource Management",
+      "Science"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 6749,
+    "review_negative": 1795,
+    "review_total": 8544,
+    "review_positive_percent": 78.99
+  }
+}

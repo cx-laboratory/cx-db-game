@@ -1,0 +1,175 @@
+{
+  "key": "rounds",
+  "name": "ROUNDS",
+  "description": "Rounds is a 1v1 rogue-lite shooter where each round gets more intense. The losing player of each round unlocks clever upgrades to create a better build to counter their opponent.",
+  "developers": [
+    "Landfall"
+  ],
+  "publishers": [
+    "Landfall"
+  ],
+  "release_date": "2021-04-01",
+  "website": "http://landfall.se",
+  "tags": [
+    "action",
+    "indie",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "fighting",
+    "local-multiplayer",
+    "2d-fighter",
+    "deckbuilding",
+    "roguelike",
+    "roguelite",
+    "card-battler",
+    "physics",
+    "2d",
+    "roguelike-deckbuilder",
+    "party-game",
+    "card-game",
+    "platformer",
+    "2d-platformer",
+    "side-scroller",
+    "arcade",
+    "twin-stick-shooter"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "回合决斗"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ROUNDS.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "ROUNDS.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "ROUNDS",
+    "ROUNDS.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1557740/f087183f42804b06bcd59b47536c23b398061fc1.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557740/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557740/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557740/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557740/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557740/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557740/ss_fa5f178546604b676b668e0eea22684473591027.1920x1080.jpg?t=1759328419"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557740/ss_a45fb5c56e1d445aa225f1f471f58375d145b121.1920x1080.jpg?t=1759328419"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557740/ss_b9621a0a4d3587d330d99f505e313a0683077231.1920x1080.jpg?t=1759328419"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557740/ss_546d44400e6dbdfb33cf700559f31e4034c56ed8.1920x1080.jpg?t=1759328419"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557740/ss_09466bab6059b1d7737c16430fae482a5f16ce96.1920x1080.jpg?t=1759328419"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557740/ss_d8e24af9c80e7a7a6f71fa8d455a5fc60bf7e2f2.1920x1080.jpg?t=1759328419"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557740/ss_ff567a34feb679e10b75ace1333ed1e7c19b02ea.1920x1080.jpg?t=1759328419"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557740/ss_079849f0c55f5fad423ec924e2b2e446fc4a52df.1920x1080.jpg?t=1759328419"
+    }
+  ],
+  "videos": [
+    {
+      "name": "ROUNDS Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256827780/movie.293x165.jpg?t=1625068071",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1557740/357203/b6c278b87f7d74600f23568c14260a7bd884cff8/1750701121/dash_h264.mpd?t=1625068071"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1557740,
+    "store_url": "https://store.steampowered.com/app/1557740/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Shared/Split Screen",
+      "Partial Controller Support",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Fighting",
+      "Local Multiplayer",
+      "2D Fighter",
+      "Deckbuilding",
+      "Roguelite",
+      "Action",
+      "PvP",
+      "Indie",
+      "Card Battler",
+      "Physics",
+      "2D",
+      "Roguelike Deckbuilder",
+      "Party Game",
+      "Card Game",
+      "Platformer",
+      "2D Platformer",
+      "Side Scroller",
+      "Arcade",
+      "Twin Stick Shooter"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 41516,
+    "review_negative": 2082,
+    "review_total": 43598,
+    "review_positive_percent": 95.22
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "key": "steamworld-dig-2",
+  "name": "SteamWorld Dig 2",
+  "description": "SteamWorld Dig is back! Dig deep, gain riches and unearth the terrors of the underworld in this platform mining adventure influenced by classic Metroidvania style games.",
+  "developers": [
+    "Image &amp; Form Games"
+  ],
+  "publishers": [
+    "Image & Form Games"
+  ],
+  "release_date": "2017-09-22",
+  "website": "http://imageform.se/game/steamworld-dig-2/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "metroidvania",
+    "platformer",
+    "mining",
+    "2d",
+    "steampunk",
+    "female-protagonist",
+    "singleplayer",
+    "exploration",
+    "great-soundtrack",
+    "robots",
+    "controller",
+    "casual",
+    "colorful",
+    "western",
+    "family-friendly",
+    "2d-platformer",
+    "multiplayer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian"
+  ],
+  "name_localized": {
+    "schinese": "蒸汽世界挖掘2"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Dig2.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "MacAppSupport",
+          "path": "SteamWorld Dig 2/{Steam3AccountID}/",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "SteamWorld Dig 2/{Steam3AccountID}/",
+          "pattern": "*.xml",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "SteamWorld Dig 2/{Steam3AccountID}/",
+          "pattern": "*.cfg",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "SteamWorld Dig 2.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "MacAppSupport",
+          "path": "SteamWorld Dig 2/{Steam3AccountID}/",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "SteamWorld Dig 2/{Steam3AccountID}/",
+          "pattern": "*.xml",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "SteamWorld Dig 2/{Steam3AccountID}/",
+          "pattern": "*.cfg",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Dig2",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "MacAppSupport",
+          "path": "SteamWorld Dig 2/{Steam3AccountID}/",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "SteamWorld Dig 2/{Steam3AccountID}/",
+          "pattern": "*.xml",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "SteamWorld Dig 2/{Steam3AccountID}/",
+          "pattern": "*.cfg",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "SteamWorld Dig 2",
+    "Dig2",
+    "SteamWorld Dig 2.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/571310/dd93b3ef55eca4f9b30dac04450bf03fed2c31a6.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571310/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571310/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571310/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571310/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571310/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571310/ss_7072c34bfa84ab8894da321f9d991eab8f4dfef8.1920x1080.jpg?t=1726132098"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571310/ss_26b9325c7e66c42ae586e499bd92da3de7995525.1920x1080.jpg?t=1726132098"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571310/ss_e1b87e496208b2f111e57f178052492351849501.1920x1080.jpg?t=1726132098"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571310/ss_91135f5607a8d361aa8b980c9c0345be3532c2ad.1920x1080.jpg?t=1726132098"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571310/ss_55ba00ab6ff370fe68ce82fb5c213a68046101d2.1920x1080.jpg?t=1726132098"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571310/ss_4ddbc40397860fa4c915841ff525117d38df08f3.1920x1080.jpg?t=1726132098"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571310/ss_f6764da09055b25c77c78968048ad0acc620f34f.1920x1080.jpg?t=1726132098"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571310/ss_00f3730a15890cb2ada5fcce61350dbc551cf6f3.1920x1080.jpg?t=1726132098"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571310/ss_13418744881d9656b83304b672a32c09f4e5734a.1920x1080.jpg?t=1726132098"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571310/ss_0c95b395006a3b385e2a235cf17ce5d8b3b3ec42.1920x1080.jpg?t=1726132098"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571310/ss_33aa15d565d06778c06e0bf87796b101b259bd4e.1920x1080.jpg?t=1726132098"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571310/ss_90ccac62c8dd0eebcd4cc0d8134a3142cabe3c2a.1920x1080.jpg?t=1726132098"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571310/ss_04318ac66bd1dd1c466043779058d8a2f3624773.1920x1080.jpg?t=1726132098"
+    }
+  ],
+  "videos": [
+    {
+      "name": "SteamWorld Dig 2 - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256696112/movie.293x165.jpg?t=1505990607",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/571310/124214/424301fcc4289dd91699435358a73ea4d0c663da/1751303354/dash_h264.mpd?t=1505990607"
+    }
+  ],
+  "metacritic": {
+    "score": 85,
+    "url": "https://www.metacritic.com/game/pc/steamworld-dig-2?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 571310,
+    "store_url": "https://store.steampowered.com/app/571310/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Adventure",
+      "Metroidvania",
+      "Indie",
+      "Action",
+      "Platformer",
+      "Mining",
+      "2D",
+      "Steampunk",
+      "Female Protagonist",
+      "Singleplayer",
+      "Exploration",
+      "Great Soundtrack",
+      "Robots",
+      "Controller",
+      "Casual",
+      "Colorful",
+      "Western",
+      "Family Friendly",
+      "2D Platformer",
+      "Multiplayer"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 8614,
+    "review_negative": 407,
+    "review_total": 9021,
+    "review_positive_percent": 95.49
+  }
+}

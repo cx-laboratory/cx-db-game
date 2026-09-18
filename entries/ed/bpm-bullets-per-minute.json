@@ -1,0 +1,208 @@
+{
+  "key": "bpm-bullets-per-minute",
+  "name": "BPM: BULLETS PER MINUTE",
+  "description": "BPM is a rhythm-action FPS rogue-like where you must shoot, jump and dodge to the beat of an epic rock soundtrack. Delve into a randomly generated dungeon where one missed note can lead to your death. Gain game-changing abilities and loot powerful weaponry to defeat your ancient enemy: Nidhogg.",
+  "developers": [
+    "Awe Interactive"
+  ],
+  "publishers": [
+    "Awe Interactive"
+  ],
+  "release_date": "2020-09-15",
+  "website": "https://bulletsperminute.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "fps",
+    "rhythm",
+    "roguelike",
+    "shooter",
+    "action-roguelike",
+    "great-soundtrack",
+    "music",
+    "rock-music",
+    "difficult",
+    "roguelite",
+    "singleplayer",
+    "first-person",
+    "female-protagonist",
+    "fast-paced",
+    "bullet-hell",
+    "procedural-generation",
+    "boomer-shooter"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French*",
+    "Italian*",
+    "German*",
+    "Spanish - Spain*",
+    "Portuguese - Portugal*",
+    "Russian*",
+    "Simplified Chinese**languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "BPM: 枪林弹雨"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "WindowsNoEditor/BPMGame.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "BPM/Saved/SaveGames/",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "BPM: BULLETS PER MINUTE",
+    "WindowsNoEditor/BPMGame",
+    "BPM: 枪林弹雨"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1286350/17bd1b74d9b669d0717a06075fb7290256a7c70c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286350/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286350/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286350/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286350/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286350/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286350/ss_1ea80f173a9c2a7881d46a2a277f2839ce644193.1920x1080.jpg?t=1667228772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286350/ss_4bb27e9c468fe6c3b241859737b03ee199b1ca68.1920x1080.jpg?t=1667228772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286350/ss_0a33fd48f1828324241d2f9a02600c207832025a.1920x1080.jpg?t=1667228772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286350/ss_e2d17ba5745d00e41065aa145bea60e6f8a663e2.1920x1080.jpg?t=1667228772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286350/ss_1e1b5a9726ca68417d922ec73b5323ac98bc96ce.1920x1080.jpg?t=1667228772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286350/ss_358ebf575ae9d4e2c70a1ddfca991755dd96a064.1920x1080.jpg?t=1667228772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286350/ss_031b09b78b03a74e36ae3517d1a0ac096ee607fc.1920x1080.jpg?t=1667228772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286350/ss_ad86addda34b4c44457303c59dbf41a2ab4c2edb.1920x1080.jpg?t=1667228772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286350/ss_36328f3b47596fc0c9c023baf0cdd93780b5a9c1.1920x1080.jpg?t=1667228772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286350/ss_37d12930b0748b77cfd6310f2f694b7499f3ecf8.1920x1080.jpg?t=1667228772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286350/ss_bd42b9bcf09e3f8df31c7dd58a98b5d9b8833bab.1920x1080.jpg?t=1667228772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286350/ss_f4708fbfa5286b31f4dc7aad17f8027ad3a5572b.1920x1080.jpg?t=1667228772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286350/ss_39c531e1831491b2140a3bdf36cf70ee342a1e6d.1920x1080.jpg?t=1667228772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286350/ss_29eeff9f93dbd224b95baa5a02cff2089f219c1a.1920x1080.jpg?t=1667228772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286350/ss_a6c8d85d90f88fa28fd717c173480864415e7f3c.1920x1080.jpg?t=1667228772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286350/ss_750b9bae3dcc656f1b7441739590635379f9297d.1920x1080.jpg?t=1667228772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286350/ss_d047f8912466a06040ffc1ef1519ba900c28884d.1920x1080.jpg?t=1667228772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286350/ss_f3924fea69bbb15636d3976a861ad8d5c26d6323.1920x1080.jpg?t=1667228772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286350/ss_81f96a5de6fd3d4b801a314c3b0613962dd35147.1920x1080.jpg?t=1667228772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286350/ss_0c5e05755cdcfd344e8359719f6847af5af1f3d9.1920x1080.jpg?t=1667228772"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256783829/movie.293x165.jpg?t=1588262796",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1286350/282446/0dffd25e7312ca4041cc7a88fae6084ee54f1d87/1750666734/dash_h264.mpd?t=1588262796"
+    },
+    {
+      "name": "BPM Overdrive Content Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256821183/movie.293x165.jpg?t=1612548443",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1286350/345855/6af3812fbb1d95af27de1e13ad2a9983d54b3a1d/1750666735/dash_h264.mpd?t=1612548443"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1286350,
+    "store_url": "https://store.steampowered.com/app/1286350/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "FPS",
+      "Rhythm",
+      "Roguelike",
+      "Action",
+      "Indie",
+      "Shooter",
+      "Adventure",
+      "Action Roguelike",
+      "Great Soundtrack",
+      "Music",
+      "Rock Music",
+      "Difficult",
+      "Roguelite",
+      "Singleplayer",
+      "First-Person",
+      "Female Protagonist",
+      "Fast-Paced",
+      "Bullet Hell",
+      "Procedural Generation",
+      "Boomer Shooter"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 10311,
+    "review_negative": 1090,
+    "review_total": 11401,
+    "review_positive_percent": 90.44
+  }
+}

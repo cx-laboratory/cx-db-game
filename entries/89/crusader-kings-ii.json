@@ -1,0 +1,196 @@
+{
+  "key": "crusader-kings-ii",
+  "name": "Crusader Kings II",
+  "description": "Explore one of the defining periods in world history in an experience crafted by the masters of Grand Strategy.",
+  "developers": [
+    "Paradox Development Studio"
+  ],
+  "publishers": [
+    "Paradox Interactive"
+  ],
+  "release_date": "2012-02-15",
+  "website": "http://www.crusaderkings.com/",
+  "tags": [
+    "rpg",
+    "simulation",
+    "strategy",
+    "free-to-play",
+    "multiplayer",
+    "grand-strategy",
+    "medieval",
+    "historical",
+    "political-sim",
+    "sandbox",
+    "politics",
+    "diplomacy",
+    "singleplayer",
+    "replay-value",
+    "real-time-with-pause",
+    "moddable",
+    "political",
+    "character-customization",
+    "rts",
+    "great-soundtrack"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish - Spain"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "CK2game.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "CK2game.exe",
+          "description": "on GameSparks Test Server USE THIS!",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "ck2.app",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "ck2.app",
+          "description": "on GameSparks Test Server USE THIS!",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "ck2",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Crusader Kings II",
+    "CK2game",
+    "ck2.app",
+    "ck2"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/203770/56e9c15cbeb6c1f873f7f1dc757bae7618861484.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203770/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203770/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203770/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203770/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203770/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203770/ss_14a34ce83f71c1b0dcf7d69e5526306ebadc0829.1920x1080.jpg?t=1740566844"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203770/ss_95adbfc039f26bcde1588e5c01c7197c9d84d428.1920x1080.jpg?t=1740566844"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203770/ss_2b7d5f6310520af54a2c6a2a55d3cfe9e96af333.1920x1080.jpg?t=1740566844"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203770/ss_db5c9f65ff6fa8298e51e3262c725df9a6503f85.1920x1080.jpg?t=1740566844"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203770/ss_2d3eeae8670b250f0560899c0543f9122a7babbb.1920x1080.jpg?t=1740566844"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203770/ss_c453c1836e4a05f270680cf0c3d30ee045f8719e.1920x1080.jpg?t=1740566844"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203770/ss_8e0360365241e64a866d29800ca459b2a3103050.1920x1080.jpg?t=1740566844"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203770/ss_5cdab8691061624ae06637afae0d29562055e899.1920x1080.jpg?t=1740566844"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203770/ss_7a65eb2af0ea217015250745f0b7d5b6c05d679a.1920x1080.jpg?t=1740566844"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203770/ss_4e939119c33aa045842042a6dd93cb63a52d6373.1920x1080.jpg?t=1740566844"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Crusader Kings II Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81433/movie.293x165.jpg?t=1447355441",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/203770/6951/f572a2ea6c150083dec070eaa27e2bf9b7744583/1750498005/dash_h264.mpd?t=1447355441"
+    }
+  ],
+  "metacritic": {
+    "score": 82,
+    "url": "https://www.metacritic.com/game/pc/crusader-kings-ii?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 203770,
+    "store_url": "https://store.steampowered.com/app/203770/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "RPG",
+      "Simulation",
+      "Strategy",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Trading Cards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Grand Strategy",
+      "Strategy",
+      "Medieval",
+      "Historical",
+      "Political Sim",
+      "Simulation",
+      "RPG",
+      "Sandbox",
+      "Multiplayer",
+      "Politics",
+      "Diplomacy",
+      "Singleplayer",
+      "Replay Value",
+      "Real-Time with Pause",
+      "Moddable",
+      "Free to Play",
+      "Political",
+      "Character Customization",
+      "RTS",
+      "Great Soundtrack"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 66738,
+    "review_negative": 6977,
+    "review_total": 73715,
+    "review_positive_percent": 90.54
+  }
+}

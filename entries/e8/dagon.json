@@ -1,0 +1,197 @@
+{
+  "key": "dagon",
+  "name": "Dagon",
+  "description": "Face unspeakable horrors. Succumb to madness. Welcome to a free daemonic narrative experience inspired by H. P. Lovecraft.",
+  "developers": [
+    "Bit Golem"
+  ],
+  "publishers": [
+    "Bit Golem"
+  ],
+  "release_date": "2021-09-24",
+  "website": "http://bitgolemgames.com",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "free-to-play",
+    "horror",
+    "lovecraftian",
+    "atmospheric",
+    "visual-novel",
+    "first-person",
+    "story-rich",
+    "dark",
+    "vr",
+    "choose-your-own-adventure",
+    "interactive-fiction",
+    "point-and-click",
+    "mystery",
+    "walking-simulator",
+    "text-based",
+    "realistic",
+    "emotional"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "czech",
+    "turkish",
+    "arabic",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Dagon.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "RunDagonVR.bat",
+          "description": "Dagon VR",
+          "type": "vr"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BitGolem/Dagon",
+          "pattern": "DagonSaveFull.es3",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Dagon",
+    "RunDagonVR.bat"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1481400/854ec49de1b5b2032a1b251ce0770947b0df195c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1481400/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1481400/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1481400/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1481400/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1481400/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1481400/ss_5b4ab53250f7f5d796368e7faf86c69a2f05eeec.1920x1080.jpg?t=1782810936"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1481400/ss_8ecc891edc26ee50696fd6c030db6e33f0cb24bb.1920x1080.jpg?t=1782810936"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1481400/ss_9a2245c7324f216345cfc063d9de6f7cfa844ced.1920x1080.jpg?t=1782810936"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1481400/ss_a1117e2cdd31ca22400a6bad931cba316a05a37c.1920x1080.jpg?t=1782810936"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1481400/ss_14c2d66e13ffd430946f33a22bb8d00d729adca6.1920x1080.jpg?t=1782810936"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1481400/ss_e3a5035f7fd88cbfbac7623718d2f83a3d72c648.1920x1080.jpg?t=1782810936"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1481400/ss_4363a699e9cfba39646fdc022da45d8a7e00c3dc.1920x1080.jpg?t=1782810936"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1481400/ss_3b26e0ce743e6d1fe72e31b41998e0c399ec096b.1920x1080.jpg?t=1782810936"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1481400/ss_0e4d0f5f026c639e2de014e2330297c923f2c412.1920x1080.jpg?t=1782810936"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1481400/ss_06304f4583b9fe425ede10799ed79d58eadf1ece.1920x1080.jpg?t=1782810936"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1481400/ss_a9df9e25fb29d63c658cb5cd9bc27b4c7fb26015.1920x1080.jpg?t=1782810936"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Dagon - Official Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256852451/movie.293x165.jpg?t=1683102432",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1481400/402913/7efe6a2372dd45f60fb1dbe097760e5811b6aadd/1750693722/dash_h264.mpd?t=1683102432"
+    },
+    {
+      "name": "Dagon - Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256836147/movie.293x165.jpg?t=1683102439",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1481400/372397/08ed2783e92b9fc7f462f584b09d790829e7ed4b/1750693719/dash_h264.mpd?t=1683102439"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1481400,
+    "store_url": "https://store.steampowered.com/app/1481400/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Tracked Controller Support",
+      "VR Supported",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Horror",
+      "Lovecraftian",
+      "Atmospheric",
+      "Visual Novel",
+      "First-Person",
+      "Story Rich",
+      "Psychological Horror",
+      "Dark",
+      "VR",
+      "Choose Your Own Adventure",
+      "Interactive Fiction",
+      "Point & Click",
+      "Adventure",
+      "Mystery",
+      "Indie",
+      "Walking Simulator",
+      "Text-Based",
+      "Realistic",
+      "Emotional",
+      "Casual"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 11666,
+    "review_negative": 603,
+    "review_total": 12269,
+    "review_positive_percent": 95.09
+  }
+}

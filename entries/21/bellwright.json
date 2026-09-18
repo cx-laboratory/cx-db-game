@@ -1,0 +1,212 @@
+{
+  "key": "bellwright",
+  "name": "Bellwright",
+  "description": "Establish and expand your own settlements, liberate the land and assist its villagers, and recruit others to your cause while learning more about a life you had to leave behind. Command your forces, prove your valor through combat, and cement yourself as the hero of your people.",
+  "developers": [
+    "Donkey Crew"
+  ],
+  "publishers": [
+    "Donkey Crew"
+  ],
+  "release_date": "2024-04-23",
+  "website": "http://playbellwright.com/",
+  "tags": [
+    "action",
+    "rpg",
+    "simulation",
+    "strategy",
+    "early-access",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "survival",
+    "open-world",
+    "city-builder",
+    "medieval",
+    "crafting",
+    "building",
+    "life-sim",
+    "exploration",
+    "singleplayer",
+    "third-person",
+    "war",
+    "3d"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "romanian",
+    "turkish",
+    "arabic",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "颂钟长鸣"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "BellwrightGame.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "BellwrightGame.exe",
+          "description": "Bellwright (Skip loading mods)",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Bellwright/Saved/SaveGames/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Bellwright",
+    "BellwrightGame",
+    "颂钟长鸣"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1812450/2facc4416db9e25a20c326c00ce06b2bdea6006c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812450/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812450/c479dda6fcd1e9edf38fe18a02ca21aab153664e/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812450/b375ba04369b48deeab2a2af8c251ca9f8dd7b8e/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812450/fb4864eb3fd0a030a68ec1c4841be140df428c9e/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812450/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812450/066cd430d902453ba14802581c25b4def16fd1fc/ss_066cd430d902453ba14802581c25b4def16fd1fc.1920x1080.jpg?t=1782335635"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812450/771dfca2656026a8778f3f75651832c305f9375d/ss_771dfca2656026a8778f3f75651832c305f9375d.1920x1080.jpg?t=1782335635"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812450/ss_01d5217f3736701fc4a29c7ab208c2959e84407c.1920x1080.jpg?t=1782335635"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812450/a5ac3c62f0df5cd9b48c83f13e841881b61b7b05/ss_a5ac3c62f0df5cd9b48c83f13e841881b61b7b05.1920x1080.jpg?t=1782335635"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812450/b48161a3aa4c54b17653bb34008f17bc675f3459/ss_b48161a3aa4c54b17653bb34008f17bc675f3459.1920x1080.jpg?t=1782335635"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812450/ss_4b6c8943bb1b8810a0b9756553cfa80261cdd0dd.1920x1080.jpg?t=1782335635"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812450/ss_90b1f04d9e0552459d2e8f714f2066c362d726bb.1920x1080.jpg?t=1782335635"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812450/4c0af08fc8c94912cadcc9e642db0523a253b445/ss_4c0af08fc8c94912cadcc9e642db0523a253b445.1920x1080.jpg?t=1782335635"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812450/ss_ece3360f76686c06999da7f56f315427e8bca5e6.1920x1080.jpg?t=1782335635"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812450/fef0947def265a804166d767ccd3b0ac3716fa75/ss_fef0947def265a804166d767ccd3b0ac3716fa75.1920x1080.jpg?t=1782335635"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812450/ss_336e446c75698d960c588a2dfb029e38cbbe267c.1920x1080.jpg?t=1782335635"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Bellwright | Summer 2026",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257355403/a6e014cf99015b3f944006fe04b9c7d8df711bd3/movie_600x337.jpg?t=1781123579",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1812450/1032869980/1accebc4fe6cd041aee167967a7316419902f25f/1781118241/dash_h264.mpd?t=1781123579"
+    },
+    {
+      "name": "Bellwright Trailer | Maiden Voyage",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257243284/4888e1c83e5ebd6401dc22e4580b5342079243ac/movie_600x337.jpg?t=1765310422",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1812450/30544638/219b2742e61e17f2418d2a7af597cf5c6a15e8ab/1764805202/dash_h264.mpd?t=1765310422"
+    },
+    {
+      "name": "Bellwright | Maiden Voyage | Available Now",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257245945/c79dad7d495574db2c1b2685cf144b43590f2e7e/movie_600x337.jpg?t=1765310419",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1812450/1032987928/813c81a6dbc83c7029a7b03f28f71232ce1528b7/1765301710/dash_h264.mpd?t=1765310419"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1812450,
+    "store_url": "https://store.steampowered.com/app/1812450/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "RPG",
+      "Simulation",
+      "Strategy",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Stereo Sound",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Survival",
+      "Open World",
+      "City Builder",
+      "Medieval",
+      "Crafting",
+      "Online Co-Op",
+      "Multiplayer",
+      "Building",
+      "Simulation",
+      "RPG",
+      "Co-op",
+      "Strategy",
+      "Life Sim",
+      "Exploration",
+      "Singleplayer",
+      "Action",
+      "Early Access",
+      "Third Person",
+      "War",
+      "3D"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 16578,
+    "review_negative": 4054,
+    "review_total": 20632,
+    "review_positive_percent": 80.35
+  }
+}

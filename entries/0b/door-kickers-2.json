@@ -1,0 +1,310 @@
+{
+  "key": "door-kickers-2",
+  "name": "Door Kickers 2",
+  "description": "Command military Special Ops Teams in gripping tactical combat against a Middle East-based terrorist network. Sequel to RockPaperShotgun's &quot;Best Tactics Game of 2014&quot;.",
+  "developers": [
+    "KillHouse Games"
+  ],
+  "publishers": [
+    "KillHouse Games"
+  ],
+  "release_date": "2025-02-10",
+  "website": "https://inthekillhouse.com",
+  "tags": [
+    "action",
+    "indie",
+    "simulation",
+    "strategy",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "tactical",
+    "top-down",
+    "real-time-tactics",
+    "military",
+    "real-time-with-pause",
+    "moddable",
+    "level-editor",
+    "war",
+    "action-rts",
+    "top-down-shooter",
+    "rts",
+    "violent",
+    "singleplayer",
+    "gore",
+    "early-access"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "破门而入2：北方特遣队",
+    "tchinese": "破门而入2：北方特遣队"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "DoorKickers2.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "win32_runtime/DoorKickers2.exe",
+          "description": "Launch 32bit",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "KillHouseGames/DoorKickers2",
+          "pattern": "roster.xml",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "KillHouseGames/DoorKickers2",
+          "pattern": "unlocked.xml",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "KillHouseGames/DoorKickers2",
+          "pattern": "mapsaves.xml",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "KillHouseGames/DoorKickers2",
+          "pattern": "campaign_history.xml",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "KillHouseGames/DoorKickers2",
+          "pattern": "campaign.xml",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "runtime_macos/DoorKickers2.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "KillHouseGames/DoorKickers2",
+          "pattern": "roster.xml",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "KillHouseGames/DoorKickers2",
+          "pattern": "unlocked.xml",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "KillHouseGames/DoorKickers2",
+          "pattern": "mapsaves.xml",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "KillHouseGames/DoorKickers2",
+          "pattern": "campaign_history.xml",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "KillHouseGames/DoorKickers2",
+          "pattern": "campaign.xml",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Door Kickers 2",
+    "DoorKickers2",
+    "win32_runtime/DoorKickers2",
+    "runtime_macos/DoorKickers2.app",
+    "破门而入2：北方特遣队"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1239080/96c4d0baad05b41de29a2dd135dc848f0b79aa06.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239080/9a6301deb0dd6483c4c43667c6f989b7cc062bd9/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239080/d58abe49d61250d817e0387dd9868df4bf8f1a61/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239080/d79db2025c3acf2460a8e746a4595d1d9e83e420/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239080/934aae97d96570dfde265c07e9e27eb76d044337/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239080/e420077199e19a846de103d328074d9160d9b47b/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239080/ss_5cf03dc7a0ee5f05acef849354fea30309aa0d02.1920x1080.jpg?t=1757581897"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239080/ss_ee5c78b8ff009eee72dff4b6b20207caba6ff3aa.1920x1080.jpg?t=1757581897"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239080/ss_49b56309d6b0b799a148896639e74f2a7ab27bf9.1920x1080.jpg?t=1757581897"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239080/ss_adfd7f8992fae2b4f0425546bc22fc6dae1f232f.1920x1080.jpg?t=1757581897"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239080/ss_1c15db8c8ce9da057cf8d121284981e239aebf64.1920x1080.jpg?t=1757581897"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239080/ss_7cd8cb2b7b7064ec184ee780890dd9e6829c7946.1920x1080.jpg?t=1757581897"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239080/ss_fa2c86c7be1c99f8bdf1f0a445627521d86d3dc9.1920x1080.jpg?t=1757581897"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239080/ss_cd07cde468ec5a21411b01b715a5344122c903d5.1920x1080.jpg?t=1757581897"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239080/ss_c99b7915b8d7e531407ab17d248146c36dae529d.1920x1080.jpg?t=1757581897"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239080/ss_b5684cb21e49e1bfee6cbdfcd9384f8180a868b5.1920x1080.jpg?t=1757581897"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239080/ss_771406a0e2dcad0a701f8c6c5d55352f2c178224.1920x1080.jpg?t=1757581897"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239080/ss_517cf841d1ccded40ddb69e908b4f4b87f4e5bc0.1920x1080.jpg?t=1757581897"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239080/ss_a68659e57a205a2023254188165cac7f5c1b098c.1920x1080.jpg?t=1757581897"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239080/ss_aa8363671f5efd82208d7ce1eb91ed50a1494507.1920x1080.jpg?t=1757581897"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239080/ss_6297e11017a38d9232f027e3eba5a550894b1b57.1920x1080.jpg?t=1757581897"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239080/ss_a9cd6a298145a628254fb8306f9ec882fcceb0b7.1920x1080.jpg?t=1757581897"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239080/ss_04a6f003b2ad2470b523b0e8c00b78c639d6b1de.1920x1080.jpg?t=1757581897"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239080/ss_ae81957128a40556c2d92869bab8e4794b7561a0.1920x1080.jpg?t=1757581897"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1239080/ss_373639e3ef26b508cfe82b6fa03440bd799dfd40.1920x1080.jpg?t=1757581897"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Full Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257096187/a614922a6cc7ab67ce6ca00bd10e0569774ecc03/movie_600x337.jpg?t=1739193701",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1239080/825613/7deaab87427e8f129bcd0d71a0e8357d5457bdf3/1750648097/dash_h264.mpd?t=1739193701"
+    },
+    {
+      "name": "Early Access Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256807864/movie.293x165.jpg?t=1604439660",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1239080/323816/b10d7cf71a2eb3adf64728bdf8eace7bae39a52a/1750648051/dash_h264.mpd?t=1604439660"
+    },
+    {
+      "name": "Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256917795/movie.293x165.jpg?t=1669327935",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1239080/516573/f29134ec5052252e04cdfea1327ddbb2b219ef22/1750648096/dash_h264.mpd?t=1669327935"
+    },
+    {
+      "name": "Workshop Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256859222/movie.293x165.jpg?t=1636146133",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1239080/414870/73db2f47ac9ad487af755cffee36d6f763dd263a/1750648053/dash_h264.mpd?t=1636146133"
+    },
+    {
+      "name": "Editor Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256862086/movie.293x165.jpg?t=1637908166",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1239080/419857/19b88c383b52d615502ad0aa5a655fec56a89389/1750648077/dash_h264.mpd?t=1637908166"
+    }
+  ],
+  "metacritic": {
+    "score": 84,
+    "url": "https://www.metacritic.com/game/pc/door-kickers-2-task-force-north?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1239080,
+    "store_url": "https://store.steampowered.com/app/1239080/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Stats",
+      "Includes level editor",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Tactical",
+      "Top-Down",
+      "Real Time Tactics",
+      "Military",
+      "Real-Time with Pause",
+      "Action",
+      "Moddable",
+      "Strategy",
+      "Co-op",
+      "Indie",
+      "Level Editor",
+      "War",
+      "Action RTS",
+      "Top-Down Shooter",
+      "Multiplayer",
+      "RTS",
+      "Violent",
+      "Singleplayer",
+      "Gore",
+      "Early Access"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 12759,
+    "review_negative": 520,
+    "review_total": 13279,
+    "review_positive_percent": 96.08
+  }
+}

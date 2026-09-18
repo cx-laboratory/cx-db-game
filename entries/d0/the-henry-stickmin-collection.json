@@ -1,0 +1,179 @@
+{
+  "key": "the-henry-stickmin-collection",
+  "name": "The Henry Stickmin Collection",
+  "description": "A choose-your-own-path where failing is more fun than succeeding.",
+  "developers": [
+    "PuffballsUnited"
+  ],
+  "publishers": [
+    "Innersloth"
+  ],
+  "release_date": "2020-08-07",
+  "website": "http://innersloth.com/gameHenryCollection.php",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "funny",
+    "multiple-endings",
+    "choose-your-own-adventure",
+    "memes",
+    "comedy",
+    "choices-matter",
+    "singleplayer",
+    "classic",
+    "point-and-click",
+    "2d",
+    "epic",
+    "hand-drawn",
+    "family-friendly",
+    "action",
+    "interactive-fiction",
+    "parody",
+    "old-school"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "HenryStickmin.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "com.innersloth.henry.HenryFlash/Local Store",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "HenryStickmin.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "com.innersloth.henry.HenryFlash/Local Store",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The Henry Stickmin Collection",
+    "HenryStickmin",
+    "HenryStickmin.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1089980/7d4a1943cb0b40413ae66f83ce943d82f4962321.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089980/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089980/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089980/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089980/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089980/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089980/ss_e8448c971d2cd9cac91e6f4e451b2886a40fcc69.1920x1080.jpg?t=1781289354"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089980/ss_9692cdda55dde547314f583905deb2099275d967.1920x1080.jpg?t=1781289354"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089980/ss_2cc710236e5a3f9beb9f7ec53bc9129d86f6e36b.1920x1080.jpg?t=1781289354"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089980/ss_feebecca4b7aa568e2ac2c3d0aa0a60795addf56.1920x1080.jpg?t=1781289354"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089980/ss_0663fe143c265c55f07c62296e0c139dcbe628ed.1920x1080.jpg?t=1781289354"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089980/ss_25c778fa1cad3942dec81039f1c132d68675d514.1920x1080.jpg?t=1781289354"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089980/ss_f3d57361007e586c610f4ee5c011aff5196940f5.1920x1080.jpg?t=1781289354"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Henry Stickmin Collection Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256795589/movie.293x165.jpg?t=1596760000",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1089980/303088/11f62e45b3d1c075d8af74d45ca8453cb1cd6fa2/1750616048/dash_h264.mpd?t=1596760000"
+    },
+    {
+      "name": "The Henry Stickmin Collection Announcement",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256757352/movie.293x165.jpg?t=1564103008",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1089980/235045/884c94fae5ead9a07d1e082f5539e24f09449fe0/1750616045/dash_h264.mpd?t=1564103008"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1089980,
+    "store_url": "https://store.steampowered.com/app/1089980/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Captions available",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Funny",
+      "Multiple Endings",
+      "Choose Your Own Adventure",
+      "Memes",
+      "Comedy",
+      "Choices Matter",
+      "Singleplayer",
+      "Classic",
+      "Point & Click",
+      "2D",
+      "Epic",
+      "Hand-drawn",
+      "Indie",
+      "Adventure",
+      "Family Friendly",
+      "Action",
+      "Interactive Fiction",
+      "Casual",
+      "Parody ",
+      "Old School"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 57459,
+    "review_negative": 767,
+    "review_total": 58226,
+    "review_positive_percent": 98.68
+  }
+}

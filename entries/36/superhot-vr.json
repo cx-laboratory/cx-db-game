@@ -1,0 +1,199 @@
+{
+  "key": "superhot-vr",
+  "name": "SUPERHOT VR",
+  "description": "Lose track of what’s real. Commit yourself, body and mind. Confront the evocative, elegantly brutal world of SUPERHOT VR. Enemies pouring into the room from all sides, dozens of bullets coursing through the air... Wait. Something seems different in here...",
+  "developers": [
+    "SUPERHOT Team"
+  ],
+  "publishers": [
+    "SUPERHOT Team"
+  ],
+  "release_date": "2017-05-25",
+  "website": "https://superhotgame.com",
+  "tags": [
+    "action",
+    "indie",
+    "vr",
+    "shooter",
+    "bullet-time",
+    "fps",
+    "puzzle",
+    "time-manipulation",
+    "first-person",
+    "atmospheric",
+    "cyberpunk",
+    "cinematic",
+    "singleplayer",
+    "minimalist",
+    "sci-fi",
+    "adventure",
+    "artificial-intelligence",
+    "combat",
+    "hero-shooter",
+    "old-school",
+    "retro"
+  ],
+  "supported_platforms": [
+    "windows",
+    "android"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SUPERHOTVR.exe",
+          "description": "",
+          "type": "vr"
+        },
+        {
+          "executable": "SUPERHOT-Launcher.lnk",
+          "description": "SUPERHOT Reworked VR Launcher",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "android": {
+      "launch": [
+        {
+          "executable": "SUPERHOTVR.exe",
+          "description": "",
+          "type": "vr"
+        },
+        {
+          "executable": "shvr.apk",
+          "description": "",
+          "type": "openxr"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "SUPERHOT VR",
+    "SUPERHOTVR",
+    "SUPERHOT-Launcher.lnk",
+    "shvr.apk"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/617830/5bb403a4548a6e95e0d8115d2df8bee782ef6b71.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617830/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617830/3c9601945eb03810a9c99a0189abcd0986e9f382/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617830/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617830/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617830/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617830/ss_4b3a840f1b1865066a1723c9b1a35d20af487f1d.1920x1080.jpg?t=1726509081"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617830/ss_6f08622e9dce0b8d03f52b249df81a7c5b293f4e.1920x1080.jpg?t=1726509081"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617830/ss_ff098e22d95090cf6ec23cfc788a7d056f9f6705.1920x1080.jpg?t=1726509081"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617830/ss_10e9a16266485b0e2a8280bf87558d37306585fe.1920x1080.jpg?t=1726509081"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617830/ss_10d972067c6b5de3033da051046863eecd3a3f58.1920x1080.jpg?t=1726509081"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617830/ss_a1bdd0d675730f3902626c08253355b11b01c59a.1920x1080.jpg?t=1726509081"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617830/ss_c7486ff53d10ccc9e54fd429c87c27635a19cb47.1920x1080.jpg?t=1726509081"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617830/ss_14b83b7eae84233c2428b67bb089347c187443a5.1920x1080.jpg?t=1726509081"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617830/ss_07f4b9c86c68f88e5dcb1d71c57751ce15b6aee7.1920x1080.jpg?t=1726509081"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/617830/ss_353b6e1979ef9c47ab9c2ee3ff61cd4ad015c6c7.1920x1080.jpg?t=1726509081"
+    }
+  ],
+  "videos": [
+    {
+      "name": "SUPERHOT VR - Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256739189/movie.293x165.jpg?t=1683786517",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/617830/202201/a2c68b104a006c9b4d8e4b240116ea614d9647cb/1750563157/dash_h264.mpd?t=1683786517"
+    },
+    {
+      "name": "SUPERHOT VR Boxing Day Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256813119/movie.293x165.jpg?t=1683786521",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/617830/332723/9884048d98342c4f520d33bc8e30c693e36633ea/1750563176/dash_h264.mpd?t=1683786521"
+    }
+  ],
+  "metacritic": {
+    "score": 83,
+    "url": "https://www.metacritic.com/game/pc/superhot-vr?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 617830,
+    "store_url": "https://store.steampowered.com/app/617830/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Tracked Controller Support",
+      "VR Supported",
+      "SteamVR Collectibles",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "VR",
+      "Shooter",
+      "Bullet Time",
+      "FPS",
+      "Puzzle",
+      "Time Manipulation",
+      "First-Person",
+      "Atmospheric",
+      "Cyberpunk",
+      "Action",
+      "Cinematic",
+      "Singleplayer",
+      "Minimalist",
+      "Sci-fi",
+      "Adventure",
+      "Artificial Intelligence",
+      "Combat",
+      "Hero Shooter",
+      "Old School",
+      "Retro"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7865,
+    "review_negative": 1729,
+    "review_total": 9594,
+    "review_positive_percent": 81.98
+  }
+}

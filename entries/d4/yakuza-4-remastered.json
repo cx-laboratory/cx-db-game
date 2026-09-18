@@ -1,0 +1,119 @@
+{
+  "key": "yakuza-4-remastered",
+  "name": "Yakuza 4 Remastered",
+  "description": "When a dark secret brings a loan shark, a death-row inmate, a corrupt cop and the legendary yakuza Kazuma Kiryu together the resulting war in Kamurocho might level the district to the ground.",
+  "developers": [
+    "RGG Studio"
+  ],
+  "publishers": [
+    "SEGA"
+  ],
+  "release_date": "2021-01-28",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "koreana",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "japanese": "龍が如く４　伝説を継ぐもの",
+    "schinese": "人中之龙４　继承传说者",
+    "tchinese": "人中之龍４　繼承傳說者",
+    "koreana": "용과 같이4 전설을 잇는 자"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Yakuza4.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Yakuza 4 Remastered",
+    "Yakuza4",
+    "龍が如く４　伝説を継ぐもの",
+    "人中之龙４　继承传说者",
+    "人中之龍４　繼承傳說者",
+    "용과 같이4 전설을 잇는 자"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1105500/9c0917bca10b54193100c6e8071bc45c8c49d095.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105500/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105500/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105500/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105500/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105500/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105500/ss_c42a9361e867fdab12d2eec8592ebb09a70a813d.1920x1080.jpg?t=1781264394"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105500/ss_7a8d6d26b33e07354ba7d386fcd5906e19696b36.1920x1080.jpg?t=1781264394"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105500/ss_e550d9df4d17bda46542d07ddfe63d29dc47b4c2.1920x1080.jpg?t=1781264394"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105500/ss_d52ee44975136131e29e40db1a40128f7dc30a65.1920x1080.jpg?t=1781264394"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105500/ss_e815d4269d43bb5d54ec8bb74eb25b2393d5de01.1920x1080.jpg?t=1781264394"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Yakuza Bundle ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256820041/movie.293x165.jpg?t=1611846179",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1105500/343892/2e7f8fab7c31360e4b031890c85b269c26f8cb33/1750619967/dash_h264.mpd?t=1611846179"
+    },
+    {
+      "name": "Yakuza 4 Rmstd Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256813051/movie.293x165.jpg?t=1716552497",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1105500/332629/ee85f4ea7cdd29c8c49034f84e24c46456e64c6e/1750619948/dash_h264.mpd?t=1716552497"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1105500,
+    "store_url": "https://store.steampowered.com/app/1105500/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 6654,
+    "review_negative": 696,
+    "review_total": 7350,
+    "review_positive_percent": 90.53
+  }
+}

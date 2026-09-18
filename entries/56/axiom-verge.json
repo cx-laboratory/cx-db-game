@@ -1,0 +1,211 @@
+{
+  "key": "axiom-verge",
+  "name": "Axiom Verge",
+  "description": "Explore and uncover the mystery of a surreal alien world by blasting aliens and glitching your environment in this intense retro side-scrolling action/adventure.",
+  "developers": [
+    "Thomas Happ Games LLC"
+  ],
+  "publishers": [
+    "Thomas Happ Games LLC"
+  ],
+  "release_date": "2015-05-14",
+  "website": "http://www.axiomverge.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "metroidvania",
+    "pixel-graphics",
+    "platformer",
+    "great-soundtrack",
+    "2d",
+    "sci-fi",
+    "retro",
+    "exploration",
+    "singleplayer",
+    "atmospheric",
+    "cyberpunk",
+    "side-scroller",
+    "difficult",
+    "aliens",
+    "shooter",
+    "horror",
+    "story-rich"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Portuguese - Brazil",
+    "Russian",
+    "Japanese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "AxiomVerge.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "AxiomVerge.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "AxiomVerge",
+          "description": "with Vulkan (default)",
+          "type": "option1"
+        },
+        {
+          "executable": "AxiomVerge",
+          "description": "with OpenGL",
+          "type": "option2"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Axiom Verge",
+    "AxiomVerge",
+    "AxiomVerge.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/332200/daa500b0c841a769a8012376e17648dd88813438.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332200/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332200/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332200/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332200/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332200/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332200/ss_978607583bf147d520f488bb9acdb1c00ea3349b.1920x1080.jpg?t=1645563574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332200/ss_6fa9f9993bd867660e70f42f4e37f66c1359feb1.1920x1080.jpg?t=1645563574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332200/ss_8c53e6096552ecc60f875f6d4bdf3d60215f8ad5.1920x1080.jpg?t=1645563574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332200/ss_1f481f0be3273cc9dca73a054e4745740cefda59.1920x1080.jpg?t=1645563574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332200/ss_4aaaa46e1448faa76504c80bc2622fa57dc0aaff.1920x1080.jpg?t=1645563574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332200/ss_967afb29b7e117b08b931c850251daba3da86df9.1920x1080.jpg?t=1645563574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332200/ss_20907cb99b0c7a099bf32d228d6b00fc61a927f9.1920x1080.jpg?t=1645563574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332200/ss_6cae3d745e59c68ad122e69986ae34c12b3298de.1920x1080.jpg?t=1645563574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332200/ss_89f22074c804e97cc7fd1ef7a2ef535e7d5ef00e.1920x1080.jpg?t=1645563574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332200/ss_a8e6cef725224613bec89b55a0db169532490766.1920x1080.jpg?t=1645563574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332200/ss_9c8fae94bfc543ddd125f5f958d96f4376222dc7.1920x1080.jpg?t=1645563574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332200/ss_49d0b144fd2d2ef23104130f7917d2001b488c83.1920x1080.jpg?t=1645563574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332200/ss_9aac92ee9a9e7b7593cf8a53a160c671defa0c42.1920x1080.jpg?t=1645563574"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2038760/movie.293x165.jpg?t=1447373333",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/332200/34742/57dee16c6ccfe23fb9e81800a3c4f9685b6b9276/1751272611/dash_h264.mpd?t=1447373333"
+    },
+    {
+      "name": "Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2038635/movie.293x165.jpg?t=1447373061",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/332200/34491/78cfaf879d7b076d683e86ce965cb4da5d4114d9/1751272608/dash_h264.mpd?t=1447373061"
+    }
+  ],
+  "metacritic": {
+    "score": 80,
+    "url": "https://www.metacritic.com/game/pc/axiom-verge?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 332200,
+    "store_url": "https://store.steampowered.com/app/332200/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Metroidvania",
+      "Indie",
+      "Pixel Graphics",
+      "Platformer",
+      "Great Soundtrack",
+      "Action",
+      "2D",
+      "Sci-fi",
+      "Adventure",
+      "Retro",
+      "Exploration",
+      "Singleplayer",
+      "Atmospheric",
+      "Cyberpunk",
+      "Side Scroller",
+      "Difficult",
+      "Aliens",
+      "Shooter",
+      "Horror",
+      "Story Rich"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 5901,
+    "review_negative": 640,
+    "review_total": 6541,
+    "review_positive_percent": 90.22
+  }
+}

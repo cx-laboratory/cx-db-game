@@ -1,0 +1,193 @@
+{
+  "key": "steamworld-dig",
+  "name": "SteamWorld Dig",
+  "description": "SteamWorld Dig is an action-adventure puzzler with strong Metroidvanian influences set in the SteamWorld Universe. You’ll need to dig deep into the earth, gather resources to upgrade your tools and abilities, take on enemies, solve challenging puzzles and uncover the secrets to save a dying town.",
+  "developers": [
+    "Image &amp; Form Games"
+  ],
+  "publishers": [
+    "Image &amp; Form Games"
+  ],
+  "release_date": "2013-12-06",
+  "website": "http://steamworldgames.com/dig/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "platformer",
+    "mining",
+    "metroidvania",
+    "steampunk",
+    "western",
+    "2d",
+    "robots",
+    "singleplayer",
+    "exploration",
+    "short",
+    "casual",
+    "sci-fi",
+    "side-scroller",
+    "controller",
+    "great-soundtrack",
+    "sandbox",
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian",
+    "japanese",
+    "polish",
+    "hungarian",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SteamWorldDig.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "SteamWorld Dig.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "SteamWorldDig",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "SteamWorld Dig",
+    "SteamWorldDig",
+    "SteamWorld Dig.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/252410/7757c90bbf65e312ea4871106250077e78007bc6.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252410/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252410/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252410/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252410/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252410/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252410/ss_d68bda43fabeb368a4b27d0e98beb9195ccbe360.1920x1080.jpg?t=1750855239"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252410/ss_b03e0452ea16e460ea4cc18fd8ccd6647de1ba98.1920x1080.jpg?t=1750855239"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252410/ss_20913ce72c771b92779adac2024847251c7e37b7.1920x1080.jpg?t=1750855239"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252410/ss_a443439ccd5c33103eda22fd2ae50a5104951677.1920x1080.jpg?t=1750855239"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252410/ss_c0aab5de5b639e115a3acee96740eaac83af22f3.1920x1080.jpg?t=1750855239"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252410/ss_45b1664274405aacf12fd4d03a67c402ad45e931.1920x1080.jpg?t=1750855239"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252410/ss_caa14532269b0a8c37ae6dbb4895e6aa7f4fce3c.1920x1080.jpg?t=1750855239"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252410/ss_1b60370fcfc34af974abe8a8eb2597d36eb523dc.1920x1080.jpg?t=1750855239"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252410/ss_7d435618465eb1065565d34cc7248b693e489542.1920x1080.jpg?t=1750855239"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252410/ss_b08aae708b5882e0ce95d04193c1083cfb3ebe40.1920x1080.jpg?t=1750855239"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2030294/movie.293x165.jpg?t=1447359653",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/252410/15614/644ef072bc8a8d435ac4da9ef697b88e83d2292d/1750487764/dash_h264.mpd?t=1447359653"
+    }
+  ],
+  "metacritic": {
+    "score": 76,
+    "url": "https://www.metacritic.com/game/pc/steamworld-dig?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 252410,
+    "store_url": "https://store.steampowered.com/app/252410/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Platformer",
+      "Mining",
+      "Metroidvania",
+      "Steampunk",
+      "Indie",
+      "Adventure",
+      "Western",
+      "2D",
+      "Robots",
+      "Action",
+      "Singleplayer",
+      "Exploration",
+      "Short",
+      "Casual",
+      "Sci-fi",
+      "Side Scroller",
+      "Controller",
+      "Great Soundtrack",
+      "Sandbox",
+      "RPG"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 10183,
+    "review_negative": 700,
+    "review_total": 10883,
+    "review_positive_percent": 93.57
+  }
+}

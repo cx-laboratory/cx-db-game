@@ -1,0 +1,215 @@
+{
+  "key": "shape-of-dreams",
+  "name": "Shape of Dreams",
+  "description": "Shape of Dreams delivers fast-paced top-down roguelite action with chaotic projectile-filled battles, fluid combat, and high-stakes co-op. Play solo or with up to three friends as you dodge overwhelming attacks and unleash devastating builds.",
+  "developers": [
+    "Lizard Smoothie"
+  ],
+  "publishers": [
+    "NEOWIZ"
+  ],
+  "release_date": "2025-09-11",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "roguelike",
+    "action-roguelike",
+    "hack-and-slash",
+    "pve",
+    "roguelite",
+    "moba",
+    "top-down",
+    "dungeon-crawler",
+    "3d",
+    "surreal",
+    "colorful",
+    "stylized",
+    "fantasy",
+    "magic",
+    "combat",
+    "action-rpg"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "turkish",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "梦之形",
+    "tchinese": "夢之形"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Shape of Dreams.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Lizard Smoothie/Shape of Dreams/QuickSave",
+          "pattern": "dl_profile*.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Lizard Smoothie/Shape of Dreams/QuickSave",
+          "pattern": "dl_items.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Lizard Smoothie/Shape of Dreams/QuickSave",
+          "pattern": "r_profile*.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Lizard Smoothie/Shape of Dreams/QuickSave",
+          "pattern": "r_items.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Lizard Smoothie/Shape of Dreams/QuickSave",
+          "pattern": "r_continue*.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Lizard Smoothie/Shape of Dreams/QuickSave",
+          "pattern": "r_stats*.json",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Shape of Dreams",
+    "梦之形",
+    "夢之形"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2444750/d3ce738e87bae5369f078abed5cac1b5a50c21ad.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/5bc7a26bae1be9b27bf38c75b425d42bc8f75178/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/b1a6e28c147d9632d38ac54a93f3563a1b4f175c/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/9a39a8afb673971f68fa7e2c5cfe904957bab1de/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/56f637ccf13bc1d75cd3c21cfa5fabdf6266ba47/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/5156a80aa77260b453c484b3a2c253d443ec7890/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/fe30277750c2539069d33e99f23d601525527821/ss_fe30277750c2539069d33e99f23d601525527821.1920x1080.jpg?t=1782869868"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/8fd751bb07e2e21c207cf40e21c3e684bb7e8b85/ss_8fd751bb07e2e21c207cf40e21c3e684bb7e8b85.1920x1080.jpg?t=1782869868"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/3d39f07615e2da0c1abd995d4e5727b77dcd0280/ss_3d39f07615e2da0c1abd995d4e5727b77dcd0280.1920x1080.jpg?t=1782869868"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/d2c5dd061eeeb56c56f813c7dcaa899023734dda/ss_d2c5dd061eeeb56c56f813c7dcaa899023734dda.1920x1080.jpg?t=1782869868"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/88e525dd904c0e0aa38c6a05b135fbcef1550547/ss_88e525dd904c0e0aa38c6a05b135fbcef1550547.1920x1080.jpg?t=1782869868"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Shape of Dreams",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257195944/8ea67ef7a4a77e6664033fa030c4c637dc7ba99d/movie_600x337.jpg?t=1757559761",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2444750/1799289093/f3e4df274d0fd2243fad6ce423aa4087e66b006f/1757558203/dash_h264.mpd?t=1757559761"
+    },
+    {
+      "name": "Shape of Dreams",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257184796/c0a28d4ff2227b9428204cf4ce07dec26a65e5fe/movie_600x337.jpg?t=1755842064",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2444750/1190012828/03c8f0ee9d1348d4eea360dd0bd1609add54ceba/1755675873/dash_h264.mpd?t=1755842064"
+    },
+    {
+      "name": "Shape of Dreams",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257076658/35a790708c4182cce1add45de00b8bd1c636c514/movie_600x337.jpg?t=1732608782",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2444750/791193/c73b9ef36819164fac28ada1c7897207277bb0c2/1750919781/dash_h264.mpd?t=1732608782"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2444750,
+    "store_url": "https://store.steampowered.com/app/2444750/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Hack and Slash",
+      "PvE",
+      "Co-op",
+      "Roguelite",
+      "MOBA",
+      "Action",
+      "Top-Down",
+      "Dungeon Crawler",
+      "3D",
+      "Surreal",
+      "Colorful",
+      "Stylized",
+      "Fantasy",
+      "Magic",
+      "Multiplayer",
+      "Combat",
+      "Online Co-Op",
+      "RPG",
+      "Action RPG"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 17598,
+    "review_negative": 1966,
+    "review_total": 19564,
+    "review_positive_percent": 89.95
+  }
+}

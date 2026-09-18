@@ -1,0 +1,153 @@
+{
+  "key": "left-on-read",
+  "name": "Left on Read",
+  "description": "It’s March of 2020; you were just sent home from college because of the coronavirus, you have a few small regrets, mainly not telling someone how you really feel.",
+  "developers": [
+    "Weston Bell-Geddes"
+  ],
+  "publishers": [
+    "Spookulele Games"
+  ],
+  "release_date": "2020-05-19",
+  "website": "https://leftonreadga.me",
+  "tags": [
+    "adventure",
+    "casual",
+    "free-to-play",
+    "indie",
+    "rpg",
+    "simulation",
+    "romance",
+    "choices-matter",
+    "choose-your-own-adventure",
+    "emotional",
+    "platformer",
+    "story-rich",
+    "interactive-fiction",
+    "singleplayer",
+    "memes",
+    "horror",
+    "short",
+    "2d-platformer",
+    "funny"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "LeftOnRead\\WIN\\LeftOnRead.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "LeftOnRead\\MAC\\MAC.app\\Contents\\MacOS\\LeftOnRead",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Left on Read",
+    "LeftOnRead\\WIN\\LeftOnRead",
+    "LeftOnRead\\MAC\\MAC.app\\Contents\\MacOS\\LeftOnRead"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1306580/133d7df8ca5876bae3467525311986840344303c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1306580/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1306580/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1306580/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1306580/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1306580/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1306580/ss_168f6a3dac8e8bff1d9c5fa0d29bd6353eb4e624.1920x1080.jpg?t=1628482140"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1306580/ss_07413cf22a503b14290dc1539430b03abc40cafe.1920x1080.jpg?t=1628482140"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1306580/ss_c7ad81493ae4c3f55dfbd3874b3e51bd8a9aea32.1920x1080.jpg?t=1628482140"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1306580/ss_f8c970653053bcf4b282edea07c839923ce56537.1920x1080.jpg?t=1628482140"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1306580/ss_a1c564bb1086c022fe4625674f0b91195c20b601.1920x1080.jpg?t=1628482140"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Left on Read Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256783296/movie.293x165.jpg?t=1590111330",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1306580/281510/1426f26c10bbe5128a38848476bf97106e8456b1/1751218899/dash_h264.mpd?t=1590111330"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1306580,
+    "store_url": "https://store.steampowered.com/app/1306580/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Free To Play",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Romance",
+      "Simulation",
+      "Choices Matter",
+      "Casual",
+      "Choose Your Own Adventure",
+      "Indie",
+      "Adventure",
+      "Emotional",
+      "Psychological Horror",
+      "Platformer",
+      "RPG",
+      "Story Rich",
+      "Interactive Fiction",
+      "Singleplayer",
+      "Memes",
+      "Horror",
+      "Short",
+      "2D Platformer",
+      "Funny"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 4185,
+    "review_negative": 1071,
+    "review_total": 5256,
+    "review_positive_percent": 79.62
+  }
+}

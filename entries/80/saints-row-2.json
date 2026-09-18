@@ -1,0 +1,141 @@
+{
+  "key": "saints-row-2",
+  "name": "Saints Row 2",
+  "description": "Saints Row 2 brings true freedom to open-world gaming. Players can play as who they want, how they want, and with whomever they want in this sequel to the much acclaimed and tremendously successful Saints Row.",
+  "developers": [
+    "Volition"
+  ],
+  "publishers": [
+    "Deep Silver"
+  ],
+  "release_date": "2009-01-29",
+  "website": "http://www.saintsrow.com/",
+  "tags": [
+    "action"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish - Spain",
+    "Dutch",
+    "Danish",
+    "Swedish",
+    "Russian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "sr2_pc.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "./saintsrow2",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Saints Row 2",
+    "sr2_pc",
+    "./saintsrow2"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/9480/1a0aef912300d396a67f9eda9d8b4e66c41c9891.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9480/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9480/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9480/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9480/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9480/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9480/0000005027.1920x1080.jpg?t=1764670917"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9480/0000005028.1920x1080.jpg?t=1764670917"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9480/0000005029.1920x1080.jpg?t=1764670917"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9480/0000005030.1920x1080.jpg?t=1764670917"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9480/0000005031.1920x1080.jpg?t=1764670917"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9480/0000005032.1920x1080.jpg?t=1764670917"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9480/0000005033.1920x1080.jpg?t=1764670917"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9480/0000005034.1920x1080.jpg?t=1764670917"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9480/ss_8642a934d11947f1003e0df38b8a8d63528aa7c4.1920x1080.jpg?t=1764670917"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9480/ss_6da248ef75c99fd7e6f9c729bc83f7831fc89ba2.1920x1080.jpg?t=1764670917"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Saints Row 2 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5115/movie.jpg?t=1447351417",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/9480/1236/3cd4d1286c4ec76bd21100d3cc79a8679d2a77f6/1750484237/dash_h264.mpd?t=1447351417"
+    },
+    {
+      "name": "Saints Row 2 Gangs Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5116/movie.jpg?t=1447351417",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/9480/1237/c2acb106381d4a3f499eac5794c63d1521ded389/1750484243/dash_h264.mpd?t=1447351417"
+    }
+  ],
+  "metacritic": {
+    "score": 72,
+    "url": "https://www.metacritic.com/game/pc/saints-row-2?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 9480,
+    "store_url": "https://store.steampowered.com/app/9480/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 16328,
+    "review_negative": 5212,
+    "review_total": 21540,
+    "review_positive_percent": 75.8
+  }
+}

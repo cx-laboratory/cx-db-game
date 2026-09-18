@@ -1,0 +1,197 @@
+{
+  "key": "arma-3",
+  "name": "Arma 3",
+  "description": "Experience true combat gameplay in a massive military sandbox. Deploy with a wide variety of single- and multiplayer content, a massive arsenal of modern weapons and vehicles, and limitless opportunities for content creation. Authentic, diverse, open - Arma 3 sends you to war.",
+  "developers": [
+    "Bohemia Interactive"
+  ],
+  "publishers": [
+    "Bohemia Interactive"
+  ],
+  "release_date": "2013-09-12",
+  "website": "https://www.arma3.com",
+  "tags": [
+    "action",
+    "simulation",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "czech",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "武装突袭3"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "arma3launcher.exe",
+          "description": "Launch Arma 3",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "ArmA3.app",
+          "description": "Launch Arma 3",
+          "type": "default"
+        },
+        {
+          "executable": "ArmA3 AS Native.app",
+          "description": "Launch experimental Apple silicon native Arma 3",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Arma 3",
+    "arma3launcher",
+    "ArmA3.app",
+    "ArmA3 AS Native.app",
+    "武装突袭3"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/107410/3212af52faf994c558bd622cb0f360c1ef295a6b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_e9220742c6b786efc9145c58ce7b276af891e9d5.1920x1080.jpg?t=1781616621"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_089dfd05121614ca3a887f49e89c14fa210847ac.1920x1080.jpg?t=1781616621"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_d6ac5531165a238499e1bf7ad71ee23dcfcbcf78.1920x1080.jpg?t=1781616621"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_1e3cd97e67e8bba23a6bb40d41a543b1b29c9b5a.1920x1080.jpg?t=1781616621"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_d705d125b0bf4e8d934c8743ef1a26e851fe6cf4.1920x1080.jpg?t=1781616621"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_f394156f7bd6f643c004d6810b63547277f44fb0.1920x1080.jpg?t=1781616621"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_de3d649293bf035ae7c1d9cf35235ea2ec36beee.1920x1080.jpg?t=1781616621"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_c7a3a29b107c344adcf2be2763f9bdfde4be34ba.1920x1080.jpg?t=1781616621"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_e0f3abf9ac5db034005a00cf6b1adfbd611d2a2f.1920x1080.jpg?t=1781616621"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_d8b72126ea6b20eabf618bec392f8f5c3f29cc42.1920x1080.jpg?t=1781616621"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_3d64604ff3eb6be5d3c2c47af31422288e4c16ce.1920x1080.jpg?t=1781616621"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_7317d60c9e4826c9ac99aa5e68e164f7945b4072.1920x1080.jpg?t=1781616621"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_c1cef75469b43b000665c31aae03df07039757ab.1920x1080.jpg?t=1781616621"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_5147f5ec1771c8e61113ef4e407ea5e8b8005c46.1920x1080.jpg?t=1781616621"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_da4192c0b4384af7c0c88bee003cdbbe3517e909.1920x1080.jpg?t=1781616621"
+    }
+  ],
+  "videos": [
+    {
+      "name": "12 Years Anniversary ",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257197922/f394156f7bd6f643c004d6810b63547277f44fb0/movie_600x337.jpg?t=1781616620",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/107410/716959965/a6973dc45dfafc5983a82447f3e688f8db0392b1/1757926558/dash_h264.mpd?t=1781616620"
+    },
+    {
+      "name": "Arma 3 Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2029388/movie.293x165.jpg?t=1447358827",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/107410/13578/e4a3bbec850db9da0142d77adedda217f2eac7eb/1750498464/dash_h264.mpd?t=1447358827"
+    },
+    {
+      "name": "33 Things About Arma 3 Trailer (US)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2036855/movie.293x165.jpg?t=1447368200",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/107410/30526/014e64e4f8449b8238a2781865d041395ef871b5/1750501693/dash_h264.mpd?t=1447368200"
+    }
+  ],
+  "metacritic": {
+    "score": 74,
+    "url": "http://www.metacritic.com/game/pc/arma-iii?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 107410,
+    "store_url": "https://store.steampowered.com/app/107410/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Workshop",
+      "Stats",
+      "Steam Leaderboards",
+      "Includes level editor",
+      "Steam Timeline"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 265587,
+    "review_negative": 28158,
+    "review_total": 293745,
+    "review_positive_percent": 90.41
+  }
+}

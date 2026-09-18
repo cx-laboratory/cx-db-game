@@ -1,0 +1,189 @@
+{
+  "key": "overcooked",
+  "name": "Overcooked",
+  "description": "Overcooked is a chaotic couch co-op cooking game for one to four players. Working as a team, you and your fellow chefs must prepare, cook and serve up a variety of tasty orders before the baying customers storm out in a huff.",
+  "developers": [
+    "Ghost Town Games Ltd."
+  ],
+  "publishers": [
+    "Team17 Digital Ltd"
+  ],
+  "release_date": "2016-08-03",
+  "website": "http://www.ghosttowngames.com/overcooked",
+  "tags": [
+    "action",
+    "casual",
+    "indie",
+    "simulation",
+    "multiplayer",
+    "pvp",
+    "co-op",
+    "split-screen",
+    "local-multiplayer",
+    "cooking",
+    "arcade",
+    "4-player-local",
+    "family-friendly",
+    "funny",
+    "co-op-campaign",
+    "cute",
+    "top-down",
+    "stylized",
+    "singleplayer",
+    "team-based"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Overcooked.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Ghost Town Games/Overcooked",
+          "pattern": "*.save",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Overcooked"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/448510/0f8cb2d03134bfbc0536dcc9a476d9ba3a1e67f5.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448510/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448510/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448510/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448510/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448510/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448510/ss_11cb84e3a78ffd9ed0b5f65a8306fe80f363587a.1920x1080.jpg?t=1780480467"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448510/ss_2a35c15c78f06dd4f23dab8a1e1917a835d0062d.1920x1080.jpg?t=1780480467"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448510/ss_9d46372cef71acf4e85306c82c8005491f27b714.1920x1080.jpg?t=1780480467"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448510/ss_0f5e9b48f8cf604d10e83af1160b5d87cbea3167.1920x1080.jpg?t=1780480467"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448510/ss_058c688a6f07a4624b4f775b3e71df8037ef4df2.1920x1080.jpg?t=1780480467"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448510/ss_c307c59c18be77c920050a2d70d76929a2295879.1920x1080.jpg?t=1780480467"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448510/ss_030d249c58d88221891f96f645a323c01a94205f.1920x1080.jpg?t=1780480467"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448510/ss_65929fedb7284c22e6a3d78e84fd4e85ca174d2a.1920x1080.jpg?t=1780480467"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448510/ss_3ed8415029c3a90af06e6f1631b70906cc01519b.1920x1080.jpg?t=1780480467"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448510/ss_0824d17aed43fea711f74241fd46f359848c471d.1920x1080.jpg?t=1780480467"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448510/ss_b42ebc10be6245c96ee4d3558f82720ed298fc4c.1920x1080.jpg?t=1780480467"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Overcooked E3 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256667046/movie.293x165.jpg?t=1468571743",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/448510/65089/5afd6701f04106c80994602cde7d0bac815e2763/1750532088/dash_h264.mpd?t=1468571743"
+    },
+    {
+      "name": "Overcooked Pre-Order Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256666930/movie.293x165.jpg?t=1718277200",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/448510/64899/c8412c40337e414d0083abbe5488d85dd6946ce5/1750532042/dash_h264.mpd?t=1718277200"
+    }
+  ],
+  "metacritic": {
+    "score": 81,
+    "url": "http://www.metacritic.com/game/pc/overcooked?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 448510,
+    "store_url": "https://store.steampowered.com/app/448510/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Local Co-Op",
+      "Multiplayer",
+      "Cooking",
+      "Indie",
+      "Arcade",
+      "Co-op",
+      "Local Multiplayer",
+      "Casual",
+      "4 Player Local",
+      "Family Friendly",
+      "Funny",
+      "Co-op Campaign",
+      "Simulation",
+      "Action",
+      "Cute",
+      "Top-Down",
+      "Stylized",
+      "Singleplayer",
+      "PvP",
+      "Team-Based"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 14771,
+    "review_negative": 1705,
+    "review_total": 16476,
+    "review_positive_percent": 89.65
+  }
+}

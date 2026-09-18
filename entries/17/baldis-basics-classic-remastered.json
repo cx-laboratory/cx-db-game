@@ -1,0 +1,226 @@
+{
+  "key": "baldis-basics-classic-remastered",
+  "name": "Baldi's Basics Classic Remastered",
+  "description": "Escape Baldi's schoolhouse again in this new remastered version of Baldi's Basics Classic! Use stealth and strategy to collect all 7 notebooks and win! Featuring three games in one, gameplay improvements, a more authentic art style, accessibility improvements, and brand new ways to play!",
+  "developers": [
+    "Basically Games"
+  ],
+  "publishers": [
+    "Basically Games, LLC"
+  ],
+  "release_date": "2022-10-21",
+  "website": "https://www.basicallygames.com/",
+  "tags": [
+    "action",
+    "indie",
+    "strategy",
+    "horror",
+    "stealth",
+    "retro",
+    "parody",
+    "funny",
+    "first-person",
+    "singleplayer",
+    "pixel-graphics",
+    "surreal",
+    "exploration",
+    "free-to-play",
+    "fps",
+    "1990-s",
+    "3d",
+    "remake",
+    "replay-value",
+    "arcade"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "BALDI.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Basically Games/Baldi's Basics Classic Remastered/",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Basically Games/Baldi's Basics Classic Remastered/",
+          "pattern": "*.hgh",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "BALDI.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Basically Games/Baldi's Basics Classic Remastered/",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Basically Games/Baldi's Basics Classic Remastered/",
+          "pattern": "*.hgh",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "BALDI.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Basically Games/Baldi's Basics Classic Remastered/",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Basically Games/Baldi's Basics Classic Remastered/",
+          "pattern": "*.hgh",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Baldi's Basics Classic Remastered",
+    "BALDI",
+    "BALDI.app",
+    "BALDI.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1712830/b36ee96c573b93566a4176694a524a09b21122d7.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712830/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712830/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712830/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712830/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712830/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712830/ss_3cf1174d24a4518a3e992555ff5bf32e401a1223.1920x1080.jpg?t=1723051067"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712830/ss_6f10e1ec2d06659c82488a6d53add00ce63baf1d.1920x1080.jpg?t=1723051067"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712830/ss_a6dfabe3c84f48e3ae97bc3c5aa0b2821e425475.1920x1080.jpg?t=1723051067"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712830/ss_d8299e8d759a958ddfd0e3f3e7453fc99cdf4198.1920x1080.jpg?t=1723051067"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712830/ss_681a16bb3ee2c1b4a90c6ec78074b6b1798aaeef.1920x1080.jpg?t=1723051067"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712830/ss_de762958cb727734bbe4d2dcb4f923d69c773cfe.1920x1080.jpg?t=1723051067"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712830/ss_1bf62502c025fcbb5f280dd5170a78c52bee1e68.1920x1080.jpg?t=1723051067"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712830/ss_197ec80439d4270e761d449f4b174fc581558052.1920x1080.jpg?t=1723051067"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712830/ss_93bb4c580d1249e5a35ee4185ce65dcd1e4e617b.1920x1080.jpg?t=1723051067"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712830/ss_351b1d7f6e579952ef24472d7d04986aff2a0585.1920x1080.jpg?t=1723051067"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712830/ss_6bff963b09d9b1ad00af4599b798259d3566008b.1920x1080.jpg?t=1723051067"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712830/ss_c06ac8501aea7f4604516db8485b1d5f860a6505.1920x1080.jpg?t=1723051067"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Baldi's Basics Classic Remastered - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256912016/movie.293x165.jpg?t=1723051060",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1712830/506775/86483fd179e93b4327f422568d4b3b1661a91e1d/1751022690/dash_h264.mpd?t=1723051060"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1712830,
+    "store_url": "https://store.steampowered.com/app/1712830/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Captions available",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Horror",
+      "Stealth",
+      "Retro",
+      "Parody ",
+      "Funny",
+      "Survival Horror",
+      "First-Person",
+      "Action",
+      "Indie",
+      "Singleplayer",
+      "Pixel Graphics",
+      "Surreal",
+      "Exploration",
+      "Free to Play",
+      "FPS",
+      "1990's",
+      "3D",
+      "Remake",
+      "Replay Value",
+      "Arcade"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 15595,
+    "review_negative": 1257,
+    "review_total": 16852,
+    "review_positive_percent": 92.54
+  }
+}

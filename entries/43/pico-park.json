@@ -1,0 +1,142 @@
+{
+  "key": "pico-park",
+  "name": "PICO PARK",
+  "description": "PICO PARK is a cooperative local/online multiplay action puzzle game for 2-8 players.",
+  "developers": [
+    "TECOPARK"
+  ],
+  "publishers": [
+    "TECOPARK"
+  ],
+  "release_date": "2021-05-07",
+  "website": "http://picoparkgame.com/en/",
+  "tags": [
+    "action",
+    "casual",
+    "indie",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "split-screen",
+    "puzzle-platformer",
+    "local-multiplayer",
+    "cute",
+    "platformer",
+    "2d",
+    "pixel-graphics",
+    "puzzle",
+    "funny",
+    "party-game",
+    "difficult",
+    "retro",
+    "horror",
+    "souls-like"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "pico_park.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "PICO PARK",
+    "pico_park"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1509960/738c7b1a12275d8b792f9a01a6c174453cd9770e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509960/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509960/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509960/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509960/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509960/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509960/ss_d54c6fd82d8c804939d136356eda364295a788cd.1920x1080.jpg?t=1740033204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509960/ss_f356434b667dd6f5ff948a87d4d8486d29e31b36.1920x1080.jpg?t=1740033204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509960/ss_4c0452c49441d29f962b9b5f15299edff26a5d0a.1920x1080.jpg?t=1740033204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509960/ss_a2075d021825129e4b297d217f517cc8ea410d45.1920x1080.jpg?t=1740033204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509960/ss_829139a0569f3a9f02786c7729800d9e4354814a.1920x1080.jpg?t=1740033204"
+    }
+  ],
+  "videos": [
+    {
+      "name": "trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256829932/movie.293x165.jpg?t=1618749324",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1509960/360992/fc3d578e78de773bdd716edb28cd09aa5fd07795/1750696987/dash_h264.mpd?t=1618749324"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1509960,
+    "store_url": "https://store.steampowered.com/app/1509960/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Online Co-Op",
+      "Co-op",
+      "Puzzle Platformer",
+      "Local Co-Op",
+      "Cute",
+      "Casual",
+      "Local Multiplayer",
+      "Platformer",
+      "2D",
+      "Action",
+      "Pixel Graphics",
+      "Puzzle",
+      "Funny",
+      "Party Game",
+      "Indie",
+      "Difficult",
+      "Retro",
+      "Horror",
+      "Souls-like"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 27063,
+    "review_negative": 2745,
+    "review_total": 29808,
+    "review_positive_percent": 90.79
+  }
+}

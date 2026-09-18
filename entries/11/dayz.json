@@ -1,0 +1,213 @@
+{
+  "key": "dayz",
+  "name": "DayZ",
+  "description": "How long can you survive a post-apocalyptic world? A land overrun with an infected &quot;zombie&quot; population, where you compete with other survivors for limited resources. Will you team up with strangers and stay strong together? Or play as a lone wolf to avoid betrayal? This is DayZ – this is your story.",
+  "developers": [
+    "Bohemia Interactive"
+  ],
+  "publishers": [
+    "Bohemia Interactive"
+  ],
+  "release_date": "2018-12-14",
+  "website": "https://www.dayz.com",
+  "tags": [
+    "action",
+    "adventure",
+    "massively-multiplayer",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "czech",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "DayZ_BE.exe",
+          "description": "Run DayZ Client (with dologs)",
+          "type": "default"
+        },
+        {
+          "executable": "DayZLauncher.exe",
+          "description": "Run DayZ Launcher",
+          "type": "default"
+        },
+        {
+          "executable": "DayZ_BE.exe",
+          "description": "Run DayZ Client",
+          "type": "none"
+        },
+        {
+          "executable": "DayZ_BE.exe",
+          "description": "Run DayZ Client - Video",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "DayZ",
+    "DayZ_BE",
+    "DayZLauncher"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/221100/16a985dfee9b093d76a0ffc4cf4c77ba20c2eb0d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_bf0e5d5538d95a1cb943a7963489ba4df2782942.1920x1080.jpg?t=1769695513"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_4b71f0ac633c88e8af8de1c4eec0b5b263f989cc.1920x1080.jpg?t=1769695513"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_0487147f80e9350d9c655deb7f3d25b3876a1958.1920x1080.jpg?t=1769695513"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_06f0e97dd31b322d38dfd137b268d793ff62f86f.1920x1080.jpg?t=1769695513"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_9517bb26b6811f70b5b19ece4bce3e90452378d3.1920x1080.jpg?t=1769695513"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_54729794426ffcfb74cb90176edd80b2225eb4fc.1920x1080.jpg?t=1769695513"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_476f76f47921785509466357004a1c0d7b50d9f6.1920x1080.jpg?t=1769695513"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_430c62f7756548725429ec13d025dc8a1db70049.1920x1080.jpg?t=1769695513"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_6b8e777e93caa0a8f87fd41c8c33d0757cec4e3f.1920x1080.jpg?t=1769695513"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_64c9f8fe80b71d0a0454835dc85e9e3f682d23b3.1920x1080.jpg?t=1769695513"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_6cd9e955be805c9c55a95540c325dd74493cc557.1920x1080.jpg?t=1769695513"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_5415aa4e40aa183e1bdb2e823a014003333dcc5f.1920x1080.jpg?t=1769695513"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_c51e9201225543afd579cd840449082ed61e2497.1920x1080.jpg?t=1769695513"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_7419b3ce729dbacedb9e0d7c8e07310ffbdc3f27.1920x1080.jpg?t=1769695513"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_503fc7c735fdffe209beff287718be3a13ac0257.1920x1080.jpg?t=1769695513"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_b5cc30d39cd8338015d18c91a652e0a265ac3003.1920x1080.jpg?t=1769695513"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_38409876cd91b4946ce6b9450024df0bedf4347a.1920x1080.jpg?t=1769695513"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_8280fd5f119096bcdda930bc4d0bb6c80abe7358.1920x1080.jpg?t=1769695513"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_dbfbfca0515cf9ad74a9ae8ad615169c54da3cf1.1920x1080.jpg?t=1769695513"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_6e2dee07a908f32e116ac48b27e1e3420bee82ce.1920x1080.jpg?t=1769695513"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_ab2f77712949173b80e72be8dda9cc8c5bd9d835.1920x1080.jpg?t=1769695513"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_e106890554f0871e8cb0245393c26814cb78118d.1920x1080.jpg?t=1769695513"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_2ff624b9eb0dc9ca8d305a333ddb1028aa3a63b2.1920x1080.jpg?t=1769695513"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_be988f1e5348389ca072a60cbcd74ea68bdca855.1920x1080.jpg?t=1769695513"
+    }
+  ],
+  "videos": [
+    {
+      "name": "DayZReduxFinal",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257026030/movie.293x165.jpg?t=1716813072",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/221100/705385/8e5a282248273dbe81eb27e48309ce3989d5d5d0/1750481651/dash_h264.mpd?t=1716813072"
+    },
+    {
+      "name": "DayZ Final Trailer ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256790906/movie.293x165.jpg?t=1593118262",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/221100/295006/72499e85db67a883394a70ee674d2ef754884882/1750481645/dash_h264.mpd?t=1593118262"
+    },
+    {
+      "name": "DayZ Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256754405/movie.293x165.jpg?t=1577825105",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/221100/229881/e97c55c1bb25273deb023321759608e79ca668db/1750481640/dash_h264.mpd?t=1577825105"
+    },
+    {
+      "name": "DayZ Beta Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256734797/movie.293x165.jpg?t=1577825130",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/221100/194705/da1449ef24ebe11944cbda0ac28084ac2c4733b2/1750481631/dash_h264.mpd?t=1577825130"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 221100,
+    "store_url": "https://store.steampowered.com/app/221100/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer"
+    ],
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 360894,
+    "review_negative": 103410,
+    "review_total": 464304,
+    "review_positive_percent": 77.73
+  }
+}

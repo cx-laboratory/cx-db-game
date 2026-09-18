@@ -1,0 +1,198 @@
+{
+  "key": "hi-fi-rush",
+  "name": "Hi-Fi RUSH",
+  "description": "Test your abilities in two new game modes, uncover new rewards and even a few secrets in the Arcade Challenge! Update! Feel the beat as wannabe rockstar Chai and his ragtag team fight against an evil megacorp in a world that syncs to the music.",
+  "developers": [
+    "Tango Gameworks"
+  ],
+  "publishers": [
+    "KRAFTON, Inc."
+  ],
+  "release_date": "2023-01-26",
+  "website": "https://hifirush.com",
+  "tags": [
+    "action",
+    "rhythm",
+    "hack-and-slash",
+    "great-soundtrack",
+    "singleplayer",
+    "cartoony",
+    "action-adventure",
+    "music",
+    "platformer",
+    "character-action-game",
+    "spectacle-fighter",
+    "colorful",
+    "comedy",
+    "stylized",
+    "beat-em-up",
+    "anime",
+    "cyberpunk",
+    "third-person",
+    "robots",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "arabic",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Hi-Fi-RUSH.exe",
+          "description": "Launch default.",
+          "type": "default"
+        },
+        {
+          "executable": "Hibiki.exe",
+          "description": "Launch Development or Test Ver. (ForceAsyncCompute)",
+          "type": "default"
+        },
+        {
+          "executable": "Hibiki.exe",
+          "description": "Launch Development or Test Ver.",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Hi-Fi RUSH",
+    "Hi-Fi-RUSH",
+    "Hibiki"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1817230/4ab983bdce853739bba2494342425bc206cadfe5.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817230/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817230/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817230/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817230/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817230/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817230/ss_382e9d5abb00498eee6a86b0366a2db7826268b7.1920x1080.jpg?t=1764916407"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817230/ss_8a13650ffe930da77593dae80f0118588c46a5ca.1920x1080.jpg?t=1764916407"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817230/ss_62a7ff68fff7850be6a0784eff41edafd33b2099.1920x1080.jpg?t=1764916407"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817230/ss_7dfaee4616fbed65b2b0fcb82d55dc0a957fd8a5.1920x1080.jpg?t=1764916407"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817230/ss_3e17ba9ca8dd57d0911881995e5a3e2ab7dd31f1.1920x1080.jpg?t=1764916407"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Hi-Fi RUSH | Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257228999/6f17ed80a4a0505208b6e3ef68a20be024718416/movie_600x337.jpg?t=1763072078",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1817230/1666817001/b4923fadd44dd5642228e85bc522ac6f739a781e/1762755913/dash_h264.mpd?t=1763072078"
+    },
+    {
+      "name": "Hi-Fi RUSH | Gameplay Deep Dive Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257229003/cbf1a964eed26318ff003c0e6c2eda0e94d733c2/movie_600x337.jpg?t=1763072079",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1817230/1281668388/8472e30dd411a996f0f6f42cef1a7ee529b54d40/1762756682/dash_h264.mpd?t=1763072079"
+    },
+    {
+      "name": "Hi-Fi RUSH | Arcade Challenge! Update!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257228983/26a4795de3c32b7b949c27ac213ddea3bc30c5c8/movie_600x337.jpg?t=1763072077",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1817230/1375941995/bd60ab93fcebc480aca0143a5c0402ba68b74631/1762754622/dash_h264.mpd?t=1763072077"
+    },
+    {
+      "name": "Hi-Fi RUSH | Tango Remix Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257229428/856015557d7b952ae7b00748fb778f2a333daabc/movie_600x337.jpg?t=1763072080",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1817230/1164029476/201addb4c2a07850a1abc506212068cd686e7149/1762843036/dash_h264.mpd?t=1763072080"
+    },
+    {
+      "name": "Hi-Fi RUSH | Official Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257229433/f860c273c6f3acc8823351f0ee677f321535ae2a/movie_600x337.jpg?t=1763072081",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1817230/1077749094/ad37add9c5d134938a2839e9f766e69103cf95d3/1762844324/dash_h264.mpd?t=1763072081"
+    }
+  ],
+  "metacritic": {
+    "score": 90,
+    "url": "https://www.metacritic.com/game/pc/hi-fi-rush?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1817230,
+    "store_url": "https://store.steampowered.com/app/1817230/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Captions available",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Gamepad Recommended",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Surround Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Rhythm",
+      "Action",
+      "Hack and Slash",
+      "Great Soundtrack",
+      "Singleplayer",
+      "Cartoony",
+      "Action-Adventure",
+      "Music",
+      "Platformer",
+      "Character Action Game",
+      "Spectacle fighter",
+      "Colorful",
+      "Comedy",
+      "Stylized",
+      "Beat 'em up",
+      "Anime",
+      "Cyberpunk",
+      "Third Person",
+      "Robots",
+      "Adventure"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 34503,
+    "review_negative": 1062,
+    "review_total": 35565,
+    "review_positive_percent": 97.01
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "key": "littlewood",
+  "name": "Littlewood",
+  "description": "The world has already been saved. Now it's time to rebuild your town, learn new hobbies, and forge lifelong friendships in this peaceful and relaxing RPG.",
+  "developers": [
+    "Sean Young"
+  ],
+  "publishers": [
+    "SmashGames"
+  ],
+  "release_date": "2020-08-04",
+  "website": "",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "rpg",
+    "simulation",
+    "pixel-graphics",
+    "life-sim",
+    "city-builder",
+    "relaxing",
+    "agriculture",
+    "crafting",
+    "sandbox",
+    "building",
+    "collectathon",
+    "open-world",
+    "farming-sim",
+    "exploration",
+    "romance",
+    "character-customization",
+    "2d",
+    "cute",
+    "fishing"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Littlewood.exe",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "SmashGames/Littlewood",
+          "pattern": "*.json",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Littlewood.app\\Contents\\MacOS\\Littlewood",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "SmashGames/Littlewood",
+          "pattern": "*.json",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Littlewood.x86_64",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "SmashGames/Littlewood",
+          "pattern": "*.json",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Littlewood",
+    "Littlewood.app\\Contents\\MacOS\\Littlewood",
+    "Littlewood.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/894940/b1e0c0a086c3f93c756179583eefd36d5ed21dfd.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894940/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894940/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894940/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894940/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894940/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894940/ss_e373be09c6040d506ae6f30d5fc3745cffaa3178.1920x1080.jpg?t=1596561234"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894940/ss_fc4a3674d4635d218d316eae8089add0deddf54f.1920x1080.jpg?t=1596561234"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894940/ss_6e3820d34d7cc4d43f01a03ec4895007bf47daa2.1920x1080.jpg?t=1596561234"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894940/ss_7499047758d770fb0bbad5cf9006eb902934e790.1920x1080.jpg?t=1596561234"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894940/ss_ed1af2860039141311d668663e475bb8efa2fa29.1920x1080.jpg?t=1596561234"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894940/ss_311f6b5f1b5df76ca05349c35d75fac7e017bb88.1920x1080.jpg?t=1596561234"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894940/ss_59beac4605d45c228c17c0e6498c407d44d53430.1920x1080.jpg?t=1596561234"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894940/ss_44063323638cfdefb1403d6877b0a5fb5ebc2051.1920x1080.jpg?t=1596561234"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Littlewood Trailer v1.0",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256794574/movie.293x165.jpg?t=1596102277",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/894940/301446/992f73ce1b890e96506360d70697f28484ef6eeb/1750594172/dash_h264.mpd?t=1596102277"
+    },
+    {
+      "name": "Littlewood Trailer v0.9",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256774487/movie.293x165.jpg?t=1581045484",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/894940/265738/83f5864d4f579b077c31ba9688dcf7a1b9bf7bdc/1750594156/dash_h264.mpd?t=1581045484"
+    },
+    {
+      "name": "Littlewood Trailer v0.6",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256743508/movie.293x165.jpg?t=1583299659",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/894940/210134/3a084d2b1fffaaad99c1b5ecbb27722fd30e51ec/1750594142/dash_h264.mpd?t=1583299659"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 894940,
+    "store_url": "https://store.steampowered.com/app/894940/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Pixel Graphics",
+      "Life Sim",
+      "City Builder",
+      "Relaxing",
+      "Simulation",
+      "RPG",
+      "Agriculture",
+      "Crafting",
+      "Sandbox",
+      "Building",
+      "Collectathon",
+      "Casual",
+      "Open World",
+      "Farming Sim",
+      "Exploration",
+      "Romance",
+      "Character Customization",
+      "2D",
+      "Cute",
+      "Fishing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 6347,
+    "review_negative": 463,
+    "review_total": 6810,
+    "review_positive_percent": 93.2
+  }
+}

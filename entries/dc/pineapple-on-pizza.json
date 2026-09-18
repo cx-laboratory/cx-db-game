@@ -1,0 +1,164 @@
+{
+  "key": "pineapple-on-pizza",
+  "name": "Pineapple on pizza",
+  "description": "Can a video game convey a flavor?",
+  "developers": [
+    "Majorariatto"
+  ],
+  "publishers": [
+    "Majorariatto"
+  ],
+  "release_date": "2023-03-29",
+  "website": "",
+  "tags": [
+    "casual",
+    "indie",
+    "free-to-play",
+    "short",
+    "exploration",
+    "dark-comedy",
+    "singleplayer",
+    "first-person",
+    "walking-simulator",
+    "dark-humor",
+    "cartoon",
+    "atmospheric",
+    "funny",
+    "colorful",
+    "cute",
+    "emotional",
+    "cartoony",
+    "stylized",
+    "3d",
+    "cinematic"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "spanish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Pineapple on pizza.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Pineapple on pizza.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Pineapple on pizza.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Pineapple on pizza",
+    "Pineapple on pizza.app",
+    "Pineapple on pizza.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2263010/0b267f6e0802f99151f9cc4471aca4aa4a6a8c74.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263010/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263010/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263010/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263010/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263010/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263010/ss_06a10f257421987bc5892df859ea87fee63a5d1c.1920x1080.jpg?t=1726861073"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263010/ss_9911f8b25803b1a9495a746dc66094ec22739acd.1920x1080.jpg?t=1726861073"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263010/ss_8b7868bd8a032c7b4247ab5a0cadf7a950e837d5.1920x1080.jpg?t=1726861073"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263010/ss_d8a3562250354b17600616b579c96592b8a51410.1920x1080.jpg?t=1726861073"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2263010/ss_8a08644f012904a031b126c772aa5f82a1a7d47a.1920x1080.jpg?t=1726861073"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Pineapple on Pizza launch trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256935012/movie.293x165.jpg?t=1679503481",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2263010/546984/e1a2aee04a5722446204f27483fb4852000aaefe/1750982552/dash_h264.mpd?t=1679503481"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2263010,
+    "store_url": "https://store.steampowered.com/app/2263010/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Short",
+      "Exploration",
+      "Dark Comedy",
+      "Singleplayer",
+      "First-Person",
+      "Walking Simulator",
+      "Dark Humor",
+      "Cartoon",
+      "Atmospheric",
+      "Funny",
+      "Casual",
+      "Colorful",
+      "Cute",
+      "Emotional",
+      "Psychological Horror",
+      "Cartoony",
+      "Stylized",
+      "3D",
+      "Cinematic"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 25266,
+    "review_negative": 610,
+    "review_total": 25876,
+    "review_positive_percent": 97.64
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "key": "limbus-company",
+  "name": "Limbus Company",
+  "description": "As the Executive Manager of Limbus Company, lead your group of twelve Sinners, venture into the buried facilities of Lobotomy Corporation, and lay claim on the Golden Boughs.",
+  "developers": [
+    "ProjectMoon"
+  ],
+  "publishers": [
+    "ProjectMoon"
+  ],
+  "release_date": "2023-02-27",
+  "website": "https://limbuscompany.kr/",
+  "tags": [
+    "free-to-play",
+    "story-rich",
+    "lore-rich",
+    "turn-based-combat",
+    "turn-based-tactics",
+    "visual-novel",
+    "singleplayer",
+    "great-soundtrack",
+    "strategy",
+    "rpg",
+    "strategy-rpg",
+    "turn-based-strategy",
+    "anime",
+    "2d",
+    "pve",
+    "dark-fantasy",
+    "action",
+    "sci-fi",
+    "roguelite",
+    "colorful"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "Japanese",
+    "Korean**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "LimbusCompany.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "LimbusCompany_BE.exe",
+          "description": "Test Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Limbus Company",
+    "LimbusCompany",
+    "LimbusCompany_BE"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1973530/37cc38d5fff9b40f682abd05e7cb3f429629823c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973530/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973530/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973530/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973530/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973530/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973530/2a692ea70cc4226c1b8015c6d29baca30a3fb6b0/ss_2a692ea70cc4226c1b8015c6d29baca30a3fb6b0.1920x1080.jpg?t=1783074489"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973530/609232637733e0fe1a875a2583decfb438c03ddf/ss_609232637733e0fe1a875a2583decfb438c03ddf.1920x1080.jpg?t=1783074489"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973530/a805c5a206ab90a89eb24879997248394fbf2d02/ss_a805c5a206ab90a89eb24879997248394fbf2d02.1920x1080.jpg?t=1783074489"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973530/f109b332dfb973cd3da7520a716fd3c3660f3c0f/ss_f109b332dfb973cd3da7520a716fd3c3660f3c0f.1920x1080.jpg?t=1783074489"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973530/ss_13d20ed38e2b51bad61e079624a01d2516a0f147.1920x1080.jpg?t=1783074489"
+    }
+  ],
+  "videos": [
+    {
+      "name": "walpu 9",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257370245/37920d39b2aea4841b7ec27742e8022e228c5348/movie_600x337.jpg?t=1783074488",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1973530/158554790/d90078139396279e936f4f6ce2f22e5d7314dda9/1783069916/dash_h264.mpd?t=1783074488"
+    },
+    {
+      "name": "limbus_chapter_9",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257260922/6c5658a32e151bedd13b2607ffb80532aa01617d/movie_600x337.jpg?t=1767762485",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1973530/181076444/20280b9143d3f0c28037acf74082a4b3378b67b8/1767760818/dash_h264.mpd?t=1767762485"
+    },
+    {
+      "name": "limbus_main_trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256931329/movie.293x165.jpg?t=1728529324",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1973530/540374/3b53284d033ca4c1b7e13f0894a62e3774bcaafe/1750743329/dash_h264.mpd?t=1728529324"
+    },
+    {
+      "name": "limbus_chapter_8",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257141400/273b023ad522db619bb5347074211afd64104aaf/movie_600x337.jpg?t=1747619567",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1973530/291072014/18d89d2039b5f205f8f45e5aba9924d413813f33/1750743348/dash_h264.mpd?t=1747619567"
+    },
+    {
+      "name": "limbus_chapter_7",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257063548/b658d5c92d4d2516222acf10a44aaad674722bfb/movie_600x337.jpg?t=1728529308",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1973530/769438/edb27c07946344430381af7e93b3e72b4dfe99c4/1750743342/dash_h264.mpd?t=1728529308"
+    },
+    {
+      "name": "limbus_chapter_6",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257010912/movie.293x165.jpg?t=1728529312",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1973530/679131/f462015d200b19f491105bba4533dc78e161f0be/1750744343/dash_h264.mpd?t=1728529312"
+    },
+    {
+      "name": "limbus_chapter_5",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256974020/movie.293x165.jpg?t=1728529316",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1973530/615377/a7fec8eed9d5b1fbc03d6ea5cea3a5ea843b900e/1750743336/dash_h264.mpd?t=1728529316"
+    },
+    {
+      "name": "limbus_chapter_4",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256949162/movie.293x165.jpg?t=1728529320",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1973530/571861/fd441c319109c515dd982eca97ab2ec8d82c5d8a/1750743334/dash_h264.mpd?t=1728529320"
+    },
+    {
+      "name": "limbus_battle_1_trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256931885/movie.293x165.jpg?t=1676999501",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1973530/541290/1550b944aa772ca92e7a0c25d48631281520e634/1750743331/dash_h264.mpd?t=1676999501"
+    },
+    {
+      "name": "limbus_battle_2_trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256931888/movie.293x165.jpg?t=1676999496",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1973530/541294/5d58740b1f13cd807f1c03306811589c71f44e8b/1750743332/dash_h264.mpd?t=1676999496"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1973530,
+    "store_url": "https://store.steampowered.com/app/1973530/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "In-App Purchases",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Story Rich",
+      "Lore-Rich",
+      "Free to Play",
+      "Turn-Based Combat",
+      "Turn-Based Tactics",
+      "Visual Novel",
+      "Singleplayer",
+      "Great Soundtrack",
+      "Strategy",
+      "RPG",
+      "Strategy RPG",
+      "Turn-Based Strategy",
+      "Anime",
+      "2D",
+      "PvE",
+      "Dark Fantasy",
+      "Action",
+      "Sci-fi",
+      "Roguelite",
+      "Colorful"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 97752,
+    "review_negative": 13395,
+    "review_total": 111147,
+    "review_positive_percent": 87.95
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "key": "final-fantasy-xiii",
+  "name": "FINAL FANTASY XIII",
+  "description": "Final Fantasy XIII is a fantasy RPG in which a band of brave humans struggle against fate in the utopian sky city of Cocoon and the primeval world of Pulse. Follow stylish heroine Lightning's fast paced battles and high adventure in a mysterious new world.",
+  "developers": [
+    "Square Enix"
+  ],
+  "publishers": [
+    "Square Enix"
+  ],
+  "release_date": "2014-10-10",
+  "website": "http://www.square-enix.com/",
+  "tags": [
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "japanese": "ファイナルファンタジーXIII"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "FFXiiiLauncher.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "FINAL FANTASY XIII",
+    "FFXiiiLauncher",
+    "ファイナルファンタジーXIII"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/292120/83c929d4965963f6e0bc17969a2599e7829ac23d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292120/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292120/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292120/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292120/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292120/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292120/ss_0cec13de14f2bfaecc1e66fe5ec2051e3acd0679.1920x1080.jpg?t=1775176878"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292120/ss_02d9c5fd6308948221b1bef8509dfd6000e7d7d9.1920x1080.jpg?t=1775176878"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292120/ss_c0dc1ccba0c459e86c03b13ab98121a9d4900075.1920x1080.jpg?t=1775176878"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292120/ss_9f9c7917deb65825d0f953e8435d30991081569b.1920x1080.jpg?t=1775176878"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292120/ss_b0b5fab50e290f1225a19d98b85458c7c6f4f27c.1920x1080.jpg?t=1775176878"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292120/ss_129084b82f27e7d526bd2d91cde741e73885b786.1920x1080.jpg?t=1775176878"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Trailer PEGI EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2035023/movie.293x165.jpg?t=1447364274",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/292120/26437/7ee1c5e87b8597a2819a2071f27cfcb17ce558ff/1750502529/dash_h264.mpd?t=1447364274"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 292120,
+    "store_url": "https://store.steampowered.com/app/292120/",
+    "required_age": 13,
+    "is_free": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Surround Sound",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 14740,
+    "review_negative": 4891,
+    "review_total": 19631,
+    "review_positive_percent": 75.09
+  }
+}

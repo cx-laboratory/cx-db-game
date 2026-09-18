@@ -1,0 +1,175 @@
+{
+  "key": "psychopomp-gold",
+  "name": "Psychopomp GOLD",
+  "description": "Psychopomp is BACK. The catacombs stretch down farther than ever before. Your entire life has been a lie. Delve into the depths, and discover the horrors that lie below. More realms, more modes, more secrets. An ancient voice calls to you from the center of the earth. Will you answer it?",
+  "developers": [
+    "Fading Club"
+  ],
+  "publishers": [
+    "Fading Club"
+  ],
+  "release_date": "2024-10-25",
+  "website": "https://fadingclub.neocities.org/",
+  "tags": [
+    "action",
+    "adventure",
+    "surreal",
+    "atmospheric",
+    "female-protagonist",
+    "dungeon-crawler",
+    "psychological",
+    "anime",
+    "first-person",
+    "cute",
+    "horror",
+    "action-adventure",
+    "supernatural",
+    "singleplayer",
+    "indie",
+    "combat",
+    "psychedelic",
+    "sexual-content"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "Japanese",
+    "Russian",
+    "Portuguese - Brazil",
+    "French",
+    "Spanish - Latin America*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Psychopomp GOLD.exe",
+          "description": "Launch with Vulkan (Recommended)",
+          "type": "default"
+        },
+        {
+          "executable": "Psychopomp GOLD.exe",
+          "description": "Launch with OpenGL (Not Recommended)",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Psychopomp",
+          "pattern": "*.save",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Psychopomp GOLD"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3243190/aa09260ed1543f31ae9b2452face405745b93025.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243190/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243190/9f0ac6da83f7b4e96abc7a56251b72e527aa34ac/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243190/9f4a7529939b64bd6530b178dad68c70085dff3f/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243190/42af5dd904085ee95c32d8cad13979c3f2b8b892/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243190/6797896c256432e60177ed7018553ed45eface28/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243190/ss_e0524ada03dcbb5516b8a63a43da14c477d69afe.1920x1080.jpg?t=1765584616"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243190/ss_7691486864a48be67a6fd85241c945f3c2421b37.1920x1080.jpg?t=1765584616"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243190/ss_3096ba77fc793901865c02c152a20c520a01656f.1920x1080.jpg?t=1765584616"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243190/ss_691453933f635b12c0b50597cebfe364acb762e0.1920x1080.jpg?t=1765584616"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243190/ss_ddc0c1442a9333d5ed4f1c959e1c7c9a528bc253.1920x1080.jpg?t=1765584616"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243190/ss_5c2a24e09dd930814275d0c75406a839909c1e77.1920x1080.jpg?t=1765584616"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243190/ss_5d50f052274775d7e4a7bc63372b90ab8c7e0db1.1920x1080.jpg?t=1765584616"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243190/ss_9949a834f6e7c8826e878821e65b591d92f2099e.1920x1080.jpg?t=1765584616"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243190/ss_c4a846509b971e21a6aa8046e147dafe1f26790b.1920x1080.jpg?t=1765584616"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243190/ss_aaab864105a1482b296d56523dc14fa3dc3c7f69.1920x1080.jpg?t=1765584616"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243190/ss_f98a9716917ddd72be19a4c23eb9cf529e7e2963.1920x1080.jpg?t=1765584616"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3243190/ss_007e81158f5152235fc14164809b5e3635817f95.1920x1080.jpg?t=1765584616"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Psychopomp Gold Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257059736/5b034c4686eae49262ff067b5597116d28e132a5/movie_600x337.jpg?t=1727816290",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3243190/763097/c516820f1173d09feef6939782a7df59dc77ac22/1750825101/dash_h264.mpd?t=1727816290"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3243190,
+    "store_url": "https://store.steampowered.com/app/3243190/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Psychological Horror",
+      "Surreal",
+      "Atmospheric",
+      "Female Protagonist",
+      "Dungeon Crawler",
+      "Adventure",
+      "Psychological",
+      "Anime",
+      "First-Person",
+      "Cute",
+      "Survival Horror",
+      "Horror",
+      "Action-Adventure",
+      "Supernatural",
+      "Singleplayer",
+      "Indie",
+      "Combat",
+      "Action",
+      "Psychedelic",
+      "Sexual Content"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 5042,
+    "review_negative": 128,
+    "review_total": 5170,
+    "review_positive_percent": 97.52
+  }
+}

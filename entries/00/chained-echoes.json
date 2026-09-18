@@ -1,0 +1,228 @@
+{
+  "key": "chained-echoes",
+  "name": "Chained Echoes",
+  "description": "Take up your sword, channel your magic or board your Mech. Chained Echoes is a 16-bit style RPG set in a fantasy world where dragons are as common as piloted mechanical suits.",
+  "developers": [
+    "Umami Tiger (Matthias Linda)"
+  ],
+  "publishers": [
+    "Deck13"
+  ],
+  "release_date": "2022-12-08",
+  "website": "http://www.chainedechoes.com/",
+  "tags": [
+    "indie",
+    "rpg",
+    "pixel-graphics",
+    "turn-based",
+    "jrpg",
+    "turn-based-combat",
+    "2d",
+    "retro",
+    "story-rich",
+    "exploration",
+    "mechs",
+    "party-based-rpg",
+    "fantasy",
+    "anime",
+    "open-world",
+    "singleplayer",
+    "adventure",
+    "great-soundtrack",
+    "character-customization",
+    "old-school"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German",
+    "Korean",
+    "Japanese",
+    "Simplified Chinese"
+  ],
+  "name_localized": {
+    "schinese": "宿命残响（Chained Echoes）"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Chained Echoes.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Chained Echoes/Chained Echoes",
+          "pattern": "saveData*",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "ChainedEchoes.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Chained Echoes/Chained Echoes",
+          "pattern": "saveData*",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Chained_Echoes.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Chained Echoes/Chained Echoes",
+          "pattern": "saveData*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Chained Echoes",
+    "ChainedEchoes.app",
+    "Chained_Echoes.x86_64",
+    "宿命残响（Chained Echoes）"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1229240/055052880e72e4d3ab6e5c54975eb2edd14f1c75.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229240/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229240/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229240/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229240/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229240/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229240/ss_b25ed2e671e7b616ec14e7ed3a2f483909e368c4.1920x1080.jpg?t=1780041365"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229240/ss_b350a5ee81b0eff7c044c99b2d809489d35a665c.1920x1080.jpg?t=1780041365"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229240/ss_cfba4c66d14e860d381374d252381f7469f39582.1920x1080.jpg?t=1780041365"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229240/ss_02152fa16493a1fe30ce307864c7b2d6f82daede.1920x1080.jpg?t=1780041365"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229240/ss_d9d4918974f20e9bd1480c2920ddffd010d617a5.1920x1080.jpg?t=1780041365"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229240/ss_a243fbe03c0cbf775eec0b139d4b429cae982e17.1920x1080.jpg?t=1780041365"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229240/ss_48db751b344de859c2fc1a4b3bc0dae74e341989.1920x1080.jpg?t=1780041365"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229240/ss_8afe208c2f0830a3159fd3252e0d4945f97846ce.1920x1080.jpg?t=1780041365"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229240/ss_8cab829813ccf58327ec5e0b2c109dad7ab4c3cf.1920x1080.jpg?t=1780041365"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229240/ss_a683aed9b1e2500b3aa7bb5f3d5d7a58f744dca8.1920x1080.jpg?t=1780041365"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229240/ss_4b3a9335a15584143b657593522954595cd59e2d.1920x1080.jpg?t=1780041365"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256922474/movie.293x165.jpg?t=1671720204",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1229240/524428/643b6e56207c6bd7d4c06345af94d04029dc491e/1750645797/dash_h264.mpd?t=1671720204"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256919946/movie.293x165.jpg?t=1670503919",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1229240/520189/4df6936c51cae70c79b72ef0a714a120da46d4cc/1750645795/dash_h264.mpd?t=1670503919"
+    },
+    {
+      "name": "Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256915003/movie.293x165.jpg?t=1667919741",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1229240/511719/4852eed7d9bfbd50e35363006e9e7edbaffc99bd/1750645750/dash_h264.mpd?t=1667919741"
+    },
+    {
+      "name": "Release Window Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256883489/movie.293x165.jpg?t=1650628872",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1229240/457478/e3545db3f9b9c22a45ae7f3fa44941ba653edfb6/1750646744/dash_h264.mpd?t=1650628872"
+    }
+  ],
+  "metacritic": {
+    "score": 91,
+    "url": "https://www.metacritic.com/game/pc/chained-echoes?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1229240,
+    "store_url": "https://store.steampowered.com/app/1229240/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "RPG",
+      "Pixel Graphics",
+      "Turn-Based",
+      "JRPG",
+      "Indie",
+      "Turn-Based Combat",
+      "2D",
+      "Retro",
+      "Story Rich",
+      "Exploration",
+      "Mechs",
+      "Party-Based RPG",
+      "Fantasy",
+      "Anime",
+      "Open World",
+      "Singleplayer",
+      "Adventure",
+      "Great Soundtrack",
+      "Character Customization",
+      "Old School"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7082,
+    "review_negative": 896,
+    "review_total": 7978,
+    "review_positive_percent": 88.77
+  }
+}

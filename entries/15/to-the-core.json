@@ -1,0 +1,136 @@
+{
+  "key": "to-the-core",
+  "name": "To The Core",
+  "description": "To The Core is an incremental game about extracting and using resources from planets to buy upgrades.",
+  "developers": [
+    "SomethingExtra"
+  ],
+  "publishers": [
+    "SomethingExtra"
+  ],
+  "release_date": "2023-08-10",
+  "website": "",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "incremental",
+    "2d",
+    "arcade",
+    "procedural-generation",
+    "mining",
+    "singleplayer",
+    "retro",
+    "stylized",
+    "destruction",
+    "idler",
+    "great-soundtrack",
+    "space",
+    "pixel-graphics"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ToTheCore/ToTheCore.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "To The Core",
+    "ToTheCore/ToTheCore"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1988550/30fd99d59a015d9e3ff1457585c5472b7c07c7f2.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1988550/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1988550/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1988550/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1988550/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1988550/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1988550/ss_6aa5a8b9b4d4a1f16df4c650b78aca0d69da85f6.1920x1080.jpg?t=1740771959"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1988550/ss_59bfb5dde3d92a8c42f198bd439236fea7bfea44.1920x1080.jpg?t=1740771959"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1988550/ss_2d6082e104df209e4245b9299e620d0fa6efa89c.1920x1080.jpg?t=1740771959"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1988550/ss_234a9860ee3c7bd78b065cc3aaf58211300ff393.1920x1080.jpg?t=1740771959"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1988550/ss_6006573f95ceddb2c82630d334836a239002ee27.1920x1080.jpg?t=1740771959"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1988550/ss_ef7fa35fdb778f487a215a08814e1435f14f3ac3.1920x1080.jpg?t=1740771959"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1988550/ss_c8f13b260057acd5d0c33989d4aa082bb92ac512.1920x1080.jpg?t=1740771959"
+    }
+  ],
+  "videos": [
+    {
+      "name": "trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256899173/movie.293x165.jpg?t=1690791057",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1988550/484634/49de80d3662111db63a641aa607a654ec731082d/1750743785/dash_h264.mpd?t=1690791057"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1988550,
+    "store_url": "https://store.steampowered.com/app/1988550/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Incremental",
+      "Casual",
+      "2D",
+      "Arcade",
+      "Procedural Generation",
+      "Adventure",
+      "Indie",
+      "Mining",
+      "Singleplayer",
+      "Retro",
+      "Stylized",
+      "Destruction",
+      "Idler",
+      "Great Soundtrack",
+      "Space",
+      "Pixel Graphics"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 4765,
+    "review_negative": 374,
+    "review_total": 5139,
+    "review_positive_percent": 92.72
+  }
+}

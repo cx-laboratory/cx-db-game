@@ -1,0 +1,201 @@
+{
+  "key": "shadows-of-doubt",
+  "name": "Shadows of Doubt",
+  "description": "Take on the role of a private investigator in this immersive detective simulator. Solve murders and other crimes in a procedurally generated and persistent city where every NPC lives and breathes their own independent lives. Find the killer quickly… or they will kill again!",
+  "developers": [
+    "ColePowered Games"
+  ],
+  "publishers": [
+    "Fireshine Games"
+  ],
+  "release_date": "2024-09-26",
+  "website": "http://shadows.game",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "detective",
+    "immersive-sim",
+    "sandbox",
+    "noir",
+    "voxel",
+    "procedural-generation",
+    "stealth",
+    "open-world",
+    "first-person",
+    "singleplayer",
+    "puzzle",
+    "cyberpunk",
+    "pixel-graphics",
+    "action-rpg",
+    "atmospheric",
+    "hacking"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "Shadows of Doubt - 凶影疑云"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Shadows of Doubt.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "ColePowered Games/Shadows of Doubt/Save",
+          "pattern": "*.sod",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "ColePowered Games/Shadows of Doubt/Cities",
+          "pattern": "*.citb",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "ColePowered Games/Shadows of Doubt/Cities",
+          "pattern": "*.txt",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "ColePowered Games/Shadows of Doubt/Save",
+          "pattern": "*.sodb",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Shadows of Doubt",
+    "Shadows of Doubt - 凶影疑云"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/986130/64dc4dc0a5502c03145b69ffe8ebcea7842031a8.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/986130/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/986130/d7e45a8973134a611b435e1e2ed1b25493fd8df9/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/986130/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/986130/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/986130/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/986130/ss_ca595338d1dcb9ae46601ef917bbe38ade9119c4.1920x1080.jpg?t=1780492383"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/986130/ss_6e8b247fbef7b2be4d87b4a7ef9d6bae191e39f8.1920x1080.jpg?t=1780492383"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/986130/ss_36346e86ecfb3d72d2280f83bdbd5b9cfdb07385.1920x1080.jpg?t=1780492383"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/986130/ss_0a39da1f95ff7dfd98c1ed5066308b1ab929f840.1920x1080.jpg?t=1780492383"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/986130/ss_370787d0cae29638e7d55c325ed699d5b12df7ad.1920x1080.jpg?t=1780492383"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/986130/ss_8fdc47d3a0d3d55539107e62c535366de852f861.1920x1080.jpg?t=1780492383"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/986130/ss_c1996b03a64f67a80d8b9c289eeeb5b012d56fd0.1920x1080.jpg?t=1780492383"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/986130/ss_6afa41e7f69e2fa30b7211c05d37d8e613ba62b3.1920x1080.jpg?t=1780492383"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/986130/ss_ec0da802062c35b2ba31229f3855bd9aabd05652.1920x1080.jpg?t=1780492383"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/986130/ss_4b966e43584fc40adada6bc6e2296958b2b8200e.1920x1080.jpg?t=1780492383"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Modifiers Update - Out Now!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257201125/e4ce5bd1f02586ab656f79bf1240e799708675f3/movie_600x337.jpg?t=1758203144",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/986130/350385192/b8a4db2f43dbbe69d31acf7f024d7fc22b567763/1758195331/dash_h264.mpd?t=1758203144"
+    },
+    {
+      "name": "1.0 Out Now!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257059048/1afc21992968bb7d37fe87c30c6f1b874e74ebff/movie_600x337.jpg?t=1727390132",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/986130/762071/ed564a1ff481d88ef503e87164898f6310cdfd03/1750604321/dash_h264.mpd?t=1727390132"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 986130,
+    "store_url": "https://store.steampowered.com/app/986130/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Detective",
+      "Immersive Sim",
+      "Sandbox",
+      "Noir",
+      "Voxel",
+      "Procedural Generation",
+      "Stealth",
+      "Open World",
+      "First-Person",
+      "Singleplayer",
+      "Puzzle",
+      "Cyberpunk",
+      "Adventure",
+      "RPG",
+      "Indie",
+      "Action",
+      "Pixel Graphics",
+      "Action RPG",
+      "Atmospheric",
+      "Hacking"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 14365,
+    "review_negative": 3082,
+    "review_total": 17447,
+    "review_positive_percent": 82.34
+  }
+}

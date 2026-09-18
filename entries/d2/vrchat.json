@@ -1,0 +1,202 @@
+{
+  "key": "vrchat",
+  "name": "VRChat",
+  "description": "Join our growing community as you explore, play, and help craft the future of social VR. Create worlds and custom avatars. Welcome to VRChat.",
+  "developers": [
+    "VRChat Inc."
+  ],
+  "publishers": [
+    "VRChat Inc."
+  ],
+  "release_date": "2017-02-02",
+  "website": "http://www.vrchat.com",
+  "tags": [
+    "adventure",
+    "casual",
+    "massively-multiplayer",
+    "simulation",
+    "sports",
+    "free-to-play",
+    "early-access",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "vr",
+    "anime",
+    "memes",
+    "funny",
+    "first-person",
+    "open-world",
+    "sandbox",
+    "comedy",
+    "mmorpg",
+    "dating-sim",
+    "horror",
+    "action",
+    "atmospheric"
+  ],
+  "supported_platforms": [
+    "windows",
+    "android"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Polish",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Traditional Chinese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "launch.exe",
+          "description": "VRChat",
+          "type": "vr"
+        },
+        {
+          "executable": "launch.exe",
+          "description": "Launch in Desktop (Non-VR) Mode",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "android": {
+      "launch": [
+        {
+          "executable": "VRChat.apk",
+          "description": "",
+          "type": "openxr"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "VRChat",
+    "launch",
+    "VRChat.apk"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/438100/52c5f93bd9f8de008307f5fad95023600267462c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/ss_1577335ddadd96c338c16a747758290b4214eb85.1920x1080.jpg?t=1762366454"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/ss_31f674ab2a2cdf3d72ff7e8155100f4539a65a72.1920x1080.jpg?t=1762366454"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/ss_869211a61f76ff08db693092b43678278c396249.1920x1080.jpg?t=1762366454"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/ss_9f66a537db246bbf8fa0aa9c6681a37f65307ac2.1920x1080.jpg?t=1762366454"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/ss_b0c252d8f3c07478ec4001c995f4f6c75afb16a1.1920x1080.jpg?t=1762366454"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/ss_38db30a76b354606cf8583565179e69c1054b23c.1920x1080.jpg?t=1762366454"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/ss_c52a57f7f15d49d0d3ccd1743858a94c0dcc1ef1.1920x1080.jpg?t=1762366454"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/ss_d4351d713e0dc6210d5c275060f611c6adb13df2.1920x1080.jpg?t=1762366454"
+    }
+  ],
+  "videos": [
+    {
+      "name": "VRChat Animated Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257227268/cc161fe12db5b5821cbb8a974f16fda60a676163/movie_600x337.jpg?t=1762366450",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/438100/1996256566/994584d17c30577a83cbdb10be28086f2014ede4/1762366133/dash_h264.mpd?t=1762366450"
+    },
+    {
+      "name": "VRChat: Create, Share, Play",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256738338/2c25d8f4e2c0b7930e74ef9d5182eeff1a44e3a4/movie_600x337.jpg?t=1762366452",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/438100/857316145/968c80671784eef5aa58a1e0185982130f77d230/1753399782/dash_h264.mpd?t=1762366452"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 438100,
+    "store_url": "https://store.steampowered.com/app/438100/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Massively Multiplayer",
+      "Simulation",
+      "Sports",
+      "Free To Play",
+      "Early Access"
+    ],
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Full controller support",
+      "Tracked Controller Support",
+      "VR Supported",
+      "In-App Purchases",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "VR",
+      "Free to Play",
+      "Multiplayer",
+      "Anime",
+      "Memes",
+      "Funny",
+      "Massively Multiplayer",
+      "First-Person",
+      "Open World",
+      "Early Access",
+      "Simulation",
+      "Casual",
+      "Adventure",
+      "Sandbox",
+      "Comedy",
+      "MMORPG",
+      "Dating Sim",
+      "Survival Horror",
+      "Action",
+      "Atmospheric"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 199142,
+    "review_negative": 65664,
+    "review_total": 264806,
+    "review_positive_percent": 75.2
+  }
+}

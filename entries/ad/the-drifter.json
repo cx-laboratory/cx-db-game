@@ -1,0 +1,234 @@
+{
+  "key": "the-drifter",
+  "name": "The Drifter",
+  "description": "A Pulp Adventure Thriller - A murdered drifter awakens. Alive again, seconds before his death. Hunted and haunted, help him untangle a mad web of conspiracy in this fast-paced point 'n click thrill-ride.",
+  "developers": [
+    "Powerhoof"
+  ],
+  "publishers": [
+    "Powerhoof"
+  ],
+  "release_date": "2025-07-18",
+  "website": "https://thedriftergame.com",
+  "tags": [
+    "adventure",
+    "indie",
+    "point-and-click",
+    "pixel-graphics",
+    "story-rich",
+    "investigation",
+    "mystery",
+    "thriller",
+    "sci-fi",
+    "horror",
+    "modern",
+    "noir",
+    "1990-s",
+    "supernatural",
+    "2d",
+    "time-manipulation",
+    "controller",
+    "atmospheric",
+    "singleplayer",
+    "dark",
+    "conspiracy"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "TheDrifter.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "TheDrifter.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "TheDrifter.x64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The Drifter",
+    "TheDrifter",
+    "TheDrifter.app",
+    "TheDrifter.x64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1170570/f3f1a02622b225fb0f059a356d71dfc04fa97755.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170570/458be4cc92ad9b57cbf98c07ed7d75be033c5d70/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170570/fc7303995b1298b88005a280fead6a30ba9fdf7a/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170570/21bc0b0a819103703e42a7dfe850c3dd32f0934d/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170570/d082346de32ee4a4fe48b8205ee77013cd8133a9/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170570/e10d98c244c963446d2e79a942800c2b845aa898/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170570/ss_ccfb8bd4f031564a9e0813803929b1b0af7d3569.1920x1080.jpg?t=1781750377"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170570/ss_78ee68bfc94270445583a38aeccce86013e0b0c7.1920x1080.jpg?t=1781750377"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170570/ss_f3dd8b0d0b6fe3aa06e3e81c4100fc2d4d47f1f8.1920x1080.jpg?t=1781750377"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170570/00b547d44208071a4f2fa5dfe0c50579642069ca/ss_00b547d44208071a4f2fa5dfe0c50579642069ca.1920x1080.jpg?t=1781750377"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170570/15b91e070574c9638bc1ea1e377d2359523854ed/ss_15b91e070574c9638bc1ea1e377d2359523854ed.1920x1080.jpg?t=1781750377"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170570/ss_17d458d733b62c65d46632841208dd54051f973a.1920x1080.jpg?t=1781750377"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170570/c88b02a6e75950759b4fb9f86ea543be95276dc4/ss_c88b02a6e75950759b4fb9f86ea543be95276dc4.1920x1080.jpg?t=1781750377"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170570/ss_f0f57d1b19c84d97253ae4893b11eff93f2f2741.1920x1080.jpg?t=1781750377"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170570/ss_4b1247bafd099f31b4182b8f68812b0c49467595.1920x1080.jpg?t=1781750377"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170570/ss_577982df0704a935b3606912bffe61e3fac24488.1920x1080.jpg?t=1781750377"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170570/ss_73c2cbe182489356032bf100dc4e43a5d0e96cdd.1920x1080.jpg?t=1781750377"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170570/ss_4677fda86b2ec6821b5c61dd6310aa755617f5e5.1920x1080.jpg?t=1781750377"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170570/ss_43275fdedd16d25cb96a5eb7c608adf7f150f2f0.1920x1080.jpg?t=1781750377"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257146887/3cc027125a3a4395a7b495eda81b85a419965e2a/movie_600x337.jpg?t=1748527533",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1170570/2084233623/08237b4bd8d35d921df81200bd228ce2cb907554/1751198466/dash_h264.mpd?t=1748527533"
+    },
+    {
+      "name": "Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257361539/68a765baf697b2adb158ae6f8079ccbe07f35287/movie_600x337.jpg?t=1781750376",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1170570/1889629509/e3c2f20c2927e2082a658cff6dddc646312e3d4b/1781749972/dash_h264.mpd?t=1781750376"
+    },
+    {
+      "name": "Grindhouse Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256968186/movie.293x165.jpg?t=1694043812",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1170570/605132/e07e39701ca1d2231eec452f343e5d8088a4afe7/1751198465/dash_h264.mpd?t=1694043812"
+    }
+  ],
+  "metacritic": {
+    "score": 84,
+    "url": "https://www.metacritic.com/game/pc/the-drifter?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1170570,
+    "store_url": "https://store.steampowered.com/app/1170570/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Custom Volume Controls",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Point & Click",
+      "Pixel Graphics",
+      "Story Rich",
+      "Investigation",
+      "Mystery",
+      "Thriller",
+      "Sci-fi",
+      "Horror",
+      "Modern",
+      "Noir",
+      "1990's",
+      "Supernatural",
+      "2D",
+      "Adventure",
+      "Time Manipulation",
+      "Controller",
+      "Atmospheric",
+      "Singleplayer",
+      "Dark",
+      "Conspiracy"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 4460,
+    "review_negative": 111,
+    "review_total": 4571,
+    "review_positive_percent": 97.57
+  }
+}

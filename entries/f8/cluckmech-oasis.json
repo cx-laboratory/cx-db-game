@@ -1,0 +1,235 @@
+{
+  "key": "cluckmech-oasis",
+  "name": "Cluckmech Oasis",
+  "description": "Cluckmech Oasis, a top-down shooting Roguelike tower defense game. Play as the Warcluck and lead your team of animal heroes in a fight for survival. Collect, build and upgrade defenses, and engage in intense battle against waves of plant enemies.",
+  "developers": [
+    "BlackLight"
+  ],
+  "publishers": [
+    "Mammorize"
+  ],
+  "release_date": "2024-05-10",
+  "website": "",
+  "tags": [
+    "action",
+    "casual",
+    "indie",
+    "strategy",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "roguelike",
+    "tower-defense",
+    "pixel-graphics",
+    "top-down-shooter",
+    "cute",
+    "roguelite",
+    "building",
+    "shooter",
+    "funny",
+    "top-down",
+    "2d-platformer",
+    "colorful",
+    "perma-death",
+    "survival",
+    "combat",
+    "sci-fi",
+    "procedural-generation",
+    "singleplayer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "schinese"
+  ],
+  "name_localized": {
+    "english": "Cluckmech Oasis",
+    "japanese": "メカニマル・オアシス",
+    "schinese": "鸡械绿洲",
+    "german": "Cluckmech Oasis",
+    "spanish": "Cluckmech Oasis",
+    "latam": "Cluckmech Oasis"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Cluckmech Oasis.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BlackLight/Cluckmech Oasis/",
+          "pattern": "*.cd",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BlackLight/Cluckmech Oasis/",
+          "pattern": "*.qjcd",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Mac_Cluckmech Oasis.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BlackLight/Cluckmech Oasis/",
+          "pattern": "*.cd",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BlackLight/Cluckmech Oasis/",
+          "pattern": "*.qjcd",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Cluckmech Oasis",
+    "Mac_Cluckmech Oasis.app",
+    "メカニマル・オアシス",
+    "鸡械绿洲"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2453360/88c6c6509c2e647e6803111fa9f5776899d89c6d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2453360/1a1b93c7364d8a82603d816a95e0ea6798b20318/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2453360/51a8d10fe0a82fc87253c36ce6ad04fe699947bb/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2453360/65cab1b693526960d9d13db4a9d0a94d2d7f0100/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2453360/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2453360/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2453360/ss_cb5d1a475d44e020f470bed97fb0ea4b1532ddd7.1920x1080.jpg?t=1782440351"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2453360/ss_f71303861e97975f55ed5f930f85a29076a0535d.1920x1080.jpg?t=1782440351"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2453360/ss_2c369a0e80ddbd882a9fc728bee3a91967800005.1920x1080.jpg?t=1782440351"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2453360/ss_980abdc348bc9a20e916de51cff965bce07df81c.1920x1080.jpg?t=1782440351"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2453360/ss_90831766c7a07d6571a656e9afa01643461152f2.1920x1080.jpg?t=1782440351"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2453360/ss_ff0526a6d9303c85a2d851fb71ce34565fb33a87.1920x1080.jpg?t=1782440351"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2453360/ss_e1c04eb2894e99bbb0484f5976cfbd3edf75b26a.1920x1080.jpg?t=1782440351"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2453360/ss_97ffdf0701a01a6b90e5b9e31081d4679ec228de.1920x1080.jpg?t=1782440351"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2453360/ss_77448084056927adb2fd3e1f32973fcbf3da2b7c.1920x1080.jpg?t=1782440351"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2453360/ss_944f73f6db1c45599c8ecd610bb3a2ab0d606316.1920x1080.jpg?t=1782440351"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2453360/ss_d7847989bfab4608c5290991537eb897f3a5828e.1920x1080.jpg?t=1782440351"
+    }
+  ],
+  "videos": [
+    {
+      "name": "《Cluckmech Oasis》1.4.0",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257365317/81f9a0d8ecbbb52079fdee645dd0e4fb80d253ab/movie_600x337.jpg?t=1782438767",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2453360/216329826/dc887dcda8a4466db29efa188c165162ec9decdc/1782377031/dash_h264.mpd?t=1782438767"
+    },
+    {
+      "name": "《Cluckmech Oasis》1.3.0",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257082767/ebf24f00147b53852dbb3cfdb195f33c63b7b93c/movie_600x337.jpg?t=1782355940",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2453360/801179/707f3d352249714ffd4b43be6abec90645d569e6/1750815191/dash_h264.mpd?t=1782355940"
+    },
+    {
+      "name": "《Cluckmech Oasis》1.2.0",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257058295/a393cfb9190111d4b2871377d0ddd5aae2b5b2c8/movie_600x337.jpg?t=1782355943",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2453360/761042/5a90ae6268b4a74f028ce4435cf2e24d31c3b7a7/1750815181/dash_h264.mpd?t=1782355943"
+    },
+    {
+      "name": "《Cluckmech Oasis》available now！",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256976404/movie.293x165.jpg?t=1782355946",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2453360/619522/762c8aedb0064172813f3b38f26f01cf562cb3cb/1750815176/dash_h264.mpd?t=1782355946"
+    },
+    {
+      "name": "《Cluckmech Oasis》playthrough",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257017954/movie.293x165.jpg?t=1782355947",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2453360/690994/978506b06d684fe72471281643a2fad60066bb03/1750815178/dash_h264.mpd?t=1782355947"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2453360,
+    "store_url": "https://store.steampowered.com/app/2453360/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "Roguelike",
+      "Tower Defense",
+      "Pixel Graphics",
+      "Top-Down Shooter",
+      "Cute",
+      "Roguelite",
+      "Building",
+      "Action",
+      "Shooter",
+      "Funny",
+      "Top-Down",
+      "2D Platformer",
+      "Colorful",
+      "Perma Death",
+      "Survival",
+      "Combat",
+      "Sci-fi",
+      "Procedural Generation",
+      "Singleplayer"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 3129,
+    "review_negative": 418,
+    "review_total": 3547,
+    "review_positive_percent": 88.22
+  }
+}

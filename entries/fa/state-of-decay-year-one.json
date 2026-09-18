@@ -1,0 +1,153 @@
+{
+  "key": "state-of-decay-year-one",
+  "name": "State of Decay: Year-One",
+  "description": "Make your stand against the collapse of society in the ultimate zombie survival-fantasy game. Explore an open world full of dangers and opportunities that respond to your every decision. Recruit a community of playable survivors, each with their own unique skills and talents.",
+  "developers": [
+    "Undead Labs"
+  ],
+  "publishers": [
+    "Xbox Game Studios"
+  ],
+  "release_date": "2015-04-28",
+  "website": "https://www.stateofdecay.com/",
+  "tags": [
+    "action",
+    "rpg",
+    "simulation"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "StateOfDecay.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "USER/{64BitSteamID}",
+          "pattern": "*.ulsave",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "USER/{64BitSteamID}",
+          "pattern": "*.cfg",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "USER",
+          "pattern": "*.xml",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "Game",
+          "pattern": "*.cfg",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "State of Decay: Year-One",
+    "StateOfDecay"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/329430/735efd15df84e4a9ef9f64a980cd313f5ef325bf.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329430/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329430/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329430/library_600x900.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329430/ss_8610cd8a92f3b35bc2c6d31053f4c57a461a879c.1920x1080.jpg?t=1741378961"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329430/ss_c417f1da708a78cc197158ad9dce2e740bcb5db4.1920x1080.jpg?t=1741378961"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329430/ss_98b28e4c4809afbf1fc942316080e859737e76ad.1920x1080.jpg?t=1741378961"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329430/ss_e159bd11e136e5f4157f52534953fe7f525e5de0.1920x1080.jpg?t=1741378961"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329430/ss_0fe23a08d1e117e8b755b56eaed25f12339fdeb4.1920x1080.jpg?t=1741378961"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329430/ss_6cac2689a79b04ba225198fbf2fb63d9d05687d0.1920x1080.jpg?t=1741378961"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329430/ss_4d75d2586e6244b1caa041e82c561ccff99e24bb.1920x1080.jpg?t=1741378961"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329430/ss_67bb218745101dcfceef25bb1fda3a3f759e9cd3.1920x1080.jpg?t=1741378961"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329430/ss_5ed46a022fd1f5f9addd4061b24f08890f168135.1920x1080.jpg?t=1741378961"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Debut Trailer - ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2038265/movie.293x165.jpg?t=1447372139",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/329430/33711/695cbe4e7663aab1133641ce95c7406a75d23c56/1750509481/dash_h264.mpd?t=1447372139"
+    },
+    {
+      "name": "Launch Trailer - ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2038767/movie.293x165.jpg?t=1447373351",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/329430/34757/938e57d885f0429eb78828df178668040353ddaa/1750509514/dash_h264.mpd?t=1447373351"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 329430,
+    "store_url": "https://store.steampowered.com/app/329430/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "RPG",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 10735,
+    "review_negative": 2303,
+    "review_total": 13038,
+    "review_positive_percent": 82.34
+  }
+}

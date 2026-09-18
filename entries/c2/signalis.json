@@ -1,0 +1,191 @@
+{
+  "key": "signalis",
+  "name": "SIGNALIS",
+  "description": "A classic survival horror experience set in a dystopian future where humanity has uncovered a dark secret. Unravel a cosmic mystery, escape terrifying creatures, and scavenge an off-world government facility as Elster, a technician Replika searching for her lost dreams.",
+  "developers": [
+    "rose-engine"
+  ],
+  "publishers": [
+    "Balor Games"
+  ],
+  "release_date": "2022-10-27",
+  "website": "http://rose-engine.org/signalis/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "horror",
+    "female-protagonist",
+    "sci-fi",
+    "atmospheric",
+    "lgbtq",
+    "lovecraftian",
+    "dark",
+    "singleplayer",
+    "mystery",
+    "dystopian",
+    "puzzle",
+    "cyberpunk",
+    "violent",
+    "cinematic",
+    "shooter",
+    "third-person-shooter",
+    "action-adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "schinese",
+    "russian",
+    "japanese",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SIGNALIS.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "SIGNALIS_Data/save/",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "SIGNALIS"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1262350/a59153e59c9040d8a8561d78285106d88715ee20.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262350/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262350/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262350/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262350/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262350/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262350/ss_a2603694154878b8260c1dd498a06168cad012a4.1920x1080.jpg?t=1773697315"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262350/ss_9d602346170b19121e4baec94f5fab54cc43637c.1920x1080.jpg?t=1773697315"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262350/ss_dc87789ecfa2f83dd58ac778866fbf7fdc1ec99a.1920x1080.jpg?t=1773697315"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262350/ss_bb676746c44db01c2bd7ca78616032984f958106.1920x1080.jpg?t=1773697315"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262350/ss_4ec0c13288054a99bc3987680a914ccda834e7f6.1920x1080.jpg?t=1773697315"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262350/ss_f7eb1a1944c4c9d3142bedb800ad3a43a6f82a60.1920x1080.jpg?t=1773697315"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262350/ss_947db45ff0fb6da0e2d9031f0f71a32b740ed612.1920x1080.jpg?t=1773697315"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262350/ss_dcf8d44a07289d9b8ca9d1e9b9ae2a002dd76f6e.1920x1080.jpg?t=1773697315"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262350/ss_c7fcc30c5e2cd2ddf44bc01b2d43964abba72076.1920x1080.jpg?t=1773697315"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262350/ss_5338061a9fa31755789e0a7698fadc2d4ab29b94.1920x1080.jpg?t=1773697315"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262350/ss_af2cb31dc253d739c3ce2f6930be5d339e199be2.1920x1080.jpg?t=1773697315"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256913244/movie.293x165.jpg?t=1666887901",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1262350/508824/c82cb1f2353e146970c0255ecdf6337bdc7d4079/1750657178/dash_h264.mpd?t=1666887901"
+    },
+    {
+      "name": "Gameplay Overview",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256910985/movie.293x165.jpg?t=1665773311",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1262350/504958/d9becccc291a7986cadfd7863426ea3e35d64330/1750657163/dash_h264.mpd?t=1665773311"
+    },
+    {
+      "name": "Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256891139/movie.293x165.jpg?t=1664497433",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1262350/470933/c60cfdd5a2572cf8f18c4835e0874c28d12eb696/1750657161/dash_h264.mpd?t=1664497433"
+    },
+    {
+      "name": "SIGNALIS Spring 2022 Press Showcase",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256878180/movie.293x165.jpg?t=1664497256",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1262350/447576/5bb15ed0da4a065efffa3ea81c649d326ee715be/1750657160/dash_h264.mpd?t=1664497256"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1262350,
+    "store_url": "https://store.steampowered.com/app/1262350/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Survival Horror",
+      "Psychological Horror",
+      "Female Protagonist",
+      "Sci-fi",
+      "Atmospheric",
+      "LGBTQ+",
+      "Lovecraftian",
+      "Dark",
+      "Singleplayer",
+      "Mystery",
+      "Dystopian ",
+      "Puzzle",
+      "Cyberpunk",
+      "Violent",
+      "Action",
+      "Adventure",
+      "Cinematic",
+      "Shooter",
+      "Third-Person Shooter",
+      "Action-Adventure"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 32080,
+    "review_negative": 1113,
+    "review_total": 33193,
+    "review_positive_percent": 96.65
+  }
+}

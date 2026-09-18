@@ -1,0 +1,223 @@
+{
+  "key": "melvor-idle",
+  "name": "Melvor Idle",
+  "description": "Inspired by RuneScape, Melvor Idle takes the core of what makes an adventure game so addictive and strips it down to its purest form! This is a feature-rich, idle/incremental game combining a distinctly familiar feel with a fresh gameplay experience. Maxing 20+ skills has never been more zen.",
+  "developers": [
+    "Games by Malcs"
+  ],
+  "publishers": [
+    "Jagex Ltd"
+  ],
+  "release_date": "2021-11-19",
+  "website": "https://melvoridle.com/landing",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "rpg",
+    "idler",
+    "singleplayer",
+    "2d",
+    "mining",
+    "automation",
+    "crafting",
+    "minimalist",
+    "fantasy",
+    "magic",
+    "cartoon",
+    "combat",
+    "point-and-click",
+    "colorful",
+    "demons",
+    "fishing",
+    "inventory-management"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "Melvor Idle 梅尔沃放置"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Melvor Idle.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "SavesDir",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Melvor Idle.app",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "Melvor Idle x64.app",
+          "description": "Melvor Idle (Intel Macs)",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "SavesDir",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Melvor Idle",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "SavesDir",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Melvor Idle",
+    "Melvor Idle.app",
+    "Melvor Idle x64.app",
+    "Melvor Idle 梅尔沃放置"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1267910/88eca64c662c128de095b4e452881398ac71969c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1267910/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1267910/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1267910/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1267910/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1267910/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1267910/ss_a7988926d18b0035cce632cb860c00a295b47d36.1920x1080.jpg?t=1718290779"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1267910/ss_a73d53bc3bf6301b7f9cc4274a49a05fab1aba13.1920x1080.jpg?t=1718290779"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1267910/ss_5a8f7d294879a43f9e388ed59b3cef0138c9011e.1920x1080.jpg?t=1718290779"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1267910/ss_4d1ff907a39313707c27cddb1fc1b0a03a743859.1920x1080.jpg?t=1718290779"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1267910/ss_1033d8584e0525c823c813f2fc252d05ee00f6e3.1920x1080.jpg?t=1718290779"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1267910/ss_92d81e3ecd4bc0c27fe3b3f6098b72844a0b1e1e.1920x1080.jpg?t=1718290779"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1267910/ss_4d630aaceaa3dfe27c8f7817c604332678c98297.1920x1080.jpg?t=1718290779"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1267910/ss_3ff76c8b0fe31a1e1d31c9ec2251797069a1fbe4.1920x1080.jpg?t=1718290779"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1267910/ss_94c65b5ec167d013b0b574ee9c5f9042ce8b6145.1920x1080.jpg?t=1718290779"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1267910/ss_95358489ee0448102954f2c72e16d995d192d6e1.1920x1080.jpg?t=1718290779"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1267910/ss_b9a9b4a82a815876770818f803628249d0af6636.1920x1080.jpg?t=1718290779"
+    }
+  ],
+  "videos": [
+    {
+      "name": "1.00",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256859828/movie.293x165.jpg?t=1637256938",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1267910/415989/0420e14f3639ebf6109e3670ea0934968260c18a/1750657874/dash_h264.mpd?t=1637256938"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1267910,
+    "store_url": "https://store.steampowered.com/app/1267910/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Idler",
+      "RPG",
+      "Casual",
+      "Indie",
+      "Singleplayer",
+      "Adventure",
+      "2D",
+      "Mining",
+      "Automation",
+      "Crafting",
+      "Minimalist",
+      "Fantasy",
+      "Magic",
+      "Cartoon",
+      "Combat",
+      "Point & Click",
+      "Colorful",
+      "Demons",
+      "Fishing",
+      "Inventory Management"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 14371,
+    "review_negative": 1560,
+    "review_total": 15931,
+    "review_positive_percent": 90.21
+  }
+}

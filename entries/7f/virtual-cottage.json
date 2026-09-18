@@ -1,0 +1,189 @@
+{
+  "key": "virtual-cottage",
+  "name": "Virtual Cottage",
+  "description": "Virtual Cottage gives you a comfy place to rest and be productive without any distractions. Open the game, set yourself a goal and enjoy the atmosphere.",
+  "developers": [
+    "DU&amp;I"
+  ],
+  "publishers": [
+    "DU&amp;I"
+  ],
+  "release_date": "2020-10-07",
+  "website": "",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "free-to-play",
+    "cozy",
+    "relaxing",
+    "utilities",
+    "life-sim",
+    "wholesome",
+    "music",
+    "atmospheric",
+    "design-and-illustration",
+    "cute",
+    "singleplayer",
+    "immersive",
+    "family-friendly",
+    "anime",
+    "idler",
+    "colorful",
+    "female-protagonist"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Virtual Cottage_WINDOWS.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Godot/app_userdata/Virtual Cottage",
+          "pattern": "*.dat",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Virtual Cottage.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Godot/app_userdata/Virtual Cottage",
+          "pattern": "*.dat",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Virtual Cottage_LINUX.x86_64",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Godot/app_userdata/Virtual Cottage",
+          "pattern": "*.dat",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Virtual Cottage",
+    "Virtual Cottage_WINDOWS",
+    "Virtual Cottage.app",
+    "Virtual Cottage_LINUX.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1369320/74a82742492c2c5e456c8eeca2b74aa52694a04f.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1369320/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1369320/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1369320/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1369320/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1369320/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1369320/ss_bc76c7137b6c45195ba48586544ea5661118fc25.1920x1080.jpg?t=1774604887"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1369320/ss_183725edf20bfd348b187b4513700a543a6a8ea4.1920x1080.jpg?t=1774604887"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1369320/ss_7fa40d2a025490b4e61a4e0643ad1e6b91ac8c4c.1920x1080.jpg?t=1774604887"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1369320/ss_454ef12f3df35ff7b6f3fa3cef1a24d95e810551.1920x1080.jpg?t=1774604887"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1369320/ss_5ac3f50d22aa37e34025d6dab8b9492bda753875.1920x1080.jpg?t=1774604887"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256795238/movie.293x165.jpg?t=1683092641",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1369320/302477/e3697718e09bbf2833c9c6d73da7f09a87f9c0f8/1751228165/dash_h264.mpd?t=1683092641"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1369320,
+    "store_url": "https://store.steampowered.com/app/1369320/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Custom Volume Controls",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "Touch Only Option",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Cozy",
+      "Relaxing",
+      "Casual",
+      "Utilities",
+      "Life Sim",
+      "Wholesome",
+      "Music",
+      "Free to Play",
+      "Atmospheric",
+      "Design & Illustration",
+      "Cute",
+      "Singleplayer",
+      "Immersive",
+      "Family Friendly",
+      "Anime",
+      "Idler",
+      "Indie",
+      "Colorful",
+      "Simulation",
+      "Female Protagonist"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 10775,
+    "review_negative": 257,
+    "review_total": 11032,
+    "review_positive_percent": 97.67
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "key": "scp-containment-breach-multiplayer",
+  "name": "SCP: Containment Breach Multiplayer",
+  "description": "Multiplayer survival horror game based on stories from the SCP Foundation. The game is about a facility containing anomalous entities known as SCPs. When a catastrophic containment breach occurs at one of the facilities, it is your main goal to escape the facility. Try to escape with your friends!",
+  "developers": [
+    "Fusion Creators Studio"
+  ],
+  "publishers": [
+    "Fusion Creators Studio"
+  ],
+  "release_date": "2021-10-26",
+  "website": "https://ko-fi.com/fusioncreatorsstudioofficial",
+  "tags": [
+    "indie",
+    "massively-multiplayer",
+    "free-to-play",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "horror",
+    "survival",
+    "first-person",
+    "singleplayer",
+    "3d",
+    "exploration",
+    "local-multiplayer",
+    "atmospheric",
+    "adventure",
+    "action",
+    "violent",
+    "fps"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "game.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "options.ini",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Data",
+          "pattern": "*.ini",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "SCP: Containment Breach Multiplayer",
+    "game"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1782380/63f0143041b06a1a167a30e970a196db951071d7.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782380/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782380/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782380/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782380/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782380/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782380/ss_78632236f8eaa430080ec92f7cd2df469a0811c6.1920x1080.jpg?t=1773337383"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782380/ss_a58aa9f5c33f5e6864647b87fc61696712a6bd56.1920x1080.jpg?t=1773337383"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782380/ss_3179ee8363eafcb40c5c6eaa1682e58fa7006a50.1920x1080.jpg?t=1773337383"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782380/ss_b7dcaeb1161c803e41090a0826f63ff6aff1f101.1920x1080.jpg?t=1773337383"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782380/ss_482642a061f8058f976ec6bf74ed35192d6e87a8.1920x1080.jpg?t=1773337383"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782380/ss_8e01a00f756f7113d5e98032bcae984083ff9b67.1920x1080.jpg?t=1773337383"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782380/ss_5fd662364ab944e8d1b512f65633a0ab74f3d284.1920x1080.jpg?t=1773337383"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782380/ss_348ac837b97d100cd5886b122ff5d6841a3ee9a6.1920x1080.jpg?t=1773337383"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782380/ss_50a9d92650f65f28a49a925528d6f716842657b6.1920x1080.jpg?t=1773337383"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782380/ss_154f85b91ea72c7c2735c74c984ea29e95a3c3b3.1920x1080.jpg?t=1773337383"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782380/ss_5d24cc0dcdcd14235c5da93cce78b0e4c2e6a653.1920x1080.jpg?t=1773337383"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782380/ss_cb56e703d428a08e28974c0de1a01dc936ad4961.1920x1080.jpg?t=1773337383"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782380/ss_961c6357be56db6b71d374b88fbd80b6bbcba06b.1920x1080.jpg?t=1773337383"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782380/ss_9e38d9cecc1d1697d4e6b1db263fe0dfaef61fd0.1920x1080.jpg?t=1773337383"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782380/ss_7a2924abcf9e04931ccdc4b5e6258a1a56dff1ab.1920x1080.jpg?t=1773337383"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782380/ss_22b173653dc9eba6998104de8cbf6004e63c879d.1920x1080.jpg?t=1773337383"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782380/ss_54c95435e33a4316197e17aa6d1065da592fb4c4.1920x1080.jpg?t=1773337383"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782380/ss_1cd3051ebac611d926eef73a347163005238dcb2.1920x1080.jpg?t=1773337383"
+    }
+  ],
+  "videos": [
+    {
+      "name": "SCP Containment Breach Multiplayer Trailer #1",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256855057/movie.293x165.jpg?t=1633725379",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1782380/407660/8f4ffc2df77d530c387bac72925bf20814976870/1751031201/dash_h264.mpd?t=1633725379"
+    },
+    {
+      "name": "SCP Containment Breach Multiplayer Trailer #2",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256854566/movie.293x165.jpg?t=1633726232",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1782380/406703/e9320f3b87c279d48a94b3e166e45a1b50c7ea01/1751030378/dash_h264.mpd?t=1633726232"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1782380,
+    "store_url": "https://store.steampowered.com/app/1782380/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Indie",
+      "Massively Multiplayer",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Horror",
+      "Multiplayer",
+      "Free to Play",
+      "Online Co-Op",
+      "Co-op",
+      "Survival",
+      "Survival Horror",
+      "First-Person",
+      "Singleplayer",
+      "3D",
+      "Psychological Horror",
+      "Exploration",
+      "Local Multiplayer",
+      "Atmospheric",
+      "Massively Multiplayer",
+      "Adventure",
+      "Action",
+      "Violent",
+      "FPS",
+      "PvP"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 23615,
+    "review_negative": 4710,
+    "review_total": 28325,
+    "review_positive_percent": 83.37
+  }
+}

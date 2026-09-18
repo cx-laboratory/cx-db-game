@@ -1,0 +1,193 @@
+{
+  "key": "mount-blade-warband",
+  "name": "Mount & Blade: Warband",
+  "description": "In a land torn asunder by incessant warfare, it is time to assemble your own band of hardened warriors and enter the fray. Lead your men into battle, expand your realm, and claim the ultimate prize: the throne of Calradia!",
+  "developers": [
+    "TaleWorlds Entertainment"
+  ],
+  "publishers": [
+    "TaleWorlds Entertainment"
+  ],
+  "release_date": "2010-04-01",
+  "website": "https://www.taleworlds.com/en/Games/Warband",
+  "tags": [
+    "action",
+    "rpg",
+    "multiplayer",
+    "medieval",
+    "open-world",
+    "strategy",
+    "sandbox",
+    "moddable",
+    "military",
+    "adventure",
+    "horses",
+    "singleplayer",
+    "realistic",
+    "first-person",
+    "historical",
+    "third-person",
+    "simulation",
+    "hack-and-slash",
+    "fantasy",
+    "indie"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "japanese",
+    "polish",
+    "hungarian",
+    "czech",
+    "turkish"
+  ],
+  "name_localized": {
+    "schinese": "骑马与砍杀：战团"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "mb_warband.exe",
+          "description": "Launch Mount&Blade: Warband",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Mount and Blade.app",
+          "description": "Launch Mount&Blade: Warband",
+          "type": "default"
+        },
+        {
+          "executable": "MBWLauncher.app",
+          "description": "Configure Mount&Blade: Warband (choose module)",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "mb_warband_linux",
+          "description": "Launch Mount&Blade: Warband",
+          "type": "default"
+        },
+        {
+          "executable": "mbw_config.sh",
+          "description": "Configure Mount&Blade: Warband (choose module)",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Mount & Blade: Warband",
+    "mb_warband",
+    "Mount and Blade.app",
+    "MBWLauncher.app",
+    "mb_warband_linux",
+    "mbw_config.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/48700/0773e90a6991a5427df4ee516687d832d92b050e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48700/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48700/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48700/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48700/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48700/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48700/ss_de13e2b4dd97032ab54e0c1c687c80f2e5145a59.1920x1080.jpg?t=1750147149"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48700/ss_90c40b92912c02e8189d7eec53e4152dac97262b.1920x1080.jpg?t=1750147149"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48700/ss_1cacf74a86f893b485b276d3ae1ead43a777b17d.1920x1080.jpg?t=1750147149"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48700/ss_6e7c486fab917852cd314db8f93e6ffb71e40631.1920x1080.jpg?t=1750147149"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48700/ss_ffe04ce60a5fc514af0d3da008c0ca6248f7c449.1920x1080.jpg?t=1750147149"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48700/ss_e8086d9514f786cf38ed50a6d61298857e49848c.1920x1080.jpg?t=1750147149"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48700/ss_c9f7534e557049bfc21b82c6fea0e578b462250c.1920x1080.jpg?t=1750147149"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Mount & Blade: Warband Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80952/movie.293x165.jpg?t=1447354457",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/48700/5491/b143f5c952a6b11b8e73776fa5f35497d96dea0c/1750492319/dash_h264.mpd?t=1447354457"
+    }
+  ],
+  "metacritic": {
+    "score": 78,
+    "url": "https://www.metacritic.com/game/pc/mount-blade-warband?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 48700,
+    "store_url": "https://store.steampowered.com/app/48700/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Medieval",
+      "RPG",
+      "Open World",
+      "Strategy",
+      "Sandbox",
+      "Multiplayer",
+      "Action",
+      "Moddable",
+      "Military",
+      "Adventure",
+      "Horses",
+      "Singleplayer",
+      "Realistic",
+      "First-Person",
+      "Historical",
+      "Third Person",
+      "Simulation",
+      "Hack and Slash",
+      "Fantasy",
+      "Indie"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 167457,
+    "review_negative": 3905,
+    "review_total": 171362,
+    "review_positive_percent": 97.72
+  }
+}

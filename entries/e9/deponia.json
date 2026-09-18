@@ -1,0 +1,272 @@
+{
+  "key": "deponia",
+  "name": "Deponia",
+  "description": "In Deponia, the world has degenerated into a vast garbage dump, in which the crotchety Rufus ekes out his sorry existence.",
+  "developers": [
+    "Daedalic Entertainment"
+  ],
+  "publishers": [
+    "Daedalic Entertainment"
+  ],
+  "release_date": "2012-08-07",
+  "website": "http://www.deponia.de",
+  "tags": [
+    "adventure",
+    "indie",
+    "point-and-click",
+    "comedy",
+    "puzzle",
+    "singleplayer",
+    "funny",
+    "story-rich",
+    "2d",
+    "dark-humor",
+    "great-soundtrack",
+    "hand-drawn",
+    "escape-room",
+    "steampunk",
+    "classic",
+    "retro",
+    "sci-fi",
+    "dystopian",
+    "hidden-object",
+    "multiplayer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "polish",
+    "czech",
+    "turkish",
+    "arabic",
+    "brazilian",
+    "bulgarian",
+    "greek"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "deponia.exe",
+          "description": "Launch ",
+          "type": "default"
+        },
+        {
+          "executable": "VisionaireConfigurationTool.bat",
+          "description": "",
+          "type": "config"
+        },
+        {
+          "executable": "open_bonus_win.bat",
+          "description": "Bonus Content",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Daedalic Entertainment/Deponia/Savegames/",
+          "pattern": "*.dat",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Deponia.app",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "Deponia.app/Contents/Applications/visconfig.app",
+          "description": "",
+          "type": "config"
+        },
+        {
+          "executable": "open_bonus_osx.sh",
+          "description": "Bonus Content",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Daedalic Entertainment/Deponia/Savegames/",
+          "pattern": "*.dat",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "start",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "configure",
+          "description": "",
+          "type": "config"
+        },
+        {
+          "executable": "open_bonus_lin.sh",
+          "description": "Bonus Content",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Daedalic Entertainment/Deponia/Savegames/",
+          "pattern": "*.dat",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Deponia",
+    "deponia",
+    "VisionaireConfigurationTool.bat",
+    "open_bonus_win.bat",
+    "Deponia.app",
+    "Deponia.app/Contents/Applications/visconfig.app",
+    "open_bonus_osx.sh",
+    "start",
+    "configure",
+    "open_bonus_lin.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/214340/48a94d33cae6065b0bedf7eefd01bd5321c7c729.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214340/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214340/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214340/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214340/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214340/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214340/ss_5f5dd80ad681eb78c05e1e8a75be9a99facb1deb.1920x1080.jpg?t=1776937661"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214340/ss_bcc3ac76131e42bcd0c00ee14983ad9dc8617229.1920x1080.jpg?t=1776937661"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214340/ss_2a670e7f12bbbca1282b6f3f011235f10e3e41c5.1920x1080.jpg?t=1776937661"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214340/ss_92e3c9254bfbbee2fc319457ba10c7709c76f9e1.1920x1080.jpg?t=1776937661"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214340/ss_f28089eead1c4a2111e4e1e4b6bb2885800f3d38.1920x1080.jpg?t=1776937661"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214340/ss_0f42861e0ef7303325ce4b2c3fa5c4ae0e98c235.1920x1080.jpg?t=1776937661"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214340/ss_93eab97e0a0a7d3178dcf468c36d3a3efde2997b.1920x1080.jpg?t=1776937661"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214340/ss_c59307153a468322b1c0ec917daa70d13189f40c.1920x1080.jpg?t=1776937661"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214340/ss_a08ba423ee5a3c70ac618a92bcfb877edd550ca8.1920x1080.jpg?t=1776937661"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214340/ss_e9b6b3f7501b60af283850ba4f6ec4eea0774381.1920x1080.jpg?t=1776937661"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214340/ss_87a1404af2710d7eeaa5208c84b586cbf7c8b831.1920x1080.jpg?t=1776937661"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214340/ss_cafd2de848bb46f43b686be03a3f3db66d5296c9.1920x1080.jpg?t=1776937661"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Deponia Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81924/movie.293x165.jpg?t=1447356384",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/214340/8580/0737c029a97bbe638317adc8b83b8de376dd7d38/1751259586/dash_h264.mpd?t=1447356384"
+    },
+    {
+      "name": "Deponia Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81915/movie.293x165.jpg?t=1447356367",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/214340/8545/d5b3e49918a41e8ba6abdabf96c4057d202effae/1751259586/dash_h264.mpd?t=1447356367"
+    },
+    {
+      "name": "Deponia Research Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028064/movie.293x165.jpg?t=1447356935",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/214340/9553/f967e9ee2cbb630633d6877e576d36fbd46e1b2b/1751259588/dash_h264.mpd?t=1447356935"
+    }
+  ],
+  "metacritic": {
+    "score": 74,
+    "url": "https://www.metacritic.com/game/pc/deponia?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 214340,
+    "store_url": "https://store.steampowered.com/app/214340/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Point & Click",
+      "Adventure",
+      "Comedy",
+      "Puzzle",
+      "Singleplayer",
+      "Funny",
+      "Indie",
+      "Story Rich",
+      "2D",
+      "Dark Humor",
+      "Great Soundtrack",
+      "Hand-drawn",
+      "Escape Room",
+      "Steampunk",
+      "Classic",
+      "Retro",
+      "Sci-fi",
+      "Dystopian ",
+      "Hidden Object",
+      "Multiplayer"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 12118,
+    "review_negative": 1884,
+    "review_total": 14002,
+    "review_positive_percent": 86.54
+  }
+}

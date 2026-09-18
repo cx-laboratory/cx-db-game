@@ -1,0 +1,252 @@
+{
+  "key": "witch-it",
+  "name": "Witch It",
+  "description": "Witch It is a multiplayer hide &amp; seek game set in a vibrant, magical world. Brave hunters seek hidden witches that curse their villages!",
+  "developers": [
+    "Barrel Roll Games"
+  ],
+  "publishers": [
+    "Barrel Roll Games"
+  ],
+  "release_date": "2020-10-23",
+  "website": "http://www.witchit.com",
+  "tags": [
+    "action",
+    "casual",
+    "indie",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "funny",
+    "hidden-object",
+    "online-co-op",
+    "stealth",
+    "survival",
+    "co-op",
+    "fantasy",
+    "first-person",
+    "team-based",
+    "early-access",
+    "family-friendly",
+    "strategy",
+    "atmospheric",
+    "open-world",
+    "magic"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "German",
+    "Simplified Chinese",
+    "Turkish",
+    "French",
+    "Italian",
+    "Dutch",
+    "Russian",
+    "Portuguese - Brazil",
+    "Romanian",
+    "Traditional Chinese",
+    "Czech",
+    "Spanish - Spain",
+    "Korean",
+    "Danish",
+    "Swedish",
+    "Ukrainian",
+    "Hungarian",
+    "Galician",
+    "Japanese",
+    "Polish",
+    "Basque"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "\\WitchIt\\Binaries\\Win64\\PropWitchHuntModule-Win64-Shipping.exe",
+          "description": "Windows 64 Bit",
+          "type": "default"
+        },
+        {
+          "executable": "\\WitchIt\\Binaries\\Win64\\PropWitchHuntModule-Win64-Shipping.exe",
+          "description": "Start with Vulkan enabled (experimental)",
+          "type": "default"
+        },
+        {
+          "executable": "\\WitchIt\\Binaries\\Win64\\DeleteConfigAndSaves.bat",
+          "description": "Restore config defaults (this can fix issues)",
+          "type": "none"
+        },
+        {
+          "executable": "\\WitchIt\\Binaries\\Win64\\PropWitchHuntModule-Win64-Shipping.exe",
+          "description": "Start with DX 11 (for old graphics cards)",
+          "type": "default"
+        },
+        {
+          "executable": "\\WitchIt\\Binaries\\Win64\\PropWitchHuntModule-Win64-Shipping.exe",
+          "description": "Start with Simple Shaders (for slow PCs)",
+          "type": "default"
+        },
+        {
+          "executable": "WitchIt.exe",
+          "description": "Mit Anti-Cheat",
+          "type": "default"
+        },
+        {
+          "executable": "WitchIt.exe",
+          "description": "With Anti-Cheat",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Witch It",
+    "\\WitchIt\\Binaries\\Win64\\PropWitchHuntModule-Win64-Shipping",
+    "\\WitchIt\\Binaries\\Win64\\DeleteConfigAndSaves.bat",
+    "WitchIt"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/559650/8482ea1b7e6fb1c69d306e653a85f98c6a9e4407.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/559650/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/559650/6baf92066c6d4bc759b5f00f5f50c3c4a9a05692/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/559650/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/559650/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/559650/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/559650/ss_3700680d4a7efa4e4ce322f769274265856a460e.1920x1080.jpg?t=1775747238"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/559650/ss_d02605ed10621dab8933dd51b357138f02438f5e.1920x1080.jpg?t=1775747238"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/559650/ss_fc9cf6bf8d37eb7e8defb308e03ade70f478148e.1920x1080.jpg?t=1775747238"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/559650/ss_e9619fddb5e637d6b16144152578c0d58a3100a9.1920x1080.jpg?t=1775747238"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/559650/ss_91715abee1bd5bdc5215c38c2c1a380db9b48e33.1920x1080.jpg?t=1775747238"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/559650/ss_d9ed5b688ca6510980716bccd0c4bf819fa4be76.1920x1080.jpg?t=1775747238"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/559650/ss_12387e1151449c2fffa03391e2913ce426bcd4d6.1920x1080.jpg?t=1775747238"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/559650/ss_893f5eb8fa2f704746835233815fdfc67c22d8de.1920x1080.jpg?t=1775747238"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/559650/ss_ca81696ad1a2a8f7669fc41d5c61a944396464b9.1920x1080.jpg?t=1775747238"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/559650/ss_f0d61a8ccf08150fe54ec78ff8b56148ce1b5666.1920x1080.jpg?t=1775747238"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/559650/ss_4fa62c3acf0b35367e58f86b739791bbdfb2419a.1920x1080.jpg?t=1775747238"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/559650/ss_1e84aba295d623ec8820db447564e33c1b6c85e9.1920x1080.jpg?t=1775747238"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/559650/ss_714b8c608fa903f3e4854abe85ba3be99ca21352.1920x1080.jpg?t=1775747238"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/559650/ss_d6c82aab69fb26d3e872d8f899804dfe6a7ee6bf.1920x1080.jpg?t=1775747238"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/559650/ss_4c00f866b3d70c35452684da2ee8137364b0ed60.1920x1080.jpg?t=1775747238"
+    }
+  ],
+  "videos": [
+    {
+      "name": "1.0 Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256805984/e4fbad2fbf08de5281eca02350dca4a92534c06c/movie_600x337.jpg?t=1727690268",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/559650/320971/aa26458a5e105d2dd98dc70e38cbeab517a149a9/1750551255/dash_h264.mpd?t=1727690268"
+    },
+    {
+      "name": "Dreamland Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257059532/9e1ce8a89c8817b2ef52edd160025393c817fda3/movie_600x337.jpg?t=1727690277",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/559650/762775/514962b7a92112379e1cd4db93b3506838ae1063/1750551315/dash_h264.mpd?t=1727690277"
+    },
+    {
+      "name": "Mystic Sands Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256857884/movie.293x165.jpg?t=1693317504",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/559650/412677/2e1e9f18562210112d130fec99a905039c643f2c/1750551306/dash_h264.mpd?t=1693317504"
+    },
+    {
+      "name": "1.0 Teaser Trailer CHN_simplified",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256806037/movie.293x165.jpg?t=1727690285",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/559650/321037/e865df1ad524adb50cd5aefa351e8e8b8e1a1e44/1750551259/dash_h264.mpd?t=1727690285"
+    },
+    {
+      "name": "Early Access Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256685588/movie.293x165.jpg?t=1693317508",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/559650/104569/fd124da73e2b5ca987aa980b929171d9cd89f417/1750551252/dash_h264.mpd?t=1693317508"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 559650,
+    "store_url": "https://store.steampowered.com/app/559650/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled",
+      "Stats",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Funny",
+      "Casual",
+      "Indie",
+      "Action",
+      "Hidden Object",
+      "Online Co-Op",
+      "Stealth",
+      "Survival",
+      "Co-op",
+      "Fantasy",
+      "First-Person",
+      "Team-Based",
+      "Early Access",
+      "PvP",
+      "Family Friendly",
+      "Strategy",
+      "Atmospheric",
+      "Open World",
+      "Magic"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 17631,
+    "review_negative": 2210,
+    "review_total": 19841,
+    "review_positive_percent": 88.86
+  }
+}

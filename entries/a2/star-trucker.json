@@ -1,0 +1,182 @@
+{
+  "key": "star-trucker",
+  "name": "Star Trucker",
+  "description": "Haul cargo, trade salvage and keep your space suit close as you search for fame and fortune among the stars in a game that puts an interstellar twist on the truck sim genre.",
+  "developers": [
+    "Monster and Monster"
+  ],
+  "publishers": [
+    "Raw Fury"
+  ],
+  "release_date": "2024-09-03",
+  "website": "http://star-trucker.com",
+  "tags": [
+    "simulation",
+    "transportation",
+    "space-sim",
+    "space",
+    "driving",
+    "automobile-sim",
+    "futuristic",
+    "exploration",
+    "relaxing",
+    "open-world",
+    "sci-fi",
+    "physics",
+    "adventure",
+    "moddable",
+    "survival",
+    "atmospheric",
+    "immersive-sim",
+    "first-person",
+    "sandbox",
+    "realistic"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "polish",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "星际卡车司机"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Star Trucker.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Monster And Monster\\Star Trucker",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Star Trucker",
+    "星际卡车司机"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2380050/7631e6879c528a753c764fb9af22ba7326736655.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380050/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380050/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380050/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380050/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380050/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380050/ss_012ce453afaf3adc4962ad4120082d6ee7a6dedb.1920x1080.jpg?t=1780409613"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380050/ss_c3dc6ac40f494e115665a25af4e4dc94fea2d509.1920x1080.jpg?t=1780409613"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380050/ss_fbd29c566c07dbfb68bbe50c9b03902bb0042d19.1920x1080.jpg?t=1780409613"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380050/ss_9ad33bd28c7b671cd76615b1da9accbc14c3ea89.1920x1080.jpg?t=1780409613"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380050/ss_7c557ec275e04160478b15b9bb477dc81c9c5046.1920x1080.jpg?t=1780409613"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380050/ss_6c8f617f2226664889ebbd42a6c3bd0ea99fc6f2.1920x1080.jpg?t=1780409613"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Business Ventures Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257324245/9d7acdfc676829f5fad4dcc0191e2811019c2523/movie_600x337.jpg?t=1776866769",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2380050/1148477736/cb4bc8df6266366836af9f32d025b5842eb37d08/1776865514/dash_h264.mpd?t=1776866769"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257048176/movie.293x165.jpg?t=1725371743",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2380050/743710/41a363bae79aa869ebeece386ea54d644e6e035f/1750813832/dash_h264.mpd?t=1725371743"
+    },
+    {
+      "name": "Star Trucker - Date Reveal",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257028525/movie.293x165.jpg?t=1717968473",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2380050/709655/79efa29854745b9abd6f4c78906c9030c153d5af/1750813450/dash_h264.mpd?t=1717968473"
+    },
+    {
+      "name": "Gameplay trailer - Cargo Jobs",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256989695/movie.293x165.jpg?t=1702997026",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2380050/641812/dd0f41f41db213024ef8a695874adbbef4b97ba0/1750813450/dash_h264.mpd?t=1702997026"
+    },
+    {
+      "name": "Announcement trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256950990/movie.293x165.jpg?t=1686738628",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2380050/574997/ffabbd67f908b8a6f0eef62f0435efbd1db2834c/1750814553/dash_h264.mpd?t=1686738628"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2380050,
+    "store_url": "https://store.steampowered.com/app/2380050/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Transportation",
+      "Space Sim",
+      "Space",
+      "Driving",
+      "Automobile Sim",
+      "Simulation",
+      "Futuristic",
+      "Exploration",
+      "Relaxing",
+      "Open World",
+      "Sci-fi",
+      "Physics",
+      "Adventure",
+      "Moddable",
+      "Survival",
+      "Atmospheric",
+      "Immersive Sim",
+      "First-Person",
+      "Sandbox",
+      "Realistic"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 4105,
+    "review_negative": 1110,
+    "review_total": 5215,
+    "review_positive_percent": 78.72
+  }
+}

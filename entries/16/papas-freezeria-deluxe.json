@@ -1,0 +1,162 @@
+{
+  "key": "papas-freezeria-deluxe",
+  "name": "Papa's Freezeria Deluxe",
+  "description": "Return to Calypso Island to serve seasonal sundae treats in Papa's Freezeria Deluxe! Craft sundaes in the Freezeria for all your quirky customers while earning tips, points and Special Recipes. Switch gears and take a trip in the Food Truck to concoct your own chilly creations and see who shows up!",
+  "developers": [
+    "Flipline Studios"
+  ],
+  "publishers": [
+    "Flipline Studios"
+  ],
+  "release_date": "2023-03-31",
+  "website": "",
+  "tags": [
+    "action",
+    "casual",
+    "indie",
+    "simulation",
+    "strategy",
+    "cooking",
+    "time-management",
+    "job-simulator",
+    "character-customization",
+    "management",
+    "singleplayer",
+    "nostalgia",
+    "2d",
+    "family-friendly",
+    "classic",
+    "colorful",
+    "cute",
+    "funny",
+    "relaxing"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Papa's Freezeria Deluxe.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "com.flipline.papasfreezeriadeluxe",
+          "pattern": "*.sol",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Papa's Freezeria Deluxe"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2291760/6c6cce4b33a26c31b3e436b605583bcd59a5074b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291760/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291760/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291760/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291760/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291760/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291760/ss_0dea2f637568c519c2e4dac588230a077969161c.1920x1080.jpg?t=1700157490"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291760/ss_c0542b61371985711e32c1c6d1ad7dd28ffa6af6.1920x1080.jpg?t=1700157490"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291760/ss_1232bd5d3d2a63809e9259113c217742a92754dd.1920x1080.jpg?t=1700157490"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291760/ss_b29ae23a44bd9611dc6db3faa7de8a0b22d933ed.1920x1080.jpg?t=1700157490"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291760/ss_808712b2127d48f874bd76bfa130accbd446e045.1920x1080.jpg?t=1700157490"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291760/ss_e151cf0d56cbc6a40993207c5c88ffa7a8633a47.1920x1080.jpg?t=1700157490"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291760/ss_6e8bd4f13a9df00639b5f49be52fc5a0f02fd8b7.1920x1080.jpg?t=1700157490"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291760/ss_603a27f00bf74b729b41d76dbeb27efa652b20c1.1920x1080.jpg?t=1700157490"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291760/ss_6cc2cb5b4454c0fbf4939684689abae82abb7293.1920x1080.jpg?t=1700157490"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291760/ss_5dc62401e8307478eab4f8f5ae908294436db281.1920x1080.jpg?t=1700157490"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Papa's Freezeria Deluxe",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256929899/movie.293x165.jpg?t=1676471888",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2291760/537994/ea9559e043c443c78f3d59dca37e6b98c213b492/1750810988/dash_h264.mpd?t=1676471888"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2291760,
+    "store_url": "https://store.steampowered.com/app/2291760/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Cooking",
+      "Time Management",
+      "Simulation",
+      "Casual",
+      "Job Simulator",
+      "Strategy",
+      "Character Customization",
+      "Management",
+      "Singleplayer",
+      "Indie",
+      "Nostalgia",
+      "2D",
+      "Family Friendly",
+      "Classic",
+      "Colorful",
+      "Cute",
+      "Funny",
+      "Action",
+      "Relaxing",
+      "Psychological Horror"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 12939,
+    "review_negative": 99,
+    "review_total": 13038,
+    "review_positive_percent": 99.24
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "key": "max-payne-2-the-fall-of-max-payne",
+  "name": "Max Payne 2: The Fall of Max Payne",
+  "description": "Max Payne 2: The Fall of Max Payne is a violent, film-noir love story. Dark, tragic and intense, the in-depth story is a thrill-ride of shocking twists and revelations. Love hurts.",
+  "developers": [
+    "Remedy Entertainment"
+  ],
+  "publishers": [
+    "Rockstar Games"
+  ],
+  "release_date": "2008-01-05",
+  "website": "http://www.rockstargames.com/maxpayne2/",
+  "tags": [
+    "action"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "maxpayne2.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Max Payne 2: The Fall of Max Payne",
+    "maxpayne2"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/12150/4eba5db8324e043569742f7b1d50a8975b88bf52.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12150/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12150/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12150/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12150/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12150/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12150/0000003271.1920x1080.jpg?t=1709651720"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12150/0000003272.1920x1080.jpg?t=1709651720"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12150/0000003273.1920x1080.jpg?t=1709651720"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12150/0000003274.1920x1080.jpg?t=1709651720"
+    }
+  ],
+  "videos": [],
+  "metacritic": {
+    "score": 86,
+    "url": "https://www.metacritic.com/game/pc/max-payne-2-the-fall-of-max-payne?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 12150,
+    "store_url": "https://store.steampowered.com/app/12150/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 13468,
+    "review_negative": 811,
+    "review_total": 14279,
+    "review_positive_percent": 94.32
+  }
+}

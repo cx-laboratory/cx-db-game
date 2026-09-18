@@ -1,0 +1,155 @@
+{
+  "key": "return-to-castle-wolfenstein",
+  "name": "Return to Castle Wolfenstein",
+  "description": "World War II rages and nations fall. The Nazis are twisting science and the occult into an army capable of annihilating the Allies once and for all. As US Army Ranger William “B.J.” Blazkowicz, pierce the black heart of the Third Reich and stop them...or die trying.",
+  "developers": [
+    "Gray Matter Studios"
+  ],
+  "publishers": [
+    "Bethesda Softworks"
+  ],
+  "release_date": "2007-08-04",
+  "website": "http://www.idsoftware.com/games/wolfenstein/rtcw/",
+  "tags": [
+    "action",
+    "multiplayer",
+    "fps",
+    "classic",
+    "world-war-ii",
+    "supernatural",
+    "alternate-history",
+    "shooter",
+    "singleplayer",
+    "first-person",
+    "horror",
+    "atmospheric",
+    "gore",
+    "zombies",
+    "stealth",
+    "sci-fi",
+    "adventure",
+    "retro",
+    "great-soundtrack",
+    "old-school"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {
+    "schinese": "重返德军总部"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "WolfSP.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "WolfMP.exe",
+          "description": "Launch Return to Castle Wolfenstein Multiplayer",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Return to Castle Wolfenstein",
+    "WolfSP",
+    "WolfMP"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/9010/5a588b9863f6e2a8e6dfb8a9c5217e7e90b5406d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9010/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9010/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9010/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9010/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9010/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9010/0000002404.1920x1080.jpg?t=1664380265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9010/0000002405.1920x1080.jpg?t=1664380265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9010/0000002406.1920x1080.jpg?t=1664380265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9010/0000002407.1920x1080.jpg?t=1664380265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9010/0000002408.1920x1080.jpg?t=1664380265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9010/0000002409.1920x1080.jpg?t=1664380265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9010/0000002410.1920x1080.jpg?t=1664380265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9010/0000002411.1920x1080.jpg?t=1664380265"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9010/0000002412.1920x1080.jpg?t=1664380265"
+    }
+  ],
+  "videos": [],
+  "metacritic": {
+    "score": 88,
+    "url": "https://www.metacritic.com/game/pc/return-to-castle-wolfenstein?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 9010,
+    "store_url": "https://store.steampowered.com/app/9010/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "FPS",
+      "Action",
+      "Classic",
+      "World War II",
+      "Supernatural",
+      "Alternate History",
+      "Shooter",
+      "Singleplayer",
+      "First-Person",
+      "Horror",
+      "Atmospheric",
+      "Gore",
+      "Multiplayer",
+      "Zombies",
+      "Stealth",
+      "Sci-fi",
+      "Adventure",
+      "Retro",
+      "Great Soundtrack",
+      "Old School"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8480,
+    "review_negative": 644,
+    "review_total": 9124,
+    "review_positive_percent": 92.94
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "key": "clone-drone-in-the-danger-zone",
+  "name": "Clone Drone in the Danger Zone",
+  "description": "Clone Drone in the Danger Zone is a robot voxel slice-em-up where any part of your body can be sliced off. With your mind downloaded into a robot gladiator, you must survive the sinister trials of the arena.",
+  "developers": [
+    "Doborog Games"
+  ],
+  "publishers": [
+    "Doborog Games"
+  ],
+  "release_date": "2021-07-27",
+  "website": "https://clonedroneinthedangerzone.com",
+  "tags": [
+    "action",
+    "indie",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "robots",
+    "3d-fighter",
+    "swordplay",
+    "fighting",
+    "voxel",
+    "funny",
+    "roguelike",
+    "singleplayer",
+    "third-person",
+    "pixel-graphics",
+    "futuristic",
+    "difficult",
+    "comedy",
+    "survival",
+    "dark-humor"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English*",
+    "French*",
+    "Italian",
+    "German*",
+    "Spanish - Spain",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Spanish - Latin America",
+    "Japanese*",
+    "Korean",
+    "Traditional Chinese*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "克隆机器人角斗场"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Clone Drone in the Danger Zone.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Doborog/Clone Drone in the Danger Zone/",
+          "pattern": "*.json",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Clone Drone in the Danger Zone.app/Contents/MacOS/Clone Drone in the Danger Zone",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Doborog/Clone Drone in the Danger Zone/",
+          "pattern": "*.json",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Clone Drone in the Danger Zone",
+    "Clone Drone in the Danger Zone.app/Contents/MacOS/Clone Drone in the Danger Zone"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/597170/2c09e97d9c2ded6c73d3502ef2121bfdcb5aee61.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_b0e2f164f94d531f6c49785598f2a444d3e965a4.1920x1080.jpg?t=1776463820"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/96ebab7085fb8651ce237ee32dfa8c67b8dc7f6c/ss_96ebab7085fb8651ce237ee32dfa8c67b8dc7f6c.1920x1080.jpg?t=1776463820"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_735de402cde4c061b74c0b7bc0f4c7762e1eff74.1920x1080.jpg?t=1776463820"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/f081fb0e9475a85dc9e077600a222f6ab83b4282/ss_f081fb0e9475a85dc9e077600a222f6ab83b4282.1920x1080.jpg?t=1776463820"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_9f0e774f099b1a4eb2dfa97aab629acbf18c7b9e.1920x1080.jpg?t=1776463820"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/4dbcdeca81994353342e7554925787d06c90cab9/ss_4dbcdeca81994353342e7554925787d06c90cab9.1920x1080.jpg?t=1776463820"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_aeb33da5fd0a8bccd3b4e11ed9489a1abac3e56d.1920x1080.jpg?t=1776463820"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_2dd9b99d36d6fd1cee26f383ed36a34fb9a56010.1920x1080.jpg?t=1776463820"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_4cd312fe42d2c0150a3e4164936a36cfb7496d41.1920x1080.jpg?t=1776463820"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_e27603df46b94b408f3730cdab5cc26a1bf843f7.1920x1080.jpg?t=1776463820"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_6b09517ea896320135fb2cb8e0b173058df1037d.1920x1080.jpg?t=1776463820"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_d40aab82a3c9aaf71a6f0141b05f81698d8cbaa4.1920x1080.jpg?t=1776463820"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_7ee7fe409f71d8851fc7703d1f7f3cb892cb803c.1920x1080.jpg?t=1776463820"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_d2535a503b862681d53b875459510bca5c54906f.1920x1080.jpg?t=1776463820"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_ca5b60ff831670d1ccd6c94782b4eebe83f545bd.1920x1080.jpg?t=1776463820"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_6e657dc6d54e1ea1c8b2f4d72887152d37d3aab1.1920x1080.jpg?t=1776463820"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_d2bd272966292a00b049ae32bc689828fd6a1242.1920x1080.jpg?t=1776463820"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_d1b682dee52093cc3ae6aea31fc249dddfbfb3fd.1920x1080.jpg?t=1776463820"
+    }
+  ],
+  "videos": [
+    {
+      "name": "V1.0 Teaser Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256818028/movie.293x165.jpg?t=1623253614",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/597170/340201/aab5159a5dcc75300787484df024fc6971abff88/1750559258/dash_h264.mpd?t=1623253614"
+    },
+    {
+      "name": "Team Battle Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257319180/1634e8b08b67072c7d33931359439470424469d0/movie_600x337.jpg?t=1776168369",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/597170/204568182/2765c74f93089351d0dcbdbc0e24770cc73dd37b/1776125671/dash_h264.mpd?t=1776168369"
+    },
+    {
+      "name": "Ride or Die Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257250224/b151223ce28119434a7d1355cde96a8e2f3ef506/movie_600x337.jpg?t=1765820973",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/597170/849524390/2608fe17403e7c316f72fabe34b99a3e0ff1e2ab/1765820119/dash_h264.mpd?t=1765820973"
+    },
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256775290/movie.293x165.jpg?t=1581722970",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/597170/267123/f8fef36d0672403a69e50daae0468782f42439f3/1750559137/dash_h264.mpd?t=1581722970"
+    },
+    {
+      "name": "Last Bot Standing Game Mode Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256729976/movie.293x165.jpg?t=1581722982",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/597170/186412/b0640a8e0c2ae6ba31279c20ad06b35b15aff3d5/1750559115/dash_h264.mpd?t=1581722982"
+    }
+  ],
+  "metacritic": {
+    "score": 82,
+    "url": "https://www.metacritic.com/game/pc/clone-drone-in-the-danger-zone?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 597170,
+    "store_url": "https://store.steampowered.com/app/597170/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Captions available",
+      "Steam Workshop",
+      "In-App Purchases",
+      "Steam Cloud",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Robots",
+      "Action",
+      "3D Fighter",
+      "Swordplay",
+      "Multiplayer",
+      "Fighting",
+      "Indie",
+      "Voxel",
+      "Co-op",
+      "Funny",
+      "Roguelike",
+      "Singleplayer",
+      "Online Co-Op",
+      "Third Person",
+      "Pixel Graphics",
+      "Futuristic",
+      "Difficult",
+      "Comedy",
+      "Survival",
+      "Dark Humor"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 37199,
+    "review_negative": 1482,
+    "review_total": 38681,
+    "review_positive_percent": 96.17
+  }
+}

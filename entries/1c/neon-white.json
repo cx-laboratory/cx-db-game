@@ -1,0 +1,181 @@
+{
+  "key": "neon-white",
+  "name": "Neon White",
+  "description": "Neon White is a single-player speedrunning FPS where you can sacrifice your guns for godlike parkour moves.",
+  "developers": [
+    "Angel Matrix"
+  ],
+  "publishers": [
+    "Annapurna Interactive"
+  ],
+  "release_date": "2022-06-16",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "fps",
+    "3d-platformer",
+    "parkour",
+    "fast-paced",
+    "platformer",
+    "shooter",
+    "anime",
+    "singleplayer",
+    "precision-platformer",
+    "stylized",
+    "first-person",
+    "great-soundtrack",
+    "3d",
+    "dating-sim",
+    "story-rich",
+    "card-game",
+    "combat"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "turkish",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Neon White.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Little Flag Software, LLC/Neon White/{64BitSteamID}",
+          "pattern": "*.phant",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Little Flag Software, LLC/Neon White/{64BitSteamID}",
+          "pattern": "savedata.dat",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Neon White"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1533420/0c26e58be78678cb80716370bd607778d85b3ab5.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533420/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533420/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533420/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533420/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533420/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533420/ss_d8c2c0eb97bc25344f24da92e55b6420ca94c607.1920x1080.jpg?t=1729099604"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533420/ss_27ea65326988eeeaa504bb8c0d2c892aae894b57.1920x1080.jpg?t=1729099604"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533420/ss_38fc87620e7706535193143404488e5c10863813.1920x1080.jpg?t=1729099604"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533420/ss_7ebe34f5d96739a0901619b31b8f5a2a1c43bc50.1920x1080.jpg?t=1729099604"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533420/ss_ca814762dba95590d9dc0aca6bd1add9de5fe0f6.1920x1080.jpg?t=1729099604"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Neon White | Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256819933/movie.293x165.jpg?t=1613600863",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1533420/343694/9a4030fb68b8b50737b5c80f298dfd559aff9ce0/1750699667/dash_h264.mpd?t=1613600863"
+    },
+    {
+      "name": "Neon White | Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256890857/movie.293x165.jpg?t=1655351457",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1533420/470489/b4f36e5c5144407085358a885b0d4d45e22781a0/1750698270/dash_h264.mpd?t=1655351457"
+    },
+    {
+      "name": "Neon White | Available Now",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256892175/movie.293x165.jpg?t=1655410316",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1533420/472487/40490dd2da30db0949511a46a7f9fcb1c7c0eff3/1750698276/dash_h264.mpd?t=1655410316"
+    }
+  ],
+  "metacritic": {
+    "score": 89,
+    "url": "https://www.metacritic.com/game/pc/neon-white?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1533420,
+    "store_url": "https://store.steampowered.com/app/1533420/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "FPS",
+      "3D Platformer",
+      "Parkour",
+      "Fast-Paced",
+      "Platformer",
+      "Action",
+      "Shooter",
+      "Indie",
+      "Anime",
+      "Singleplayer",
+      "Precision Platformer",
+      "Stylized",
+      "First-Person",
+      "Great Soundtrack",
+      "Adventure",
+      "3D",
+      "Dating Sim",
+      "Story Rich",
+      "Card Game",
+      "Combat"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 19823,
+    "review_negative": 407,
+    "review_total": 20230,
+    "review_positive_percent": 97.99
+  }
+}

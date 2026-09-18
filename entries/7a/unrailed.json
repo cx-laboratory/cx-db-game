@@ -1,0 +1,235 @@
+{
+  "key": "unrailed",
+  "name": "Unrailed!",
+  "description": "Unrailed! is a co-op multiplayer game where you have to work together with your friends to build a train track across endless procedurally generated worlds. Master random encounters with its inhabitants, upgrade your train and keep it from derailing!",
+  "developers": [
+    "Indoor Astronaut"
+  ],
+  "publishers": [
+    "Daedalic Entertainment"
+  ],
+  "release_date": "2020-09-24",
+  "website": "https://unrailed-game.com",
+  "tags": [
+    "action",
+    "casual",
+    "indie",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "split-screen",
+    "local-multiplayer",
+    "trains",
+    "procedural-generation",
+    "4-player-local",
+    "voxel",
+    "family-friendly",
+    "funny",
+    "survival",
+    "isometric",
+    "controller",
+    "cute",
+    "competitive",
+    "pixel-graphics"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "turkish",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "一起开火车！"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "UnrailedGame.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "UnrailedGame.exe",
+          "description": "Unrailed! China",
+          "type": "option1"
+        },
+        {
+          "executable": "open_bonus_win.bat",
+          "description": "Bonus Content",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Unrailed.app/Contents/MacOS/UnrailedGame",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "open_bonus_osx.sh",
+          "description": "Bonus Content",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "/linux/UnrailedGame",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "open_bonus_lin.sh",
+          "description": "Bonus Content",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Unrailed!",
+    "UnrailedGame",
+    "open_bonus_win.bat",
+    "Unrailed.app/Contents/MacOS/UnrailedGame",
+    "open_bonus_osx.sh",
+    "/linux/UnrailedGame",
+    "open_bonus_lin.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1016920/d52e7b3ffc58010b2792160e07ce6834f8c3d80b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/ss_718c17d9145a8f11eb99de457d513fc79bd82979.1920x1080.jpg?t=1773842519"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/ss_60264335a97af2987159e787635f39cb9f19f648.1920x1080.jpg?t=1773842519"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/ss_8496602ef1f242770f079665740f542aaa4eb638.1920x1080.jpg?t=1773842519"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/ss_71511b260173d62f1fbc43b56b97611335f08c60.1920x1080.jpg?t=1773842519"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/ss_674eeece8947149f96dadf6624aea741b4ac5264.1920x1080.jpg?t=1773842519"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016920/ss_49f86ac69250a4392a9085b5acbb95899a690341.1920x1080.jpg?t=1773842519"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Full Release Gameplay Trailer_Daedalic",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256801370/movie.293x165.jpg?t=1600436813",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1016920/312901/b266cc2e2ce68811f45a405789ea6d91af728313/1750606549/dash_h264.mpd?t=1600436813"
+    },
+    {
+      "name": "Underwater Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256934722/movie.293x165.jpg?t=1678734155",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1016920/546446/19049c7f1b0a67ff2066b7cdbb73f47983fc989e/1750606579/dash_h264.mpd?t=1678734155"
+    }
+  ],
+  "metacritic": {
+    "score": 77,
+    "url": "https://www.metacritic.com/game/pc/unrailed!?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1016920,
+    "store_url": "https://store.steampowered.com/app/1016920/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Gamepad Recommended",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Leaderboards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Co-op",
+      "Online Co-Op",
+      "Local Co-Op",
+      "Casual",
+      "Trains",
+      "Local Multiplayer",
+      "Action",
+      "Procedural Generation",
+      "Indie",
+      "4 Player Local",
+      "Voxel",
+      "Family Friendly",
+      "Funny",
+      "Survival",
+      "Isometric",
+      "Controller",
+      "Cute",
+      "Competitive",
+      "Pixel Graphics"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 18281,
+    "review_negative": 1336,
+    "review_total": 19617,
+    "review_positive_percent": 93.19
+  }
+}

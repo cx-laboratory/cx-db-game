@@ -1,0 +1,237 @@
+{
+  "key": "darkwood",
+  "name": "Darkwood",
+  "description": "Darkwood - a new perspective on survival horror. Scavenge and explore a rich, ever-changing free-roam world by day, then hunker down in your hideout and pray for the morning light.",
+  "developers": [
+    "Acid Wizard Studio"
+  ],
+  "publishers": [
+    "Hooded Horse"
+  ],
+  "release_date": "2017-08-18",
+  "website": "http://www.darkwoodgame.com",
+  "tags": [
+    "action",
+    "adventure",
+    "rpg",
+    "strategy",
+    "horror",
+    "dark",
+    "atmospheric",
+    "survival",
+    "exploration",
+    "story-rich",
+    "open-world",
+    "dark-fantasy",
+    "fantasy",
+    "singleplayer",
+    "action-adventure",
+    "choices-matter",
+    "multiple-endings",
+    "combat",
+    "supernatural"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "italian",
+    "spanish",
+    "schinese",
+    "russian",
+    "polish",
+    "hungarian",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "阴暗森林 Darkwood",
+    "tchinese": "陰暗森林 Darkwood",
+    "japanese": "Darkwood ダークウッド",
+    "koreana": "Darkwood 다크우드"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Darkwood.exe",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "Darkwood.exe",
+          "description": "Borderless window",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Acid Wizard Studio/Darkwood",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Darkwood.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Acid Wizard Studio/Darkwood",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Darkwood.x86_64",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Acid Wizard Studio/Darkwood",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Darkwood",
+    "Darkwood.app",
+    "Darkwood.x86_64",
+    "阴暗森林 Darkwood",
+    "陰暗森林 Darkwood",
+    "Darkwood ダークウッド",
+    "Darkwood 다크우드"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/274520/c8d29a171cab2435eb5d540ed2f03c448ad6de5a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274520/18f5a6c6452d6292ebf9e4fcc199ce0759fb9a98/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274520/b2902056c13270bba1d4aba1c91a2cb36beb175e/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274520/5d265992e624b7b300b21ad58c08ef6d2778164a/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274520/a4fee29c30574d25aef4b510aa5934a957460f8e/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274520/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274520/67c867f75005a2786fcfab6741c17061dbef5e3f/ss_67c867f75005a2786fcfab6741c17061dbef5e3f.1920x1080.jpg?t=1783068391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274520/5b6bdd5ebe2f4f0d816aa2e46c26325e88066fab/ss_5b6bdd5ebe2f4f0d816aa2e46c26325e88066fab.1920x1080.jpg?t=1783068391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274520/5b92f40bd9c44c5abdd18b1d8358c7c72eba4809/ss_5b92f40bd9c44c5abdd18b1d8358c7c72eba4809.1920x1080.jpg?t=1783068391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274520/af1e995c592fb08e2c3ceb785359f1f0f5ff01ef/ss_af1e995c592fb08e2c3ceb785359f1f0f5ff01ef.1920x1080.jpg?t=1783068391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274520/6c5c8b4f17815ace60251f53ac2d9c1789a9d7a1/ss_6c5c8b4f17815ace60251f53ac2d9c1789a9d7a1.1920x1080.jpg?t=1783068391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274520/dd76f7eafa42186cf8060f310a167ed61ceb2a85/ss_dd76f7eafa42186cf8060f310a167ed61ceb2a85.1920x1080.jpg?t=1783068391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274520/88dab96e18f03da43e75150ec043c8882010bf84/ss_88dab96e18f03da43e75150ec043c8882010bf84.1920x1080.jpg?t=1783068391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274520/974ef982183c593dd9073a59bd5dcf9d41443065/ss_974ef982183c593dd9073a59bd5dcf9d41443065.1920x1080.jpg?t=1783068391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274520/746e57c874005a8b179658b400e0856ad7c8aba2/ss_746e57c874005a8b179658b400e0856ad7c8aba2.1920x1080.jpg?t=1783068391"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274520/1e2416c1034c8da1cdf5f43d278eb42b9b718222/ss_1e2416c1034c8da1cdf5f43d278eb42b9b718222.1920x1080.jpg?t=1783068391"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256762253/8652747a317071990b84474297b425e0bd7dc980/movie_600x337.jpg?t=1764597553",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/274520/243462/a3de8a3d7142a5b2374ebdf9d32e211cfc26934f/1750500236/dash_h264.mpd?t=1764597553"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256693133/2c1eb6dbafae4860206eb296740fd983430f14f2/movie_600x337.jpg?t=1764597554",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/274520/118869/01b777b38b00d4b55f4bab90eb2b116821e70be5/1750500236/dash_h264.mpd?t=1764597554"
+    }
+  ],
+  "metacritic": {
+    "score": 80,
+    "url": "https://www.metacritic.com/game/pc/darkwood?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 274520,
+    "store_url": "https://store.steampowered.com/app/274520/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Horror",
+      "Adventure",
+      "Survival Horror",
+      "Action",
+      "RPG",
+      "Psychological Horror",
+      "Dark",
+      "Atmospheric",
+      "Survival",
+      "Exploration",
+      "Story Rich",
+      "Open World",
+      "Dark Fantasy",
+      "Fantasy",
+      "Singleplayer",
+      "Action-Adventure",
+      "Choices Matter",
+      "Multiple Endings",
+      "Combat",
+      "Supernatural"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 23213,
+    "review_negative": 1238,
+    "review_total": 24451,
+    "review_positive_percent": 94.94
+  }
+}

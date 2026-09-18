@@ -1,0 +1,161 @@
+{
+  "key": "lucius",
+  "name": "Lucius",
+  "description": "Equipped with supernatural powers, take control of Lucius as he begins his blood filled tour of horror through his own house.",
+  "developers": [
+    "Shiver Games"
+  ],
+  "publishers": [
+    "Shiver Games"
+  ],
+  "release_date": "2012-10-27",
+  "website": "http://lucius.shivergames.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "horror",
+    "villain-protagonist",
+    "gore",
+    "nudity",
+    "singleplayer",
+    "puzzle",
+    "third-person",
+    "stealth",
+    "dark",
+    "atmospheric",
+    "violent",
+    "difficult",
+    "story-rich",
+    "funny",
+    "open-world",
+    "point-and-click"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "russian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Lucius.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Lucius/",
+          "pattern": "*.sav",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Lucius/saves/",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Lucius"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/218640/467db011e0b4c1159777829746688eed7cf80f1d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218640/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218640/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218640/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218640/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218640/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218640/ss_4d23550e9f8395629b0f4edf0a304fda4d5ac398.1920x1080.jpg?t=1758742661"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218640/ss_af91030ad0d8f3acb46bb0c54808d506b466e694.1920x1080.jpg?t=1758742661"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218640/ss_d315ecb0093804db8c50cf386cd19116cd2d8ace.1920x1080.jpg?t=1758742661"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218640/ss_a9671b8eccbdf1bde08d6f4ada9088f816a265ec.1920x1080.jpg?t=1758742661"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218640/ss_7a31b91f9e57493d796a054d666cc7bd907e1e58.1920x1080.jpg?t=1758742661"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218640/ss_465910ebd24b6d07719ec66dbeaf095fdbb7e907.1920x1080.jpg?t=1758742661"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218640/ss_c54f2b29492d8947c7d63a5d573ba5a7b2557f62.1920x1080.jpg?t=1758742661"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218640/ss_488a659a125d35d3d9b9c8f9b934aec91103a6b0.1920x1080.jpg?t=1758742661"
+    }
+  ],
+  "videos": [],
+  "metacritic": {
+    "score": 59,
+    "url": "https://www.metacritic.com/game/pc/lucius?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 218640,
+    "store_url": "https://store.steampowered.com/app/218640/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Horror",
+      "Adventure",
+      "Villain Protagonist",
+      "Gore",
+      "Nudity",
+      "Singleplayer",
+      "Puzzle",
+      "Indie",
+      "Third Person",
+      "Action",
+      "Stealth",
+      "Dark",
+      "Psychological Horror",
+      "Atmospheric",
+      "Violent",
+      "Difficult",
+      "Story Rich",
+      "Funny",
+      "Open World",
+      "Point & Click"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8801,
+    "review_negative": 2055,
+    "review_total": 10856,
+    "review_positive_percent": 81.07
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "key": "nodebuster",
+  "name": "Nodebuster",
+  "description": "Nodebuster is a short, experimental incremental game about busting nodes and destroying reality.",
+  "developers": [
+    "Goblobin"
+  ],
+  "publishers": [
+    "Goblobin"
+  ],
+  "release_date": "2024-08-14",
+  "website": "",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "strategy",
+    "incremental",
+    "idler",
+    "arcade",
+    "2d",
+    "management",
+    "experimental",
+    "relaxing",
+    "abstract",
+    "minimalist",
+    "colorful",
+    "retro",
+    "hacking",
+    "pixel-graphics",
+    "artificial-intelligence",
+    "singleplayer",
+    "futuristic"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Nodebuster.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Nodebuster"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3107330/a3478be4f594681711e625b24e75ea4ba9fcba46.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107330/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107330/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107330/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107330/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107330/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107330/ss_1ef930c97f414df2135f121fbb6c4a82c262fb8a.1920x1080.jpg?t=1746551295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107330/ss_1d341bdf6f45eb492a3e1aa75c24a241668e319f.1920x1080.jpg?t=1746551295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107330/ss_3476fa389d59f133ea70e60393295cc7a567668e.1920x1080.jpg?t=1746551295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107330/ss_e3142b38150fbc49492892fdaae6e4e76f1207a3.1920x1080.jpg?t=1746551295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107330/ss_0c72704e0f8ea1b177d788e536deca42bef479f8.1920x1080.jpg?t=1746551295"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257040378/movie.293x165.jpg?t=1722015679",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3107330/730513/9105b587547f078ed96a80e48924e8db89582f2a/1750823682/dash_h264.mpd?t=1722015679"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3107330,
+    "store_url": "https://store.steampowered.com/app/3107330/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Incremental",
+      "Casual",
+      "Strategy",
+      "Idler",
+      "Simulation",
+      "Arcade",
+      "2D",
+      "Management",
+      "Experimental",
+      "Relaxing",
+      "Abstract",
+      "Minimalist",
+      "Colorful",
+      "Retro",
+      "Hacking",
+      "Pixel Graphics",
+      "Indie",
+      "Artificial Intelligence",
+      "Singleplayer",
+      "Futuristic"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 13517,
+    "review_negative": 346,
+    "review_total": 13863,
+    "review_positive_percent": 97.5
+  }
+}

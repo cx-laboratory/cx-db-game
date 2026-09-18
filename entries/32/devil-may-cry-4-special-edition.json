@@ -1,0 +1,117 @@
+{
+  "key": "devil-may-cry-4-special-edition",
+  "name": "Devil May Cry 4 Special Edition",
+  "description": "The smash-hit stylish action game DMC4 is back and better than ever, boasting new playable characters and game modes!",
+  "developers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "publishers": [
+    "CAPCOM Co., Ltd. "
+  ],
+  "release_date": "2015-06-23",
+  "website": "http://www.capcom.co.jp/devil4se/",
+  "tags": [
+    "action"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "DevilMayCry4SpecialEdition.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Devil May Cry 4 Special Edition",
+    "DevilMayCry4SpecialEdition"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/329050/e365480a8257204a0f8148bbf97251d39432522a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329050/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329050/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329050/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329050/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329050/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329050/ss_330f547c2e9f8e3149090caade6ea3544c98e98a.1920x1080.jpg?t=1768869714"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329050/ss_b258f3874668d8c28980f966fe66448758118877.1920x1080.jpg?t=1768869714"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329050/ss_4d7a27ab8787e3c202d3a519bff3d555bfcc36e1.1920x1080.jpg?t=1768869714"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329050/ss_94031c298634f8549eb0618da1f6d0bdb48a0ae8.1920x1080.jpg?t=1768869714"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329050/ss_c18d0390dcce60addecaac877bcce1f2aae8573c.1920x1080.jpg?t=1768869714"
+    }
+  ],
+  "videos": [
+    {
+      "name": "DMC4SE - Gameplay Trailer - ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2039286/movie.293x165.jpg?t=1447374582",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/329050/35894/43031620d9a12b14d4375baa160a0a80dcc705bb/1750509350/dash_h264.mpd?t=1447374582"
+    },
+    {
+      "name": "Devil May Cry 4 Special Edition - Launch Trailer_ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2040171/movie.293x165.jpg?t=1447376706",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/329050/37956/c122788058feaaaa19243b320d6556ae45fca319/1750509388/dash_h264.mpd?t=1447376706"
+    },
+    {
+      "name": "Announcement Trailer - ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2037979/movie.293x165.jpg?t=1447371441",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/329050/33182/266ee803ad175a0df8dfc654322a022ee8bb5983/1750509341/dash_h264.mpd?t=1447371441"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 329050,
+    "store_url": "https://store.steampowered.com/app/329050/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 18920,
+    "review_negative": 2823,
+    "review_total": 21743,
+    "review_positive_percent": 87.02
+  }
+}

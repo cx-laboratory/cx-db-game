@@ -1,0 +1,134 @@
+{
+  "key": "steam-1606180",
+  "name": "下一站江湖Ⅱ",
+  "description": "（“Steam成就”现已推出，当前已更新17个免费玩法资料片）《下一站江湖Ⅱ》是白玉京工作室研发的第二款3D单机武侠游戏，是一款包含了沙盒式的剧情主角养成、无缝大地图任意采集建造模拟经营、骑砍Like式门派霸图玩法的开放世界游戏，无内购、可离网游玩！",
+  "developers": [
+    "白玉京工作室"
+  ],
+  "publishers": [
+    "白玉京工作室"
+  ],
+  "release_date": "2024-04-18",
+  "website": "http://jh.inmotiongame.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "strategy"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "schinese"
+  ],
+  "name_localized": {
+    "sc_schinese": "下一站江湖Ⅱ"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "下一站江湖Ⅱ\\下一站江湖Ⅱ.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "SavesDir",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "下一站江湖Ⅱ",
+    "下一站江湖Ⅱ\\下一站江湖Ⅱ"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1606180/b46c8855fdf1634f949dc8df15ca95fec4345505.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/6556e501ae8f8b7dc3f5cc8097ca20fcf2c49066/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/6977b21ad4d3bd7780b2e5aaa2497e4e90c0ee52/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/939f7ad6aeb0ec79c35c655ac0e70ebef04ca08a/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/64c8772382a5a413001749e2ba3081a389be4c64/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/45a3964a266c20567542441944c5675fd56f5023/ss_45a3964a266c20567542441944c5675fd56f5023.1920x1080.jpg?t=1782442666"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/80e0e55fbe970ed8e55810caa8c007b91962e784/ss_80e0e55fbe970ed8e55810caa8c007b91962e784.1920x1080.jpg?t=1782442666"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/cc6c3cfaa52058dd856b20f8b59a43bd15b9cb6a/ss_cc6c3cfaa52058dd856b20f8b59a43bd15b9cb6a.1920x1080.jpg?t=1782442666"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/01d2cb0fa9c6f5c5ce5f7ca3a09a2a73fe803fa6/ss_01d2cb0fa9c6f5c5ce5f7ca3a09a2a73fe803fa6.1920x1080.jpg?t=1782442666"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/d6467120b871ae17bfe13aab2e509d49ab47ec4a/ss_d6467120b871ae17bfe13aab2e509d49ab47ec4a.1920x1080.jpg?t=1782442666"
+    }
+  ],
+  "videos": [
+    {
+      "name": "《下一站江湖Ⅱ》宣传",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257016256/de807da435874ab6ecb7ec847f89e90b035f0980/movie_600x337.jpg?t=1782442629",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1606180/634431811/771c48781c5a5a5cbabdffdd6c139106cddc9ede/1768901600/dash_h264.mpd?t=1782442629"
+    },
+    {
+      "name": "《下一站江湖Ⅱ》宣传片",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257136291/128a9949d543fc1d8ea2f5ae17b842ddf88c71f5/movie_600x337.jpg?t=1746612748",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1606180/1395042729/5ff92022dbebe358aa3abb98987d63a3beaf2a6a/1751009171/dash_h264.mpd?t=1746612748"
+    },
+    {
+      "name": "《下一站江湖Ⅱ》宣传",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257016265/bfd9c84b7f69c262733bd978037cdf8b97aab326/movie_600x337.jpg?t=1768905868",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1606180/1376789294/771c48781c5a5a5cbabdffdd6c139106cddc9ede/1768903746/dash_h264.mpd?t=1768905868"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1606180,
+    "store_url": "https://store.steampowered.com/app/1606180/",
+    "required_age": 13,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Workshop",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Surround Sound",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 6680,
+    "review_negative": 2595,
+    "review_total": 9275,
+    "review_positive_percent": 72.02
+  }
+}

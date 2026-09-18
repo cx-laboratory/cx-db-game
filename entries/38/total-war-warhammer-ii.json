@@ -1,0 +1,238 @@
+{
+  "key": "total-war-warhammer-ii",
+  "name": "Total War: WARHAMMER II",
+  "description": "The forces of Lustria await your command. Choose your Legendary Lord, expand your armies, forge alliances in a strategic turn-based campaign, and unleash the might of your monstrous forces in fast-paced real-time battles.",
+  "developers": [
+    "CREATIVE ASSEMBLY"
+  ],
+  "publishers": [
+    "SEGA"
+  ],
+  "release_date": "2017-09-28",
+  "website": "",
+  "tags": [
+    "action",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "fantasy",
+    "turn-based-strategy",
+    "rts",
+    "grand-strategy",
+    "war",
+    "singleplayer",
+    "dark-fantasy",
+    "turn-based",
+    "tactical",
+    "real-time-tactics",
+    "dwarves",
+    "rpg",
+    "simulation",
+    "wargame",
+    "4x",
+    "tactical-rpg"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "polish",
+    "czech",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "全面战争：战锤2",
+    "tchinese": "全軍破敵：戰鎚2",
+    "koreana": "토탈워: 워해머 2"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "launcher/launcher.exe",
+          "description": "Total War: WARHAMMER II",
+          "type": "option1"
+        },
+        {
+          "executable": "Warhammer2.exe",
+          "description": "Warhammer2",
+          "type": "option2"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Total War WARHAMMER II.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "TotalWarhammer2.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Total War: WARHAMMER II",
+    "launcher/launcher",
+    "Warhammer2",
+    "Total War WARHAMMER II.app",
+    "TotalWarhammer2.sh",
+    "全面战争：战锤2",
+    "全軍破敵：戰鎚2",
+    "토탈워: 워해머 2"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/594570/fe90760b3b9537216e52ccc5d88de2e67ac500c2.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594570/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594570/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594570/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594570/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594570/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594570/ss_48c4d7b7c0ae11978b6f29fe58c3006802ee9651.1920x1080.jpg?t=1780389571"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594570/9d1da85fb8044b747da4f643e32a1dfdac395302/ss_9d1da85fb8044b747da4f643e32a1dfdac395302.1920x1080.jpg?t=1780389571"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594570/5fcac158a3a4566c5e08cd11b3a5dee4e776102e/ss_5fcac158a3a4566c5e08cd11b3a5dee4e776102e.1920x1080.jpg?t=1780389571"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594570/ss_bc3c20d9ff976a7c21896176b8a6a024b4314162.1920x1080.jpg?t=1780389571"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594570/b257161c2843c2968d355924f97b5408e9fc1112/ss_b257161c2843c2968d355924f97b5408e9fc1112.1920x1080.jpg?t=1780389571"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594570/a915d33a334510160b0eff063d164d7897ad3447/ss_a915d33a334510160b0eff063d164d7897ad3447.1920x1080.jpg?t=1780389571"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594570/871eae8a1a74da8d5f1980cbca829b7532946d2f/ss_871eae8a1a74da8d5f1980cbca829b7532946d2f.1920x1080.jpg?t=1780389571"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594570/ss_e12a1320cd1ab645c2e63a0e6ae196c8874b93bd.1920x1080.jpg?t=1780389571"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594570/ss_c3d9fbe72d9681dafb8903af50580dbaa75e9da7.1920x1080.jpg?t=1780389571"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594570/ss_2595ece9a7ab534866613e7716039e66bb3df6fc.1920x1080.jpg?t=1780389571"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594570/f0e8554cf5870901fc7768102a6c1677ed6d2061/ss_f0e8554cf5870901fc7768102a6c1677ed6d2061.1920x1080.jpg?t=1780389571"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594570/ss_b923ac3082d777893dfd5594f338b2c7dada5133.1920x1080.jpg?t=1780389571"
+    }
+  ],
+  "videos": [
+    {
+      "name": "What Is Trailer PEGI",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256840410/movie.293x165.jpg?t=1632304405",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/594570/379805/229a43d5756deda2bd95b57c17b6b4fce2f650ce/1750558638/dash_h264.mpd?t=1632304405"
+    },
+    {
+      "name": "What Is Trailer ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256840409/movie.293x165.jpg?t=1632304413",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/594570/379804/d9a6cf0a9ff9fd63a33f54a68ecfcb220d0f402d/1750558628/dash_h264.mpd?t=1632304413"
+    }
+  ],
+  "metacritic": {
+    "score": 87,
+    "url": "https://www.metacritic.com/game/pc/total-war-warhammer-ii?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 594570,
+    "store_url": "https://store.steampowered.com/app/594570/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Stereo Sound",
+      "Surround Sound",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "Fantasy",
+      "Turn-Based Strategy",
+      "RTS",
+      "Grand Strategy",
+      "War",
+      "Multiplayer",
+      "Singleplayer",
+      "Action",
+      "Dark Fantasy",
+      "Turn-Based",
+      "Tactical",
+      "Real Time Tactics",
+      "Co-op",
+      "Dwarves",
+      "RPG",
+      "Simulation",
+      "Wargame",
+      "4X",
+      "Tactical RPG"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 112881,
+    "review_negative": 8504,
+    "review_total": 121385,
+    "review_positive_percent": 92.99
+  }
+}

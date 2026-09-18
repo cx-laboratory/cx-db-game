@@ -1,0 +1,180 @@
+{
+  "key": "hitman-world-of-assassination",
+  "name": "HITMAN World of Assassination",
+  "description": "Enter the world of the ultimate assassin. HITMAN World of Assassination delivers the definitive stealth action experience, putting you in the shoes of Agent 47, a master assassin. Explore immersive locations, uncover hidden secrets, and eliminate targets with complete freedom of approach.",
+  "developers": [
+    "IO Interactive A/S"
+  ],
+  "publishers": [
+    "IO Interactive A/S"
+  ],
+  "release_date": "2022-01-21",
+  "website": "https://hitman.com/",
+  "tags": [
+    "action",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Launcher.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Launcher.exe",
+          "description": "Configure PC Options",
+          "type": "default"
+        },
+        {
+          "executable": "Launcher.exe",
+          "description": "",
+          "type": "vr"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Hitman WOA.app",
+          "description": "Launch game (MacOS)",
+          "type": "default"
+        },
+        {
+          "executable": "Launcher.exe",
+          "description": "",
+          "type": "vr"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "HITMAN World of Assassination",
+    "Launcher",
+    "Hitman WOA.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1659040/552be1d38866afd1c33f682323d325130e7d0ce6.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/c62446d5c95f583a296d7f1b99045a61e2f81dea/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/893b14fe999e64777ad2660cf88c52f1f403053f/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/371975eece1ddb63b604d2e17d69d142ca157a23/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/73edaefdad24ccf1adbe3683b6b4b850eaad217b/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/035da4d379ca1bdd0ac67e9f154a8d008ba695a6/ss_035da4d379ca1bdd0ac67e9f154a8d008ba695a6.1920x1080.jpg?t=1781518202"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/2a25834600637e626d6f6e3ea7604badde7206db/ss_2a25834600637e626d6f6e3ea7604badde7206db.1920x1080.jpg?t=1781518202"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/ss_f3a815f62dea7af43eebff863b49ded1bcf8098e.1920x1080.jpg?t=1781518202"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/ss_271349780bd2aab343e3f705ba5244a0956314f5.1920x1080.jpg?t=1781518202"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/ss_691a534e333e33a4d6b994c9d63be26c83a687d7.1920x1080.jpg?t=1781518202"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/ss_33965f74f31503257ea4e4af3d31b10faedd5250.1920x1080.jpg?t=1781518202"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/ss_599eba3c826e792a0260a8748e1e32d1ee4e13ec.1920x1080.jpg?t=1781518202"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/ss_0d982ccc2b91093d71a7ae607e7ae0542651bc79.1920x1080.jpg?t=1781518202"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659040/ss_97513d1ab3bb33c832f29b879067a2c2ebd4d238.1920x1080.jpg?t=1781518202"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Wizard Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257348377/fc5a8c711f38aa6b200904501059bda3e9e84049/movie_600x337.jpg?t=1780701513",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1659040/489970123/756c6b61b74d8a0ffe5b40d505d9a2d5325dc07a/1780394208/dash_h264.mpd?t=1780701513"
+    },
+    {
+      "name": "HITMAN World of Assassination Part One Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257050591/movie.293x165.jpg?t=1726140636",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1659040/747996/c36674d8ab9b069dcc609daf2a365fdf57fdc74a/1750720733/dash_h264.mpd?t=1726140636"
+    },
+    {
+      "name": "HITMAN World of Assassination Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257016415/movie.293x165.jpg?t=1713343436",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1659040/688266/ed130ebe153303ec57dec248fe53e897d9140695/1750720728/dash_h264.mpd?t=1713343436"
+    },
+    {
+      "name": "HITMAN World of Assassination Deluxe Edition Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256996130/movie.293x165.jpg?t=1726140640",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1659040/653932/2d27719e87cb29c6283917ba7dc2ca23c2a1d751/1750720698/dash_h264.mpd?t=1726140640"
+    }
+  ],
+  "metacritic": {
+    "score": 87,
+    "url": "https://www.metacritic.com/game/pc/hitman-3?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1659040,
+    "store_url": "https://store.steampowered.com/app/1659040/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Tracked Controller Support",
+      "VR Supported",
+      "VR Support",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Surround Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 57391,
+    "review_negative": 8440,
+    "review_total": 65831,
+    "review_positive_percent": 87.18
+  }
+}

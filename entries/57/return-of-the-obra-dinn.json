@@ -1,0 +1,208 @@
+{
+  "key": "return-of-the-obra-dinn",
+  "name": "Return of the Obra Dinn",
+  "description": "Lost at sea 1803 ~ The good ship Obra Dinn.",
+  "developers": [
+    "Lucas Pope"
+  ],
+  "publishers": [
+    "3909"
+  ],
+  "release_date": "2018-10-19",
+  "website": "https://obradinn.com",
+  "tags": [
+    "adventure",
+    "indie",
+    "detective",
+    "mystery",
+    "puzzle",
+    "story-rich",
+    "atmospheric",
+    "singleplayer",
+    "great-soundtrack",
+    "first-person",
+    "historical",
+    "naval",
+    "difficult",
+    "retro",
+    "multiple-endings",
+    "violent",
+    "pirates",
+    "horror",
+    "noir",
+    "walking-simulator"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ObraDinn.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "3909/ObraDinn",
+          "pattern": "*.txt",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "ObraDinn.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "3909/ObraDinn",
+          "pattern": "*.txt",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Return of the Obra Dinn",
+    "ObraDinn",
+    "ObraDinn.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/653530/24c6239385563bff1fccad712f27a0c1fe18349b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/ss_7dd3476ace2170e134141e487f9491d4c9d094f3.1920x1080.jpg?t=1686697594"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/ss_380dc35237fde7d3863a44270abafc37924d1db4.1920x1080.jpg?t=1686697594"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/ss_69b3c98eda3c3476a4dee6a1a220169ac70dcb6d.1920x1080.jpg?t=1686697594"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/ss_4f555f01fa82723c28fcce8f0909570caaee8e8f.1920x1080.jpg?t=1686697594"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/ss_7a8824f581b399abc52f598966b339fada982349.1920x1080.jpg?t=1686697594"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/ss_f3e24e7a7f86ad925076f63b4e6cd86258f63d2c.1920x1080.jpg?t=1686697594"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/ss_63206a87c60ff7b4a5e22d98f10b426a6789981d.1920x1080.jpg?t=1686697594"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/ss_a9b3e454ca8d710838c9fe44b13eae7ace557bf4.1920x1080.jpg?t=1686697594"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/ss_996fca2ef1e1f9cf16fd71f06c00919a61b1a2cc.1920x1080.jpg?t=1686697594"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/ss_80149ba9e106d3c4bfe717e280806bc0daa6c5b7.1920x1080.jpg?t=1686697594"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/ss_08fd7317f23f33ea1f35e3967772e22518c12732.1920x1080.jpg?t=1686697594"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/ss_e12ca59384e4b034566fed4c0fc744158efa632d.1920x1080.jpg?t=1686697594"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/ss_a44d1031fa12697e0ba8a9dd88933c63847eb813.1920x1080.jpg?t=1686697594"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653530/ss_88997e8171694fca5c15d4f2a7e1b131ae0f53d6.1920x1080.jpg?t=1686697594"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Announcement",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256728392/movie.293x165.jpg?t=1686697587",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/653530/183863/74b83c24f842bfa11fd5e45b0a8322446c9fd813/1750567368/dash_h264.mpd?t=1686697587"
+    }
+  ],
+  "metacritic": {
+    "score": 89,
+    "url": "https://www.metacritic.com/game/pc/return-of-the-obra-dinn?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 653530,
+    "store_url": "https://store.steampowered.com/app/653530/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Detective",
+      "Mystery",
+      "Puzzle",
+      "Story Rich",
+      "Atmospheric",
+      "Singleplayer",
+      "Indie",
+      "Great Soundtrack",
+      "First-Person",
+      "Historical",
+      "Adventure",
+      "Naval",
+      "Difficult",
+      "Retro",
+      "Multiple Endings",
+      "Violent",
+      "Pirates",
+      "Horror",
+      "Noir",
+      "Walking Simulator"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 33384,
+    "review_negative": 1148,
+    "review_total": 34532,
+    "review_positive_percent": 96.68
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "key": "gamble-with-your-friends",
+  "name": "Gamble With Your Friends",
+  "description": "An online 1-6 player co-op &quot;casino crawler&quot; where you and your friends share one bank account and one massive debt. Gamble, buy sketchy items, make terrible decisions, and climb an ominous casino tower to hit your loan shark’s daily quota in 5 minutes - or face the consequences.",
+  "developers": [
+    "TEAM GWYF"
+  ],
+  "publishers": [
+    "TENSTACK"
+  ],
+  "release_date": "2026-05-02",
+  "website": "",
+  "tags": [
+    "adventure",
+    "indie",
+    "simulation",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "gambling",
+    "comedy",
+    "physics",
+    "first-person",
+    "exploration",
+    "3d",
+    "atmospheric",
+    "character-customization",
+    "roguelike",
+    "action-roguelike",
+    "procedural-generation",
+    "time-management",
+    "resource-management",
+    "action",
+    "sandbox",
+    "card-game"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Gamble With Your Friends.exe",
+          "description": "Gamble With Your Friends using DX 12 (for higher-end devices)",
+          "type": "option1"
+        },
+        {
+          "executable": "Gamble With Your Friends.exe",
+          "description": "Gamble With Your Friends using DX 11 (for lower-end devices)",
+          "type": "option2"
+        },
+        {
+          "executable": "Gamble With Your Friends.exe",
+          "description": "Gamble With Your Friends using Vulkan (for performance)",
+          "type": "option3"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Gamble With Your Friends"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3892270/620adde61e9a7003f375bb5979fadde34eafa9d6.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/162b293e92bf8be850967a85c9916daa6f68591c/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/aae0d37eb09a4e20706805e0db735fbbe04ecd15/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/0e63162db84cc4816e44cc02852b867a6b8ea35c/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/98d54ec78e48092fb8c2df4cfdb6adeed02aade1/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/46a2a2c1593b57eb3b8948a68be504e8d91d3912/ss_46a2a2c1593b57eb3b8948a68be504e8d91d3912.1920x1080.jpg?t=1782258835"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/e3514d1723232a988324d08834e8784e6ad355c2/ss_e3514d1723232a988324d08834e8784e6ad355c2.1920x1080.jpg?t=1782258835"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/feeb63575e000a1a2127c4440f11bf8e0c4e428b/ss_feeb63575e000a1a2127c4440f11bf8e0c4e428b.1920x1080.jpg?t=1782258835"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/cfb1d0bb25fe2af094eec6b5fb32726c684e423e/ss_cfb1d0bb25fe2af094eec6b5fb32726c684e423e.1920x1080.jpg?t=1782258835"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/a4c4607121c84eef4914a3a0cdf2a564dff8947d/ss_a4c4607121c84eef4914a3a0cdf2a564dff8947d.1920x1080.jpg?t=1782258835"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/f4c7252db93bdf6df240a7eeeb13476c00d393cd/ss_f4c7252db93bdf6df240a7eeeb13476c00d393cd.1920x1080.jpg?t=1782258835"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/9dbd90ccfc8b5922356dfb83d9c32dd033632c33/ss_9dbd90ccfc8b5922356dfb83d9c32dd033632c33.1920x1080.jpg?t=1782258835"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/c26843af07ec2117ffa713aa33cdaec6e15b8447/ss_c26843af07ec2117ffa713aa33cdaec6e15b8447.1920x1080.jpg?t=1782258835"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/a4011076809f5cc7b9abacf1d1e377bc549c26fa/ss_a4011076809f5cc7b9abacf1d1e377bc549c26fa.1920x1080.jpg?t=1782258835"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/695a2dfbeb15622dd917aaded8b57d195f3fa147/ss_695a2dfbeb15622dd917aaded8b57d195f3fa147.1920x1080.jpg?t=1782258835"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/9a6b05a5fe5b3b0dd8d70bf9dfa3d9a737d5c65e/ss_9a6b05a5fe5b3b0dd8d70bf9dfa3d9a737d5c65e.1920x1080.jpg?t=1782258835"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/6ff1d56ade68faa9870518d3535075ad1a0d6361/ss_6ff1d56ade68faa9870518d3535075ad1a0d6361.1920x1080.jpg?t=1782258835"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/4195f7d00fdaec90843735ae17cad2e621354f15/ss_4195f7d00fdaec90843735ae17cad2e621354f15.1920x1080.jpg?t=1782258835"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/a4cc9ab0c51ae5f75ddbcfa636d471c43597f247/ss_a4cc9ab0c51ae5f75ddbcfa636d471c43597f247.1920x1080.jpg?t=1782258835"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/06a5822ae2dc9681ce4354d914a204caa6285baa/ss_06a5822ae2dc9681ce4354d914a204caa6285baa.1920x1080.jpg?t=1782258835"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/dedab75fef178a6fb4b1aeaad3db57deb8e67776/ss_dedab75fef178a6fb4b1aeaad3db57deb8e67776.1920x1080.jpg?t=1782258835"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/ce7070ec43f4f5b1c35851a1fb933b9742e3b799/ss_ce7070ec43f4f5b1c35851a1fb933b9742e3b799.1920x1080.jpg?t=1782258835"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257330041/535b83d97c254176378a1b71041eb875b86b134d/movie_600x337.jpg?t=1777657049",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3892270/1129085817/e951d396ae84f1a6e12776390667ff615005e231/1777656599/dash_h264.mpd?t=1777657049"
+    },
+    {
+      "name": "Release Date Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257322029/c1f6451101d0f228fcd38e7a892715fb2b283f37/movie_600x337.jpg?t=1776545236",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3892270/167595982/7aa26df7d81659124e8abcb8cd1490f7428c6288/1776545018/dash_h264.mpd?t=1776545236"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3892270,
+    "store_url": "https://store.steampowered.com/app/3892270/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Gambling",
+      "Online Co-Op",
+      "Co-op",
+      "Comedy",
+      "Physics",
+      "First-Person",
+      "Adventure",
+      "Exploration",
+      "3D",
+      "Atmospheric",
+      "Character Customization",
+      "Action Roguelike",
+      "Procedural Generation",
+      "Simulation",
+      "Time Management",
+      "Resource Management",
+      "Action",
+      "Sandbox",
+      "Card Game"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 13613,
+    "review_negative": 1582,
+    "review_total": 15195,
+    "review_positive_percent": 89.59
+  }
+}

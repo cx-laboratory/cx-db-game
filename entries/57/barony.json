@@ -1,0 +1,283 @@
+{
+  "key": "barony",
+  "name": "Barony",
+  "description": "Barony is the premier first-person roguelike with cooperative play! Adventure alone, or gather a party with iconic and unusual RPG classes to face off against the brutal dungeons. Test your resourcefulness, wits, and friendships, on your quest to lift the evil lich's curse!",
+  "developers": [
+    "Turning Wheel LLC"
+  ],
+  "publishers": [
+    "Turning Wheel LLC"
+  ],
+  "release_date": "2015-06-23",
+  "website": "https://www.baronygame.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "split-screen",
+    "dungeon-crawler",
+    "roguelike",
+    "action-roguelike",
+    "local-multiplayer",
+    "first-person",
+    "fantasy",
+    "action-rpg",
+    "4-player-local",
+    "singleplayer",
+    "co-op-campaign",
+    "immersive-sim",
+    "pixel-graphics",
+    "difficult"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "barony.exe",
+          "description": "Barony",
+          "type": "default"
+        },
+        {
+          "executable": "editor.exe",
+          "description": "Editor",
+          "type": "editor"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "savegames",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": ".",
+          "pattern": "*.dat",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Barony.app",
+          "description": "Barony",
+          "type": "default"
+        },
+        {
+          "executable": "Barony Editor.app",
+          "description": "Editor",
+          "type": "editor"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "savegames",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": ".",
+          "pattern": "*.dat",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "barony.x86_64",
+          "description": "Barony",
+          "type": "default"
+        },
+        {
+          "executable": "editor.x86_64",
+          "description": "Editor",
+          "type": "editor"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "savegames",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": ".",
+          "pattern": "*.dat",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Barony",
+    "barony",
+    "editor",
+    "Barony.app",
+    "Barony Editor.app",
+    "barony.x86_64",
+    "editor.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/371970/9288677a439edf26c4ca28a8de14a0a40e880d15.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/0f8975e4b2af32eb0d68c309f1eff56d470e73dc/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/dbf26f8eaf1174caa3c266a5194734cdddc4e491/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/bbc6faab3c18c7d7eecf823fff14ce9b19a24fa9/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/6179468649309c61a87e5d8ade76782b01559d26/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/ss_e7af10d7351e227b25587547e8f24370cd77891d.1920x1080.jpg?t=1781778772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/ss_9a2f7cf38056cc47771bd0af9bba80806d2f2dde.1920x1080.jpg?t=1781778772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/ss_172545b1d8b168ade88305545d4f2b90308ee770.1920x1080.jpg?t=1781778772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/ss_dca8436c6729dfd31f2cef757a682c7f1e7e075c.1920x1080.jpg?t=1781778772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/ss_61538cebe5998ed66f69aed95d7109d78478ec52.1920x1080.jpg?t=1781778772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/ss_14b476e1ca9801b98f2b847e523c00bd848605da.1920x1080.jpg?t=1781778772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/ss_1098887299cb04e381a17dc71d6ed7fb0f1317bb.1920x1080.jpg?t=1781778772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/ss_86ac2cb6858a5c559bd2d52125a58e77c88fc9a6.1920x1080.jpg?t=1781778772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/ss_581ed8935214a0e6d16b6a27e22f3c81646a9192.1920x1080.jpg?t=1781778772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/ss_b078f94f64d559dae0bb4dc1378b54eb9595384f.1920x1080.jpg?t=1781778772"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371970/ss_b1e3bd7645ae120ca71931725d42e79e287a53d9.1920x1080.jpg?t=1781778772"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Quality of Death Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256954209/movie.293x165.jpg?t=1690873395",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/371970/580317/2a987800f7cdd90fb714e2791f13dc02789059b2/1750518768/dash_h264.mpd?t=1690873395"
+    },
+    {
+      "name": "Instruments of Destruction: Part 1 Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257273480/96b3778e875f90b9ba9568d3d115870ba9be5a09/movie_600x337.jpg?t=1769704263",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/371970/242301549/1e14e9c7cde109ce67851f6766405b1d15505188/1769487086/dash_h264.mpd?t=1769704263"
+    },
+    {
+      "name": "Intro to Barony Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256954171/movie.293x165.jpg?t=1690873401",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/371970/580266/337ed08689f082124fec35ebacab9d60b6fa8f93/1750518767/dash_h264.mpd?t=1690873401"
+    },
+    {
+      "name": "Keep Your Secrets Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257067744/855d195bd184f2ca7a8de294b7628416cd815433/movie_600x337.jpg?t=1729808978",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/371970/776104/88392ffb8687dcd1c7893c037c801590440f660d/1750518798/dash_h264.mpd?t=1729808978"
+    },
+    {
+      "name": "Eat My Hat Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257036700/movie.293x165.jpg?t=1720539605",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/371970/723968/125b1bb826968b05eb258da395ca51652d119d84/1750518786/dash_h264.mpd?t=1720539605"
+    },
+    {
+      "name": "Barony: Blessed Addition - Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256712039/movie.293x165.jpg?t=1522021375",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/371970/152919/bff64dc48f6a75b949bcb17ec220e881044aca6a/1750518766/dash_h264.mpd?t=1522021375"
+    },
+    {
+      "name": "Barony: Cursed Edition - Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256660735/movie.293x165.jpg?t=1522021381",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/371970/52250/e7753b57c30cd76d9dea54522734075917f91e76/1750518764/dash_h264.mpd?t=1522021381"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 371970,
+    "store_url": "https://store.steampowered.com/app/371970/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Includes level editor",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Dungeon Crawler",
+      "Roguelike",
+      "Action Roguelike",
+      "Online Co-Op",
+      "Local Multiplayer",
+      "Local Co-Op",
+      "First-Person",
+      "Fantasy",
+      "Action RPG",
+      "4 Player Local",
+      "Co-op",
+      "Singleplayer",
+      "RPG",
+      "Co-op Campaign",
+      "Split Screen",
+      "Immersive Sim",
+      "Pixel Graphics",
+      "Difficult",
+      "Indie"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 14502,
+    "review_negative": 1443,
+    "review_total": 15945,
+    "review_positive_percent": 90.95
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "key": "far-far-west",
+  "name": "Far Far West",
+  "description": "Yee-haw, Cowboys! Team up in this chaotic 1-4 player co-op shooter. Journey to the Far Far West to blast monsters, sling spells, complete missions, and collect bounties. Work as a team to get in, get paid and get out (mostly) alive.",
+  "developers": [
+    "Evil Raptor"
+  ],
+  "publishers": [
+    "Fireshine Games"
+  ],
+  "release_date": "2026-04-28",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "early-access",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "fps",
+    "pve",
+    "western",
+    "extraction-shooter",
+    "shooter",
+    "robots",
+    "loot",
+    "first-person",
+    "comedy",
+    "combat",
+    "difficult",
+    "action-adventure",
+    "magic",
+    "sci-fi",
+    "survival"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Simplified Chinese",
+    "Japanese",
+    "Korean",
+    "Portuguese - Brazil",
+    "Traditional Chinese",
+    "Italian",
+    "Polish",
+    "Russian",
+    "Ukrainian*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "遥遥西土 Far Far West",
+    "tchinese": "遙遙西土 Far Far West"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "FarFarWest.exe",
+          "description": "DX12 (Default, recommended)",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "FarFarWest/Saved/SaveGames/",
+          "pattern": "*.save",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Far Far West",
+    "FarFarWest",
+    "遥遥西土 Far Far West",
+    "遙遙西土 Far Far West"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3124540/a0a5e461c215c2a8916f42111ce41fa887cbec71.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/2d55092d45b1784dcc7cb0ba6ad3f919e62eb5d0/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/396b26f278210ddfbb9e944d8b20da2e8bd17ded/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/98528159880d7aff55688144a58ca99cd7048282/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/4faec44dbc0b62c37a6bc182b95eb2cbb25fc3ee/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/176aefc8b47ffcd173519e2f28b356c9e1350e98/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/87847b9155d7cfd190852831c4792ea2c7dad8a7/ss_87847b9155d7cfd190852831c4792ea2c7dad8a7.1920x1080.jpg?t=1781702029"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/c7dab39bc4e9110f215e2a6af98a62afbaad3ec5/ss_c7dab39bc4e9110f215e2a6af98a62afbaad3ec5.1920x1080.jpg?t=1781702029"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/28b89f775c8e3dd6e423662b1f4bf285285339e5/ss_28b89f775c8e3dd6e423662b1f4bf285285339e5.1920x1080.jpg?t=1781702029"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/9b25ef6d25e7ad77a167df2e369180e8d4081763/ss_9b25ef6d25e7ad77a167df2e369180e8d4081763.1920x1080.jpg?t=1781702029"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/06beed80ffd3560c3dcb89044b1c2c12f525b66d/ss_06beed80ffd3560c3dcb89044b1c2c12f525b66d.1920x1080.jpg?t=1781702029"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/51f2ed907135f44388a233fe2a6b2ccb2db5a2b2/ss_51f2ed907135f44388a233fe2a6b2ccb2db5a2b2.1920x1080.jpg?t=1781702029"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/6d1df7f39eb192aacdc083daf6520cab921c6922/ss_6d1df7f39eb192aacdc083daf6520cab921c6922.1920x1080.jpg?t=1781702029"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/dbbcea892fc759dabee072e69cca02c19d3d237f/ss_dbbcea892fc759dabee072e69cca02c19d3d237f.1920x1080.jpg?t=1781702029"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/9db42ab13e8eaa2ebc059c5dba831e0497a2c124/ss_9db42ab13e8eaa2ebc059c5dba831e0497a2c124.1920x1080.jpg?t=1781702029"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer - EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257328124/bf4603a88ec1ee6265083e2edca71bc38c4f55f1/movie_600x337.jpg?t=1777381102",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3124540/1804471861/079d9f650d8a0e9fdfcea222029fb8b9aa7c4393/1777372464/dash_h264.mpd?t=1777381102"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3124540,
+    "store_url": "https://store.steampowered.com/app/3124540/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Surround Sound",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Early Access",
+      "Online Co-Op",
+      "FPS",
+      "PvE",
+      "Western",
+      "Multiplayer",
+      "Extraction Shooter",
+      "Co-op",
+      "Shooter",
+      "Action",
+      "Robots",
+      "Loot",
+      "First-Person",
+      "Comedy",
+      "Combat",
+      "Difficult",
+      "Action-Adventure",
+      "Magic",
+      "Sci-fi",
+      "Survival"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 33177,
+    "review_negative": 1430,
+    "review_total": 34607,
+    "review_positive_percent": 95.87
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "key": "goat-simulator",
+  "name": "Goat Simulator",
+  "description": "Goat Simulator is the latest in high-tech Goat Simulation technology.",
+  "developers": [
+    "Coffee Stain Studios"
+  ],
+  "publishers": [
+    "Coffee Stain Publishing"
+  ],
+  "release_date": "2014-04-02",
+  "website": "http://goat-simulator.com/",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "multiplayer",
+    "funny",
+    "comedy",
+    "open-world",
+    "sandbox",
+    "physics",
+    "destruction",
+    "action",
+    "memes",
+    "singleplayer",
+    "third-person",
+    "co-op",
+    "local-multiplayer",
+    "3d",
+    "dark-humor",
+    "cute",
+    "exploration",
+    "arcade"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "turkish",
+    "arabic",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Binaries\\Win32\\GoatGame-Win32-Shipping.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "GoatSimulator.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Binaries/linux-x86/GoatGame",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "Binaries/linux-amd64/GoatGame",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Goat Simulator",
+    "Binaries\\Win32\\GoatGame-Win32-Shipping",
+    "GoatSimulator.app",
+    "Binaries/linux-x86/GoatGame",
+    "Binaries/linux-amd64/GoatGame"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/265930/edf6c28b83d5fc221338ff71d01caa11d11d3b50.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/265930/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/265930/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/265930/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/265930/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/265930/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/265930/ss_0f0e9008ba21b5eed106147cdc355d3c7bad683a.1920x1080.jpg?t=1728895842"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/265930/ss_fc153d970f4f166c08699555b9cc70a2dbaedf2f.1920x1080.jpg?t=1728895842"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/265930/ss_fa0673c4bf6e43a4092ea351a726d913d81b5953.1920x1080.jpg?t=1728895842"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/265930/ss_53d83ce2f7857ddc27af1e07980c602642892a87.1920x1080.jpg?t=1728895842"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/265930/ss_f25cd182b8ffdb058b940c401835da2b88292632.1920x1080.jpg?t=1728895842"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/265930/ss_25b9da1037082d6a7c3c12e2f3a7707c5c2e721e.1920x1080.jpg?t=1728895842"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Goat Simulator Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2031563/movie.293x165.jpg?t=1447361024",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/265930/18728/4e2b90d838a697a6a3d23afcd8587e005c3a8fe6/1750499001/dash_h264.mpd?t=1447361024"
+    }
+  ],
+  "metacritic": {
+    "score": 62,
+    "url": "https://www.metacritic.com/game/pc/goat-simulator?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 265930,
+    "store_url": "https://store.steampowered.com/app/265930/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Includes level editor",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Funny",
+      "Comedy",
+      "Open World",
+      "Sandbox",
+      "Physics",
+      "Destruction",
+      "Casual",
+      "Indie",
+      "Action",
+      "Memes",
+      "Singleplayer",
+      "Third Person",
+      "Co-op",
+      "Local Multiplayer",
+      "3D",
+      "Dark Humor",
+      "Cute",
+      "Exploration",
+      "Arcade"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 63690,
+    "review_negative": 6365,
+    "review_total": 70055,
+    "review_positive_percent": 90.91
+  }
+}

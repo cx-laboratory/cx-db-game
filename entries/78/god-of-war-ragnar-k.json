@@ -1,0 +1,195 @@
+{
+  "key": "god-of-war-ragnar-k",
+  "name": "God of War Ragnarök",
+  "description": "Kratos and Atreus embark on a mythic journey for answers before Ragnarök arrives – now on PC.",
+  "developers": [
+    "Santa Monica Studio"
+  ],
+  "publishers": [
+    "PlayStation Publishing LLC"
+  ],
+  "release_date": "2024-09-19",
+  "website": "https://www.playstation.com/games/god-of-war-ragnarok/pc/",
+  "tags": [
+    "action",
+    "adventure",
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "portuguese",
+    "polish",
+    "dutch",
+    "hungarian",
+    "czech",
+    "turkish",
+    "arabic",
+    "brazilian",
+    "greek",
+    "latam"
+  ],
+  "name_localized": {
+    "japanese": "ゴッド・オブ・ウォー ラグナロク",
+    "koreana": "갓 오브 워 라그나로크",
+    "russian": "God of War Рагнарёк",
+    "thai": "ก็อดออฟวอร์ แร็กนาร็อก"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "GoWR.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinSavedGames",
+          "path": "God of War Ragnarök/{Steam3AccountID}",
+          "pattern": "GOWRSAVE*",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "God of War Ragnarök/{Steam3AccountID}",
+          "pattern": "*.dat",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "God of War Ragnarök",
+    "GoWR",
+    "ゴッド・オブ・ウォー ラグナロク",
+    "갓 오브 워 라그나로크",
+    "God of War Рагнарёк",
+    "ก็อดออฟวอร์ แร็กนาร็อก"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2322010/1e04d2b41906d6851f21c8d20c9db63f7eb10e64.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/8886984a9a1da221a8e043908c6e4918205ef784/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_7c59382e67eadf779e0e15c3837ee91158237f11.1920x1080.jpg?t=1776465233"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_05f27139b15c5410d07cd59b7b52adbdf73e13da.1920x1080.jpg?t=1776465233"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_974a7b998c0c14da7fe52a342cf36c98850a57ac.1920x1080.jpg?t=1776465233"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_78350297511e81f287b4bc361935efbc3016f6db.1920x1080.jpg?t=1776465233"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_7cbcd6847cac4d2d42f496954d0df715c6af0b3a.1920x1080.jpg?t=1776465233"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_c6240e5611e6aa1c2219dbf778f79b2b5244d912.1920x1080.jpg?t=1776465233"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_5f1bca8b9b0de6e747f1849b0d459b9a6ce614e7.1920x1080.jpg?t=1776465233"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_1848b58003fcc199092227f871770a216d9430f9.1920x1080.jpg?t=1776465233"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_0ac7ad0a72243bc405131af24328faeeeffb1b73.1920x1080.jpg?t=1776465233"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_3eaf327c18df7ba72cbb00bb8f62d5a6ecd9afe8.1920x1080.jpg?t=1776465233"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_244a3845262a2a15b3a355ecf2881b8ccd5b1401.1920x1080.jpg?t=1776465233"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_97adb8f0fe83a8b297c3e107497e31b618746651.1920x1080.jpg?t=1776465233"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_debcd99977362c3c9f24aa58e38b6133cbc35d0f.1920x1080.jpg?t=1776465233"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_ba494253a54ee2dedce6b4cc3c4a4523dace0a37.1920x1080.jpg?t=1776465233"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_ada650347f78592237dd3ca48ac7834ac9e22747.1920x1080.jpg?t=1776465233"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer (US-EN)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257054534/movie.293x165.jpg?t=1726759092",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2322010/754785/cd4512509a851f1f5e98b3ddffdda87de8bac9f1/1750811709/dash_h264.mpd?t=1726759092"
+    }
+  ],
+  "metacritic": {
+    "score": 90,
+    "url": "https://www.metacritic.com/game/pc/god-of-war-ragnarok?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 2322010,
+    "store_url": "https://store.steampowered.com/app/2322010/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Narrated Game Menus",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Steam Input API Support",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Surround Sound",
+      "Steam Cloud",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 42149,
+    "review_negative": 5349,
+    "review_total": 47498,
+    "review_positive_percent": 88.74
+  }
+}

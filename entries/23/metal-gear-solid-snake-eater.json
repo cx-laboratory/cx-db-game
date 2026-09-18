@@ -1,0 +1,215 @@
+{
+  "key": "metal-gear-solid-snake-eater",
+  "name": "METAL GEAR SOLID Δ: SNAKE EATER",
+  "description": "A remake of the 2004 game METAL GEAR SOLID 3: SNAKE EATER, with the same gripping story and engrossing world, now with all new graphics and 3D audio that enhance the jungle atmosphere. Get ready for the ultimate survival stealth action experience.",
+  "developers": [
+    "KONAMI"
+  ],
+  "publishers": [
+    "KONAMI"
+  ],
+  "release_date": "2025-08-28",
+  "website": "https://www.konami.com/mg/mgs3r/gate",
+  "tags": [
+    "action",
+    "adventure",
+    "multiplayer",
+    "pvp",
+    "online-pvp"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "MGSDelta.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "MGSDelta/Saved/SaveGames/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "MGSDelta_Foxhunt/Saved/SaveGames/{64BitSteamID}/Foxhunt",
+          "pattern": "SettingsSave.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "MGSDelta_Foxhunt/Saved/SaveGames/{64BitSteamID}/Foxhunt",
+          "pattern": "EnhancedInputUserSettings.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "MGSDelta_Foxhunt/Saved/SaveGames/{64BitSteamID}/Foxhunt",
+          "pattern": "GorLocalSave.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "METAL GEAR SOLID Δ: SNAKE EATER",
+    "MGSDelta"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2417610/23e791770df64f422ed9e3620085f44c1c27ed50.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/05c97cbcd0cfc27c8ed6c7fc6d81e0995aa2a7d4/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/fcf468fafa62aa13ac11f1ad2f84cab740eac6af/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/ss_b63fda5d26ec95f8e12d78f5d23cb19484c73bf5.1920x1080.jpg?t=1762249119"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/ss_d8384cbc19684210c75fefd77bc2481d25db3f21.1920x1080.jpg?t=1762249119"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/ss_98ada80d8590577bb93becae3ab1dcca0ecd0256.1920x1080.jpg?t=1762249119"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/ss_1167e5910619da40634727f1c4791c6f7fc41b97.1920x1080.jpg?t=1762249119"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/ss_78e200fb5fac4872fb3ff3a8e704f127d4e88511.1920x1080.jpg?t=1762249119"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/ss_067293ab0472c8701d8eda13e1a870484aedb7e4.1920x1080.jpg?t=1762249119"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/ae16c93d885c988e2533b1b8893807824e08befd/ss_ae16c93d885c988e2533b1b8893807824e08befd.1920x1080.jpg?t=1762249119"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/ss_314db4d0d0ed652b5f080fc4cfd441e7bccbfaa4.1920x1080.jpg?t=1762249119"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/ss_96b2ee36dcb19007a564da8d364c44a91318a719.1920x1080.jpg?t=1762249119"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/ss_0873b3e24361b7fc8f54f902117240af7e9c6a6b.1920x1080.jpg?t=1762249119"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/0f9faaccc09eb94693b59abb0926c8663b99039f/ss_0f9faaccc09eb94693b59abb0926c8663b99039f.1920x1080.jpg?t=1762249119"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/4455f45b7d53535c210fd35f7819f5cf7f91a814/ss_4455f45b7d53535c210fd35f7819f5cf7f91a814.1920x1080.jpg?t=1762249119"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2417610/c44af6675ffefba49bf8529cecc8d13dba3542f2/ss_c44af6675ffefba49bf8529cecc8d13dba3542f2.1920x1080.jpg?t=1762249119"
+    }
+  ],
+  "videos": [
+    {
+      "name": "METAL GEAR SOLID Δ: SNAKE EATER - FOX HUNT Trailer (ESRB)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257226480/217df32d86e4774bec1ed0ea19b94779e3a7e052/movie_600x337.jpg?t=1762249112",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2417610/389241672/8c0a931680c26972c58e9515dec8210ff8c1c825/1762227297/dash_h264.mpd?t=1762249112"
+    },
+    {
+      "name": "METAL GEAR SOLID Δ: SNAKE EATER - Launch Trailer (ESRB)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257185368/dd4eed54bfb468b4abb298259ce2c8f8240b0090/movie_600x337.jpg?t=1755846083",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2417610/1952335711/d20ffbeac5439ea140df5a2784e981fd7bc9f8ab/1755602320/dash_h264.mpd?t=1755846083"
+    },
+    {
+      "name": "METAL GEAR SOLID Δ: SNAKE EATER - Gameplay Trailer (ESRB)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257150826/af2a2e068f12feb6ea253de4597ed8f3fe860f46/movie_600x337.jpg?t=1749074811",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2417610/206668160/f06f3f0ede2976261f21c166c827674ee2ed04d4/1750814408/dash_h264.mpd?t=1749074811"
+    },
+    {
+      "name": "METAL GEAR SOLID Δ: SNAKE EATER - Release Date Trailer (ESRB)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257094308/fea40d35854660b8699b82ef9f47dd86bf9aaa2b/movie_600x337.jpg?t=1739435874",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2417610/822191/60a892dcfb927a7631ed06ffec81033d131e80b4/1750814406/dash_h264.mpd?t=1739435874"
+    },
+    {
+      "name": "METAL GEAR SOLID Δ: SNAKE EATER - Official Trailer #2 (ESRB)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257059238/f8290126e410f84fd2d13b32d7d0bfd45f6a8332/movie_600x337.jpg?t=1727404598",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2417610/762303/1ccaf8fa42dfa9da5228213019f5409837347d01/1750814390/dash_h264.mpd?t=1727404598"
+    },
+    {
+      "name": "METAL GEAR SOLID Δ: SNAKE EATER - Official Trailer #1 (ESRB)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257059360/a0cd8fd265926f4fa7d864905a16d3e471dc8da5/movie_600x337.jpg?t=1727404619",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2417610/762474/05fb25e5052cdf762e61c5b6b34fc5c3b6c24d12/1750814393/dash_h264.mpd?t=1727404619"
+    },
+    {
+      "name": "METAL GEAR SOLID Δ: SNAKE EATER - First In-Engine Look (ESRB)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257059362/6100c4836eeff4a58daf6326ef280438bfa87426/movie_600x337.jpg?t=1727404638",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2417610/762476/509f2b377e3a2c9a0f13928146127f3e8fe3517f/1750814395/dash_h264.mpd?t=1727404638"
+    },
+    {
+      "name": "METAL GEAR SOLID Δ: SNAKE EATER - Announcement Trailer (ESRB)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257059363/76014b26bc939e67d87fa5c265a9568870dad1f1/movie_600x337.jpg?t=1727404652",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2417610/762477/c4b9fc3e8071bf83abc09e0584be932581228a2b/1750814398/dash_h264.mpd?t=1727404652"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2417610,
+    "store_url": "https://store.steampowered.com/app/2417610/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Gamepad Recommended",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Surround Sound",
+      "Steam Cloud",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 15201,
+    "review_negative": 2928,
+    "review_total": 18129,
+    "review_positive_percent": 83.85
+  }
+}

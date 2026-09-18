@@ -1,0 +1,196 @@
+{
+  "key": "derail-valley",
+  "name": "Derail Valley",
+  "description": "Drive massive trains and build your career in a vast open railway network. For both PC and VR.",
+  "developers": [
+    "Altfuture"
+  ],
+  "publishers": [
+    "Altfuture"
+  ],
+  "release_date": "2019-01-26",
+  "website": "https://www.derailvalley.com/",
+  "tags": [
+    "adventure",
+    "indie",
+    "simulation",
+    "early-access",
+    "trains",
+    "realistic",
+    "vr",
+    "transportation",
+    "driving",
+    "open-world",
+    "first-person",
+    "physics",
+    "immersive-sim",
+    "singleplayer",
+    "economy",
+    "sandbox",
+    "resource-management",
+    "replay-value",
+    "relaxing",
+    "procedural-generation"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Dutch",
+    "Finnish",
+    "Japanese",
+    "Norwegian",
+    "Polish",
+    "Portuguese - Brazil",
+    "Russian",
+    "Spanish - Latin America",
+    "Swedish",
+    "Traditional Chinese",
+    "Ukrainian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "DerailValley.exe",
+          "description": "",
+          "type": "vr"
+        },
+        {
+          "executable": "DerailValley.exe",
+          "description": "",
+          "type": "othervr"
+        },
+        {
+          "executable": "DerailValley.exe",
+          "description": "Non-VR version",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Altfuture/Derail Valley/Users",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Derail Valley",
+    "DerailValley"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/588030/6c26642672799cfc00a0b11398b9807d682a767d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588030/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588030/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588030/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588030/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588030/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588030/aff4b00c26995bd17e1d3e5fb858ded04bc39646/ss_aff4b00c26995bd17e1d3e5fb858ded04bc39646.1920x1080.jpg?t=1782140299"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588030/738cad9ce5d887ccfc1b2aece347e1361b2d0cca/ss_738cad9ce5d887ccfc1b2aece347e1361b2d0cca.1920x1080.jpg?t=1782140299"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588030/344d00c4169063ddeedd6954763c0be495e5def0/ss_344d00c4169063ddeedd6954763c0be495e5def0.1920x1080.jpg?t=1782140299"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588030/6a0f58a7fe30fb71528dedbabedf298e9ab6ab8b/ss_6a0f58a7fe30fb71528dedbabedf298e9ab6ab8b.1920x1080.jpg?t=1782140299"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588030/ae9f50b1ba7dcf4011b6d7d62f7f23793ea5ae0c/ss_ae9f50b1ba7dcf4011b6d7d62f7f23793ea5ae0c.1920x1080.jpg?t=1782140299"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588030/f44f3c47365534bab064a2f5c6c44de89885d2bf/ss_f44f3c47365534bab064a2f5c6c44de89885d2bf.1920x1080.jpg?t=1782140299"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588030/ae24a95405d6367cd27422a3db8cc973d7e0c4dc/ss_ae24a95405d6367cd27422a3db8cc973d7e0c4dc.1920x1080.jpg?t=1782140299"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588030/1601e4842ce3369723cd2704c58b07798c7c24fb/ss_1601e4842ce3369723cd2704c58b07798c7c24fb.1920x1080.jpg?t=1782140299"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588030/77d4473a0f86321c8fa2630e5c48559ad9a81a41/ss_77d4473a0f86321c8fa2630e5c48559ad9a81a41.1920x1080.jpg?t=1782140299"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588030/6124b3b41ba0f287dd50569692be2e54f4d1bcb4/ss_6124b3b41ba0f287dd50569692be2e54f4d1bcb4.1920x1080.jpg?t=1782140299"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Simulator Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256955881/movie.293x165.jpg?t=1688184177",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/588030/583229/0475e3432d5fb28996c38c3fc1491b6f4500e036/1750557103/dash_h264.mpd?t=1688184177"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 588030,
+    "store_url": "https://store.steampowered.com/app/588030/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Tracked Controller Support",
+      "VR Supported",
+      "Camera Comfort",
+      "Adjustable Difficulty",
+      "Keyboard Only Option",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Stereo Sound",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Early Access",
+      "Trains",
+      "Simulation",
+      "Realistic",
+      "VR",
+      "Transportation",
+      "Driving",
+      "Open World",
+      "First-Person",
+      "Physics",
+      "Immersive Sim",
+      "Singleplayer",
+      "Economy",
+      "Sandbox",
+      "Resource Management",
+      "Indie",
+      "Replay Value",
+      "Adventure",
+      "Relaxing",
+      "Procedural Generation"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 8875,
+    "review_negative": 305,
+    "review_total": 9180,
+    "review_positive_percent": 96.68
+  }
+}

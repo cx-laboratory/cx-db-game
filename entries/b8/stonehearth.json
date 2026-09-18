@@ -1,0 +1,271 @@
+{
+  "key": "stonehearth",
+  "name": "Stonehearth",
+  "description": "Pioneer a living world full of warmth, heroism, and mystery. Help a small group of settlers build a home for themselves in a forgotten land. Establish a food supply, build shelter, defend your people, monitor their moods, and find a way to grow and expand, facing challenges at every step.",
+  "developers": [
+    "Radiant Entertainment"
+  ],
+  "publishers": [
+    "(none)"
+  ],
+  "release_date": "2018-07-26",
+  "website": "http://stonehearth.net/",
+  "tags": [
+    "indie",
+    "simulation",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "split-screen",
+    "colony-sim",
+    "city-builder",
+    "building",
+    "sandbox",
+    "survival",
+    "crafting",
+    "voxel",
+    "early-access",
+    "open-world",
+    "singleplayer",
+    "rpg",
+    "management",
+    "fantasy",
+    "cute",
+    "adventure",
+    "god-game"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Stonehearth.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Stonehearth.app/Contents/MacOS/Stonehearth",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Stonehearth",
+    "Stonehearth.app/Contents/MacOS/Stonehearth"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/253250/efcda25d2e073f122599bae3db6f95e51d27f385.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253250/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253250/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253250/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253250/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253250/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253250/ss_5e2626897735e8fb80a5e5f982878750a5bdc548.1920x1080.jpg?t=1545243901"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253250/ss_3e4124ead0f1a7ced3b6eb20ee62dcfde1420059.1920x1080.jpg?t=1545243901"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253250/ss_7c5bfbeedb650546e98dab93fd2dbf475ec1be78.1920x1080.jpg?t=1545243901"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253250/ss_6955c8fbeef65ae661f0f4bc43587769a6849112.1920x1080.jpg?t=1545243901"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253250/ss_3e079d71dac806d202bc5dd74647953166df094b.1920x1080.jpg?t=1545243901"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253250/ss_edad47b83a2bffd907deee00b2ac548449614fa2.1920x1080.jpg?t=1545243901"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253250/ss_084d557dee030f9b5e8661b2cc9a78b91b60de5d.1920x1080.jpg?t=1545243901"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253250/ss_c052f986aa4364d0e98387cb09b77c7ea3130860.1920x1080.jpg?t=1545243901"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253250/ss_638c358a1bcf3dbeb7b9d78db3a15cc617d9c64d.1920x1080.jpg?t=1545243901"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253250/ss_55a646c3c5c5a1a2f2b8d377ffbd55a390a90f35.1920x1080.jpg?t=1545243901"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253250/ss_d82421479415bfee3333d1aa55dd51ca740dd52c.1920x1080.jpg?t=1545243901"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253250/ss_5da5e57b25d12f7f9a17c60755662e8392736616.1920x1080.jpg?t=1545243901"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253250/ss_ed82296cfb5c028ba41fc39f65cf5a651540ed73.1920x1080.jpg?t=1545243901"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253250/ss_d1970ed757fdac46f4fa816f8c39299bc8d1d940.1920x1080.jpg?t=1545243901"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Stonehearth Early Access Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2039688/movie.293x165.jpg?t=1447375403",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/253250/36705/250476f608ef1e57d948201f02824d377dd757a6/1751248463/dash_h264.mpd?t=1447375403"
+    },
+    {
+      "name": "2018 Updates",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256705499/movie.293x165.jpg?t=1515547255",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/253250/141057/27d6eb82981c85ed80c0fc98fdffc5017255d3f1/1751248463/dash_h264.mpd?t=1515547255"
+    },
+    {
+      "name": "Roadmap Updates",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256684257/movie.293x165.jpg?t=1493779314",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/253250/100559/e0d27193a10fa6ade19c2fd15ae5de360844eeec/1751526433/dash_h264.mpd?t=1493779314"
+    },
+    {
+      "name": "Appeal",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256705498/movie.293x165.jpg?t=1515547267",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/253250/141056/9ec6aeaa008e13096b085ddc173114fd4c7ff2a3/1751248463/dash_h264.mpd?t=1515547267"
+    },
+    {
+      "name": "Desktop Tuesday: Workshop Upgrades",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256706090/movie.293x165.jpg?t=1516215937",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/253250/142252/d8d3f5a3cd9efa8886e137a1794c3bab94aa2462/1751248463/dash_h264.mpd?t=1516215937"
+    },
+    {
+      "name": "Desktop Tuesday: Water Mgmt",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256710095/movie.293x165.jpg?t=1519845169",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/253250/149422/153d7e7fb1302fd12218666276003dad245ebe77/1751248464/dash_h264.mpd?t=1519845169"
+    },
+    {
+      "name": "Town Upgrades",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256710716/movie.293x165.jpg?t=1522780987",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/253250/150473/a6fbb56ec8ce6cdb32ef3c25796074260f4f3490/1751248464/dash_h264.mpd?t=1522780987"
+    },
+    {
+      "name": "Weather",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256713278/movie.293x165.jpg?t=1522780999",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/253250/156324/a463106009bf25199a5cf1ca60ea3a1f73bc5a18/1751248464/dash_h264.mpd?t=1522780999"
+    },
+    {
+      "name": "Builder Basics",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256714580/movie.293x165.jpg?t=1524105969",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/253250/158881/d2f4402ca96a1eb2bcda06674ab410189ec295d5/1751248464/dash_h264.mpd?t=1524105969"
+    },
+    {
+      "name": "Advanced Builder",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256714581/movie.293x165.jpg?t=1525978926",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/253250/158882/eecbc4c08a4d1f1103d17e1f80b521d46e1aedc8/1751249588/dash_h264.mpd?t=1525978926"
+    },
+    {
+      "name": "Steam Workshop",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256714582/movie.293x165.jpg?t=1524105992",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/253250/158883/b94eb9dc8b689473e17dea72a5f550a6005e0705/1751249086/dash_h264.mpd?t=1524105992"
+    },
+    {
+      "name": "Multiplayer Basics",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256716328/movie.293x165.jpg?t=1525978936",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/253250/161915/c95b92f8f7fc39b16d2e7e40ba781be9b6dce1d9/1751248465/dash_h264.mpd?t=1525978936"
+    },
+    {
+      "name": "Multiplayer Q&A",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256716329/movie.293x165.jpg?t=1525978946",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/253250/161916/ecf3d56a6cf392d0d85aca8e7da01ba1a4da8c89/1751248465/dash_h264.mpd?t=1525978946"
+    },
+    {
+      "name": "Tier 3 and Re-embarkation",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256716330/movie.293x165.jpg?t=1525978956",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/253250/161917/fbf040556f2fdf09b00ddbd842c07fecf0a9b3f6/1751250966/dash_h264.mpd?t=1525978956"
+    },
+    {
+      "name": "The Titan",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256720313/movie.293x165.jpg?t=1529442094",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/253250/169079/681c676dc198f6362b2595f20d2d7a00d263cff9/1751248465/dash_h264.mpd?t=1529442094"
+    },
+    {
+      "name": "The Northern Alliance",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256722877/movie.293x165.jpg?t=1532133857",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/253250/173656/0cb71b4928b7b3df30a7e877787291f405ec98f8/1751250621/dash_h264.mpd?t=1532133857"
+    },
+    {
+      "name": "The Geomancer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256723008/movie.293x165.jpg?t=1532133869",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/253250/173895/03f2e78c5f109df78f0c68b58f094465981f8a92/1751248465/dash_h264.mpd?t=1532133869"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 253250,
+    "store_url": "https://store.steampowered.com/app/253250/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Colony Sim",
+      "City Builder",
+      "Building",
+      "Sandbox",
+      "Survival",
+      "Strategy",
+      "Simulation",
+      "Crafting",
+      "Voxel",
+      "Early Access",
+      "Open World",
+      "Indie",
+      "Singleplayer",
+      "RPG",
+      "Multiplayer",
+      "Management",
+      "Fantasy",
+      "Cute",
+      "Adventure",
+      "God Game"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 9821,
+    "review_negative": 3221,
+    "review_total": 13042,
+    "review_positive_percent": 75.3
+  }
+}

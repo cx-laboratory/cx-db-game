@@ -1,0 +1,209 @@
+{
+  "key": "party-hard",
+  "name": "Party Hard",
+  "description": "It's 3:00 a.m. Your neighbours are having a loud party. Stop them. Party Hard is tinyBuild's award-winning stealth strategy game about ruining parties by any means.",
+  "developers": [
+    "Pinokl Games"
+  ],
+  "publishers": [
+    "tinyBuild"
+  ],
+  "release_date": "2015-08-26",
+  "website": "http://tinybuild.com/partyhard",
+  "tags": [
+    "action",
+    "indie",
+    "strategy",
+    "multiplayer",
+    "co-op",
+    "split-screen"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English*",
+    "Russian",
+    "German",
+    "Spanish - Spain",
+    "Romanian",
+    "French",
+    "Ukrainian",
+    "Japanese",
+    "Portuguese - Brazil",
+    "Simplified Chinese*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "PartyHardGame.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "PinoklGames/PartyHardGame/",
+          "pattern": "savedGames.gd",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "PartyHardGame.app",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "PinoklGames/PartyHardGame/",
+          "pattern": "savedGames.gd",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "PartyHardGame.x86",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "PartyHardGame.x86_64",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "PinoklGames/PartyHardGame/",
+          "pattern": "savedGames.gd",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Party Hard",
+    "PartyHardGame",
+    "PartyHardGame.app",
+    "PartyHardGame.x86",
+    "PartyHardGame.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/356570/7435291bc4a3c11c601c903bf79ac9f75ee0a839.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356570/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356570/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356570/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356570/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356570/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356570/ss_02f33a562d16465b7b23e4c50076a98a3027da56.1920x1080.jpg?t=1781529415"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356570/ss_f375f0d06b00b018a4e0d05b8a30b5b6f8520da3.1920x1080.jpg?t=1781529415"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356570/ss_1623f93abb623119206fbbda42b6a596e8dff0aa.1920x1080.jpg?t=1781529415"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356570/ss_339e55de9c3c549f1593f17ece502663199695f9.1920x1080.jpg?t=1781529415"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356570/ss_e936b9da81503499617dc2e7e15d7dd3665e56b4.1920x1080.jpg?t=1781529415"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356570/ss_fb89e0b31e17fb71082b6e3f34e45ab44e6edeab.1920x1080.jpg?t=1781529415"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356570/ss_08dcfdab8ed2d4bab82b2c674edc456e4cbb3d8f.1920x1080.jpg?t=1781529415"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356570/ss_4726e07b3f108dd8b46f29e47b00b2695a216107.1920x1080.jpg?t=1781529415"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356570/ss_96643af469d59b436295cc6c7b9f12836eba1f18.1920x1080.jpg?t=1781529415"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356570/ss_11de5043b779f8c7ed81cd2a27b44bc785740a73.1920x1080.jpg?t=1781529415"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356570/ss_27d09dd60ce212c26d121e32733272e3aabb02e2.1920x1080.jpg?t=1781529415"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Party Hard Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256655890/movie.293x165.jpg?t=1447377691",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/356570/41616/0ec5e07174d39b6a9baa69f7abeac60038e1bf2c/1751274321/dash_h264.mpd?t=1447377691"
+    },
+    {
+      "name": "Party Hard - Life Of The Party Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256655196/movie.293x165.jpg?t=1447377329",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/356570/40208/935d2ca1512becc8f34aba2764d5f603bd49beb7/1751274321/dash_h264.mpd?t=1447377329"
+    },
+    {
+      "name": "Lets Play by Mike Rose",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256655193/movie.293x165.jpg?t=1447377328",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/356570/40205/ec7dc956be87b2827b97003222185e93184c8640/1751274319/dash_h264.mpd?t=1447377328"
+    },
+    {
+      "name": "The After Party trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256657256/movie.293x165.jpg?t=1447378467",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/356570/44670/999965be064ffcbe2fec3d4015c6e7eb9426e353/1751274322/dash_h264.mpd?t=1447378467"
+    }
+  ],
+  "metacritic": {
+    "score": 64,
+    "url": "https://www.metacritic.com/game/pc/party-hard?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 356570,
+    "store_url": "https://store.steampowered.com/app/356570/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 11258,
+    "review_negative": 1228,
+    "review_total": 12486,
+    "review_positive_percent": 90.16
+  }
+}

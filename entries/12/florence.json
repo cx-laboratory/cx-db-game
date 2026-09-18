@@ -1,0 +1,174 @@
+{
+  "key": "florence",
+  "name": "Florence",
+  "description": "Florence Yeoh feels a little... stuck. Her life is an endless routine of work, sleep, and spending too much time on social media. Then one day, she meets a cello player named Krish who changes everything about how she sees the world and herself.",
+  "developers": [
+    "Mountains"
+  ],
+  "publishers": [
+    "Annapurna Interactive"
+  ],
+  "release_date": "2020-02-14",
+  "website": "",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "romance",
+    "story-rich",
+    "cute",
+    "female-protagonist",
+    "singleplayer",
+    "interactive-fiction",
+    "music",
+    "visual-novel",
+    "short",
+    "stylized",
+    "narrative",
+    "family-friendly",
+    "point-and-click",
+    "2d",
+    "colorful",
+    "dating-sim",
+    "emotional"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "turkish",
+    "arabic",
+    "brazilian",
+    "greek",
+    "vietnamese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Florence.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Florence.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Florence",
+    "Florence.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1102130/4d790af511cc96b23f32829a7ee0313445865e5e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102130/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102130/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102130/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102130/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102130/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102130/ss_3803bfdcbfa1ff4515505f920ed1c7993993b9f6.1920x1080.jpg?t=1729099629"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102130/ss_cfbf606f6fd79a41652b36d30c8e49e6a047b1f1.1920x1080.jpg?t=1729099629"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102130/ss_fe7d6ef1f2bf34692e29f8650c432df1908f914b.1920x1080.jpg?t=1729099629"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102130/ss_7cd51d91b164dc46f5abfc76d16909ce233c20a9.1920x1080.jpg?t=1729099629"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102130/ss_9e029df44296f3d21a61e96d0a7bea4447be2c14.1920x1080.jpg?t=1729099629"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Florence - Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256774213/movie.293x165.jpg?t=1580836892",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1102130/265265/d13a4134883dfd2785aef12a1c46b243c09463ba/1751188880/dash_h264.mpd?t=1580836892"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1102130,
+    "store_url": "https://store.steampowered.com/app/1102130/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Indie",
+      "Casual",
+      "Adventure",
+      "Romance",
+      "Story Rich",
+      "Cute",
+      "Female Protagonist",
+      "Singleplayer",
+      "Interactive Fiction",
+      "Music",
+      "Visual Novel",
+      "Short",
+      "Stylized",
+      "Narrative",
+      "Family Friendly",
+      "Point & Click",
+      "2D",
+      "Colorful",
+      "Dating Sim",
+      "Emotional"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 15045,
+    "review_negative": 1093,
+    "review_total": 16138,
+    "review_positive_percent": 93.23
+  }
+}

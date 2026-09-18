@@ -1,0 +1,543 @@
+{
+  "key": "dont-starve-together",
+  "name": "Don't Starve Together",
+  "description": "Fight, Farm, Build and Explore Together in the standalone multiplayer expansion to the uncompromising wilderness survival game, Don't Starve.",
+  "developers": [
+    "Klei Entertainment"
+  ],
+  "publishers": [
+    "Klei Entertainment"
+  ],
+  "release_date": "2016-04-22",
+  "website": "http://www.dontstarvegame.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "simulation",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "survival",
+    "open-world-survival-craft",
+    "open-world",
+    "crafting",
+    "sandbox",
+    "difficult",
+    "2d",
+    "atmospheric",
+    "horror",
+    "funny",
+    "singleplayer",
+    "roguelike"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English*",
+    "Simplified Chinese*",
+    "French*",
+    "Italian*",
+    "German*",
+    "Japanese*",
+    "Korean*",
+    "Polish*",
+    "Portuguese - Portugal*",
+    "Russian*",
+    "Spanish - Latin America*",
+    "Traditional Chinese**languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "饥荒联机版",
+    "tchinese": "饑荒聯機版"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "bin64/dontstarve_steam_x64.exe",
+          "description": "Play Don't Starve Together",
+          "type": "default"
+        },
+        {
+          "executable": "bin/dontstarve_steam.exe",
+          "description": "Play Don't Starve Together (32 Bit)",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "DoNotStarveTogether/{Steam3AccountID}/CloudSaves",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "DoNotStarveTogetherBetaBranch/{Steam3AccountID}/CloudSaves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "dontstarve_steam.app",
+          "description": "Play Don't Starve Together",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "DoNotStarveTogether/{Steam3AccountID}/CloudSaves",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "DoNotStarveTogetherBetaBranch/{Steam3AccountID}/CloudSaves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "bin64/dontstarve_steam_x64",
+          "description": "Play Don't Starve Together",
+          "type": "default"
+        },
+        {
+          "executable": "bin/dontstarve_steam",
+          "description": "Play Don't Starve Together (32 Bit)",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "DoNotStarveTogether/{Steam3AccountID}/CloudSaves",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "DoNotStarveTogetherBetaBranch/{Steam3AccountID}/CloudSaves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Don't Starve Together",
+    "bin64/dontstarve_steam_x64",
+    "bin/dontstarve_steam",
+    "dontstarve_steam.app",
+    "饥荒联机版",
+    "饑荒聯機版"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/322330/a80aa6cff8eebc1cbc18c367d9ab063e1553b0ee.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/51e5f44e4e38ce02a985687df4fdc8feb678219b/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/29836375ea0f65ee0495d97a26c997f8cef7cab7/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/3c992386b8f2394d504b1c226ff00b79690e7f29/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/926ecf47e568cdb9c88696dcaa32e58dbf7e4981/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/6f020023c4c7c804d8a201181e5ac96a35b20382/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/ss_d053a7220a03ab689da9312c6d15fe8211401f55.1920x1080.jpg?t=1782413299"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/ss_37e30c4cf8c945f1958890c8fa7346af6bea547d.1920x1080.jpg?t=1782413299"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/ss_f863729856b94b3485ee80e6fd11289595f6634c.1920x1080.jpg?t=1782413299"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/ss_92f4145bd510f66d63028e1cdf27eb30bd44cea1.1920x1080.jpg?t=1782413299"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/ss_9a7730946f2e060457b5c19ac2d870a78ab0f20b.1920x1080.jpg?t=1782413299"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/ss_7f2ad9be835040a8995cd3653cd521553ef776cf.1920x1080.jpg?t=1782413299"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/ss_a353d9ddf538ea3bbc7dbf3230b420fef4ab04d5.1920x1080.jpg?t=1782413299"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/ss_11dc14670f703a99884bbe479205727a3776d7b3.1920x1080.jpg?t=1782413299"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/ss_24608cbb9e37cfa46751c93312f14b3e18854137.1920x1080.jpg?t=1782413299"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/ss_c142fa3d60841229b6cf35aca1192882c1f31b9d.1920x1080.jpg?t=1782413299"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/ss_87091f2ec581c20e1a941a70bb80355419a1f6ba.1920x1080.jpg?t=1782413299"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/ss_ee86c53d09b2d2b3f93c7c060fbaacad018c63af.1920x1080.jpg?t=1782413299"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/ss_aebe049f1155c8875fcd46ffeb0fbe78d8142cba.1920x1080.jpg?t=1782413299"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/ss_f94ff132f776463146136c57ee11b85604e5504a.1920x1080.jpg?t=1782413299"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Cursed Confrontation Part 1",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257354759/8aec9cd17aa9b61c9fa4758d1053b83cf5a9d842/movie_600x337.jpg?t=1781196639",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/772813262/1eaf63bd89a720d7897d5bef28700cd93fdeeb0b/1781047716/dash_h264.mpd?t=1781196639"
+    },
+    {
+      "name": "Wx-78 Skill Spotlight",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257320953/1d6a796826f397f77045ec83d8a1d72671690d20/movie_600x337.jpg?t=1776359429",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/1654751406/ed2882d005578965c224fdd45423bf7afb38a3b8/1776356255/dash_h264.mpd?t=1776359429"
+    },
+    {
+      "name": "Ancient Echoes Trailer ",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257201409/b58929324549be6d8deb180c0fc6b67064a6fa8d/movie_600x337.jpg?t=1758214907",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/849256590/5b5b7407a35a55979420632d9d30a1fe7d542379/1758213399/dash_h264.mpd?t=1758214907"
+    },
+    {
+      "name": "Hostile Take Over",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257155324/858af6b3ea396be172f200d23f401eabfec99d8f/movie_600x337.jpg?t=1749748041",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/1816079464/d45332fe297ccdcf61813a6defb799579c36a928/1750508311/dash_h264.mpd?t=1749748041"
+    },
+    {
+      "name": "The Warmest Night",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257251803/adb94e471bda083bfc306adba80f2ef86680c794/movie_600x337.jpg?t=1766081342",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/2104045006/0afe5cf1ee5c882d6d4477198d5a74d04ea9cc77/1766017813/dash_h264.mpd?t=1766081342"
+    },
+    {
+      "name": "skill_spotlight_wendy_walter_wortox EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257107445/ea5151ea41decf055d4a0ce8348bb69d173f4fa7/movie_600x337.jpg?t=1740689598",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/840604/0d9d96b60718b09fd2c574b1efbb787b696a722b/1750508293/dash_h264.mpd?t=1740689598"
+    },
+    {
+      "name": "Boneward Bound",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257068101/68ace3d2e28ac7e5a96e73f5aabdc38ab0251e2f/movie_600x337.jpg?t=1729790598",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/776670/b045aef4cbc4a578af4448151fd4b2458c20f8d8/1750508282/dash_h264.mpd?t=1729790598"
+    },
+    {
+      "name": "Depths of Duplicity EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257054270/231ca0ea0aa99099902ef037ae754820e8618686/movie_600x337.jpg?t=1728334179",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/754327/38cd452a707e515c953fcbec9044bc1566135acf/1750508280/dash_h264.mpd?t=1728334179"
+    },
+    {
+      "name": "Skill_Spotlight_Wurt_Winona",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257034095/movie.293x165.jpg?t=1719511013",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/719126/6acc26a28ad511425c4c1f69d6043f7d73953d23/1750508271/dash_h264.mpd?t=1719511013"
+    },
+    {
+      "name": "Tales From the Constant: Swine & Dine",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256989801/movie.293x165.jpg?t=1703009085",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/641999/2f938d531e38b7b0927e94cd3f5864e5a99b934e/1750508261/dash_h264.mpd?t=1703009085"
+    },
+    {
+      "name": "Host_of_Horrors",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256976744/movie.293x165.jpg?t=1697740600",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/620128/87073c2f516819013d01b92a80c1640bf0a2419f/1750508255/dash_h264.mpd?t=1697740600"
+    },
+    {
+      "name": "Cult_of_the_lamb",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256964531/movie.293x165.jpg?t=1692637214",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/598689/0353f0208acf7f899be1bceb943dc35aa08bef5c/1750508249/dash_h264.mpd?t=1692637214"
+    },
+    {
+      "name": "Skill Spotlight Wormwood, Wolfgang, Woodie",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256960340/movie.293x165.jpg?t=1690477747",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/591286/d43998c4146a057ccbd3c8e327228c9a2ea29923/1750508232/dash_h264.mpd?t=1690477747"
+    },
+    {
+      "name": "Don't Starve Together: Maxwell",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256917364/movie.293x165.jpg?t=1669138662",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/515787/03cca5210390e1ad5382073e62f3c3be6f2cec7b/1750509613/dash_h264.mpd?t=1669138662"
+    },
+    {
+      "name": "Don't Starve Together: Eye for an Eye",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256861078/movie.293x165.jpg?t=1639676324",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/418151/0d7b473bf2ef999ac07773da203f23c6fe178f92/1750508121/dash_h264.mpd?t=1639676324"
+    },
+    {
+      "name": "Don't Starve Together: 2021 Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256833381/movie.293x165.jpg?t=1620232763",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/367219/40511aab9b976ba40b2ce5d00b2ab714be650b94/1750508067/dash_h264.mpd?t=1620232763"
+    },
+    {
+      "name": "Don't Starve Together: Wigfrid",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256802250/movie.293x165.jpg?t=1600965515",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/314427/668418624315156d3f207df42a8871f66be652d9/1750508041/dash_h264.mpd?t=1600965515"
+    },
+    {
+      "name": "Don't Starve Together: Terrors Below",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256952882/movie.293x165.jpg?t=1686849845",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/578228/aaf94a38e2aeab7f7c10a07986f6a1c380814aaf/1750508213/dash_h264.mpd?t=1686849845"
+    },
+    {
+      "name": "Don't Starve Together: Taking Root",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256943319/movie.293x165.jpg?t=1682615233",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/561685/48430c6c20f4f4455fcc6803c93ad15bd340f398/1750508186/dash_h264.mpd?t=1682615233"
+    },
+    {
+      "name": "Don't Starve Together: Wilson",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256935949/movie.293x165.jpg?t=1678987374",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/548620/ff84dfcc53c85c7a445011a27a4d3f3c38b94e55/1750508185/dash_h264.mpd?t=1678987374"
+    },
+    {
+      "name": "Don't Starve Together: Wickerbottom",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256899511/movie.293x165.jpg?t=1659633070",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/485209/72a6bcaf492f53a736b0d829f1bd80fb52dcd4b0/1750508156/dash_h264.mpd?t=1659633070"
+    },
+    {
+      "name": "Don't Starve Together: The Curse of Moon Quay",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256894105/movie.293x165.jpg?t=1656607236",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/475876/ae784cc2383160908434c8fabdbebcf2a610dcde/1750508155/dash_h264.mpd?t=1656607236"
+    },
+    {
+      "name": "Don't Starve Together: WX-78",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256884305/movie.293x165.jpg?t=1651166999",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/458837/79d72385ee6fb7dbeb40f744f4b9644657944c22/1750508145/dash_h264.mpd?t=1651166999"
+    },
+    {
+      "name": "Don't Starve Together: Wolfgang",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256865345/movie.293x165.jpg?t=1659633074",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/425200/9843b051a4b9dfa7fde2e65425b718a3ca030663/1750508122/dash_h264.mpd?t=1659633074"
+    },
+    {
+      "name": "Don't Starve Together: Wanda",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256850728/movie.293x165.jpg?t=1639676327",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/399718/d3d7c787c25240d5a8766cc2b7b9efd09b399f65/1750508107/dash_h264.mpd?t=1639676327"
+    },
+    {
+      "name": "Don't Starve Together: Waterlogged",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256846407/movie.293x165.jpg?t=1639676331",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/392002/35173636bce7c1c1002d19723933d28ac842727c/1750508102/dash_h264.mpd?t=1639676331"
+    },
+    {
+      "name": "Don't Starve Together: Webber",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256840376/movie.293x165.jpg?t=1624553869",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/379758/6fcd3872ca2175c4bb837cbfd0e55132b77cae7e/1750508095/dash_h264.mpd?t=1624553869"
+    },
+    {
+      "name": "Don't Starve Together- Return Of Them: Eye of the Storm",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256833414/movie.293x165.jpg?t=1628786992",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/367279/0951f7241f4a553dc4020c07dc35dc6d3ca2fbc9/1750508071/dash_h264.mpd?t=1628786992"
+    },
+    {
+      "name": "Don't Starve Together: Wes",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256828246/movie.293x165.jpg?t=1617295336",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/357996/b34a1ebe72716edef21af53aaad7eb1137bcc504/1750508066/dash_h264.mpd?t=1617295336"
+    },
+    {
+      "name": "Don't Starve Together- Return Of Them: Reap What You Sow",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256814211/movie.293x165.jpg?t=1608054491",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/334206/ee7c23e7bc5529d2692efbbdf1cee607e9481133/1750508050/dash_h264.mpd?t=1608054491"
+    },
+    {
+      "name": "Don't Starve Together- Return Of Them: Forgotten Knowledge",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256805907/movie.293x165.jpg?t=1603385893",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/320835/3d6591880f3f2f384d29f56252085f6b05b60a0a/1750508044/dash_h264.mpd?t=1603385893"
+    },
+    {
+      "name": "Don't Starve Together- Return Of Them: Troubled Waters",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256793025/movie.293x165.jpg?t=1620232786",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/298847/a5da4527dc3c9f708120c448003897b40550db43/1750508022/dash_h264.mpd?t=1620232786"
+    },
+    {
+      "name": "Don't Starve Together: Walt",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256789020/movie.293x165.jpg?t=1620232793",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/292057/98b370c45eae18a13af20901a7b2f9c49e0f3be1/1750508062/dash_h264.mpd?t=1620232793"
+    },
+    {
+      "name": "Don't Starve Together- Return Of Them: She Sells Sea Shells",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256782899/movie.293x165.jpg?t=1620232800",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/280643/7d9f02755ea874ef505e8b95beed2ff5e2e0085c/1750508014/dash_h264.mpd?t=1620232800"
+    },
+    {
+      "name": "Don't Starve Together: Wes",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256779736/movie.293x165.jpg?t=1620232807",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/275271/92cbb94293fe98e65d6b99f6199f7c132865db31/1750508004/dash_h264.mpd?t=1620232807"
+    },
+    {
+      "name": "Don't Starve Together: Wendy",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256778450/movie.293x165.jpg?t=1620232813",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/272788/d0cd5cc6b1dd0c4cfa4d8836eaf6418a49abe683/1750507984/dash_h264.mpd?t=1620232813"
+    },
+    {
+      "name": "Don't Starve Together- Return Of Them: Hook, Line and Inker",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256769776/movie.293x165.jpg?t=1620232819",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/257203/82cc63b82638ce77a39da1343dea80938bd6984c/1750507982/dash_h264.mpd?t=1620232819"
+    },
+    {
+      "name": "Don't Starve Together: Wurt",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256765285/movie.293x165.jpg?t=1620233233",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/249225/3c1b07e1db66ae1ea70545c53d67a9e893650633/1750507974/dash_h264.mpd?t=1620233233"
+    },
+    {
+      "name": "Don't Starve Together- Return Of Them: Salty Dog",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256763673/movie.293x165.jpg?t=1620233240",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/246072/9ecaf51cee1ff0432d08410b3bf3f3d1a5482ed1/1750507971/dash_h264.mpd?t=1620233240"
+    },
+    {
+      "name": "Don't Starve Together- Return Of Them: Turn of Tides",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256758902/movie.293x165.jpg?t=1620233247",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/237930/329946b599a455f29e03f182843ac2c3c53efc5f/1750507957/dash_h264.mpd?t=1620233247"
+    },
+    {
+      "name": "Don't Starve Together: Woodie",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256761827/movie.293x165.jpg?t=1620233253",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/242761/553fd6980bc7b3bf2e2e46de60bd704783657b72/1750509264/dash_h264.mpd?t=1620233253"
+    },
+    {
+      "name": "Don't Starve Together: Warly",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256757414/movie.293x165.jpg?t=1620233261",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/235186/e06d158eedbd51ab5f2d94240696310387c3e94b/1750507952/dash_h264.mpd?t=1620233261"
+    },
+    {
+      "name": "Don't Starve Together: Wormwood",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256752786/movie.293x165.jpg?t=1620233268",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/226970/a2e70cecd39e7cdfd9db91911bda547a336c8185/1750507949/dash_h264.mpd?t=1620233268"
+    },
+    {
+      "name": "Don't Starve Together: Willow",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256749983/movie.293x165.jpg?t=1620233275",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/221861/ffad089471ca259eeadff51363fc353b5cda0dba/1750507946/dash_h264.mpd?t=1620233275"
+    },
+    {
+      "name": "Don't Starve Together: Wortox",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256746512/movie.293x165.jpg?t=1553794346",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/215529/ebee126ee49922398577f8eae44c2879fd190b78/1750507942/dash_h264.mpd?t=1553794346"
+    },
+    {
+      "name": "Don't Starve Together: Winona",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256744780/movie.293x165.jpg?t=1620233282",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/212439/1741eee8275d5f97caf1927299ba239c1b365209/1750507935/dash_h264.mpd?t=1620233282"
+    },
+    {
+      "name": "Don't Starve Together: A New Reign",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256682732/movie.293x165.jpg?t=1620233288",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/97297/07f040be670b7bd3034a9c697fc7740f8d6327c8/1750507929/dash_h264.mpd?t=1620233288"
+    },
+    {
+      "name": "Don't Starve Together- A New Reign: Part 2",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256675303/movie.293x165.jpg?t=1620233295",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/81635/0b37c5d53fd94ec1874e64991868cce157bbde38/1750507912/dash_h264.mpd?t=1620233295"
+    },
+    {
+      "name": "Don't Starve Together- A New Reign: Part 1",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256672773/movie.293x165.jpg?t=1620233303",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/76783/2448c4232b47ab504998efb15a95dbad39ec616a/1750507903/dash_h264.mpd?t=1620233303"
+    },
+    {
+      "name": "Don't Starve Together Early Access",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2036116/movie.293x165.jpg?t=1620233309",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/28639/41656ee38ee092f470ea40bf721c4553958beacb/1750507878/dash_h264.mpd?t=1620233309"
+    },
+    {
+      "name": "Don't Starve Together Reign of Giants Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2038707/movie.293x165.jpg?t=1620233316",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/34626/ff4f888e3daa7b9ee428d604e72751d1a052021f/1750507902/dash_h264.mpd?t=1620233316"
+    },
+    {
+      "name": "Don't Starve Together- A New Reign: Part 2",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256675305/movie.293x165.jpg?t=1620233323",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/322330/81638/8a43dcd6a4e675839893342bb1042454977cd972/1750507928/dash_h264.mpd?t=1620233323"
+    }
+  ],
+  "metacritic": {
+    "score": 83,
+    "url": "https://www.metacritic.com/game/pc/dont-starve-together?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 322330,
+    "store_url": "https://store.steampowered.com/app/322330/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "In-App Purchases",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Keyboard Only Option",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Stereo Sound",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Survival",
+      "Open World Survival Craft",
+      "Multiplayer",
+      "Co-op",
+      "Open World",
+      "Adventure",
+      "Crafting",
+      "Online Co-Op",
+      "Sandbox",
+      "Difficult",
+      "Indie",
+      "2D",
+      "Atmospheric",
+      "Survival Horror",
+      "Funny",
+      "Strategy",
+      "Horror",
+      "Singleplayer",
+      "Action",
+      "Roguelike"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 510260,
+    "review_negative": 27025,
+    "review_total": 537285,
+    "review_positive_percent": 94.97
+  }
+}

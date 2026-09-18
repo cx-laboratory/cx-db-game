@@ -1,0 +1,368 @@
+{
+  "key": "v-rising",
+  "name": "V Rising",
+  "description": "Awaken as a Vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing, open world full of mystery. Gain allies online and conquer the land of the living.",
+  "developers": [
+    "Stunlock Studios"
+  ],
+  "publishers": [
+    "Stunlock Studios"
+  ],
+  "release_date": "2024-05-08",
+  "website": "https://playvrising.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "massively-multiplayer",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "vampires",
+    "survival",
+    "open-world",
+    "base-building",
+    "crafting",
+    "pve",
+    "building",
+    "character-customization",
+    "sandbox",
+    "action-adventure",
+    "exploration",
+    "dark-fantasy",
+    "singleplayer",
+    "top-down"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "夜族崛起",
+    "tchinese": "夜族崛起"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "VRising.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Stunlock Studios/VRising/CloudSaves/{64BitSteamID}/",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "V Rising",
+    "VRising",
+    "夜族崛起"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1604030/d18204000a839feb84393b3d860c17cd4a4b269c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/be49834ab147ad22ba17005fb847c93917d18b97/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/9b1b1d0c19ed80e9446c6a3ce37e9fdacf7f14c1/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ca28e9f8487563163dfd25eb1f6d5e26bde87c18/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/e4b1f18d58663264dfe22936dd6732808138c361/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/8901aa16c253cc392de294105aa3016b1563f4b5/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_19d6b903fd65c410af902a8c5f62c820cfe09292.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_4a88ba3b0353f3d43f045e5230c9d600e19daae8.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_262496a8c3ed1335d63398fe06f8dd4d43d311cf.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/3101acbd497584ac6f8ecb91c05cbb66378d62a1/ss_3101acbd497584ac6f8ecb91c05cbb66378d62a1.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_712d9885b750317ab0be515158e51c03cf5944b6.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_e3ea47bf147b505e628dda2d607cf81eb9d56b3b.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/227d19e9aedac1933bffcdb373ccdbd9250a6bdc/ss_227d19e9aedac1933bffcdb373ccdbd9250a6bdc.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_0cb89e15fc22c9c5a60b1d914919194f93369924.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_0fd29f799db0e9351a92b932899d9fa98b43b9c1.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/2a035df74101edc9ff8066f40ad26f6eeb6d4457/ss_2a035df74101edc9ff8066f40ad26f6eeb6d4457.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_1b6e41b3bc2112fc0f684a6d35f2d43c17922fe4.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_2c6f1495a7e7edbafce675f86709ccfa04826de0.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_d2565803eb7544d28e828b84f44949158396f5f8.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_0e816fbe765baaacd67a011c7d90a5ddd2d73be3.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_511ce3afcc5a847ff5f4b70ec559ab384e71c1a3.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_8b90621a0b07cb3aa100613241fd791018e419a4.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_6e514615e25402c023c9ef5697d6402bb57f0af4.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_5bd600306116dfa683417c239b5e2516c87f1f0a.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_41ad4d0e9565ab381f0d4e2b8451377e8ee6832c.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_397e7cd82acea1d4425d3eacc5331251d824477a.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/b62a5350e73f3b2e8f661f4b8cdc11cde65e4fa4/ss_b62a5350e73f3b2e8f661f4b8cdc11cde65e4fa4.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_949ccc5fc9042f8c8b186de7213f2173a96d18a4.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_f09c9cff7639337523acdd15c9a1ed0e728c79e3.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_0475b8c4173d2b3d73d67cc4556c4784988f847a.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_315383acbd35f8f263bb0530740335d14abbb0d2.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_e29a5344ca9d3bb6ec089ffbafc1f100109b613e.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_68200cc40bd3ebce4bcde8d2350f9b87e5abb2cd.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_230c0a379a2205b52be1c257d460e7a4ffa37428.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_568d644f8536d2a1820386a93edf9cbd386b2126.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_a1f20e88c3cbb5e84cb64bece2ae4170a3fca401.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_8600c95b5b6af5eb10dc610106164598bf261436.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_b819d21dd9f0217c82b64434d2681b92b538abfd.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_5b68b45cfdcd4382f5afda0945d8a9fe5a6bc1d1.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_350add3df0e351368b486d19997e821725229299.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_00fa75c20339b8ba7469c576bcb4ed55ebd268e4.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_c42e633b59870c29b2c2cecb3c98722d31eaf29b.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_b505a7b924cac2d1ded58c24e4d725fcb58a1e8a.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_2a310793cdebf7fe8b417dcd51028d3c92cbd31d.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_96c9124e319246e649b16640cc8d667a74de13ff.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_76742441769219ca955f50b53334edfad2bd474d.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_7af189e68f8883b10e2d23b8a9f1a8ecfbd28583.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_ddd70a57e2dfa2674372743bf480ca1134c9d479.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_6c04c5898037907527e033f0cace0066e242ec90.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_635db16d92350c562619f7db88eafa6c3818a4b4.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_03bf9d83f645c25aae71b2893266b8399c64256f.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_9588b94fcd76bd0b955fd7af85642629687cfa67.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_4786169b167237fd5d605fe4d40e4b8fe5696835.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_c7800c163b7c2ce4f0f66c2e676527610a13d6c2.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_d894d88063766cd05eaa829aee1441ddf9e545c7.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_6d1166c40dd44d694772597c6391185734cb4ed4.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_b29ff155dacb0ab207ece9dca6b9e50f590e8ebf.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_1e6f4ea24b1129fd9e489b7e775d3a8315debdff.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_81d703c7705bd28648cec2db1341d32949a62658.1920x1080.jpg?t=1782909978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/ss_54a8e3fa7e50f4be15b87b9c0647d0916c437c24.1920x1080.jpg?t=1782909978"
+    }
+  ],
+  "videos": [
+    {
+      "name": "V Rising Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257020634/movie.293x165.jpg?t=1714748047",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1604030/695563/ec1d7936ac8aac583439039a89a421f9ab70fb0b/1750710266/dash_h264.mpd?t=1714748047"
+    },
+    {
+      "name": "1.1 Update: Invaders of Oakveil",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257131970/0085f62bfef6fe95d790ce79cf7abf025a5efdb8/movie_600x337.jpg?t=1745841690",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1604030/879671/084ff9a12c9ff8366d00195cc0857ebc6e69619f/1750710268/dash_h264.mpd?t=1745841690"
+    },
+    {
+      "name": "V Rising Date Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257010443/movie.293x165.jpg?t=1715001644",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1604030/678307/88987be56f16cfe98fa5a64841112e5cf56fb0f4/1750710249/dash_h264.mpd?t=1715001644"
+    },
+    {
+      "name": "V Rising Full Gloomrot Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256947251/movie.293x165.jpg?t=1684255462",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1604030/568481/ffdb0568594592ab649b6788ace73f6a8aa7cf0b/1750710247/dash_h264.mpd?t=1684255462"
+    },
+    {
+      "name": "V Rising Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256886955/movie.293x165.jpg?t=1683289356",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1604030/463671/237d42ef15ba24979b63633f40ca7111a8899c57/1750710223/dash_h264.mpd?t=1683289356"
+    },
+    {
+      "name": "Secrets of Gloomrot Cinematic Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256941633/movie.293x165.jpg?t=1683289364",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1604030/558707/6c01237369e33998cf131557ce8fe422bce9302a/1750710226/dash_h264.mpd?t=1683289364"
+    },
+    {
+      "name": "Enter Gloomrot Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256944789/movie.293x165.jpg?t=1683289360",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1604030/563899/ee0b61e542bbc4d035687ea1fc9698fd537e9807/1750710227/dash_h264.mpd?t=1683289360"
+    },
+    {
+      "name": "V Rising Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256832650/movie.293x165.jpg?t=1683289385",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1604030/365855/d161bf64810b7de0a3b9ea6a84d961a35c441084/1750710206/dash_h264.mpd?t=1683289385"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1604030,
+    "store_url": "https://store.steampowered.com/app/1604030/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Steam Achievements",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Surround Sound",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Vampires",
+      "Survival",
+      "Open World",
+      "Base Building",
+      "Multiplayer",
+      "Crafting",
+      "Online Co-Op",
+      "PvE",
+      "PvP",
+      "Building",
+      "Character Customization",
+      "Sandbox",
+      "Action-Adventure",
+      "Exploration",
+      "Massively Multiplayer",
+      "Dark Fantasy",
+      "Singleplayer",
+      "Top-Down",
+      "Adventure",
+      "Action"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 120405,
+    "review_negative": 14967,
+    "review_total": 135372,
+    "review_positive_percent": 88.94
+  }
+}

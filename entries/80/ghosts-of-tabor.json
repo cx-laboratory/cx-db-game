@@ -1,0 +1,160 @@
+{
+  "key": "ghosts-of-tabor",
+  "name": "Ghosts Of Tabor",
+  "description": "Ghosts of Tabor is VRs only FPS PVP and PVE survival game where you will use your wits, skills and resources to survive. Inspired by games such as Escape from Tarkov and DayZ, featuring different scenarios from scavenging to looting and crafting. Will you survive long enough to make it out alive?",
+  "developers": [
+    "Combat Waffle Studios"
+  ],
+  "publishers": [
+    "Beyond Frames"
+  ],
+  "release_date": "2023-03-21",
+  "website": "https://ghostsoftabor.com",
+  "tags": [
+    "action",
+    "early-access",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "vr",
+    "looter-shooter",
+    "shooter",
+    "exploration",
+    "immersive-sim",
+    "atmospheric",
+    "dystopian",
+    "military",
+    "combat",
+    "character-customization",
+    "inventory-management",
+    "crafting",
+    "pve",
+    "physics",
+    "trading",
+    "extraction-shooter"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "GotBootstrapper/GotBootstrapper.exe",
+          "description": "",
+          "type": "vr"
+        },
+        {
+          "executable": "GotBootstrapper/GotBootstrapper.exe",
+          "description": "",
+          "type": "othervr"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Ghosts Of Tabor",
+    "GotBootstrapper/GotBootstrapper"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1957780/9cced943649e2215619dcbe86f14719bd1f13dac.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1957780/72032197facf3bb646f6e5b68353917fc561c2c8/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1957780/1d371e85be06418db615ef6fbaa2eb23a4baf84e/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1957780/cbf9f2a74dddac3255e783360f29b5a3ca732cb3/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1957780/d4913265c556a8a1bba8746d2e10926d17c19c35/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1957780/387172fc0265bdb4f3dce08fcef769cbe77607f8/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1957780/ss_2a88ba5a228e65260c9f900de7c535b31c78cd7d.1920x1080.jpg?t=1781204574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1957780/ss_61e5f611be99de317f39118103eb5d878e69416d.1920x1080.jpg?t=1781204574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1957780/ss_4b38bfa6b11ee0a7c6a1cce03377adbe2f99d087.1920x1080.jpg?t=1781204574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1957780/ss_22a244395c6adbb47208c74dcf9b2548cab7d8e8.1920x1080.jpg?t=1781204574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1957780/ss_e124c97dcbf23089f9c13df5c22128f7db674eac.1920x1080.jpg?t=1781204574"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1957780/ss_85298f05059b330dc9ad08a424098b19e9591c0c.1920x1080.jpg?t=1781204574"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Ghosts of Tabor Cinematic Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257024985/movie.293x165.jpg?t=1716374706",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1957780/703431/9afb4cad659036bff08c8144a0f100977ffa3dde/1750742685/dash_h264.mpd?t=1716374706"
+    },
+    {
+      "name": "Ghosts of Tabor Announce Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257024993/movie.293x165.jpg?t=1716374711",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1957780/703449/a7de367254c7b51b7dffba848cccb7448869ef8a/1750742696/dash_h264.mpd?t=1716374711"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1957780,
+    "store_url": "https://store.steampowered.com/app/1957780/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Early Access"
+    ],
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Tracked Controller Support",
+      "VR Only",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Early Access",
+      "Action",
+      "VR",
+      "Looter Shooter",
+      "Shooter",
+      "Exploration",
+      "Immersive Sim",
+      "Atmospheric",
+      "Dystopian ",
+      "Military",
+      "Combat",
+      "Character Customization",
+      "Inventory Management",
+      "Crafting",
+      "PvE",
+      "PvP",
+      "Physics",
+      "Multiplayer",
+      "Trading",
+      "Extraction Shooter"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 7402,
+    "review_negative": 2962,
+    "review_total": 10364,
+    "review_positive_percent": 71.42
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "key": "into-the-breach",
+  "name": "Into the Breach",
+  "description": "Control powerful mechs from the future to defeat an alien threat. Each attempt to save the world presents a new randomly generated challenge in this turn-based strategy game.",
+  "developers": [
+    "Subset Games"
+  ],
+  "publishers": [
+    "Subset Games"
+  ],
+  "release_date": "2018-02-27",
+  "website": "",
+  "tags": [
+    "indie",
+    "rpg",
+    "simulation",
+    "strategy",
+    "turn-based-strategy",
+    "pixel-graphics",
+    "turn-based-tactics",
+    "mechs",
+    "roguelike",
+    "turn-based",
+    "puzzle",
+    "roguelite",
+    "sci-fi",
+    "singleplayer",
+    "tactical",
+    "turn-based-combat",
+    "isometric",
+    "replay-value",
+    "procedural-generation",
+    "great-soundtrack"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "polish",
+    "swedish",
+    "turkish",
+    "arabic",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Breach.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/Into the Breach",
+          "pattern": "profile.lua",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/Into the Breach",
+          "pattern": "saveData.lua",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/Into the Breach",
+          "pattern": "undoSave.lua",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Into the Breach.app",
+          "description": "Launch Mac OS Into the Breach",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/Into the Breach",
+          "pattern": "profile.lua",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/Into the Breach",
+          "pattern": "saveData.lua",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/Into the Breach",
+          "pattern": "undoSave.lua",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Breach",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/Into the Breach",
+          "pattern": "profile.lua",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/Into the Breach",
+          "pattern": "saveData.lua",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/Into the Breach",
+          "pattern": "undoSave.lua",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Into the Breach",
+    "Breach",
+    "Into the Breach.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/590380/0539a82edc8163180b672bf9e073d53687ab3cad.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590380/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590380/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590380/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590380/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590380/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590380/ss_6113590509c195f98fa64cd738df534762e0c358.1920x1080.jpg?t=1755610784"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590380/ss_edc919f964fd053441967b89592bc930a65f4171.1920x1080.jpg?t=1755610784"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590380/ss_82cfc5241c4a093091fbd7d2e124a52a57930527.1920x1080.jpg?t=1755610784"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590380/ss_4b985c7747c1ff0b7fbbf3eaf8ca5a1272f0dadb.1920x1080.jpg?t=1755610784"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590380/ss_1ac6f8ce8e81bc1b3fe9cb23f58c477cbda04a04.1920x1080.jpg?t=1755610784"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590380/ss_567488bb66f15710b4fd40eb57446e5d652717f5.1920x1080.jpg?t=1755610784"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590380/ss_f3ca4120fe01efcdd4cd355b7e5798f98b695233.1920x1080.jpg?t=1755610784"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590380/ss_b7b741c8349df5c567a733e7498dd99b78aa73b4.1920x1080.jpg?t=1755610784"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Into The Breach - Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256679224/movie.293x165.jpg?t=1519738417",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/590380/89558/de5e87f7edee39b31eb3f4810d5a04f9cbe2aaf0/1750557552/dash_h264.mpd?t=1519738417"
+    }
+  ],
+  "metacritic": {
+    "score": 90,
+    "url": "https://www.metacritic.com/game/pc/into-the-breach?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 590380,
+    "store_url": "https://store.steampowered.com/app/590380/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "Turn-Based Strategy",
+      "Indie",
+      "Pixel Graphics",
+      "Turn-Based Tactics",
+      "Mechs",
+      "Roguelike",
+      "Turn-Based",
+      "Puzzle",
+      "Roguelite",
+      "Sci-fi",
+      "Singleplayer",
+      "Tactical",
+      "Turn-Based Combat",
+      "Isometric",
+      "RPG",
+      "Replay Value",
+      "Procedural Generation",
+      "Simulation",
+      "Great Soundtrack"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 20772,
+    "review_negative": 1273,
+    "review_total": 22045,
+    "review_positive_percent": 94.23
+  }
+}

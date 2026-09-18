@@ -1,0 +1,204 @@
+{
+  "key": "runescape",
+  "name": "RuneScape",
+  "description": "RuneScape is a high fantasy open world MMORPG. Explore an ever changing and evolving living world where new challenges, skills, and quests await. Featuring unprecedented player freedom, you choose how to play, adventure, and grow.",
+  "developers": [
+    "Jagex Ltd"
+  ],
+  "publishers": [
+    "Jagex Ltd"
+  ],
+  "release_date": "2020-10-14",
+  "website": "https://www.RuneScape.com",
+  "tags": [
+    "massively-multiplayer",
+    "rpg",
+    "free-to-play",
+    "multiplayer",
+    "mmorpg",
+    "open-world",
+    "fantasy",
+    "character-customization",
+    "adventure",
+    "story-rich",
+    "pve",
+    "pvp",
+    "lore-rich",
+    "classic",
+    "point-and-click",
+    "exploration",
+    "great-soundtrack",
+    "casual",
+    "action",
+    "singleplayer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "bin/win32/RuneScape.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "bin/win64/RuneScape.exe",
+          "description": "RuneScape using beta worlds",
+          "type": "option2"
+        },
+        {
+          "executable": "bin/win64/RuneScape.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "bin/osx/RuneScape.app",
+          "description": "Internal Test Configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "bin/osx/rs2client.app",
+          "description": "internal_2 Test configuration",
+          "type": "option1"
+        },
+        {
+          "executable": "bin/osx/RuneScape.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "RuneScape",
+    "bin/win32/RuneScape",
+    "bin/win64/RuneScape",
+    "bin/osx/RuneScape.app",
+    "bin/osx/rs2client.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1343400/55a774ff8df98442993a6290f0f0153d32b638a8.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343400/164e54273831e76f820378b4c6e0c21e0a4834e2/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343400/582ac7ed39d516c72cfdf87d79b7db1b059683ac/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343400/fcda6f132b60fedb72ee889197cf82af0d93a5f7/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343400/47f08b9ed5c0f785938a445a59b1c2717b199416/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343400/28f19cfd24ce046d35fae70e97e36f0c13e7861c/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343400/ss_58ccbf00fac1dfedc85c565ac82a2e325d04441c.1920x1080.jpg?t=1771947591"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343400/ss_d1df12b95079aa271302db38e39e03ed552ae267.1920x1080.jpg?t=1771947591"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343400/ss_6e1a3533cc34da2b72c7dec35f7e6a47b351c3c4.1920x1080.jpg?t=1771947591"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343400/ss_9767437df270c8a146293d000ad95b3b6023b631.1920x1080.jpg?t=1771947591"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343400/ss_c8f49937739fe32c65326a157415e9e1cb1a1d81.1920x1080.jpg?t=1771947591"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343400/ss_1f6edab8ebdfd0c2455f45e9575a32047612c758.1920x1080.jpg?t=1771947591"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343400/ss_8f1bd1fc2a720c0625397eaf2196902b6ba283f8.1920x1080.jpg?t=1771947591"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343400/ss_58bfd7022db000a7a78910678e9f088f41bb69e2.1920x1080.jpg?t=1771947591"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343400/ss_ca0009964825804ee8f1479cad3ccb50b059150c.1920x1080.jpg?t=1771947591"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343400/ss_58cabdd7a7ab614cefb25bfa519da5e7deec6cd1.1920x1080.jpg?t=1771947591"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343400/ss_3db7e583b1d298052e33464cacfe97b922b08a99.1920x1080.jpg?t=1771947591"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Explore the world of Gielinor",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257266356/e983531a6e28486e2a767c8c5f1a784974de8662/movie_600x337.jpg?t=1768831486",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1343400/1249426036/c2649402ba6cea4905b2949bd668ff89c506f9fc/1768586746/dash_h264.mpd?t=1768831486"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1343400,
+    "store_url": "https://store.steampowered.com/app/1343400/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "In-App Purchases",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Save Anytime",
+      "Subtitle Options",
+      "Touch Only Option",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "MMORPG",
+      "Open World",
+      "Massively Multiplayer",
+      "RPG",
+      "Multiplayer",
+      "Fantasy",
+      "Character Customization",
+      "Adventure",
+      "Story Rich",
+      "PvE",
+      "PvP",
+      "Lore-Rich",
+      "Classic",
+      "Point & Click",
+      "Exploration",
+      "Great Soundtrack",
+      "Casual",
+      "Action",
+      "Singleplayer"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 22112,
+    "review_negative": 4862,
+    "review_total": 26974,
+    "review_positive_percent": 81.98
+  }
+}

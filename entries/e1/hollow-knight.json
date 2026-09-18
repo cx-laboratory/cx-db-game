@@ -1,0 +1,252 @@
+{
+  "key": "hollow-knight",
+  "name": "Hollow Knight",
+  "description": "Forge your own path in Hollow Knight! An epic action adventure through a vast ruined kingdom of insects and heroes. Explore twisting caverns, battle tainted creatures and befriend bizarre bugs, all in a classic, hand-drawn 2D style.",
+  "developers": [
+    "Team Cherry"
+  ],
+  "publishers": [
+    "Team Cherry"
+  ],
+  "release_date": "2017-02-25",
+  "website": "http://hollowknight.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "metroidvania",
+    "platformer",
+    "souls-like",
+    "difficult",
+    "great-soundtrack",
+    "2d",
+    "singleplayer",
+    "exploration",
+    "atmospheric",
+    "story-rich",
+    "hand-drawn",
+    "multiple-endings",
+    "dark-fantasy",
+    "open-world",
+    "cute",
+    "controller",
+    "side-scroller"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "hollow_knight.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Team Cherry/Hollow Knight",
+          "pattern": "*.dat",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "hollow_knight.app",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Team Cherry/Hollow Knight",
+          "pattern": "*.dat",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "hollow_knight.x86_64",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Team Cherry/Hollow Knight",
+          "pattern": "*.dat",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Hollow Knight",
+    "hollow_knight",
+    "hollow_knight.app",
+    "hollow_knight.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/367520/f6ab055c2366237200b1a31cccbd6cf81e436d72.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/3c3489495136b26b34f8a9543c7f5645b99d388c/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/fba7289f4c7e90ae9c0caa87e4225f3f9111d7dd/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/1eebc7e077ee345f126df35cd99c124273c4e4e3/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/0daf3933d392d7bb7c5a890917e20c917fcc458e/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_5384f9f8b96a0b9934b2bc35a4058376211636d2.1920x1080.jpg?t=1776125684"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_d5b6edd94e77ba6db31c44d8a3c09d807ab27751.1920x1080.jpg?t=1776125684"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_a81e4231cc8d55f58b51a4a938898af46503cae5.1920x1080.jpg?t=1776125684"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_62e10cf506d461e11e050457b08aa0e2a1c078d0.1920x1080.jpg?t=1776125684"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_bd76bd88bc5334ee56ae3d5f0d8dec4455e8e3b8.1920x1080.jpg?t=1776125684"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_33a645903d6dd9beec39f272a3daf57174a6cc26.1920x1080.jpg?t=1776125684"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_47f3523dbea462aff2ca4bc9f605faaf80a792b2.1920x1080.jpg?t=1776125684"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_92c7e8f34c00bdb455070ecdd5b746f0d2f6d808.1920x1080.jpg?t=1776125684"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_946e83ea924eff46a93e14e841bdbb1accd1654c.1920x1080.jpg?t=1776125684"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_b17396ebcbef87cd016c433927bb2dd7edb17660.1920x1080.jpg?t=1776125684"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_f1f594e1057a124d289a5905b53b5a0f820982c0.1920x1080.jpg?t=1776125684"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_2329fe632e788efd9ece9dcfc98c0ea723ac0d04.1920x1080.jpg?t=1776125684"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_fbe692d154a3d9dd627966d5445c4647ae0f71ce.1920x1080.jpg?t=1776125684"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_1552562bd322fb94fd8c5a6595e75f1e6808db41.1920x1080.jpg?t=1776125684"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/ss_5478c9192023a3b3e438c030caa0809b62523587.1920x1080.jpg?t=1776125684"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256679401/movie.293x165.jpg?t=1497589417",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/367520/89922/b71b6a50e9aa2334fddca8fa2197cb26a3640832/1750517691/dash_h264.mpd?t=1497589417"
+    },
+    {
+      "name": "The Grimm Troupe Free Content Pack 02",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256695695/movie.293x165.jpg?t=1505700570",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/367520/123471/b9044001968838dad1ff38d1abaaaeb7547e9692/1750517739/dash_h264.mpd?t=1505700570"
+    },
+    {
+      "name": "Hidden Dreams Free Content Pack 01",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256686950/movie.293x165.jpg?t=1497256864",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/367520/106954/0a6f2b091470056416ea395df7af3134bbb39775/1750517738/dash_h264.mpd?t=1497256864"
+    },
+    {
+      "name": "Ferocious Foes",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256674838/movie.293x165.jpg?t=1480808635",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/367520/80722/a9fcfd657e6b7e24838155cde83d95551d381503/1750517685/dash_h264.mpd?t=1480808635"
+    },
+    {
+      "name": "Beneath and Beyond",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256674834/movie.293x165.jpg?t=1480808643",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/367520/80716/a0e87f2b9a544cb8bdce9397b63bc8267e41ce06/1750517667/dash_h264.mpd?t=1480808643"
+    }
+  ],
+  "metacritic": {
+    "score": 87,
+    "url": "https://www.metacritic.com/game/pc/hollow-knight?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 367520,
+    "store_url": "https://store.steampowered.com/app/367520/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Metroidvania",
+      "Platformer",
+      "Souls-like",
+      "Difficult",
+      "Great Soundtrack",
+      "2D",
+      "Indie",
+      "Singleplayer",
+      "Exploration",
+      "Atmospheric",
+      "Adventure",
+      "Story Rich",
+      "Hand-drawn",
+      "Multiple Endings",
+      "Action",
+      "Dark Fantasy",
+      "Open World",
+      "Cute",
+      "Controller",
+      "Side Scroller"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 532059,
+    "review_negative": 16917,
+    "review_total": 548976,
+    "review_positive_percent": 96.92
+  }
+}

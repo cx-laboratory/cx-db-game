@@ -1,0 +1,274 @@
+{
+  "key": "road-redemption",
+  "name": "Road Redemption",
+  "description": "Road Redemption lets you lead a biker gang on an epic journey across the country in this driving combat road rage adventure. Huge campaign, dozens of weapons, full 4-player co-op splitscreen.",
+  "developers": [
+    "Redemption Road"
+  ],
+  "publishers": [
+    "Tripwire Presents"
+  ],
+  "release_date": "2017-10-04",
+  "website": "http://www.roadredemption.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "racing",
+    "simulation",
+    "multiplayer",
+    "co-op",
+    "split-screen",
+    "vehicular-combat",
+    "beat-em-up",
+    "motorbike",
+    "violent",
+    "controller",
+    "local-multiplayer",
+    "gore",
+    "pvp",
+    "arcade",
+    "4-player-local",
+    "combat-racing",
+    "singleplayer",
+    "third-person",
+    "funny"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "spanish",
+    "schinese",
+    "russian",
+    "portuguese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "RoadRedemption.exe",
+          "description": "in standard mode",
+          "type": "option1"
+        },
+        {
+          "executable": "RoadRedemptionEarlyAccess.exe",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "RoadRedemption.exe",
+          "description": "in remoteplay mode (for REMOTEPLAY only!)",
+          "type": "option1"
+        },
+        {
+          "executable": "\\Road Redemption Alpha\\RoadRedemption.exe",
+          "description": "Original 2014 Alpha Version",
+          "type": "none"
+        },
+        {
+          "executable": "RoadRedemptionOriginsVideo\\playVideo.bat",
+          "description": "Road Redemption Origins Video",
+          "type": "none"
+        },
+        {
+          "executable": "RoadRedemption.exe",
+          "description": "DirectX 9 Compatibility Mode ",
+          "type": "none"
+        },
+        {
+          "executable": "\\ArtBook\\art.bat",
+          "description": "Concept Art and Videos",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Road Redemption/Saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "\\ArtBook\\",
+          "description": "Concept Art and Videos",
+          "type": "none"
+        },
+        {
+          "executable": "\\RoadRedemptionOriginsVideo\\",
+          "description": "Road Redemption Origins Video",
+          "type": "none"
+        },
+        {
+          "executable": "Road Redemption.app",
+          "description": "Play Road Redemption",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Road Redemption/Saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "RoadRedemption.x86_64",
+          "description": "Launch ",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Road Redemption/Saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Road Redemption",
+    "RoadRedemption",
+    "RoadRedemptionEarlyAccess",
+    "\\Road Redemption Alpha\\RoadRedemption",
+    "RoadRedemptionOriginsVideo\\playVideo.bat",
+    "\\ArtBook\\art.bat",
+    "\\ArtBook\\",
+    "\\RoadRedemptionOriginsVideo\\",
+    "Road Redemption.app",
+    "RoadRedemption.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/300380/d2f9a5b4ce0e9d465a20acc5fec2e10f599f11d5.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300380/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300380/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300380/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300380/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300380/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300380/ss_a9eec27e5ae647228b719c2a2affca9bc6ec6b02.1920x1080.jpg?t=1764612541"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300380/ss_53a6cb60ee865df2b7f583b3f673e61700d6a735.1920x1080.jpg?t=1764612541"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300380/ss_7e3f5c016b862347de7cada2ec4b978959485da1.1920x1080.jpg?t=1764612541"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300380/ss_fb7e9560308126e83af509c1db3e56f57ac4a00c.1920x1080.jpg?t=1764612541"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300380/ss_161e9246e339178debee56ad7dcde42c3b0db6cd.1920x1080.jpg?t=1764612541"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300380/ss_c19ff5deec8325b824f8e2de0c6e12f85083c572.1920x1080.jpg?t=1764612541"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300380/ss_298dfff7432154e11a94d7d2383980828b0f87e2.1920x1080.jpg?t=1764612541"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300380/ss_a7b334f885d1f3c37c011ad62de49b058d7d6b77.1920x1080.jpg?t=1764612541"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300380/ss_a443eeacd7cf8056e9fad1df81e111810efc49c9.1920x1080.jpg?t=1764612541"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300380/ss_29d5403c9b6c496b4aa9b513fd6c84dff9e77a52.1920x1080.jpg?t=1764612541"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300380/ss_1c306bea13c0f8076f3169a6a437756eaef680e6.1920x1080.jpg?t=1764612541"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300380/ss_20e9c6fe15e6f443d575a762a11dbca1336dac2e.1920x1080.jpg?t=1764612541"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Road Redemption Release Trailer with Quotes",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256697367/movie.293x165.jpg?t=1507277980",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/300380/126709/691e7d797be115af312660ffc5b95fdcc468d0b2/1750503481/dash_h264.mpd?t=1507277980"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 300380,
+    "store_url": "https://store.steampowered.com/app/300380/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Racing",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Cloud",
+      "Stats",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Vehicular Combat",
+      "Racing",
+      "Beat 'em up",
+      "Action",
+      "Motorbike",
+      "Violent",
+      "Multiplayer",
+      "Controller",
+      "Local Co-Op",
+      "Indie",
+      "Gore",
+      "PvP",
+      "Arcade",
+      "4 Player Local",
+      "Co-op",
+      "Combat Racing",
+      "Singleplayer",
+      "Local Multiplayer",
+      "Third Person",
+      "Funny"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 11096,
+    "review_negative": 2331,
+    "review_total": 13427,
+    "review_positive_percent": 82.64
+  }
+}

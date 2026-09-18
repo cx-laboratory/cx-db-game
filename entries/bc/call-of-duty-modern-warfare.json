@@ -1,0 +1,135 @@
+{
+  "key": "call-of-duty-modern-warfare",
+  "name": "Call of Duty®: Modern Warfare®",
+  "description": "Experience a visceral Campaign or assemble your team in the ultimate online playground with multiple Special Ops challenges and a mix of Multiplayer maps and modes.",
+  "developers": [
+    "Infinity Ward"
+  ],
+  "publishers": [
+    "Activision"
+  ],
+  "release_date": "2023-03-09",
+  "website": "https://www.callofduty.com/modernwarfare",
+  "tags": [
+    "action",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "bootstrapper.exe",
+          "description": "Launch Bootstrapper.exe",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Call of Duty®: Modern Warfare®",
+    "bootstrapper"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2000950/dec4f33dfa8c3a47cfadb3a8ef0629740caa536d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000950/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000950/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000950/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000950/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000950/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000950/ss_9cd9585e9eed5acb963d3462c594cfce341e6b64.1920x1080.jpg?t=1778886798"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000950/ss_aa043742143d678b18c27c6035c23ea8a1c26544.1920x1080.jpg?t=1778886798"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000950/ss_8cfeab83b903aeb2939481f4ed932aa01d879434.1920x1080.jpg?t=1778886798"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000950/ss_c15d3bbc88fb942c72663e89cb6e0e23aad6cec3.1920x1080.jpg?t=1778886798"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000950/ss_ffb62483729a5c8f3aff1d1cb29da6562f947750.1920x1080.jpg?t=1778886798"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000950/ss_ed37af44db653a624c9b5a4006458d3e8d8f571c.1920x1080.jpg?t=1778886798"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000950/ss_f1c0a80e5b46c6f17ba3050ca352859b52531a7d.1920x1080.jpg?t=1778886798"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000950/ss_5e04b4e328be7b06feae4529e22a8d2b6a4e2cb1.1920x1080.jpg?t=1778886798"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000950/ss_3d5fb90e469152f730352774719887c5dd71625c.1920x1080.jpg?t=1778886798"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000950/ss_408a95fefe1220e66ec7ba959a0dee43f950cebc.1920x1080.jpg?t=1778886798"
+    }
+  ],
+  "videos": [
+    {
+      "name": "PC Launch Trailer - ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256932337/movie.293x165.jpg?t=1678294785",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2000950/542097/aa5ba661f216d3cdb92617b762496f3e6bac5f54/1750744312/dash_h264.mpd?t=1678294785"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2000950,
+    "store_url": "https://store.steampowered.com/app/2000950/",
+    "required_age": 18,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "In-App Purchases"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 34175,
+    "review_negative": 9123,
+    "review_total": 43298,
+    "review_positive_percent": 78.93
+  }
+}

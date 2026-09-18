@@ -1,0 +1,239 @@
+{
+  "key": "war-for-the-overworld",
+  "name": "War for the Overworld",
+  "description": "War for the Overworld is an unholy union of Dungeon Management and Strategy that rewards all those villainous thoughts you’ve been having. Craft your own perilous dungeon and defend it against pesky heroes who keep exploring it and taking your stuff.",
+  "developers": [
+    "Brightrock Games"
+  ],
+  "publishers": [
+    "Mythwright"
+  ],
+  "release_date": "2015-04-03",
+  "website": "http://www.wftogame.com",
+  "tags": [
+    "indie",
+    "simulation",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "cult",
+    "dungeon-crawler",
+    "base-building",
+    "sandbox",
+    "management",
+    "dark-comedy",
+    "old-school",
+    "god-game",
+    "rts",
+    "loot",
+    "city-builder",
+    "villain-protagonist",
+    "fantasy",
+    "underground",
+    "singleplayer",
+    "funny",
+    "level-editor",
+    "colony-sim"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "WFTOGame.exe",
+          "description": "Launch Game",
+          "type": "default"
+        },
+        {
+          "executable": "WFTOGame.exe",
+          "description": "Launch Game",
+          "type": "default"
+        },
+        {
+          "executable": "WFTO.exe",
+          "description": "Launch Game",
+          "type": "default"
+        },
+        {
+          "executable": "WFTO.exe",
+          "description": "Launch Game",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "WFTO.app",
+          "description": "Launch Game",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "WFTOGame.x86_64",
+          "description": "Launch Game",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "War for the Overworld",
+    "WFTOGame",
+    "WFTO",
+    "WFTO.app",
+    "WFTOGame.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/230190/9fd8f2fec6b8967dc79d87b2a704f866c02cfcef.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230190/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230190/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230190/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230190/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230190/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230190/ab799ec7352ed7965ccbc417e3fe0bfa930c75c9/ss_ab799ec7352ed7965ccbc417e3fe0bfa930c75c9.1920x1080.jpg?t=1779960485"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230190/13b3ec3bbd50100839636d4fea0a57bdfe5e8ee5/ss_13b3ec3bbd50100839636d4fea0a57bdfe5e8ee5.1920x1080.jpg?t=1779960485"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230190/9396be5a230897eeb3d3d00f162d6f3dd33ba961/ss_9396be5a230897eeb3d3d00f162d6f3dd33ba961.1920x1080.jpg?t=1779960485"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230190/54d6b22fa892b159e76c540d138b262e5f89fa7c/ss_54d6b22fa892b159e76c540d138b262e5f89fa7c.1920x1080.jpg?t=1779960485"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230190/691232bd0aac2bdd9c91b65a086c59bf5f5fb2bc/ss_691232bd0aac2bdd9c91b65a086c59bf5f5fb2bc.1920x1080.jpg?t=1779960485"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230190/10f2e23800e95b3eabb541400dd3896c173d3aa5/ss_10f2e23800e95b3eabb541400dd3896c173d3aa5.1920x1080.jpg?t=1779960485"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230190/17f6eaad676af2eb2480f6ba29356726c63bd003/ss_17f6eaad676af2eb2480f6ba29356726c63bd003.1920x1080.jpg?t=1779960485"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230190/8f8f89196255c83a409739c61a2bfed22c016308/ss_8f8f89196255c83a409739c61a2bfed22c016308.1920x1080.jpg?t=1779960485"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230190/58f142dd09971f12cedb05864b7c24c067e74a9b/ss_58f142dd09971f12cedb05864b7c24c067e74a9b.1920x1080.jpg?t=1779960485"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230190/d4efdf7a5f36d7db61afdd3e0f889c1aaee33dab/ss_d4efdf7a5f36d7db61afdd3e0f889c1aaee33dab.1920x1080.jpg?t=1779960485"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230190/3ae84a48baaba9eeda346962a4cf53365b8b0773/ss_3ae84a48baaba9eeda346962a4cf53365b8b0773.1920x1080.jpg?t=1779960485"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230190/b0606d1a2d9c4446bf71e93b1edd638a140fa39b/ss_b0606d1a2d9c4446bf71e93b1edd638a140fa39b.1920x1080.jpg?t=1779960485"
+    }
+  ],
+  "videos": [
+    {
+      "name": "War for the Overworld - Trailer - Revised 2018",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256731222/movie.293x165.jpg?t=1540832234",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/230190/188759/f77c05daafeed95b034aff86fa55bb2df42e7fb4/1750494038/dash_h264.mpd?t=1540832234"
+    },
+    {
+      "name": "My Pet dungeon - Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256682485/movie.293x165.jpg?t=1540832238",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/230190/96739/91f50df693b7fa8c63eccb96fe00d22119a6c4af/1750494010/dash_h264.mpd?t=1540832238"
+    },
+    {
+      "name": "Patch 1.5 & Crucible Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256676246/movie.293x165.jpg?t=1540832242",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/230190/83454/74c447144bec3a13dabb67b12626e58134c5bb43/1750493983/dash_h264.mpd?t=1540832242"
+    },
+    {
+      "name": "War for the Overworld - Map Editor Tutorial",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256669295/movie.293x165.jpg?t=1540832654",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/230190/69745/a6a67b52963237c01e299f973715dee1dabd548b/1750493983/dash_h264.mpd?t=1540832654"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 230190,
+    "store_url": "https://store.steampowered.com/app/230190/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Cult",
+      "Dungeon Crawler",
+      "Base Building",
+      "Sandbox",
+      "Management",
+      "Dark Comedy",
+      "Old School",
+      "Simulation",
+      "God Game",
+      "Strategy",
+      "RTS",
+      "Loot",
+      "City Builder",
+      "Villain Protagonist",
+      "Fantasy",
+      "Underground",
+      "Singleplayer",
+      "Funny",
+      "Level Editor",
+      "Colony Sim"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 6941,
+    "review_negative": 1135,
+    "review_total": 8076,
+    "review_positive_percent": 85.95
+  }
+}

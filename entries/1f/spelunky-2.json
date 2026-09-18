@@ -1,0 +1,201 @@
+{
+  "key": "spelunky-2",
+  "name": "Spelunky 2",
+  "description": "Spelunky 2 builds upon the unique, randomized challenges that made the original a roguelike classic, offering a huge adventure designed to satisfy players old and new. Meet the next generation of explorers as they find themselves on the Moon, searching for treasure and missing family.",
+  "developers": [
+    "Mossmouth"
+  ],
+  "publishers": [
+    "Mossmouth"
+  ],
+  "release_date": "2020-09-29",
+  "website": "",
+  "tags": [
+    "action",
+    "indie",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "split-screen",
+    "platformer",
+    "2d-platformer",
+    "difficult",
+    "perma-death",
+    "replay-value",
+    "procedural-generation",
+    "4-player-local",
+    "local-multiplayer",
+    "2d",
+    "side-scroller",
+    "cute",
+    "action-roguelike",
+    "roguelike",
+    "funny",
+    "dark-humor"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "洞穴探险2"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Spel2.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": ".",
+          "pattern": "savegame.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Spelunky 2",
+    "Spel2"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/418530/f97f0c9b53f22d7dc9c422363b880db318aae6e6.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418530/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418530/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418530/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418530/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418530/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418530/ss_bf20692e69cfef2da4b6b4096f42823a5283701c.1920x1080.jpg?t=1663719294"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418530/ss_e92a2f46bb81fc745684204858ecc1284b3eeae4.1920x1080.jpg?t=1663719294"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418530/ss_3f2ba63b195e3b6739faf812d7e31dbe6c9295fd.1920x1080.jpg?t=1663719294"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418530/ss_69755bc2679253aa132928f261bdd059f215d342.1920x1080.jpg?t=1663719294"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418530/ss_b04a6809f69c842e1cb4f8192c8488839733f405.1920x1080.jpg?t=1663719294"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418530/ss_5fa3946203b6f225541847b1c04158f5c5abeb46.1920x1080.jpg?t=1663719294"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418530/ss_5540fdb0ba2ff59b5838f090d8a2cb8642c5903e.1920x1080.jpg?t=1663719294"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418530/ss_dbe6ac2ef9ece6ed50ea91d90aea181cdeb81a28.1920x1080.jpg?t=1663719294"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418530/ss_3f4786eca55bd077c0e9b346f5b4eab2157fc57a.1920x1080.jpg?t=1663719294"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418530/ss_34c5c9a71904e2ae8e6547ad022fcf329107a28e.1920x1080.jpg?t=1663719294"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Spelunky 2 Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256796140/movie.293x165.jpg?t=1597426289",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/418530/304044/9ec6d8fef069689016e89d867cedbf4fbd2318fc/1750528176/dash_h264.mpd?t=1597426289"
+    },
+    {
+      "name": "Spelunky 2 Mom Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256805003/movie.293x165.jpg?t=1602788629",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/418530/319377/31f454e101abd2dace8124d95d2d09fdcbf63f15/1750528215/dash_h264.mpd?t=1602788629"
+    }
+  ],
+  "metacritic": {
+    "score": 91,
+    "url": "https://www.metacritic.com/game/pc/spelunky-2?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 418530,
+    "store_url": "https://store.steampowered.com/app/418530/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Platformer",
+      "2D Platformer",
+      "Difficult",
+      "Online Co-Op",
+      "Perma Death",
+      "Co-op",
+      "Replay Value",
+      "Indie",
+      "Procedural Generation",
+      "4 Player Local",
+      "Local Co-Op",
+      "PvP",
+      "Action",
+      "2D",
+      "Side Scroller",
+      "Cute",
+      "Action Roguelike",
+      "Roguelike",
+      "Funny",
+      "Dark Humor"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 20200,
+    "review_negative": 1569,
+    "review_total": 21769,
+    "review_positive_percent": 92.79
+  }
+}

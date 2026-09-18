@@ -1,0 +1,181 @@
+{
+  "key": "fran-bow",
+  "name": "Fran Bow",
+  "description": "Fran Bow is a creepy adventure game that tells the story of Fran, a young girl struggling with a mental disorder and an unfair destiny.",
+  "developers": [
+    "Killmonday Games AB"
+  ],
+  "publishers": [
+    "Killmonday Games AB"
+  ],
+  "release_date": "2015-08-27",
+  "website": "http://www.franbow.com",
+  "tags": [
+    "adventure",
+    "indie"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "German",
+    "Spanish - Spain",
+    "Russian",
+    "French",
+    "Portuguese - Brazil"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Fran Bow.exe",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "Fran Bow GameMaker/Fran Bow.exe",
+          "description": "Game Maker Legacy",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "FranBow.app",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "Fran Bow GameMaker/FranBow.app",
+          "description": "Game Maker Legacy",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Fran Bow.x86_64",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "Fran Bow GameMaker/runner",
+          "description": "Game Maker Legacy",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Fran Bow",
+    "Fran Bow GameMaker/Fran Bow",
+    "FranBow.app",
+    "Fran Bow GameMaker/FranBow.app",
+    "Fran Bow.x86_64",
+    "Fran Bow GameMaker/runner"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/362680/ae63170a5408e09603145dbe899be6c82e3e5e9f.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362680/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362680/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362680/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362680/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362680/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362680/ss_bcdd843d50cea0d8f6ba4d1eb9b1a4006a2dbc9a.1920x1080.jpg?t=1693287362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362680/ss_a4b9506830322508c19cd4ce4bd4b9138a5f3bad.1920x1080.jpg?t=1693287362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362680/ss_f4af39c785aab532d4afeb07d6cdc6c3834373fe.1920x1080.jpg?t=1693287362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362680/ss_987bf12caa85a82380293c2036c828bf42fdeec7.1920x1080.jpg?t=1693287362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362680/ss_ed7e5ae7e60a9a24f1ce3b2494e107d6b09e5b81.1920x1080.jpg?t=1693287362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362680/ss_164729ca8a6148387211cf8e1577628d90e6089a.1920x1080.jpg?t=1693287362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362680/ss_aa59c6a08df075002dd7220fd7d2da74f5486cdd.1920x1080.jpg?t=1693287362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362680/ss_762db2e92116aff3b712629c71a633261a621d90.1920x1080.jpg?t=1693287362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362680/ss_6566a2e3a25b5748b9dc47e5fcad216092705abb.1920x1080.jpg?t=1693287362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362680/ss_9070c3d160abbd991e595ed6fabb4188f170fc9d.1920x1080.jpg?t=1693287362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362680/ss_c6cbe6682c8503edcb6bcaa5d15729fd0554cccd.1920x1080.jpg?t=1693287362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362680/ss_8a536ec287adb789bbe756f100b2378a5a1622b8.1920x1080.jpg?t=1693287362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362680/ss_0fb09602a75160c862ad5a3b6b3718785a8498c4.1920x1080.jpg?t=1693287362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362680/ss_0ace1ed7833b59edc5a5967953054d9ce0d49543.1920x1080.jpg?t=1693287362"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362680/ss_5012e2fad0d3730370ec31c617de0afac9cc5a6c.1920x1080.jpg?t=1693287362"
+    }
+  ],
+  "videos": [
+    {
+      "name": "FRAN BOW Official Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256655173/movie.293x165.jpg?t=1682671614",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/362680/40162/ccf7e85c19b64ee39549e8b50782822c979b4533/1750516025/dash_h264.mpd?t=1682671614"
+    }
+  ],
+  "metacritic": {
+    "score": 70,
+    "url": "https://www.metacritic.com/game/pc/fran-bow?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 362680,
+    "store_url": "https://store.steampowered.com/app/362680/",
+    "required_age": 13,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 21888,
+    "review_negative": 590,
+    "review_total": 22478,
+    "review_positive_percent": 97.38
+  }
+}

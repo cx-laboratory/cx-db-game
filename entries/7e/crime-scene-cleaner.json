@@ -1,0 +1,202 @@
+{
+  "key": "crime-scene-cleaner",
+  "name": "Crime Scene Cleaner",
+  "description": "Once you get tangled with the mob, you will forever be a part of the mob. At least they pay a decent salary and all you have to do is clean up after their dirty work, but you know what you’re doing. So clean crime scenes, earn as much money as you can, and get ready for the next mission.",
+  "developers": [
+    "President Studio"
+  ],
+  "publishers": [
+    "President Studio"
+  ],
+  "release_date": "2024-08-14",
+  "website": "",
+  "tags": [
+    "action",
+    "simulation",
+    "crime",
+    "singleplayer",
+    "relaxing",
+    "first-person",
+    "gore",
+    "atmospheric",
+    "funny",
+    "adventure",
+    "realistic",
+    "exploration",
+    "cleaning",
+    "life-sim",
+    "indie",
+    "violent",
+    "stealth",
+    "walking-simulator",
+    "hacking",
+    "heist"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "CrimeCleaner.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "CrimeCleaner_Data/Saves/{64BitSteamID}",
+          "pattern": "*.es3",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Crime Scene Cleaner",
+    "CrimeCleaner"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1040200/9f68c266494cc1ac3095c5d4c11d284d02f76925.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040200/a305a7831bee10a091625950d6cd3cdb97f72a22/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040200/1ea0d2730dd8f54641d6a8ff436f55b282d8560a/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040200/629749fce6f6026a86bc418261a78ef017ec4370/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040200/dd9d1c2210895404542f245e74b94f8a8123c0fe/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040200/bd9cf148dae5d6b94ebad1b02b94e5470ed45bdb/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040200/9fdc783d085398b4274adddf9307f9d3d964a1ca/ss_9fdc783d085398b4274adddf9307f9d3d964a1ca.1920x1080.jpg?t=1782819486"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040200/ss_894cf90adfb3c184e1d8d01b98a05dd5a6d114c7.1920x1080.jpg?t=1782819486"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040200/87159e3bcb13cbc594887decaefb4b80f94d1ab7/ss_87159e3bcb13cbc594887decaefb4b80f94d1ab7.1920x1080.jpg?t=1782819486"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040200/ss_f1f70fa6a881f72b884671a802f3f84a6ad8e194.1920x1080.jpg?t=1782819486"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040200/ss_f3e1a70d9f28cd26b8bed0af761be8a972e8a6b8.1920x1080.jpg?t=1782819486"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040200/c9d2d91fbe581a15bd9789d13db3ec43d824930f/ss_c9d2d91fbe581a15bd9789d13db3ec43d824930f.1920x1080.jpg?t=1782819486"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040200/ss_469df47b87f8923cf8dd5ef75c85456c34851cfd.1920x1080.jpg?t=1782819486"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040200/61348eb557d5563a0b872553394bb2a638562c93/ss_61348eb557d5563a0b872553394bb2a638562c93.1920x1080.jpg?t=1782819486"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040200/a94ac8cb5daecb89c5720b0e0062d4f6731a5820/ss_a94ac8cb5daecb89c5720b0e0062d4f6731a5820.1920x1080.jpg?t=1782819486"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040200/60a60304a1a1cd801925ea00b832c660905a4cd3/ss_60a60304a1a1cd801925ea00b832c660905a4cd3.1920x1080.jpg?t=1782819486"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040200/1ef331e6a9a3ea16e11f491714c7b2de98b1f46d/ss_1ef331e6a9a3ea16e11f491714c7b2de98b1f46d.1920x1080.jpg?t=1782819486"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040200/6b456a9df212da031fd149942d96210a8c269f3d/ss_6b456a9df212da031fd149942d96210a8c269f3d.1920x1080.jpg?t=1782819486"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040200/ss_cad8cd186f62c2ce65ae3e0afde8efb815548cd0.1920x1080.jpg?t=1782819486"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040200/ss_ede1fe5f3142e87f140cce1c6209e582729daee1.1920x1080.jpg?t=1782819486"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040200/7e1b659ca51c45f1b64a5b895a80288d80d0dd81/ss_7e1b659ca51c45f1b64a5b895a80288d80d0dd81.1920x1080.jpg?t=1782819486"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040200/740b3d790cc0d4e44d7a3585aa36fc25572496a6/ss_740b3d790cc0d4e44d7a3585aa36fc25572496a6.1920x1080.jpg?t=1782819486"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040200/ss_71b95c99679bc9797cf7b17cab80741bcf913d4c.1920x1080.jpg?t=1782819486"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040200/6598f1f8be93df99e003b22102bdf8e18dd48a11/ss_6598f1f8be93df99e003b22102bdf8e18dd48a11.1920x1080.jpg?t=1782819486"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Crime Scene Cleaner Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257045037/movie.293x165.jpg?t=1723238428",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1040200/738344/07f8f6bb59cbc1f1ffe507f00ed26eee0487e222/1750609096/dash_h264.mpd?t=1723238428"
+    },
+    {
+      "name": "Crime Scene Cleaner Gameplay Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257042377/movie.293x165.jpg?t=1722467301",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1040200/733869/cdf863b2de55fcbf09732f4b87b1d4d6d15de298/1750609092/dash_h264.mpd?t=1722467301"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1040200,
+    "store_url": "https://store.steampowered.com/app/1040200/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Crime",
+      "Singleplayer",
+      "Relaxing",
+      "First-Person",
+      "Gore",
+      "Atmospheric",
+      "Action",
+      "Funny",
+      "Adventure",
+      "Realistic",
+      "Exploration",
+      "Cleaning",
+      "Life Sim",
+      "Indie",
+      "Violent",
+      "Stealth",
+      "Walking Simulator",
+      "Hacking",
+      "Heist"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 32522,
+    "review_negative": 631,
+    "review_total": 33153,
+    "review_positive_percent": 98.1
+  }
+}

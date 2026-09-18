@@ -1,0 +1,228 @@
+{
+  "key": "hurtworld",
+  "name": "Hurtworld",
+  "description": "Hurtworld is a hardcore multiplayer survival FPS with a focus on competitive gunplay and strategic map control. Built for hardcore gamers, Hurtworld aims to punish.",
+  "developers": [
+    "Bankroll Studios"
+  ],
+  "publishers": [
+    "Bankroll Studios"
+  ],
+  "release_date": "2019-12-11",
+  "website": "http://www.hurtworld.com",
+  "tags": [
+    "action",
+    "adventure",
+    "simulation",
+    "multiplayer",
+    "co-op",
+    "survival",
+    "fps",
+    "open-world",
+    "open-world-survival-craft",
+    "crafting",
+    "building",
+    "pvp",
+    "sandbox",
+    "early-access",
+    "first-person",
+    "shooter",
+    "third-person",
+    "singleplayer",
+    "indie",
+    "cartoony"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Russian",
+    "Turkish",
+    "Ukrainian",
+    "Czech",
+    "Dutch",
+    "Polish",
+    "Portuguese - Brazil",
+    "Swedish",
+    "Japanese",
+    "Simplified Chinese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "experimental/hurtworld.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Hurtworld.exe",
+          "description": "Legacy With Single Threaded Renderer",
+          "type": "option2"
+        },
+        {
+          "executable": "Hurtworld.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Hurtworld.exe",
+          "description": "Legacy",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "experimental/start_protected_game.app",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Hurtworld.app",
+          "description": "Legacy",
+          "type": "option3"
+        },
+        {
+          "executable": "experimental/start_protected_game.app",
+          "description": "EAC Test",
+          "type": "option2"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Hurtworld",
+    "experimental/hurtworld",
+    "experimental/start_protected_game.app",
+    "Hurtworld.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/393420/6d5ae57f85d8d2af758afa89df4369da699900dc.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393420/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393420/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393420/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393420/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393420/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393420/ss_514aa11523db0ab8df763deed48c3adda53474fe.1920x1080.jpg?t=1597169414"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393420/ss_1d7d06621578868705e63e346e2d1fb5df28ebb9.1920x1080.jpg?t=1597169414"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393420/ss_6436817ea41b82aa3758a4b17e05ad34dcfd93b7.1920x1080.jpg?t=1597169414"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393420/ss_fc414d7296b0feb3c3ea97743d1927450fbcf870.1920x1080.jpg?t=1597169414"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393420/ss_e5b9d8e23de891e39dc227cb75faeb11ce838504.1920x1080.jpg?t=1597169414"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393420/ss_c9e2b0c979a91d6ee5ff69d19fe621a8e0c63bf7.1920x1080.jpg?t=1597169414"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393420/ss_32d9a0338d7997f679cf7a45a5a98023cd1ae05d.1920x1080.jpg?t=1597169414"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393420/ss_e1e927ee1078dd408a8f75dea0df8c116df0e208.1920x1080.jpg?t=1597169414"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393420/ss_fff8061e7bf59df0ceb309879018424f5b5902d4.1920x1080.jpg?t=1597169414"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393420/ss_967b45b949855d5330d30bfcfcd0212160ecc887.1920x1080.jpg?t=1597169414"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393420/ss_d2256039cf235cc85c7f299131718098c8199a78.1920x1080.jpg?t=1597169414"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393420/ss_71591ad26b7f49723e07cded6d929d207d389bc8.1920x1080.jpg?t=1597169414"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393420/ss_8e6d6b35196eda9592e33d4f8fc5be6e21b38bd2.1920x1080.jpg?t=1597169414"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393420/ss_a740171e420f100eb377776a371547cf570de568.1920x1080.jpg?t=1597169414"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393420/ss_16aa6d4a5131add83995bbf8a095132b67e7c88a.1920x1080.jpg?t=1597169414"
+    }
+  ],
+  "videos": [
+    {
+      "name": "In Depth Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256753652/movie.293x165.jpg?t=1575998637",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/393420/228535/3f53f43aaa2255f06095ed3a3344bd77c887840d/1751275030/dash_h264.mpd?t=1575998637"
+    },
+    {
+      "name": "V2 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256740318/movie.293x165.jpg?t=1547315697",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/393420/204332/f0a02cdafcfe11653b904989de366e8c30f0d666/1751275028/dash_h264.mpd?t=1547315697"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 393420,
+    "store_url": "https://store.steampowered.com/app/393420/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Simulation"
+    ],
+    "categories": [
+      "Multi-player",
+      "Co-op",
+      "Cross-Platform Multiplayer",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Survival",
+      "FPS",
+      "Open World",
+      "Multiplayer",
+      "Open World Survival Craft",
+      "Crafting",
+      "Building",
+      "PvP",
+      "Sandbox",
+      "Adventure",
+      "Action",
+      "Early Access",
+      "Co-op",
+      "First-Person",
+      "Shooter",
+      "Simulation",
+      "Third Person",
+      "Singleplayer",
+      "Indie",
+      "Cartoony"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 23583,
+    "review_negative": 7415,
+    "review_total": 30998,
+    "review_positive_percent": 76.08
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "key": "20-small-mazes",
+  "name": "20 Small Mazes",
+  "description": "This is a puzzle game with twenty small mazes. They're good mazes, though.",
+  "developers": [
+    "FLEB"
+  ],
+  "publishers": [
+    "FLEB"
+  ],
+  "release_date": "2024-02-17",
+  "website": "https://www.flebpuzzles.com/",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "puzzle",
+    "2d",
+    "relaxing",
+    "colorful",
+    "logic",
+    "abstract",
+    "minimalist",
+    "family-friendly",
+    "singleplayer",
+    "free-to-play"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "20SM.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "20 Small Mazes.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "20 Small Mazes",
+    "20SM",
+    "20 Small Mazes.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2570630/f1bf81a5e5c231a4fa48e182782635adf8d7b4df.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2570630/28228b6ec2272b2d49fa5c602560fa3b5912803e/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2570630/de8311445a64ccf8bc2fbdabe4bbe603b3e5413d/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2570630/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2570630/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2570630/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2570630/ss_1f45c193bb12fa8346fa1f1db4a4e12649a0daff.1920x1080.jpg?t=1773335949"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2570630/ss_7551c01b83b7740c0d7a12585f4631a2ddcd42f8.1920x1080.jpg?t=1773335949"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2570630/ss_425e30234b1c4bafb35ed07fbc7776856f339649.1920x1080.jpg?t=1773335949"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2570630/ss_19942f2abdf86a080a15df6943714c07e8292c9e.1920x1080.jpg?t=1773335949"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2570630/ss_f2b8030a5eeb26cdbc160d085d2b8345e2d32189.1920x1080.jpg?t=1773335949"
+    }
+  ],
+  "videos": [
+    {
+      "name": "20 Small Mazes Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256993843/movie.293x165.jpg?t=1705194559",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2570630/649682/e5e0515b4ae518dc67b3e4c18bb938c59013db31/1750932453/dash_h264.mpd?t=1705194559"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2570630,
+    "store_url": "https://store.steampowered.com/app/2570630/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Puzzle",
+      "2D",
+      "Casual",
+      "Relaxing",
+      "Colorful",
+      "Logic",
+      "Abstract",
+      "Minimalist",
+      "Family Friendly",
+      "Adventure",
+      "Singleplayer",
+      "Indie",
+      "Free to Play"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 8913,
+    "review_negative": 110,
+    "review_total": 9023,
+    "review_positive_percent": 98.78
+  }
+}

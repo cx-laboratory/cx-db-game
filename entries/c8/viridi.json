@@ -1,0 +1,231 @@
+{
+  "key": "viridi",
+  "name": "Viridi",
+  "description": "Nurture a small pot of succulents that grow in real time. Viridi is a safe haven, a place you can return to for a moment of peace and quiet whenever you need it.",
+  "developers": [
+    "Zoe Vartanian"
+  ],
+  "publishers": [
+    "Ice Water Games"
+  ],
+  "release_date": "2015-08-20",
+  "website": "http://icewatergames.com/viridi",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "free-to-play",
+    "relaxing",
+    "singleplayer",
+    "atmospheric",
+    "cute",
+    "great-soundtrack",
+    "sandbox",
+    "nature",
+    "family-friendly",
+    "agriculture",
+    "real-time",
+    "idler",
+    "replay-value",
+    "beautiful",
+    "cozy",
+    "colorful",
+    "building"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Viridi.exe",
+          "description": "Launch (Windows)",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": ".",
+          "pattern": "*.dat",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Viridi.app",
+          "description": "Launch (OSX)",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": ".",
+          "pattern": "*.dat",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Viridi.x86",
+          "description": "Launch (Linux)",
+          "type": "none"
+        },
+        {
+          "executable": "Viridi.x86_64",
+          "description": "Launch (Linux 64b)",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": ".",
+          "pattern": "*.dat",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Viridi",
+    "Viridi.app",
+    "Viridi.x86",
+    "Viridi.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/375950/2fe95a00fab1cded4f870d192ebdb920e12237c5.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375950/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375950/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375950/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375950/f14578c8c2a87773ef5e5a97718da311da305c60/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375950/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375950/ss_860e039af6cc539036c844867413a9820a082b87.1920x1080.jpg?t=1761082293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375950/ss_551e0446e4348fe59d39feeaa7f6db9f0668ca4a.1920x1080.jpg?t=1761082293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375950/ss_4541741607d788a199cc4b64d2de676a88862c7e.1920x1080.jpg?t=1761082293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375950/ss_d40d45aa2fe79f0c5d2f86f2043833e31a19cdb7.1920x1080.jpg?t=1761082293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375950/ss_a5dac38c0dd51baddd080c156e324ab2985c70f9.1920x1080.jpg?t=1761082293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375950/ss_62201a6ed8d4c7d772feeef43cc05a6258b9bebc.1920x1080.jpg?t=1761082293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375950/ss_9b6f9eee0cb4fe5c0ecc628dad6bb36a0100cdd2.1920x1080.jpg?t=1761082293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375950/ss_e5e991accbed577a23006ab1c3f73b89ee0fe35a.1920x1080.jpg?t=1761082293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375950/ss_b4a9d2c52d33ec6474543909b70a2c0abdfa21c7.1920x1080.jpg?t=1761082293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375950/ss_73c208615cc3cc812edf89338433244cb406ff09.1920x1080.jpg?t=1761082293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375950/ss_ef258e2064bd76f34ed8d30f7c0b2fbea6e2e774.1920x1080.jpg?t=1761082293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375950/ss_08e5b54fc23d394023b114e49a59f19974ddf500.1920x1080.jpg?t=1761082293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375950/ss_aa905fd3e82270f99e7ba224bfb7fd79ac80277e.1920x1080.jpg?t=1761082293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375950/ss_8ba4bc4e5dde6fac5d2f1f7b63b4d5c6c13f7b57.1920x1080.jpg?t=1761082293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375950/ss_d8a5e12939a089c5e40e418c0eeeb73630847111.1920x1080.jpg?t=1761082293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375950/ss_9b0848d77f9f66751828ff626e8d3805b9814bf7.1920x1080.jpg?t=1761082293"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Viridi Steam Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256655562/movie.293x165.jpg?t=1447377519",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/375950/40931/b5a0b2e6aedc00d796954826af300b350dca1ca1/1751276523/dash_h264.mpd?t=1447377519"
+    },
+    {
+      "name": "Viridi Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256655772/movie.293x165.jpg?t=1447377639",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/375950/41410/3a1c4d1bfd4285b0ffc53db37cbccf2152918971/1751276525/dash_h264.mpd?t=1447377639"
+    }
+  ],
+  "metacritic": {
+    "score": 46,
+    "url": "https://www.metacritic.com/game/pc/viridi?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 375950,
+    "store_url": "https://store.steampowered.com/app/375950/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Relaxing",
+      "Simulation",
+      "Casual",
+      "Singleplayer",
+      "Atmospheric",
+      "Indie",
+      "Cute",
+      "Great Soundtrack",
+      "Sandbox",
+      "Nature",
+      "Family Friendly",
+      "Agriculture",
+      "Real-Time",
+      "Idler",
+      "Replay Value",
+      "Beautiful",
+      "Cozy",
+      "Colorful",
+      "Building"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8836,
+    "review_negative": 772,
+    "review_total": 9608,
+    "review_positive_percent": 91.97
+  }
+}

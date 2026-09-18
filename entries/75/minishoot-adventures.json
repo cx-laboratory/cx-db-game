@@ -1,0 +1,231 @@
+{
+  "key": "minishoot-adventures",
+  "name": "Minishoot' Adventures",
+  "description": "Fly into a charming handcrafted world and go on an adventure that mixes up open exploration with crispy twin-stick shooter action. Fight your way from the shiny overworld to the deepest caves, improve your ship and overcome the dungeons' bosses to rescue your friends!",
+  "developers": [
+    "SoulGame Studio"
+  ],
+  "publishers": [
+    "SoulGame Studio"
+  ],
+  "release_date": "2024-04-03",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure",
+    "casual",
+    "rpg",
+    "twin-stick-shooter",
+    "metroidvania",
+    "bullet-hell",
+    "exploration",
+    "top-down",
+    "cute",
+    "2d",
+    "top-down-shooter",
+    "nonlinear",
+    "colorful",
+    "shooter",
+    "open-world",
+    "minimalist",
+    "retro",
+    "shoot-em-up",
+    "fantasy"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "czech",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "小飞船大冒险 Minishoot' Adventures",
+    "sc_schinese": "小飞船大冒险"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Windows\\Minishoot.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "SoulGame/Minishoot",
+          "pattern": "*.es3",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "SoulGame/Minishoot",
+          "pattern": "*.es3.bac",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Contents\\MacOS\\Minishoot",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "SoulGame/Minishoot",
+          "pattern": "*.es3",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "SoulGame/Minishoot",
+          "pattern": "*.es3.bac",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Minishoot' Adventures",
+    "Windows\\Minishoot",
+    "Contents\\MacOS\\Minishoot",
+    "小飞船大冒险 Minishoot' Adventures",
+    "小飞船大冒险"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1634860/720f5510b4110a085f6341a00060c3d2084771cc.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634860/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634860/2b1441bda046716dab1953895e5daa6f678ec7ae/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634860/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634860/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634860/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634860/ss_a27d15bad37bafc01b1ac80381b46b14cc1a34fc.1920x1080.jpg?t=1778570664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634860/ss_86852586349766e5d496a3035eb92dff74905ca0.1920x1080.jpg?t=1778570664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634860/ss_36e73da31ffb07af94e668c53136197c4b539391.1920x1080.jpg?t=1778570664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634860/ss_7b8f85ab8a99841c031c24e98bf376831354a7e5.1920x1080.jpg?t=1778570664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634860/ss_0ad10aa0948e6e3af8da494d47e52f6fd1517a0c.1920x1080.jpg?t=1778570664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634860/ss_ea0a3dcf1a509e31f836acdafaf1d99e29de5786.1920x1080.jpg?t=1778570664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634860/ss_bce49124c4866e899d9f2af4cf3c3409a1f9fbd0.1920x1080.jpg?t=1778570664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634860/ss_4cda3e3ce8ef9bccefead7ac75fdf97224821edc.1920x1080.jpg?t=1778570664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634860/ss_1d7f131d1a708b7310409a133678edf0c9c9c1c2.1920x1080.jpg?t=1778570664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634860/ss_78737688976c9bec894bdfca9ad73fee43137cd7.1920x1080.jpg?t=1778570664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634860/ss_4bde888023201be435b9b2e1cdf04da7fc9f6d79.1920x1080.jpg?t=1778570664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634860/ss_6775382d9097f05b9400c8ee606a988f2af611f8.1920x1080.jpg?t=1778570664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634860/ss_8575449ad11448c856d09125ac086cfbf0760de3.1920x1080.jpg?t=1778570664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634860/ss_eb8e142eb6c9681b6a81a06db9ace5107a8ea7fa.1920x1080.jpg?t=1778570664"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Trailer Release Announcement",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257005365/movie.293x165.jpg?t=1709634727",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1634860/670226/5e224200d1a6531342ec9c54b603753ad07ba06f/1750714117/dash_h264.mpd?t=1709634727"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1634860,
+    "store_url": "https://store.steampowered.com/app/1634860/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Gamepad Recommended",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Stats",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Twin Stick Shooter",
+      "Metroidvania",
+      "Bullet Hell",
+      "Exploration",
+      "Top-Down",
+      "Adventure",
+      "RPG",
+      "Cute",
+      "2D",
+      "Casual",
+      "Top-Down Shooter",
+      "Nonlinear",
+      "Colorful",
+      "Shooter",
+      "Open World",
+      "Minimalist",
+      "Action",
+      "Retro",
+      "Shoot 'Em Up",
+      "Fantasy"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 7743,
+    "review_negative": 181,
+    "review_total": 7924,
+    "review_positive_percent": 97.72
+  }
+}

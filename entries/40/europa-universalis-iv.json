@@ -1,0 +1,245 @@
+{
+  "key": "europa-universalis-iv",
+  "name": "Europa Universalis IV",
+  "description": "Rule your land and dominate the world with unparalleled freedom, depth and historical accuracy. Write a new history of the world and build an empire for the ages.",
+  "developers": [
+    "Paradox Development Studio"
+  ],
+  "publishers": [
+    "Paradox Interactive"
+  ],
+  "release_date": "2013-08-13",
+  "website": "http://www.europauniversalis4.com",
+  "tags": [
+    "simulation",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "grand-strategy",
+    "historical",
+    "4x",
+    "alternate-history",
+    "wargame",
+    "military",
+    "diplomacy",
+    "economy",
+    "replay-value",
+    "sandbox",
+    "political",
+    "real-time-with-pause",
+    "moddable",
+    "nonlinear",
+    "singleplayer",
+    "management"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "spanish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "dowser.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "eu4.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "dowser.exe",
+          "description": "Steam Multiplayer",
+          "type": "default"
+        },
+        {
+          "executable": "dowser.exe",
+          "description": "Nakama Crossplay Multiplayer",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "dowser",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "eu4.app",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "dowser",
+          "description": "Steam Multiplayer",
+          "type": "default"
+        },
+        {
+          "executable": "dowser",
+          "description": "Nakama Crossplay Multiplayer",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "dowser",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "eu4",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "dowser",
+          "description": "Steam Multiplayer",
+          "type": "default"
+        },
+        {
+          "executable": "dowser",
+          "description": "Nakama Crossplay Multiplayer",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Europa Universalis IV",
+    "dowser",
+    "eu4",
+    "eu4.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/236850/2553e828486183a4f5d5eb33036a95f07c698ded.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/f4e714d0f5a6be6b76e4b7cfddd692ccc689884a/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/262929c03990b786390232599f3af566ae36eac7/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/e9ca126009c5fecf7df6e2782c69a4d3336fcc32/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_505866198168d5ebaf3b4b76caeca2ee55883786.1920x1080.jpg?t=1778249292"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_a7a6735657b6aafd1125b9b4280a0f73e5fc2981.1920x1080.jpg?t=1778249292"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_0f31b85193b9e40fd70f710c0ac8fa843c96b604.1920x1080.jpg?t=1778249292"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_83179e7c220e4bf9a396c77e8a566a4c9d30d686.1920x1080.jpg?t=1778249292"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_d3ca5ede1b13ce7c1782ddd2a182d313f914d937.1920x1080.jpg?t=1778249292"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_b17cebc702b38599cfce8d6bc50b48946fb5a14e.1920x1080.jpg?t=1778249292"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_375685e265563ba8240939189ee6afbaf681596c.1920x1080.jpg?t=1778249292"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_5f121c7e811451deee1fa15b3fcfd95ea072f6b2.1920x1080.jpg?t=1778249292"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_cc4dfbcd841948ebf45ab082466064ff7cfbfd94.1920x1080.jpg?t=1778249292"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_4d65ea97a30ab87a81159cdda7c5e0952fb55b01.1920x1080.jpg?t=1778249292"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Europa Universalis IV: 10th Anniversary Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256961262/movie.293x165.jpg?t=1690890454",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/236850/592925/9956cfde3066da891920dcc5ee5886cd53bf850a/1750496978/dash_h264.mpd?t=1690890454"
+    },
+    {
+      "name": "Europa Universalis IV: Subscription Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256835289/movie.293x165.jpg?t=1628784026",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/236850/370699/06e4e34c2af625ec796678160f2061672a6fa3f1/1750496975/dash_h264.mpd?t=1628784026"
+    }
+  ],
+  "metacritic": {
+    "score": 87,
+    "url": "https://www.metacritic.com/game/pc/europa-universalis-iv?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 236850,
+    "store_url": "https://store.steampowered.com/app/236850/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Grand Strategy",
+      "Strategy",
+      "Historical",
+      "Simulation",
+      "4X",
+      "Alternate History",
+      "Wargame",
+      "Military",
+      "Diplomacy",
+      "Economy",
+      "Replay Value",
+      "Sandbox",
+      "Political",
+      "Real-Time with Pause",
+      "Moddable",
+      "Nonlinear",
+      "Co-op",
+      "Singleplayer",
+      "Management",
+      "Multiplayer"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 119888,
+    "review_negative": 16895,
+    "review_total": 136783,
+    "review_positive_percent": 87.65
+  }
+}

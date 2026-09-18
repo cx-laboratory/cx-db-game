@@ -1,0 +1,187 @@
+{
+  "key": "battle-brothers",
+  "name": "Battle Brothers",
+  "description": "Lead a mercenary company in this tactical RPG set in a medieval fantasy world. Chase fame and fortune as you choose where to go, who to recruit, which contracts to pursue, and how to train and equip your men in a procedurally generated open world campaign.",
+  "developers": [
+    "Overhype Studios"
+  ],
+  "publishers": [
+    "Hooded Horse"
+  ],
+  "release_date": "2017-03-25",
+  "website": "http://battlebrothersgame.com/",
+  "tags": [
+    "rpg",
+    "simulation",
+    "strategy",
+    "medieval",
+    "open-world",
+    "sandbox",
+    "character-customization",
+    "war",
+    "action",
+    "moddable",
+    "adventure",
+    "realistic",
+    "historical",
+    "singleplayer",
+    "horses",
+    "third-person",
+    "military",
+    "fantasy",
+    "hack-and-slash",
+    "turn-based-tactics"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {
+    "schinese": "战场兄弟 Battle Brothers",
+    "tchinese": "戰場兄弟 Battle Brothers"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "win32\\BattleBrothers.exe",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "win32\\BattleBrothers.exe",
+          "description": "Reset Configuration",
+          "type": "none"
+        },
+        {
+          "executable": "Extras\\Lore & Art Book.pdf",
+          "description": "Open Digital Lore & Art Book",
+          "type": "none"
+        },
+        {
+          "executable": "Extras\\The Caretaker - A Battle Brothers Comic.pdf",
+          "description": "Open The Caretaker - A Battle Brothers Comic",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Battle Brothers",
+    "win32\\BattleBrothers",
+    "Extras\\Lore & Art Book.pdf",
+    "Extras\\The Caretaker - A Battle Brothers Comic.pdf",
+    "战场兄弟 Battle Brothers",
+    "戰場兄弟 Battle Brothers"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/365360/b99db2c64ea125ff01c2d31583ff560a834e999c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365360/c6ad528c1ec98716cccc6b251d570bd1c0f2d283/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365360/6d11e94a198276fb77dc429edc3f4a2aa1517bde/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365360/a040398e8ba0f8d9e5ced34376df0e6e4a7ef91d/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365360/6257af7a5451b9b708a32fc4da5c1fd93a96103c/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365360/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365360/ss_2ed5eff851e0562800376e4903e9bf3a2dcdde76.1920x1080.jpg?t=1783068191"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365360/ss_c03600b98e321733a1cc9184f3e7150cfac8dffc.1920x1080.jpg?t=1783068191"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365360/ss_03699d4ce2eacbaeb5f493ae75332b586b09e1c0.1920x1080.jpg?t=1783068191"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365360/ss_f78ccd2ce53431b5968230165704ec6a0d3fc613.1920x1080.jpg?t=1783068191"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365360/ss_964961b2dc5a776651b91f5968b29838a17db896.1920x1080.jpg?t=1783068191"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365360/ss_5025550d8e96ed854e9e25ac4e5004281e0cbacd.1920x1080.jpg?t=1783068191"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365360/ss_5c6341f7d80b424d962006d28e47e48b619203ac.1920x1080.jpg?t=1783068191"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365360/ss_99591f270f73a66d760f979b16809f4aee1e7827.1920x1080.jpg?t=1783068191"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365360/ss_e07d2a2dd627eb425dbb6322076c85324d94bbf1.1920x1080.jpg?t=1783068191"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365360/ss_4b7b47e2740ada408e2bf2e2bb7a88d61bd570c3.1920x1080.jpg?t=1783068191"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256681083/b409b80e57bc26975cfa4db03efd9220808d8959/movie_600x337.jpg?t=1764597554",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/365360/93639/07db2e4d15216ac382576954186c932e7b88035f/1750516625/dash_h264.mpd?t=1764597554"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256681876/146942fff94558eb686df49870d1b604d7341fd6/movie_600x337.jpg?t=1764597555",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/365360/95615/0e48f42a6ccc8004445ed7b0bee4ac3f493a2f8d/1750516641/dash_h264.mpd?t=1764597555"
+    }
+  ],
+  "metacritic": {
+    "score": 80,
+    "url": "https://www.metacritic.com/game/pc/battle-brothers?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 365360,
+    "store_url": "https://store.steampowered.com/app/365360/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Medieval",
+      "Strategy",
+      "Open World",
+      "RPG",
+      "Sandbox",
+      "Character Customization",
+      "War",
+      "Simulation",
+      "Action",
+      "Moddable",
+      "Adventure",
+      "Realistic",
+      "Historical",
+      "Singleplayer",
+      "Horses",
+      "Third Person",
+      "Military",
+      "Fantasy",
+      "Hack and Slash",
+      "Turn-Based Tactics"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 24765,
+    "review_negative": 3334,
+    "review_total": 28099,
+    "review_positive_percent": 88.13
+  }
+}

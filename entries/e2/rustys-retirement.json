@@ -1,0 +1,208 @@
+{
+  "key": "rustys-retirement",
+  "name": "Rusty's Retirement",
+  "description": "A relaxing idle-farming simulator that sits at the bottom of your screen while you do other things.",
+  "developers": [
+    "Mister Morris Games"
+  ],
+  "publishers": [
+    "Mister Morris Games"
+  ],
+  "release_date": "2024-04-26",
+  "website": "",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "strategy",
+    "idler",
+    "automation",
+    "farming-sim",
+    "pixel-graphics",
+    "desktop-companion",
+    "management",
+    "relaxing",
+    "farming",
+    "building",
+    "nature",
+    "2d",
+    "cute",
+    "economy",
+    "resource-management",
+    "post-apocalyptic",
+    "base-building",
+    "life-sim"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English*",
+    "French*",
+    "Italian*",
+    "German*",
+    "Spanish - Spain*",
+    "Japanese*",
+    "Korean*",
+    "Portuguese - Brazil*",
+    "Simplified Chinese*",
+    "Traditional Chinese*",
+    "Estonian**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "RustyLauncher.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "RustyLauncher.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "MisterMorrisGames/Rusty's Retirement/",
+          "pattern": "*.txt",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "com.MisterMorrisGames.RustysRetirement",
+          "pattern": "*.txt",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Rusty's Retirement.app/Contents/MacOS/Rusty's Retirement",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "MisterMorrisGames/Rusty's Retirement/",
+          "pattern": "*.txt",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "com.MisterMorrisGames.RustysRetirement",
+          "pattern": "*.txt",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Rusty's Retirement",
+    "RustyLauncher",
+    "Rusty's Retirement.app/Contents/MacOS/Rusty's Retirement"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2666510/72be5b22943d8874a18c9de214f1d5fa82d98310.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/1b9c3e5c1a8a08354bed63fbeed798fcec74aff9/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/21808988b2d474efd26070f975320c10ea2df0bf/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/45d4bdc392aa1efa38f92a402086d43da0ec8aae/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_f15441bfd5758bae1c69fa51a068c9869d26a200.1920x1080.jpg?t=1782364605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_3496a84df0dbe09dd5949e2e9d6b47892a80311f.1920x1080.jpg?t=1782364605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_19d23f2a13644dc3a1d41825562d985b2362d937.1920x1080.jpg?t=1782364605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_85bb3668f2a3df2c32977da4d3971e730e58ab06.1920x1080.jpg?t=1782364605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_6bbf47b0651ac753e303e77da2ae8b5b586f52c4.1920x1080.jpg?t=1782364605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2666510/ss_b47c58abd7cebd95394962c4ff5f0e291acf3f8c.1920x1080.jpg?t=1782364605"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257018524/movie.293x165.jpg?t=1714135556",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2666510/691891/c7a67e8d39fd37f737693d249eb8c0018bac1b37/1750818136/dash_h264.mpd?t=1714135556"
+    },
+    {
+      "name": "Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256991923/movie.293x165.jpg?t=1714136465",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2666510/645874/a32044e177df975ba1ecfd9b5105e4724988fae6/1750818135/dash_h264.mpd?t=1714136465"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2666510,
+    "store_url": "https://store.steampowered.com/app/2666510/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Adjustable Text Size",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Idler",
+      "Automation",
+      "Farming Sim",
+      "Pixel Graphics",
+      "Desktop Companion",
+      "Simulation",
+      "Management",
+      "Relaxing",
+      "Farming",
+      "Building",
+      "Nature",
+      "2D",
+      "Cute",
+      "Strategy",
+      "Economy",
+      "Resource Management",
+      "Casual",
+      "Post-apocalyptic",
+      "Base Building",
+      "Life Sim"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 14177,
+    "review_negative": 473,
+    "review_total": 14650,
+    "review_positive_percent": 96.77
+  }
+}

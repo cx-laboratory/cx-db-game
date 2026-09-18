@@ -1,0 +1,177 @@
+{
+  "key": "cloverpit",
+  "name": "CloverPit",
+  "description": "A rogue-lite slot machine nightmare. Gamble for your life in a never-ending debt simulator!",
+  "developers": [
+    "Panik Arcade"
+  ],
+  "publishers": [
+    "Future Friends Games"
+  ],
+  "release_date": "2025-09-27",
+  "website": "https://www.panikarcade.games/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "simulation",
+    "sports",
+    "strategy",
+    "gambling",
+    "roguelite",
+    "roguelike",
+    "first-person",
+    "dark-humor",
+    "horror",
+    "3d",
+    "singleplayer",
+    "psychological",
+    "dark",
+    "resource-management",
+    "surreal",
+    "multiple-endings",
+    "retro"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "四叶草深渊 CLOVERPIT"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "CloverPit.exe",
+          "description": "Launch CloverPit",
+          "type": "default"
+        },
+        {
+          "executable": "CloverPit.exe",
+          "description": "Launch with this if you experience crashes at launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "SaveData",
+          "pattern": "*.json",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "CloverPit",
+    "四叶草深渊 CLOVERPIT"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3314790/93fcc4d2c3798356f019f030e7599dc13bd6a95a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/8ba81356b84aa937573fa29fdd708dbd96b01537/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/708aa35adb8f17727284204955531d3ca237b6a4/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/e2c32c4af826aa068878e437d90f46f0e46f21ba/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/2bc3ba12f7fcaccded56686a8d4b86dc5376183d/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/ea9149c746e293cd8589e3a7b72351f6a1756499/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/10162d11d37ae75c0e6b1fcd5d7fc3806dceace6/ss_10162d11d37ae75c0e6b1fcd5d7fc3806dceace6.1920x1080.jpg?t=1780064423"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/ac11eb89224c5cdd3648e1483643f9c87ef5908b/ss_ac11eb89224c5cdd3648e1483643f9c87ef5908b.1920x1080.jpg?t=1780064423"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/62b70fe41d72d73722b1869549f553e05c4a440c/ss_62b70fe41d72d73722b1869549f553e05c4a440c.1920x1080.jpg?t=1780064423"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/8a3aadca1381ed31ff5781bf101bffc2fc0730e4/ss_8a3aadca1381ed31ff5781bf101bffc2fc0730e4.1920x1080.jpg?t=1780064423"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/07a0c14d12a5fdc2cc2b8005c12525e0c6b9b0c0/ss_07a0c14d12a5fdc2cc2b8005c12525e0c6b9b0c0.1920x1080.jpg?t=1780064423"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/dc21c545892b5c1ab9eaf8b11e2355f5f092cd2f/ss_dc21c545892b5c1ab9eaf8b11e2355f5f092cd2f.1920x1080.jpg?t=1780064423"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/3d174c23e10f22272404d4a4cf03e5a8ae8b5dc6/ss_3d174c23e10f22272404d4a4cf03e5a8ae8b5dc6.1920x1080.jpg?t=1780064423"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314790/e02e10e6d2a87ea36e9243b232b96f54f95efbda/ss_e02e10e6d2a87ea36e9243b232b96f54f95efbda.1920x1080.jpg?t=1780064423"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257206143/b781b2f79f263382db4ea0f298b64a5355669179/movie_600x337.jpg?t=1758954708",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3314790/915611282/3b3a5a986dd7789252ad84d3abf5c3fbe828dc94/1758802445/dash_h264.mpd?t=1758954708"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3314790,
+    "store_url": "https://store.steampowered.com/app/3314790/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Gambling",
+      "Roguelite",
+      "Roguelike",
+      "Psychological Horror",
+      "Strategy",
+      "First-Person",
+      "Dark Humor",
+      "Horror",
+      "3D",
+      "Singleplayer",
+      "Psychological",
+      "Dark",
+      "Indie",
+      "Resource Management",
+      "Surreal",
+      "Multiple Endings",
+      "Simulation",
+      "Retro",
+      "Adventure",
+      "Action"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 22394,
+    "review_negative": 2420,
+    "review_total": 24814,
+    "review_positive_percent": 90.25
+  }
+}

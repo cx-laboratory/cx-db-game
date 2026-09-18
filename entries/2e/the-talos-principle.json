@@ -1,0 +1,235 @@
+{
+  "key": "the-talos-principle",
+  "name": "The Talos Principle",
+  "description": "The Talos Principle is a first-person puzzle game in the tradition of philosophical science fiction. Made by Croteam and written by Tom Jubert (FTL, The Swapper) and Jonas Kyratzes (The Sea Will Claim Everything).",
+  "developers": [
+    "Croteam"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "release_date": "2014-12-12",
+  "website": "http://www.thetalosprinciple.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "puzzle",
+    "philosophical",
+    "first-person",
+    "sci-fi",
+    "story-rich",
+    "atmospheric",
+    "singleplayer",
+    "great-soundtrack",
+    "robots",
+    "exploration",
+    "multiple-endings",
+    "difficult",
+    "mystery",
+    "post-apocalyptic",
+    "simulation",
+    "science",
+    "artificial-intelligence"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "塔罗斯的法则"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Bin/x64/Talos.exe",
+          "description": "Play",
+          "type": "none"
+        },
+        {
+          "executable": "Bin/x64/Talos_Unrestricted.exe",
+          "description": "Play moddable version",
+          "type": "none"
+        },
+        {
+          "executable": "Bin/Talos.exe",
+          "description": "Play (32-bit)",
+          "type": "none"
+        },
+        {
+          "executable": "Bin/Talos_Unrestricted.exe",
+          "description": "Play moddable version (32-bit)",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Bin/x64/Talos",
+          "description": "Play",
+          "type": "none"
+        },
+        {
+          "executable": "Bin/x64/Talos_Unrestricted",
+          "description": "Play moddable version",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Bin/x64/Talos",
+          "description": "Play",
+          "type": "none"
+        },
+        {
+          "executable": "Bin/x64/Talos_Unrestricted",
+          "description": "Play moddable version",
+          "type": "none"
+        },
+        {
+          "executable": "Bin/Talos",
+          "description": "Play (32-bit)",
+          "type": "none"
+        },
+        {
+          "executable": "Bin/Talos_Unrestricted",
+          "description": "Play moddable version (32-bit)",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "The Talos Principle",
+    "Bin/x64/Talos",
+    "Bin/x64/Talos_Unrestricted",
+    "Bin/Talos",
+    "Bin/Talos_Unrestricted",
+    "塔罗斯的法则"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/257510/8222673c1eb13e6a8a8367ec0e2940a887ecf270.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/ss_8061dc63743404a7829eabdd47590421652c318d.1920x1080.jpg?t=1744327639"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/ss_56f8a07f7c2ac684cfec3b17bc0668c24b905b4b.1920x1080.jpg?t=1744327639"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/ss_3f16d21674b27dad893ccb27b581670b5bb8043a.1920x1080.jpg?t=1744327639"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/ss_bf869965e8e972acb4dfe3f8d4bf7baa2c2cdf29.1920x1080.jpg?t=1744327639"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/ss_ded5cd1a34df5b4d9015f71caf35db247b2579c4.1920x1080.jpg?t=1744327639"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/ss_b42acabe63d45a11580a2949e34f305e1bd10fc7.1920x1080.jpg?t=1744327639"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Talos Principle - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2036095/movie.293x165.jpg?t=1447365928",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/257510/28592/832aeb90790e2c69f6be6057a67d36dd06a759a8/1750490837/dash_h264.mpd?t=1447365928"
+    },
+    {
+      "name": "The Talos Principle Public Test - Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2035453/movie.293x165.jpg?t=1447364933",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/257510/27351/2e04d1f89e28ac87f583c287761a0e1bf3460914/1750491215/dash_h264.mpd?t=1447364933"
+    },
+    {
+      "name": "The Talos Principle - Teaser Video",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2032752/movie.293x165.jpg?t=1447362232",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/257510/21672/849f33e5b15c949ba7e32728b825b75524806061/1750490791/dash_h264.mpd?t=1447362232"
+    }
+  ],
+  "metacritic": {
+    "score": 85,
+    "url": "https://www.metacritic.com/game/pc/the-talos-principle?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 257510,
+    "store_url": "https://store.steampowered.com/app/257510/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Includes level editor",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Puzzle",
+      "Philosophical",
+      "First-Person",
+      "Sci-fi",
+      "Story Rich",
+      "Atmospheric",
+      "Singleplayer",
+      "Great Soundtrack",
+      "Robots",
+      "Exploration",
+      "Adventure",
+      "Indie",
+      "Multiple Endings",
+      "Difficult",
+      "Mystery",
+      "Post-apocalyptic",
+      "Action",
+      "Simulation",
+      "Science",
+      "Artificial Intelligence"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 31356,
+    "review_negative": 1539,
+    "review_total": 32895,
+    "review_positive_percent": 95.32
+  }
+}

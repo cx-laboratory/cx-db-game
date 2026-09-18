@@ -1,0 +1,270 @@
+{
+  "key": "rift",
+  "name": "RIFT",
+  "description": "Dive into a world of epic adventure! Create your perfect hero thanks to a uniquely customizable class system. Collect, craft, and customize your gear. Go it alone or group up to challenge dungeons, raids, dynamic open-world content, and your fellow players.",
+  "developers": [
+    "gamigo US Inc."
+  ],
+  "publishers": [
+    "gamigo US Inc."
+  ],
+  "release_date": "2011-03-02",
+  "website": "http://www.riftgame.com/?affiliateId=steamrift",
+  "tags": [
+    "action",
+    "adventure",
+    "massively-multiplayer",
+    "rpg",
+    "free-to-play",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "mmorpg",
+    "fantasy",
+    "open-world",
+    "old-school",
+    "nostalgia",
+    "character-customization",
+    "magic",
+    "3d",
+    "crafting",
+    "third-person",
+    "survival"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "French*",
+    "German*",
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "riftpatchlive.exe",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "GlyphClientInternal.exe",
+          "description": "GlyphInternal",
+          "type": "option1"
+        },
+        {
+          "executable": "GlyphClient.exe",
+          "description": "Glyph",
+          "type": "option2"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "RIFT",
+    "riftpatchlive",
+    "GlyphClientInternal",
+    "GlyphClient"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/39120/fcbeb7184880a9c333c00f11a000888575c3600e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_aa9bd527310f75845afe241e1102ab010bc03104.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_f18123e248b22a3d6abc6a2478d52ebf03c9b9c4.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_02d8ec1aa07efd9dbe2fbd8201e3f18de4aab978.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_9c4bd52468187d22a365fc44bb56b307722aa62f.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_7ee59288d300ecd27558825d790cd975eda88bf3.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_d4569894b9e62a1740cb6fcda550b55a00e492c7.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_986c7d5cce68e24aa174c2b8aa25ce1801256f1e.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_b1c4b46704cd03cf981d9a5919f8d80b39d278f8.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_9efc56c92a62690cdd87b4ab3f80d857485685e8.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_0f27b7a7b923cfdbbc80766eff3782882dc32efe.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_6b763726825c7ff7be5f9f10fb6b2d6eb38303ea.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_0bf3ee0e72a4e1f28df127cd9e35b891b3a001ce.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_7ee9f443e08063f2f3e64d60a6c41abccf536ce1.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_e823832a3eb7ccf9afb61a86a4bd9460c57b906c.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_86a592657cb8d9f920b0bc732c2328d490abd507.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_773ad5e9dd276f3b562d9a527e9f22947d943572.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_ad5234bb41635384025f0737ed1379906d4aae8a.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_2491dd7406a8f8831b8dad68bac9bec0a037d431.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_9cd15bfbfce0ec613e5729a548d2c1853e35d668.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_ef0bcdd803f9ba17524966c92614fe43e9af7bf8.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_423f52c7817c4d53e54f66d95466d4ef86c07413.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_4e57bcb4f8db3684ad389bdc361b71daa37d57ef.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_acaba03d87f0af83c380a7ff4ab47a7940d1b97e.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_dead9d3dd19b5233ad56dcacf6e8508440da525c.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_e3660e677a0d871e4d283ec730ec98b7aedfcf75.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_1fbe9a57f4e51adffa1e46fe70d95a81a4381e7f.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_f8c816dd87c8979e1b4aea431d98bf6ed4457555.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_be31654c279a49c01eb1fd5869f094804b1a8f5c.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_2a1c407c817aa7e0b43215b6eb1484c2565cc904.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_85ccfcd1519e80264785c0b6212ae1972589737e.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_d959a7b220d64bed9f0d732b7b026662f735dabe.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_48006d07b5334ebfd71bc4f2ece3ec9272888967.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_6f7bbd6015ec5d5099ca5143f39ce91b51242f43.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_d308084189b1236d45347df435181a73ac789075.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_aca4d4004f7c91cf05d7324df008020248768772.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_aaf3a1b32472b9db11fab5fa14505e4368998e98.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_12714ae6d2e794e295c225d59851d50713ef9d18.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_13acb894a8e2ce9789ac9aa88cbd0c7c68b51f6a.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_1d3d7638dfbdded84caa2716988a2d20eeec6e7c.1920x1080.jpg?t=1700242293"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/ss_a7588a36f7349f37634f1e1b0ba3090fb4f6705a.1920x1080.jpg?t=1700242293"
+    }
+  ],
+  "videos": [
+    {
+      "name": "RIFT 5yr",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256662876/movie.293x165.jpg?t=1538670006",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/39120/56347/f41693fc73d5cb0eb0006c0ac027fde81f79110d/1750485224/dash_h264.mpd?t=1538670006"
+    }
+  ],
+  "metacritic": {
+    "score": 84,
+    "url": "https://www.metacritic.com/game/pc/rift?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 39120,
+    "store_url": "https://store.steampowered.com/app/39120/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "MMORPG",
+      "RPG",
+      "Fantasy",
+      "Open World",
+      "Old School",
+      "Massively Multiplayer",
+      "Nostalgia",
+      "Multiplayer",
+      "Adventure",
+      "Action",
+      "Character Customization",
+      "Co-op",
+      "PvP",
+      "Online Co-Op",
+      "Magic",
+      "3D",
+      "Crafting",
+      "Third Person",
+      "Survival"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 8598,
+    "review_negative": 3010,
+    "review_total": 11608,
+    "review_positive_percent": 74.07
+  }
+}

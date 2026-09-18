@@ -1,0 +1,195 @@
+{
+  "key": "kindergarten-2",
+  "name": "Kindergarten 2",
+  "description": "Welcome to Kindergarten 2, which takes place on Tuesday! After the events of Monday, you'll find yourself in a new school with new friends...and new ways to get ruthlessly murdered.",
+  "developers": [
+    "Con Man Games"
+  ],
+  "publishers": [
+    "SmashGames"
+  ],
+  "release_date": "2019-07-30",
+  "website": "",
+  "tags": [
+    "adventure",
+    "indie",
+    "gore",
+    "pixel-graphics",
+    "funny",
+    "violent",
+    "puzzle",
+    "singleplayer",
+    "dark-humor",
+    "comedy",
+    "2d",
+    "choices-matter",
+    "dark",
+    "story-rich",
+    "rpg",
+    "horror",
+    "action",
+    "cute",
+    "free-to-play"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Kindergarten2.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Con Man Games/Kindergarten2",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Kindergarten2.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Con Man Games/Kindergarten2",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Kindergarten.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Con Man Games/Kindergarten2",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Kindergarten 2",
+    "Kindergarten2",
+    "Kindergarten2.app",
+    "Kindergarten.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1067850/a42b0b3cde3cdc049b78b01a448066e365d6a30b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067850/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067850/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067850/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067850/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067850/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067850/ss_631af19037ab5bc5b84de42b095cecf61456ce5f.1920x1080.jpg?t=1780630431"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067850/ss_a9c97a3ba34558dce20c816fd3156df2be9d9932.1920x1080.jpg?t=1780630431"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067850/ss_711023dd98ccb72cf441e9a39fe82aa5b9d9f05c.1920x1080.jpg?t=1780630431"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067850/ss_6823b8c16f6441d4f6cd6c1e7ac5eaf94378e99b.1920x1080.jpg?t=1780630431"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067850/ss_795d9e7983fb48bc44da9f7ce73c3379a1deb49d.1920x1080.jpg?t=1780630431"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067850/ss_18ab9b332e0350eb7e8ef32f3e2e4f9bb6abb667.1920x1080.jpg?t=1780630431"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067850/ss_b43b83286b0b200e9bbbc20ed8c62fc4eb04f88c.1920x1080.jpg?t=1780630431"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067850/ss_a909de48c4df4eb383141fa3ec97b4780e99cd62.1920x1080.jpg?t=1780630431"
+    }
+  ],
+  "videos": [
+    {
+      "name": "MainTrailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256749475/movie.293x165.jpg?t=1557855906",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1067850/220899/c52d09d37e7f0ac86dae37f19ec35f51ba6ff1d0/1750612186/dash_h264.mpd?t=1557855906"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1067850,
+    "store_url": "https://store.steampowered.com/app/1067850/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Keyboard Only Option",
+      "Playable without Timed Input",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Gore",
+      "Adventure",
+      "Pixel Graphics",
+      "Funny",
+      "Indie",
+      "Violent",
+      "Puzzle",
+      "Singleplayer",
+      "Dark Humor",
+      "Comedy",
+      "2D",
+      "Choices Matter",
+      "Dark",
+      "Story Rich",
+      "RPG",
+      "Horror",
+      "Action",
+      "Psychological Horror",
+      "Cute",
+      "Free to Play"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 5591,
+    "review_negative": 113,
+    "review_total": 5704,
+    "review_positive_percent": 98.02
+  }
+}

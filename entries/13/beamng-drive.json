@@ -1,0 +1,264 @@
+{
+  "key": "beamng-drive",
+  "name": "BeamNG.drive",
+  "description": "A dynamic soft-body physics vehicle simulator capable of doing just about anything.",
+  "developers": [
+    "BeamNG"
+  ],
+  "publishers": [
+    "BeamNG"
+  ],
+  "release_date": "2015-05-30",
+  "website": "https://www.beamng.com",
+  "tags": [
+    "racing",
+    "simulation",
+    "early-access",
+    "driving",
+    "physics",
+    "realistic",
+    "destruction",
+    "automobile-sim",
+    "sandbox",
+    "open-world",
+    "multiplayer",
+    "moddable",
+    "singleplayer",
+    "first-person",
+    "vr",
+    "third-person",
+    "funny",
+    "action",
+    "adventure",
+    "exploration"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "hungarian",
+    "czech",
+    "romanian",
+    "turkish",
+    "arabic",
+    "brazilian",
+    "bulgarian",
+    "greek",
+    "ukrainian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "车祸模拟器"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "BeamNG.drive.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "BeamNG/BeamNG.drive.cloud",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "BinLinux/BeamNG.drive.x64",
+          "description": "BeamNG.drive (Linux)",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "BeamNG/BeamNG.drive.cloud",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "BeamNG.drive",
+    "BinLinux/BeamNG.drive.x64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/284160/34f8997c32b2f463caf2014aab4a95109a896ecc.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/17f8af1312bc48e6cd90e5fb639d4981682af260/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/727b938bf07eaf615baf2d9bb6ffebca1fa8b5d5/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/5b9d29c96707cb4b3de0e75428255f7d7c319b7a/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/dff793fdf8325ff89dc5ef596ad20837f9513f52/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/ss_ae4c258e6f13ddf00ee8e72be8bd0b0fc5e67801.1920x1080.jpg?t=1772048121"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/ss_50b8ba7ff80d50af3bd6b1b4e326849555a952a2.1920x1080.jpg?t=1772048121"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/ss_e55bbb37fa7208d720d15e69c23c8d932283b4fe.1920x1080.jpg?t=1772048121"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/ss_ac6c91223f4f12662a9ae7c3a06e2c951a2551f0.1920x1080.jpg?t=1772048121"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/ss_1b129249ad662d242a81a34ee2fdcdcbe064eb32.1920x1080.jpg?t=1772048121"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/ss_9cff66c2f780d440c123c7f6307c3eb72d8aacc0.1920x1080.jpg?t=1772048121"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/ss_fb30bf82ea7220eb8348f4e893b6ce852c1d1d70.1920x1080.jpg?t=1772048121"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/ss_707b21b512dd1fe58e7ea9dcf63af386dd8dc883.1920x1080.jpg?t=1772048121"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/ss_db203ef0e5f31f424839c7d1018f3d725a5f8d92.1920x1080.jpg?t=1772048121"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/ss_cb1441c868e71b36fa4bdb35313274a4687894de.1920x1080.jpg?t=1772048121"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/ss_301f3a78e9b0d32026df499ccd3827ce4a0ea161.1920x1080.jpg?t=1772048121"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/ss_05f195d92421e71e7f0e1ce81420f8a1b6f2ce28.1920x1080.jpg?t=1772048121"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/ss_cef50bccea4a8d67bb1228937f0231d91d32d4af.1920x1080.jpg?t=1772048121"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/ss_4a7ebbd491e3520bd81c4e001a310c56fbb33053.1920x1080.jpg?t=1772048121"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/ss_82d3a9a113b92162377ed60ab0cf208d1ec5bded.1920x1080.jpg?t=1772048121"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Showcase Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257056227/movie.293x165.jpg?t=1726679700",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/284160/757638/a00637fca41f0def6f8ed03b142736fd4d4dacfb/1750489692/dash_h264.mpd?t=1726679700"
+    },
+    {
+      "name": "BeamNG Levels",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256985226/movie.293x165.jpg?t=1702416467",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/284160/634428/64bd84aa9188a776106de3e45645aa6179ad2363/1750489686/dash_h264.mpd?t=1702416467"
+    },
+    {
+      "name": "Ibishu Hopper Crawler",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256770596/movie.293x165.jpg?t=1576834314",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/284160/258472/156d858ae69cef3e60e4ad225151e73c69b0eefd/1750489691/dash_h264.mpd?t=1576834314"
+    },
+    {
+      "name": "Italy Map Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256770600/movie.293x165.jpg?t=1576834355",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/284160/258477/5f26c6c322a599458c0cea76cb5803b789707d07/1750489653/dash_h264.mpd?t=1576834355"
+    },
+    {
+      "name": "Autobello Piccolina Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256770602/movie.293x165.jpg?t=1576847856",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/284160/258479/cf473cf5899b5d8aaf166acd86621a045c035418/1750489680/dash_h264.mpd?t=1576847856"
+    },
+    {
+      "name": "Tech Showcase 2019",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256770598/movie.293x165.jpg?t=1576834364",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/284160/258475/d15d4c345430ce722566a626ad82ab1721e9f698/1750489645/dash_h264.mpd?t=1576834364"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 284160,
+    "store_url": "https://store.steampowered.com/app/284160/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Racing",
+      "Simulation",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Keyboard Only Option",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Surround Sound",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Includes level editor",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Driving",
+      "Physics",
+      "Realistic",
+      "Destruction",
+      "Automobile Sim",
+      "Sandbox",
+      "Open World",
+      "Racing",
+      "Multiplayer",
+      "Moddable",
+      "Singleplayer",
+      "Early Access",
+      "First-Person",
+      "VR",
+      "Third Person",
+      "Funny",
+      "Action",
+      "Adventure",
+      "Exploration"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 392064,
+    "review_negative": 10270,
+    "review_total": 402334,
+    "review_positive_percent": 97.45
+  }
+}

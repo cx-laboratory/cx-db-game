@@ -1,0 +1,226 @@
+{
+  "key": "death-road-to-canada",
+  "name": "Death Road to Canada",
+  "description": "Control a car full of jerks as they explore cities, recruit weird people, rescue dogs, argue with each other, and face gigantic swarms of slow zombies. Randomly generated for a new story and rare events every time you play!",
+  "developers": [
+    "Rocketcat Games"
+  ],
+  "publishers": [
+    "Rocketcat Games"
+  ],
+  "release_date": "2016-07-22",
+  "website": "http://www.deathroadtocanada.com",
+  "tags": [
+    "action",
+    "indie",
+    "rpg",
+    "multiplayer",
+    "pvp",
+    "co-op",
+    "split-screen",
+    "zombies",
+    "pixel-graphics",
+    "action-roguelike",
+    "local-multiplayer",
+    "survival",
+    "roguelike",
+    "character-customization",
+    "comedy",
+    "great-soundtrack",
+    "replay-value",
+    "2d",
+    "funny",
+    "difficult",
+    "roguelite",
+    "memes"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {
+    "schinese": "加拿大死亡之路"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "prog.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "LinuxHome",
+          "path": ".madgarden/DR2C",
+          "pattern": "*.save",
+          "recursive": false
+        },
+        {
+          "root": "LinuxHome",
+          "path": ".madgarden/DR2C",
+          "pattern": "*.slot",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "DR2C.app/Contents/MacOS/DR2C",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "LinuxHome",
+          "path": ".madgarden/DR2C",
+          "pattern": "*.save",
+          "recursive": false
+        },
+        {
+          "root": "LinuxHome",
+          "path": ".madgarden/DR2C",
+          "pattern": "*.slot",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "prog-linux",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "LinuxHome",
+          "path": ".madgarden/DR2C",
+          "pattern": "*.save",
+          "recursive": false
+        },
+        {
+          "root": "LinuxHome",
+          "path": ".madgarden/DR2C",
+          "pattern": "*.slot",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Death Road to Canada",
+    "prog",
+    "DR2C.app/Contents/MacOS/DR2C",
+    "prog-linux"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/252610/dbbe4f65a51a11f39b1e1838d630823044c39ffd.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252610/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252610/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252610/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252610/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252610/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252610/ss_50507cb2bab17be0512f53802aa4570123a26219.1920x1080.jpg?t=1666824491"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252610/ss_bad1cf022858a17f9881007f74b987fe01ed0da4.1920x1080.jpg?t=1666824491"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252610/ss_a0420c3949dd195dc9276981a47cc3c76db3c95f.1920x1080.jpg?t=1666824491"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252610/ss_a092939bc83383ca66fc5f6c6f3bea5fd724bf83.1920x1080.jpg?t=1666824491"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252610/ss_e1fd0bc2d9a95ae2ea438fcad47c4e1267c38033.1920x1080.jpg?t=1666824491"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252610/ss_d02496b9f40a65fa6c77b7295cc9a8738e9f987e.1920x1080.jpg?t=1666824491"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Life on the Death Road",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256701428/movie.293x165.jpg?t=1510954504",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/252610/134067/40085dc3939ba5510faca75e09d67a95ea4ddf32/1750487808/dash_h264.mpd?t=1510954504"
+    },
+    {
+      "name": "DUODENUM Anniversary Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256692168/movie.293x165.jpg?t=1502065450",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/252610/117031/da0548fcfbe5728798ea9c2691c82c152da024df/1750487807/dash_h264.mpd?t=1502065450"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 252610,
+    "store_url": "https://store.steampowered.com/app/252610/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Zombies",
+      "Pixel Graphics",
+      "Action Roguelike",
+      "Local Co-Op",
+      "Survival",
+      "Action",
+      "Roguelike",
+      "Character Customization",
+      "Indie",
+      "Comedy",
+      "Great Soundtrack",
+      "RPG",
+      "Multiplayer",
+      "Replay Value",
+      "Co-op",
+      "2D",
+      "Funny",
+      "Difficult",
+      "Roguelite",
+      "Memes"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 9566,
+    "review_negative": 752,
+    "review_total": 10318,
+    "review_positive_percent": 92.71
+  }
+}

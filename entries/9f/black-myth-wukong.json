@@ -1,0 +1,161 @@
+{
+  "key": "black-myth-wukong",
+  "name": "Black Myth: Wukong",
+  "description": "Black Myth: Wukong is an action RPG rooted in Chinese mythology. You shall set out as the Destined One to venture into the challenges and marvels ahead, to uncover the obscured truth beneath the veil of a glorious legend from the past.",
+  "developers": [
+    "Game Science"
+  ],
+  "publishers": [
+    "Game Science"
+  ],
+  "release_date": "2024-08-20",
+  "website": "https://www.gamesci.cn/wukong",
+  "tags": [
+    "action",
+    "adventure",
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "polish",
+    "czech",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "黑神话：悟空",
+    "tchinese": "黑神話：悟空",
+    "koreana": "검은 신화: 오공",
+    "japanese": "黒神話：悟空"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "b1.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "b1.exe",
+          "description": "Play Black Myth: Wukong (Compatibility Mode)",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Black Myth: Wukong",
+    "b1",
+    "黑神话：悟空",
+    "黑神話：悟空",
+    "검은 신화: 오공",
+    "黒神話：悟空"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2358720/764ad8ff458f7020d63a3f7f0abf6ad8882c05df.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/b7f722ddd5e23503f598586aa3700dd4d827bb2d/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/ss_86c4b7462bba219a0d0b89931a35812b9f188976.1920x1080.jpg?t=1760601605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/ss_d9391ab31a4d15dddf7ba4949bfa44f5d9170580.1920x1080.jpg?t=1760601605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/ss_524a39da392ee83dde091033562bc719d46b5838.1920x1080.jpg?t=1760601605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/ss_968bbc9caceb7d798bd0c393e1e9b4c44ed6d835.1920x1080.jpg?t=1760601605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/ss_415397426d4c939ebb8a93ac66831f28ee7199be.1920x1080.jpg?t=1760601605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/ss_63477e8ce2c0582b81c6ed576377d78e692b5642.1920x1080.jpg?t=1760601605"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Black Myth: Wukong - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257048125/5bd85986ed6b1545d91ceb84714dd06a952fa17f/movie_600x337.jpg?t=1729236218",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2358720/743632/6acf4311bb6a59d300b902ab6a3f445215089d9c/1750812851/dash_h264.mpd?t=1729236218"
+    },
+    {
+      "name": "Black Myth: Wukong - Pre-Orders Now Available",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257029344/f33a1247a6929856238f8176f5cc30c75b84a865/movie_600x337.jpg?t=1729236226",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2358720/710907/cfac50d865dd4c081a67949bef11a498e5a2c67b/1750812850/dash_h264.mpd?t=1729236226"
+    },
+    {
+      "name": "Black Myth: Wukong - Final Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257044448/14ee8023a01fd253fec9018e4d98e09aab09cbf4/movie_600x337.jpg?t=1729236234",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2358720/737384/f7e06da11f0edccfcc36f2ee28dad70d320b15a6/1750812851/dash_h264.mpd?t=1729236234"
+    },
+    {
+      "name": "Black Myth: Wukong Release Date Trailer | The Game Awards 2023",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256987088/7dec31481e6e0ca24e37a6f45c7abdf4edde26d9/movie_600x337.jpg?t=1729236246",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2358720/637370/a11d3df06dd4d8a5c62221262fc33fafca80cd52/1750812850/dash_h264.mpd?t=1729236246"
+    },
+    {
+      "name": "Black Myth: Wukong Gameplay | Gamescom ONL 2023",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256965216/813ef09701102d456493067cf39d407ea0bbe02a/movie_600x337.jpg?t=1729236249",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2358720/599863/2efe2fbdd78b7c51d6892169a0b75e8c47bd6633/1750812850/dash_h264.mpd?t=1729236249"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2358720,
+    "store_url": "https://store.steampowered.com/app/2358720/",
+    "required_age": 13,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Gamepad Recommended",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Surround Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 1160657,
+    "review_negative": 41678,
+    "review_total": 1202335,
+    "review_positive_percent": 96.53
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "key": "super-battle-golf",
+  "name": "Super Battle Golf",
+  "description": "An online 1-8 player golf game where everyone plays at the same time. Swing, shoot, sabotage, and finish first by any means necessary in a free-for-all rush to the hole.",
+  "developers": [
+    "Brimstone"
+  ],
+  "publishers": [
+    "Oro Interactive"
+  ],
+  "release_date": "2026-02-19",
+  "website": "http://brimstone.games",
+  "tags": [
+    "casual",
+    "indie",
+    "sports",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "physics",
+    "comedy",
+    "funny",
+    "golf",
+    "exploration",
+    "3d",
+    "action",
+    "adventure",
+    "colorful",
+    "cute",
+    "character-customization",
+    "third-person",
+    "party-game",
+    "mini-golf",
+    "racing"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "polish",
+    "turkish",
+    "brazilian",
+    "ukrainian",
+    "vietnamese",
+    "latam",
+    "indonesian"
+  ],
+  "name_localized": {
+    "schinese": "超级高尔夫大乱斗",
+    "tchinese": "超級高爾夫大亂鬥"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Super Battle Golf.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Super Battle Golf",
+    "超级高尔夫大乱斗",
+    "超級高爾夫大亂鬥"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4069520/8de662d89d7bbabbccb9ada6c082dcc3c5c61c9d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/60b052f108998c01fed147d07578a2aed9bcd4ee/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/778c2cb70cbb47abb6d82f0bb1aef05cc69e1378/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/0940643e803bdce6e3b7c6560f1970e8ed42dec1/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/d5cfc4375cfe689ad5812a4f7afd60cdd7bd1825/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/a5bf0704312c45ce5af99b6fb7fc7c08b1828806/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/5de3d4f4a2063145fbeae398edaf9dc300ccfc65/ss_5de3d4f4a2063145fbeae398edaf9dc300ccfc65.1920x1080.jpg?t=1782374395"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/d1c2940cce43448a11bc2f232b95d08819b25def/ss_d1c2940cce43448a11bc2f232b95d08819b25def.1920x1080.jpg?t=1782374395"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/2e90632f818b8f7457edee5b5be38bc0ebcfd5b3/ss_2e90632f818b8f7457edee5b5be38bc0ebcfd5b3.1920x1080.jpg?t=1782374395"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/698f5acea2aa6cec71d240f3b0c98fa1a39c870e/ss_698f5acea2aa6cec71d240f3b0c98fa1a39c870e.1920x1080.jpg?t=1782374395"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/da4622f4eec69f997825aac5c7fdd0e4fa22b4f7/ss_da4622f4eec69f997825aac5c7fdd0e4fa22b4f7.1920x1080.jpg?t=1782374395"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/2385c3f43036eb2516ea6dcdfeb770e24d9a8b45/ss_2385c3f43036eb2516ea6dcdfeb770e24d9a8b45.1920x1080.jpg?t=1782374395"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/7cf80ac6d832519cc446b45a425d4f3d908aa8c1/ss_7cf80ac6d832519cc446b45a425d4f3d908aa8c1.1920x1080.jpg?t=1782374395"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/a5a795c4e9219e61e01737e267fef7e9aadbe4da/ss_a5a795c4e9219e61e01737e267fef7e9aadbe4da.1920x1080.jpg?t=1782374395"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/99bd730acd90867cfb427b590ba2b6ffb7b84135/ss_99bd730acd90867cfb427b590ba2b6ffb7b84135.1920x1080.jpg?t=1782374395"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Super Battle Golf - Frozen Fairway Out Now Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257316717/06f937abbe8c61376d84d4ed2c1810e0de21104e/movie_600x337.jpg?t=1775742988",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/4069520/1646991440/60cc9f84ae744b760c6e20ad7299a5d87d199495/1775736083/dash_h264.mpd?t=1775742988"
+    },
+    {
+      "name": "Super Battle Golf - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257290046/cc61672492d947d0001f286c29142f05cdb5a5c2/movie_600x337.jpg?t=1771515790",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/4069520/142283439/f213a991ce71e340e848fc09d7efba12484b095e/1771504544/dash_h264.mpd?t=1771515790"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 4069520,
+    "store_url": "https://store.steampowered.com/app/4069520/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Sports"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Online Co-Op",
+      "Co-op",
+      "Sports",
+      "Physics",
+      "Comedy",
+      "Funny",
+      "Golf",
+      "Exploration",
+      "3D",
+      "Action",
+      "Adventure",
+      "Colorful",
+      "Cute",
+      "PvP",
+      "Character Customization",
+      "Third Person",
+      "Party Game",
+      "Mini Golf",
+      "Racing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8927,
+    "review_negative": 593,
+    "review_total": 9520,
+    "review_positive_percent": 93.77
+  }
+}

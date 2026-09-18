@@ -1,0 +1,127 @@
+{
+  "key": "steam-1567800",
+  "name": "星空列车与白的旅行",
+  "description": "The train you took, piercing the night sky and galloping under the stars, was refreshing-it was really a great value trip. In the solo journey under the refreshing night breeze, I met casual passengers and the loving and loving flight attendants.",
+  "developers": [
+    "しらたまこ"
+  ],
+  "publishers": [
+    "inc.ZOFE"
+  ],
+  "release_date": "2021-05-14",
+  "website": "http://shiratamaco.com/",
+  "tags": [
+    "adventure",
+    "visual-novel",
+    "cute",
+    "anime",
+    "singleplayer",
+    "linear",
+    "wholesome",
+    "sexual-content"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "Simplified Chinese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "星空列车与白的旅行.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Save",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "星空列车与白的旅行"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1567800/2160983ddc31be667ad69d2c5b33a73d6161b266.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1567800/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1567800/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1567800/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1567800/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1567800/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1567800/ss_0a867988459c958759b309d3ae3f8e2b08c492a7.1920x1080.jpg?t=1636464184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1567800/ss_ad089bbbd3d0772108b49957aa9741b572709680.1920x1080.jpg?t=1636464184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1567800/ss_50e787c76248031ad02856e0c01f4aa62fe4ad77.1920x1080.jpg?t=1636464184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1567800/ss_76102ca0e3086cd74392505a7ed86f5028518ed3.1920x1080.jpg?t=1636464184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1567800/ss_63476b6978b052819108d9fd6e22fb67b6012798.1920x1080.jpg?t=1636464184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1567800/ss_b4ab1913fb3fa4dfc25ad22f7f88152e55280894.1920x1080.jpg?t=1636464184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1567800/ss_1832aeb2724f195f7437fa41d32ac56b204ba4a4.1920x1080.jpg?t=1636464184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1567800/ss_ae3665438cffe4eb77788f9b097c6b6a89dc0bda.1920x1080.jpg?t=1636464184"
+    }
+  ],
+  "videos": [
+    {
+      "name": "游戏OP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256824249/movie.293x165.jpg?t=1614932658",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1567800/351179/36e0c4c6947d0440c2eb5aeb822394d60867cd3e/1751004240/dash_h264.mpd?t=1614932658"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1567800,
+    "store_url": "https://store.steampowered.com/app/1567800/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Visual Novel",
+      "Cute",
+      "Adventure",
+      "Anime",
+      "Singleplayer",
+      "Linear",
+      "Wholesome",
+      "Sexual Content"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 6178,
+    "review_negative": 88,
+    "review_total": 6266,
+    "review_positive_percent": 98.6
+  }
+}

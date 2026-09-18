@@ -1,0 +1,253 @@
+{
+  "key": "spiral-knights",
+  "name": "Spiral Knights",
+  "description": "Join the ranks of the Spiral Knights. Stranded on an alien world, you must explore the ever-changing Clockworks beneath its surface.",
+  "developers": [
+    "Grey Havens"
+  ],
+  "publishers": [
+    "Grey Havens"
+  ],
+  "release_date": "2011-06-15",
+  "website": "http://www.spiralknights.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "casual",
+    "indie",
+    "massively-multiplayer",
+    "rpg",
+    "free-to-play",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "dungeon-crawler",
+    "hack-and-slash",
+    "mmorpg",
+    "cute",
+    "great-soundtrack",
+    "action-rpg",
+    "sci-fi",
+    "open-world",
+    "singleplayer",
+    "anime"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "spanish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "java_vm\\bin\\javaw.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "launch64.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "java_vm\\bin\\java",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Spiral Knights",
+    "java_vm\\bin\\javaw",
+    "launch64.sh",
+    "java_vm\\bin\\java"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/99900/d4b1a783f64871474bacfec6b33307e56fa665f7.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/ss_8bc945c7e0b0499532b1784be65bcb84276dc093.1920x1080.jpg?t=1762905100"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/ss_a08642b75f110f2e62c815410d0389a0642bd166.1920x1080.jpg?t=1762905100"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/ss_e2440f9caef378f4980d0c14d6043cce200ff876.1920x1080.jpg?t=1762905100"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/ss_8692b805d32d4035f4e3546e35182b911d666b1b.1920x1080.jpg?t=1762905100"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/ss_796e1492199b49eec58b39edb9bceef563ce8f66.1920x1080.jpg?t=1762905100"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/ss_37edd8d63dd1671f2126694e4c3196895822ef9f.1920x1080.jpg?t=1762905100"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/ss_47209af9a8938478c67b22abaf6d63fbeab5e94c.1920x1080.jpg?t=1762905100"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/ss_52d7fe1fd3430ba0079b2915e3af13682fa8300b.1920x1080.jpg?t=1762905100"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/ss_d41dcec38d9597a1beab1cdbd688a5e08a8da5cd.1920x1080.jpg?t=1762905100"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/ss_898c01eb2873836c8fd7f36ddfc57558e7a309aa.1920x1080.jpg?t=1762905100"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/ss_f1814148c5fa521f6b36bda111a1e6b35d5376dc.1920x1080.jpg?t=1762905100"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/ss_a0b7fa08260ab92d3a7e85b6b5995f7959dd6871.1920x1080.jpg?t=1762905100"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/ss_6574973ba10f8cca0382eed3aa9ad08feced8ffc.1920x1080.jpg?t=1762905100"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/ss_cd23701d5f33639d130b3e61fde8ae502db7e49d.1920x1080.jpg?t=1762905100"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/ss_9abb0113659dd7a602ac7607972adec0f18e229b.1920x1080.jpg?t=1762905100"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/ss_001a4318631a07d5ecd1dd3460c8f69068567488.1920x1080.jpg?t=1762905100"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/ss_22e49d0513ac19f4698f136e0dad5eaa99ce97b8.1920x1080.jpg?t=1762905100"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/ss_8838bbac0c2c17331216a42fd41e00e44b40e9f0.1920x1080.jpg?t=1762905100"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/ss_acb8ed35b61f065afcba9556d9255c135d1d5d8f.1920x1080.jpg?t=1762905100"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/ss_4592dc27eafdde21d9c02c08f079e4a9dccb3566.1920x1080.jpg?t=1762905100"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/ss_f766e3513e5bb4cf0ec5aefc9e8e93313d84d7be.1920x1080.jpg?t=1762905100"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/ss_6753e378efc924458a44ed20b1d15591777e30e6.1920x1080.jpg?t=1762905100"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/ss_a21ea79e3553c0ce2b916da2ae2de0a3302adb50.1920x1080.jpg?t=1762905100"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Spiral Knights: Prologue",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2029772/movie.293x165.jpg?t=1447359212",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/99900/14461/c483e4ca33f74dda465b17277c764b10dc15f674/1750498426/dash_h264.mpd?t=1447359212"
+    },
+    {
+      "name": "Spiral Knights Battle Sprites Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2029059/movie.293x165.jpg?t=1447358466",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/99900/12760/3a3675c430b6f74406a0d115118a195f45112a10/1750498456/dash_h264.mpd?t=1447358466"
+    },
+    {
+      "name": "Spiral Knights Guild Hall Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028130/movie.293x165.jpg?t=1654550580",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/99900/9770/1e5b43c84517836490c642060cabb2d1a4a4165f/1750498399/dash_h264.mpd?t=1654550580"
+    },
+    {
+      "name": "Spiral Knights Winterfest 2012 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028269/movie.293x165.jpg?t=1447357215",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/99900/10155/4f443c1460345b648644cd498866f1f413f0ddff/1750498402/dash_h264.mpd?t=1447357215"
+    },
+    {
+      "name": "Spiral Knights Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80868/movie.293x165.jpg?t=1447354244",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/99900/5170/2016094c2bd4739357c03b448554314983f968e8/1750498392/dash_h264.mpd?t=1447354244"
+    }
+  ],
+  "metacritic": {
+    "score": 64,
+    "url": "https://www.metacritic.com/game/pc/spiral-knights?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 99900,
+    "store_url": "https://store.steampowered.com/app/99900/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "MMO",
+      "Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "Partial Controller Support",
+      "Includes level editor"
+    ],
+    "tags": [
+      "Free to Play",
+      "Massively Multiplayer",
+      "RPG",
+      "Adventure",
+      "Action",
+      "Multiplayer",
+      "Online Co-Op",
+      "Dungeon Crawler",
+      "Hack and Slash",
+      "Co-op",
+      "MMORPG",
+      "Cute",
+      "Great Soundtrack",
+      "Action RPG",
+      "Sci-fi",
+      "Open World",
+      "Casual",
+      "Singleplayer",
+      "Indie",
+      "Anime"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 20218,
+    "review_negative": 3902,
+    "review_total": 24120,
+    "review_positive_percent": 83.82
+  }
+}

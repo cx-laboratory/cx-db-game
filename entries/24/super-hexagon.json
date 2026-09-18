@@ -1,0 +1,168 @@
+{
+  "key": "super-hexagon",
+  "name": "Super Hexagon",
+  "description": "Super Hexagon is a minimal action game by Terry Cavanagh, with music by Chipzel.",
+  "developers": [
+    "Terry Cavanagh"
+  ],
+  "publishers": [
+    "Terry Cavanagh"
+  ],
+  "release_date": "2012-11-27",
+  "website": "http://www.superhexagon.com",
+  "tags": [
+    "action",
+    "indie",
+    "difficult",
+    "great-soundtrack",
+    "fast-paced",
+    "arcade",
+    "addictive",
+    "rhythm",
+    "singleplayer",
+    "minimalist",
+    "score-attack",
+    "music",
+    "2d",
+    "psychedelic",
+    "colorful",
+    "casual",
+    "replay-value",
+    "controller",
+    "puzzle",
+    "soundtrack"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "superhexagon.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Super Hexagon.app",
+          "description": "Mac OSX",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "./SuperHexagon",
+          "description": "Linux",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Super Hexagon",
+    "superhexagon",
+    "Super Hexagon.app",
+    "./SuperHexagon"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/221640/ab2678a5d7768394e7482f89f613c0cf678f13d8.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221640/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221640/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221640/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221640/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221640/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221640/ss_534dfe48501ce998f65340db88698fca6aef82c1.1920x1080.jpg?t=1653925774"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221640/ss_43318bdded67af4734c2ecd2c03a47a6927db0eb.1920x1080.jpg?t=1653925774"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221640/ss_2dc106733cc5a529021d7f186eabd54f3a40665c.1920x1080.jpg?t=1653925774"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221640/ss_6752535a43fb9633cebebf1dbf837b428931d30b.1920x1080.jpg?t=1653925774"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221640/ss_b378a6617a78bad95a7be7277dd97c00347f8ed0.1920x1080.jpg?t=1653925774"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221640/ss_e11b90627d70d0b02ae7b9a67bcd8e2ba96ba69a.1920x1080.jpg?t=1653925774"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Super Hexagon Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/82140/movie.293x165.jpg?t=1447356912",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/221640/9515/d68a7ec1bc020d165da1894a8a640e91c9cb0b44/1751246554/dash_h264.mpd?t=1447356912"
+    }
+  ],
+  "metacritic": {
+    "score": 88,
+    "url": "https://www.metacritic.com/game/pc/super-hexagon?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 221640,
+    "store_url": "https://store.steampowered.com/app/221640/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Full controller support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Difficult",
+      "Great Soundtrack",
+      "Indie",
+      "Fast-Paced",
+      "Arcade",
+      "Addictive",
+      "Rhythm",
+      "Singleplayer",
+      "Minimalist",
+      "Action",
+      "Score Attack",
+      "Music",
+      "2D",
+      "Psychedelic",
+      "Colorful",
+      "Casual",
+      "Replay Value",
+      "Controller",
+      "Puzzle",
+      "Soundtrack"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 24251,
+    "review_negative": 783,
+    "review_total": 25034,
+    "review_positive_percent": 96.87
+  }
+}

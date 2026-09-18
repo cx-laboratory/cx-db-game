@@ -1,0 +1,181 @@
+{
+  "key": "gaokao-love-100days",
+  "name": "Gaokao.Love.100Days",
+  "description": "Getting a girl-friend before National College Entrance Exam, I know it's crazy, but from today, we will face everything together.",
+  "developers": [
+    "高考恋爱委员会"
+  ],
+  "publishers": [
+    "NVLMaker"
+  ],
+  "release_date": "2015-05-31",
+  "website": "",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "simulation",
+    "dating-sim",
+    "visual-novel",
+    "multiple-endings",
+    "romance",
+    "nudity",
+    "anime",
+    "cute",
+    "sexual-content",
+    "hentai",
+    "choices-matter"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "schinese",
+    "tchinese"
+  ],
+  "name_localized": {
+    "schinese": "高考恋爱一百天",
+    "tchinese": "高考戀愛一百天"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "gaokao100.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "savedata",
+          "pattern": "*.*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "NavilaSoftware/Gaokao100HD/SaveData",
+          "pattern": "*.nvlsav",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "NavilaSoftware/Gaokao100HD/SaveData",
+          "pattern": "*.jpg",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Gaokao.Love.100Days",
+    "gaokao100",
+    "高考恋爱一百天",
+    "高考戀愛一百天"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/347620/55c2031e026a5e3b96b3052afe3a6bed664f545f.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347620/1f24ea33afbf5227d64b846695a7009512c7d764/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347620/c68ccb5b2bd7b96a00b7edae67cf24857564b3f3/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347620/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347620/78d2a6b90e8f96e3f59666b1b196a94cffbc2394/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347620/d41921c4f7fa8a01eb08c5b9a3c8c9b68bbf72d7/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347620/d146863b571614ca5d090884490fd015006bf50f/ss_d146863b571614ca5d090884490fd015006bf50f.1920x1080.jpg?t=1763694727"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347620/6ede9cb3df2009dffa0994b49a72d783613492e4/ss_6ede9cb3df2009dffa0994b49a72d783613492e4.1920x1080.jpg?t=1763694727"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347620/31c1a1dadc189cc7e65f9080bf8787ff83e08d8e/ss_31c1a1dadc189cc7e65f9080bf8787ff83e08d8e.1920x1080.jpg?t=1763694727"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347620/1c8a845faefd56208426b6f676dfe102964b4b8b/ss_1c8a845faefd56208426b6f676dfe102964b4b8b.1920x1080.jpg?t=1763694727"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347620/184c148e0e7c3505c02ff0a0c9f02c87d531b29e/ss_184c148e0e7c3505c02ff0a0c9f02c87d531b29e.1920x1080.jpg?t=1763694727"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347620/a95950e2e18289a27c8bccbc3158eeda8afbce74/ss_a95950e2e18289a27c8bccbc3158eeda8afbce74.1920x1080.jpg?t=1763694727"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347620/e7560bf7b69d7beac6c1219c9a0cd0690003a831/ss_e7560bf7b69d7beac6c1219c9a0cd0690003a831.1920x1080.jpg?t=1763694727"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347620/8f02e21d38274b9e1604cf287338e1e8159df420/ss_8f02e21d38274b9e1604cf287338e1e8159df420.1920x1080.jpg?t=1763694727"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347620/1ac4c120b2acc15865971e8eaa3951bffb01a36b/ss_1ac4c120b2acc15865971e8eaa3951bffb01a36b.1920x1080.jpg?t=1763694727"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347620/6f414ce955bc0a35d4c284d509388b251e665fb5/ss_6f414ce955bc0a35d4c284d509388b251e665fb5.1920x1080.jpg?t=1763694727"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347620/bd8ef680545d064e9501b1af9df075eeb55a1287/ss_bd8ef680545d064e9501b1af9df075eeb55a1287.1920x1080.jpg?t=1763694727"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Promotional Video English",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2038279/movie.293x165.jpg?t=1447372195",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/347620/33753/93eef1f4d123d64561cf9c9d44a2aab3adb9a60b/1751267714/dash_h264.mpd?t=1447372195"
+    },
+    {
+      "name": "new_ending_2in1",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257232684/31b7ee59cebefcff81498042c24d9330d50dd2cc/movie_600x337.jpg?t=1763694724",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/347620/2124140281/bb925b8786dfdce6ceeeedafdf333f001d38e053/1763304182/dash_h264.mpd?t=1763694724"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 347620,
+    "store_url": "https://store.steampowered.com/app/347620/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Dating Sim",
+      "Visual Novel",
+      "Multiple Endings",
+      "Romance",
+      "Nudity",
+      "Simulation",
+      "Anime",
+      "Casual",
+      "Indie",
+      "Cute",
+      "Sexual Content",
+      "Adventure",
+      "Psychological Horror",
+      "Hentai",
+      "Choices Matter"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7379,
+    "review_negative": 844,
+    "review_total": 8223,
+    "review_positive_percent": 89.74
+  }
+}

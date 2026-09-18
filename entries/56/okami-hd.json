@@ -1,0 +1,154 @@
+{
+  "key": "okami-hd",
+  "name": "Okami HD",
+  "description": "Experience the critically acclaimed masterpiece with its renowned Sumi-e ink art style in breathtaking high resolution.",
+  "developers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "publishers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "release_date": "2017-12-13",
+  "website": "",
+  "tags": [
+    "adventure",
+    "mythology",
+    "great-soundtrack",
+    "story-rich",
+    "singleplayer",
+    "female-protagonist",
+    "classic",
+    "atmospheric",
+    "stylized",
+    "action",
+    "colorful",
+    "open-world",
+    "fantasy",
+    "action-rpg",
+    "action-adventure",
+    "anime",
+    "rpg",
+    "jrpg",
+    "remake",
+    "dogs"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "japanese"
+  ],
+  "name_localized": {
+    "japanese": "大神 絶景版"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "okami.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Okami HD",
+    "okami",
+    "大神 絶景版"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/587620/fb528ddda674892e2430fbf4a3b2e79cd16e35c9.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/587620/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/587620/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/587620/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/587620/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/587620/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/587620/ss_3da8f9bf08227a90ecf03819f391a49ba18d521a.1920x1080.jpg?t=1733787035"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/587620/ss_21797469f5b8a59e5013944931b111b39af37401.1920x1080.jpg?t=1733787035"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/587620/ss_71f6af1f989df2aa6bc4e07a9ae407609c264b2e.1920x1080.jpg?t=1733787035"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/587620/ss_cd53a4f4e19997789b43d4ffbfae495a338da93e.1920x1080.jpg?t=1733787035"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/587620/ss_710d81600bb11d79bb0f9335a408f5c242183ec2.1920x1080.jpg?t=1733787035"
+    }
+  ],
+  "videos": [
+    {
+      "name": "ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256696525/movie.293x165.jpg?t=1513107646",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/587620/125006/23d68faba97b4fb0677ac92e0b523c7879bdda3f/1750556919/dash_h264.mpd?t=1513107646"
+    },
+    {
+      "name": "ESRB_LaunchTrailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256703455/movie.293x165.jpg?t=1513107700",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/587620/137520/6b99519d3692c6e2b270a23f6d19d90ca46e01b4/1750556998/dash_h264.mpd?t=1513107700"
+    }
+  ],
+  "metacritic": {
+    "score": 92,
+    "url": "https://www.metacritic.com/game/pc/okami-hd?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 587620,
+    "store_url": "https://store.steampowered.com/app/587620/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Adventure",
+      "Mythology",
+      "Great Soundtrack",
+      "Story Rich",
+      "Singleplayer",
+      "Female Protagonist",
+      "Classic",
+      "Atmospheric",
+      "Stylized",
+      "Action",
+      "Colorful",
+      "Open World",
+      "Fantasy",
+      "Action RPG",
+      "Action-Adventure",
+      "Anime",
+      "RPG",
+      "JRPG",
+      "Remake",
+      "Dogs"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 9763,
+    "review_negative": 850,
+    "review_total": 10613,
+    "review_positive_percent": 91.99
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "key": "murder-miners",
+  "name": "Murder Miners",
+  "description": "The #1 rated Xbox Live Indie Game. Halo-inspired. Destructible/constructible environments. Vehicles. Zombie survival. Hookshots. Infection mode: Be the zombie &amp; eat the dead to level up your zombie abilities. Community playdates are still hosted every week, join us!",
+  "developers": [
+    "JForce Games"
+  ],
+  "publishers": [
+    "JForce Games"
+  ],
+  "release_date": "2014-07-26",
+  "website": "",
+  "tags": [
+    "action",
+    "casual",
+    "indie",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "split-screen",
+    "voxel",
+    "arena-shooter",
+    "zombies",
+    "fps",
+    "competitive",
+    "level-editor",
+    "first-person",
+    "4-player-local",
+    "shooter",
+    "building",
+    "local-multiplayer",
+    "sandbox",
+    "sniper",
+    "retro"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Murder Miners.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "SavedGames/Murder Miners/MurderMinersSaveData/Player1",
+          "pattern": "[SteamCloud]*.cvxl",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "SavedGames/Murder Miners/MurderMinersAnniversarySaveData/Player1",
+          "pattern": "*.cvxl",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "SavedGames/Murder Miners/MurderMinersClassicSaveData/Player1",
+          "pattern": "[SteamCloud]*.cvxl",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Murder Miners.app",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "SavedGames/Murder Miners/MurderMinersSaveData/Player1",
+          "pattern": "[SteamCloud]*.cvxl",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "SavedGames/Murder Miners/MurderMinersAnniversarySaveData/Player1",
+          "pattern": "*.cvxl",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "SavedGames/Murder Miners/MurderMinersClassicSaveData/Player1",
+          "pattern": "[SteamCloud]*.cvxl",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "./MurderMiners",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "SavedGames/Murder Miners/MurderMinersSaveData/Player1",
+          "pattern": "[SteamCloud]*.cvxl",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "SavedGames/Murder Miners/MurderMinersAnniversarySaveData/Player1",
+          "pattern": "*.cvxl",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "SavedGames/Murder Miners/MurderMinersClassicSaveData/Player1",
+          "pattern": "[SteamCloud]*.cvxl",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Murder Miners",
+    "Murder Miners.app",
+    "./MurderMiners"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/274900/0ba9a54e98ca963a8cabee36325f873f0b164c62.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274900/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274900/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274900/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274900/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274900/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274900/ss_314f692815655f9ee3017b5ae34d518749288046.1920x1080.jpg?t=1739220160"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274900/ss_1ffb0b70942dbf66228d5d7534d83a451f55593e.1920x1080.jpg?t=1739220160"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274900/ss_3581f7c189eb2684e56817e9cb819709902a4add.1920x1080.jpg?t=1739220160"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274900/ss_2d0fa2e317fd7af0bb8a0f0c3019324859a54c5b.1920x1080.jpg?t=1739220160"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274900/ss_69c5d1ddd9239e88061fd1594e750cb34551f6d1.1920x1080.jpg?t=1739220160"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274900/ss_5f2ceac68b2556d6a089aecc7903a5a1c78eab4d.1920x1080.jpg?t=1739220160"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274900/ss_f37126a78d71c0f5ec1e7b946c9940b18c43d789.1920x1080.jpg?t=1739220160"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274900/ss_aeee26b0ecbfc44b3040edcaa0ca8b9dfeb2d94d.1920x1080.jpg?t=1739220160"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274900/ss_4ba7fa1a70a1deaa70d5220bb3c10ac90a6b359b.1920x1080.jpg?t=1739220160"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274900/ss_9f721acbc3be87c2865ba1ccf85733f145146a81.1920x1080.jpg?t=1739220160"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2033571/movie.293x165.jpg?t=1447362817",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/274900/23323/7f5544b16dbbbd1eee1687b02f8d43a53b18f1b0/1750500237/dash_h264.mpd?t=1447362817"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 274900,
+    "store_url": "https://store.steampowered.com/app/274900/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Includes level editor",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Split Screen",
+      "Voxel",
+      "Arena Shooter",
+      "Zombies",
+      "PvP",
+      "FPS",
+      "Competitive",
+      "Level Editor",
+      "First-Person",
+      "4 Player Local",
+      "Shooter",
+      "Multiplayer",
+      "Building",
+      "Action",
+      "Local Multiplayer",
+      "Sandbox",
+      "Indie",
+      "Sniper",
+      "Retro",
+      "Co-op"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 5491,
+    "review_negative": 875,
+    "review_total": 6366,
+    "review_positive_percent": 86.26
+  }
+}

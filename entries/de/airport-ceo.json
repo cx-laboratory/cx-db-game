@@ -1,0 +1,249 @@
+{
+  "key": "airport-ceo",
+  "name": "Airport CEO",
+  "description": "Build and manage an international airport!",
+  "developers": [
+    "Apog Labs"
+  ],
+  "publishers": [
+    "Apog Labs"
+  ],
+  "release_date": "2021-03-05",
+  "website": "https://www.airportceo.com/",
+  "tags": [
+    "indie",
+    "simulation",
+    "strategy",
+    "resource-management",
+    "moddable",
+    "management",
+    "singleplayer",
+    "flight",
+    "building",
+    "immersive-sim",
+    "sandbox",
+    "automation",
+    "capitalism",
+    "top-down",
+    "2d",
+    "realistic",
+    "economy",
+    "transportation",
+    "city-builder",
+    "base-building",
+    "logic"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish - Spain",
+    "Portuguese - Brazil",
+    "Russian",
+    "Dutch",
+    "Turkish",
+    "Czech",
+    "Simplified Chinese",
+    "Italian",
+    "Polish"
+  ],
+  "name_localized": {
+    "schinese": "机场CEO"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Airport CEO.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Apoapsis Studios/Airport CEO/Saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Airport CEO.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Apoapsis Studios/Airport CEO/Saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Airport CEO",
+    "Airport CEO.app",
+    "机场CEO"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/673610/d42b838600cabaee3d940413b15d116ad3d9e5b7.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/ss_04340464e643ebe794e559eaf17c706ff3bf9fa0.1920x1080.jpg?t=1749627554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/ss_47df0b707422a7caf69590b9ebdcc3dee812af64.1920x1080.jpg?t=1749627554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/ss_1a5591abaee6ebbecfb97193d070565e5b679f3b.1920x1080.jpg?t=1749627554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/ss_e668cc96a07d1367795a062b61dd8917beb2144f.1920x1080.jpg?t=1749627554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/ss_50b6dca686ce6faf4a63be0232517f8b28b78e75.1920x1080.jpg?t=1749627554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/ss_3c8f300a904509a9be66988dfca66a35b16e80fb.1920x1080.jpg?t=1749627554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/ss_8759b756f783274aab062de1cd1cb394a6597a2a.1920x1080.jpg?t=1749627554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/ss_4c828e6a7631f636395880f3ced7cea74ab05cc3.1920x1080.jpg?t=1749627554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/ss_55344f6a36fc29769df71ca88bd814538a59b6df.1920x1080.jpg?t=1749627554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/ss_fb83bbd876af5bd735dc8e3981c5f4500eaef88f.1920x1080.jpg?t=1749627554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/ss_a983220598651d49f300590a6f012b9029671335.1920x1080.jpg?t=1749627554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/ss_513a38d5ea298f82c868c041f8de03f88c0dc67d.1920x1080.jpg?t=1749627554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/ss_2edab7a3d618732255b1eee0d3e7d6c8b1a6ed7f.1920x1080.jpg?t=1749627554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/ss_18c48bf4d01a9ad4f8e941c9292550f40ae30c8c.1920x1080.jpg?t=1749627554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/ss_2ab47f540c8af8bbf33159af953d8b74c3e51828.1920x1080.jpg?t=1749627554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/ss_8fd7d24ded203f72a6cb5ff97e689ea08398beed.1920x1080.jpg?t=1749627554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/ss_b3869caa5a6fb156aeebd6053dc2f58384274010.1920x1080.jpg?t=1749627554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/ss_9d5ab82ab8d7560c90b8a50732fb40eb2b9d30a7.1920x1080.jpg?t=1749627554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/ss_2548f3c205e0a654736847d307b56f0f9e17c803.1920x1080.jpg?t=1749627554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/ss_de86b3f2ff8133b086963e3e9476675b770b7dc7.1920x1080.jpg?t=1749627554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/ss_a5088685732c877e5cb4283c1ac2017472c163bc.1920x1080.jpg?t=1749627554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/ss_85e6d4e2949a89b46aac7d499cc2127108ad114d.1920x1080.jpg?t=1749627554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/ss_0cbf908e8ad24dd2a13be72f9c93cbb708ed6116.1920x1080.jpg?t=1749627554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/ss_a22e70c74f3a8ececb9a164b9d674e5c5ed2b03f.1920x1080.jpg?t=1749627554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/ss_a6357ab8774afe325b310008a2264f766b0e074e.1920x1080.jpg?t=1749627554"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673610/ss_4c2a9f0d499a278e7d39e2e0dbd4792548b6f396.1920x1080.jpg?t=1749627554"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Airport CEO Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256797622/movie.293x165.jpg?t=1683112066",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/673610/306462/f7cd46af559116310cb398bfc935ae0d39279c65/1751129267/dash_h264.mpd?t=1683112066"
+    },
+    {
+      "name": "Airport CEO Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256821190/movie.293x165.jpg?t=1683112073",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/673610/345878/007bf457419ff0843d19280c5c9fc08363ed9662/1751129268/dash_h264.mpd?t=1683112073"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 673610,
+    "store_url": "https://store.steampowered.com/app/673610/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Resource Management",
+      "Moddable",
+      "Management",
+      "Simulation",
+      "Singleplayer",
+      "Flight",
+      "Building",
+      "Immersive Sim",
+      "Strategy",
+      "Sandbox",
+      "Automation",
+      "Capitalism",
+      "Top-Down",
+      "2D",
+      "Realistic",
+      "Economy",
+      "Transportation",
+      "City Builder",
+      "Base Building",
+      "Logic"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 6867,
+    "review_negative": 1396,
+    "review_total": 8263,
+    "review_positive_percent": 83.11
+  }
+}

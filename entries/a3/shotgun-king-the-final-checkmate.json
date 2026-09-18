@@ -1,0 +1,266 @@
+{
+  "key": "shotgun-king-the-final-checkmate",
+  "name": "Shotgun King: The Final Checkmate",
+  "description": "Chess, but you replace your entire army with a royal shotgun. A unique strategy roguelike based on the timeless checkboard classic.",
+  "developers": [
+    "PUNKCAKE Delicieux"
+  ],
+  "publishers": [
+    "PUNKCAKE Delicieux"
+  ],
+  "release_date": "2022-05-12",
+  "website": "",
+  "tags": [
+    "action",
+    "indie",
+    "strategy",
+    "chess",
+    "turn-based-strategy",
+    "roguelike",
+    "action-roguelike",
+    "arcade",
+    "pixel-graphics",
+    "tabletop",
+    "choices-matter",
+    "retro",
+    "atmospheric",
+    "shooter",
+    "roguelite",
+    "top-down-shooter",
+    "2d",
+    "stylized",
+    "turn-based-tactics",
+    "cartoon",
+    "top-down"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "dutch",
+    "romanian",
+    "brazilian",
+    "ukrainian",
+    "vietnamese",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "shotgun_king.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "shotgun_king.exe",
+          "description": "Compatibility mode - CRT effect disabled",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "save",
+          "pattern": "*.bnk",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "save",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "save/mods",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "shotgun_king.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "save",
+          "pattern": "*.bnk",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "save",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "save/mods",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "shotgun_king",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "save",
+          "pattern": "*.bnk",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "save",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "save/mods",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Shotgun King: The Final Checkmate",
+    "shotgun_king",
+    "shotgun_king.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1972440/ad9c5dc98995fc91612d3e6b5cab7ca56ea8fb47.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1972440/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1972440/2a0e3105097770c33f8a7167a4a9a08e9d826bc5/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1972440/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1972440/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1972440/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1972440/ss_4511fa422f9cff295082d2e1aadde139f381fbc5.1920x1080.jpg?t=1779871580"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1972440/ss_59feb4bf13433055b9dfdfd33f1603f53e8d3e30.1920x1080.jpg?t=1779871580"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1972440/ss_518fd0291cdae2d9ea23773274228588b22b68c5.1920x1080.jpg?t=1779871580"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1972440/ss_fe61bfd5bbe954b5ae1edeb2a77d88ca7f30c1d3.1920x1080.jpg?t=1779871580"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1972440/ss_cafd08892a12859453e761522d30838d4713f5d2.1920x1080.jpg?t=1779871580"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1972440/ss_66f039b4a48eb9597bbc3e2e7195d6b0581b328f.1920x1080.jpg?t=1779871580"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1972440/ss_4f81c935daa9559811ccdaab0087e76fbf520664.1920x1080.jpg?t=1779871580"
+    }
+  ],
+  "videos": [
+    {
+      "name": "v1.6 Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257318077/cc92fb44cc73c17f3f7569f66c4b37312ce4b023/movie_600x337.jpg?t=1775929388",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1972440/1771294905/3528e050f2759e897083702df8910f580228a942/1775928597/dash_h264.mpd?t=1775929388"
+    },
+    {
+      "name": "v1.5 Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257060458/210d57eb7026c0225f331ac23de2cada5f78eb69/movie_600x337.jpg?t=1727726345",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1972440/764228/f2c7614db78a99c5371331e6427bda1d67422333/1750743322/dash_h264.mpd?t=1727726345"
+    },
+    {
+      "name": "Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256886304/movie.293x165.jpg?t=1727726349",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1972440/462530/3b7c060f9d50fc4b1a62367416326c801f2dfed5/1750743321/dash_h264.mpd?t=1727726349"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1972440,
+    "store_url": "https://store.steampowered.com/app/1972440/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Workshop",
+      "Custom Volume Controls",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Chess",
+      "Turn-Based Strategy",
+      "Roguelike",
+      "Strategy",
+      "Action Roguelike",
+      "Arcade",
+      "Pixel Graphics",
+      "Tabletop",
+      "Choices Matter",
+      "Retro",
+      "Atmospheric",
+      "Action",
+      "Shooter",
+      "Roguelite",
+      "Top-Down Shooter",
+      "2D",
+      "Stylized",
+      "Turn-Based Tactics",
+      "Cartoon",
+      "Top-Down"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 6684,
+    "review_negative": 647,
+    "review_total": 7331,
+    "review_positive_percent": 91.17
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "key": "vampire-the-masquerade-bloodlines",
+  "name": "Vampire: The Masquerade - Bloodlines",
+  "description": "Vampire®: The Masquerade-Bloodlines™ delivers a new type of RPG experience-one that blends all the core elements of a traditional RPG with the graphical richness, immediacy and brutal combat of a first-person action game. The game plunges players into the dark and gritty vampire underworld of modern-day L.A. as a creature of the night.",
+  "developers": [
+    "Troika Games"
+  ],
+  "publishers": [
+    "Activision"
+  ],
+  "release_date": "2007-03-22",
+  "website": "http://www.vampirebloodlines.com",
+  "tags": [
+    "action"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "vampire.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Vampire: The Masquerade - Bloodlines",
+    "vampire"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2600/9fd08d0034ba09d371e1f1a179a0a3af6c36d1f0.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600/0000001149.1920x1080.jpg?t=1604376441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600/0000001150.1920x1080.jpg?t=1604376441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600/0000001151.1920x1080.jpg?t=1604376441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600/0000001152.1920x1080.jpg?t=1604376441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600/0000001153.1920x1080.jpg?t=1604376441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600/0000001154.1920x1080.jpg?t=1604376441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600/0000001155.1920x1080.jpg?t=1604376441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600/0000001156.1920x1080.jpg?t=1604376441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600/0000001157.1920x1080.jpg?t=1604376441"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2600/0000001158.1920x1080.jpg?t=1604376441"
+    }
+  ],
+  "videos": [],
+  "metacritic": {
+    "score": 80,
+    "url": "https://www.metacritic.com/game/pc/vampire-the-masquerade---bloodlines?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 2600,
+    "store_url": "https://store.steampowered.com/app/2600/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 14383,
+    "review_negative": 849,
+    "review_total": 15232,
+    "review_positive_percent": 94.43
+  }
+}

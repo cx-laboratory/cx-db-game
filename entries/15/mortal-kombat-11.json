@@ -1,0 +1,188 @@
+{
+  "key": "mortal-kombat-11",
+  "name": "Mortal Kombat 11",
+  "description": "Mortal Kombat is back and better than ever in the next evolution of the iconic franchise.",
+  "developers": [
+    "NetherRealm Studios"
+  ],
+  "publishers": [
+    "Warner Bros. Games"
+  ],
+  "release_date": "2019-04-24",
+  "website": "http://mortalkombat.com/",
+  "tags": [
+    "action",
+    "multiplayer",
+    "pvp",
+    "online-pvp"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "polish",
+    "arabic",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Binaries\\Retail\\MK11.exe",
+          "description": "Denuvo_executable (PROD)",
+          "type": "default"
+        },
+        {
+          "executable": "\\Binaries\\Retail\\MK11Game-RetailCheatsOn.exe",
+          "description": "Debug_executable",
+          "type": "option1"
+        },
+        {
+          "executable": "\\Binaries\\Retail\\MK11Game-Retail.exe",
+          "description": "No-Denuvo_executable",
+          "type": "option2"
+        },
+        {
+          "executable": "Binaries\\Retail\\MK11_DX12.exe",
+          "description": "DirectX 12 (Windows 10 required)",
+          "type": "option3"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Mortal Kombat 11",
+    "Binaries\\Retail\\MK11",
+    "\\Binaries\\Retail\\MK11Game-RetailCheatsOn",
+    "\\Binaries\\Retail\\MK11Game-Retail",
+    "Binaries\\Retail\\MK11_DX12"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/976310/315c46ce25bcb6afa47473588b5fd8edeb3afdfa.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/ss_e5cd8debd74027dbfafd9729fc32986a63393333.1920x1080.jpg?t=1780429525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/ss_4fa4fd2ea1b7ff6c6b699dc9eb717986f80845a4.1920x1080.jpg?t=1780429525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/ss_aa70f659fe14e3c07033474249096b60c17021b3.1920x1080.jpg?t=1780429525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/ss_b0e8bcfcebf910a6606a7903d2e23ec589c0c45b.1920x1080.jpg?t=1780429525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/ss_ecddafdaee86bfb66b0a7290dda445f43195b48d.1920x1080.jpg?t=1780429525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/ss_4a9c1909083a75dcf684d79806afd9d9b46e432a.1920x1080.jpg?t=1780429525"
+    }
+  ],
+  "videos": [
+    {
+      "name": "New Era",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256813084/movie.293x165.jpg?t=1607567246",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/976310/332672/8f6e1b6366ce432e28d6e3df6d5b97e09a0a0a44/1750603056/dash_h264.mpd?t=1607567246"
+    },
+    {
+      "name": "Hype Trailer NR",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256742028/movie.293x165.jpg?t=1549069619",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/976310/207492/e4213e60ba6acf8eaf8698519736e26302a84809/1750602970/dash_h264.mpd?t=1549069619"
+    },
+    {
+      "name": "Story Prologue Trailer NR",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256742029/movie.293x165.jpg?t=1549069612",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/976310/207493/1d13800206a29539d81c5d2d550eeab5a3702b91/1750602975/dash_h264.mpd?t=1549069612"
+    },
+    {
+      "name": "Evolution Trailer NR",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256742033/movie.293x165.jpg?t=1549069583",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/976310/207497/c46d0f798f6dd8a454135c3d2dedc19f3240481a/1750603041/dash_h264.mpd?t=1549069583"
+    },
+    {
+      "name": "Fatality Trailer NR",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256742032/movie.293x165.jpg?t=1549069590",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/976310/207496/fbb68426e3733c14a1ad4b3fa66ef884234a6601/1750603002/dash_h264.mpd?t=1549069590"
+    },
+    {
+      "name": "Sonya Blade Trailer NR",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256742030/movie.293x165.jpg?t=1549069605",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/976310/207494/28bdb9763b344f7ab4587a5096718f5f82546cec/1750602977/dash_h264.mpd?t=1549069605"
+    },
+    {
+      "name": "Announce Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256737736/movie.293x165.jpg?t=1544158864",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/976310/199632/14daa9dc8d3cc31b2e5503f0e83994add567c7f4/1750602954/dash_h264.mpd?t=1544158864"
+    },
+    {
+      "name": "Geras Trailer NR",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256742031/movie.293x165.jpg?t=1549069598",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/976310/207495/0ba680e395cd5de5fbdf723c1d78b9bc4b0baee7/1750602987/dash_h264.mpd?t=1549069598"
+    }
+  ],
+  "metacritic": {
+    "score": 82,
+    "url": "https://www.metacritic.com/game/pc/mortal-kombat-11?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 976310,
+    "store_url": "https://store.steampowered.com/app/976310/",
+    "required_age": 18,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "Custom Volume Controls",
+      "Keyboard Only Option",
+      "Narrated Game Menus",
+      "Stereo Sound",
+      "Surround Sound",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 101304,
+    "review_negative": 13758,
+    "review_total": 115062,
+    "review_positive_percent": 88.04
+  }
+}

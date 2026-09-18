@@ -1,0 +1,198 @@
+{
+  "key": "citizen-sleeper",
+  "name": "Citizen Sleeper",
+  "description": "Roleplaying in the ruins of interplanetary capitalism. Live the life of an escaped worker, washed-up on a lawless station at the edge of an interstellar society. Inspired by the flexibility and freedom of TTRPGs, explore the station, choose your friends, escape your past and change your future.",
+  "developers": [
+    "Jump Over The Age"
+  ],
+  "publishers": [
+    "Fellow Traveller"
+  ],
+  "release_date": "2022-05-05",
+  "website": "https://www.fellowtraveller.games/citizen-sleeper",
+  "tags": [
+    "adventure",
+    "indie",
+    "rpg",
+    "dialogue-heavy",
+    "story-rich",
+    "dice",
+    "sci-fi",
+    "cyberpunk",
+    "narrative",
+    "tabletop",
+    "interactive-fiction",
+    "dystopian",
+    "text-based",
+    "hand-drawn",
+    "multiple-endings",
+    "space",
+    "artificial-intelligence",
+    "futuristic",
+    "atmospheric",
+    "exploration"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "french",
+    "schinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "japanese": "シチズン・スリーパー",
+    "schinese": "深空梦里人"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Citizen Sleeper.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Jump Over the Age/Citizen Sleeper",
+          "pattern": "*.dat",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Citizen Sleeper.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Jump Over the Age/Citizen Sleeper",
+          "pattern": "*.dat",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Citizen Sleeper",
+    "Citizen Sleeper.app",
+    "シチズン・スリーパー",
+    "深空梦里人"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1578650/39a0deacdbdfdb97ef9e634282db10973e39c681.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578650/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578650/b875228502cf99c29540c4fd5ba33bdd6989b397/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578650/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578650/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578650/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578650/ss_6b528fa7988c1e5048871f3c530be67ce574eadb.1920x1080.jpg?t=1780960841"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578650/ss_9db68bf85c1d9e44331f5a8dd4134aae8a744076.1920x1080.jpg?t=1780960841"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578650/ss_730f225650cb14351559b6e51045bc93f207593f.1920x1080.jpg?t=1780960841"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578650/ss_2b9b5a8363db89fad8386d91b3427900632be27f.1920x1080.jpg?t=1780960841"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578650/ss_fc1ae5d631574cf95d41d220f30a9801d543c1f3.1920x1080.jpg?t=1780960841"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578650/ss_3c7e890b9de4017c88f6b6811bcb7f8b5eac0654.1920x1080.jpg?t=1780960841"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578650/ss_4f29f1e35829ac04209aebb383bd4856272ff34a.1920x1080.jpg?t=1780960841"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578650/ss_0a71ab72cc925ea40a454aae6f3805734510499c.1920x1080.jpg?t=1780960841"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578650/ss_2e39beaf538199d9a8f1369046fd1f235d3e37c3.1920x1080.jpg?t=1780960841"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578650/ss_cff3e5c6103d5fc59f014c355125e5c23fbe85ff.1920x1080.jpg?t=1780960841"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Out Now Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256934033/movie.293x165.jpg?t=1706587648",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1578650/545153/eaf66df68e6ff868e50a95aec85d0409c8aadc40/1750703533/dash_h264.mpd?t=1706587648"
+    }
+  ],
+  "metacritic": {
+    "score": 82,
+    "url": "https://www.metacritic.com/game/pc/citizen-sleeper?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1578650,
+    "store_url": "https://store.steampowered.com/app/1578650/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "RPG",
+      "Dialogue Heavy",
+      "Story Rich",
+      "Dice",
+      "Sci-fi",
+      "Cyberpunk",
+      "Narrative",
+      "Tabletop",
+      "Interactive Fiction",
+      "Dystopian ",
+      "Text-Based",
+      "Indie",
+      "Hand-drawn",
+      "Multiple Endings",
+      "Space",
+      "Artificial Intelligence",
+      "Futuristic",
+      "Atmospheric",
+      "Exploration",
+      "Adventure"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 9486,
+    "review_negative": 775,
+    "review_total": 10261,
+    "review_positive_percent": 92.45
+  }
+}

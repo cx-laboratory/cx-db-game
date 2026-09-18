@@ -1,0 +1,124 @@
+{
+  "key": "assassins-creed-rogue",
+  "name": "Assassin's Creed Rogue",
+  "description": "Introducing Assassin’s Creed® Rogue, the darkest chapter in the Assassin’s Creed franchise yet. As Shay, you will experience the slow transformation from Assassin to Assassin Hunter. Follow your own creed and set off on an extraordinary journey through New York City, the wild river valley, and far away to the icy cold waters of the North...",
+  "developers": [
+    "Ubisoft Sofia"
+  ],
+  "publishers": [
+    "Ubisoft"
+  ],
+  "release_date": "2015-03-11",
+  "website": "http://assassinscreed.ubi.com/",
+  "tags": [
+    "action",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "dutch",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ACC.exe",
+          "description": "Launch Assassin's Creed Rogue",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Assassin's Creed Rogue",
+    "ACC"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/311560/422e9d527f4a509a179cfbd2832b47db793d8000.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311560/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311560/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311560/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311560/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311560/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311560/ss_907bf97f0b1f52e0f16afa2a86eab2d6d8a5c773.1920x1080.jpg?t=1751968973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311560/ss_a1fa7dde874ab03dacfd0dd62633e316d34aa672.1920x1080.jpg?t=1751968973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311560/ss_142c19862c8bb307252dedf7f17cda4eb5f3f2b8.1920x1080.jpg?t=1751968973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311560/ss_221f6e993cdfc946eb1d61129b535d9d18b1c603.1920x1080.jpg?t=1751968973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311560/ss_a4f6c24857db50d675f79e5a63773f9443b1c95d.1920x1080.jpg?t=1751968973"
+    }
+  ],
+  "videos": [
+    {
+      "name": "US-Announce-Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2037101/movie.293x165.jpg?t=1447368841",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/311560/31047/8287a8e96930147303bf0ee4a824e3bb37223076/1750506293/dash_h264.mpd?t=1447368841"
+    },
+    {
+      "name": "US-Launch-Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2037777/movie.293x165.jpg?t=1459942977",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/311560/32604/144159c5823d52d003e811196155263533b2f476/1750506310/dash_h264.mpd?t=1459942977"
+    }
+  ],
+  "metacritic": {
+    "score": 74,
+    "url": "https://www.metacritic.com/game/pc/assassins-creed-rogue?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 311560,
+    "store_url": "https://store.steampowered.com/app/311560/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Mouse Only Option",
+      "Save Anytime",
+      "Stereo Sound",
+      "Surround Sound",
+      "Partial Controller Support"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 18851,
+    "review_negative": 2974,
+    "review_total": 21825,
+    "review_positive_percent": 86.37
+  }
+}

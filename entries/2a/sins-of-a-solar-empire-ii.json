@@ -1,0 +1,219 @@
+{
+  "key": "sins-of-a-solar-empire-ii",
+  "name": "Sins of a Solar Empire II",
+  "description": "Battle for galactic dominance in this real-time 4X strategy game with unrivaled scale! You’ll explore, expand, exploit, and exterminate through military force, diplomacy, trade, culture, influence, and other underhanded tactics.",
+  "developers": [
+    "Ironclad Games Corporation"
+  ],
+  "publishers": [
+    "Stardock Entertainment"
+  ],
+  "release_date": "2024-08-15",
+  "website": "https://www.sinsofasolarempire2.com/",
+  "tags": [
+    "simulation",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "space",
+    "rts",
+    "4x",
+    "singleplayer",
+    "sci-fi",
+    "tactical",
+    "pve",
+    "story-rich",
+    "real-time",
+    "base-building",
+    "immersive-sim",
+    "3d",
+    "tutorial",
+    "competitive",
+    "isometric",
+    "choices-matter"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "schinese",
+    "russian",
+    "thai",
+    "japanese",
+    "polish",
+    "hungarian",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "StardockLauncher.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "sins2_dev.exe",
+          "description": "Modding Build",
+          "type": "option1"
+        },
+        {
+          "executable": "sins2_dev.exe",
+          "description": "Modding Build",
+          "type": "option1"
+        },
+        {
+          "executable": "sins2_dev.exe",
+          "description": "Marketing Build",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "sins2/settings",
+          "pattern": "input_bindings.json",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Sins of a Solar Empire II",
+    "StardockLauncher",
+    "sins2_dev"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1575940/a7f8cfee6f21f7979c5205faa557254accc49bfe.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575940/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575940/9f1bbed5043bb02bbf6c2110d15369db1eb73232/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575940/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575940/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575940/13e6474628d3c63acf391b2e42ef0b3227b952c0/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575940/ss_4d87f023146bb7a583dadbc891617c173115bfeb.1920x1080.jpg?t=1782392204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575940/ss_9b384a38140342e827d197fe942c86540f31457d.1920x1080.jpg?t=1782392204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575940/ss_3bb2cd263b268d884ea04462daab852e89c976ac.1920x1080.jpg?t=1782392204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575940/ss_ec50f6c774079e324016d70ed8110df2092650de.1920x1080.jpg?t=1782392204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575940/ss_e95d704ac6c39b7eb05d8fbd93bd7e93af4f2311.1920x1080.jpg?t=1782392204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575940/ss_cb52770869362c5e6944f6999ad7894d93c0f28a.1920x1080.jpg?t=1782392204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575940/ss_72ea5e4c79423494e9a9df2a1d305962a231a61a.1920x1080.jpg?t=1782392204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575940/ss_5b38c86e2dd14debf043e6cffd1e67694319efd1.1920x1080.jpg?t=1782392204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575940/ss_b574f7d30448b27fd964e394c4ade94abfd0f14b.1920x1080.jpg?t=1782392204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575940/ss_d5564a438fa954aa971ebdab7800baa19c6c7773.1920x1080.jpg?t=1782392204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575940/ss_9d45d04ffa6bbb7922b038bec9c129a1d6e3ada5.1920x1080.jpg?t=1782392204"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575940/ss_5bdc9a74a35ace76c167f422663dc6596f2b7eaa.1920x1080.jpg?t=1782392204"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Sins II Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257046480/movie.293x165.jpg?t=1723728649",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1575940/740880/314458a77ef15ba8f795d7fbcda6335b8e5e4f6c/1750703049/dash_h264.mpd?t=1723728649"
+    },
+    {
+      "name": "Sins II Cinematic Intro",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257042582/movie.293x165.jpg?t=1722528117",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1575940/734181/d72ff974e6e1849455998528d48329f16f20508a/1750703049/dash_h264.mpd?t=1722528117"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1575940,
+    "store_url": "https://store.steampowered.com/app/1575940/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Save Anytime",
+      "Stereo Sound",
+      "Surround Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Space",
+      "Strategy",
+      "RTS",
+      "4X",
+      "Singleplayer",
+      "Sci-fi",
+      "Multiplayer",
+      "Tactical",
+      "Co-op",
+      "PvE",
+      "Story Rich",
+      "PvP",
+      "Real-Time",
+      "Base Building",
+      "Immersive Sim",
+      "3D",
+      "Tutorial",
+      "Competitive",
+      "Isometric",
+      "Choices Matter"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7105,
+    "review_negative": 1363,
+    "review_total": 8468,
+    "review_positive_percent": 83.9
+  }
+}

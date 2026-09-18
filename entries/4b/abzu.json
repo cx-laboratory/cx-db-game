@@ -1,0 +1,181 @@
+{
+  "key": "abzu",
+  "name": "ABZU",
+  "description": "From the art director of Journey®, ABZÛ is a beautiful underwater adventure that evokes the dream of diving. Immerse yourself in a vibrant hidden world bursting with color and life as you descend into the heart of the ocean. But beware as you swim deeper as dangers lurk in the depths.",
+  "developers": [
+    "Giant Squid"
+  ],
+  "publishers": [
+    "505 Games"
+  ],
+  "release_date": "2016-08-02",
+  "website": "http://www.abzugame.com",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "simulation",
+    "relaxing",
+    "atmospheric",
+    "underwater",
+    "exploration",
+    "great-soundtrack",
+    "singleplayer",
+    "colorful",
+    "beautiful",
+    "family-friendly",
+    "fantasy",
+    "short",
+    "open-world",
+    "third-person",
+    "story-rich",
+    "walking-simulator",
+    "controller"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "russian",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "AbzuGame.exe",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "AbzuGame/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "ABZU",
+    "AbzuGame"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/384190/322d0d5990e35b3bdcd29e45982e110dd4a158ba.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384190/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384190/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384190/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384190/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384190/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384190/ss_119c7a8e046289483d04947bfa5ae3ab3a4a97be.1920x1080.jpg?t=1758304762"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384190/ss_b1038245a188f63c24a8112b7a36311e3d851935.1920x1080.jpg?t=1758304762"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384190/ss_47a6412b84130bb2c5508b0e34365ff12263bed3.1920x1080.jpg?t=1758304762"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384190/ss_9ad3c0fba255bf54bbe4c6db2aa96a0d8acca892.1920x1080.jpg?t=1758304762"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384190/ss_71b3809eb957c8af9d43ef9d282f7ef3267d73db.1920x1080.jpg?t=1758304762"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384190/ss_d47acc2f4600310d41d966a55752948692891eaa.1920x1080.jpg?t=1758304762"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384190/ss_b5138022d32b69aa5157630dee665433934017d7.1920x1080.jpg?t=1758304762"
+    }
+  ],
+  "videos": [
+    {
+      "name": "ABZU Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256671638/movie.293x165.jpg?t=1475094707",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/384190/74599/ff42f96b297340a395f129ccb906690d82f22f38/1750522199/dash_h264.mpd?t=1475094707"
+    },
+    {
+      "name": "ABZU Game Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256666154/movie.293x165.jpg?t=1468259635",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/384190/63349/8f33c4344315ae0288bed4375b55fc28cca02a84/1750522185/dash_h264.mpd?t=1468259635"
+    },
+    {
+      "name": "ABZU Dev Diary -  Game Inspiration",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256667376/movie.293x165.jpg?t=1469638295",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/384190/65625/cbd51ae3be8a3800c2d219b2a489c52b42c13a57/1750522195/dash_h264.mpd?t=1469638295"
+    },
+    {
+      "name": "ABZU - The Music",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256667965/movie.293x165.jpg?t=1470073590",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/384190/66875/932d5e5bd29274326ca1e7471121dff98fca22e3/1750522196/dash_h264.mpd?t=1470073590"
+    }
+  ],
+  "metacritic": {
+    "score": 83,
+    "url": "https://www.metacritic.com/game/pc/abzu?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 384190,
+    "store_url": "https://store.steampowered.com/app/384190/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Gamepad Recommended",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Relaxing",
+      "Atmospheric",
+      "Underwater",
+      "Exploration",
+      "Great Soundtrack",
+      "Adventure",
+      "Singleplayer",
+      "Casual",
+      "Colorful",
+      "Indie",
+      "Beautiful",
+      "Family Friendly",
+      "Fantasy",
+      "Short",
+      "Open World",
+      "Third Person",
+      "Story Rich",
+      "Walking Simulator",
+      "Simulation",
+      "Controller"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 25528,
+    "review_negative": 1939,
+    "review_total": 27467,
+    "review_positive_percent": 92.94
+  }
+}

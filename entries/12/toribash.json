@@ -1,0 +1,339 @@
+{
+  "key": "toribash",
+  "name": "Toribash",
+  "description": "Toribash is an innovative free-to-play online turn-based fighting game where you’re able to design your own moves. Complete control over character's body, hundreds of game mods and bloody mess with full body dismemberment - you've never been able to annihilate your enemies like that before!",
+  "developers": [
+    "Nabi Studios"
+  ],
+  "publishers": [
+    "Nicalis, Inc."
+  ],
+  "release_date": "2014-05-17",
+  "website": "https://www.toribash.com",
+  "tags": [
+    "action",
+    "indie",
+    "strategy",
+    "free-to-play",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "3d-fighter",
+    "fighting",
+    "gore",
+    "physics",
+    "turn-based",
+    "martial-arts",
+    "funny",
+    "simulation",
+    "sandbox",
+    "moddable",
+    "difficult",
+    "parkour",
+    "singleplayer",
+    "turn-based-strategy",
+    "co-op"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "russian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Toribash.exe",
+          "description": "Play Toribash",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "data/mod/modmaker/",
+          "pattern": "*.tbm",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": ".",
+          "pattern": "tb_login.dat",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "data/",
+          "pattern": "buddies.txt",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "data/mod_assets/",
+          "pattern": "*.obj",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "data/mod_assets/",
+          "pattern": "*.tga",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "data/mod_assets/",
+          "pattern": "*.wav",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "data/script/system/",
+          "pattern": "movememory.mm",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "replay/my replays/",
+          "pattern": "*.rpl",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "data/",
+          "pattern": "flames_stored.dat",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Toribash.app",
+          "description": "Play Toribash",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "data/mod/modmaker/",
+          "pattern": "*.tbm",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": ".",
+          "pattern": "tb_login.dat",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "data/",
+          "pattern": "buddies.txt",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "data/mod_assets/",
+          "pattern": "*.obj",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "data/mod_assets/",
+          "pattern": "*.tga",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "data/mod_assets/",
+          "pattern": "*.wav",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "data/script/system/",
+          "pattern": "movememory.mm",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "replay/my replays/",
+          "pattern": "*.rpl",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "data/",
+          "pattern": "flames_stored.dat",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "toribash_steam",
+          "description": "Play Toribash",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "data/mod/modmaker/",
+          "pattern": "*.tbm",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": ".",
+          "pattern": "tb_login.dat",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "data/",
+          "pattern": "buddies.txt",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "data/mod_assets/",
+          "pattern": "*.obj",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "data/mod_assets/",
+          "pattern": "*.tga",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "data/mod_assets/",
+          "pattern": "*.wav",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "data/script/system/",
+          "pattern": "movememory.mm",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "replay/my replays/",
+          "pattern": "*.rpl",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "data/",
+          "pattern": "flames_stored.dat",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Toribash",
+    "Toribash.app",
+    "toribash_steam"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/248570/7642e8aaf8d97a5fca68d749ed5cdd548cbb6d35.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248570/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248570/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248570/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248570/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248570/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248570/ss_69ea9ca96e67948700765b7965bebeb8dd8b0ba0.1920x1080.jpg?t=1727332328"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248570/ss_70c3a9b0d30c48a5978cc940dd4ef2b5ed553747.1920x1080.jpg?t=1727332328"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248570/ss_cb98abb7fca235938a73bdfb82599726f67273cd.1920x1080.jpg?t=1727332328"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248570/ss_3c3003d1c9ea0b91f26f7890e8716eaffac9b848.1920x1080.jpg?t=1727332328"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248570/ss_caed3d285d8b2fa15b95a0c4c51c21770f307ca9.1920x1080.jpg?t=1727332328"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Toribash Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2030473/movie.293x165.jpg?t=1727332321",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/248570/16075/605ce3fa9fbc4da7d8cfce78bddbaf35cc0307fc/1751247931/dash_h264.mpd?t=1727332321"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 248570,
+    "store_url": "https://store.steampowered.com/app/248570/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "Steam Cloud",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "3D Fighter",
+      "Fighting",
+      "Gore",
+      "Physics",
+      "Multiplayer",
+      "Action",
+      "Strategy",
+      "Turn-Based",
+      "Martial Arts",
+      "Funny",
+      "Indie",
+      "Simulation",
+      "Sandbox",
+      "Moddable",
+      "Difficult",
+      "Parkour",
+      "Singleplayer",
+      "Turn-Based Strategy",
+      "Co-op"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 14874,
+    "review_negative": 1956,
+    "review_total": 16830,
+    "review_positive_percent": 88.38
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "key": "persona-3-reload",
+  "name": "Persona 3 Reload",
+  "description": "Dive into the Dark Hour and awaken the depths of your heart. Persona 3 Reload is a captivating reimagining of the genre-defining RPG, reborn for the modern era with cutting-edge graphics and gameplay.",
+  "developers": [
+    "ATLUS"
+  ],
+  "publishers": [
+    "SEGA"
+  ],
+  "release_date": "2024-02-02",
+  "website": "https://persona.atlus.com/p3r",
+  "tags": [
+    "adventure",
+    "rpg",
+    "strategy"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "koreana": "페르소나3 리로드",
+    "japanese": "ペルソナ３ リロード",
+    "tchinese": "女神異聞錄３ Reload",
+    "schinese": "女神异闻录３ Reload"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "P3R/Binaries/Win64/P3R.exe",
+          "description": "P3Rディレクトリ上で動作",
+          "type": "default"
+        },
+        {
+          "executable": "Artbook/P3R_Artbook/Binaries/Win64/P3R_Artbook.exe",
+          "description": "PERSONA3 RELOAD Digital ART BOOK",
+          "type": "default"
+        },
+        {
+          "executable": "Soundtrack\\P3R_Soundtrack\\Binaries\\Win64\\P3R_Soundtrack.exe",
+          "description": "PERSONA3 RELOAD Digital Original Sound Track",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "SEGA/P3R/Steam/{64BitSteamID}",
+          "pattern": "SaveData*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Persona 3 Reload",
+    "P3R/Binaries/Win64/P3R",
+    "Artbook/P3R_Artbook/Binaries/Win64/P3R_Artbook",
+    "Soundtrack\\P3R_Soundtrack\\Binaries\\Win64\\P3R_Soundtrack",
+    "페르소나3 리로드",
+    "ペルソナ３ リロード",
+    "女神異聞錄３ Reload",
+    "女神异闻录３ Reload"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2161700/2aeb189b126f766bb5930f725fbdcdd171a93c56.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_7017244fb8319ba927a0ef414959b95a6164356f.1920x1080.jpg?t=1764776430"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_cfe4b9124ea5e815e7981e3ac29a72a02fd48239.1920x1080.jpg?t=1764776430"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_c123d3e9360f030e6600db27311586d033f65ff7.1920x1080.jpg?t=1764776430"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_f51fc26c627816bbd87011ca278b1fbbda2d6bc8.1920x1080.jpg?t=1764776430"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_b60f1f21f4794f0ba90bbc55c41aab4637b4103a.1920x1080.jpg?t=1764776430"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_7f066d1c88b826ee72646f2a3dac0719842835b2.1920x1080.jpg?t=1764776430"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_b5b93089686b45d6abee593d025c91389c7dc20e.1920x1080.jpg?t=1764776430"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_e5f9b3aedadef82286c34d9d419b7cd45e034f87.1920x1080.jpg?t=1764776430"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_6eb13282757801e1ea826bb60de82cd07ef33e1c.1920x1080.jpg?t=1764776430"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_8182ac626d22010c5e93e0bdfbd7b2d89860657a.1920x1080.jpg?t=1764776430"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256997656/movie.293x165.jpg?t=1706853531",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2161700/656756/9fed076b451856cfc15554fc6717dc9c600298f8/1750777513/dash_h264.mpd?t=1706853531"
+    },
+    {
+      "name": "Announcement Trailer 1 (ESRB)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256959061/movie.293x165.jpg?t=1706853582",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2161700/589083/039004b9af51c939d3cb2850f4ca0079f3f431be/1750776105/dash_h264.mpd?t=1706853582"
+    }
+  ],
+  "metacritic": {
+    "score": 89,
+    "url": "https://www.metacritic.com/game/pc/persona-3-reload?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 2161700,
+    "store_url": "https://store.steampowered.com/app/2161700/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Keyboard Only Option",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Surround Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 55235,
+    "review_negative": 3292,
+    "review_total": 58527,
+    "review_positive_percent": 94.38
+  }
+}

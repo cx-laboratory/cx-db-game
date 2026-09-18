@@ -1,0 +1,281 @@
+{
+  "key": "golf-with-your-friends",
+  "name": "Golf With Your Friends",
+  "description": "Why have friends if not to play Golf... With Your Friends! Nothing is out of bounds as you take on courses filled with fast paced, exciting, simultaneous mini golf for up to 12 players!",
+  "developers": [
+    "Blacklight Interactive"
+  ],
+  "publishers": [
+    "Team17"
+  ],
+  "release_date": "2020-05-20",
+  "website": "https://www.gwyf.golf/",
+  "tags": [
+    "casual",
+    "indie",
+    "sports",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "mini-golf",
+    "golf",
+    "funny",
+    "family-friendly",
+    "co-op",
+    "singleplayer",
+    "physics",
+    "local-multiplayer",
+    "simulation",
+    "strategy",
+    "memes",
+    "online-co-op",
+    "massively-multiplayer",
+    "action",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "友尽高尔夫"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Golf With Your Friends.exe",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "Golf With Friends.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Golf With Your Friends.app",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "Golf With Your Friends.app",
+          "description": "Force Glcore",
+          "type": "none"
+        },
+        {
+          "executable": "Golf With Friends.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Golf With Your Friends.x86_64",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "Golf With Your Friends.x86_64",
+          "description": "Force OpenGL",
+          "type": "none"
+        },
+        {
+          "executable": "Golf With Your Friends.x86_64",
+          "description": "Force full screen",
+          "type": "none"
+        },
+        {
+          "executable": "Golf With Friends.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Golf With Your Friends",
+    "Golf With Friends",
+    "Golf With Your Friends.app",
+    "Golf With Your Friends.x86_64",
+    "友尽高尔夫"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/431240/c6379c8ec66ac02565f1155bf3821b846164d93c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/ss_db651179701c4c78f89448506f6fe177585d28a7.1920x1080.jpg?t=1780479958"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/ss_ca58d6c760d172df3875d9634ca35703d73a4d05.1920x1080.jpg?t=1780479958"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/ss_91d45c28c463c2fc5d4d28f15f900e2456ccf73c.1920x1080.jpg?t=1780479958"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/ss_af779fcd049a35140f47ff8781eec8d0e5d7d7bd.1920x1080.jpg?t=1780479958"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/ss_435a6e64a3c523f60905dfdfc99833ae8497b1a6.1920x1080.jpg?t=1780479958"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/ss_c97a0f2468bc28301f678ae5260fcba2ff3ac2ae.1920x1080.jpg?t=1780479958"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/ss_eab882834b54a0a3eb89b4a658b72596f364e9e0.1920x1080.jpg?t=1780479958"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/ss_a8fe3a7a2da5092a6948ac97db10d7c000d6646a.1920x1080.jpg?t=1780479958"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/ss_65d919244a5532f916e0bff7c4db535486b313b8.1920x1080.jpg?t=1780479958"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/ss_0937fffe6e7ce9a1b65d972df4a375430474f828.1920x1080.jpg?t=1780479958"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/ss_29d9dbf69ba4f03ebbc009cbca498f6e7173f8ed.1920x1080.jpg?t=1780479958"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/ss_b8a894c60b884e8337ddce8a76e06af0894a5d8b.1920x1080.jpg?t=1780479958"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/ss_82cbd5a1b62155f8da2b9e20f563cf2042d3996a.1920x1080.jpg?t=1780479958"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/ss_da38e1bc50aeebf442695fb8ef1a6db47239f2e6.1920x1080.jpg?t=1780479958"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/ss_624f5f3a4c3e2a840618b1df46ed8787e0ecc3e4.1920x1080.jpg?t=1780479958"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431240/ss_81d17def30193cab366b5c5f0f03baf4dea890d6.1920x1080.jpg?t=1780479958"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Golf With Your Friends - Olympus Odyssey Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257052332/movie.293x165.jpg?t=1725527162",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/431240/750934/c844e4324a3ad8f7a5c7d0a26ac9e4dee828c0ef/1750530208/dash_h264.mpd?t=1725527162"
+    },
+    {
+      "name": "Golf With Your Friends - Speed Golf Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257016640/movie.293x165.jpg?t=1713430702",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/431240/688669/725e20656af836477dee97cf35c2f440bda8c152/1750530207/dash_h264.mpd?t=1713430702"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256785877/movie.293x165.jpg?t=1589898300",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/431240/286788/801b4250c06e2148b5293e75d0a97457fe3171b3/1750530176/dash_h264.mpd?t=1589898300"
+    },
+    {
+      "name": "Sports Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256906152/movie.293x165.jpg?t=1663261814",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/431240/496779/02feca2044643f3cc51083e4a55874a306888a4f/1750530200/dash_h264.mpd?t=1663261814"
+    },
+    {
+      "name": "The Deep Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256807157/movie.293x165.jpg?t=1603894491",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/431240/322741/ccef50a269bfe19932de15ce0c1edad24ee78022/1750530192/dash_h264.mpd?t=1603894491"
+    },
+    {
+      "name": "worms",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256765681/movie.293x165.jpg?t=1572273622",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/431240/249936/c0b82b1072fddc163092d4674cccac7528e7e503/1750530170/dash_h264.mpd?t=1572273622"
+    },
+    {
+      "name": "Space Theme Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256761089/movie.293x165.jpg?t=1589898309",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/431240/241490/96cfe15c273bd0d29843c052606eaaa23a9ff4a5/1750530163/dash_h264.mpd?t=1589898309"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 431240,
+    "store_url": "https://store.steampowered.com/app/431240/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Sports"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Stats",
+      "Includes level editor",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Casual",
+      "Mini Golf",
+      "Sports",
+      "Golf",
+      "Indie",
+      "Funny",
+      "Family Friendly",
+      "Co-op",
+      "Singleplayer",
+      "Physics",
+      "Local Multiplayer",
+      "Simulation",
+      "Strategy",
+      "PvP",
+      "Memes",
+      "Online Co-Op",
+      "Massively Multiplayer",
+      "Action",
+      "Adventure"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 65029,
+    "review_negative": 9364,
+    "review_total": 74393,
+    "review_positive_percent": 87.41
+  }
+}

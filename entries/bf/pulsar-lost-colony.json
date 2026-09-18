@@ -1,0 +1,202 @@
+{
+  "key": "pulsar-lost-colony",
+  "name": "PULSAR: Lost Colony",
+  "description": "The co-op open-world space sim where everyone has a role! Pilot the ship. Reroute power. Launch nukes. Explore alien planets. Research new talents. Work together to find the Lost Colony! ...or just deliver some biscuits",
+  "developers": [
+    "Leafy Games"
+  ],
+  "publishers": [
+    "Leafy Games"
+  ],
+  "release_date": "2021-06-23",
+  "website": "https://www.pulsarthegame.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "simulation",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "space-sim",
+    "open-world",
+    "first-person",
+    "pve",
+    "space",
+    "exploration",
+    "sci-fi",
+    "spaceships",
+    "robots",
+    "nonlinear",
+    "fps",
+    "class-based",
+    "character-customization"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "PULSAR_LostColony.exe",
+          "description": "Launch PULSAR: Lost Colony",
+          "type": "default"
+        },
+        {
+          "executable": "PULSAR_LostColony.exe",
+          "description": "PULSAR",
+          "type": "vr"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "PULSARLostColony.app",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "PULSAR_LostColony.x86_64",
+          "description": "Launch",
+          "type": "none"
+        },
+        {
+          "executable": "PULSAR_LostColony.x86_64",
+          "description": "",
+          "type": "vr"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "PULSAR: Lost Colony",
+    "PULSAR_LostColony",
+    "PULSARLostColony.app",
+    "PULSAR_LostColony.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/252870/a8f2366b97fc5a540bf0adef9a42812611df5bfb.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252870/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252870/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252870/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252870/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252870/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252870/ss_baf2d36160a1481c8fe5b3488465fb56a38e64d0.1920x1080.jpg?t=1725736810"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252870/ss_0c80806236a641f2dfd27510cdda1e9bf09579e4.1920x1080.jpg?t=1725736810"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252870/ss_177d1372ab50850466668ffa6a0157e0c9c9102a.1920x1080.jpg?t=1725736810"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252870/ss_1e7a456698d831f3662d09c28b4a1928245d6091.1920x1080.jpg?t=1725736810"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252870/ss_e7d3532a98b556d7bb049852f7ae9b1a0fffdb53.1920x1080.jpg?t=1725736810"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252870/ss_9de37de4b238c8113196032b8b51353a2f2a1cd6.1920x1080.jpg?t=1725736810"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252870/ss_caff321e6edb925f2b2758bcbaea900d5274e662.1920x1080.jpg?t=1725736810"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252870/ss_39b097d7742b089423397c07e6f5c685bb413f4b.1920x1080.jpg?t=1725736810"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252870/ss_0bfd74df832471bc27e813f057bee2955f67d886.1920x1080.jpg?t=1725736810"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252870/ss_fe729101e970179abc53ffa1530c828a0c238266.1920x1080.jpg?t=1725736810"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252870/ss_f3bb8bd25472d2c748371a44ae129b2f92565842.1920x1080.jpg?t=1725736810"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256840046/movie.293x165.jpg?t=1624378796",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/252870/379209/19ea4de5a50106a41597d908ce555491d87d1bc0/1750487814/dash_h264.mpd?t=1624378796"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 252870,
+    "store_url": "https://store.steampowered.com/app/252870/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Tracked Controller Support",
+      "VR Supported",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Space Sim",
+      "Open World",
+      "Co-op",
+      "Simulation",
+      "First-Person",
+      "PvE",
+      "Space",
+      "Exploration",
+      "Sci-fi",
+      "Multiplayer",
+      "Spaceships",
+      "RPG",
+      "Robots",
+      "Nonlinear",
+      "FPS",
+      "Class-Based",
+      "Online Co-Op",
+      "Adventure",
+      "Character Customization",
+      "Action"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 5135,
+    "review_negative": 581,
+    "review_total": 5716,
+    "review_positive_percent": 89.84
+  }
+}

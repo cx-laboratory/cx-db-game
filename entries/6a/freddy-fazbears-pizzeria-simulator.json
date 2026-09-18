@@ -1,0 +1,136 @@
+{
+  "key": "freddy-fazbears-pizzeria-simulator",
+  "name": "Freddy Fazbear's Pizzeria Simulator",
+  "description": "Start your own Freddy Fazbear's Pizzeria with Freddy Fazbear Pizzeria Simulator!",
+  "developers": [
+    "Scott Cawthon"
+  ],
+  "publishers": [
+    "Scott Cawthon"
+  ],
+  "release_date": "2017-12-05",
+  "website": "",
+  "tags": [
+    "free-to-play",
+    "indie",
+    "simulation",
+    "horror",
+    "singleplayer",
+    "robots",
+    "difficult",
+    "first-person",
+    "strategy",
+    "management",
+    "story-rich",
+    "funny",
+    "pixel-graphics",
+    "atmospheric",
+    "retro",
+    "memes",
+    "family-friendly",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Pizzeria Simulator.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Freddy Fazbear's Pizzeria Simulator",
+    "Pizzeria Simulator"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/738060/533e5d3d0322ad03117c49bbddfac47c416c3cb9.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738060/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738060/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738060/capsule_231x87.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738060/ss_a116a79a1cf39fba3371d5dcb92c69797475c9d8.1920x1080.jpg?t=1512422259"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738060/ss_d5d78d97b22ef5e7f6946a2042d95e56f4984af7.1920x1080.jpg?t=1512422259"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738060/ss_fa923093e6475744542039011ad5ba575699b5a7.1920x1080.jpg?t=1512422259"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738060/ss_e15dbf195b780b5a70cde2857da6a011c5e08ae5.1920x1080.jpg?t=1512422259"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738060/ss_cdae78103ae54eb8a552df991d20cb0d15aa14f3.1920x1080.jpg?t=1512422259"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Trailer 1",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256702067/movie.293x165.jpg?t=1512422238",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/738060/135171/7e4f53f9f3dfb7673f0bee0ea8da7556da631545/1751138092/dash_h264.mpd?t=1512422238"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 738060,
+    "store_url": "https://store.steampowered.com/app/738060/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Free To Play",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Horror",
+      "Singleplayer",
+      "Robots",
+      "Survival Horror",
+      "Simulation",
+      "Difficult",
+      "Indie",
+      "First-Person",
+      "Strategy",
+      "Management",
+      "Story Rich",
+      "Psychological Horror",
+      "Funny",
+      "Pixel Graphics",
+      "Atmospheric",
+      "Retro",
+      "Memes",
+      "Family Friendly",
+      "Adventure"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 30939,
+    "review_negative": 2058,
+    "review_total": 32997,
+    "review_positive_percent": 93.76
+  }
+}

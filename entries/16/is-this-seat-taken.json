@@ -1,0 +1,223 @@
+{
+  "key": "is-this-seat-taken",
+  "name": "Is This Seat Taken?",
+  "description": "Is This Seat Taken? is a logic puzzle game where you play matchmaker for groups of hilariously particular people. Each character has pet peeves that make seating them a delightful challenge. Find the perfect spot for each person to unlock new levels in this cozy, silly, and relatable experience.",
+  "developers": [
+    "Poti Poti Studio"
+  ],
+  "publishers": [
+    "Wholesome Games Presents"
+  ],
+  "release_date": "2025-08-07",
+  "website": "https://www.potipoti.studio/",
+  "tags": [
+    "casual",
+    "indie",
+    "puzzle",
+    "relaxing",
+    "cute",
+    "logic",
+    "cozy",
+    "wholesome",
+    "colorful",
+    "family-friendly",
+    "singleplayer",
+    "funny",
+    "2d",
+    "point-and-click",
+    "atmospheric",
+    "lgbtq"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "portuguese",
+    "polish",
+    "dutch",
+    "czech",
+    "turkish",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "这个座位有人坐吗?",
+    "tchinese": "這位子形不形？"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Is This Seat Taken.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "PotiPoti/Is This Seat Taken",
+          "pattern": "*.data",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Is This Seat Taken.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "PotiPoti/Is This Seat Taken",
+          "pattern": "*.data",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Is This Seat Taken.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "PotiPoti/Is This Seat Taken",
+          "pattern": "*.data",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Is This Seat Taken?",
+    "Is This Seat Taken",
+    "Is This Seat Taken.app",
+    "Is This Seat Taken.x86_64",
+    "这个座位有人坐吗?",
+    "這位子形不形？"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3035120/faa2296db1c74a0fdb43a45595f923578585ae11.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035120/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035120/696b420beee45cd3e5e0f9397e0b4525cbce6ff6/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035120/6ac6c77ffdcbe7714ba04ad557d505388c8693ed/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035120/ae86e3c6fdaefa3e7c372a4f237ba91da5c2f07f/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035120/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035120/abb7bd6d6c6ba1579678e96eea91e4043480d63b/ss_abb7bd6d6c6ba1579678e96eea91e4043480d63b.1920x1080.jpg?t=1782400201"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035120/90bd56bcbe5552423b741a18e919dfb6e556cc74/ss_90bd56bcbe5552423b741a18e919dfb6e556cc74.1920x1080.jpg?t=1782400201"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035120/4ce105b0c2bc3b0e7e5d2d3a7756b10ef450fa79/ss_4ce105b0c2bc3b0e7e5d2d3a7756b10ef450fa79.1920x1080.jpg?t=1782400201"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035120/8936bf0390b4d9dab5acdc220cb02b8e2877a6b8/ss_8936bf0390b4d9dab5acdc220cb02b8e2877a6b8.1920x1080.jpg?t=1782400201"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035120/8c351fec6e0260d9281993d3a491d0ff0cb2e9ad/ss_8c351fec6e0260d9281993d3a491d0ff0cb2e9ad.1920x1080.jpg?t=1782400201"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035120/7ae0d0b62daa44dae5f80068e17b3aaf61233617/ss_7ae0d0b62daa44dae5f80068e17b3aaf61233617.1920x1080.jpg?t=1782400201"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035120/63db297af554257f839eb036e6e6330397dc380d/ss_63db297af554257f839eb036e6e6330397dc380d.1920x1080.jpg?t=1782400201"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Release Window Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257152486/216d93f14a7cc8ef58f859031dfeb80b1f2e6b94/movie_600x337.jpg?t=1749312959",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3035120/1590641735/7e793ca96c8a3fb416360940bd8c6fbc1d69cfca/1750959781/dash_h264.mpd?t=1749312959"
+    },
+    {
+      "name": "Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257087834/e04dd6770a87b3c5ab76dfb0185a564fd1581a17/movie_600x337.jpg?t=1738242327",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3035120/810576/7e281ba2b0008f487b001ee856195614de66e935/1750959779/dash_h264.mpd?t=1738242327"
+    }
+  ],
+  "metacritic": {
+    "score": 79,
+    "url": "https://www.metacritic.com/game/pc/is-this-seat-taken?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 3035120,
+    "store_url": "https://store.steampowered.com/app/3035120/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Keyboard Only Option",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Touch Only Option",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Puzzle",
+      "Casual",
+      "Relaxing",
+      "Cute",
+      "Logic",
+      "Cozy",
+      "Wholesome",
+      "Colorful",
+      "Family Friendly",
+      "Singleplayer",
+      "Funny",
+      "2D",
+      "Point & Click",
+      "Indie",
+      "Atmospheric",
+      "LGBTQ+"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 8615,
+    "review_negative": 232,
+    "review_total": 8847,
+    "review_positive_percent": 97.38
+  }
+}

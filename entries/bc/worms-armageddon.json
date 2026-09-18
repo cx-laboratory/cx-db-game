@@ -1,0 +1,155 @@
+{
+  "key": "worms-armageddon",
+  "name": "Worms Armageddon",
+  "description": "Those intrepid invertebrates return with a vengeance in the much-loved Worms™ Armageddon. It’s a whole new can of worms! It’s hilarious fun that you can enjoy on your own or with all your friends.",
+  "developers": [
+    "Team17 Digital Ltd"
+  ],
+  "publishers": [
+    "Team17 Digital Ltd"
+  ],
+  "release_date": "2013-03-19",
+  "website": "https://www.team17.com/",
+  "tags": [
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "classic",
+    "turn-based",
+    "turn-based-strategy",
+    "funny",
+    "2d",
+    "local-multiplayer",
+    "comedy",
+    "co-op",
+    "physics",
+    "action",
+    "singleplayer",
+    "party",
+    "platformer",
+    "1990-s",
+    "retro",
+    "online-co-op",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "German",
+    "French",
+    "Italian",
+    "Spanish - Spain",
+    "Russian",
+    "Portuguese - Portugal",
+    "Dutch",
+    "Swedish*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "百战天虫：世界末日"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "WA.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Worms Armageddon",
+    "WA"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/217200/68c6d17bde9c578d91dd1e207b58eb4d8308ce40.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/217200/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/217200/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/217200/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/217200/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/217200/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/217200/ss_45b7244cd34b97ed08adde4fc462304f137891d1.1920x1080.jpg?t=1781616351"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/217200/ss_e8489d04392da9438aff33f43d1c6a942e29f6c4.1920x1080.jpg?t=1781616351"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/217200/ss_9b2f792468d94ffe17201fe72a919341d2274a6a.1920x1080.jpg?t=1781616351"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/217200/ss_cdbf46a63b563d9618862bf1b40c389be3dd8581.1920x1080.jpg?t=1781616351"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/217200/ss_813b8a32376de9e0296a99728a0129953791c31e.1920x1080.jpg?t=1781616351"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/217200/ss_ab1831e65cc9c429a8527c7c12690db0be197394.1920x1080.jpg?t=1781616351"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/217200/ss_3476a7419b1f218e1ce267b7c6a1599c005051ff.1920x1080.jpg?t=1781616351"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/217200/ss_2ad1fef78039599bf190f2c18c2bea4809b733b8.1920x1080.jpg?t=1781616351"
+    }
+  ],
+  "videos": [],
+  "metacritic": null,
+  "steam": {
+    "appid": 217200,
+    "store_url": "https://store.steampowered.com/app/217200/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Shared/Split Screen",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Strategy",
+      "Classic",
+      "Turn-Based",
+      "Turn-Based Strategy",
+      "Funny",
+      "2D",
+      "Local Multiplayer",
+      "Comedy",
+      "Co-op",
+      "Physics",
+      "Local Co-Op",
+      "Action",
+      "Singleplayer",
+      "Party",
+      "Platformer",
+      "1990's",
+      "Retro",
+      "Online Co-Op",
+      "Adventure"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 10198,
+    "review_negative": 614,
+    "review_total": 10812,
+    "review_positive_percent": 94.32
+  }
+}

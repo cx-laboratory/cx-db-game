@@ -1,0 +1,187 @@
+{
+  "key": "divinity-original-sin-enhanced-edition",
+  "name": "Divinity: Original Sin Enhanced Edition",
+  "description": "Gather your party and get ready for the kick-ass new version of GameSpot's PC Game of the Year 2014. With hours of new content, new game modes, full voiceovers, split-screen multiplayer, and thousands of improvements, there's never been a better time to explore the epic world of Rivellon!",
+  "developers": [
+    "Larian Studios"
+  ],
+  "publishers": [
+    "Larian Studios"
+  ],
+  "release_date": "2015-10-27",
+  "website": "https://divinity.com/original-sin",
+  "tags": [
+    "adventure",
+    "indie",
+    "rpg",
+    "strategy",
+    "multiplayer",
+    "co-op",
+    "turn-based",
+    "fantasy",
+    "party-based-rpg",
+    "turn-based-combat",
+    "story-rich",
+    "crpg",
+    "character-customization",
+    "open-world",
+    "local-multiplayer",
+    "singleplayer",
+    "isometric",
+    "turn-based-strategy",
+    "great-soundtrack",
+    "split-screen"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "schinese",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "神界：原罪增强版"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Shipping/EoCApp.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Divinity - Original Sin.app",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "runner.sh",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Divinity: Original Sin Enhanced Edition",
+    "Shipping/EoCApp",
+    "Divinity - Original Sin.app",
+    "runner.sh",
+    "神界：原罪增强版"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/373420/822ff912b2e464fbebbedf7a75ae1eb24921f16b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373420/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373420/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373420/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373420/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373420/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373420/ss_5e4938344260fca90c0fea0b8e4ef0222324bd07.1920x1080.jpg?t=1765505119"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373420/ss_8cb82c98fda0edfc5bedbdffa6abdc432ed6549d.1920x1080.jpg?t=1765505119"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373420/ss_3d789d4ceccec2e2f5f7937c6b862415864391fa.1920x1080.jpg?t=1765505119"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373420/ss_e4011e6c30a09a2cf27894f70fa518933a111108.1920x1080.jpg?t=1765505119"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373420/ss_3db4a0531a1bc6f33aab653060020a90f967a5c9.1920x1080.jpg?t=1765505119"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373420/ss_02cdac36b98e2be855a1f007345aed6a3eccfff4.1920x1080.jpg?t=1765505119"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373420/ss_7ee20173081d4d143fc71fff648053f4625eb7f5.1920x1080.jpg?t=1765505119"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Divinity: Original Sin - Enhanced Edition Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256657641/movie.293x165.jpg?t=1512655215",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/373420/45430/e724b429cec92813a553e99afdc1beb42a46f7a2/1750518976/dash_h264.mpd?t=1512655215"
+    }
+  ],
+  "metacritic": {
+    "score": 94,
+    "url": "https://www.metacritic.com/game/pc/divinity-original-sin-enhanced-edition?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 373420,
+    "store_url": "https://store.steampowered.com/app/373420/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Cloud",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "RPG",
+      "Turn-Based",
+      "Co-op",
+      "Fantasy",
+      "Adventure",
+      "Party-Based RPG",
+      "Strategy",
+      "Turn-Based Combat",
+      "Story Rich",
+      "CRPG",
+      "Character Customization",
+      "Open World",
+      "Local Co-Op",
+      "Singleplayer",
+      "Isometric",
+      "Multiplayer",
+      "Turn-Based Strategy",
+      "Indie",
+      "Great Soundtrack",
+      "Split Screen"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 28965,
+    "review_negative": 3466,
+    "review_total": 32431,
+    "review_positive_percent": 89.31
+  }
+}

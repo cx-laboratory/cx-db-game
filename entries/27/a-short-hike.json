@@ -1,0 +1,216 @@
+{
+  "key": "a-short-hike",
+  "name": "A Short Hike",
+  "description": "Hike, climb, and soar through the peaceful mountainside landscapes of Hawk Peak Provincial Park as you make your way to the summit.",
+  "developers": [
+    "adamgryu"
+  ],
+  "publishers": [
+    "adamgryu"
+  ],
+  "release_date": "2019-07-30",
+  "website": "http://www.ashorthike.com",
+  "tags": [
+    "adventure",
+    "indie",
+    "exploration",
+    "relaxing",
+    "cute",
+    "pixel-graphics",
+    "open-world",
+    "casual",
+    "nature",
+    "short",
+    "singleplayer",
+    "great-soundtrack",
+    "3d-platformer",
+    "family-friendly",
+    "beautiful",
+    "female-protagonist",
+    "flight",
+    "walking-simulator",
+    "funny",
+    "cozy"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "french",
+    "japanese",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "AShortHike.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "adamgryu/A Short Hike",
+          "pattern": "*.mountain",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "AShortHike.app/Contents/MacOS/A Short Hike",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "AShortHike.app/Contents/MacOS/AShortHike",
+          "description": "Launch version 1.4 of A Short Hike.",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "adamgryu/A Short Hike",
+          "pattern": "*.mountain",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "AShortHike.x86",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "AShortHike.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "adamgryu/A Short Hike",
+          "pattern": "*.mountain",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "A Short Hike",
+    "AShortHike",
+    "AShortHike.app/Contents/MacOS/A Short Hike",
+    "AShortHike.app/Contents/MacOS/AShortHike",
+    "AShortHike.x86",
+    "AShortHike.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1055540/155869047ee7805600a77c55501a317c6af2a3e9.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1055540/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1055540/df88a75bc65beb0d4bea2d52fa6718f8b5b6e35e/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1055540/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1055540/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1055540/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1055540/ss_f2123fea859e299736a3e99d130238c784d53e75.1920x1080.jpg?t=1777758958"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1055540/ss_0e864bf975bb71f238de6861fc8fd3d6ed6e4ce8.1920x1080.jpg?t=1777758958"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1055540/ss_a22817e259c4220cad0c25db315f417b6d3641b8.1920x1080.jpg?t=1777758958"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1055540/ss_c9c8a8e6062511c5ae9259c68c66754cd09ae971.1920x1080.jpg?t=1777758958"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1055540/ss_4c7c9650606ac7b451f8d2e5b71b503649e43edc.1920x1080.jpg?t=1777758958"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1055540/ss_783252636e3a44ff5ba636d817c462358933ba89.1920x1080.jpg?t=1777758958"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1055540/ss_56e51b6bc4604ca1231d5a8d534ac9b67449d353.1920x1080.jpg?t=1777758958"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256755947/movie.293x165.jpg?t=1562963541",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1055540/232619/db12cb0eed3e04cbd8762810eb1046e0b26dfde6/1750610204/dash_h264.mpd?t=1562963541"
+    }
+  ],
+  "metacritic": {
+    "score": 82,
+    "url": "https://www.metacritic.com/game/pc/a-short-hike?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1055540,
+    "store_url": "https://store.steampowered.com/app/1055540/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Gamepad Recommended",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Exploration",
+      "Relaxing",
+      "Adventure",
+      "Indie",
+      "Cute",
+      "Pixel Graphics",
+      "Open World",
+      "Casual",
+      "Nature",
+      "Short",
+      "Singleplayer",
+      "Great Soundtrack",
+      "3D Platformer",
+      "Family Friendly",
+      "Beautiful",
+      "Female Protagonist",
+      "Flight",
+      "Walking Simulator",
+      "Funny",
+      "Cozy"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 22102,
+    "review_negative": 189,
+    "review_total": 22291,
+    "review_positive_percent": 99.15
+  }
+}

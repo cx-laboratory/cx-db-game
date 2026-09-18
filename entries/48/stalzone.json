@@ -1,0 +1,243 @@
+{
+  "key": "stalzone",
+  "name": "STALZONE",
+  "description": "STALZONE is the extraction shooter where you don't have to start over — and the only one with a world worth belonging to. You are invited to explore the Chernobyl Exclusion Zone twisted by anomalies and divided between rival factions whose territories shape the danger around you",
+  "developers": [
+    "EXBO"
+  ],
+  "publishers": [
+    "EXBO"
+  ],
+  "release_date": "2022-12-10",
+  "website": "https://stalzone.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "massively-multiplayer",
+    "rpg",
+    "free-to-play",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "fps",
+    "mmorpg",
+    "shooter",
+    "first-person",
+    "looter-shooter",
+    "horror",
+    "atmospheric",
+    "combat",
+    "story-rich",
+    "pve",
+    "tactical",
+    "team-based",
+    "alternate-history"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "russian"
+  ],
+  "name_localized": {
+    "koreana": "STALZONE | 스탈존"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "bin_global/win64/java/bin/ExensLauncher.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "bin_ru/win64/java/bin/ExensLauncher.exe",
+          "description": "STALCRAFT PTS [RU]",
+          "type": "option1"
+        },
+        {
+          "executable": "bin_global/win64/java/bin/ExensLauncher.exe",
+          "description": "STALCRAFT GTS [GLOBAL]",
+          "type": "option1"
+        },
+        {
+          "executable": "bin_ru/win64/java/bin/stalzonew.exe",
+          "description": "STALCRAFT OTS — test server",
+          "type": "option2"
+        },
+        {
+          "executable": "bin_ru/win64/java/bin/stalcraftw.exe",
+          "description": "Stalcraft DEV",
+          "type": "option1"
+        },
+        {
+          "executable": "bin_ru/win64/java/bin/stalcraftw.exe",
+          "description": "Stalcraft DEV",
+          "type": "option1"
+        },
+        {
+          "executable": "bin_global/win64/java/bin/stalcraftw.exe",
+          "description": "STALZONE GRAC",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "STALZONE",
+    "bin_global/win64/java/bin/ExensLauncher",
+    "bin_ru/win64/java/bin/ExensLauncher",
+    "bin_ru/win64/java/bin/stalzonew",
+    "bin_ru/win64/java/bin/stalcraftw",
+    "bin_global/win64/java/bin/stalcraftw",
+    "STALZONE | 스탈존"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1818450/ad73a63f0263e057b592dcb4e715085418a8c18b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818450/03ac3c6b881ac2c344fb465bfec8a707d24f33a9/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818450/fd1772050e65effa6ec4d0dc698c41617b46042d/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818450/7e9682fc0cd3560e4c02cf8cc696d0e554d58300/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818450/3e170e5a61090efb8d2e38ca0abd5e9cf3357244/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818450/54195e660d6d9e94cb7224e15de1aa0d8c5c2f85/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818450/38d3f865dea4db23d7747787eb68782d68e82e47/ss_38d3f865dea4db23d7747787eb68782d68e82e47.1920x1080.jpg?t=1783012656"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818450/56444a812bd730d0c9cbfdb33acd09a2e0f0e4c8/ss_56444a812bd730d0c9cbfdb33acd09a2e0f0e4c8.1920x1080.jpg?t=1783012656"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818450/5b872534c8f7a32aed95a23925b1f3bab01e36bc/ss_5b872534c8f7a32aed95a23925b1f3bab01e36bc.1920x1080.jpg?t=1783012656"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818450/057c8f8be9aa0b372c8476cb2066988cdfc9be04/ss_057c8f8be9aa0b372c8476cb2066988cdfc9be04.1920x1080.jpg?t=1783012656"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818450/2fcbce618632a9b20e42d7a90b0f2a951226282b/ss_2fcbce618632a9b20e42d7a90b0f2a951226282b.1920x1080.jpg?t=1783012656"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818450/ss_f34288565ba9945fafc5acf7b956800a9583bb01.1920x1080.jpg?t=1783012656"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818450/74942f9ba839f93fd22a5faf18704d3283ac3fbc/ss_74942f9ba839f93fd22a5faf18704d3283ac3fbc.1920x1080.jpg?t=1783012656"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818450/90c2cc99199bf4252e22db21b0c06b2e4176f4f3/ss_90c2cc99199bf4252e22db21b0c06b2e4176f4f3.1920x1080.jpg?t=1783012656"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818450/c8905d483d37b4fe4fb9077d7f32d5360116b7b5/ss_c8905d483d37b4fe4fb9077d7f32d5360116b7b5.1920x1080.jpg?t=1783012656"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818450/cc531a0c5c9b1a2541175248de82f70b940baa71/ss_cc531a0c5c9b1a2541175248de82f70b940baa71.1920x1080.jpg?t=1783012656"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818450/2fb1932e9e8ba0dbc1fae75de33019217cd3026d/ss_2fb1932e9e8ba0dbc1fae75de33019217cd3026d.1920x1080.jpg?t=1783012656"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818450/2b56a01dedd2e61d24194f8c021c8e1c1674546b/ss_2b56a01dedd2e61d24194f8c021c8e1c1674546b.1920x1080.jpg?t=1783012656"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818450/0a54f27286cffc556bc1453f51977b14696dd445/ss_0a54f27286cffc556bc1453f51977b14696dd445.1920x1080.jpg?t=1783012656"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818450/cc3cc7fa2b0e1a6dd4ef7b1a69b5c65f537ddfd5/ss_cc3cc7fa2b0e1a6dd4ef7b1a69b5c65f537ddfd5.1920x1080.jpg?t=1783012656"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818450/347c6e95cb0727ab9b60c44d45bf623da9b66651/ss_347c6e95cb0727ab9b60c44d45bf623da9b66651.1920x1080.jpg?t=1783012656"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818450/89349876407d6c611a7bfdfa7d419c63952e6930/ss_89349876407d6c611a7bfdfa7d419c63952e6930.1920x1080.jpg?t=1783012656"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818450/cb36c3792fc1ed03b43452f10d30186c0dd7adbc/ss_cb36c3792fc1ed03b43452f10d30186c0dd7adbc.1920x1080.jpg?t=1783012656"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818450/2289f63a9a0e19d1f3c56e68b726d4f99894e38d/ss_2289f63a9a0e19d1f3c56e68b726d4f99894e38d.1920x1080.jpg?t=1783012656"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818450/84cf583aa2832efa5eca9cd22384dd00d7b20d16/ss_84cf583aa2832efa5eca9cd22384dd00d7b20d16.1920x1080.jpg?t=1783012656"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818450/5dac945c2438dc1360c2774fa7e81a20f99c1291/ss_5dac945c2438dc1360c2774fa7e81a20f99c1291.1920x1080.jpg?t=1783012656"
+    }
+  ],
+  "videos": [
+    {
+      "name": "STALZONE — Gameplay trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257360769/a2f1a32293e3fe515a3098f235476b2c969c4350/movie_600x337.jpg?t=1781694724",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1818450/456534630/019d8c190597a52bda13949d7043628d67c24b13/1781654741/dash_h264.mpd?t=1781694724"
+    },
+    {
+      "name": "STALZONE — Day X",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257360793/3bcd7c67f8c4355ff189a347b11abebd0271eb53/movie_600x337.jpg?t=1781694726",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1818450/2053820029/87cffbc5da8e7f6e0da1fca9431736afa8ea2bcf/1781659616/dash_h264.mpd?t=1781694726"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1818450,
+    "store_url": "https://store.steampowered.com/app/1818450/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "In-App Purchases",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Multiplayer",
+      "FPS",
+      "MMORPG",
+      "Shooter",
+      "Adventure",
+      "Action",
+      "First-Person",
+      "Looter Shooter",
+      "Horror",
+      "Atmospheric",
+      "Massively Multiplayer",
+      "PvP",
+      "Combat",
+      "RPG",
+      "Story Rich",
+      "PvE",
+      "Tactical",
+      "Team-Based",
+      "Alternate History"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 74118,
+    "review_negative": 27784,
+    "review_total": 101902,
+    "review_positive_percent": 72.73
+  }
+}

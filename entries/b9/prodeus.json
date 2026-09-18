@@ -1,0 +1,229 @@
+{
+  "key": "prodeus",
+  "name": "Prodeus",
+  "description": "Prodeus is a first-person shooter of old, re-imagined using modern rendering techniques and technology. Experience the quality you’d expect from a modern AAA game, designed with retro aesthetics and gameplay that invoke the tech-imposed limits of older hardware.",
+  "developers": [
+    "Bounding Box Software Inc."
+  ],
+  "publishers": [
+    "Balor Games"
+  ],
+  "release_date": "2022-09-23",
+  "website": "http://www.prodeusgame.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "casual",
+    "indie",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "boomer-shooter",
+    "fps",
+    "retro",
+    "gore",
+    "shooter",
+    "violent",
+    "first-person",
+    "fast-paced",
+    "pixel-graphics",
+    "great-soundtrack",
+    "singleplayer",
+    "sci-fi",
+    "classic",
+    "level-editor",
+    "arena-shooter",
+    "horror"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Portuguese - Brazil",
+    "Russian",
+    "Spanish - Latin America"
+  ],
+  "name_localized": {
+    "schinese": "普罗迪斯"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Prodeus.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Prodeus.exe",
+          "description": "Compatibility Mode",
+          "type": "option1"
+        },
+        {
+          "executable": "Prodeus.exe",
+          "description": "Offline Mode",
+          "type": "option2"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Prodeus.app\\Contents\\MacOS\\Prodeus",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Prodeus.app\\Contents\\MacOS\\Prodeus",
+          "description": "Compatibility Mode",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Prodeus",
+    "Prodeus.app\\Contents\\MacOS\\Prodeus"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/964800/a30aa7549108daa388f3e458ac709bc07ac6fe51.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964800/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964800/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964800/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964800/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964800/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964800/ss_b4c230a9a6a3244a29ad8b1642029d5d560cba5d.1920x1080.jpg?t=1773695587"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964800/ss_604e605553221959018f7782d0a77663e49be392.1920x1080.jpg?t=1773695587"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964800/ss_e2d8df5b06a65a15dbd7681b0ed8852c3b58f3c6.1920x1080.jpg?t=1773695587"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964800/ss_2810cf77fe7dff16357004184621b0a0e98ca146.1920x1080.jpg?t=1773695587"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964800/ss_4f56cae9da3ddbb0cdfa0bbd235a586f73e765c0.1920x1080.jpg?t=1773695587"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964800/ss_e263539f1c5ebc7bd2514311f9237dd6714f2c4e.1920x1080.jpg?t=1773695587"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964800/ss_0b5eb4e2bc4b8a111933d5b4c84b11c1c192290c.1920x1080.jpg?t=1773695587"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964800/ss_6cda213621eca599a7a66ab7dba2ce29c401cc63.1920x1080.jpg?t=1773695587"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964800/ss_7f1cb100c553cf1cbae3d0406c639a8d830a116d.1920x1080.jpg?t=1773695587"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964800/ss_6055bcbdc6c9eb1c2e2b2ebd9dcf4a3791b2a304.1920x1080.jpg?t=1773695587"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964800/ss_fcfd1f98aec9902f096602f26ae2b92e2253c8c4.1920x1080.jpg?t=1773695587"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964800/ss_688e48e7b3e73493405d76609badb28c07d9a33b.1920x1080.jpg?t=1773695587"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964800/ss_4ed199232c22444455eeb7f2308f4fbadb02bc63.1920x1080.jpg?t=1773695587"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964800/ss_5e240fe62d9eb0266fc77486ab28c6a08d568c86.1920x1080.jpg?t=1773695587"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Prodeus - Launch Date",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256906377/movie.293x165.jpg?t=1663375574",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/964800/497149/092248474491c3fb73a25fc3c8c9c4e3b9fe79c9/1750602049/dash_h264.mpd?t=1663375574"
+    },
+    {
+      "name": "Prodeus - Gamescom 2020",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256799341/movie.293x165.jpg?t=1641191548",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/964800/309291/0feb19129c442c5802beb28eec40a5f45c954949/1750601998/dash_h264.mpd?t=1641191548"
+    },
+    {
+      "name": "Prodeus - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256808455/movie.293x165.jpg?t=1604945747",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/964800/324817/7fe621e5a5d7253c5673f2c9e1e990988430ab86/1750602015/dash_h264.mpd?t=1604945747"
+    }
+  ],
+  "metacritic": {
+    "score": 84,
+    "url": "https://www.metacritic.com/game/pc/prodeus?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 964800,
+    "store_url": "https://store.steampowered.com/app/964800/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Full controller support",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Boomer Shooter",
+      "FPS",
+      "Retro",
+      "Gore",
+      "Action",
+      "Shooter",
+      "Indie",
+      "Violent",
+      "Adventure",
+      "First-Person",
+      "Fast-Paced",
+      "Pixel Graphics",
+      "Great Soundtrack",
+      "Singleplayer",
+      "Sci-fi",
+      "Casual",
+      "Classic",
+      "Level Editor",
+      "Arena Shooter",
+      "Horror"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7506,
+    "review_negative": 620,
+    "review_total": 8126,
+    "review_positive_percent": 92.37
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "key": "borderlands-3",
+  "name": "Borderlands 3",
+  "description": "The original shooter-looter returns, packing bazillions of guns and a mayhem-fueled adventure! Blast through new worlds and enemies as one of four new Vault Hunters.",
+  "developers": [
+    "Gearbox Software"
+  ],
+  "publishers": [
+    "2K"
+  ],
+  "release_date": "2020-03-13",
+  "website": "https://www.borderlands.com",
+  "tags": [
+    "action",
+    "rpg",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {
+    "koreana": "보더랜드 3",
+    "japanese": "ボーダーランズ3",
+    "schinese": "无主之地3",
+    "tchinese": "邊緣禁地3"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "OakGame\\Binaries\\Win64\\Borderlands3.exe",
+          "description": "Play Oak (Shipping)",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Borderlands 3",
+    "OakGame\\Binaries\\Win64\\Borderlands3",
+    "보더랜드 3",
+    "ボーダーランズ3",
+    "无主之地3",
+    "邊緣禁地3"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/397540/0ac7b8d98fad581f65b0533bbce63bf953d743ac.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397540/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397540/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397540/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397540/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397540/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397540/ss_9868ee40f39749a4c8222502cf86525ee32c1bef.1920x1080.jpg?t=1750802377"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397540/ss_f2053d688ec55f2269c47b24313539938bef9064.1920x1080.jpg?t=1750802377"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397540/ss_624638e46ed590d4bb1835558a5ab0981f7baadd.1920x1080.jpg?t=1750802377"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397540/ss_3531d9f91265d94fc06f6587eba1ca49f2c423d1.1920x1080.jpg?t=1750802377"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397540/ss_6f1836277ffe8733503a9446d51b8c7eb3d20d5f.1920x1080.jpg?t=1750802377"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397540/ss_bd8b719de92cfc9e65cd96d5da74426918964291.1920x1080.jpg?t=1750802377"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397540/ss_f983c0c1cc566b8ca21a6c45e6f044b57aff0f0f.1920x1080.jpg?t=1750802377"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397540/ss_bb22ac18c1db1a87d779db0c3fb480eb1ce79f0e.1920x1080.jpg?t=1750802377"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer - EN - ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256871049/movie.293x165.jpg?t=1643331503",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/397540/435191/8e6ee7ba16b96004a7b685c465f461d586073a0e/1750525728/dash_h264.mpd?t=1643331503"
+    }
+  ],
+  "metacritic": {
+    "score": 81,
+    "url": "https://www.metacritic.com/game/pc/borderlands-3?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 397540,
+    "store_url": "https://store.steampowered.com/app/397540/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 132129,
+    "review_negative": 31000,
+    "review_total": 163129,
+    "review_positive_percent": 81
+  }
+}

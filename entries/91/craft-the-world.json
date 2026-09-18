@@ -1,0 +1,217 @@
+{
+  "key": "craft-the-world",
+  "name": "Craft The World",
+  "description": "   Craft The World is a unique sandbox strategy game, the mix of Dungeon Keeper, Terraria and Dwarf Fortress. Explore a random generated world populated by dangerous creatures, build a dwarf fortress, gather resources, and craft all the items, weapons, and armor you need.",
+  "developers": [
+    "Dekovir Entertainment"
+  ],
+  "publishers": [
+    "Dekovir Ltd"
+  ],
+  "release_date": "2014-11-25",
+  "website": "http://dekovir.com/craft-the-world/",
+  "tags": [
+    "indie",
+    "rpg",
+    "simulation",
+    "strategy",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "dwarves",
+    "colony-sim",
+    "crafting",
+    "building",
+    "sandbox",
+    "survival",
+    "open-world",
+    "city-builder",
+    "2d",
+    "singleplayer",
+    "resource-management",
+    "fantasy",
+    "adventure",
+    "god-game",
+    "tower-defense"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "CraftWorld.exe",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "editor.exe",
+          "description": "",
+          "type": "editor"
+        },
+        {
+          "executable": "CraftWorld.exe",
+          "description": "Craft The World (d3d9)",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "CraftWorld.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Craft The World",
+    "CraftWorld",
+    "editor",
+    "CraftWorld.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/248390/8760d3c73c5c0a42f2e0b4b1b53e84dacaea1401.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248390/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248390/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248390/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248390/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248390/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248390/ss_d0d2dbc49c4c1612480c83d76c66a03228bfdef3.1920x1080.jpg?t=1782400980"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248390/ss_bb3f70618e611d38bf54a5d93420df1f77648683.1920x1080.jpg?t=1782400980"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248390/ss_b83e07465051f1cdd18c42d6412a687dfe53d17c.1920x1080.jpg?t=1782400980"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248390/ss_042e9b793287c69141fb50f2d1704c0dc1cceae2.1920x1080.jpg?t=1782400980"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248390/ss_6f99f4a413de312faa37f7d97a027322a71bd33b.1920x1080.jpg?t=1782400980"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248390/ss_7aaccf933d5a5dd6cd8e31dd1d6ac68b62f6e6a7.1920x1080.jpg?t=1782400980"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248390/ss_70a5021eebdae5d9e8cc61ed39d6a7faf9e3d2ab.1920x1080.jpg?t=1782400980"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248390/ss_217903a095e2c542f8f5572c9852533da1b4e8df.1920x1080.jpg?t=1782400980"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248390/ss_cf53f2762e395950296260e61c43d595bc681cfd.1920x1080.jpg?t=1782400980"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248390/ss_5cc02fbedd962e5faa7bd1b090f6c49775508d8b.1920x1080.jpg?t=1782400980"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248390/ss_211132cd6662fc2232913b3db42e58877b948e8d.1920x1080.jpg?t=1782400980"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248390/ss_dcb796eb80c0e824c4161fe29f0a85152f2a1aad.1920x1080.jpg?t=1782400980"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248390/ss_6fe95405ed82db05abaa1656c0a6232f034202df.1920x1080.jpg?t=1782400980"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248390/ss_49465043f4f839a6195c603ea76586e8c796196b.1920x1080.jpg?t=1782400980"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248390/ss_0f29014f34f59468c12962a5bbc1c44cde1ecfc3.1920x1080.jpg?t=1782400980"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248390/ss_84ce5ec0d2d8f2865893122970bd2595d26c7a5f.1920x1080.jpg?t=1782400980"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248390/ss_6cabc5cdce82a78d4a44b72145c9afdf9e761f9b.1920x1080.jpg?t=1782400980"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Craft The World",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256703084/movie.293x165.jpg?t=1512633625",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/248390/136906/d0e84033e14547f89c20f192a3b017352dd86f68/1750487519/dash_h264.mpd?t=1512633625"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 248390,
+    "store_url": "https://store.steampowered.com/app/248390/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Dwarves",
+      "Colony Sim",
+      "Crafting",
+      "Building",
+      "Sandbox",
+      "Survival",
+      "Open World",
+      "Strategy",
+      "Indie",
+      "Simulation",
+      "City Builder",
+      "RPG",
+      "2D",
+      "Multiplayer",
+      "Singleplayer",
+      "Resource Management",
+      "Fantasy",
+      "Adventure",
+      "God Game",
+      "Tower Defense"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 14998,
+    "review_negative": 1972,
+    "review_total": 16970,
+    "review_positive_percent": 88.38
+  }
+}

@@ -1,0 +1,494 @@
+{
+  "key": "farming-simulator-22",
+  "name": "Farming Simulator 22",
+  "description": "Create your farm and let the good times grow! Harvest crops, tend to animals, manage productions, and take on seasonal challenges.",
+  "developers": [
+    "Giants Software"
+  ],
+  "publishers": [
+    "Giants Software"
+  ],
+  "release_date": "2021-11-22",
+  "website": "https://farming-simulator.com/",
+  "tags": [
+    "simulation",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "farming-sim",
+    "agriculture",
+    "moddable",
+    "management",
+    "sandbox",
+    "3d",
+    "first-person",
+    "economy",
+    "open-world",
+    "family-friendly",
+    "immersive-sim",
+    "nature",
+    "character-customization",
+    "horses",
+    "third-person",
+    "singleplayer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "hungarian",
+    "czech",
+    "romanian",
+    "turkish",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "模拟农场22",
+    "german": "Landwirtschafts-Simulator 22"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "x64/FarmingSimulator2022Game.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/",
+          "pattern": "inputBinding.xml",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame1/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame2/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame3/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame4/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame5/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame6/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame7/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame8/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame9/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame10/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame11/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame12/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame13/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame14/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame15/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame16/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame17/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame18/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame19/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame20/",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Farming Simulator 2022.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/",
+          "pattern": "inputBinding.xml",
+          "recursive": false
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame1/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame2/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame3/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame4/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame5/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame6/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame7/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame8/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame9/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame10/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame11/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame12/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame13/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame14/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame15/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame16/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame17/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame18/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame19/",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "FarmingSimulator2022/savegame20/",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Farming Simulator 22",
+    "x64/FarmingSimulator2022Game",
+    "Farming Simulator 2022.app",
+    "Landwirtschafts-Simulator 22"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1248130/ed60ecbebf2754934c023553e0485919bc44ccbb.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/7ff56320788fa4b1f46ac9a62ff955d3ef3f109c/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/b742b6f07152d9ab56dcaa332ca69d59d3151513/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/ss_9c8671e78c9239a606b91de098e46562224d3215.1920x1080.jpg?t=1765792398"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/ss_3865a183dd2ca709d5ec0b49bdf44c08f61dc85e.1920x1080.jpg?t=1765792398"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/ss_d12e8979c3db3265921a3de9061eed887119d4d6.1920x1080.jpg?t=1765792398"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/ss_5377365f61878eaf6d6e0ba7000d98fcc7042ac2.1920x1080.jpg?t=1765792398"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/ss_1b45126ba7e17965f4262aff8ec133e269ff9385.1920x1080.jpg?t=1765792398"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/ss_110ad860ddd810c2e69188ff5313442b92892a79.1920x1080.jpg?t=1765792398"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/ss_284fe8c99bdd2f98db1df3b1b12fe711b68b2c41.1920x1080.jpg?t=1765792398"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/ss_6529454e06f5a2a6b0c61e32dec475e034e04ddb.1920x1080.jpg?t=1765792398"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/ss_3761cbc25e709c863f1e3c36698f7948eda143ca.1920x1080.jpg?t=1765792398"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/ss_3b51e1d4c1296cba7e9db35f4f22fbf4186ad677.1920x1080.jpg?t=1765792398"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/ss_b3b4fccd7f8cf80d603a22df2c63058e66e5ca8d.1920x1080.jpg?t=1765792398"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/ss_bb4d9e853f0e2eda15779946a01ebfc801e2ac94.1920x1080.jpg?t=1765792398"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/ss_4c65922fdd5cc6104a052b66159f18c449936134.1920x1080.jpg?t=1765792398"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/ss_6cce9f22cecceadde94651888d1885c985d5541b.1920x1080.jpg?t=1765792398"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/ss_8990aa036de6248f65c9b829d365ac6d3e9ff5b2.1920x1080.jpg?t=1765792398"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/ss_a526b5e17d2f3c8f4471e1e7e1005cb4534811c5.1920x1080.jpg?t=1765792398"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/ss_22a864a29f494810d631fb8bcc406b6e61a86356.1920x1080.jpg?t=1765792398"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/ss_bdb2626cf9be59efbefe677037a26ded22ba95b2.1920x1080.jpg?t=1765792398"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/ss_c3c45abd2a011a14ad74108f2c64b332a3ab64b1.1920x1080.jpg?t=1765792398"
+    }
+  ],
+  "videos": [
+    {
+      "name": "FS22 - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256861560/movie.293x165.jpg?t=1659447796",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1248130/418964/8c2b9e44893a365924e07cdecec5acc2fafd7159/1750650823/dash_h264.mpd?t=1659447796"
+    },
+    {
+      "name": "Farming Simulator 22 - Garage Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256861903/movie.293x165.jpg?t=1659447799",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1248130/419553/341ccd4c4800cb9a69485b6558c0791bacb62016/1750650833/dash_h264.mpd?t=1659447799"
+    },
+    {
+      "name": "Farming Simulator 22 - Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256870529/movie.293x165.jpg?t=1659447803",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1248130/434280/f475b706c624b674e8d2fe88a2c32726f3ff5bed/1750650869/dash_h264.mpd?t=1659447803"
+    },
+    {
+      "name": "Farming Simulator 22 - CGI Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256861904/movie.293x165.jpg?t=1659447807",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1248130/419554/4626e8dab5c1f7bb311f15048ff78b1e1df56dfc/1750650853/dash_h264.mpd?t=1659447807"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1248130,
+    "store_url": "https://store.steampowered.com/app/1248130/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Farming Sim",
+      "Co-op",
+      "Multiplayer",
+      "Agriculture",
+      "Moddable",
+      "Management",
+      "Sandbox",
+      "3D",
+      "First-Person",
+      "Economy",
+      "Open World",
+      "Online Co-Op",
+      "Family Friendly",
+      "Immersive Sim",
+      "Nature",
+      "Character Customization",
+      "Horses",
+      "Third Person",
+      "Singleplayer"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 85013,
+    "review_negative": 6718,
+    "review_total": 91731,
+    "review_positive_percent": 92.68
+  }
+}

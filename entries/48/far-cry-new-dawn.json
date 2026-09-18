@@ -1,0 +1,125 @@
+{
+  "key": "far-cry-new-dawn",
+  "name": "Far Cry New Dawn",
+  "description": "Dive into a transformed vibrant post-apocalyptic Hope County, Montana, 17 years after a global nuclear catastrophe. Lead the fight against the Highwaymen, as they seek to take over the last remaining resources.",
+  "developers": [
+    "Ubisoft Montreal"
+  ],
+  "publishers": [
+    "Ubisoft"
+  ],
+  "release_date": "2019-02-16",
+  "website": "https://far-cry.ubisoft.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "multiplayer",
+    "co-op",
+    "online-co-op"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "dutch",
+    "czech",
+    "arabic",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "bin/FarCryNewDawn.exe",
+          "description": "Master exe",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Far Cry New Dawn",
+    "bin/FarCryNewDawn"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/939960/4123e8e644fd7c9d576e405f76f4296869293deb.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939960/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939960/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939960/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939960/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939960/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939960/ss_14d17774c8843fa0a7f44c1afadb5258af8b450d.1920x1080.jpg?t=1750925197"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939960/ss_7a80ba40c596387f98ab6ae7438e8739cd4fe586.1920x1080.jpg?t=1750925197"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939960/ss_2fff582b3d3fc721c2f4a7d329fb63e15d09899c.1920x1080.jpg?t=1750925197"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939960/ss_6627af432ce20020477ef29cb8dd4a02e76a4b32.1920x1080.jpg?t=1750925197"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Story trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256743335/movie.293x165.jpg?t=1550505600",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/939960/209853/337485961712e5351fb656c2522702a7de727ee6/1750599868/dash_h264.mpd?t=1550505600"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 939960,
+    "store_url": "https://store.steampowered.com/app/939960/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "In-App Purchases",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Adjustable Difficulty",
+      "Mouse Only Option",
+      "Save Anytime",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Surround Sound",
+      "Partial Controller Support"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 26131,
+    "review_negative": 8607,
+    "review_total": 34738,
+    "review_positive_percent": 75.22
+  }
+}

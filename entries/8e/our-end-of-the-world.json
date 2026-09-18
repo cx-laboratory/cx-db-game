@@ -1,0 +1,190 @@
+{
+  "key": "our-end-of-the-world",
+  "name": "Our End of the World",
+  "description": "Filled with puzzles, the story between she and me at the end of the world. English Subtitle Released on 2018/11/22!",
+  "developers": [
+    "橘子班"
+  ],
+  "publishers": [
+    "NVLMaker"
+  ],
+  "release_date": "2017-11-03",
+  "website": "",
+  "tags": [
+    "adventure",
+    "indie",
+    "simulation",
+    "sexual-content",
+    "dating-sim",
+    "multiple-endings",
+    "visual-novel",
+    "nudity",
+    "anime",
+    "word-game",
+    "post-apocalyptic",
+    "puzzle",
+    "dark",
+    "violent",
+    "horror",
+    "fps",
+    "romance"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "schinese",
+    "tchinese"
+  ],
+  "name_localized": {
+    "schinese": "我和她的世界末日",
+    "tchinese": "我和她的世界末日"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "package\\teow.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "NVLCloud/Teow",
+          "pattern": "*.sav",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "NVLCloud/Teow",
+          "pattern": "*.jpg",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Teow.app/Contents/MacOS/Teow",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "NVLCloud/Teow",
+          "pattern": "*.sav",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "NVLCloud/Teow",
+          "pattern": "*.jpg",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Our End of the World",
+    "package\\teow",
+    "Teow.app/Contents/MacOS/Teow",
+    "我和她的世界末日"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/703700/a8c2b87a99eabe282392b877a4b4360e919fdff6.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703700/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703700/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703700/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703700/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703700/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703700/ss_f4a4724641e5dbf3508d5b80017b7833a41b11a5.1920x1080.jpg?t=1714052314"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703700/ss_bc426f31fd0a9746ed5f36c943774baa56d4ee89.1920x1080.jpg?t=1714052314"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703700/ss_13dc9cc0eafd1a72125e16accbd426a856492ed7.1920x1080.jpg?t=1714052314"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703700/ss_d52137989d444451dcaa23c042176ae9d92c252b.1920x1080.jpg?t=1714052314"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703700/ss_c99f938de7fbebb95252b3f5e57f2da1f75dc948.1920x1080.jpg?t=1714052314"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703700/ss_dd93f2d0a52ac0a0807bf76625bd4843abafdd6a.1920x1080.jpg?t=1714052314"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703700/ss_db3ce6c3e35b87392e0adc9efbc4f94bac9fb220.1920x1080.jpg?t=1714052314"
+    }
+  ],
+  "videos": [
+    {
+      "name": "pv",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256694169/movie.293x165.jpg?t=1507791563",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/703700/120768/8bdd4b455b87d5cc9acee5bc60d6340a369e9a04/1751133583/dash_h264.mpd?t=1507791563"
+    },
+    {
+      "name": "pv2",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256699352/movie.293x165.jpg?t=1509005655",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/703700/130280/536886441a1c384e5b29ba7946f93102e3a29493/1751133585/dash_h264.mpd?t=1509005655"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 703700,
+    "store_url": "https://store.steampowered.com/app/703700/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Sexual Content",
+      "Dating Sim",
+      "Multiple Endings",
+      "Visual Novel",
+      "Nudity",
+      "Anime",
+      "Word Game",
+      "Adventure",
+      "Post-apocalyptic",
+      "Indie",
+      "Puzzle",
+      "Simulation",
+      "Dark",
+      "Violent",
+      "Horror",
+      "FPS",
+      "Romance"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 3844,
+    "review_negative": 989,
+    "review_total": 4833,
+    "review_positive_percent": 79.54
+  }
+}

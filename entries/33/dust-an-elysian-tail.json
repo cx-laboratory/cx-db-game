@@ -1,0 +1,206 @@
+{
+  "key": "dust-an-elysian-tail",
+  "name": "Dust: An Elysian Tail",
+  "description": "Immerse yourself in a gorgeous hand-painted world on a search for your true identity. As the mysterious warrior, Dust, your action-packed journey will take you from peaceful glades to snowy mountaintops and beyond.",
+  "developers": [
+    "Humble Hearts LLC"
+  ],
+  "publishers": [
+    "Xbox Game Studios"
+  ],
+  "release_date": "2013-05-25",
+  "website": "https://www.facebook.com/DustAnElysianTail",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "platformer",
+    "metroidvania",
+    "2d",
+    "singleplayer",
+    "fantasy",
+    "great-soundtrack",
+    "beat-em-up",
+    "hack-and-slash",
+    "exploration",
+    "story-rich",
+    "controller",
+    "beautiful",
+    "side-scroller",
+    "anime",
+    "action-rpg",
+    "atmospheric"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "japanese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "DustAET.exe",
+          "description": "Launch with Console",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "SavedGames/DustAET",
+          "pattern": "*.sav",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "DustAET.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "SavedGames/DustAET",
+          "pattern": "*.sav",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "./DustAET",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "SavedGames/DustAET",
+          "pattern": "*.sav",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Dust: An Elysian Tail",
+    "DustAET",
+    "DustAET.app",
+    "./DustAET"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/236090/3779535aba1ad565d504a7d52c6dd5c9eeb47fb2.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236090/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236090/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236090/library_600x900.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236090/ss_bb0bb104d025d7078000cfdbc1da13d0f9140488.1920x1080.jpg?t=1667838728"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236090/ss_72f03d88618737bd69f674c95b197029a645a062.1920x1080.jpg?t=1667838728"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236090/ss_bbb015ac3c9419ef891e717e6488c11710518633.1920x1080.jpg?t=1667838728"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236090/ss_afb025e35a8a0d1fdb718503291883fbb62d11b9.1920x1080.jpg?t=1667838728"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236090/ss_6499bf398942af124d696420d1d09ee467a1d8a5.1920x1080.jpg?t=1667838728"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236090/ss_08144f649272fe0b5720be1927b9700117b22550.1920x1080.jpg?t=1667838728"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236090/ss_44b78a1dd186a032c9d6a1912ce77e97cd960ed1.1920x1080.jpg?t=1667838728"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236090/ss_4b65ee1fd0755560205a437007ed3002179bbf84.1920x1080.jpg?t=1667838728"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236090/ss_3ec22fc41932d595dfe6d1aed22766e72078c53b.1920x1080.jpg?t=1667838728"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Dust: An Elysian Tail - Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028717/movie.293x165.jpg?t=1447357934",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/236090/11619/e2fa054be1edec29ae3c38ae6d6237f76f1a4e4c/1751258738/dash_h264.mpd?t=1447357934"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 236090,
+    "store_url": "https://store.steampowered.com/app/236090/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Action",
+      "Platformer",
+      "Metroidvania",
+      "Indie",
+      "RPG",
+      "Adventure",
+      "2D",
+      "Singleplayer",
+      "Fantasy",
+      "Great Soundtrack",
+      "Beat 'em up",
+      "Hack and Slash",
+      "Exploration",
+      "Story Rich",
+      "Controller",
+      "Beautiful",
+      "Side Scroller",
+      "Anime",
+      "Action RPG",
+      "Atmospheric"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 18092,
+    "review_negative": 922,
+    "review_total": 19014,
+    "review_positive_percent": 95.15
+  }
+}

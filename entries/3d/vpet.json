@@ -1,0 +1,195 @@
+{
+  "key": "vpet",
+  "name": "VPet",
+  "description": "Feeling like the computer desktop is too dull? Need something cute to heal oneself? Come and try this new completely free and open source V-Pet simulator. A cute and adorable pet that supports various feeding interactions to accompany you in game learning is definitely your best choice!",
+  "developers": [
+    "LB Game"
+  ],
+  "publishers": [
+    "LB Game"
+  ],
+  "release_date": "2023-08-14",
+  "website": "https://www.exlb.net/VPet",
+  "tags": [
+    "casual",
+    "indie",
+    "rpg",
+    "simulation",
+    "free-to-play",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "cute",
+    "anime",
+    "sexual-content",
+    "relaxing",
+    "hentai",
+    "moddable",
+    "cartoony",
+    "singleplayer",
+    "incremental",
+    "life-sim",
+    "funny",
+    "cartoon",
+    "family-friendly",
+    "nudity"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "schinese",
+    "tchinese"
+  ],
+  "name_localized": {
+    "english": "VPet-Simulator",
+    "schinese": "虚拟桌宠模拟器"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "VPet-Simulator.Windows.exe",
+          "description": "start games - x64",
+          "type": "default"
+        },
+        {
+          "executable": "VPet-Simulator.Windows_x86.exe",
+          "description": "start games - x86",
+          "type": "default"
+        },
+        {
+          "executable": "VPet.Solution.exe",
+          "description": "VPet problem solving tool",
+          "type": "config"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "Setting.lps",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "",
+          "pattern": "ChatGPTSetting.json",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Saves",
+          "pattern": "*.lps",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "VPet",
+    "VPet-Simulator.Windows",
+    "VPet-Simulator.Windows_x86",
+    "VPet.Solution",
+    "VPet-Simulator",
+    "虚拟桌宠模拟器"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1920960/c223dfb8d009fc8ad65f8f2bef56978c4411d1e5.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1920960/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1920960/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1920960/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1920960/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1920960/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1920960/ss_24dded3ad62b8095e177e681e430db240f6daa75.1920x1080.jpg?t=1723439659"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1920960/ss_c592af7ecb7666e6f88484734a6f099d65b2c580.1920x1080.jpg?t=1723439659"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1920960/ss_14e8521486d318cfef254afecce55db303bcb7b4.1920x1080.jpg?t=1723439659"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1920960/ss_53676e3e65ebd86879e5c1576f351e22957eed40.1920x1080.jpg?t=1723439659"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1920960/ss_7c2c64f052ed2cb982f6c2870a01aa82db228d77.1920x1080.jpg?t=1723439659"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1920960/ss_f9ed1e9544bf153eda478ddd943fa5d0ceaf03ad.1920x1080.jpg?t=1723439659"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1920960/ss_ecb70990142a401f4400fc50381733a43f83174c.1920x1080.jpg?t=1723439659"
+    }
+  ],
+  "videos": [
+    {
+      "name": "虚拟桌宠模拟器 宣传片",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256951850/movie.293x165.jpg?t=1686308430",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1920960/576448/a87653ac2d4a273f45ca56278aab6e9b703bb5a9/1751495001/dash_h264.mpd?t=1686308430"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1920960,
+    "store_url": "https://store.steampowered.com/app/1920960/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Stats",
+      "Steam Leaderboards",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Cute",
+      "Anime",
+      "Sexual Content",
+      "Casual",
+      "Relaxing",
+      "Simulation",
+      "Hentai",
+      "Moddable",
+      "Cartoony",
+      "Indie",
+      "Singleplayer",
+      "Incremental",
+      "Life Sim",
+      "Funny",
+      "Cartoon",
+      "RPG",
+      "Family Friendly",
+      "Nudity",
+      "Psychological Horror"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 50375,
+    "review_negative": 870,
+    "review_total": 51245,
+    "review_positive_percent": 98.3
+  }
+}

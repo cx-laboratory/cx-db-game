@@ -1,0 +1,144 @@
+{
+  "key": "hotline-miami",
+  "name": "Hotline Miami",
+  "description": "Hotline Miami is a high-octane action game overflowing with raw brutality, hard-boiled gunplay and skull crushing close combat.",
+  "developers": [
+    "Dennaton Games"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "release_date": "2012-10-24",
+  "website": "https://www.hotlinemiami.com/",
+  "tags": [
+    "action",
+    "indie"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Portuguese - Brazil",
+    "Russian",
+    "Polish"
+  ],
+  "name_localized": {
+    "schinese": "火线迈阿密"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "HotlineMiami.exe",
+          "description": "Launch with Console",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Hotline Miami.app/Contents/MacOS/YoYo70",
+          "description": "Launch with Console",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "hotline_launcher",
+          "description": "Launch with Console",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Hotline Miami",
+    "HotlineMiami",
+    "Hotline Miami.app/Contents/MacOS/YoYo70",
+    "hotline_launcher",
+    "火线迈阿密"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/219150/493c0a3e823c60c14f91204526f26cc064ed7c84.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/ss_263387d83df0626c58a484baa8f78f9394074b76.1920x1080.jpg?t=1782406379"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/ss_bdf28f59652e53e725d96d94cdc8db97fc277cf2.1920x1080.jpg?t=1782406379"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/ss_a868b45895c06a2e45a6f6a8646c4574b0157525.1920x1080.jpg?t=1782406379"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/ss_a2aa276b25345368d00338cfe54ebbcfa0c60168.1920x1080.jpg?t=1782406379"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/ss_75386edf15a48d844dc28ffdc61eb5c458d68533.1920x1080.jpg?t=1782406379"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Hotline Miami The Weapons",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/82138/movie.293x165.jpg?t=1447356910",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/219150/9513/3638ba6d06669582b44a24d43f59ae1ec655ce31/1750481403/dash_h264.mpd?t=1447356910"
+    },
+    {
+      "name": "Hotline Miami The Masks",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/82136/movie.293x165.jpg?t=1447356909",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/219150/9512/fcc9089536434bf9d248a5c553cd4d51c02e516f/1750481397/dash_h264.mpd?t=1447356909"
+    }
+  ],
+  "metacritic": {
+    "score": 85,
+    "url": "https://www.metacritic.com/game/pc/hotline-miami?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 219150,
+    "store_url": "https://store.steampowered.com/app/219150/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 120919,
+    "review_negative": 3855,
+    "review_total": 124774,
+    "review_positive_percent": 96.91
+  }
+}

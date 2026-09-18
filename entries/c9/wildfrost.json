@@ -1,0 +1,194 @@
+{
+  "key": "wildfrost",
+  "name": "Wildfrost",
+  "description": "Take on the elements in Wildfrost, a tactical roguelike deckbuilder! Journey across a frozen tundra, collecting cards strong enough to banish the eternal winter…",
+  "developers": [
+    "Deadpan Games"
+  ],
+  "publishers": [
+    "Chucklefish"
+  ],
+  "release_date": "2023-04-12",
+  "website": "http://wildfrostgame.com",
+  "tags": [
+    "indie",
+    "strategy",
+    "card-battler",
+    "roguelike-deckbuilder",
+    "card-game",
+    "difficult",
+    "turn-based-tactics",
+    "roguelite",
+    "deckbuilding",
+    "roguelike",
+    "singleplayer",
+    "turn-based",
+    "perma-death",
+    "turn-based-strategy",
+    "replay-value",
+    "procedural-generation",
+    "colorful",
+    "controller",
+    "fantasy",
+    "base-building",
+    "2d"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "koreana",
+    "schinese",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "schinese": "雪居之地 (Wildfrost)",
+    "tchinese": "斯諾德維爾之戰 (Wildfrost)",
+    "japanese": "ワイルドフロスト (Wildfrost)",
+    "koreana": "와일드프로스트 (Wildfrost)"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Wildfrost.exe",
+          "description": "Wildfrost",
+          "type": "option1"
+        },
+        {
+          "executable": "Modded/Wildfrost.exe",
+          "description": "Wildfrost With Mods",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Wildfrost",
+    "Modded/Wildfrost",
+    "雪居之地 (Wildfrost)",
+    "斯諾德維爾之戰 (Wildfrost)",
+    "ワイルドフロスト (Wildfrost)",
+    "와일드프로스트 (Wildfrost)"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1811990/d8b9c6856421f6d68b97fe5b8ba68da0d3cbe480.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811990/dd2032e0f2caab9c6ba560ab988cdec8d1ab3f24/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811990/1f768bc2c642bc0087b5821946a0b91858385985/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811990/84fd5bd9e4c3d8a92a5bba7a77febd5fc3ca32d3/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811990/4f24a18facf8226f3ffbf49542f068b4cde1b0ee/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811990/36ccaebaa37caa1f996178bc7b12e98f214ab0a0/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811990/ss_d7ed2146d858a0abd02a8256befe264328595537.1920x1080.jpg?t=1778084209"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811990/ss_81c4f6108af5679782590dfbce1a3f948069d27b.1920x1080.jpg?t=1778084209"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811990/ss_099d1276c899b5d6813bb2fd354fe1f0c9dbe789.1920x1080.jpg?t=1778084209"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811990/ss_b749d8c76c55e060e44b7db56dfedc615333035f.1920x1080.jpg?t=1778084209"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811990/ss_e398f9145d22a6afa92676dde13e32cff418f91d.1920x1080.jpg?t=1778084209"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811990/ss_d9f7f1d4fc074ac1db54295677f415010d12bbed.1920x1080.jpg?t=1778084209"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811990/ss_cef61ad891c00ea162a9a514d32df7254fb6eb5c.1920x1080.jpg?t=1778084209"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811990/ss_8575eff1311bb8fa50a67d80902aed3ea23f7da3.1920x1080.jpg?t=1778084209"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811990/ss_475d11273fcb7a8615beabc2f80e8cad8feaf889.1920x1080.jpg?t=1778084209"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811990/ss_21b9944d77b9eaf47601d56bf90eb55476b8f62b.1920x1080.jpg?t=1778084209"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811990/ss_0251000ca945c16ebadd7af9abbe2b501b6513ce.1920x1080.jpg?t=1778084209"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811990/ss_466a72188ee33b24d37c45a2bfffdd7bb2e45962.1920x1080.jpg?t=1778084209"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256880757/movie.293x165.jpg?t=1652278106",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1811990/452297/ca67e7b63331a878679068d3714a4e042b899121/1750737495/dash_h264.mpd?t=1652278106"
+    },
+    {
+      "name": "Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256938631/movie.293x165.jpg?t=1680182102",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1811990/553387/f7065e6aaba9bed1c99c6e148c179afa09e15b6c/1750737500/dash_h264.mpd?t=1680182102"
+    }
+  ],
+  "metacritic": {
+    "score": 80,
+    "url": "https://www.metacritic.com/game/pc/wildfrost?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1811990,
+    "store_url": "https://store.steampowered.com/app/1811990/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Workshop",
+      "Steam Workshop",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Card Battler",
+      "Roguelike Deckbuilder",
+      "Card Game",
+      "Difficult",
+      "Turn-Based Tactics",
+      "Roguelite",
+      "Deckbuilding",
+      "Roguelike",
+      "Singleplayer",
+      "Turn-Based",
+      "Perma Death",
+      "Turn-Based Strategy",
+      "Replay Value",
+      "Strategy",
+      "Procedural Generation",
+      "Colorful",
+      "Controller",
+      "Fantasy",
+      "Base Building",
+      "2D"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7245,
+    "review_negative": 1508,
+    "review_total": 8753,
+    "review_positive_percent": 82.77
+  }
+}

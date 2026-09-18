@@ -1,0 +1,225 @@
+{
+  "key": "casecracker",
+  "name": "CaseCracker",
+  "description": "No flashy visuals, just pure mental gymnastics. Actively search, cross-reference, and unravel the truth from a complex database. In this hardcore text-based deduction game, the devil is always in the details. Detective, are you ready?",
+  "developers": [
+    "BlackRobe"
+  ],
+  "publishers": [
+    "BlackRobe"
+  ],
+  "release_date": "2022-12-19",
+  "website": "",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "rpg",
+    "simulation",
+    "strategy",
+    "text-based",
+    "detective",
+    "puzzle",
+    "hacking",
+    "word-game",
+    "story-rich",
+    "2d",
+    "typing",
+    "first-person",
+    "realistic",
+    "logic",
+    "mystery",
+    "singleplayer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "schinese"
+  ],
+  "name_localized": {
+    "schinese": "真探"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "CaseCracker.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BlackRobe/CaseCracker/Save",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BlackRobe/CaseCracker/Save",
+          "pattern": "*.sav.h1",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BlackRobe/CaseCracker/Save",
+          "pattern": "*.sav.h2",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BlackRobe/CaseCracker/Save",
+          "pattern": "*.sav.h3",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BlackRobe/CaseCracker3/Save",
+          "pattern": "*.sav.bak",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "CaseCracker.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BlackRobe/CaseCracker/Save",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BlackRobe/CaseCracker/Save",
+          "pattern": "*.sav.h1",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BlackRobe/CaseCracker/Save",
+          "pattern": "*.sav.h2",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BlackRobe/CaseCracker/Save",
+          "pattern": "*.sav.h3",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BlackRobe/CaseCracker3/Save",
+          "pattern": "*.sav.bak",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "CaseCracker",
+    "CaseCracker.app",
+    "真探"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1723260/a13bceca42d05221ca0cedaba66711830ee45b2e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1723260/c2a3e3b94a9d54e34d0bb3176d4478323cf377bc/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1723260/cf62c50939016afa37af70c2e6d49597bec86cec/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1723260/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1723260/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1723260/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1723260/62fe7e40c497bbbbf21636b040be6355bce5250a/ss_62fe7e40c497bbbbf21636b040be6355bce5250a.1920x1080.jpg?t=1778569243"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1723260/7fdb50052c1fba825ec86e5a5126c44da528d7e7/ss_7fdb50052c1fba825ec86e5a5126c44da528d7e7.1920x1080.jpg?t=1778569243"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1723260/af8cce0a5ad3fd4c8cc98db16a35ac3ef666c83b/ss_af8cce0a5ad3fd4c8cc98db16a35ac3ef666c83b.1920x1080.jpg?t=1778569243"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1723260/4afeefc1bdd1a4381785e3b25882ab892cb778ea/ss_4afeefc1bdd1a4381785e3b25882ab892cb778ea.1920x1080.jpg?t=1778569243"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1723260/550ac3e3a90d683ad87ad4f5ba2282e76f32e416/ss_550ac3e3a90d683ad87ad4f5ba2282e76f32e416.1920x1080.jpg?t=1778569243"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1723260/ss_dfcf8a79348cc215b9af88ef047a30da5fe0acee.1920x1080.jpg?t=1778569243"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1723260/ss_6dd20a428e8c5946f3fc80716555888d24c77185.1920x1080.jpg?t=1778569243"
+    }
+  ],
+  "videos": [
+    {
+      "name": "[EN]CaseCracker_Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256919592/aa4eca725bb6d689e8507c0f02fb617790ea6667/movie_600x337.jpg?t=1774523250",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1723260/1536006727/8169df930a938b10e4cfc1ccf82d77bab23dd977/1774522732/dash_h264.mpd?t=1774523250"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1723260,
+    "store_url": "https://store.steampowered.com/app/1723260/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Text-Based",
+      "Detective",
+      "Puzzle",
+      "Psychological Horror",
+      "Hacking",
+      "RPG",
+      "Word Game",
+      "Story Rich",
+      "2D",
+      "Strategy",
+      "Simulation",
+      "Typing",
+      "Casual",
+      "First-Person",
+      "Realistic",
+      "Logic",
+      "Mystery",
+      "Adventure",
+      "Singleplayer",
+      "Indie"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 3034,
+    "review_negative": 358,
+    "review_total": 3392,
+    "review_positive_percent": 89.45
+  }
+}

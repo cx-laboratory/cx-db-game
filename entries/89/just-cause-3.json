@@ -1,0 +1,184 @@
+{
+  "key": "just-cause-3",
+  "name": "Just Cause 3",
+  "description": "With over 1000 km² of complete freedom from sky to seabed, Rico Rodriguez returns to unleash chaos in the most creative and explosive ways imaginable.",
+  "developers": [
+    "Avalanche Studios"
+  ],
+  "publishers": [
+    "Square Enix"
+  ],
+  "release_date": "2015-12-01",
+  "website": "https://justcause.com/",
+  "tags": [
+    "action",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "JustCause3.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "SavesDir",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Square Enix\\Just Cause 3\\Saves\\{64BitSteamID}\\",
+          "pattern": "*.*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Just Cause 3",
+    "JustCause3"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/225540/c82c69c8d616d9d273d749e3dd3bd7a0f9da594a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225540/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225540/11024d449f8ada784d47a22a81e4a57c871cc663/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225540/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225540/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225540/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225540/ss_3f7f935e42ab9a7816a6e0f9442da5a5a6362789.1920x1080.jpg?t=1782912719"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225540/ss_ae30914f50d33b12e5c1d65426cc94ed4e497bfa.1920x1080.jpg?t=1782912719"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225540/ss_d23bcbb686ed6327782ef7fadb1e9477883c56b0.1920x1080.jpg?t=1782912719"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225540/ss_f8158239f6386689730677bdc4f40c797d0fbbaf.1920x1080.jpg?t=1782912719"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225540/ss_de2dc07d91b51447cd26f01870eb1ff14d0b4ec4.1920x1080.jpg?t=1782912719"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225540/ss_7ea2465254fcbd03eb88802a48edd7069ac91848.1920x1080.jpg?t=1782912719"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225540/ss_f90ee63a17bd7eef8dd5ae9cf6da18b5415cafa4.1920x1080.jpg?t=1782912719"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225540/ss_1b18fe3b8e0dab8cec922200f1daef2f601141c4.1920x1080.jpg?t=1782912719"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225540/ss_2c96edc8e64bbd36257934d2683b02c238c5f030.1920x1080.jpg?t=1782912719"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225540/ss_a9eda103f0ab690912f1c8ce4b647f05783f0d98.1920x1080.jpg?t=1782912719"
+    }
+  ],
+  "videos": [
+    {
+      "name": "JCS_XL ESRB EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256673315/movie.293x165.jpg?t=1477500536",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/225540/77866/6703c5af4ad7284a13b3182d25a0b96f079ab238/1750482311/dash_h264.mpd?t=1477500536"
+    },
+    {
+      "name": "JC3 Kasabian ESRB ENG",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256658775/movie.293x165.jpg?t=1449067709",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/225540/47988/144e7ac541d64fed0c8aeea9f6bbe9537767aec2/1750482191/dash_h264.mpd?t=1449067709"
+    },
+    {
+      "name": "JC3 Story Trailer ESRB US",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256657631/movie.293x165.jpg?t=1447378619",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/225540/45417/0aa8d08bbae7b2bffb7a4c26a7f4ef6bcfa9e0a5/1750482159/dash_h264.mpd?t=1447378619"
+    },
+    {
+      "name": "E3 Multi_Choice ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256654884/movie.293x165.jpg?t=1447377164",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/225540/39518/48c55da35e643362b18ba5fb03fdc1d810ebc55a/1750482108/dash_h264.mpd?t=1447377164"
+    },
+    {
+      "name": "JC3 Pre Order ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2038929/movie.293x165.jpg?t=1447373655",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/225540/35045/034910105d52d86496e0c69519d74869ca61ce9c/1750482028/dash_h264.mpd?t=1447373655"
+    },
+    {
+      "name": "Firestarter Trailer ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2037252/movie.293x165.jpg?t=1447369292",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/225540/31436/657142bf1f0081ccbdca7c792b51072373d811d4/1750482025/dash_h264.mpd?t=1447369292"
+    },
+    {
+      "name": "JC3 101 ESRB ENG",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2040261/movie.293x165.jpg?t=1447376746",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/225540/38116/a012b8f4003d449196e681f0ebf77df441ddf24d/1750482073/dash_h264.mpd?t=1447376746"
+    },
+    {
+      "name": "Just Cause 3 DLC Bavarium Sea Heist ESRB EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256668234/movie.293x165.jpg?t=1470931001",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/225540/67281/408cb12c449ac981418e10aadae53d1a1f108f35/1750482269/dash_h264.mpd?t=1470931001"
+    }
+  ],
+  "metacritic": {
+    "score": 74,
+    "url": "https://www.metacritic.com/game/pc/just-cause-3?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 225540,
+    "store_url": "https://store.steampowered.com/app/225540/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 107311,
+    "review_negative": 19913,
+    "review_total": 127224,
+    "review_positive_percent": 84.35
+  }
+}

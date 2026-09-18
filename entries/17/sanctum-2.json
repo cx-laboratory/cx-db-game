@@ -1,0 +1,190 @@
+{
+  "key": "sanctum-2",
+  "name": "Sanctum 2",
+  "description": "Sanctum 2 is the sequel to the world’s first Tower Defense/FPS hybrid game. Pick from four unique character classes and embark on a mission to protect the oxygen-producing Cores from hordes of deadly aliens who are threatened by their existence.",
+  "developers": [
+    "Coffee Stain Studios"
+  ],
+  "publishers": [
+    "Coffee Stain Publishing"
+  ],
+  "release_date": "2013-05-16",
+  "website": "",
+  "tags": [
+    "action",
+    "indie",
+    "strategy",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "tower-defense",
+    "fps",
+    "sci-fi",
+    "first-person",
+    "shooter",
+    "singleplayer",
+    "survival",
+    "aliens",
+    "futuristic",
+    "female-protagonist",
+    "combat",
+    "funny",
+    "great-soundtrack",
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian",
+    "japanese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Binaries\\Win32\\SanctumGame-Win32-Shipping.exe",
+          "description": "Launch Game",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Sanctum2.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Sanctum2",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Sanctum 2",
+    "Binaries\\Win32\\SanctumGame-Win32-Shipping",
+    "Sanctum2.app",
+    "Sanctum2"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/210770/4cdfa1d19be460374a111b718ce3a204f21ea1dc.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210770/75bbb195391cac2943e0b51468e0561fab1261f7/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210770/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210770/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210770/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210770/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210770/ss_383e61d27a880f8c121a70a587ffa49a949e1df2.1920x1080.jpg?t=1774270979"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210770/ss_41673936cf0df5cdf2b4c0549e118829730d8e88.1920x1080.jpg?t=1774270979"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210770/ss_8a9cbab892d41cb1734508a572f1471a5b5a2117.1920x1080.jpg?t=1774270979"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210770/ss_b71e0291ddebad4add09562c6b221ea0aaae50ea.1920x1080.jpg?t=1774270979"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210770/ss_18b928231ce4b8b50c8e6f1bd11e9ef7cbd88164.1920x1080.jpg?t=1774270979"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Sanctum 2 - Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028602/movie.293x165.jpg?t=1447357796",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/210770/11315/69d5a9966761468706f4b47bf38454ad1ad46b55/1750493481/dash_h264.mpd?t=1447357796"
+    },
+    {
+      "name": "Sanctum 2 - Pre-Order Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028667/movie.293x165.jpg?t=1447357884",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/210770/11501/d3b672913f5be539acc758c47d27ef5d1d8e3cf3/1750493481/dash_h264.mpd?t=1447357884"
+    },
+    {
+      "name": "Sanctum 2 - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028703/movie.293x165.jpg?t=1447357916",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/210770/11574/29ddeb7ddc13388352348596582146ba1f2d7fbe/1750493496/dash_h264.mpd?t=1447357916"
+    }
+  ],
+  "metacritic": {
+    "score": 77,
+    "url": "https://www.metacritic.com/game/pc/sanctum-2?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 210770,
+    "store_url": "https://store.steampowered.com/app/210770/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Tower Defense",
+      "FPS",
+      "Co-op",
+      "Strategy",
+      "Action",
+      "Sci-fi",
+      "Online Co-Op",
+      "Indie",
+      "Multiplayer",
+      "First-Person",
+      "Shooter",
+      "Singleplayer",
+      "Survival",
+      "Aliens",
+      "Futuristic",
+      "Female Protagonist",
+      "Combat",
+      "Funny",
+      "Great Soundtrack",
+      "RPG"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 12934,
+    "review_negative": 1451,
+    "review_total": 14385,
+    "review_positive_percent": 89.91
+  }
+}

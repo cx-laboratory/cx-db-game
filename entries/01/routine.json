@@ -1,0 +1,190 @@
+{
+  "key": "routine",
+  "name": "ROUTINE",
+  "description": "ROUTINE is a First Person Sci-Fi Horror set on an abandoned lunar base designed around an 80s vision of the future. Explore and investigate your surroundings as you survive against unknown threats.",
+  "developers": [
+    "Lunar Software"
+  ],
+  "publishers": [
+    "Raw Fury"
+  ],
+  "release_date": "2025-12-04",
+  "website": "http://routinegame.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "singleplayer",
+    "sci-fi",
+    "atmospheric",
+    "cinematic",
+    "dark",
+    "horror",
+    "puzzle",
+    "walking-simulator",
+    "first-person",
+    "exploration",
+    "stealth",
+    "space",
+    "story-rich",
+    "thriller",
+    "3d",
+    "aliens"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "月球任务"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Routine.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Routine/Saved/SaveGames",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "ROUTINE",
+    "Routine",
+    "月球任务"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/606160/cf1a695041e5ef3ff94ea1c734d0352fb789c334.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606160/ebdc630cc5e78005f5912721bca3a70bdc620a7e/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606160/c1714399d6e9337971f571ffdbacfa37d967c9f8/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606160/d8934f2c37e6e04023c7c18045dc15e7fd857afc/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606160/dd842f5b958df0e02eae637ed5b5a8b970d8f959/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606160/2978cf069f518583218dbc61061a2a9cf00595ed/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606160/ffb9d3685274c1ffd8b612573d4d6b14598d2956/ss_ffb9d3685274c1ffd8b612573d4d6b14598d2956.1920x1080.jpg?t=1780562819"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606160/296ce8bb07a2ce169bfffd9c85c3466d4289687e/ss_296ce8bb07a2ce169bfffd9c85c3466d4289687e.1920x1080.jpg?t=1780562819"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606160/51c8ab7e264d83b6becdf44cd6e72efe9b3996a8/ss_51c8ab7e264d83b6becdf44cd6e72efe9b3996a8.1920x1080.jpg?t=1780562819"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606160/84ba4a51caf5323ec9925767a2e78ab6775897ce/ss_84ba4a51caf5323ec9925767a2e78ab6775897ce.1920x1080.jpg?t=1780562819"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606160/a127ad2a86a0972058f7345f8e9107543e814ac8/ss_a127ad2a86a0972058f7345f8e9107543e814ac8.1920x1080.jpg?t=1780562819"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606160/41ad9c1dbbd030a661a2aaaf8aad5b4b35716eaf/ss_41ad9c1dbbd030a661a2aaaf8aad5b4b35716eaf.1920x1080.jpg?t=1780562819"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606160/cc691ecd5cbf41458e874c60cf8ac5a60238a04f/ss_cc691ecd5cbf41458e874c60cf8ac5a60238a04f.1920x1080.jpg?t=1780562819"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606160/14ac8868ba50f5078f5cf3e7ba8df2fc0067e49d/ss_14ac8868ba50f5078f5cf3e7ba8df2fc0067e49d.1920x1080.jpg?t=1780562819"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Accolades",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257252734/101e26721cacf32141fbf3b3056fe73f7afc0b8a/movie_600x337.jpg?t=1768997691",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/606160/809873190/e5c0884b0f683daeb1d43c163ace75cdda3f76e0/1768996838/dash_h264.mpd?t=1768997691"
+    },
+    {
+      "name": "Launch trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257242865/71236043f755b7ccdefccc21926158a800a245ec/movie_600x337.jpg?t=1764860213",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/606160/1987130420/2adfb6270eb23fdb55912e2593996465c651dc9d/1764766634/dash_h264.mpd?t=1764860213"
+    },
+    {
+      "name": "C.A.T. Developer Walkthrough",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257236999/de221e99d6783ff07dfd5a62afaf8a3526b287c8/movie_600x337.jpg?t=1764246574",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/606160/1176013649/d39735d567607ac1e0bcab4086a7abb6d3013900/1763992998/dash_h264.mpd?t=1764246574"
+    },
+    {
+      "name": "Coming late 2025",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257182039/a6a643d49c5952e651b368b307c4e3c421e4166f/movie_600x337.jpg?t=1755626539",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/606160/1466723756/78d5ff2ccaf6522bfc24721c8dde55cceeaab715/1755001641/dash_h264.mpd?t=1755626539"
+    },
+    {
+      "name": "Release date trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257223657/65f22722f8c9b1d512cc30fb287589361e7094c1/movie_600x337.jpg?t=1761675065",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/606160/958137515/052951443b02a252e3a126a6d6a875fac7a51125/1761662062/dash_h264.mpd?t=1761675065"
+    }
+  ],
+  "metacritic": {
+    "score": 79,
+    "url": "https://www.metacritic.com/game/pc/routine?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 606160,
+    "store_url": "https://store.steampowered.com/app/606160/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Sci-fi",
+      "Psychological Horror",
+      "Atmospheric",
+      "Cinematic",
+      "Dark",
+      "Adventure",
+      "Horror",
+      "Puzzle",
+      "Walking Simulator",
+      "First-Person",
+      "Exploration",
+      "Survival Horror",
+      "Stealth",
+      "Space",
+      "Story Rich",
+      "Thriller",
+      "3D",
+      "Action",
+      "Aliens"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7017,
+    "review_negative": 601,
+    "review_total": 7618,
+    "review_positive_percent": 92.11
+  }
+}

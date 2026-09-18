@@ -1,0 +1,206 @@
+{
+  "key": "endless-legend",
+  "name": "ENDLESS Legend™",
+  "description": "ENDLESS Legend™ is a 4X turn-based fantasy strategy game by the creators of ENDLESS Space™ and Dungeon of the ENDLESS™. Control every aspect of your civilization as you struggle to save your homeworld Auriga. Create your own Legend!",
+  "developers": [
+    "AMPLITUDE Studios"
+  ],
+  "publishers": [
+    "AMPLITUDE Studios"
+  ],
+  "release_date": "2014-09-18",
+  "website": "http://www.amplitude-studios.com/endless-legend",
+  "tags": [
+    "rpg",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "4x",
+    "turn-based",
+    "turn-based-strategy",
+    "fantasy",
+    "hex-grid",
+    "singleplayer",
+    "great-soundtrack",
+    "sci-fi",
+    "indie",
+    "tactical",
+    "grand-strategy",
+    "adventure",
+    "medieval",
+    "atmospheric",
+    "exploration",
+    "open-world",
+    "sandbox"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "polish"
+  ],
+  "name_localized": {
+    "schinese": "无尽帝国",
+    "tchinese": "無盡帝國"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "EndlessLegend.exe",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "EndlessLegend.cmd",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "EndlessLegend.exe",
+          "description": "Rollback branch users",
+          "type": "default"
+        },
+        {
+          "executable": "EndlessLegend.exe",
+          "description": "SteamDeck compatibility",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "EndlessLegend.app",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "ENDLESS Legend™",
+    "EndlessLegend",
+    "EndlessLegend.cmd",
+    "EndlessLegend.app",
+    "无尽帝国",
+    "無盡帝國"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/289130/02277be6b9b09671b857948006316057974d7036.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289130/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289130/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289130/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289130/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289130/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289130/ss_ec8df411b2dd4000c57936e640a9d3d9b9c91c57.1920x1080.jpg?t=1780670351"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289130/ss_e8225a106e257d3996049fe0009c88ae9bda652b.1920x1080.jpg?t=1780670351"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289130/ss_de34fe8d562d348ec75476764034e884732262d0.1920x1080.jpg?t=1780670351"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289130/ss_bfbd8c33435de3ee8444a6e2e04d15a3534bf45e.1920x1080.jpg?t=1780670351"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289130/ss_4f7d69982faa5f8e6d0dbe3169f0f600b68d4bf0.1920x1080.jpg?t=1780670351"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289130/ss_b95e6eb04b7bf6580991f7a0a6c969e1dd0b0a05.1920x1080.jpg?t=1780670351"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289130/ss_17e540400c4fc14aba8591a43bc08882dd6f63d5.1920x1080.jpg?t=1780670351"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289130/ss_e912ecd8915cd1dcaeac704e9c97073be51b9560.1920x1080.jpg?t=1780670351"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Endless Legend - Auriga Supplication Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2034581/movie.293x165.jpg?t=1573401841",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/289130/25369/d1440faa3bbbe6f181e3b0877cde74f58d0e926a/1750500694/dash_h264.mpd?t=1573401841"
+    },
+    {
+      "name": "Endless Legend - Dust to DUST Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2032078/movie.293x165.jpg?t=1573401848",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/289130/20193/83bc22fca9a59fae0dc70a84dd50eac9addee1ea/1750500694/dash_h264.mpd?t=1573401848"
+    }
+  ],
+  "metacritic": {
+    "score": 82,
+    "url": "https://www.metacritic.com/game/pc/endless-legend?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 289130,
+    "store_url": "https://store.steampowered.com/app/289130/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "RPG",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "4X",
+      "Turn-Based",
+      "Turn-Based Strategy",
+      "Fantasy",
+      "Hex Grid",
+      "Multiplayer",
+      "RPG",
+      "Singleplayer",
+      "Great Soundtrack",
+      "Sci-fi",
+      "Indie",
+      "Tactical",
+      "Grand Strategy",
+      "Adventure",
+      "Medieval",
+      "Atmospheric",
+      "Exploration",
+      "Open World",
+      "Sandbox"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 15888,
+    "review_negative": 3143,
+    "review_total": 19031,
+    "review_positive_percent": 83.48
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "key": "life-is-strange-true-colors",
+  "name": "Life is Strange: True Colors",
+  "description": "Alex Chen hides her 'curse': the psychic power of Empathy, the ability to absorb the emotions of others. When her brother dies in a so-called accident, Alex must embrace her power to find the truth.",
+  "developers": [
+    "Deck Nine"
+  ],
+  "publishers": [
+    "Square Enix"
+  ],
+  "release_date": "2021-09-10",
+  "website": "https://www.lifeisstrange.com",
+  "tags": [
+    "action",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "\\Binaries\\Win64\\Siren-Win64-Test.exe",
+          "description": "Launch Test exe",
+          "type": "none"
+        },
+        {
+          "executable": "LifeIsStrange3.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "LifeIsStrange3.exe",
+          "description": "Life is Strange: True Colors (DirectX 12)",
+          "type": "option3"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Life is Strange: True Colors",
+    "\\Binaries\\Win64\\Siren-Win64-Test",
+    "LifeIsStrange3"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/936790/d779927517f9ba9a078016c47d50e3a5648f0585.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_93afc98cccbc51c1364fedb56548896c69ef3704.1920x1080.jpg?t=1771867255"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_92b4caae062d5aebe04ab738db4b78d1c623e3c5.1920x1080.jpg?t=1771867255"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_e5627051a221b6630cb3d9dacc69065fd1a4f8da.1920x1080.jpg?t=1771867255"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_57a8d1468ecbd7fe2f9629b024dd41ba33187148.1920x1080.jpg?t=1771867255"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_9d3698ec2b942b399792e158a810c324bc265724.1920x1080.jpg?t=1771867255"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_2d6ddcab998249ccfe50a485ddab78f6c8754f05.1920x1080.jpg?t=1771867255"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_7bc096f1671436306b650fbacc82ce476749df1f.1920x1080.jpg?t=1771867255"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_5ed82644652a80b5b26310c7f7f55b68186af4ab.1920x1080.jpg?t=1771867255"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_5b4c4a9e459f08b3ca6a97a98ad5fb0e5be4756c.1920x1080.jpg?t=1771867255"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_9f0dc678345ca808372ea4e0af1349ce4154cdef.1920x1080.jpg?t=1771867255"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_acd749a4cdf9aa8d9f31052d33e4d47d621ea66a.1920x1080.jpg?t=1771867255"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_a4a96173729e2b5f25c3d42098678b07f742b41e.1920x1080.jpg?t=1771867255"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch - ESRB_EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256850739/movie.293x165.jpg?t=1631203256",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/936790/399729/a649793eba26e20cb923c9ca934de6c1fccebf7c/1750598540/dash_h264.mpd?t=1631203256"
+    },
+    {
+      "name": "ESRB EN Wavelengths",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256848947/movie.293x165.jpg?t=1630676816",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/936790/396346/f9a761c9f1f820910d8528b349935a67f9133edc/1750598387/dash_h264.mpd?t=1630676816"
+    },
+    {
+      "name": "ESRB EN Announce",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256826275/movie.293x165.jpg?t=1616086764",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/936790/354726/b88472d6c6b4f0f545e0485f72121baa43d6c50d/1750598338/dash_h264.mpd?t=1616086764"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 936790,
+    "store_url": "https://store.steampowered.com/app/936790/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Adjustable Text Size",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 14834,
+    "review_negative": 1866,
+    "review_total": 16700,
+    "review_positive_percent": 88.83
+  }
+}

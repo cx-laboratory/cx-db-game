@@ -1,0 +1,149 @@
+{
+  "key": "henpri",
+  "name": "HENPRI",
+  "description": "Thrown into prison for an act of self-expression, protagonist Shuichiro must confront both a violent system and his own actions—or else try to find happiness on the inside in this visual novel from the makers of NUKITASHI.",
+  "developers": [
+    "Qruppo"
+  ],
+  "publishers": [
+    "Shiravune"
+  ],
+  "release_date": "2025-03-04",
+  "website": "https://shiravune.com",
+  "tags": [
+    "adventure",
+    "casual",
+    "visual-novel",
+    "dark-humor",
+    "anime",
+    "romance",
+    "crime",
+    "noir",
+    "survival",
+    "dystopian",
+    "cult",
+    "gothic",
+    "cute",
+    "story-rich",
+    "mystery",
+    "dark-comedy",
+    "emotional",
+    "atmospheric",
+    "hentai",
+    "capitalism"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "Simplified Chinese",
+    "Traditional Chinese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "HENPRI.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "savedata/",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "HENPRI"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3094010/6bac40187aaf2813d055341c9ab57c1973923d63.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3094010/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3094010/b7fbf7c827906bda53d7d49e8f8531b54586fe94/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3094010/5e9a1495a15ca955a6d3e088154848d98c5ff039/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3094010/24b803421c79e4d3bd5a471b3fb7362b41b87e9b/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3094010/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3094010/ss_34216f07d4bf42385cc288983ba36a35d46f1ea5.1920x1080.jpg?t=1782462900"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3094010/ss_50cc841766d4483705b150dc321f7d1893ca1b7d.1920x1080.jpg?t=1782462900"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3094010/ss_f4b0876f426f5c361273936c5e5f8010ed44570f.1920x1080.jpg?t=1782462900"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3094010/ss_4572283f8014411ec433314e501f2b91824daeb4.1920x1080.jpg?t=1782462900"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3094010/ss_bfaac13113c32ef691ea649df6a13c09b0d1eda0.1920x1080.jpg?t=1782462900"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3094010/ss_0e21a14ab8f8b5155231ed83863fc5cc2795d266.1920x1080.jpg?t=1782462900"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gameplay (EN)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257062897/156008cd52550509ce771e4509f88b45d48f379e/movie_600x337.jpg?t=1731978031",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3094010/768389/90daafda455d94ee93cd581b1a089c1f6b7ad68e/1750974222/dash_h264.mpd?t=1731978031"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3094010,
+    "store_url": "https://store.steampowered.com/app/3094010/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Visual Novel",
+      "Dark Humor",
+      "Anime",
+      "Casual",
+      "Romance",
+      "Crime",
+      "Noir",
+      "Survival",
+      "Dystopian ",
+      "Cult",
+      "Gothic",
+      "Cute",
+      "Story Rich",
+      "Mystery",
+      "Adventure",
+      "Dark Comedy",
+      "Emotional",
+      "Atmospheric",
+      "Hentai",
+      "Capitalism"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 3775,
+    "review_negative": 140,
+    "review_total": 3915,
+    "review_positive_percent": 96.42
+  }
+}

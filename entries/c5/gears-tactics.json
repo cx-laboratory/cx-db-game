@@ -1,0 +1,128 @@
+{
+  "key": "gears-tactics",
+  "name": "Gears Tactics",
+  "description": "Gears Tactics is the fast-paced, turn-based strategy game from one of the most-acclaimed video game franchises – Gears of War. Outnumbered and fighting for survival, recruit and command your squad to hunt down an evil mastermind who makes monsters.",
+  "developers": [
+    "Splash Damage"
+  ],
+  "publishers": [
+    "Xbox Game Studios"
+  ],
+  "release_date": "2020-04-28",
+  "website": "https://www.gearstactics.com",
+  "tags": [
+    "strategy"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "GearGame\\Binaries\\Steam\\GearsTactics.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Gears Tactics",
+    "GearGame\\Binaries\\Steam\\GearsTactics"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1184050/a8fbc1ee993b71eab45d29f6ab5e9db295bb5d87.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184050/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184050/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184050/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184050/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184050/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184050/ss_5b509d4daecd5a75a5307b1f9734749c264cafdd.1920x1080.jpg?t=1694616448"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184050/ss_562bc29afd9a6a68376b50bd895231b9bcee3901.1920x1080.jpg?t=1694616448"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184050/ss_469e87d3d0fc153b8d905a10b469400943bd3982.1920x1080.jpg?t=1694616448"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184050/ss_fc50978674ccda8f2e255f5be2e50d6d85d37302.1920x1080.jpg?t=1694616448"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184050/ss_3bbe5e1bcc29ed1266dbdc904666e7838ced5376.1920x1080.jpg?t=1694616448"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184050/ss_3275d89a45bb397f07b743cffc26c25ff34c3c35.1920x1080.jpg?t=1694616448"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184050/ss_6a398987381425a3e73d6c573dc3a65b13db4aa3.1920x1080.jpg?t=1694616448"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184050/ss_42c31783ccafbfff3c440200d09bbab70c35ceb8.1920x1080.jpg?t=1694616448"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184050/ss_a0dc1fec0fd065be8fdd16ac9dfff8d4d7315c6d.1920x1080.jpg?t=1694616448"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184050/ss_3d24d49755a59d9e37b31b19c2eb607fa0399b91.1920x1080.jpg?t=1694616448"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gears Tactics Launch Trailer - ENESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256781601/movie.293x165.jpg?t=1586967281",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1184050/278311/21c4cc521ae0a8fe5c4146a8f81ead669835dd02/1750635762/dash_h264.mpd?t=1586967281"
+    }
+  ],
+  "metacritic": {
+    "score": 80,
+    "url": "https://www.metacritic.com/game/pc/gears-tactics?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1184050,
+    "store_url": "https://store.steampowered.com/app/1184050/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Captions available",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 5714,
+    "review_negative": 1905,
+    "review_total": 7619,
+    "review_positive_percent": 75
+  }
+}

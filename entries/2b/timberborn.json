@@ -1,0 +1,296 @@
+{
+  "key": "timberborn",
+  "name": "Timberborn",
+  "description": "Humans are long gone. In a world struck by droughts and toxic waste, will your lumberpunk beavers do any better? A sandbox city-building game featuring ingenious animals, vertical architecture, water physics, and terraforming. Contains high amounts of wood.",
+  "developers": [
+    "Mechanistry"
+  ],
+  "publishers": [
+    "Mechanistry"
+  ],
+  "release_date": "2026-03-12",
+  "website": "https://mechanistry.com/",
+  "tags": [
+    "indie",
+    "simulation",
+    "strategy",
+    "city-builder",
+    "colony-sim",
+    "voxel",
+    "sandbox",
+    "automation",
+    "building",
+    "nature",
+    "management",
+    "base-building",
+    "survival",
+    "physics",
+    "science",
+    "farming-sim",
+    "3d",
+    "post-apocalyptic",
+    "stylized",
+    "level-editor",
+    "resource-management"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "polish",
+    "turkish",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "海狸浮生记 Timberborn",
+    "tchinese": "河狸浮生記 Timberborn"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Timberborn.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Timberborn.exe",
+          "description": "Safe Mode",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Timberborn/Saves",
+          "pattern": "*.timber",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Timberborn/Maps",
+          "pattern": "*.timber",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Timberborn/ExperimentalSaves",
+          "pattern": "*.timber",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Timberborn/PlayerData",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Timberborn.app",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Timberborn.app",
+          "description": "Safe Mode",
+          "type": "option1"
+        },
+        {
+          "executable": "Timberborn.app/Contents/MacOS/Timberborn",
+          "description": "macOS workaround",
+          "type": "option3"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Timberborn/Saves",
+          "pattern": "*.timber",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Timberborn/Maps",
+          "pattern": "*.timber",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Timberborn/ExperimentalSaves",
+          "pattern": "*.timber",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Timberborn/PlayerData",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Timberborn",
+    "Timberborn.app",
+    "Timberborn.app/Contents/MacOS/Timberborn",
+    "海狸浮生记 Timberborn",
+    "河狸浮生記 Timberborn"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1062090/a4863a01d88f18c948a712bfe90234ece672ca83.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062090/eeb2babf15cbf4ebc175316a5d3e42a060f3d97c/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062090/dc43b790414e5d1028cb931bb3a50b7606fe1a68/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062090/e1e203d598f5a7d5fb77c9d3994e7d6cd5998d00/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062090/37cf8d9c5e04102133140edf4dd2aaa46cbf15c7/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062090/74b313b999e33c4b47b0ddba3dee86eebc5e73c6/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062090/154bdaa6fc267e89d57592015268f8c0b59924e1/ss_154bdaa6fc267e89d57592015268f8c0b59924e1.1920x1080.jpg?t=1782818342"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062090/562340b1f7bac6ba47527cad5a864c11a44811f7/ss_562340b1f7bac6ba47527cad5a864c11a44811f7.1920x1080.jpg?t=1782818342"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062090/6d19ce417b52a9dc9bd75c8c9ff821a139de27f8/ss_6d19ce417b52a9dc9bd75c8c9ff821a139de27f8.1920x1080.jpg?t=1782818342"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062090/bbf958ad2ec8df142d77eca318461719d47bc2cf/ss_bbf958ad2ec8df142d77eca318461719d47bc2cf.1920x1080.jpg?t=1782818342"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062090/bca4903d7302643347debc70389d7cec0fe80a25/ss_bca4903d7302643347debc70389d7cec0fe80a25.1920x1080.jpg?t=1782818342"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062090/3de627eb8d4292674641c403dd29e29c2a66ce15/ss_3de627eb8d4292674641c403dd29e29c2a66ce15.1920x1080.jpg?t=1782818342"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062090/4e236f3464dd225df3e36ecea6f0ea2f8f319f5e/ss_4e236f3464dd225df3e36ecea6f0ea2f8f319f5e.1920x1080.jpg?t=1782818342"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062090/b81a53f73d9c1272c4e011c9704e86a6a51df723/ss_b81a53f73d9c1272c4e011c9704e86a6a51df723.1920x1080.jpg?t=1782818342"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062090/cceb4bccfe0abed91fbb86cadf8a87e60baeaa61/ss_cceb4bccfe0abed91fbb86cadf8a87e60baeaa61.1920x1080.jpg?t=1782818342"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062090/043858035c241e8d626902e7758c2aecfa672a18/ss_043858035c241e8d626902e7758c2aecfa672a18.1920x1080.jpg?t=1782818342"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062090/c20e3d09b4677fc72a5d337af791041215f751e9/ss_c20e3d09b4677fc72a5d337af791041215f751e9.1920x1080.jpg?t=1782818342"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062090/c5b23ca7bca5d650bd5c083854700260c4483feb/ss_c5b23ca7bca5d650bd5c083854700260c4483feb.1920x1080.jpg?t=1782818342"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062090/a7ec838e4e3f988378532e67a6825cba73dfab0c/ss_a7ec838e4e3f988378532e67a6825cba73dfab0c.1920x1080.jpg?t=1782818342"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062090/82a7e772ae07804af51c713e599a2b780e324490/ss_82a7e772ae07804af51c713e599a2b780e324490.1920x1080.jpg?t=1782818342"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062090/05de5f6fc833f396bd5dd631326405bf3f604833/ss_05de5f6fc833f396bd5dd631326405bf3f604833.1920x1080.jpg?t=1782818342"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062090/6fb8a31ba3274296369c32b3a2cf74de61b23c7e/ss_6fb8a31ba3274296369c32b3a2cf74de61b23c7e.1920x1080.jpg?t=1782818342"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062090/965d52fdf071c79b564c35bd593aa281a17529d5/ss_965d52fdf071c79b564c35bd593aa281a17529d5.1920x1080.jpg?t=1782818342"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Timberborn 1.0 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257300985/3b2d15cc938dfad2ba465222f4b6a5ae9db901c5/movie_600x337.jpg?t=1773329860",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1062090/857145118/5c2bed5443fd7c5a70df4d799c0980721fe0608a/1773135103/dash_h264.mpd?t=1773329860"
+    },
+    {
+      "name": "Timberborn Lore Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257300991/f53039e92c78bb211e410355efa420a547be52d1/movie_600x337.jpg?t=1773329868",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1062090/330310462/a4e587a01921a2cf6658df65494f74bb6772c2d4/1773135762/dash_h264.mpd?t=1773329868"
+    },
+    {
+      "name": "Timberborn Automation Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257301457/65b4bd1da2a9e051f2048b87e1202b290a6494e2/movie_600x337.jpg?t=1773329870",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1062090/1452659562/7155cb63770b78c4729b2d41e603580bbb3eb121/1773224045/dash_h264.mpd?t=1773329870"
+    }
+  ],
+  "metacritic": {
+    "score": 85,
+    "url": "https://www.metacritic.com/game/pc/timberborn?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1062090,
+    "store_url": "https://store.steampowered.com/app/1062090/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "City Builder",
+      "Colony Sim",
+      "Voxel",
+      "Sandbox",
+      "Automation",
+      "Building",
+      "Nature",
+      "Management",
+      "Base Building",
+      "Survival",
+      "Strategy",
+      "Physics",
+      "Science",
+      "Farming Sim",
+      "Simulation",
+      "3D",
+      "Post-apocalyptic",
+      "Stylized",
+      "Level Editor",
+      "Resource Management"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 38693,
+    "review_negative": 1629,
+    "review_total": 40322,
+    "review_positive_percent": 95.96
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "key": "straftat",
+  "name": "STRAFTAT",
+  "description": "STRAFTAT is a 1v1/2v2 ONLINE first person SHOOTER with quick rounds in over 350 MAPS ; Including all WEAPONS, proximity chat and 4 players FFA.",
+  "developers": [
+    "Sirius Lemaitre"
+  ],
+  "publishers": [
+    "Lemaitre Bros"
+  ],
+  "release_date": "2024-10-24",
+  "website": "",
+  "tags": [
+    "action",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "fps",
+    "shooter",
+    "free-to-play",
+    "arena-shooter",
+    "fast-paced",
+    "3d",
+    "1990-s",
+    "gore",
+    "violent",
+    "boomer-shooter",
+    "surreal",
+    "indie",
+    "atmospheric",
+    "great-soundtrack",
+    "retro",
+    "casual"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "罪行"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "STRAFTAT.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LemaitreBros/STRAFTAT",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "STRAFTAT.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LemaitreBros/STRAFTAT",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "STRAFTAT.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "LemaitreBros/STRAFTAT",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "STRAFTAT",
+    "STRAFTAT.app",
+    "STRAFTAT.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2386720/b068dd4be06a24096030295d4790caa23ff7de59.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2386720/ea002b484a1346a95d2c28f9bd932285e352f3c6/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2386720/f14e9deb465bbb41ef5a578ddf438cc3baf616a2/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2386720/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2386720/568e1d71b228c538969df6d37f8f85c2dd29423d/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2386720/7279c252cad30c831895e4f870cee85b3c14a079/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2386720/ss_1c630a6b0a7792caa9bff9c3e29d7829a372f880.1920x1080.jpg?t=1764157677"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2386720/ss_6a7b0d01d3885f2c2e89325eb5d605bdc68f4bae.1920x1080.jpg?t=1764157677"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2386720/ss_0b5af07fd470da8a4ffff80bffac1d618426ec8f.1920x1080.jpg?t=1764157677"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2386720/ss_f9a0881067f0e0b4db993f74327eaf9bbc7e4a47.1920x1080.jpg?t=1764157677"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2386720/ss_10099d31f940ce675b01d041eaf59e3d996ee00c.1920x1080.jpg?t=1764157677"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2386720/ss_29f8fbe946c43e263f1a108b81ecac11cbf5a375.1920x1080.jpg?t=1764157677"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2386720/ss_1ff3062befea98067135f9aa01f7ba6fb06e84d0.1920x1080.jpg?t=1764157677"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2386720/ss_bb580d9a438ccd47e9a3f03ce4d0d0cba6da1582.1920x1080.jpg?t=1764157677"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2386720/ss_f2c4ab57264a1972d468e8284bae43345fc730f5.1920x1080.jpg?t=1764157677"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2386720/ss_698e1030641201d65f2f9fc85219db532c4eec20.1920x1080.jpg?t=1764157677"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2386720/ss_d696d3d700d0dc52861e743d3a271885b6ebae36.1920x1080.jpg?t=1764157677"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2386720/ss_faf2dfc917ca99597186fdf0af7e94d75ce5a06e.1920x1080.jpg?t=1764157677"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2386720/ss_f393f1e3a172d03f7c99cf14b3b9cf01ca39826f.1920x1080.jpg?t=1764157677"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2386720/ss_547937e1230493a42982457d56a824ce159e0cec.1920x1080.jpg?t=1764157677"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2386720/ss_ce04e8b63e6464d2c30d7b3b63858e9bf8268cb0.1920x1080.jpg?t=1764157677"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Straftat - I'm Different",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257144457/d0b723ec0d0f1b41a3fca480916129c237134fa2/movie_600x337.jpg?t=1748025118",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2386720/382087129/fc5072ab3f2b146c5ca8a56cf5d6e8f137e15fc1/1750813631/dash_h264.mpd?t=1748025118"
+    },
+    {
+      "name": "Straftat - 4p",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257167853/e01d4669ddc44e1d8dcff04abaaa3fbfc19ed415/movie_600x337.jpg?t=1752593947",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2386720/2021524977/c8e19622be8d89837584674ed29d42210bec1140/1752252196/dash_h264.mpd?t=1752593947"
+    },
+    {
+      "name": "Straftat - WRLD",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257144458/43126f1a5f3cdbddda22648a60d7f4bdd35d7bbc/movie_600x337.jpg?t=1748033368",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2386720/14216066/93848d8ecb92d427a6bd7d0423c6723d69a0f8e2/1750813630/dash_h264.mpd?t=1748033368"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2386720,
+    "store_url": "https://store.steampowered.com/app/2386720/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Action",
+      "FPS",
+      "Shooter",
+      "PvP",
+      "Multiplayer",
+      "Free to Play",
+      "Arena Shooter",
+      "Fast-Paced",
+      "3D",
+      "1990's",
+      "Gore",
+      "Violent",
+      "Boomer Shooter",
+      "Surreal",
+      "Indie",
+      "Atmospheric",
+      "Great Soundtrack",
+      "Retro",
+      "Casual",
+      "Psychological Horror"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 21114,
+    "review_negative": 840,
+    "review_total": 21954,
+    "review_positive_percent": 96.17
+  }
+}

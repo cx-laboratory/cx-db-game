@@ -1,0 +1,194 @@
+{
+  "key": "xcom-chimera-squad",
+  "name": "XCOM: Chimera Squad",
+  "description": "XCOM: Chimera Squad delivers an all-new story and turn-based tactical combat experience in the XCOM universe.",
+  "developers": [
+    "Firaxis Games"
+  ],
+  "publishers": [
+    "2K"
+  ],
+  "release_date": "2020-04-24",
+  "website": "https://www.xcom.com",
+  "tags": [
+    "strategy",
+    "turn-based-tactics",
+    "turn-based-strategy",
+    "turn-based",
+    "singleplayer",
+    "aliens",
+    "sci-fi",
+    "futuristic",
+    "tactical",
+    "turn-based-combat",
+    "character-customization",
+    "rpg",
+    "tactical-rpg",
+    "female-protagonist",
+    "action",
+    "multiplayer",
+    "isometric"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Dio\\binaries\\Win64\\XCom2.exe",
+          "description": "Release",
+          "type": "option1"
+        },
+        {
+          "executable": "binaries\\Win64\\XCom.exe",
+          "description": "Release",
+          "type": "option1"
+        },
+        {
+          "executable": "binaries\\Win64\\XCom.exe",
+          "description": "Testing/Debug",
+          "type": "option2"
+        },
+        {
+          "executable": "Launcher\\launcher.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "2KLauncher\\LauncherPatcher.exe",
+          "description": "2K Launcher",
+          "type": "default"
+        },
+        {
+          "executable": "binaries\\Win64\\XCom.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Launcher\\launcher.exe",
+          "description": "Open Mod Launcher",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games/XCOM Chimera Squad/XComGame/SaveData",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "XCOM: Chimera Squad",
+    "Dio\\binaries\\Win64\\XCom2",
+    "binaries\\Win64\\XCom",
+    "Launcher\\launcher",
+    "2KLauncher\\LauncherPatcher"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/882100/dd8ae1a236af5d4a833f41aab2fdad902f454c63.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882100/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882100/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882100/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882100/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882100/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882100/ss_05da9ecfa48f79eaf04f1efa02043130c81d2b52.1920x1080.jpg?t=1603903072"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882100/ss_29e66f5367aa6f42db117bf1bd13ef3167ee6be1.1920x1080.jpg?t=1603903072"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882100/ss_85c538c08dbc74a109dd13f47e14a9678146b1e2.1920x1080.jpg?t=1603903072"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882100/ss_73be46336d1c23bacf5cd347ed8743b456c96ff7.1920x1080.jpg?t=1603903072"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882100/ss_cdfbe0e462e9bb0c5ab831e49a07ab91928c1624.1920x1080.jpg?t=1603903072"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882100/ss_a7d8575bebe935589127a50828a83dfbd9585787.1920x1080.jpg?t=1603903072"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882100/ss_adcd8271e4e9f57dacde44c138330dec5a3f3df3.1920x1080.jpg?t=1603903072"
+    }
+  ],
+  "videos": [
+    {
+      "name": "XCOM: Chimera Squad Gameplay Overview- EN ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256781296/movie.293x165.jpg?t=1586872967",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/882100/277736/2435506ecc35fdacb6c9c031d97a95c6f49dcb2e/1750592923/dash_h264.mpd?t=1586872967"
+    },
+    {
+      "name": "XCOM: Chimera Squad - EN ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256781290/movie.293x165.jpg?t=1586873002",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/882100/277728/3776cc35266ba1a583b56c07c72ca72172dfe11d/1750592910/dash_h264.mpd?t=1586873002"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 882100,
+    "store_url": "https://store.steampowered.com/app/882100/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "Turn-Based Tactics",
+      "Turn-Based Strategy",
+      "Turn-Based",
+      "Singleplayer",
+      "Aliens",
+      "Sci-fi",
+      "Futuristic",
+      "Tactical",
+      "Turn-Based Combat",
+      "Character Customization",
+      "RPG",
+      "Tactical RPG",
+      "Female Protagonist",
+      "Action",
+      "Multiplayer",
+      "Isometric"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 16634,
+    "review_negative": 6715,
+    "review_total": 23349,
+    "review_positive_percent": 71.24
+  }
+}

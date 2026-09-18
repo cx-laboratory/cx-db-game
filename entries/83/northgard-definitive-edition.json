@@ -1,0 +1,296 @@
+{
+  "key": "northgard-definitive-edition",
+  "name": "Northgard: Definitive Edition",
+  "description": "Northgard: Definitive Edition is a critically acclaimed real-time strategy game based on Norse mythology. Lead your clan, uncover the secrets of a mysterious newfound continent and defeat your enemies to conquer the Throne!",
+  "developers": [
+    "Shiro Games"
+  ],
+  "publishers": [
+    "Shiro Games"
+  ],
+  "release_date": "2018-03-07",
+  "website": "https://northgard.net/",
+  "tags": [
+    "adventure",
+    "indie",
+    "simulation",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "city-builder",
+    "rts",
+    "base-building",
+    "colony-sim",
+    "building",
+    "economy",
+    "tactical",
+    "war",
+    "management",
+    "4x",
+    "singleplayer",
+    "vikings",
+    "pve",
+    "moddable",
+    "resource-management"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "German",
+    "Russian",
+    "Simplified Chinese",
+    "Portuguese - Brazil",
+    "Polish",
+    "Spanish - Spain",
+    "Turkish",
+    "Italian",
+    "Korean*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Northgard.exe",
+          "description": "Northgard DirectX",
+          "type": "option1"
+        },
+        {
+          "executable": "Northgard.exe",
+          "description": "Northgard OpenGL",
+          "type": "option1"
+        },
+        {
+          "executable": "ng32/Northgard.exe",
+          "description": "Northgard DirectX 32bits",
+          "type": "option1"
+        },
+        {
+          "executable": "ng32/Northgard.exe",
+          "description": "Northgard SDL 32bits",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "save",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "save",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "save/conquest",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "osx/hl",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "osx/run.sh",
+          "description": "Northgard Fail safe (no steam overlay)",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "save",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "save",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "save/conquest",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "linux/run.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "save",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "save",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "save/conquest",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Northgard: Definitive Edition",
+    "Northgard",
+    "ng32/Northgard",
+    "osx/hl",
+    "osx/run.sh",
+    "linux/run.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/466560/f290db6bc98c8b40d01a13b9c99baaf705c6ac17.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466560/45008ebe47821718edc5ac93e392023813403e91/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466560/4f9d2e2cad25a0f45555a4c21056679aecbcf5cf/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466560/a0579cd59209024fbc1b9679dbc766fbf121a213/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466560/24be103981acdaafae86949a393d2f7cba10aef8/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466560/0214db138cf6b0b41ac64d21da22facae18e8317/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466560/ss_eb6ecfd37f68dc5cadabf603c4ab890d2a545730.1920x1080.jpg?t=1783000775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466560/e2677588df00827df20758e56f96a825f0f741fd/ss_e2677588df00827df20758e56f96a825f0f741fd.1920x1080.jpg?t=1783000775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466560/5452d42c32e21f999d2f2e29e312653d2344294d/ss_5452d42c32e21f999d2f2e29e312653d2344294d.1920x1080.jpg?t=1783000775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466560/e71a1c785c3864a22b2d507e3e511f2e15368812/ss_e71a1c785c3864a22b2d507e3e511f2e15368812.1920x1080.jpg?t=1783000775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466560/ss_13fc33e3ad933bac47419d80892ebaabfe502d8b.1920x1080.jpg?t=1783000775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466560/ss_d55c0b95e12e233ea529c1eb7d2b89a5af7ea1e4.1920x1080.jpg?t=1783000775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466560/ss_86976543db1ec2903cd5ae0ae020547841a93a4c.1920x1080.jpg?t=1783000775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466560/5eb913d28839814291e028659aae74142c7e75a0/ss_5eb913d28839814291e028659aae74142c7e75a0.1920x1080.jpg?t=1783000775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466560/ss_2c2ad2deee0673f0473e239d742184bc8f21194b.1920x1080.jpg?t=1783000775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466560/37579b1bc5f4e21688a7d5c56322ba4d2522f630/ss_37579b1bc5f4e21688a7d5c56322ba4d2522f630.1920x1080.jpg?t=1783000775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466560/ss_e6f58e6488d05b370edb2a2139d8d171b41d7a29.1920x1080.jpg?t=1783000775"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466560/ss_8f85758576b550fdb7d3d51c1841513750aa0ee0.1920x1080.jpg?t=1783000775"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Definitive Edition | Out now",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257242927/d6a361f95afd81ded94b027ca8cde54d89be141c/movie_600x337.jpg?t=1764864169",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/466560/1274293776/142603b333d49be18b3b0ca6fa1cfd6769e86799/1764777602/dash_h264.mpd?t=1764864169"
+    },
+    {
+      "name": "Celebrating Northgard (2024 Trailer)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257049548/movie.293x165.jpg?t=1724685498",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/466560/746182/a79a766b53ae82ea2ff8b8607a7a0fceaebd5d28/1750534484/dash_h264.mpd?t=1724685498"
+    }
+  ],
+  "metacritic": {
+    "score": 81,
+    "url": "https://www.metacritic.com/game/pc/northgard?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 466560,
+    "store_url": "https://store.steampowered.com/app/466560/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "City Builder",
+      "RTS",
+      "Simulation",
+      "Base Building",
+      "Multiplayer",
+      "Colony Sim",
+      "Building",
+      "Economy",
+      "Tactical",
+      "War",
+      "Management",
+      "4X",
+      "Co-op",
+      "PvP",
+      "Singleplayer",
+      "Vikings",
+      "PvE",
+      "Moddable",
+      "Resource Management"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 58323,
+    "review_negative": 10065,
+    "review_total": 68388,
+    "review_positive_percent": 85.28
+  }
+}

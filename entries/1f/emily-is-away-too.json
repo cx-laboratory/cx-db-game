@@ -1,0 +1,205 @@
+{
+  "key": "emily-is-away-too",
+  "name": "Emily is Away Too",
+  "description": "Emily is Away Too is a brand new story featuring new characters and multiple different endings. Message your friends, surf the web and choose your path through this branching narrative.",
+  "developers": [
+    "Kyle Seeley"
+  ],
+  "publishers": [
+    "Kyle Seeley"
+  ],
+  "release_date": "2017-05-27",
+  "website": "http://emilyisaway.com/",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "rpg",
+    "simulation",
+    "choices-matter",
+    "dating-sim",
+    "pixel-graphics",
+    "story-rich",
+    "multiple-endings",
+    "singleplayer",
+    "text-based",
+    "visual-novel",
+    "memes",
+    "funny",
+    "retro",
+    "great-soundtrack",
+    "romance",
+    "atmospheric"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "EmilyIsAwayToo.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "EmilyOnline/EmilyOnline.exe",
+          "description": "Emily Online",
+          "type": "option2"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "KyleSeeley/Emily Is Away Too",
+          "pattern": "*.txt",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "EmilyIsAwayToo.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "KyleSeeley/Emily Is Away Too",
+          "pattern": "*.txt",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "EmilyIsAwayToo.x86",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "KyleSeeley/Emily Is Away Too",
+          "pattern": "*.txt",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Emily is Away Too",
+    "EmilyIsAwayToo",
+    "EmilyOnline/EmilyOnline",
+    "EmilyIsAwayToo.app",
+    "EmilyIsAwayToo.x86"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/523780/4c022f7f2482c2136ee317f5f5e59c1d96a59285.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523780/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523780/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523780/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523780/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523780/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523780/ss_6e07a677c0bc35b72d51dd8987a6a41c9ae1330b.1920x1080.jpg?t=1572365609"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523780/ss_9a08167b0a4e3cff65cfe576913ed22eddaef016.1920x1080.jpg?t=1572365609"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523780/ss_28be79aaa685fd92a397a561a75711ca2ab3cb33.1920x1080.jpg?t=1572365609"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523780/ss_c0175267783b1da4e3ea8456430fa627031ffa0b.1920x1080.jpg?t=1572365609"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523780/ss_617b611e1b87e689d094182a019e8481a0935a2e.1920x1080.jpg?t=1572365609"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523780/ss_8afc074a3604415de0c2c9aae65269f5e2cc1669.1920x1080.jpg?t=1572365609"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256678917/movie.293x165.jpg?t=1487437798",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/523780/88771/52bcb8afa6fad56983fcacafc9d7b39df8092b5e/1750543582/dash_h264.mpd?t=1487437798"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256685796/movie.293x165.jpg?t=1495817396",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/523780/104948/52da9755beb75ca7c8ef0b1264141663d127e83d/1750543585/dash_h264.mpd?t=1495817396"
+    }
+  ],
+  "metacritic": {
+    "score": 81,
+    "url": "https://www.metacritic.com/game/pc/emily-is-away-too?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 523780,
+    "store_url": "https://store.steampowered.com/app/523780/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Stats",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Indie",
+      "Simulation",
+      "Choices Matter",
+      "Dating Sim",
+      "Casual",
+      "Pixel Graphics",
+      "Story Rich",
+      "Multiple Endings",
+      "Singleplayer",
+      "Text-Based",
+      "Visual Novel",
+      "RPG",
+      "Adventure",
+      "Memes",
+      "Funny",
+      "Psychological Horror",
+      "Retro",
+      "Great Soundtrack",
+      "Romance",
+      "Atmospheric"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 5767,
+    "review_negative": 417,
+    "review_total": 6184,
+    "review_positive_percent": 93.26
+  }
+}

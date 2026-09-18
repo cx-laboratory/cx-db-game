@@ -1,0 +1,222 @@
+{
+  "key": "teardown",
+  "name": "Teardown",
+  "description": "Prepare the perfect heist in a fully destructible, simulated voxel world. Tear down walls with vehicles or use explosives to create your own shortcuts. Shape the environment to your advantage in the most creative ways you can imagine. Play solo or with up to 12 players in multiplayer.",
+  "developers": [
+    "Tuxedo Labs"
+  ],
+  "publishers": [
+    "Tuxedo Labs"
+  ],
+  "release_date": "2022-04-21",
+  "website": "http://teardowngame.com",
+  "tags": [
+    "action",
+    "indie",
+    "simulation",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "destruction",
+    "physics",
+    "sandbox",
+    "voxel",
+    "singleplayer",
+    "heist",
+    "first-person",
+    "replay-value",
+    "co-op-campaign",
+    "mod",
+    "3d",
+    "driving",
+    "realistic",
+    "puzzle"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Polish",
+    "Russian",
+    "Simplified Chinese"
+  ],
+  "name_localized": {
+    "schinese": "拆迁 (游戏)"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "teardown.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "teardown64_profile_steam.exe",
+          "description": "dev version",
+          "type": "option1"
+        },
+        {
+          "executable": "teardown64_profile_steam.exe",
+          "description": "dev version",
+          "type": "option1"
+        },
+        {
+          "executable": "teardown64_profile_steam.exe",
+          "description": "dev version",
+          "type": "option1"
+        },
+        {
+          "executable": "teardown64_profile_steam.exe",
+          "description": "dev version",
+          "type": "option1"
+        },
+        {
+          "executable": "teardown64_profile_steam.exe",
+          "description": "dev version",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Teardown",
+          "pattern": "savegame.xml",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Teardown",
+    "teardown",
+    "teardown64_profile_steam"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1167630/2820515b4c8ed6e78724c6a0e5903e7c2a95dce8.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167630/38bac946654a2cc775607518fb5c8e4e0a0f9a87/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167630/592fd402f333d5022f47691dbe49d26c9bae0c6c/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167630/943e8110c7b4eafc6a02c87703ea5f6f8e2ef2ba/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167630/4be4a2a04eced623634999bf606b4ed7526ac23d/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167630/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167630/ss_b140eeaf8e489dfa4451411ae23c28a0ecb26729.1920x1080.jpg?t=1781525152"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167630/f266c2457a6b183a89abce8659bac7419fdfc5f0/ss_f266c2457a6b183a89abce8659bac7419fdfc5f0.1920x1080.jpg?t=1781525152"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167630/560d42a1125ebee850a1740f92f31da84c4c88e5/ss_560d42a1125ebee850a1740f92f31da84c4c88e5.1920x1080.jpg?t=1781525152"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167630/ss_9a48b92d7144b7f4a27c0b5bc7dac1e687698f5b.1920x1080.jpg?t=1781525152"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167630/ss_9fd3e8de605efc42e29ba98f72432cb78a15d7ac.1920x1080.jpg?t=1781525152"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167630/123496e2e880b88162a8b79f5e620fd85beb744a/ss_123496e2e880b88162a8b79f5e620fd85beb744a.1920x1080.jpg?t=1781525152"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167630/e4bad8b6fe5945aaf43aaf9212f8f1dbd4db23cf/ss_e4bad8b6fe5945aaf43aaf9212f8f1dbd4db23cf.1920x1080.jpg?t=1781525152"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167630/ss_dc08bfb0b8b381bc580d2599ad24462af4690a20.1920x1080.jpg?t=1781525152"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167630/c6255befb5b3e3248fec672be626449e01ced6d8/ss_c6255befb5b3e3248fec672be626449e01ced6d8.1920x1080.jpg?t=1781525152"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167630/ss_50dd8a16ca7ce02dd18ccbd19908a3eda27b82a9.1920x1080.jpg?t=1781525152"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167630/ss_beac47def3673b7ce3423584e512caa67bf2d69e.1920x1080.jpg?t=1781525152"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Teardown - Multiplayer Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257301427/fe9e95b82a78e8119b9a18e15ac4b0f33e203ce2/movie_600x337.jpg?t=1773320756",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1167630/94834896/caf40df90a786e8c1959bd85a0da70fd4493a72f/1773219031/dash_h264.mpd?t=1773320756"
+    },
+    {
+      "name": "Teardown - Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257218169/60f6c2edd7e73106b684e2ef00932991fe98623a/movie_600x337.jpg?t=1773334264",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1167630/818675657/980c2b042264627a8fed302a7df2e73f8ca91cdd/1773136716/dash_h264.mpd?t=1773334264"
+    }
+  ],
+  "metacritic": {
+    "score": 80,
+    "url": "https://www.metacritic.com/game/pc/teardown?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1167630,
+    "store_url": "https://store.steampowered.com/app/1167630/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Includes level editor",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Destruction",
+      "Physics",
+      "Sandbox",
+      "Voxel",
+      "Multiplayer",
+      "Singleplayer",
+      "Heist",
+      "Indie",
+      "First-Person",
+      "Replay Value",
+      "Co-op",
+      "Co-op Campaign",
+      "Mod",
+      "3D",
+      "Simulation",
+      "Action",
+      "Driving",
+      "Realistic",
+      "Online Co-Op",
+      "Puzzle"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 127337,
+    "review_negative": 5539,
+    "review_total": 132876,
+    "review_positive_percent": 95.83
+  }
+}

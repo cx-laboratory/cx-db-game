@@ -1,0 +1,154 @@
+{
+  "key": "valkyria-chronicles",
+  "name": "Valkyria Chronicles™",
+  "description": "The critically acclaimed Valkyria Chronicles is now available on PC in 1080p True HD, including all previously released DLC!",
+  "developers": [
+    "SEGA"
+  ],
+  "publishers": [
+    "SEGA"
+  ],
+  "release_date": "2014-11-11",
+  "website": "",
+  "tags": [
+    "action",
+    "rpg",
+    "strategy",
+    "anime",
+    "turn-based",
+    "story-rich",
+    "jrpg",
+    "tactical",
+    "singleplayer",
+    "tactical-rpg",
+    "strategy-rpg",
+    "great-soundtrack",
+    "war",
+    "tanks",
+    "third-person",
+    "turn-based-strategy",
+    "world-war-ii",
+    "romance",
+    "female-protagonist",
+    "classic"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Launcher.exe",
+          "description": "Launch Valkyria Chronicles",
+          "type": "default"
+        },
+        {
+          "executable": "Launcher.exe",
+          "description": "Configure Valkyria Chronicles",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "savedata/{64BitSteamID}",
+          "pattern": "*.dat",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Valkyria Chronicles™",
+    "Launcher"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/294860/176c6dcafc9bf0fbb87f9adeb224df88c8248a66.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294860/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294860/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294860/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294860/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294860/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294860/ss_114a127f2a50239dca897e1a7665e39aec947aba.1920x1080.jpg?t=1769644498"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294860/ss_791a4800ed4063730aee61602df1f27694be08a6.1920x1080.jpg?t=1769644498"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294860/ss_c24c25d800d26e0672e310857ab5b5fb7b577727.1920x1080.jpg?t=1769644498"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294860/ss_254139d7516b678177ca4a162066617d05545d77.1920x1080.jpg?t=1769644498"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294860/ss_616156151a8a1432d005ecd1cfc43c0ecd4e19ad.1920x1080.jpg?t=1769644498"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Valkyria Chronicles Intro Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2035414/movie.293x165.jpg?t=1447364869",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/294860/27276/e5f0b3846501f5b78a91adbf7609f2e463ffc740/1750502969/dash_h264.mpd?t=1447364869"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 294860,
+    "store_url": "https://store.steampowered.com/app/294860/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "RPG",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Anime",
+      "Strategy",
+      "Turn-Based",
+      "Story Rich",
+      "JRPG",
+      "RPG",
+      "Tactical",
+      "Singleplayer",
+      "Tactical RPG",
+      "Strategy RPG",
+      "Great Soundtrack",
+      "War",
+      "Tanks",
+      "Third Person",
+      "Turn-Based Strategy",
+      "Action",
+      "World War II",
+      "Romance",
+      "Female Protagonist",
+      "Classic"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 11912,
+    "review_negative": 1323,
+    "review_total": 13235,
+    "review_positive_percent": 90
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "key": "crawl",
+  "name": "Crawl",
+  "description": "Crawl is the local multiplayer dungeon crawler where your friends control the monsters! Battle through dungeons and power up your hero - if a friend kills you they take your place and it’s their turn to crawl. It's a race to gain enough XP and loot to take on the hulking final boss!",
+  "developers": [
+    "Powerhoof"
+  ],
+  "publishers": [
+    "Powerhoof"
+  ],
+  "release_date": "2017-04-11",
+  "website": "http://www.crawlgame.com",
+  "tags": [
+    "action",
+    "indie",
+    "rpg",
+    "multiplayer",
+    "pvp",
+    "pixel-graphics",
+    "dungeon-crawler",
+    "local-multiplayer",
+    "4-player-local",
+    "action-roguelike",
+    "roguelike",
+    "lovecraftian",
+    "2d",
+    "great-soundtrack",
+    "co-op",
+    "fantasy",
+    "gore",
+    "singleplayer",
+    "horror",
+    "arcade"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "爬行者"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Crawl.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Crawl.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Crawl.x86",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "Crawl.x86_64",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Crawl",
+    "Crawl.app",
+    "Crawl.x86",
+    "Crawl.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/293780/139dfb62ede8539f33b354e0c6852f37c7e58aea.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293780/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293780/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293780/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293780/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293780/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293780/ss_0ab29715e1cab5558c5f91b27d85fd2761f1313b.1920x1080.jpg?t=1776928364"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293780/ss_fc976432a918c91660b6f4015251d8dbe24bc5d2.1920x1080.jpg?t=1776928364"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293780/ss_4bcd919072cad46137c2427b7bb0850146447713.1920x1080.jpg?t=1776928364"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293780/ss_b3de6b63fc4baeac399266546530a58b365b1ca1.1920x1080.jpg?t=1776928364"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293780/ss_a2d2dcf1fb032a59bef4aafe531293b215679184.1920x1080.jpg?t=1776928364"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293780/ss_a8fd1619d63d8d57bc43a8e258d8a822f0300b74.1920x1080.jpg?t=1776928364"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293780/ss_865c235445beb2401b42760fdcdb14c48e9c2023.1920x1080.jpg?t=1776928364"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256683032/movie.293x165.jpg?t=1491904454",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/293780/97925/43bff18ae9bcf9b2823f2909d83731b88aa02eba/1750502923/dash_h264.mpd?t=1491904454"
+    },
+    {
+      "name": "Early Access Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2033573/movie.293x165.jpg?t=1447362819",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/293780/23329/4203cbbd92cd522a5a636fe6f1f1a35c9cb640b3/1750502914/dash_h264.mpd?t=1447362819"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2033876/movie.293x165.jpg?t=1447363108",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/293780/23919/d22ce5cf3d0f264f6e8c686980be5129d23bc0a9/1750502921/dash_h264.mpd?t=1447363108"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 293780,
+    "store_url": "https://store.steampowered.com/app/293780/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Shared/Split Screen PvP",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Pixel Graphics",
+      "Dungeon Crawler",
+      "Local Multiplayer",
+      "4 Player Local",
+      "Action Roguelike",
+      "Indie",
+      "Local Co-Op",
+      "Action",
+      "Multiplayer",
+      "Roguelike",
+      "RPG",
+      "Lovecraftian",
+      "2D",
+      "Great Soundtrack",
+      "Co-op",
+      "Fantasy",
+      "Gore",
+      "Singleplayer",
+      "Horror",
+      "Arcade"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 6887,
+    "review_negative": 388,
+    "review_total": 7275,
+    "review_positive_percent": 94.67
+  }
+}

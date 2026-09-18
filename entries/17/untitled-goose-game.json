@@ -1,0 +1,215 @@
+{
+  "key": "untitled-goose-game",
+  "name": "Untitled Goose Game",
+  "description": "It's a lovely morning in the village and you are a horrible goose.",
+  "developers": [
+    "House House"
+  ],
+  "publishers": [
+    "Panic"
+  ],
+  "release_date": "2020-09-24",
+  "website": "https://goose.game",
+  "tags": [
+    "action",
+    "indie",
+    "multiplayer",
+    "co-op",
+    "split-screen",
+    "funny",
+    "villain-protagonist",
+    "cute",
+    "comedy",
+    "puzzle",
+    "stealth",
+    "singleplayer",
+    "family-friendly",
+    "local-multiplayer",
+    "colorful",
+    "sandbox",
+    "third-person",
+    "adventure",
+    "physics",
+    "simulation"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "鹅作剧",
+    "japanese": "Untitled Goose Game 〜いたずらガチョウがやって来た！〜"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Untitled.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "House House/Untitled Goose Game",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Untitled Goose Game.app",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "House House/Untitled Goose Game",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Untitled Goose Game",
+    "Untitled",
+    "Untitled Goose Game.app",
+    "Untitled Goose Game 〜いたずらガチョウがやって来た！〜"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/837470/6e2e1a85218053fbb1bca010bf28d73f1bec1965.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/ss_deb5b83b07d3f7c1050ea46b51117109da06952b.1920x1080.jpg?t=1699052664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/ss_7576323f465966792d0fb021acf5a8a81a16e9f9.1920x1080.jpg?t=1699052664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/ss_f77f22299e196a9e8e702bd36fbba9951a6c0a01.1920x1080.jpg?t=1699052664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/ss_4f8a37c4fe9882876c891333dc2a76060a3e5652.1920x1080.jpg?t=1699052664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/ss_df679de6ce524a4d3c3d452a29593adbd88c38bb.1920x1080.jpg?t=1699052664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/ss_f85be4e268c984bcdec7c35138830fe1a7e50484.1920x1080.jpg?t=1699052664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/ss_d468130acce4745c613402bf5c3923d904e1dca1.1920x1080.jpg?t=1699052664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/ss_401d26ae8efe2eb0e7b784355c5253d6d3580b09.1920x1080.jpg?t=1699052664"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/ss_b16ae2206ddbb93646b383db84b606464398798f.1920x1080.jpg?t=1699052664"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Untitled Goose Game - Sept 2020 Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256800521/movie.293x165.jpg?t=1600878491",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/837470/311344/eb35b8e069dc278470b128249ce0a7a6399cd8a5/1750587884/dash_h264.mpd?t=1600878491"
+    },
+    {
+      "name": "Untitled Goose Game - Honk Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256777797/movie.293x165.jpg?t=1583979680",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/837470/271676/30ecb6d48983cd5ee0f0d106ab3c87bc54e49f40/1750587853/dash_h264.mpd?t=1583979680"
+    },
+    {
+      "name": "Untitled Goose Game - Gameplay Trailer Redux",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256777799/movie.293x165.jpg?t=1583979690",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/837470/271678/63cfe2eeda79d9cb88580529972faa0a3bd2e4b7/1750587856/dash_h264.mpd?t=1583979690"
+    }
+  ],
+  "metacritic": {
+    "score": 79,
+    "url": "https://www.metacritic.com/game/pc/untitled-goose-game?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 837470,
+    "store_url": "https://store.steampowered.com/app/837470/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Funny",
+      "Villain Protagonist",
+      "Multiplayer",
+      "Co-op",
+      "Cute",
+      "Comedy",
+      "Puzzle",
+      "Indie",
+      "Stealth",
+      "Singleplayer",
+      "Family Friendly",
+      "Local Co-Op",
+      "Colorful",
+      "Sandbox",
+      "Local Multiplayer",
+      "Third Person",
+      "Adventure",
+      "Physics",
+      "Action",
+      "Simulation"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 23598,
+    "review_negative": 1023,
+    "review_total": 24621,
+    "review_positive_percent": 95.85
+  }
+}

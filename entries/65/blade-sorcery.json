@@ -1,0 +1,186 @@
+{
+  "key": "blade-sorcery",
+  "name": "Blade & Sorcery",
+  "description": "Blade &amp; Sorcery is a built-for-VR medieval fantasy with full physics driven melee, ranged and magic combat. Become a powerful warrior, ranger or sorcerer and devastate your enemies.",
+  "developers": [
+    "WarpFrog"
+  ],
+  "publishers": [
+    "WarpFrog"
+  ],
+  "release_date": "2024-06-18",
+  "website": "https://warpfrog.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "simulation",
+    "vr",
+    "swordplay",
+    "gore",
+    "moddable",
+    "sandbox",
+    "magic",
+    "violent",
+    "physics",
+    "medieval",
+    "fighting",
+    "first-person",
+    "fantasy",
+    "singleplayer",
+    "early-access",
+    "multiplayer"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "thai",
+    "japanese",
+    "portuguese",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "剑与魔法"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "BladeAndSorcery.exe",
+          "description": "",
+          "type": "vr"
+        },
+        {
+          "executable": "BladeAndSorcery.exe",
+          "description": "",
+          "type": "othervr"
+        },
+        {
+          "executable": "BladeAndSorcery.exe",
+          "description": "",
+          "type": "openxr"
+        },
+        {
+          "executable": "BladeAndSorcery.exe",
+          "description": "",
+          "type": "openxr"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Blade & Sorcery",
+    "BladeAndSorcery"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/629730/3a01fc72a16d06a538330e11cae7ed87bf0d40e5.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629730/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629730/af06ceb984281d88ace61451c6bae51c5ef52323/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629730/0ca816f9f016d483c045d42f976c73ff56aa1bd7/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629730/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629730/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629730/ss_89659fd0322740ebd0b28d8d262429987a141886.1920x1080.jpg?t=1765901841"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629730/ss_5d241a6573de42453029c4dbb06130e7d69734bc.1920x1080.jpg?t=1765901841"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629730/ss_770e551e122f18aa83f9a2daaf169419b8e4d4d8.1920x1080.jpg?t=1765901841"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629730/ss_6ee6ee99ee263fe0b47d1032a2ffb79c04920f94.1920x1080.jpg?t=1765901841"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629730/ss_c456350c35becb14063c53baa3e9d144d7e7f06e.1920x1080.jpg?t=1765901841"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629730/ss_55780279b66cb9d15f31c1b3bb9e269e370b3921.1920x1080.jpg?t=1765901841"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629730/ss_973a6494583488fdda349f9ba5ab0845a5d89d1c.1920x1080.jpg?t=1765901841"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629730/ss_f10d154f92ccb148b11975a24cce27b9111d39c2.1920x1080.jpg?t=1765901841"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629730/ss_567d91043e0751f5367ea07cfde0e719a1885b48.1920x1080.jpg?t=1765901841"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629730/ss_2f877025479315f36043825ff0e8503cc6f9309f.1920x1080.jpg?t=1765901841"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Update 1.0",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257031554/movie.293x165.jpg?t=1718643298",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/629730/714490/8bc0527ca04f47a0eb7a61f8867eed061b13ed47/1750564127/dash_h264.mpd?t=1718643298"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 629730,
+    "store_url": "https://store.steampowered.com/app/629730/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Tracked Controller Support",
+      "VR Only",
+      "Family Sharing"
+    ],
+    "tags": [
+      "VR",
+      "Swordplay",
+      "Gore",
+      "Moddable",
+      "Sandbox",
+      "Magic",
+      "Action",
+      "Violent",
+      "Physics",
+      "Medieval",
+      "Fighting",
+      "Simulation",
+      "First-Person",
+      "Fantasy",
+      "Singleplayer",
+      "Adventure",
+      "RPG",
+      "Indie",
+      "Early Access",
+      "Multiplayer"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 59427,
+    "review_negative": 2134,
+    "review_total": 61561,
+    "review_positive_percent": 96.53
+  }
+}

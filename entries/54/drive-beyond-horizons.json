@@ -1,0 +1,218 @@
+{
+  "key": "drive-beyond-horizons",
+  "name": "Drive Beyond Horizons",
+  "description": "Explore, survive, and push the boundaries of the horizon in a vast, procedurally generated world. Customize your vehicle, face unpredictable events, gather resources, and embark on a unique adventure, alone or with up to 4 players.",
+  "developers": [
+    "Drive Beyond Horizons"
+  ],
+  "publishers": [
+    "Tacty Studio"
+  ],
+  "release_date": "2025-03-25",
+  "website": "https://drivebeyondhorizons.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "casual",
+    "indie",
+    "racing",
+    "simulation",
+    "early-access",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "driving",
+    "exploration",
+    "survival",
+    "automobile-sim",
+    "open-world",
+    "first-person",
+    "realistic",
+    "post-apocalyptic",
+    "shooter",
+    "fps",
+    "horror"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Dutch",
+    "Japanese",
+    "Polish",
+    "Portuguese - Brazil",
+    "Arabic",
+    "Korean",
+    "Russian",
+    "Simplified Chinese",
+    "Portuguese - Portugal",
+    "Spanish - Latin America",
+    "Ukrainian*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "DriveBeyondHorizons.exe",
+          "description": "DirectX 11 (Default)",
+          "type": "config"
+        },
+        {
+          "executable": "DriveBeyondHorizons.exe",
+          "description": "DirectX 12 (If you crash stay in DirectX 11)",
+          "type": "config"
+        },
+        {
+          "executable": "DBH.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "DBH.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "DBH.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "DriveBeyondHorizons.exe",
+          "description": "Vulkan [Experimental] ",
+          "type": "config"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Drive Beyond Horizons",
+    "DriveBeyondHorizons",
+    "DBH"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2625420/bfac1c95aea4dab62c5be349efe3210260ab4058.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2625420/e618a699ed6d62bd52ec9b2d5220373888f3640f/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2625420/5e79c9d089ce939fe07f32ff16a27561dd2c0df4/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2625420/40d597972d545dce35e079d1b734a031a58997c3/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2625420/e08a70c971cdec3bbdb41c4c5266fd633428fa3a/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2625420/5c61a04a7feecf1aaac1fd620329df2d4c52fc04/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2625420/15f265e08b917fe2744322a0dc26af54c9c6f517/ss_15f265e08b917fe2744322a0dc26af54c9c6f517.1920x1080.jpg?t=1782567653"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2625420/6338dcaf3b9c41a7e8912e1e5ea578b83c35e1bd/ss_6338dcaf3b9c41a7e8912e1e5ea578b83c35e1bd.1920x1080.jpg?t=1782567653"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2625420/9801f6886ea5c60b37ecb555f8ee079e64bf2348/ss_9801f6886ea5c60b37ecb555f8ee079e64bf2348.1920x1080.jpg?t=1782567653"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2625420/443c2aea2b6bfd2d2900fa00ac7b3b90f6f661e3/ss_443c2aea2b6bfd2d2900fa00ac7b3b90f6f661e3.1920x1080.jpg?t=1782567653"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2625420/ce8a54fff9cdaf97f1f66990d6965f130459f1cb/ss_ce8a54fff9cdaf97f1f66990d6965f130459f1cb.1920x1080.jpg?t=1782567653"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2625420/45cbb5145c9f759a4eec33d7fa750ac3aed819bd/ss_45cbb5145c9f759a4eec33d7fa750ac3aed819bd.1920x1080.jpg?t=1782567653"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2625420/9bd42603ef8a3009f9c64d2b1ce436ab3c913011/ss_9bd42603ef8a3009f9c64d2b1ce436ab3c913011.1920x1080.jpg?t=1782567653"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2625420/ff52ad84429d87da35c183eec76111b54ac42e21/ss_ff52ad84429d87da35c183eec76111b54ac42e21.1920x1080.jpg?t=1782567653"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2625420/aa6ddb6795c512719455e68e4df411da73cfb1a5/ss_aa6ddb6795c512719455e68e4df411da73cfb1a5.1920x1080.jpg?t=1782567653"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Garage Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257308381/9cfad763b27175a78f5d7b848073a0b252a2ba96/movie_600x337.jpg?t=1774375231",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2625420/300796030/418c9aee48cb0f01bd7bc26a60f127b7f251f457/1774363099/dash_h264.mpd?t=1774375231"
+    },
+    {
+      "name": "Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257120623/87d2dc6b3059f81ace0dde80a150cff1f9a3669f/movie_600x337.jpg?t=1755214318",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2625420/861154/3572cd7a8cbd83c790b20ef96abc77c2cfd85b76/1750817562/dash_h264.mpd?t=1755214318"
+    },
+    {
+      "name": "Car update 06/26",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257366726/bb9ccc853f0d235c00baa638ba23d78c8b13d31f/movie_600x337.jpg?t=1782567653",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2625420/1061914814/fd520550b28fd1324898c8785b625adfabf7d5e5/1782557806/dash_h264.mpd?t=1782567653"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2625420,
+    "store_url": "https://store.steampowered.com/app/2625420/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Racing",
+      "Simulation",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Input API Support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Early Access",
+      "Driving",
+      "Exploration",
+      "Survival",
+      "Automobile Sim",
+      "Open World",
+      "Simulation",
+      "First-Person",
+      "Realistic",
+      "Adventure",
+      "Post-apocalyptic",
+      "Co-op",
+      "Multiplayer",
+      "Online Co-Op",
+      "Action",
+      "Shooter",
+      "FPS",
+      "Horror",
+      "Racing",
+      "Casual"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 15099,
+    "review_negative": 4297,
+    "review_total": 19396,
+    "review_positive_percent": 77.85
+  }
+}

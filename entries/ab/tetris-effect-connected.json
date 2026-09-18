@@ -1,0 +1,208 @@
+{
+  "key": "tetris-effect-connected",
+  "name": "Tetris® Effect: Connected",
+  "description": "Tetris® Effect: Connected adds an all-new robust multiplayer expansion to the huge variety of addictive and innovative single-player modes that Tetris Effect is known for, with all-new co-op and competitive online and local multiplayer modes!",
+  "developers": [
+    "Monstars Inc."
+  ],
+  "publishers": [
+    "Enhance"
+  ],
+  "release_date": "2021-08-18",
+  "website": "https://tetriseffect.game",
+  "tags": [
+    "casual",
+    "indie",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "split-screen",
+    "puzzle",
+    "falling-blocks",
+    "family-friendly",
+    "singleplayer",
+    "competitive",
+    "music",
+    "arcade",
+    "local-multiplayer",
+    "atmospheric",
+    "psychedelic",
+    "score-attack",
+    "tutorial",
+    "controller",
+    "vr"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "thai",
+    "japanese"
+  ],
+  "name_localized": {
+    "schinese": "俄罗斯方块效应：连接"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "TetrisEffect.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "TetrisEffect.exe",
+          "description": "",
+          "type": "vr"
+        },
+        {
+          "executable": "TetrisEffect.exe",
+          "description": "",
+          "type": "othervr"
+        },
+        {
+          "executable": "TetrisEffect.exe",
+          "description": "実績リセット",
+          "type": "option1"
+        },
+        {
+          "executable": "TetrisEffect.exe",
+          "description": "Tetris® Effect Connected in Windows MR (Beta) ",
+          "type": "option1"
+        },
+        {
+          "executable": "TetrisEffect.exe",
+          "description": "DX12",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Tetris® Effect: Connected",
+    "TetrisEffect"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1003590/a56de7a86218528ff841a9a1322ce88d735b1156.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003590/11d98bbb08ca8e16d015ae4a40b60920ae8dbe36/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003590/164510c4fd8e3208ae7d3340c23c955d88db0e3d/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003590/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003590/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003590/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003590/ss_8ba09dc00d14f6a454c5bd62e0166cd56176841a.1920x1080.jpg?t=1774036904"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003590/ss_b0ea46ab638043942f74f165a8f75ecd4a6a4a11.1920x1080.jpg?t=1774036904"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003590/ss_f0bf29b1f32dc996dc069981e4d8ec20f4de5604.1920x1080.jpg?t=1774036904"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003590/ss_fae1b2cc73ee2fe88009624cc3aeb7d095fcddfb.1920x1080.jpg?t=1774036904"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003590/ss_84450b142fa7680b267f00c90f5bdcfef92a6ecc.1920x1080.jpg?t=1774036904"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003590/ss_5b8b182a538c785e635797df65807228a71122e4.1920x1080.jpg?t=1774036904"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003590/ss_025c90bd17745b4b1301bd7afc78838bacb6045b.1920x1080.jpg?t=1774036904"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003590/ss_1f88ee71d3ff41e80ec92174d002142ced82d34a.1920x1080.jpg?t=1774036904"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256847227/movie.293x165.jpg?t=1629258731",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1003590/393507/9a51a838137893345c44fe0a1b976da8c4955948/1750605592/dash_h264.mpd?t=1629258731"
+    },
+    {
+      "name": "Pre-launch - Coming Aug 18 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256845173/movie.293x165.jpg?t=1628053269",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1003590/389657/3f1fc82e0049ff658450bee3b7829bfbcb4e51d2/1750605582/dash_h264.mpd?t=1628053269"
+    }
+  ],
+  "metacritic": {
+    "score": 93,
+    "url": "https://www.metacritic.com/game/pc/tetris-effect-connected?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1003590,
+    "store_url": "https://store.steampowered.com/app/1003590/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Tracked Controller Support",
+      "VR Supported",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Puzzle",
+      "Multiplayer",
+      "Falling Blocks",
+      "Family Friendly",
+      "Singleplayer",
+      "Competitive",
+      "Music",
+      "Arcade",
+      "Online Co-Op",
+      "Indie",
+      "Casual",
+      "Local Co-Op",
+      "Atmospheric",
+      "Psychedelic",
+      "Score Attack",
+      "Tutorial",
+      "Controller",
+      "Local Multiplayer",
+      "VR",
+      "PvP"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8415,
+    "review_negative": 489,
+    "review_total": 8904,
+    "review_positive_percent": 94.51
+  }
+}

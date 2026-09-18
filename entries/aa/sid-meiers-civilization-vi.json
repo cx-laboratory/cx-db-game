@@ -1,0 +1,281 @@
+{
+  "key": "sid-meiers-civilization-vi",
+  "name": "Sid Meier's Civilization VI",
+  "description": "Expand your empire, advance your culture and go head-to-head against history’s greatest leaders. Will your civilization stand the test of time?",
+  "developers": [
+    "Firaxis Games"
+  ],
+  "publishers": [
+    "2K"
+  ],
+  "release_date": "2016-10-21",
+  "website": "http://www.civilization.com/",
+  "tags": [
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "lan-multiplayer",
+    "online-pvp",
+    "turn-based-strategy",
+    "historical",
+    "grand-strategy",
+    "singleplayer",
+    "turn-based",
+    "4x",
+    "city-builder",
+    "war",
+    "simulation",
+    "tactical",
+    "management",
+    "building",
+    "moddable",
+    "online-co-op",
+    "great-soundtrack",
+    "co-op",
+    "hex-grid",
+    "atmospheric"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "2KLauncher\\LauncherPatcher.exe",
+          "description": "2K Launcher",
+          "type": "option1"
+        },
+        {
+          "executable": "LaunchPad/LaunchPad.exe",
+          "description": "Sid Meier's Civilization VI - Launcher",
+          "type": "default"
+        },
+        {
+          "executable": "Base/Binaries/Win64Portcullis/CivilizationVI.exe",
+          "description": "Sid Meier's Civilization VI Portcullis",
+          "type": "option1"
+        },
+        {
+          "executable": "Base/Binaries/Win64Portcullis/CivilizationVI.exe",
+          "description": "Sid Meier's Civilization VI Portcullis",
+          "type": "option1"
+        },
+        {
+          "executable": "Base/Binaries/Win64Portcullis/CivilizationVI_DX12.exe",
+          "description": "Sid Meier's Civilization VI Portcullis (DX12)",
+          "type": "option2"
+        },
+        {
+          "executable": "Base/Binaries/Win64Portcullis/CivilizationVI_DX12.exe",
+          "description": "Sid Meier's Civilization VI Portcullis (DX12)",
+          "type": "option2"
+        },
+        {
+          "executable": "LaunchPad/LaunchPad.exe",
+          "description": "LaunchConfig",
+          "type": "option1"
+        },
+        {
+          "executable": "Base/Binaries/Win64Portcullis/CivilizationVI.exe",
+          "description": "Sid Meier's Civilization VI Age Rating DX11",
+          "type": "option1"
+        },
+        {
+          "executable": "Base/Binaries/Win64Portcullis/CivilizationVI.exe",
+          "description": "Sid Meier's Civilization VI Preview (DX11)",
+          "type": "option1"
+        },
+        {
+          "executable": "Base/Binaries/Win64Portcullis/CivilizationVI_DX12.exe",
+          "description": "Sid Meier's Civilization VI Preview (DX12)",
+          "type": "option2"
+        },
+        {
+          "executable": "Base/Binaries/Win64Portcullis/CivilizationVI.exe",
+          "description": "Sid Meier's Civilization VI Age Rating DX11",
+          "type": "option1"
+        },
+        {
+          "executable": "Sid Meier's Civilization VI Age Rating DX11",
+          "description": "Sid Meier's Civilization VI Age Rating DX11",
+          "type": "option1"
+        },
+        {
+          "executable": "Base/Binaries/Win64Portcullis/CivilizationVI.exe",
+          "description": "Frankenstein",
+          "type": "option1"
+        },
+        {
+          "executable": "Base/Binaries/Win64Steam/CivilizationVI_DX12.exe",
+          "description": "Sid Meier's Civilization VI (DX12)",
+          "type": "option1"
+        },
+        {
+          "executable": "Base/Binaries/Win64Steam/CivilizationVI.exe",
+          "description": "Sid Meier's Civilization VI (DX11)",
+          "type": "option2"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Civ6.app",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "./Civ6",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Sid Meier's Civilization VI",
+    "2KLauncher\\LauncherPatcher",
+    "LaunchPad/LaunchPad",
+    "Base/Binaries/Win64Portcullis/CivilizationVI",
+    "Base/Binaries/Win64Portcullis/CivilizationVI_DX12",
+    "Sid Meier's Civilization VI Age Rating DX11",
+    "Base/Binaries/Win64Steam/CivilizationVI_DX12",
+    "Base/Binaries/Win64Steam/CivilizationVI",
+    "Civ6.app",
+    "./Civ6"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/289070/9dc914132fec244adcede62fb8e7524a72a7398c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/ss_12cc6e1f4084de5bc0f66bfdbe3aaf3e59388b53.1920x1080.jpg?t=1740607040"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/ss_6c4a3cfb61f1a9677cf2ac549c2816a4e651f741.1920x1080.jpg?t=1740607040"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/ss_b2bf12299c38214fe520af0f724a6349d17ed330.1920x1080.jpg?t=1740607040"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/ss_7f598198526afc260d939a98af4d76d95f5349e4.1920x1080.jpg?t=1740607040"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/ss_7ca34ff8ae81fb10ddc540187e2e21d1b8e1dfe9.1920x1080.jpg?t=1740607040"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/ss_36c63ebeb006b246cb740fdafeb41bb20e3b330d.1920x1080.jpg?t=1740607040"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/ss_cf53258cb8c4d283e52cf8dce3edf8656f83adc6.1920x1080.jpg?t=1740607040"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/ss_f501156a69223131ee8b12452f3003698334e964.1920x1080.jpg?t=1740607040"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Civilization VI Launch Trailer - ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256672694/movie.293x165.jpg?t=1476736935",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/289070/76616/f09b19535e8ceef09ce6548300cd27f949b52678/1750500599/dash_h264.mpd?t=1476736935"
+    },
+    {
+      "name": "Sid Meier's Civilization® VI - E3",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256666316/movie.293x165.jpg?t=1467410103",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/289070/63688/7be06d450decd1a0501dd76f021cf38fdb276da9/1750500589/dash_h264.mpd?t=1467410103"
+    }
+  ],
+  "metacritic": {
+    "score": 88,
+    "url": "https://www.metacritic.com/game/pc/sid-meiers-civilization-vi?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 289070,
+    "store_url": "https://store.steampowered.com/app/289070/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Shared/Split Screen PvP",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "In-App Purchases",
+      "Steam Turn Notifications",
+      "Remote Play on Tablet",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "Turn-Based Strategy",
+      "Multiplayer",
+      "Historical",
+      "Grand Strategy",
+      "Singleplayer",
+      "Turn-Based",
+      "4X",
+      "City Builder",
+      "War",
+      "Simulation",
+      "Tactical",
+      "Management",
+      "Building",
+      "Moddable",
+      "Online Co-Op",
+      "Great Soundtrack",
+      "Co-op",
+      "Hex Grid",
+      "Atmospheric"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 323358,
+    "review_negative": 52345,
+    "review_total": 375703,
+    "review_positive_percent": 86.07
+  }
+}

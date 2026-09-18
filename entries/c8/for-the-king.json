@@ -1,0 +1,344 @@
+{
+  "key": "for-the-king",
+  "name": "For The King",
+  "description": "For The King is a strategic RPG that blends tabletop and roguelike elements in a challenging adventure that spans the realms. Set off on a single player experience or play cooperatively both online and locally.",
+  "developers": [
+    "IronOak Games"
+  ],
+  "publishers": [
+    "Curve Games"
+  ],
+  "release_date": "2018-04-19",
+  "website": "https://www.ironoakgames.com",
+  "tags": [
+    "adventure",
+    "indie",
+    "rpg",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "split-screen",
+    "turn-based",
+    "roguelike",
+    "open-world",
+    "turn-based-combat",
+    "tabletop",
+    "roguelite",
+    "turn-based-strategy",
+    "party-based-rpg",
+    "local-multiplayer",
+    "board-game",
+    "fantasy",
+    "hex-grid",
+    "strategy-rpg"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "为了吾王 / For The King"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "FTK.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "FTK.exe",
+          "description": "FTK in DirectX 9",
+          "type": "option2"
+        },
+        {
+          "executable": "FTK.exe",
+          "description": "Configure For The King",
+          "type": "config"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "save",
+          "pattern": "*.bin",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "save",
+          "pattern": "*.run",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "save",
+          "pattern": "*.jpg",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "save",
+          "pattern": "*.bin",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "save",
+          "pattern": "*.db",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "FTK.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "save",
+          "pattern": "*.bin",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "save",
+          "pattern": "*.run",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "save",
+          "pattern": "*.jpg",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "save",
+          "pattern": "*.bin",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "save",
+          "pattern": "*.db",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "FTK.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "save",
+          "pattern": "*.bin",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "save",
+          "pattern": "*.run",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "save",
+          "pattern": "*.jpg",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "save",
+          "pattern": "*.bin",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "save",
+          "pattern": "*.db",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "For The King",
+    "FTK",
+    "FTK.app",
+    "为了吾王 / For The King"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/527230/790411a4c44e243fa19fe8b3b6a8ca15679c7fbf.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527230/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527230/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527230/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527230/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527230/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527230/ss_d837da91acf3aee05bee799ae609ae4e8005254d.1920x1080.jpg?t=1762445651"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527230/ss_7a9fb2fcdc70305d7e32d522cefc145f04cb7c7e.1920x1080.jpg?t=1762445651"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527230/ss_4a134d4b37032fe078d3487dfdab547275327dd5.1920x1080.jpg?t=1762445651"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527230/ss_63b69718bb0947b987511798085d84a405c5eb06.1920x1080.jpg?t=1762445651"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527230/ss_f8f8dc293e20784aad150a2315323fc01f296507.1920x1080.jpg?t=1762445651"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527230/ss_6f5711e20c8c5f2ab62e3285c5a6f04a95c6a63c.1920x1080.jpg?t=1762445651"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527230/ss_ec7c4dac6eb2fa0759330fe52bd31cd38ca47bee.1920x1080.jpg?t=1762445651"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527230/ss_b6fcc7313b0ac49e4edddd740e13c1dc6e6732f8.1920x1080.jpg?t=1762445651"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527230/ss_08421fe3b765572943028419b7c03ae9549824be.1920x1080.jpg?t=1762445651"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527230/ss_a7b98bd9e869b09c1400d2d8976c2c573023768f.1920x1080.jpg?t=1762445651"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527230/ss_c4e6cddde0698a5962e40ba368fddb4828322cef.1920x1080.jpg?t=1762445651"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527230/ss_f80598c395e6de5ad5aa02c61b8992e5809417f6.1920x1080.jpg?t=1762445651"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527230/ss_7c4494f88f7b9b50848df3345b135a24e8efdc05.1920x1080.jpg?t=1762445651"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Lost Civilization Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256817477/movie.293x165.jpg?t=1612980708",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/527230/339137/c5c956545b69c897628e41c88c401209741dad0b/1750544423/dash_h264.mpd?t=1612980708"
+    },
+    {
+      "name": "Into The Deep - Out Now",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256736329/movie.293x165.jpg?t=1546430446",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/527230/197197/ab89f85e37ed5927d860226e81ba84108135587f/1750544411/dash_h264.mpd?t=1546430446"
+    },
+    {
+      "name": "Frozen Expanse - Out Now",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256714655/movie.293x165.jpg?t=1524149454",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/527230/159031/2f49d23257940ae1f523dfa083e1e64332f2b67a/1750544408/dash_h264.mpd?t=1524149454"
+    },
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256670282/movie.293x165.jpg?t=1488261300",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/527230/71794/d6599218fd8eef3dec92fb39401d4d04afa19b1e/1750544382/dash_h264.mpd?t=1488261300"
+    }
+  ],
+  "metacritic": {
+    "score": 79,
+    "url": "https://www.metacritic.com/game/pc/for-the-king?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 527230,
+    "store_url": "https://store.steampowered.com/app/527230/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Adjustable Difficulty",
+      "Keyboard Only Option",
+      "Mouse Only Option",
+      "Save Anytime",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "RPG",
+      "Online Co-Op",
+      "Turn-Based",
+      "Roguelike",
+      "Strategy",
+      "Open World",
+      "Multiplayer",
+      "Co-op",
+      "Turn-Based Combat",
+      "Tabletop",
+      "Adventure",
+      "Roguelite",
+      "Turn-Based Strategy",
+      "Party-Based RPG",
+      "Local Co-Op",
+      "Board Game",
+      "Indie",
+      "Fantasy",
+      "Hex Grid",
+      "Strategy RPG"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 38202,
+    "review_negative": 5326,
+    "review_total": 43528,
+    "review_positive_percent": 87.76
+  }
+}

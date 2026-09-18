@@ -1,0 +1,235 @@
+{
+  "key": "hypercharge-unboxed",
+  "name": "HYPERCHARGE: Unboxed",
+  "description": "Hypercharge is a first and third-person shooter action figure game you've always dreamed of! Grab your friends, complete objectives, defend the Hypercore against waves of weaponized toys, and defeat Major Evil together in the story campaign!",
+  "developers": [
+    "Digital Cybercherries"
+  ],
+  "publishers": [
+    "Digital Cybercherries"
+  ],
+  "release_date": "2020-04-27",
+  "website": "http://www.hypercharge.digitalcybercherries.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "casual",
+    "indie",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "split-screen",
+    "co-op-campaign",
+    "action-adventure",
+    "third-person-shooter",
+    "singleplayer",
+    "local-multiplayer",
+    "fps",
+    "shooter",
+    "4-player-local",
+    "pve",
+    "third-person",
+    "first-person",
+    "tower-defense",
+    "platformer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "japanese",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Unboxed.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Unboxed/Saved",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Unboxed/Saved/Backup",
+          "pattern": "*.bak",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Unboxed.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Unboxed/Saved",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Unboxed/Saved/Backup",
+          "pattern": "*.bak",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "HYPERCHARGE: Unboxed",
+    "Unboxed",
+    "Unboxed.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/523660/8be12b71dd6a65dc31faf3f96fde171d412854db.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523660/0810230650f94d3d2beea69bf253502b5bcb5629/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523660/53154d679d8a94e66af924a9da9ab68ba668cf4d/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523660/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523660/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523660/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523660/ss_34124d24851f5b75348d7c613bad59442f30f962.1920x1080.jpg?t=1760031947"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523660/ss_39de0f77bbed3fee9b6c023c3ba32932309c7654.1920x1080.jpg?t=1760031947"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523660/587e12e03393254e5bf9f66227ee5e05cd31d9f3/ss_587e12e03393254e5bf9f66227ee5e05cd31d9f3.1920x1080.jpg?t=1760031947"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523660/ss_0bb7b7bc88ea50b9a7d9a181488f8696fc684d18.1920x1080.jpg?t=1760031947"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523660/ss_c0e7211a509aaf908494652a3f8dc555b8142ac6.1920x1080.jpg?t=1760031947"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523660/ss_14a5dcbc9ded1e458ef4bc21872e43048cf09f98.1920x1080.jpg?t=1760031947"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523660/ss_84df23fba0ac231a5dbc2f1da3c958e1940bfd18.1920x1080.jpg?t=1760031947"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523660/ss_ccb36cf9565b1ae30dc19c1cd2fdf5b58b54afb9.1920x1080.jpg?t=1760031947"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523660/ss_a0603bb673a998880f0265f631a71884aba80f7f.1920x1080.jpg?t=1760031947"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523660/ss_77c72988039dd7ecb488fe670ffd67551672e677.1920x1080.jpg?t=1760031947"
+    }
+  ],
+  "videos": [
+    {
+      "name": "2025_09_11_SteamStore_Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257196257/348d3d282a67322175dc85fd93f4d6a1f4356d28/movie_600x337.jpg?t=1757926863",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/523660/203844846/c8bd794eef7e44d39d704608f3be627f64f5a822/1757600080/dash_h264.mpd?t=1757926863"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 523660,
+    "store_url": "https://store.steampowered.com/app/523660/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Co-op Campaign",
+      "Action-Adventure",
+      "Third-Person Shooter",
+      "Singleplayer",
+      "Split Screen",
+      "Local Co-Op",
+      "FPS",
+      "Online Co-Op",
+      "Shooter",
+      "4 Player Local",
+      "PvE",
+      "Third Person",
+      "Local Multiplayer",
+      "First-Person",
+      "Adventure",
+      "Casual",
+      "Action",
+      "Tower Defense",
+      "Strategy",
+      "Platformer"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 3942,
+    "review_negative": 439,
+    "review_total": 4381,
+    "review_positive_percent": 89.98
+  }
+}

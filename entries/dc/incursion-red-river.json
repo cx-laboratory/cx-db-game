@@ -1,0 +1,179 @@
+{
+  "key": "incursion-red-river",
+  "name": "Incursion Red River",
+  "description": "IRR is a tactical PvE Co-Op extract shooter set in a de-stabilized and immersive modern-day Vietnam. As a PMC for a mysterious organization, deal with 3 factions that stand to gain from the chaos. Engage in ruthless combat, plan your deployment, and explore the world as your journey unfolds.",
+  "developers": [
+    "Games Of Tomorrow GmbH"
+  ],
+  "publishers": [
+    "Games Of Tomorrow GmbH"
+  ],
+  "release_date": "2024-04-11",
+  "website": "https://incursionredriver.com/",
+  "tags": [
+    "action",
+    "early-access",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "extraction-shooter",
+    "pve",
+    "realistic",
+    "fps",
+    "gun-customization",
+    "tactical",
+    "singleplayer",
+    "shooter",
+    "military",
+    "combat",
+    "looter-shooter",
+    "3d",
+    "dark",
+    "controller",
+    "first-person"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Test_C.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Test_C/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Incursion Red River",
+    "Test_C"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2116120/8aeae21642e86f5c00d5ee14baf498db7229b98c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116120/f56378757827f5e437775a70ae3aa49725a70ed4/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116120/9016c0b3ec63d51958f652a320b28f0a8bcfae10/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116120/231a397d6a2ec1992ca70a1d71a4f6f832fe6b3f/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116120/5c3871f559599645d024432ff4e791a234c53976/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116120/0029597bf19bb31e1d39448bc12ff624e56e34d2/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116120/e85296b082ceefaafed5fce4c517730281df3bd9/ss_e85296b082ceefaafed5fce4c517730281df3bd9.1920x1080.jpg?t=1776693556"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116120/677a2d9604acc43f9fe6d712e4396b415782dd03/ss_677a2d9604acc43f9fe6d712e4396b415782dd03.1920x1080.jpg?t=1776693556"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116120/e301a1841727686087da685488f9d7ebdb3bad50/ss_e301a1841727686087da685488f9d7ebdb3bad50.1920x1080.jpg?t=1776693556"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116120/a1dc2024fc48902ab07df2fc724d62e9a80d521a/ss_a1dc2024fc48902ab07df2fc724d62e9a80d521a.1920x1080.jpg?t=1776693556"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116120/7b8a8ff0384016a4375a6d50e03aa0d4923b0bf9/ss_7b8a8ff0384016a4375a6d50e03aa0d4923b0bf9.1920x1080.jpg?t=1776693556"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116120/33bb053369c9019dc22bf0f6f252f2b522995acd/ss_33bb053369c9019dc22bf0f6f252f2b522995acd.1920x1080.jpg?t=1776693556"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116120/3d60f7aef2787df99d93901311d6ba6a2914fea5/ss_3d60f7aef2787df99d93901311d6ba6a2914fea5.1920x1080.jpg?t=1776693556"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116120/7359c3dff71ffe14c35477315be7fe27b79d99b1/ss_7359c3dff71ffe14c35477315be7fe27b79d99b1.1920x1080.jpg?t=1776693556"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116120/2d9be7bbf3602163432e26a0782880211cadca5e/ss_2d9be7bbf3602163432e26a0782880211cadca5e.1920x1080.jpg?t=1776693556"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116120/06281cb246d07878cf2c133fbae3bcca7e5818b1/ss_06281cb246d07878cf2c133fbae3bcca7e5818b1.1920x1080.jpg?t=1776693556"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116120/e2f0ed4c8bf23867cb23fbf412e6f1e679930455/ss_e2f0ed4c8bf23867cb23fbf412e6f1e679930455.1920x1080.jpg?t=1776693556"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116120/b8f7ef714699874475538563e45af74854b298a2/ss_b8f7ef714699874475538563e45af74854b298a2.1920x1080.jpg?t=1776693556"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116120/dfb4c75812bb73685bbd46e93edb798e1de91f90/ss_dfb4c75812bb73685bbd46e93edb798e1de91f90.1920x1080.jpg?t=1776693556"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116120/2acf772135824bb511d1b9bcfdd8d9e451e0dc34/ss_2acf772135824bb511d1b9bcfdd8d9e451e0dc34.1920x1080.jpg?t=1776693556"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Update #1.3.0.0",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257294467/257a9e285db28a3af5c8f5063d2dd357672e29ec/movie_600x337.jpg?t=1772043457",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2116120/898994725/60cbe707bc4b414adbda5ec0e0be248af1237104/1772035186/dash_h264.mpd?t=1772043457"
+    },
+    {
+      "name": "Update #1.2.0.0",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257161370/13c1649c1d39f76d57be24b01ab74c91ac3e5869/movie_600x337.jpg?t=1750875015",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2116120/655492470/a1b087028fae42b6156dbf7e1629addb87f068e5/1750863400/dash_h264.mpd?t=1750875015"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2116120,
+    "store_url": "https://store.steampowered.com/app/2116120/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Extraction Shooter",
+      "PvE",
+      "Realistic",
+      "FPS",
+      "Action",
+      "Gun Customization",
+      "Online Co-Op",
+      "Tactical",
+      "Singleplayer",
+      "Early Access",
+      "Shooter",
+      "Military",
+      "Combat",
+      "Looter Shooter",
+      "Co-op",
+      "3D",
+      "Dark",
+      "Multiplayer",
+      "Controller",
+      "First-Person"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 6708,
+    "review_negative": 2118,
+    "review_total": 8826,
+    "review_positive_percent": 76
+  }
+}

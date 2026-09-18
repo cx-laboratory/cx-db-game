@@ -1,0 +1,240 @@
+{
+  "key": "avorion",
+  "name": "Avorion",
+  "description": "A procedural co-op space sandbox where players can build their own space ships out of dynamically scalable blocks. Fight epic space battles, explore, mine, trade, wage wars and build your own empire to save your galaxy from being torn apart by an unknown enemy.",
+  "developers": [
+    "Boxelware"
+  ],
+  "publishers": [
+    "Boxelware"
+  ],
+  "release_date": "2020-03-09",
+  "website": "https://www.avorion.net/",
+  "tags": [
+    "action",
+    "indie",
+    "simulation",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "sandbox",
+    "exploration",
+    "space-sim",
+    "building",
+    "space",
+    "open-world",
+    "flight",
+    "pve",
+    "choose-your-own-adventure",
+    "3d",
+    "third-person",
+    "sci-fi",
+    "economy",
+    "spaceships",
+    "voxel",
+    "management",
+    "trading",
+    "vehicular-combat",
+    "action-rpg"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "bin/Avorion.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "bin/Avorion",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "bin/Avorion",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Avorion",
+    "bin/Avorion"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/445220/680eadbf8eef917be5023310fb364c947af4e203.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445220/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445220/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445220/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445220/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445220/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445220/ss_c193c0313144967725034c8f9ba4d378dd801e77.1920x1080.jpg?t=1762761602"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445220/ss_3e6fb8ae3e9e13ac20a34aa3f28d2e91a2207679.1920x1080.jpg?t=1762761602"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445220/ss_5ecd07c695f48055606ab68b82bd16f3ef4b40a6.1920x1080.jpg?t=1762761602"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445220/ss_a2e2654fd01488ec9995201cdc9baff7954ac36e.1920x1080.jpg?t=1762761602"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445220/ss_42821076c3b7478a114b383b5e1e52e78bb15333.1920x1080.jpg?t=1762761602"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445220/ss_f7177b73cdf9ed8164ddffaebbfd317f8d9b1942.1920x1080.jpg?t=1762761602"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445220/ss_5648321300793677cb7132127c61ee2e909fee3b.1920x1080.jpg?t=1762761602"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445220/ss_9c2f12765f8fdea87f71846960512a87c41a0f68.1920x1080.jpg?t=1762761602"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445220/ss_48874ceeffa872d33721b5ef81fb038c32211da6.1920x1080.jpg?t=1762761602"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445220/ss_af99bd25cd70590fc9d94e05f80adf19191a5f4b.1920x1080.jpg?t=1762761602"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445220/ss_438c8425670c6bd8edd405f31cd041d9bd957e88.1920x1080.jpg?t=1762761602"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445220/ss_1b0266203533e6c1df2c9c086145ecf2fa7c1cc8.1920x1080.jpg?t=1762761602"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445220/ss_7b23e7e126d0863c3d046262432eefb3ccb2632a.1920x1080.jpg?t=1762761602"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445220/ss_3574f1ec21e6a718e791d23d2c5b8cd08641ba4c.1920x1080.jpg?t=1762761602"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445220/ss_972ee087e4861bcc933050bc6f7eb23b416cb34f.1920x1080.jpg?t=1762761602"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445220/ss_a8267185ece3ef3271103d12b18e8c65f79410fc.1920x1080.jpg?t=1762761602"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445220/ss_05d171264666d591f7350cef80b8b9b9a578e105.1920x1080.jpg?t=1762761602"
+    }
+  ],
+  "videos": [
+    {
+      "name": "3 Year Progress",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256776756/movie.293x165.jpg?t=1683113523",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/445220/269763/e9b6cbcf10dfbbb8732bd77a6ce2e337a20addea/1750531666/dash_h264.mpd?t=1683113523"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256777345/movie.293x165.jpg?t=1683113544",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/445220/270910/a8312813ecbf9ae59ecc8453c9fe7d55d81cd190/1750531676/dash_h264.mpd?t=1683113544"
+    },
+    {
+      "name": "2.0 Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256850389/movie.293x165.jpg?t=1683113537",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/445220/399084/a964617dcd50f070117be6efa6cbc78cd23107b5/1750531682/dash_h264.mpd?t=1683113537"
+    },
+    {
+      "name": "Ship Generator English",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256776757/movie.293x165.jpg?t=1683113551",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/445220/269764/507caac1c59680f8423a326a88f3724c7516754e/1750531670/dash_h264.mpd?t=1683113551"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 445220,
+    "store_url": "https://store.steampowered.com/app/445220/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Valve Anti-Cheat enabled",
+      "Stats",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Sandbox",
+      "Exploration",
+      "Space Sim",
+      "Building",
+      "Space",
+      "Open World",
+      "Flight",
+      "PvE",
+      "Choose Your Own Adventure",
+      "3D",
+      "Third Person",
+      "Sci-fi",
+      "Simulation",
+      "Economy",
+      "Spaceships",
+      "Voxel",
+      "Management",
+      "Trading",
+      "Vehicular Combat",
+      "Action RPG"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 13032,
+    "review_negative": 1447,
+    "review_total": 14479,
+    "review_positive_percent": 90.01
+  }
+}

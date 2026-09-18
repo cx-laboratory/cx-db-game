@@ -1,0 +1,203 @@
+{
+  "key": "grim-fandango-remastered",
+  "name": "Grim Fandango Remastered",
+  "description": "One of the most acclaimed adventure games of all time is now back, better than ever. Grim Fandango Remastered has the all the beautiful art and engaging story fans remember, but has also been remastered to look, sound, and control even better than the award-winning original release.",
+  "developers": [
+    "Double Fine Productions"
+  ],
+  "publishers": [
+    "Double Fine Productions"
+  ],
+  "release_date": "2015-01-27",
+  "website": "https://www.doublefine.com/games/grim-fandango-remastered",
+  "tags": [
+    "adventure",
+    "point-and-click",
+    "classic",
+    "story-rich",
+    "comedy",
+    "noir",
+    "great-soundtrack",
+    "singleplayer",
+    "puzzle",
+    "remake",
+    "atmospheric",
+    "retro",
+    "funny",
+    "1990-s",
+    "dark-humor",
+    "third-person",
+    "difficult",
+    "indie",
+    "escape-room",
+    "old-school"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "GrimFandango.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "GrimFandango.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "GrimFandango",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Saves",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Grim Fandango Remastered",
+    "GrimFandango",
+    "GrimFandango.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/316790/4e9da606cb52dfebf296dc8d3b0bc6ba81065a52.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/ss_e57e9c5775d7f3b6748dea9388df83a0201155c8.1920x1080.jpg?t=1731602112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/ss_94c4a6ae4fcd2a1d44b767821b6378d7ad2e0516.1920x1080.jpg?t=1731602112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/ss_26a12b801d833e3f5b930568775568523c5090b3.1920x1080.jpg?t=1731602112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/ss_49c7070357c2d8e6017c1a891b5d9a9d6dcd54f7.1920x1080.jpg?t=1731602112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/ss_e797da61a22d5394b9edc9c523401765944001a2.1920x1080.jpg?t=1731602112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316790/ss_83b204e1d085f2b0eb6b1b36674c26caf47e39c0.1920x1080.jpg?t=1731602112"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2036739/movie.293x165.jpg?t=1447367957",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/316790/30310/72e95b68e3bdafa65af7272ddb80c2fbc83d9b5b/1751264067/dash_h264.mpd?t=1447367957"
+    },
+    {
+      "name": "Teaser Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2036467/movie.293x165.jpg?t=1447366946",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/316790/29494/3a13af0fedc4c6a1862fd52ea5da7f7c181f488c/1751263670/dash_h264.mpd?t=1447366946"
+    }
+  ],
+  "metacritic": {
+    "score": 84,
+    "url": "https://www.metacritic.com/game/pc/grim-fandango-remastered?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 316790,
+    "store_url": "https://store.steampowered.com/app/316790/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Commentary available",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Adventure",
+      "Point & Click",
+      "Classic",
+      "Story Rich",
+      "Comedy",
+      "Noir",
+      "Great Soundtrack",
+      "Singleplayer",
+      "Puzzle",
+      "Remake",
+      "Atmospheric",
+      "Retro",
+      "Funny",
+      "1990's",
+      "Dark Humor",
+      "Third Person",
+      "Difficult",
+      "Indie",
+      "Escape Room",
+      "Old School"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7967,
+    "review_negative": 828,
+    "review_total": 8795,
+    "review_positive_percent": 90.59
+  }
+}

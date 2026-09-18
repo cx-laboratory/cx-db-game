@@ -1,0 +1,264 @@
+{
+  "key": "state-of-decay-2",
+  "name": "State of Decay 2",
+  "description": "The dead have risen and civilization has fallen. Now it's up to you to gather survivors, scavenge for resources and build a community in a post-apocalyptic world – a world where you define what it means to survive in this ultimate zombie survival simulation.",
+  "developers": [
+    "Undead Labs"
+  ],
+  "publishers": [
+    "Xbox Game Studios"
+  ],
+  "release_date": "2020-03-14",
+  "website": "https://www.stateofdecay.com",
+  "tags": [
+    "action",
+    "rpg",
+    "simulation",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "survival",
+    "open-world",
+    "zombies",
+    "base-building",
+    "post-apocalyptic",
+    "sandbox",
+    "third-person",
+    "singleplayer",
+    "gore",
+    "horror",
+    "perma-death",
+    "violent",
+    "replay-value",
+    "atmospheric"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "schinese",
+    "russian",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2.exe",
+          "description": "Development",
+          "type": "option1"
+        },
+        {
+          "executable": "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Test.exe",
+          "description": "Test",
+          "type": "option2"
+        },
+        {
+          "executable": "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Shipping.exe",
+          "description": "Shipping",
+          "type": "option3"
+        },
+        {
+          "executable": "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2.exe",
+          "description": "Development",
+          "type": "option1"
+        },
+        {
+          "executable": "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Test.exe",
+          "description": "Test",
+          "type": "option2"
+        },
+        {
+          "executable": "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Shipping.exe",
+          "description": "Shipping",
+          "type": "option3"
+        },
+        {
+          "executable": "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Test.exe",
+          "description": "StateOfDecay2-Win64-Test.exe (Pick Me!)",
+          "type": "option1"
+        },
+        {
+          "executable": "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2.exe",
+          "description": "Stage-Dev",
+          "type": "option1"
+        },
+        {
+          "executable": "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Test.exe",
+          "description": "Stage-Test",
+          "type": "option2"
+        },
+        {
+          "executable": "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Shipping.exe",
+          "description": "Stage-Shipping",
+          "type": "option3"
+        },
+        {
+          "executable": "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Shipping.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2.exe",
+          "description": "Development",
+          "type": "option1"
+        },
+        {
+          "executable": "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Test.exe",
+          "description": "Test",
+          "type": "option2"
+        },
+        {
+          "executable": "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Shipping.exe",
+          "description": "Shipping",
+          "type": "option3"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "StateOfDecay2/Saved/Steam/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "State of Decay 2",
+    "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2",
+    "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Test",
+    "StateOfDecay2\\Binaries\\Win64\\StateOfDecay2-Win64-Shipping"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/495420/d6d418d682accfb51ee089ea506587c9c924989b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495420/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495420/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495420/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495420/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495420/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495420/ss_0279d14c8df9bdd9c9cb1f1d75b3e3a039f3e0f2.1920x1080.jpg?t=1741378867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495420/ss_08879cee09f10d4deb71509e6057fd537d4603fb.1920x1080.jpg?t=1741378867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495420/ss_550d2c81a7905ff88a3a766363a96175a080dec9.1920x1080.jpg?t=1741378867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495420/ss_b57cdaca2669c8bb24db0969c11967317743be5a.1920x1080.jpg?t=1741378867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495420/ss_5c6e36ab5af891a59de845cb05fe5eabf3a0e518.1920x1080.jpg?t=1741378867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495420/ss_8b40bf3d59a5dba2b5302e9591c0e9483792ab75.1920x1080.jpg?t=1741378867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495420/ss_d4a6b950a57e6f529e13d0ae7392f0506902ccb2.1920x1080.jpg?t=1741378867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495420/ss_d1db8bb72efa896494635f664e1dc479f41c6c02.1920x1080.jpg?t=1741378867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495420/ss_174a163d2296539e7b49ef27ccc482461d0f17f6.1920x1080.jpg?t=1741378867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495420/ss_ff9bb9d73c5a1cd82addd8872d2c0faee57af977.1920x1080.jpg?t=1741378867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495420/ss_a6dd2dff1498a1bad5cde457349dbfbc8ad65dc4.1920x1080.jpg?t=1741378867"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Homecoming ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256850040/movie.293x165.jpg?t=1652225684",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/495420/398284/23831f5a4df81077fccbea2fd55bf34c9cafe3b4/1750538193/dash_h264.mpd?t=1652225684"
+    },
+    {
+      "name": "Juggernaut LAUNCH trailer ENGLISH ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256777931/movie.293x165.jpg?t=1584119830",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/495420/271903/cb6a82b7722fb16d30ae77b124c6116eb80dc932/1750538178/dash_h264.mpd?t=1584119830"
+    },
+    {
+      "name": "Initial SoD2 Steam Trailer (ESRB Bumper)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256767895/movie.293x165.jpg?t=1574452047",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/495420/253870/47e0ba3f77ef4a955fae52914541244a3c30fedf/1750538147/dash_h264.mpd?t=1574452047"
+    },
+    {
+      "name": "Juggernaut Edition Gameplay WITH ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256774571/movie.293x165.jpg?t=1581700146",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/495420/265880/cc9a23d8c13bfde6d2e4b7221f07b588a0c2887b/1750538150/dash_h264.mpd?t=1581700146"
+    }
+  ],
+  "metacritic": {
+    "score": 69,
+    "url": "https://www.metacritic.com/game/pc/state-of-decay-2?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 495420,
+    "store_url": "https://store.steampowered.com/app/495420/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "RPG",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Survival",
+      "Open World",
+      "Zombies",
+      "Base Building",
+      "Multiplayer",
+      "Co-op",
+      "Online Co-Op",
+      "Post-apocalyptic",
+      "Simulation",
+      "Action",
+      "RPG",
+      "Sandbox",
+      "Third Person",
+      "Singleplayer",
+      "Gore",
+      "Horror",
+      "Perma Death",
+      "Violent",
+      "Replay Value",
+      "Atmospheric"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 57079,
+    "review_negative": 11889,
+    "review_total": 68968,
+    "review_positive_percent": 82.76
+  }
+}

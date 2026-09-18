@@ -1,0 +1,235 @@
+{
+  "key": "shotgun-farmers",
+  "name": "Shotgun Farmers",
+  "description": "Shotgun Farmers is the multplayer shooter where missed shots grow guns. Fire your bullets into the ground to plant your ammo. The longer a gun plant grows the more ammo you will get!",
+  "developers": [
+    "Megastorm Games"
+  ],
+  "publishers": [
+    "Megastorm Games"
+  ],
+  "release_date": "2019-03-09",
+  "website": "http://www.shotgunfarmers.com",
+  "tags": [
+    "action",
+    "indie",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "shooter",
+    "fps",
+    "funny",
+    "first-person",
+    "team-based",
+    "colorful",
+    "arena-shooter",
+    "character-customization",
+    "3d",
+    "cartoony",
+    "cartoon",
+    "singleplayer",
+    "pve",
+    "stylized"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German",
+    "Dutch",
+    "Japanese",
+    "Russian",
+    "Italian",
+    "Spanish - Spain",
+    "Portuguese - Brazil",
+    "Swedish",
+    "Simplified Chinese",
+    "Korean",
+    "Traditional Chinese",
+    "Portuguese - Portugal",
+    "Spanish - Latin America"
+  ],
+  "name_localized": {
+    "schinese": "霰弹枪农夫"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Shotgun Farmers.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Shotgun Farmers.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Shotgun Farmers.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Shotgun Farmers.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Shotgun Farmers",
+    "Shotgun Farmers.app",
+    "Shotgun Farmers.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/604240/aa485e02e7170daa418787985ece7dd7918c2f0f.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/604240/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/604240/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/604240/911733c305019628067dcfe1e509ebda79152799/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/604240/2512c202fabc6aef1ff1700d4f5102b2f5892469/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/604240/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/604240/ss_198ac81087a835cd952c58e77acbc6de7b868699.1920x1080.jpg?t=1776188063"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/604240/ss_535d0c8124bb5cac9348cff1b7594d3553ac6702.1920x1080.jpg?t=1776188063"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/604240/ss_e8bbb15bfd22f83fb197fe4d71f1663742426450.1920x1080.jpg?t=1776188063"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/604240/ss_8f6ee8251d8b384bd4237fe97f0a0d951754b48e.1920x1080.jpg?t=1776188063"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/604240/ss_fe6cfee7e97217927355e61059cc50bfdc284d24.1920x1080.jpg?t=1776188063"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/604240/ss_2504c70f7194dede73713cca79e5d92c03583548.1920x1080.jpg?t=1776188063"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/604240/6af1df8ab7d7d1bd8b6da8e1ac5afc8177774709/ss_6af1df8ab7d7d1bd8b6da8e1ac5afc8177774709.1920x1080.jpg?t=1776188063"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/604240/ss_f11c556bff8134c3e34415d3a07275d121b64217.1920x1080.jpg?t=1776188063"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/604240/ss_5ec53554dbb12877d0ed049662233237c431afe7.1920x1080.jpg?t=1776188063"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/604240/ss_291225d3a945f8d4b396beafc81d65437c277fe3.1920x1080.jpg?t=1776188063"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/604240/3698955ad076766672a0e8d6b0fd4a213676e6a8/ss_3698955ad076766672a0e8d6b0fd4a213676e6a8.1920x1080.jpg?t=1776188063"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/604240/ss_15e3d590d4346b44723888760ad5db4cfc1fc8ab.1920x1080.jpg?t=1776188063"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/604240/ss_73326eac39ac6dfb5203a9fb1cb23f402bd25d29.1920x1080.jpg?t=1776188063"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/604240/ss_a70beda8967f017f1dfa3ad3334ee7121014f3bf.1920x1080.jpg?t=1776188063"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/604240/ss_81304d459fdcdd928e053f0ea8e26edd65bcbdfe.1920x1080.jpg?t=1776188063"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/604240/ss_128ef82a2ec6b9a81ac50faee61e83c294cdd8b0.1920x1080.jpg?t=1776188063"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256941121/movie.293x165.jpg?t=1742828637",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/604240/557866/7878a372ce8347e924cbaeb65f0e48d500dff582/1750561155/dash_h264.mpd?t=1742828637"
+    },
+    {
+      "name": "Winter Event Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256816478/movie.293x165.jpg?t=1683121805",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/604240/337201/c9dc4b774e8f9530880cf504d1a4d2708a6745a8/1750561142/dash_h264.mpd?t=1683121805"
+    },
+    {
+      "name": "Winter 2021 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256866236/movie.293x165.jpg?t=1683121812",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/604240/426689/e72c40ea37afd1a0aa5d2738f49a9f6365c2597a/1750561148/dash_h264.mpd?t=1683121812"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 604240,
+    "store_url": "https://store.steampowered.com/app/604240/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Stats",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Action",
+      "Shooter",
+      "FPS",
+      "Funny",
+      "First-Person",
+      "Team-Based",
+      "Colorful",
+      "Co-op",
+      "Online Co-Op",
+      "Arena Shooter",
+      "Character Customization",
+      "3D",
+      "Cartoony",
+      "Cartoon",
+      "Singleplayer",
+      "PvE",
+      "PvP",
+      "Indie",
+      "Stylized"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 9131,
+    "review_negative": 724,
+    "review_total": 9855,
+    "review_positive_percent": 92.65
+  }
+}

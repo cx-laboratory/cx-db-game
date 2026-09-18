@@ -1,0 +1,281 @@
+{
+  "key": "my-time-at-sandrock",
+  "name": "My Time at Sandrock",
+  "description": "Travel to the desert community of Sandrock and take on the role of a fledgling Builder. Use your trusty toolset to gather resources, construct machines, and turn your run-down workshop into a well-oiled production facility to save the town from the jaws of economic ruin!",
+  "developers": [
+    "Pathea Games"
+  ],
+  "publishers": [
+    "Pathea Games"
+  ],
+  "release_date": "2023-11-02",
+  "website": "https://sandrock.pathea.net/",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "rpg",
+    "simulation",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "life-sim",
+    "building",
+    "farming-sim",
+    "crafting",
+    "sandbox",
+    "dating-sim",
+    "open-world",
+    "character-customization",
+    "mining",
+    "post-apocalyptic",
+    "singleplayer",
+    "female-protagonist",
+    "cartoony",
+    "lgbtq"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "沙石镇时光",
+    "sc_schinese": "沙石镇时光"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Sandrock.exe",
+          "description": "Singleplayer RPG",
+          "type": "option1"
+        },
+        {
+          "executable": "SandrockMultiPlayer.exe",
+          "description": "Multiplayer",
+          "type": "option1"
+        },
+        {
+          "executable": "SandrockMultiPlayer.exe",
+          "description": "Multiplayer_test",
+          "type": "option1"
+        },
+        {
+          "executable": "Sandrock_Multi_Project/SandrockMultiPlayer.exe",
+          "description": "Multiplayer",
+          "type": "option1"
+        },
+        {
+          "executable": "Sandrock_Multi_Project/SandrockMultiPlayer.exe",
+          "description": "Multiplayer",
+          "type": "option1"
+        },
+        {
+          "executable": "Sandrock_Artbook/My Time at Sandrock Artbook_English.pdf",
+          "description": "Artbook（English）",
+          "type": "option1"
+        },
+        {
+          "executable": "Sandrock_Artbook/My Time at Sandrock Artbook_Chinese.pdf",
+          "description": "Artbook（Chinese）",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Pathea Games/My Time at Sandrock",
+          "pattern": "*.save",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "My Time at Sandrock",
+    "Sandrock",
+    "SandrockMultiPlayer",
+    "Sandrock_Multi_Project/SandrockMultiPlayer",
+    "Sandrock_Artbook/My Time at Sandrock Artbook_English.pdf",
+    "Sandrock_Artbook/My Time at Sandrock Artbook_Chinese.pdf",
+    "沙石镇时光"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1084600/eb9042f448e5e3572df7e4447b0e644f5aef88ed.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084600/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084600/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084600/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084600/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084600/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084600/ss_33a5396147ff4921f8fd2eeeb74c5b17a6bf6a09.1920x1080.jpg?t=1781164361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084600/ss_9f8c7034285882bf9cfb8928215e8b8959e2f04b.1920x1080.jpg?t=1781164361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084600/ss_070e8400c4de493b6e98bd081958e882c69c4dc1.1920x1080.jpg?t=1781164361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084600/ss_7cf0ec2cb855b1cf29280e9c5ba9009561e6ec58.1920x1080.jpg?t=1781164361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084600/ss_bd7ee0f57c3dad5e8759b92b0ed33ab8a6dd3e46.1920x1080.jpg?t=1781164361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084600/ss_995acc0e2bcee1f67348a7bfeb9c4f366a8a8126.1920x1080.jpg?t=1781164361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084600/ss_b36ac3a5c05787c207afec0962c13f93550cf0ca.1920x1080.jpg?t=1781164361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084600/ss_9a8c323b1aaa8a2d8618557c371f782d37877f3f.1920x1080.jpg?t=1781164361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084600/ss_bd5199c6a183093b04da93b3efcc38c1f78e54a6.1920x1080.jpg?t=1781164361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084600/ss_730b674aa925a5cfb9a2d24386727fbb16148038.1920x1080.jpg?t=1781164361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084600/ss_8cd993e8952ba2ed623c5b36a70f0870f1c82de9.1920x1080.jpg?t=1781164361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084600/ss_c33315bb33ca6122c9f0e4ccc19f4d336674b738.1920x1080.jpg?t=1781164361"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084600/ss_35a4cfe1d7705612059667850f6c6dd7a15e3957.1920x1080.jpg?t=1781164361"
+    }
+  ],
+  "videos": [
+    {
+      "name": "My Time at Sandrock - Monster Whisperer Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257026410/movie.293x165.jpg?t=1716909203",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1084600/706032/abe73df95494895ec018f8d5c74fc07e7018cb50/1750614068/dash_h264.mpd?t=1716909203"
+    },
+    {
+      "name": "My Time at Sandrock - Accolade Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256990429/movie.293x165.jpg?t=1703182634",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1084600/643106/c79899a6d411068f513eeb47049ae941584ccbb5/1750614065/dash_h264.mpd?t=1703182634"
+    },
+    {
+      "name": "My Time at Sandrock - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256979728/movie.293x165.jpg?t=1698936407",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1084600/625223/ccc01cdc5f011bb8c268896038bd9b89b83bcfec/1750614059/dash_h264.mpd?t=1698936407"
+    },
+    {
+      "name": "My Time at Sandrock - Your Life At Sandrock Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256978192/movie.293x165.jpg?t=1698242881",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1084600/622548/9bb6cb11ba1bc2679a40b1d38b91449a0264f9af/1750614047/dash_h264.mpd?t=1698242881"
+    },
+    {
+      "name": "My Time at Sandrock - Gameplay Overview Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256974574/movie.293x165.jpg?t=1696860595",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1084600/616336/be754cae7bf8012e0d6a89c577deb973b4ac8949/1750614042/dash_h264.mpd?t=1696860595"
+    },
+    {
+      "name": "My Time at Sandrock - A Builder's Life Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256969781/movie.293x165.jpg?t=1694774272",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1084600/608009/480b1ed766590855e28c427ebf4e03141206ce05/1750614035/dash_h264.mpd?t=1694774272"
+    },
+    {
+      "name": "My Time at Sandrock - Release Date Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256951408/movie.293x165.jpg?t=1686150973",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1084600/575740/9923e7f00aadfc236ec95a6ec54d7bc88097c8f0/1750614011/dash_h264.mpd?t=1686150973"
+    },
+    {
+      "name": "Early Access Launch Trailer EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256888285/movie.293x165.jpg?t=1656036449",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1084600/466004/15fa14777d509d22ca63ba80d28cdc0f9b737247/1750836156/dash_h264.mpd?t=1656036449"
+    },
+    {
+      "name": "Logan Strikes Back! EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256903142/movie.293x165.jpg?t=1663750973",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1084600/491604/2834d9b88d4b3993eeefdfed0767498f565aa078/1750836158/dash_h264.mpd?t=1663750973"
+    },
+    {
+      "name": "Early Access announce teaser EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256880906/movie.293x165.jpg?t=1653572357",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1084600/452840/0f28a46aa25837dd384abefcc7854bd298c8d298/1750613874/dash_h264.mpd?t=1653572357"
+    },
+    {
+      "name": "First Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256806147/movie.293x165.jpg?t=1603704985",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1084600/321243/aec95f959dc57da8d92b01c8b7fcce63bbf3afac/1750613852/dash_h264.mpd?t=1603704985"
+    }
+  ],
+  "metacritic": {
+    "score": 80,
+    "url": "https://www.metacritic.com/game/pc/my-time-at-sandrock?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1084600,
+    "store_url": "https://store.steampowered.com/app/1084600/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Life Sim",
+      "Building",
+      "Farming Sim",
+      "Multiplayer",
+      "Crafting",
+      "Sandbox",
+      "Dating Sim",
+      "RPG",
+      "Open World",
+      "Character Customization",
+      "Mining",
+      "Adventure",
+      "Post-apocalyptic",
+      "Simulation",
+      "Casual",
+      "Singleplayer",
+      "Female Protagonist",
+      "Cartoony",
+      "Indie",
+      "LGBTQ+"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 25343,
+    "review_negative": 3398,
+    "review_total": 28741,
+    "review_positive_percent": 88.18
+  }
+}

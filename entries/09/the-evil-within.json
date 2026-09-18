@@ -1,0 +1,171 @@
+{
+  "key": "the-evil-within",
+  "name": "The Evil Within",
+  "description": "Developed by Shinji Mikami -- creator of the seminal Resident Evil series -- and the talented team at Tango Gameworks, The Evil Within embodies the meaning of pure survival horror. Highly-crafted environments, horrifying anxiety, and an intricate story are combined to create an immersive world that will bring you to the height of tension.",
+  "developers": [
+    "Tango Gameworks"
+  ],
+  "publishers": [
+    "Bethesda Softworks"
+  ],
+  "release_date": "2014-10-15",
+  "website": "http://www.theevilwithin.com",
+  "tags": [
+    "action"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian",
+    "japanese",
+    "polish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "evilwithin.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinSavedGames",
+          "path": "TangoGameworks\\The Evil Within\\base",
+          "pattern": "*.bin",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "TangoGameworks\\The Evil Within\\base",
+          "pattern": "*.zwei",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "TangoGameworks\\The Evil Within\\base",
+          "pattern": "*.details",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "TangoGameworks\\The Evil Within\\base",
+          "pattern": "*.png",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The Evil Within",
+    "evilwithin"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/268050/3ec11bf61b679fe85a529fc139ed90f39964a7c1.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/ss_1322e5344c6bdfc04571418252d12e8dfe0dbf03.1920x1080.jpg?t=1750783780"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/ss_c24855357d250b23a1912ed85fc126451e188284.1920x1080.jpg?t=1750783780"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/ss_fa65fd3c1d5ee8dedf67f0ad1b2df828c33ecc99.1920x1080.jpg?t=1750783780"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/ss_86018e7dcb5f785aa9b8cfe4ecb75fbec52953ba.1920x1080.jpg?t=1750783780"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/ss_a46ff1aaa4a4b24cd6bc0c44d78b171a7484c5bb.1920x1080.jpg?t=1750783780"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/ss_d41229c79c20148d15e701cee64f9c73352de644.1920x1080.jpg?t=1750783780"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/ss_c8492181d8a1894a03199411c5be1484d67fdaef.1920x1080.jpg?t=1750783780"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/ss_458a0e1b716b097937d0a599b0bf37a118021a51.1920x1080.jpg?t=1750783780"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/ss_1a9f96188105794239ba04bea0e96783125a144b.1920x1080.jpg?t=1750783780"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/ss_bb0857b8cffc70fbfc561dca7daa316c973dba9e.1920x1080.jpg?t=1750783780"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The World Within",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2034935/movie.293x165.jpg?t=1447364179",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/268050/26277/a68ecd56544af4cd4b76170a91bdbcb37f88c185/1750499143/dash_h264.mpd?t=1447364179"
+    },
+    {
+      "name": "Every Last Bullet",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2034934/movie.293x165.jpg?t=1447364179",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/268050/26276/03e38bbe00dc1d4945760ffdaa7311cdd731584e/1750499120/dash_h264.mpd?t=1447364179"
+    },
+    {
+      "name": "The Evil Within Terrified Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2034201/movie.293x165.jpg?t=1447363436",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/268050/24606/495dcc8dac97851dad72b4be8fc4f0f99654ded9/1750499120/dash_h264.mpd?t=1447363436"
+    },
+    {
+      "name": "The Evil Within - Teaser Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2034200/movie.293x165.jpg?t=1447363434",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/268050/24602/d19b62c86459e66dafd8eb3f5a4bcb32eea9797a/1750499118/dash_h264.mpd?t=1447363434"
+    }
+  ],
+  "metacritic": {
+    "score": 68,
+    "url": "https://www.metacritic.com/game/pc/the-evil-within?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 268050,
+    "store_url": "https://store.steampowered.com/app/268050/",
+    "required_age": 16,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Captions available",
+      "Color Alternatives",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Surround Sound",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 28170,
+    "review_negative": 4908,
+    "review_total": 33078,
+    "review_positive_percent": 85.16
+  }
+}

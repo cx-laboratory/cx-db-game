@@ -1,0 +1,303 @@
+{
+  "key": "pillars-of-eternity-ii-deadfire",
+  "name": "Pillars of Eternity II: Deadfire",
+  "description": "Patch 5.0 - Turn-based mode and The Ultimate challenge out now! Pursue a rogue god over land and sea in the sequel to the multi-award-winning RPG Pillars of Eternity. Captain your ship on a dangerous voyage of discovery across the vast unexplored archipelago region of the Deadfire.",
+  "developers": [
+    "Obsidian Entertainment"
+  ],
+  "publishers": [
+    "Versus Evil"
+  ],
+  "release_date": "2018-05-09",
+  "website": "https://eternity.obsidian.net/",
+  "tags": [
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "PillarsOfEternityII.exe",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "PillarsOfEternity2.exe",
+          "description": "Chinese Review",
+          "type": "none"
+        },
+        {
+          "executable": "PillarsOfEternity2.exe",
+          "description": "External Fig",
+          "type": "none"
+        },
+        {
+          "executable": "PillarsOfEternity2.exe",
+          "description": "Magazine Review",
+          "type": "none"
+        },
+        {
+          "executable": "PillarsOfEternity2.exe",
+          "description": "Petrol Cinematics",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinSavedGames",
+          "path": "Pillars of Eternity II",
+          "pattern": "*.*",
+          "recursive": true
+        },
+        {
+          "root": "LinuxXdgDataHome",
+          "path": "PillarsofEternityII",
+          "pattern": "*.*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Pillars of Eternity II",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "PillarsOfEternityII.app",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "PillarsOfEternity2.app",
+          "description": "Chinese Review",
+          "type": "none"
+        },
+        {
+          "executable": "PillarsOfEternity2.app",
+          "description": "External Fig",
+          "type": "none"
+        },
+        {
+          "executable": "PillarsOfEternity2.app",
+          "description": "Magazine Review",
+          "type": "none"
+        },
+        {
+          "executable": "PillarsOfEternity2.app",
+          "description": "Petrol Cinematics",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinSavedGames",
+          "path": "Pillars of Eternity II",
+          "pattern": "*.*",
+          "recursive": true
+        },
+        {
+          "root": "LinuxXdgDataHome",
+          "path": "PillarsofEternityII",
+          "pattern": "*.*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Pillars of Eternity II",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "PillarsOfEternityII",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "PillarsOfEternity2",
+          "description": "Chinese Review",
+          "type": "none"
+        },
+        {
+          "executable": "PillarsOfEternity2",
+          "description": "External Fig",
+          "type": "none"
+        },
+        {
+          "executable": "PillarsOfEternity2",
+          "description": "Magazine Review",
+          "type": "none"
+        },
+        {
+          "executable": "PillarsOfEternity2",
+          "description": "Petrol Cinematics",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinSavedGames",
+          "path": "Pillars of Eternity II",
+          "pattern": "*.*",
+          "recursive": true
+        },
+        {
+          "root": "LinuxXdgDataHome",
+          "path": "PillarsofEternityII",
+          "pattern": "*.*",
+          "recursive": true
+        },
+        {
+          "root": "MacAppSupport",
+          "path": "Pillars of Eternity II",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Pillars of Eternity II: Deadfire",
+    "PillarsOfEternityII",
+    "PillarsOfEternity2",
+    "PillarsOfEternityII.app",
+    "PillarsOfEternity2.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/560130/d119a92a651444cee7d085bd581eb2d3028f51e2.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560130/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560130/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560130/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560130/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560130/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560130/ss_a94a39544efd153a63926edb5e1f528f3dc612e6.1920x1080.jpg?t=1776350012"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560130/ss_4f8695a72b5e2855bef51ddcd3aa29b90d223226.1920x1080.jpg?t=1776350012"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560130/ss_2311bb56410e0ae8d8819332192c207681b977ba.1920x1080.jpg?t=1776350012"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560130/ss_4eecbd71d4a99769187b4c3937eecc6242ce2a74.1920x1080.jpg?t=1776350012"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560130/ss_5f60787bc85a85fc895abbf3b6f5009606909d82.1920x1080.jpg?t=1776350012"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560130/ss_50474ffa419d4f9daca248f70b279b3989eec4f1.1920x1080.jpg?t=1776350012"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560130/ss_ce8df575263a750c14d72ef0e76fd32454aabb78.1920x1080.jpg?t=1776350012"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560130/ss_b02acd988d61ae222a6fe6d123d4ef5217a24fab.1920x1080.jpg?t=1776350012"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560130/ss_0bbd0ac7948643646d1fc0eb660d6d3a7945e411.1920x1080.jpg?t=1776350012"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560130/ss_82e65ff52b2cca6e122126f46154ea93f2843f54.1920x1080.jpg?t=1776350012"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560130/ss_de4be4f049d23ba4e379368f2bf2b32b019ccfeb.1920x1080.jpg?t=1776350012"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560130/ss_415508d81560ac70c36b130afd94970f10da1560.1920x1080.jpg?t=1776350012"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560130/ss_ff9dd013aaf7104fa5bee514c6b5ec23c47b5029.1920x1080.jpg?t=1776350012"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560130/ss_21ccfa6c89a9fde1f62b391aec0ce3f46b53ad27.1920x1080.jpg?t=1776350012"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560130/ss_5d40ff7d02bf38c0af1611e9018998102a3bfa59.1920x1080.jpg?t=1776350012"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560130/ss_7674e5a44ca82eddf0e4df90ab110047364de599.1920x1080.jpg?t=1776350012"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Features Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256712582/movie.293x165.jpg?t=1526920639",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/560130/154427/0b1880bb85e9b712c0f3fa02cf65bc048c399fb1/1750551377/dash_h264.mpd?t=1526920639"
+    },
+    {
+      "name": "Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256716829/movie.293x165.jpg?t=1526332848",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/560130/162811/4dd2c1d668d5ff39b3566aed1edbcea177cd5ccf/1750551445/dash_h264.mpd?t=1526332848"
+    },
+    {
+      "name": "Pillars of Eternity II: Deadfire – early gameplay trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256699498/movie.293x165.jpg?t=1518725681",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/560130/130511/73b6a5e7aefb2115d00fb52ee1c0c9ef77e5e546/1750551373/dash_h264.mpd?t=1518725681"
+    },
+    {
+      "name": "Turn-Based Mode Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256741360/movie.293x165.jpg?t=1548371528",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/560130/206186/61d410ad0575b12145949e92035001759ce9cdcf/1750551482/dash_h264.mpd?t=1548371528"
+    }
+  ],
+  "metacritic": {
+    "score": 88,
+    "url": "https://www.metacritic.com/game/pc/pillars-of-eternity-ii-deadfire?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 560130,
+    "store_url": "https://store.steampowered.com/app/560130/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 17507,
+    "review_negative": 2389,
+    "review_total": 19896,
+    "review_positive_percent": 87.99
+  }
+}

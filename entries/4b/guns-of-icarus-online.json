@@ -1,0 +1,262 @@
+{
+  "key": "guns-of-icarus-online",
+  "name": "Guns of Icarus Online",
+  "description": "Assemble your crew, take to the skies in the premier PvP airship combat game. Guns of Icarus Online is all about flying massive airships, shooting big turret weapons, and working as a team for supremacy of the skies. Everyone as one, victory or death, together.",
+  "developers": [
+    "Muse Games"
+  ],
+  "publishers": [
+    "Muse Games"
+  ],
+  "release_date": "2012-10-30",
+  "website": "http://gunsoficarus.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "simulation",
+    "multiplayer",
+    "steampunk",
+    "team-based",
+    "co-op",
+    "tactical",
+    "competitive",
+    "flight",
+    "fps",
+    "online-co-op",
+    "pvp",
+    "strategy",
+    "first-person",
+    "shooter",
+    "class-based",
+    "massively-multiplayer",
+    "open-world"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "GunsOfIcarusOnline.exe",
+          "description": "Play Guns of Icarus Online (DirectX 11 - Recommended)",
+          "type": "none"
+        },
+        {
+          "executable": "GunsOfIcarusOnline.exe",
+          "description": "Play Guns of Icarus Online (DirectX 9)",
+          "type": "none"
+        },
+        {
+          "executable": "workshop/Workshop.exe",
+          "description": "Launch Workshop Tool",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "GunsOfIcarusOnline.app/Contents/MacOS/GunsOfIcarusOnline",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "workshop/Workshop.app/Contents/MacOS/Workshop",
+          "description": "Launch Workshop Tool",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "launch.sh",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "workshop/launch.sh",
+          "description": "Launch Workshop Tool",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Guns of Icarus Online",
+    "GunsOfIcarusOnline",
+    "workshop/Workshop",
+    "GunsOfIcarusOnline.app/Contents/MacOS/GunsOfIcarusOnline",
+    "workshop/Workshop.app/Contents/MacOS/Workshop",
+    "launch.sh",
+    "workshop/launch.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/209080/968e8c0b7a55f0229392278123dfd486140c9421.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209080/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209080/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209080/library_600x900.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209080/ss_3de162ddb741402276d2a7fa1526d81ae8e8d24f.1920x1080.jpg?t=1674849918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209080/ss_914661c983899f1cbd807abe310fef721ce6aed2.1920x1080.jpg?t=1674849918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209080/ss_a084f58de84e18cde98485731d0d087d0de37e84.1920x1080.jpg?t=1674849918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209080/ss_93faee396d7ecc8987009169d2704e0ec545d69a.1920x1080.jpg?t=1674849918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209080/ss_6e4d581f328ffc23c65823c20047110fbb766454.1920x1080.jpg?t=1674849918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209080/ss_076b0868c9da8ec92f7085d73c2f5e6780134ee8.1920x1080.jpg?t=1674849918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209080/ss_6318f01d3099b8ebc39d1bfc3910729af18d4bc8.1920x1080.jpg?t=1674849918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209080/ss_30d4061caa57e258b03fdad3c5ac83528e21bc2e.1920x1080.jpg?t=1674849918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209080/ss_9c9b22ec2d7a075d1ab91c320c423177ceee77db.1920x1080.jpg?t=1674849918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209080/ss_678b9489380d65be122ac4daf79fef7f95f72d44.1920x1080.jpg?t=1674849918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209080/ss_ee8bfc7460babaf4ac8a036383fca11ff2c53aa3.1920x1080.jpg?t=1674849918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209080/ss_5050ad15dfc58496da22704fd9e4910dd45c1acb.1920x1080.jpg?t=1674849918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209080/ss_8550f10e6104d76e5f58864796c47fe5c5f0adab.1920x1080.jpg?t=1674849918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209080/ss_a689bbf666afcec0844a96b53e3e32e38deb31bb.1920x1080.jpg?t=1674849918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209080/ss_4cc196fe6f100d3955dbea38af96bc9122f557cd.1920x1080.jpg?t=1674849918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209080/ss_689d0660f6fb07bd502b96f43b2d95a55d8365f7.1920x1080.jpg?t=1674849918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209080/ss_8f3cc9e2b9c5d127789de4a8ca9f68f15ca53d72.1920x1080.jpg?t=1674849918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209080/ss_1f98c448f4b40ff03c27eead91d3599f15981831.1920x1080.jpg?t=1674849918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209080/ss_721fff550c6c3e0752e29901588a25b48563c998.1920x1080.jpg?t=1674849918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209080/ss_6e2a2ed75589e9ea43779e6ef93b170b22aa45f5.1920x1080.jpg?t=1674849918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209080/ss_50ced1401706efae91e530fbcd40d4cc34e819c3.1920x1080.jpg?t=1674849918"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Guns of Icarus Alliance Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256681743/movie.293x165.jpg?t=1490160180",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/209080/95367/00546e71c08f3dc121de1aef523b9d2de2d47582/1751249665/dash_h264.mpd?t=1490160180"
+    },
+    {
+      "name": "Guns of Icarus Online Match POV Polaris",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2036557/movie.293x165.jpg?t=1447367484",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/209080/29834/4a81fc7a6c6560efbc772511253727b7fa6c8260/1751249665/dash_h264.mpd?t=1447367484"
+    },
+    {
+      "name": "Guns of Icarus Online Match POV Node Studios",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/82060/movie.293x165.jpg?t=1447356719",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/209080/9175/6b04e6ac29d5566220ba3ee73ce9753fb0921baf/1751249664/dash_h264.mpd?t=1447356719"
+    },
+    {
+      "name": "Guns of Icarus Online Faction Prologue Teaser (Alliance Expansion)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2031058/movie.293x165.jpg?t=1458160903",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/209080/17609/6acc440e5eb81eebccd80af144717577dfc275b7/1751249665/dash_h264.mpd?t=1458160903"
+    },
+    {
+      "name": "Guns of Icarus Online Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028392/movie.293x165.jpg?t=1447357510",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/209080/10739/7b6c720f307f1bd4f908887dcede52a0ca0a0449/1751249664/dash_h264.mpd?t=1447357510"
+    }
+  ],
+  "metacritic": {
+    "score": 64,
+    "url": "https://www.metacritic.com/game/pc/guns-of-icarus-online?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 209080,
+    "store_url": "https://store.steampowered.com/app/209080/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Multi-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Stats",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Steampunk",
+      "Team-Based",
+      "Multiplayer",
+      "Co-op",
+      "Action",
+      "Tactical",
+      "Indie",
+      "Competitive",
+      "Simulation",
+      "Adventure",
+      "Flight",
+      "FPS",
+      "Online Co-Op",
+      "PvP",
+      "Strategy",
+      "First-Person",
+      "Shooter",
+      "Class-Based",
+      "Massively Multiplayer",
+      "Open World"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 13177,
+    "review_negative": 1487,
+    "review_total": 14664,
+    "review_positive_percent": 89.86
+  }
+}

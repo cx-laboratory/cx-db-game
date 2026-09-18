@@ -1,0 +1,304 @@
+{
+  "key": "volcanoids",
+  "name": "Volcanoids",
+  "description": "A base-building open-world survival shooter that replaces your typical base with a giant drill. Alone or with friends, explore an island plagued by eruptions, upgrade your drill, and fight robots to uncover what's been hiding beneath the surface.",
+  "developers": [
+    "Volcanoid"
+  ],
+  "publishers": [
+    "Volcanoid"
+  ],
+  "release_date": "2019-01-30",
+  "website": "https://linktr.ee/volcanoids",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "simulation",
+    "early-access",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "crafting",
+    "steampunk",
+    "base-building",
+    "exploration",
+    "sandbox",
+    "survival",
+    "building",
+    "shooter",
+    "first-person",
+    "fps",
+    "open-world",
+    "atmospheric",
+    "singleplayer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Czech",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Italian",
+    "Polish",
+    "Dutch",
+    "Japanese",
+    "Hungarian",
+    "Ukrainian*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Volcanoids.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Volcanoid/Volcanoids/Saves",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Volcanoid/Volcanoids/Saves",
+          "pattern": "*.png",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Volcanoid/Volcanoids",
+          "pattern": "*.png",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Volcanoid/Volcanoids",
+          "pattern": "options.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Volcanoid/Volcanoids/Saves2",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Volcanoid/Volcanoids/Saves2",
+          "pattern": "*.png",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Volcanoids.x86_64",
+          "description": "Volcanoids (Vulkan)",
+          "type": "option1"
+        },
+        {
+          "executable": "Volcanoids.x86_64",
+          "description": "Volcanoids (OpenGL)",
+          "type": "option2"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Volcanoid/Volcanoids/Saves",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Volcanoid/Volcanoids/Saves",
+          "pattern": "*.png",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Volcanoid/Volcanoids",
+          "pattern": "*.png",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Volcanoid/Volcanoids",
+          "pattern": "options.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Volcanoid/Volcanoids/Saves2",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Volcanoid/Volcanoids/Saves2",
+          "pattern": "*.png",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Volcanoids",
+    "Volcanoids.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/951440/350f418a70bfe202f0af6e5de8da2a2dd0c013c0.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/951440/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/951440/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/951440/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/951440/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/951440/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/951440/ss_5c6275af0309c1f5e03b7437c5963875609d6af9.1920x1080.jpg?t=1733747150"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/951440/ss_ea7e3cb98f533f251d2ef4c5be28884bad9324f5.1920x1080.jpg?t=1733747150"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/951440/ss_2fa4aedc0912379cfd02dde4f160f553e9e25b9c.1920x1080.jpg?t=1733747150"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/951440/ss_4df9846bf837c0fe545ea00c5c4b27d7276d40e3.1920x1080.jpg?t=1733747150"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/951440/ss_386c55689f4dc0d87d5f7cc8daff69abb8411526.1920x1080.jpg?t=1733747150"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/951440/ss_237dd36ff3bb3ebbd762c2d325f695314e6f51ed.1920x1080.jpg?t=1733747150"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/951440/ss_67642348cb08e16f048592a6b249028e1e185892.1920x1080.jpg?t=1733747150"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/951440/ss_d2e40f91d40103980274e4c246d18869d478ca1a.1920x1080.jpg?t=1733747150"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/951440/ss_192521c6c854db0da67eff06696b6f047e86f7e5.1920x1080.jpg?t=1733747150"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Machine Hunt Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257080230/6039ebd247673b98407845a9b67a851d2a87f959/movie_600x337.jpg?t=1733747142",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/951440/797122/1db4e53bd6f53caaf32dbf8518a82d1e73231208/1750600069/dash_h264.mpd?t=1733747142"
+    },
+    {
+      "name": "Interior Innovations Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257034280/movie.293x165.jpg?t=1719508214",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/951440/719419/bcb9da6e993aa1215373015176734834304abade/1750600065/dash_h264.mpd?t=1719508214"
+    },
+    {
+      "name": "Tesla Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256954534/movie.293x165.jpg?t=1687624737",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/951440/580872/3ed6c7b0678f0ed994696e32683027f8395ed828/1750600064/dash_h264.mpd?t=1687624737"
+    },
+    {
+      "name": "Ground Support Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256934581/movie.293x165.jpg?t=1683636818",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/951440/546169/3c0e3c336562a23271fb869819bc0e6886ef1489/1750600051/dash_h264.mpd?t=1683636818"
+    },
+    {
+      "name": "Heavy Machinery Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256908037/movie.293x165.jpg?t=1687624741",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/951440/500035/ab6410fa5abb4bdf972acbe7d99a9d0f4d36c959/1750600009/dash_h264.mpd?t=1687624741"
+    },
+    {
+      "name": "Customization Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256840507/movie.293x165.jpg?t=1683636826",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/951440/379969/64f450c6f79b5d52ec4fb2a2ccb634df1aa92359/1750599988/dash_h264.mpd?t=1683636826"
+    },
+    {
+      "name": "Workshop Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256856027/movie.293x165.jpg?t=1683636829",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/951440/409379/6269bbf31f4e54cd9f56503e460277ed26d16c50/1750599995/dash_h264.mpd?t=1683636829"
+    },
+    {
+      "name": "Combat Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256818683/movie.293x165.jpg?t=1683636833",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/951440/341405/99e64ed380df18608cac5bd4b9721a85b722c8eb/1750599986/dash_h264.mpd?t=1683636833"
+    },
+    {
+      "name": "Co-op Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256908153/movie.293x165.jpg?t=1683636838",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/951440/500263/e1e1005049a93404bd89a27f63b5841ef1c15738/1750600011/dash_h264.mpd?t=1683636838"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 951440,
+    "store_url": "https://store.steampowered.com/app/951440/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Crafting",
+      "Steampunk",
+      "Base Building",
+      "Exploration",
+      "Sandbox",
+      "Co-op",
+      "Survival",
+      "Building",
+      "Shooter",
+      "First-Person",
+      "FPS",
+      "Open World",
+      "Action",
+      "Simulation",
+      "Atmospheric",
+      "Adventure",
+      "Multiplayer",
+      "Online Co-Op",
+      "Singleplayer",
+      "Early Access"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7687,
+    "review_negative": 1607,
+    "review_total": 9294,
+    "review_positive_percent": 82.71
+  }
+}

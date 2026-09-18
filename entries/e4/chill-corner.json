@@ -1,0 +1,182 @@
+{
+  "key": "chill-corner",
+  "name": "Chill Corner",
+  "description": "This is just an idle game for chilling, relaxing or focusing.",
+  "developers": [
+    "Low-Hi Tech"
+  ],
+  "publishers": [
+    "Low-Hi Tech"
+  ],
+  "release_date": "2021-12-17",
+  "website": "",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "free-to-play",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "relaxing",
+    "atmospheric",
+    "idler",
+    "music",
+    "utilities",
+    "life-sim",
+    "cute",
+    "incremental",
+    "3d",
+    "singleplayer",
+    "colorful",
+    "emotional",
+    "management",
+    "time-manipulation",
+    "anime",
+    "point-and-click"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "Japanese",
+    "Korean",
+    "Thai",
+    "Vietnamese",
+    "Spanish - Spain",
+    "Portuguese - Portugal",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Spanish - Latin America",
+    "French",
+    "Polish",
+    "German",
+    "Turkish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Chill Corner.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Chill Corner_Data/Saves",
+          "pattern": "*.bin",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Chill Corner"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1749630/4497ce0f68ce946cb0a8f9daaaf19ed0470aea22.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1749630/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1749630/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1749630/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1749630/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1749630/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1749630/ss_d1c2fb30ccd4bbae1c047b77a69711174fc450e3.1920x1080.jpg?t=1750149629"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1749630/ss_4d74bc2109483863bb7ea6981945ec7bd798b306.1920x1080.jpg?t=1750149629"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1749630/ss_edfda2dc83e34193112823b493d72374f7a75ecf.1920x1080.jpg?t=1750149629"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1749630/ss_a88959eef58724f4e4b1fd45663a81fe37aceed1.1920x1080.jpg?t=1750149629"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1749630/ss_a35d088b6d47da3f0dccda560017860b008f07fe.1920x1080.jpg?t=1750149629"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1749630/ss_aa19f5955ebb590b43629cf2c089a40f151b417b.1920x1080.jpg?t=1750149629"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1749630/ss_8233901086a91f52113e6f73743862a7e2d0d973.1920x1080.jpg?t=1750149629"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1749630/ss_826f1befebbb60c59cfdc6ba6af8cc88d928f804.1920x1080.jpg?t=1750149629"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1749630/ss_a2965b4b2d160ba3cdcafed158e54411b616ed80.1920x1080.jpg?t=1750149629"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1749630/ss_22bbce14d721d4da6ca4d9f61fcdedd430201063.1920x1080.jpg?t=1750149629"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Official trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256854652/movie.293x165.jpg?t=1633491012",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1749630/406865/6e9b6c79cacf45521d9841f07d420857840ed7c9/1751028248/dash_h264.mpd?t=1633491012"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1749630,
+    "store_url": "https://store.steampowered.com/app/1749630/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Relaxing",
+      "Free to Play",
+      "Atmospheric",
+      "Idler",
+      "Casual",
+      "Simulation",
+      "Music",
+      "Utilities",
+      "Life Sim",
+      "Cute",
+      "Incremental",
+      "3D",
+      "Indie",
+      "Singleplayer",
+      "Colorful",
+      "Emotional",
+      "Management",
+      "Time Manipulation",
+      "Anime",
+      "Point & Click"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8746,
+    "review_negative": 917,
+    "review_total": 9663,
+    "review_positive_percent": 90.51
+  }
+}

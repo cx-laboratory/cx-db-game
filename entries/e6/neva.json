@@ -1,0 +1,229 @@
+{
+  "key": "neva",
+  "name": "Neva",
+  "description": "Experience the moving tale of a young woman and her lifelong bond with a magnificent wolf as they embark on a thrilling adventure through a rapidly dying world.",
+  "developers": [
+    "Nomada Studio"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "release_date": "2024-10-15",
+  "website": "http://www.neva.game",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "atmospheric",
+    "platformer",
+    "emotional",
+    "beautiful",
+    "puzzle",
+    "female-protagonist",
+    "colorful",
+    "2d-platformer",
+    "2d",
+    "nature",
+    "puzzle-platformer",
+    "walking-simulator",
+    "relaxing",
+    "singleplayer",
+    "great-soundtrack",
+    "anime",
+    "hand-drawn"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "turkish",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Neva.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "nomada studio/Neva/{64BitSteamID}",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Neva.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "nomada studio/Neva/{64BitSteamID}",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Neva",
+    "Neva.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2420660/259a7b4cab806a04df767565d0c8cae95cffd43c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_62a1d600f868ac02023335d29a4c744f71fc4f97.1920x1080.jpg?t=1771587898"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_25875a2bbb2656d449ce512ffcfad6fd7c66807a.1920x1080.jpg?t=1771587898"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_835f96b38d13781397beb6ca5a0046ff23b692ee.1920x1080.jpg?t=1771587898"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_f8c9358149ccd86f1046d031bc749b6ff13bc64e.1920x1080.jpg?t=1771587898"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_78c8c22f665548d1d8557a35136ee61e81e97cb9.1920x1080.jpg?t=1771587898"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_52acca00d787f0f0c3a830904024e48f0a1e0e17.1920x1080.jpg?t=1771587898"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_2c112088eb5d3ed2e1376fe34a22afa96110daa6.1920x1080.jpg?t=1771587898"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_bfe21ed7ce40011fa0a83e3d112ef3b95abd4e99.1920x1080.jpg?t=1771587898"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_bac6402dad7388116a088dfef16cc870c5b368bf.1920x1080.jpg?t=1771587898"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_e78a08950ca6aef5d92b75ca53f044fdba5fdf59.1920x1080.jpg?t=1771587898"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_d7df58777b3562b464f1b4d54c212d0493631624.1920x1080.jpg?t=1771587898"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_e4f760f2326ba49863a4e21fd9364bc7401c2382.1920x1080.jpg?t=1771587898"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_daa410bad8f0e5c9b4e6436b6e420882c118206b.1920x1080.jpg?t=1771587898"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_773bbdd524097f687f9cc9e8f0bbc65d4cafcd1f.1920x1080.jpg?t=1771587898"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_5a913c438f884a030a62d4cff2e11bee79b928cd.1920x1080.jpg?t=1771587898"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257065609/f5108399e3f540f0b1f7931537436589f619027a/movie_600x337.jpg?t=1729036622",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2420660/772577/73f0540d49d426cf08503cb8bf44c27ee4325350/1750814473/dash_h264.mpd?t=1729036622"
+    },
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257028830/movie.293x165.jpg?t=1717795534",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2420660/710140/ec5c86605b93fa8f20f6c612fe7e661abad66993/1750814463/dash_h264.mpd?t=1717795534"
+    },
+    {
+      "name": "Neva Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256945020/movie.293x165.jpg?t=1717795539",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2420660/564352/797ffb0e80e09fd7eab287cffba3bf86bfc19209/1750814458/dash_h264.mpd?t=1717795539"
+    }
+  ],
+  "metacritic": {
+    "score": 87,
+    "url": "https://www.metacritic.com/game/pc/neva?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 2420660,
+    "store_url": "https://store.steampowered.com/app/2420660/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Gamepad Recommended",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Adventure",
+      "Atmospheric",
+      "Platformer",
+      "Indie",
+      "Emotional",
+      "Beautiful",
+      "Puzzle",
+      "Female Protagonist",
+      "Colorful",
+      "2D Platformer",
+      "2D",
+      "Nature",
+      "Puzzle Platformer",
+      "Walking Simulator",
+      "Relaxing",
+      "Singleplayer",
+      "Great Soundtrack",
+      "Action",
+      "Anime",
+      "Hand-drawn"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 9552,
+    "review_negative": 653,
+    "review_total": 10205,
+    "review_positive_percent": 93.6
+  }
+}

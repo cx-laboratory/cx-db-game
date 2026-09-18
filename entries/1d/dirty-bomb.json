@@ -1,0 +1,202 @@
+{
+  "key": "dirty-bomb",
+  "name": "Dirty Bomb",
+  "description": "Work together or die alone! Fight to restore peace to London or tear it down for profit in the most challenging team based shooter around.",
+  "developers": [
+    "Splash Damage"
+  ],
+  "publishers": [
+    "Warchest Ltd."
+  ],
+  "release_date": "2015-06-02",
+  "website": "http://www.dirtybomb.com/",
+  "tags": [
+    "action",
+    "free-to-play",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "hero-shooter",
+    "fps",
+    "shooter",
+    "team-based",
+    "first-person",
+    "fast-paced",
+    "co-op",
+    "class-based",
+    "competitive",
+    "parkour",
+    "massively-multiplayer",
+    "post-apocalyptic",
+    "controller",
+    "singleplayer",
+    "open-world",
+    "gore"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "schinese",
+    "russian",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "DirtyBombLauncher.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Binaries/Win64/ShooterGame-Win32-Shipping.exe",
+          "description": "Shadowplay Highlights",
+          "type": "none"
+        },
+        {
+          "executable": "Binaries/Win32/ShooterGame-Win32-Shipping.exe",
+          "description": "Coherent",
+          "type": "none"
+        },
+        {
+          "executable": "DirtyBombLauncher.exe",
+          "description": "FaceIT Test",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Dirty Bomb",
+    "DirtyBombLauncher",
+    "Binaries/Win64/ShooterGame-Win32-Shipping",
+    "Binaries/Win32/ShooterGame-Win32-Shipping"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/333930/48a3c464019fc161c2ea17334ca8d545a846a98e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333930/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333930/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333930/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333930/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333930/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333930/ss_876d4708070df156b96759c165646d39aff6ec7f.1920x1080.jpg?t=1745569968"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333930/ss_f4d317e3c4959daba7cca1e3b78830bf67e57e69.1920x1080.jpg?t=1745569968"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333930/ss_90a0ba7b5b873000549ab2c617a2eecedd07ed67.1920x1080.jpg?t=1745569968"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333930/ss_90e291af938f16bd051bbd5d1134379836b16207.1920x1080.jpg?t=1745569968"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333930/ss_1a1d21b26a1ecef39c8ffef906dea5a3daf73f14.1920x1080.jpg?t=1745569968"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333930/ss_8b8f4c76d1acbfdb17d4b0d4b51f14494f0ffa7f.1920x1080.jpg?t=1745569968"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333930/ss_6ce0a6199734a775fb1dda9887b6d4efc8e7ef82.1920x1080.jpg?t=1745569968"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333930/ss_d2bb423b7fd3df897999d3ccc967aac3b953748a.1920x1080.jpg?t=1745569968"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333930/ss_5c635fdf263d8d0dc0c2ca4924468622bcbf83ee.1920x1080.jpg?t=1745569968"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333930/ss_4229c5fb52d2bb500eeb63c1618f97893754d83d.1920x1080.jpg?t=1745569968"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333930/ss_5aa503d2393198e0a07db11317132ee1a9538ac3.1920x1080.jpg?t=1745569968"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Five Years of Dirty Bomb",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256740484/movie.293x165.jpg?t=1547544947",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/333930/204626/002ee1654b59a2c7ad81f5bb61ee78ba92fc6a8f/1751265307/dash_h264.mpd?t=1547544947"
+    },
+    {
+      "name": "Dirty Bomb: Join The Professionals",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256720999/movie.293x165.jpg?t=1534247900",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/333930/170181/a2b161c12253a42919f9e267480e4d3780151b42/1751265298/dash_h264.mpd?t=1534247900"
+    },
+    {
+      "name": "Dirty Bomb: Scrubs Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2040330/movie.293x165.jpg?t=1504178020",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/333930/38269/5b1624104134cbeaf21d355cf5c620ba70e74782/1751265294/dash_h264.mpd?t=1504178020"
+    }
+  ],
+  "metacritic": {
+    "score": 63,
+    "url": "https://www.metacritic.com/game/pc/dirty-bomb?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 333930,
+    "store_url": "https://store.steampowered.com/app/333930/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Surround Sound",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Hero Shooter",
+      "Free to Play",
+      "FPS",
+      "Multiplayer",
+      "Shooter",
+      "Action",
+      "Team-Based",
+      "First-Person",
+      "Fast-Paced",
+      "Co-op",
+      "PvP",
+      "Class-Based",
+      "Competitive",
+      "Parkour",
+      "Massively Multiplayer",
+      "Post-apocalyptic",
+      "Controller",
+      "Singleplayer",
+      "Open World",
+      "Gore"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 46225,
+    "review_negative": 10627,
+    "review_total": 56852,
+    "review_positive_percent": 81.31
+  }
+}

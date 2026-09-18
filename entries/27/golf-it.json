@@ -1,0 +1,216 @@
+{
+  "key": "golf-it",
+  "name": "Golf It!",
+  "description": "Embark on an exciting journey with Golf It! Seize your putter, rally your friends, and immerse yourself in an epic minigolf adventure. Conquer countless courses, create lasting memories, and refine your skills to emerge as the ultimate minigolf champion. Your thrilling golfing odyssey begins here!",
+  "developers": [
+    "Perfuse Entertainment"
+  ],
+  "publishers": [
+    "Perfuse Entertainment"
+  ],
+  "release_date": "2023-08-19",
+  "website": "",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "sports",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "mini-golf",
+    "golf",
+    "funny",
+    "online-co-op",
+    "singleplayer",
+    "level-editor",
+    "early-access",
+    "local-multiplayer",
+    "co-op",
+    "sandbox",
+    "vr",
+    "family-friendly",
+    "memes",
+    "difficult",
+    "strategy"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "koreana"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "GolfIt.exe",
+          "description": "DirectX11",
+          "type": "default"
+        },
+        {
+          "executable": "GolfIt.exe",
+          "description": "DirectX10",
+          "type": "option1"
+        },
+        {
+          "executable": "GolfIt.exe",
+          "description": "Vulkan - experimental",
+          "type": "option3"
+        },
+        {
+          "executable": "GolfIt.exe",
+          "description": "VR",
+          "type": "vr"
+        },
+        {
+          "executable": "GolfIt.exe",
+          "description": "VR Oculus",
+          "type": "othervr"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "GolfIt-Mac-Shipping.app\\Contents\\MacOS\\GolfIt-Mac-Shipping",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Golf It!",
+    "GolfIt",
+    "GolfIt-Mac-Shipping.app\\Contents\\MacOS\\GolfIt-Mac-Shipping"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/571740/70b58cf94333587a69cf93c7e4a4241500928251.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571740/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571740/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571740/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571740/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571740/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571740/ss_67958f0e53aeccdcfd9f2099715ba93da9b3f10c.1920x1080.jpg?t=1707842297"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571740/ss_66869ccba588c20147a5472a7f319dd1bfc9a3d8.1920x1080.jpg?t=1707842297"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571740/ss_f9befbbf437e2ec59d047deedf26d9c71c2d9fc2.1920x1080.jpg?t=1707842297"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571740/ss_9e72ae891a99ef54b0b0773ce1c70e0958502d55.1920x1080.jpg?t=1707842297"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571740/ss_ffc8222324afd68bd47ed0eaecf7f2a776cbeaac.1920x1080.jpg?t=1707842297"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571740/ss_3661a4167f2ba7464134e5c603d4aaae61045e9e.1920x1080.jpg?t=1707842297"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571740/ss_27ee3b2c5d1f3c1e8d009971c9a1539802bed726.1920x1080.jpg?t=1707842297"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571740/ss_ed888c2c7ff075d77ee55a04ebb5ce9983206d7d.1920x1080.jpg?t=1707842297"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571740/ss_fcbd38a0b5114a564c456e33f0aac651e548bb2f.1920x1080.jpg?t=1707842297"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571740/ss_069d36142be634536c0a2db2384662f8a14b27db.1920x1080.jpg?t=1707842297"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571740/ss_4d7e578e14541edf77d522beb6582b894abda104.1920x1080.jpg?t=1707842297"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571740/ss_1fe419434108d40e982cbb5934234728dd615c57.1920x1080.jpg?t=1707842297"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571740/ss_50f71fe3532add24a2f5532755c8284a72c56046.1920x1080.jpg?t=1707842297"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Golf It Greenlight Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256678818/movie.293x165.jpg?t=1485889720",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/571740/88582/817a371333ea4f468dbf708b14f9f57f6a3202ba/1750551981/dash_h264.mpd?t=1485889720"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 571740,
+    "store_url": "https://store.steampowered.com/app/571740/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Sports"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Tracked Controller Support",
+      "VR Supported",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Stats",
+      "Steam Leaderboards",
+      "Includes level editor",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Mini Golf",
+      "Golf",
+      "Casual",
+      "Sports",
+      "Funny",
+      "Online Co-Op",
+      "Singleplayer",
+      "Simulation",
+      "Level Editor",
+      "Indie",
+      "Early Access",
+      "Local Multiplayer",
+      "Co-op",
+      "Sandbox",
+      "VR",
+      "Family Friendly",
+      "Memes",
+      "Difficult",
+      "Strategy"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 27919,
+    "review_negative": 2962,
+    "review_total": 30881,
+    "review_positive_percent": 90.41
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "key": "pseudoregalia",
+  "name": "Pseudoregalia",
+  "description": "Deep within the realm of sleep, Sybil finds herself pulled to a distorted castle. Grow strong, and unlock new abilities to build up a deep movement system, fight enemies, find secrets, and free the weary soul of Castle Sansa, in this retro-inspired 3D Platformer Metroidvania.",
+  "developers": [
+    "rittzler"
+  ],
+  "publishers": [
+    "rittzler"
+  ],
+  "release_date": "2023-07-29",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "3d-platformer",
+    "metroidvania",
+    "female-protagonist",
+    "parkour",
+    "exploration",
+    "old-school",
+    "platformer",
+    "3d",
+    "singleplayer",
+    "third-person",
+    "stylized",
+    "nonlinear",
+    "surreal",
+    "fantasy",
+    "abstract",
+    "controller",
+    "retro",
+    "magic"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "pseudoregalia.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "pseudoregalia\\Saved\\SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Pseudoregalia",
+    "pseudoregalia"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2365810/154db7f762c3b5f9b43845725aa4099bdb6c24b3.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2365810/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2365810/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2365810/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2365810/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2365810/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2365810/ss_f42949407a371eab4cdb2d971e04b0bb38511950.1920x1080.jpg?t=1770075281"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2365810/ss_b5583b1ebcc000241d03b75066787804aab85772.1920x1080.jpg?t=1770075281"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2365810/ss_93f3f0e60556d05568eac90b88e345110ede8630.1920x1080.jpg?t=1770075281"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2365810/ss_d53bdc1bab60706fb9f27f9d0e86784da7e52eaf.1920x1080.jpg?t=1770075281"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2365810/ss_d6d0c246de5f7241947f6a7277ea1b178d95e678.1920x1080.jpg?t=1770075281"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Bailey Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256960718/movie.293x165.jpg?t=1690560090",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2365810/591958/2f9fabae55514a04724112eff8f6b10f757bb95e/1750813089/dash_h264.mpd?t=1690560090"
+    },
+    {
+      "name": "Short Gameplay",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256956556/movie.293x165.jpg?t=1688517385",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2365810/584498/42959508c50c2b37226f66da6ca46f1b1ea3a149/1750813089/dash_h264.mpd?t=1688517385"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2365810,
+    "store_url": "https://store.steampowered.com/app/2365810/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Full controller support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "3D Platformer",
+      "Metroidvania",
+      "Female Protagonist",
+      "Parkour",
+      "Exploration",
+      "Old School",
+      "Platformer",
+      "3D",
+      "Singleplayer",
+      "Third Person",
+      "Stylized",
+      "Nonlinear",
+      "Surreal",
+      "Fantasy",
+      "Abstract",
+      "Adventure",
+      "Controller",
+      "Indie",
+      "Retro",
+      "Magic"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 17815,
+    "review_negative": 591,
+    "review_total": 18406,
+    "review_positive_percent": 96.79
+  }
+}

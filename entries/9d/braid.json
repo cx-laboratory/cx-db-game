@@ -1,0 +1,197 @@
+{
+  "key": "braid",
+  "name": "Braid",
+  "description": "This is the original version of Braid from 2009, which may not work well on newer systems. For an updated version of the game with nicer graphics, more levels and a large amount of developer commentary, see Braid, Anniversary Edition.",
+  "developers": [
+    "Number None"
+  ],
+  "publishers": [
+    "Number None"
+  ],
+  "release_date": "2009-04-11",
+  "website": "http://braid-game.com",
+  "tags": [
+    "casual",
+    "indie",
+    "strategy",
+    "puzzle-platformer",
+    "puzzle",
+    "2d-platformer",
+    "platformer",
+    "time-manipulation",
+    "2d",
+    "singleplayer",
+    "great-soundtrack",
+    "difficult",
+    "time-travel",
+    "atmospheric",
+    "classic",
+    "story-rich",
+    "side-scroller",
+    "beautiful",
+    "adventure",
+    "short"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "tchinese",
+    "japanese",
+    "portuguese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Braid.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Braid.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Braid.bin.x86",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Braid",
+    "Braid.app",
+    "Braid.bin.x86"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/26800/1468d086e684d6a3067bd4bdc63f699fc0aede3d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26800/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26800/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26800/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26800/library_hero.jpg",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26800/0000007887.1920x1080.jpg?t=1734027955"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26800/0000007889.1920x1080.jpg?t=1734027955"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26800/0000007885.1920x1080.jpg?t=1734027955"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26800/0000007890.1920x1080.jpg?t=1734027955"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26800/0000007892.1920x1080.jpg?t=1734027955"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26800/0000007894.1920x1080.jpg?t=1734027955"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26800/0000007895.1920x1080.jpg?t=1734027955"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26800/0000007897.1920x1080.jpg?t=1734027955"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26800/0000007898.1920x1080.jpg?t=1734027955"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26800/0000007899.1920x1080.jpg?t=1734027955"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26800/0000007901.1920x1080.jpg?t=1734027955"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26800/0000007902.1920x1080.jpg?t=1734027955"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Braid Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/900816/movie.jpg?t=1447351780",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/26800/1820/32934a3c80c481aff0186e6a8ffda72046eac6d9/1750484796/dash_h264.mpd?t=1447351780"
+    }
+  ],
+  "metacritic": {
+    "score": 90,
+    "url": "https://www.metacritic.com/game/pc/braid?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 26800,
+    "store_url": "https://store.steampowered.com/app/26800/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Puzzle Platformer",
+      "Puzzle",
+      "2D Platformer",
+      "Platformer",
+      "Indie",
+      "Time Manipulation",
+      "2D",
+      "Singleplayer",
+      "Great Soundtrack",
+      "Difficult",
+      "Time Travel",
+      "Casual",
+      "Atmospheric",
+      "Classic",
+      "Story Rich",
+      "Side Scroller",
+      "Strategy",
+      "Beautiful",
+      "Adventure",
+      "Short"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 9265,
+    "review_negative": 678,
+    "review_total": 9943,
+    "review_positive_percent": 93.18
+  }
+}

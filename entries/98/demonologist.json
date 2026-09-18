@@ -1,0 +1,226 @@
+{
+  "key": "demonologist",
+  "name": "Demonologist",
+  "description": "Demonologist is a Co-Op horror game that can be played with at least 1 and up to 4 players. Your goal is to identify the type of evil spirit in cursed places and exorcise it using your equipment, either alone or with your team.",
+  "developers": [
+    "Clock Wizard Games"
+  ],
+  "publishers": [
+    "Clock Wizard Games"
+  ],
+  "release_date": "2023-09-25",
+  "website": "http://www.clockwizardgames.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "horror",
+    "first-person",
+    "dark",
+    "investigation",
+    "demons",
+    "surreal",
+    "mystery",
+    "detective",
+    "thriller",
+    "cinematic",
+    "3d",
+    "tactical",
+    "lovecraftian"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "Italian",
+    "German",
+    "Simplified Chinese",
+    "Russian",
+    "Turkish",
+    "Portuguese - Brazil",
+    "Spanish - Spain",
+    "Bulgarian",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "Finnish",
+    "Hungarian",
+    "Japanese",
+    "Korean",
+    "Norwegian",
+    "Polish",
+    "Portuguese - Portugal",
+    "Romanian",
+    "Swedish",
+    "Ukrainian",
+    "Arabic",
+    "Spanish - Latin America*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Demonologist.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Shivers/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Demonologist"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1929610/ac2b7b0810b1c6d0364bb3e73d552fece53b7c29.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_fecf052208c1c1b8ce475c41cc16bdb1dca85a60.1920x1080.jpg?t=1761136310"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_87b862f21a084d11b3574e1ca3fcc21082249019.1920x1080.jpg?t=1761136310"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_c8e2c9bb16807970bba18d39803d08b93eac6a57.1920x1080.jpg?t=1761136310"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_385d75a41dd69da50e5c6d77330101f294069d56.1920x1080.jpg?t=1761136310"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_3cf4a2ae86686d59eab58f7afa1b84f5e703eb5c.1920x1080.jpg?t=1761136310"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_b86c81d424bc256e0287e87dc7d472520a494570.1920x1080.jpg?t=1761136310"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_fd8b82e07cc0325af1bc811812798f2b791d5a01.1920x1080.jpg?t=1761136310"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_b32f74d3fd1bb90a3b14fe3d47c64583c226a5c4.1920x1080.jpg?t=1761136310"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_32907bae93a241c13eb6c0bec6199bba605e05b5.1920x1080.jpg?t=1761136310"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_2b5266add515088c9beec6c69d24984bf0e838e3.1920x1080.jpg?t=1761136310"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_e52c95d2483584d29d707a6cd7fbe7da1155c5c9.1920x1080.jpg?t=1761136310"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_f2be57a9f47215ddf268c1302d9a7d64635a72f5.1920x1080.jpg?t=1761136310"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_9156b0d62ca8b7986c68324f8f39fc79fcb845ce.1920x1080.jpg?t=1761136310"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_335399d03b16b026001b3eb2d3d44aa28370b3d7.1920x1080.jpg?t=1761136310"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_87662c37783ac94772c5ebd737887849233b58bd.1920x1080.jpg?t=1761136310"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_e02a3577211638e1bef208477da78b60be5f23b3.1920x1080.jpg?t=1761136310"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_4af1ef99523dae4e0b6531084dc6c6686b66f7ef.1920x1080.jpg?t=1761136310"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_a2414181f2cc90880e8a35f30e475c5e13733f80.1920x1080.jpg?t=1761136310"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_8757aeee421fb07dc6b5775842d2d65b0ab5f58a.1920x1080.jpg?t=1761136310"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_72006f55dbce7bf8db342799b5bedfec903030c9.1920x1080.jpg?t=1761136310"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_b99b51f7ba918ce5af167e0da86060e02fcf3662.1920x1080.jpg?t=1761136310"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_88801a8ee388d7b51c525f18b9b1cd2efa2886df.1920x1080.jpg?t=1761136310"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1929610/ss_73cb58ff06666f48740ef6d66b3102c678d21137.1920x1080.jpg?t=1761136310"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Demonologist Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256934289/movie.293x165.jpg?t=1678316556",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1929610/545623/8e8feeb3391d82ba61ea9156f71ddc6e217004f7/1750741339/dash_h264.mpd?t=1678316556"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1929610,
+    "store_url": "https://store.steampowered.com/app/1929610/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Horror",
+      "Multiplayer",
+      "Online Co-Op",
+      "Psychological Horror",
+      "Co-op",
+      "First-Person",
+      "Dark",
+      "Investigation",
+      "Demons",
+      "Surreal",
+      "Mystery",
+      "Detective",
+      "Thriller",
+      "Cinematic",
+      "Indie",
+      "3D",
+      "Action",
+      "Tactical",
+      "Lovecraftian",
+      "Survival Horror"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 20320,
+    "review_negative": 3516,
+    "review_total": 23836,
+    "review_positive_percent": 85.25
+  }
+}

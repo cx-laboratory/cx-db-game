@@ -1,0 +1,191 @@
+{
+  "key": "the-binding-of-isaac",
+  "name": "The Binding of Isaac",
+  "description": "Now 20% More Evil with the Free Halloween update!",
+  "developers": [
+    "Edmund McMillen"
+  ],
+  "publishers": [
+    "Edmund McMillen"
+  ],
+  "release_date": "2011-09-29",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "action-roguelike",
+    "roguelike",
+    "replay-value",
+    "difficult",
+    "procedural-generation",
+    "dark",
+    "top-down",
+    "great-soundtrack",
+    "addictive",
+    "singleplayer",
+    "roguelite",
+    "2d",
+    "dungeon-crawler",
+    "survival",
+    "perma-death",
+    "bullet-hell"
+  ],
+  "supported_platforms": [
+    "macos",
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "macos": {
+      "launch": [
+        {
+          "executable": "Isaac.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "./",
+          "pattern": "serial.txt",
+          "recursive": false
+        }
+      ]
+    },
+    "windows": {
+      "launch": [
+        {
+          "executable": "Isaac.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "./",
+          "pattern": "serial.txt",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The Binding of Isaac",
+    "Isaac.app",
+    "Isaac"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/113200/383cf045ca20625db18f68ef5e95169012118b9e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/113200/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/113200/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/113200/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/113200/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/113200/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/113200/ss_57c7fb142d6b8f7d38ab62d9f39a055a5b2d4c4c.1920x1080.jpg?t=1643480517"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/113200/ss_d2dd031f581bcad380ed5a6065c8908329cf1115.1920x1080.jpg?t=1643480517"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/113200/ss_7bbb942987d0f8ce3967a5db960f6fe1f3085c3b.1920x1080.jpg?t=1643480517"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/113200/ss_129f9fcb69ef6f7593a060eb57cf404b3e0bc31e.1920x1080.jpg?t=1643480517"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/113200/ss_a497bfde52915ba2619f76630e7f185c4ff9f479.1920x1080.jpg?t=1643480517"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/113200/ss_5d13a1f44e2951640d741b2c39efdc8bddb02a51.1920x1080.jpg?t=1643480517"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/113200/ss_ab75b951c23142bc184883863bec6601995c950b.1920x1080.jpg?t=1643480517"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/113200/ss_e06e09cbd2fa66dc8d35ede3620a4865ebf2e033.1920x1080.jpg?t=1643480517"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/113200/ss_48c9b0bb4d079c8b58b4bb1592cdde97620060ef.1920x1080.jpg?t=1643480517"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/113200/ss_d75b862ca5c77d13b43971ed5aa97ac140dc004f.1920x1080.jpg?t=1643480517"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/113200/ss_441e73fc9e858864d2a28e05c0917c3e004b74e2.1920x1080.jpg?t=1643480517"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/113200/ss_aa2474feabad33fc9b6669553698156bb561e544.1920x1080.jpg?t=1643480517"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Binding of Isaac Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81096/movie.293x165.jpg?t=1447354645",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/113200/5761/09f23522daa8091014edad2554f6ef3b64b7da8b/1750491751/dash_h264.mpd?t=1447354645"
+    }
+  ],
+  "metacritic": {
+    "score": 84,
+    "url": "https://www.metacritic.com/game/pc/the-binding-of-isaac?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 113200,
+    "store_url": "https://store.steampowered.com/app/113200/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Roguelike",
+      "Indie",
+      "Replay Value",
+      "Difficult",
+      "Procedural Generation",
+      "Dark",
+      "Action",
+      "Top-Down",
+      "Great Soundtrack",
+      "Addictive",
+      "Singleplayer",
+      "Adventure",
+      "Roguelite",
+      "2D",
+      "Dungeon Crawler",
+      "Survival",
+      "RPG",
+      "Perma Death",
+      "Bullet Hell"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 59184,
+    "review_negative": 3330,
+    "review_total": 62514,
+    "review_positive_percent": 94.67
+  }
+}

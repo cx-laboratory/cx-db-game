@@ -1,0 +1,165 @@
+{
+  "key": "lobotomy-corporation",
+  "name": "Lobotomy Corporation",
+  "description": "A roguelite monster-management simulation inspired by the likes of the SCP Foundation, Cabin in the Woods, and Warehouse 13. Order your employees to perform work with the creatures and watch as it unfolds; harness greater energy, and expand the facility",
+  "developers": [
+    "ProjectMoon"
+  ],
+  "publishers": [
+    "ProjectMoon"
+  ],
+  "release_date": "2018-04-09",
+  "website": "http://www.lobotomycorp.kr/en/",
+  "tags": [
+    "indie",
+    "simulation",
+    "management",
+    "difficult",
+    "story-rich",
+    "horror",
+    "gore",
+    "great-soundtrack",
+    "singleplayer",
+    "strategy",
+    "2d",
+    "cute",
+    "lovecraftian",
+    "anime",
+    "atmospheric",
+    "visual-novel",
+    "roguelike",
+    "rts",
+    "roguelite"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "Korean",
+    "Japanese",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Russian",
+    "Bulgarian",
+    "Spanish - Latin America",
+    "French",
+    "Portuguese - Portugal",
+    "Portuguese - Brazil"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "LobotomyCorp.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Project_Moon/Lobotomy",
+          "pattern": "*.dat",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Lobotomy Corporation",
+    "LobotomyCorp"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/568220/43faff1c904babf6a84888b594f7554afeee494e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/ss_7f8118a7b224505b397f481e8187fb647a3a42c6.1920x1080.jpg?t=1636694188"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/ss_71db0d954dcec5585f201a781db6dac2df041b85.1920x1080.jpg?t=1636694188"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/ss_1ca2f5995f459084b023233f2fa47e315185ce4f.1920x1080.jpg?t=1636694188"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/ss_d295f58d94c133fc702af1f12bacae8e7bd9383b.1920x1080.jpg?t=1636694188"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/ss_54183ee9d7dc3d125df090c2fb69bc32c8bc50bc.1920x1080.jpg?t=1636694188"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/ss_dd44ba11a1851db49b983d54060f6a3b57f14eaf.1920x1080.jpg?t=1636694188"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/ss_f00e83202b9c6380442edc63a580afd6ea1beb0a.1920x1080.jpg?t=1636694188"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/ss_0ca0024cb5a0b6605fa644d85ec639cc7c1f5f21.1920x1080.jpg?t=1636694188"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/ss_08a8b2d2a7d90b2fcbc0ad7bd3acbc9ec47c200f.1920x1080.jpg?t=1636694188"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Official Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256704588/movie.293x165.jpg?t=1523285123",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/568220/139414/3877f7c0ad203c2cc2f850fb099f4dca24584ec8/1750551719/dash_h264.mpd?t=1523285123"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 568220,
+    "store_url": "https://store.steampowered.com/app/568220/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Management",
+      "Difficult",
+      "Psychological Horror",
+      "Story Rich",
+      "Simulation",
+      "Horror",
+      "Gore",
+      "Great Soundtrack",
+      "Singleplayer",
+      "Indie",
+      "Strategy",
+      "2D",
+      "Cute",
+      "Lovecraftian",
+      "Anime",
+      "Atmospheric",
+      "Visual Novel",
+      "Roguelike",
+      "RTS",
+      "Roguelite"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 51753,
+    "review_negative": 3173,
+    "review_total": 54926,
+    "review_positive_percent": 94.22
+  }
+}

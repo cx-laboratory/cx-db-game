@@ -1,0 +1,207 @@
+{
+  "key": "cooking-simulator",
+  "name": "Cooking Simulator",
+  "description": "A realistic cooking sim where every ingredient reacts with real physics. Master 80+ dishes in Career mode or go wild in Sandbox as you cook, experiment, or cause total kitchen chaos in a fully interactive chef’s playground.",
+  "developers": [
+    "Big Cheese Studio"
+  ],
+  "publishers": [
+    "Big Cheese Studio"
+  ],
+  "release_date": "2019-06-06",
+  "website": "https://bigcheesestudio.com/en/home-eng/",
+  "tags": [
+    "casual",
+    "simulation",
+    "cooking",
+    "singleplayer",
+    "realistic",
+    "sandbox",
+    "funny",
+    "physics",
+    "first-person",
+    "co-op",
+    "family-friendly",
+    "management",
+    "relaxing",
+    "crafting",
+    "resource-management",
+    "comedy",
+    "replay-value",
+    "economy",
+    "memes",
+    "action",
+    "female-protagonist"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "turkish",
+    "brazilian",
+    "sc_schinese"
+  ],
+  "name_localized": {
+    "sc_schinese": "烹饪模拟器"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "CookingSim.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "烹饪模拟器.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Cooking Simulator",
+    "CookingSim",
+    "烹饪模拟器"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/641320/85e75f4415fdd402cf01ce20672cac5256bed5d7.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/8e52427e8dfcfcd7f407fe1a82b19b2f46cd7ff7/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/cdc137e524f4a93ee8a3026baccee47f0a8909e6/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/e875a24db15cd4d7d989eb22fff3378e88b284ee/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/143cbe292508b4917b06580e0412d7b04204de1f/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/ss_5129463cfd32953711571ac457c0a04c30f2b5c7.1920x1080.jpg?t=1780667817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/ss_27304822719874c04843589bdf2c70855af3e441.1920x1080.jpg?t=1780667817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/ss_bba914b530772e53c22dd5da34156f6182567550.1920x1080.jpg?t=1780667817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/ss_b1fdfb493e4201cf786491d0c5e4e9d85ac28e2d.1920x1080.jpg?t=1780667817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/ss_014b6ddd3f4dfe287d921a9570e0e7f17e04f844.1920x1080.jpg?t=1780667817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/ss_7b5da66ae633172c92b10516b27f19936de867bb.1920x1080.jpg?t=1780667817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/ss_02128dcc566545ca1af079d3c1ae77e1b2a1d28b.1920x1080.jpg?t=1780667817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/ss_631dc880ed840c1cb2b36eb8d6a4061cb338afc8.1920x1080.jpg?t=1780667817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/ss_67f317ad0a903ff3ca74321a99af56e46d78a56a.1920x1080.jpg?t=1780667817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/ss_7f65a4b96998c3d5609a79046f29a6c0143bc193.1920x1080.jpg?t=1780667817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/ss_7eab9797a8aa77223d5f046bffb1b2ecbea7a932.1920x1080.jpg?t=1780667817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/ss_fb401d1850555953cb0ed16fad1199610f27affc.1920x1080.jpg?t=1780667817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/ss_ed557be492ac6c8b3ffdebbf901325c0268a9e4c.1920x1080.jpg?t=1780667817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/ss_78436b465c5c17742b2d4e082b82d623ec8b3676.1920x1080.jpg?t=1780667817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/ss_7e40d8a46584ace1155e42981e47fbb524098644.1920x1080.jpg?t=1780667817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/ss_328db37f9557e6b384a0fdd849c44c6c0d1614b0.1920x1080.jpg?t=1780667817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/ss_aa88d850c4f72a663bb43452953f5c6a0b7cf76f.1920x1080.jpg?t=1780667817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/ss_c7c9369a21477d518f7247a5f2ecb3550b642c63.1920x1080.jpg?t=1780667817"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641320/ss_57dbadff3491ec272ee82715cac500d7820d9a9b.1920x1080.jpg?t=1780667817"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Cooking Simulator Launch",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256752737/movie.293x165.jpg?t=1559838440",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/641320/226895/78bf79e51f15b7b5adb47eb6fe031e2ec213217c/1750565911/dash_h264.mpd?t=1559838440"
+    }
+  ],
+  "metacritic": {
+    "score": 64,
+    "url": "https://www.metacritic.com/game/pc/cooking-simulator?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 641320,
+    "store_url": "https://store.steampowered.com/app/641320/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Cooking",
+      "Singleplayer",
+      "Realistic",
+      "Sandbox",
+      "Funny",
+      "Physics",
+      "First-Person",
+      "Co-op",
+      "Family Friendly",
+      "Management",
+      "Relaxing",
+      "Crafting",
+      "Resource Management",
+      "Comedy",
+      "Replay Value",
+      "Economy",
+      "Memes",
+      "Action",
+      "Female Protagonist"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 16599,
+    "review_negative": 3003,
+    "review_total": 19602,
+    "review_positive_percent": 84.68
+  }
+}

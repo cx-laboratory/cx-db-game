@@ -1,0 +1,313 @@
+{
+  "key": "cultist-simulator",
+  "name": "Cultist Simulator",
+  "description": "Seize forbidden treasures. Summon alien gods. Feed on your disciples. Cultist Simulator is a game of apocalypse and yearning. Play as a seeker after unholy mysteries, in a 1920s-themed setting of hidden gods and secret histories.",
+  "developers": [
+    "Weather Factory"
+  ],
+  "publishers": [
+    "Weather Factory"
+  ],
+  "release_date": "2018-06-01",
+  "website": "http://www.cultistsimulator.com",
+  "tags": [
+    "indie",
+    "rpg",
+    "simulation",
+    "card-game",
+    "lovecraftian",
+    "lore-rich",
+    "roguelike",
+    "management",
+    "board-game",
+    "tabletop",
+    "resource-management",
+    "roguelite",
+    "strategy",
+    "moddable",
+    "crafting",
+    "story-rich",
+    "choose-your-own-adventure",
+    "choices-matter",
+    "magic",
+    "difficult"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "schinese",
+    "russian",
+    "japanese"
+  ],
+  "name_localized": {
+    "schinese": "《密教模拟器 (Cultist Simulator)》"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "cultistsimulator.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Weather Factory/Cultist Simulator",
+          "pattern": "save.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Weather Factory/Cultist Simulator",
+          "pattern": "restart.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Weather Factory/Cultist Simulator",
+          "pattern": "config.ini",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Weather Factory/Cultist Simulator/Backups",
+          "pattern": "*.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Weather Factory/Cultist Simulator",
+          "pattern": "save.txt",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "OSX.app\\Contents\\MacOS\\Cultist Simulator",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Weather Factory/Cultist Simulator",
+          "pattern": "save.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Weather Factory/Cultist Simulator",
+          "pattern": "restart.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Weather Factory/Cultist Simulator",
+          "pattern": "config.ini",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Weather Factory/Cultist Simulator/Backups",
+          "pattern": "*.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Weather Factory/Cultist Simulator",
+          "pattern": "save.txt",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "CS.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Weather Factory/Cultist Simulator",
+          "pattern": "save.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Weather Factory/Cultist Simulator",
+          "pattern": "restart.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Weather Factory/Cultist Simulator",
+          "pattern": "config.ini",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Weather Factory/Cultist Simulator/Backups",
+          "pattern": "*.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Weather Factory/Cultist Simulator",
+          "pattern": "save.txt",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Cultist Simulator",
+    "cultistsimulator",
+    "OSX.app\\Contents\\MacOS\\Cultist Simulator",
+    "CS.x86_64",
+    "《密教模拟器 (Cultist Simulator)》"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/718670/45d3323697f801b62bab92ef0bbd2e672d68f504.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718670/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718670/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718670/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718670/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718670/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718670/ss_5206dd7f298f61caac7ef81018ae05c32060b242.1920x1080.jpg?t=1761059623"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718670/ss_5c76c30252dc7d4ee71e7fafdab20933ff46f45c.1920x1080.jpg?t=1761059623"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718670/ss_37d150e6ebc820fc36d6c8becaa3fbd35f7a69e0.1920x1080.jpg?t=1761059623"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718670/ss_16c6bc2b9fa9fbd1687f63f2252c777e1179a85d.1920x1080.jpg?t=1761059623"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718670/ss_9cb73efcd4e95fe2790317d08916caab0757b6a6.1920x1080.jpg?t=1761059623"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718670/ss_3bd2d7d4fd48c8e39af25fede582fdecfe8aab0a.1920x1080.jpg?t=1761059623"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718670/ss_3983217ce12cff2c4b2f960f222969f9014b767a.1920x1080.jpg?t=1761059623"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718670/ss_d17807e2daa731f6b7362affab57d986abde47b9.1920x1080.jpg?t=1761059623"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718670/ss_c31a234a2a77da376dd4c3aa77d42b3c3e8cf063.1920x1080.jpg?t=1761059623"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718670/ss_f5fda6f0dc814455975b58d42f52aaa4c3bf8b3a.1920x1080.jpg?t=1761059623"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718670/ss_a306e79fe1dc7283f343a88bf2ddc6fb99667e34.1920x1080.jpg?t=1761059623"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718670/ss_25dca6e1c818f7f77f2549fc449a15b55a5840f3.1920x1080.jpg?t=1761059623"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718670/ss_536854b0e85c707a707f5110cb4311bc502a9528.1920x1080.jpg?t=1761059623"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718670/ss_670de91cf4a0d4040be481bb811f9faea2bf6f07.1920x1080.jpg?t=1761059623"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718670/ss_4f06d42a7358209208aabf6c8cb59406f774611f.1920x1080.jpg?t=1761059623"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718670/ss_b101198b9b3b4730008cef9941eec783fe7b5507.1920x1080.jpg?t=1761059623"
+    }
+  ],
+  "videos": [
+    {
+      "name": "PENETRATE THE HOUSE",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256714087/movie.293x165.jpg?t=1685707057",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/718670/157760/e3cb6eaad440da161250db7abadf91f9f57be9d1/1750576673/dash_h264.mpd?t=1685707057"
+    },
+    {
+      "name": "BRING THE DAWN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256695800/movie.293x165.jpg?t=1685707061",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/718670/123640/5531a1202e9d1bc521229f3f970a242c3fcfb8aa/1750575262/dash_h264.mpd?t=1685707061"
+    }
+  ],
+  "metacritic": {
+    "score": 71,
+    "url": "https://www.metacritic.com/game/pc/cultist-simulator?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 718670,
+    "store_url": "https://store.steampowered.com/app/718670/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Adjustable Text Size",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Card Game",
+      "Lovecraftian",
+      "Lore-Rich",
+      "Roguelike",
+      "Simulation",
+      "Management",
+      "RPG",
+      "Board Game",
+      "Tabletop",
+      "Resource Management",
+      "Roguelite",
+      "Strategy",
+      "Psychological Horror",
+      "Moddable",
+      "Crafting",
+      "Story Rich",
+      "Choose Your Own Adventure",
+      "Choices Matter",
+      "Magic",
+      "Difficult"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 11145,
+    "review_negative": 2804,
+    "review_total": 13949,
+    "review_positive_percent": 79.9
+  }
+}

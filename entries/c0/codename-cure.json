@@ -1,0 +1,215 @@
+{
+  "key": "codename-cure",
+  "name": "Codename CURE",
+  "description": "Codename CURE is a first person, co-operative zombie game with support for up to five players, providing dynamic, fast-paced zombie fragging with both objective, and survival-based missions.",
+  "developers": [
+    "Raptor Byte"
+  ],
+  "publishers": [
+    "Raptor Byte"
+  ],
+  "release_date": "2017-10-31",
+  "website": "http://codenamecure.com",
+  "tags": [
+    "action",
+    "free-to-play",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "zombies",
+    "shooter",
+    "horror",
+    "military",
+    "fps",
+    "post-apocalyptic",
+    "class-based",
+    "pve",
+    "first-person",
+    "singleplayer",
+    "moddable",
+    "gore",
+    "mod",
+    "pvp",
+    "3d"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "German",
+    "French",
+    "Spanish - Spain",
+    "Russian",
+    "Portuguese - Brazil",
+    "Simplified Chinese",
+    "Hungarian",
+    "Italian",
+    "Korean",
+    "Polish",
+    "Portuguese - Portugal"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "cure.exe",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "cure.sh",
+          "description": "Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Codename CURE",
+    "cure",
+    "cure.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/355180/5ac0b80152b51c5d5978868cef0293626cb32f44.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355180/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355180/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355180/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355180/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355180/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355180/ss_13845808620d1395fd534cf70ef75172ad74bd55.1920x1080.jpg?t=1771185738"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355180/ss_f24994a388237c92b531701056d2f6cb656d797a.1920x1080.jpg?t=1771185738"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355180/ss_f54d8f2e352b2a978f6db65da8156110bc19f670.1920x1080.jpg?t=1771185738"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355180/ss_f2e1f45c81426defd9e1dc34792b36d3c2972c95.1920x1080.jpg?t=1771185738"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355180/ss_bda9b174983ed1ee23afa9e5e6b697689cbaf98a.1920x1080.jpg?t=1771185738"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355180/ss_6fe0c065a1d7d8c36333cf5ecd9efe1179c4795a.1920x1080.jpg?t=1771185738"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355180/ss_c5d5f9732b567f6cb9b0db07414596f0a6b8d260.1920x1080.jpg?t=1771185738"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355180/ss_1b0ecd48e981057500dcd4aa81b1cd42f7e8c048.1920x1080.jpg?t=1771185738"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355180/ss_3bb923ad6e37b43db82864e127970274f2d61ad8.1920x1080.jpg?t=1771185738"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355180/ss_ef4464c51df6720291a3fb71704538e6732cb445.1920x1080.jpg?t=1771185738"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355180/ss_fae04321ceb005b37c22513380b89a10b7ddf597.1920x1080.jpg?t=1771185738"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355180/ss_0b6c5ef35cfc11872e640b5f07dffb35b3f354cd.1920x1080.jpg?t=1771185738"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355180/ss_3eb7ace35818ece009187262813eb6c16d41d83e.1920x1080.jpg?t=1771185738"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355180/ss_33b92b30451b173616943745ce70a06b45df2295.1920x1080.jpg?t=1771185738"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355180/ss_61001f44e2d6d06ed34ba05e1f81640400f0ac91.1920x1080.jpg?t=1771185738"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355180/ss_7e40823e2cdc5d93e2fd44f50347510586f0673b.1920x1080.jpg?t=1771185738"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355180/ss_094e3bf510a906979f9e65487ffdeb47d448226d.1920x1080.jpg?t=1771185738"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355180/ss_d1734e8cd2ff680fee92a9bb6464a0f48fb50e7b.1920x1080.jpg?t=1771185738"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355180/ss_266f6d0dd0e6caad70450c536d8324f1ce746494.1920x1080.jpg?t=1771185738"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355180/ss_d7f0b0c9f9fa4512f70f76c0a1c46d8f03e3ea58.1920x1080.jpg?t=1771185738"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Codename CURE - Steam Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256680209/movie.293x165.jpg?t=1487882200",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/355180/91791/89b10609e3d394c701feaf50bc0551fb460543be/1751274357/dash_h264.mpd?t=1487882200"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 355180,
+    "store_url": "https://store.steampowered.com/app/355180/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Zombies",
+      "Shooter",
+      "Free to Play",
+      "Survival Horror",
+      "Co-op",
+      "Military",
+      "FPS",
+      "Post-apocalyptic",
+      "Class-Based",
+      "PvE",
+      "Action",
+      "Online Co-Op",
+      "First-Person",
+      "Singleplayer",
+      "Moddable",
+      "Gore",
+      "Multiplayer",
+      "Mod",
+      "PvP",
+      "3D"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 13976,
+    "review_negative": 2507,
+    "review_total": 16483,
+    "review_positive_percent": 84.79
+  }
+}

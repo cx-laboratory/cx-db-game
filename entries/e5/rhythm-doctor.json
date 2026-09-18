@@ -1,0 +1,259 @@
+{
+  "key": "rhythm-doctor",
+  "name": "Rhythm Doctor",
+  "description": "Save patients with your rhythm mastery! Rhythm Doctor is a rhythm game where you heal patients by defibrillating in time to their heartbeats. Learn each patient's unique heartbeat and defeat boss viruses trying to sabotage your rhythm, all set to heart-pumping, soul-soothing music.",
+  "developers": [
+    "7th Beat Games"
+  ],
+  "publishers": [
+    "7th Beat Games"
+  ],
+  "release_date": "2025-12-07",
+  "website": "https://rhythmdr.com/",
+  "tags": [
+    "action",
+    "casual",
+    "indie",
+    "strategy",
+    "free-to-play",
+    "multiplayer",
+    "co-op",
+    "split-screen",
+    "rhythm",
+    "music",
+    "pixel-graphics",
+    "story-rich",
+    "level-editor",
+    "singleplayer",
+    "local-multiplayer",
+    "2d",
+    "funny",
+    "comedy",
+    "arcade",
+    "cute",
+    "anime",
+    "modern",
+    "colorful",
+    "sci-fi"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "koreana",
+    "schinese",
+    "tchinese",
+    "japanese",
+    "portuguese",
+    "polish",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "Rhythm Doctor 节奏医生",
+    "koreana": "리듬 닥터 (Rhythm Doctor)"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Rhythm Doctor.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "User",
+          "pattern": "*.rdsave",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "User",
+          "pattern": "*.png",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Rhythm Doctor.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "User",
+          "pattern": "*.rdsave",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "User",
+          "pattern": "*.png",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Rhythm Doctor",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "User",
+          "pattern": "*.rdsave",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "User",
+          "pattern": "*.png",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Rhythm Doctor",
+    "Rhythm Doctor.app",
+    "Rhythm Doctor 节奏医生",
+    "리듬 닥터 (Rhythm Doctor)"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/774181/9b668ca421dd493945e5b1bbfdcf8d124a316864.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_e361a4f2de7594952b61522bb21a66713fe3f808.1920x1080.jpg?t=1781661374"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_a8427224faf8062ed4eea2d3af9637934914a85c.1920x1080.jpg?t=1781661374"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_0ad870eb7a1cc4315b17c2aaa2e54c0b5f220684.1920x1080.jpg?t=1781661374"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_cb3a0ab6aaaf1bfb929e32bd8df05a3ffd7140e3.1920x1080.jpg?t=1781661374"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_303950f5da20e6f81c8aa6b709e7f1f6e75851e2.1920x1080.jpg?t=1781661374"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_69d7b976a41c43d5bf77693cef3c5a95d1374e6f.1920x1080.jpg?t=1781661374"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_0d964f93645da2c5f51cacc3fd954301e5a792aa.1920x1080.jpg?t=1781661374"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_cb7d76930005066d5200cc79523a011c793cbc35.1920x1080.jpg?t=1781661374"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_82266decdd8d8bf3e7c5343388e59dd9902358bd.1920x1080.jpg?t=1781661374"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774181/ss_928cb97087941ac28c25b71df993412c8e5fbafa.1920x1080.jpg?t=1781661374"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Official Release Date Trailer English",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257206268/ba493727e18b022954d09ae5cd69e7969379ca6c/movie_600x337.jpg?t=1763401206",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/774181/661415797/64f93f5ad03491c8f8948d233099e52c7af26b2d/1758815551/dash_h264.mpd?t=1763401206"
+    },
+    {
+      "name": "Rhythm Doctor Official Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256871484/movie.293x165.jpg?t=1643651631",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/774181/436045/022add1aea638a400d14adf909ee8c1a1a00b935/1750582342/dash_h264.mpd?t=1643651631"
+    },
+    {
+      "name": "Rhythm Doctor Boss Level Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256704134/movie.293x165.jpg?t=1513788656",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/774181/138680/3d6e27ce3bf309020bc4a0889eacf9306347f7d3/1750582334/dash_h264.mpd?t=1513788656"
+    }
+  ],
+  "metacritic": {
+    "score": 89,
+    "url": "https://www.metacritic.com/game/pc/rhythm-doctor?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 774181,
+    "store_url": "https://store.steampowered.com/app/774181/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Strategy",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Workshop",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Narrated Game Menus",
+      "Steam Cloud",
+      "Includes level editor",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Rhythm",
+      "Music",
+      "Pixel Graphics",
+      "Story Rich",
+      "Level Editor",
+      "Indie",
+      "Singleplayer",
+      "Local Co-Op",
+      "Action",
+      "2D",
+      "Funny",
+      "Comedy",
+      "Local Multiplayer",
+      "Arcade",
+      "Co-op",
+      "Cute",
+      "Anime",
+      "Modern",
+      "Colorful",
+      "Sci-fi"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 26088,
+    "review_negative": 491,
+    "review_total": 26579,
+    "review_positive_percent": 98.15
+  }
+}

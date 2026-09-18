@@ -1,0 +1,348 @@
+{
+  "key": "portal-2",
+  "name": "Portal 2",
+  "description": "The &quot;Perpetual Testing Initiative&quot; has been expanded to allow you to design co-op puzzles for you and your friends!",
+  "developers": [
+    "Valve"
+  ],
+  "publishers": [
+    "Valve"
+  ],
+  "release_date": "2011-04-18",
+  "website": "http://www.thinkwithportals.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "split-screen",
+    "singleplayer",
+    "platformer",
+    "puzzle",
+    "first-person",
+    "dark-humor",
+    "story-rich",
+    "puzzle-platformer",
+    "funny",
+    "female-protagonist",
+    "3d-platformer",
+    "action-adventure",
+    "fps",
+    "physics",
+    "sci-fi",
+    "level-editor",
+    "science",
+    "comedy",
+    "atmospheric"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "hungarian",
+    "czech",
+    "romanian",
+    "turkish",
+    "brazilian",
+    "bulgarian",
+    "greek",
+    "ukrainian",
+    "vietnamese",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "传送门2"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "portal2.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "portal2/SAVE/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "portal2.sh",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "portal2/SAVE/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "portal2.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "portal2/SAVE/{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Portal 2",
+    "portal2",
+    "portal2.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/620/25a5a16b2423bf7487ac5340b5b0948cef48c5f8.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_f3f6787d74739d3b2ec8a484b5c994b3d31ef325.1920x1080.jpg?t=1745363004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_6a4f5afdaa98402de9cf0b59fed27bab3256a6f4.1920x1080.jpg?t=1745363004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_0cdd90fafc160b52d08b303d205f9fd4e83cf164.1920x1080.jpg?t=1745363004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_ec35a739b4b33270eb170d9e561c5b016cba50a6.1920x1080.jpg?t=1745363004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_3d13161104a04603a0524536770c5f74626db4c0.1920x1080.jpg?t=1745363004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_8a772608d29ffd56ac013d2ac7c4388b96e87a21.1920x1080.jpg?t=1745363004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_358127df30a766a1516ad139083c2bcec3fe0975.1920x1080.jpg?t=1745363004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_410c7955c3cc8ca4a5e3c81daa214f534c9aabc8.1920x1080.jpg?t=1745363004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_0e16bceacb6616a5ca4bc4ba4d28c7a0d06b671c.1920x1080.jpg?t=1745363004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_d8f172249d6e89999c3692bf2c380921f197fd82.1920x1080.jpg?t=1745363004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_fe9782ea3b43ef7af37b18e0a5c5f7bdc9c21f12.1920x1080.jpg?t=1745363004"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_3858536cbc0a07dfbe36e8f87b3f08bf3be45e54.1920x1080.jpg?t=1745363004"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Portal 2 E3 Demo (Excursion Funnels)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5787/movie.293x165.jpg?t=1682715616",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/620/3746/0f4bee66d490b637707ac4fca3e850f2cc2d3b2a/1750108721/dash_h264.mpd?t=1682715616"
+    },
+    {
+      "name": "Portal 2 Remix Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80822/movie.293x165.jpg?t=1683129612",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/620/5096/2bbd128dd4e1d90aa6f688fb91e6665a301f48c5/1750108756/dash_h264.mpd?t=1683129612"
+    },
+    {
+      "name": "Portal 2 - Perpetual Testing Initiative",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81613/movie.293x165.jpg?t=1682715589",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/620/7495/c992fec9601198bd42fc3563a62c932b8dc032cb/1750108756/dash_h264.mpd?t=1682715589"
+    },
+    {
+      "name": "Portal 2 Co-op Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5926/movie.293x165.jpg?t=1682715596",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/620/4105/75674acd6517bf86cad79034131dc7853c2967cb/1750109925/dash_h264.mpd?t=1682715596"
+    },
+    {
+      "name": "Portal 2 Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5739/movie.293x165.jpg?t=1682715602",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/620/3670/be99f50a782b0258dcf3d6b0d0d3d24c28da0568/1750108717/dash_h264.mpd?t=1682715602"
+    },
+    {
+      "name": "Portal 2 E3 Demo (Wheatley)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5786/movie.293x165.jpg?t=1682715609",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/620/3745/63ba44a28c34bc7600e0dbe3e863f343b331b983/1750108718/dash_h264.mpd?t=1682715609"
+    },
+    {
+      "name": "Portal 2 E3 Demo (Pneumatic Diversity Vents)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5790/movie.293x165.jpg?t=1682715623",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/620/3749/a0aa2429b0a7e059c7b036574c4285f046251bb3/1750108721/dash_h264.mpd?t=1682715623"
+    },
+    {
+      "name": "Portal 2 E3 Demo (Faith Plates)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5788/movie.293x165.jpg?t=1682715630",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/620/3747/4ddba80177b8b5387e36958b993aadacc9d0d4c8/1750108721/dash_h264.mpd?t=1682715630"
+    },
+    {
+      "name": "Portal 2 E3 Demo (Thermal Discouragement Beams)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5789/movie.293x165.jpg?t=1682715637",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/620/3748/2ff801b8dba88c611c053aea3576ffc70700da96/1750108721/dash_h264.mpd?t=1682715637"
+    },
+    {
+      "name": "Portal 2 E3 Demo (Repulsion Gel)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5791/movie.293x165.jpg?t=1682715644",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/620/3750/40b9aa66ff85c9d149c72bfd38520ee2fce7b00d/1750108726/dash_h264.mpd?t=1682715644"
+    },
+    {
+      "name": "Portal 2 E3 Demo (Propulsion Gel)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5795/movie.293x165.jpg?t=1682715651",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/620/3763/c8dd66b86402917be8f783d66288f276f3ce4459/1750108727/dash_h264.mpd?t=1682715651"
+    },
+    {
+      "name": "Portal 2: Valentine's Day",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80633/movie.293x165.jpg?t=1682715658",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/620/4706/4f2ca3296dd667ad639d0090d1fb44007c0bda38/1750108787/dash_h264.mpd?t=1682715658"
+    },
+    {
+      "name": "Portal 2 - Panels Short (English)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80739/movie.293x165.jpg?t=1682715665",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/620/4902/9daf4787a3f8d4779526ac59a5a3bc58a65d822f/1750108740/dash_h264.mpd?t=1682715665"
+    },
+    {
+      "name": "Portal 2 - Bot Trust Short (English)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80747/movie.293x165.jpg?t=1682715692",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/620/4934/a2674b45b26de979b85c76a3704fa055eada90a2/1750108755/dash_h264.mpd?t=1682715692"
+    },
+    {
+      "name": "Portal 2 - Turrets (English)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80752/movie.293x165.jpg?t=1682715720",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/620/4971/b727f5d233494afd55752c6e189b6e8b539d8480/1750108756/dash_h264.mpd?t=1682715720"
+    },
+    {
+      "name": "Portal 2 - Boots Short (English)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80762/movie.293x165.jpg?t=1682715769",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/620/4984/037490e46a3b8e5467ccab354f85f4e623c99ee8/1750108756/dash_h264.mpd?t=1682715769"
+    },
+    {
+      "name": "Portal 2 - Launch TV Ad",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80788/movie.293x165.jpg?t=1682715776",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/620/5015/c3d24a03d62be83014d25e01999174f2d010e430/1750108756/dash_h264.mpd?t=1682715776"
+    }
+  ],
+  "metacritic": {
+    "score": 95,
+    "url": "https://www.metacritic.com/game/pc/portal-2?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 620,
+    "store_url": "https://store.steampowered.com/app/620/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Workshop",
+      "Steam Workshop",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Steam Input API Support",
+      "Stereo Sound",
+      "Surround Sound",
+      "Steam Cloud",
+      "Stats",
+      "Includes level editor",
+      "Commentary available",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Singleplayer",
+      "Platformer",
+      "Puzzle",
+      "First-Person",
+      "Dark Humor",
+      "Story Rich",
+      "Puzzle Platformer",
+      "Funny",
+      "Female Protagonist",
+      "3D Platformer",
+      "Action-Adventure",
+      "Co-op",
+      "Action",
+      "FPS",
+      "Physics",
+      "Sci-fi",
+      "Level Editor",
+      "Science",
+      "Comedy",
+      "Atmospheric"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 456245,
+    "review_negative": 5985,
+    "review_total": 462230,
+    "review_positive_percent": 98.71
+  }
+}

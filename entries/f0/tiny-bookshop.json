@@ -1,0 +1,233 @@
+{
+  "key": "tiny-bookshop",
+  "name": "Tiny Bookshop",
+  "description": "Leave everything behind and open a tiny bookshop by the sea in this cozy narrative management game. Stock your tiny bookshop with different books and items, set up shop in scenic locations, and run your cozy second-hand bookshop while getting to know the locals.",
+  "developers": [
+    "neoludic games"
+  ],
+  "publishers": [
+    "Skystone Games"
+  ],
+  "release_date": "2025-08-08",
+  "website": "https://tinybookshopgame.com",
+  "tags": [
+    "casual",
+    "indie",
+    "rpg",
+    "simulation",
+    "cozy",
+    "management",
+    "life-sim",
+    "relaxing",
+    "collectathon",
+    "hand-drawn",
+    "cute",
+    "trading",
+    "story-rich",
+    "inventory-management",
+    "stylized",
+    "choices-matter",
+    "nature",
+    "resource-management",
+    "character-customization",
+    "time-management",
+    "romance"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "turkish"
+  ],
+  "name_localized": {
+    "schinese": "小小书店",
+    "tchinese": "小小書店"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Tiny Bookshop.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "neoludic games/Tiny Bookshop/{Steam3AccountID}",
+          "pattern": "*.save",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Tiny Bookshop.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "neoludic games/Tiny Bookshop/{Steam3AccountID}",
+          "pattern": "*.save",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Tiny Bookshop.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "neoludic games/Tiny Bookshop/{Steam3AccountID}",
+          "pattern": "*.save",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Tiny Bookshop",
+    "Tiny Bookshop.app",
+    "Tiny Bookshop.x86_64",
+    "小小书店",
+    "小小書店"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2133760/d2bbabecbe3eb7cdbf2bb23f9be0ebc92baae694.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2133760/519031e524f64d61ea58b75df39dccfe31b68834/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2133760/c4b48e332931007d7e6d295062cac226c40ab7a6/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2133760/8b644545502f79f6de154450817d397cbff4e728/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2133760/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2133760/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2133760/bd4b60f5da47890b08908308e507448b178d753f/ss_bd4b60f5da47890b08908308e507448b178d753f.1920x1080.jpg?t=1779373435"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2133760/7abb703ab004a922e51feeb8842c5b50508ec234/ss_7abb703ab004a922e51feeb8842c5b50508ec234.1920x1080.jpg?t=1779373435"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2133760/b0d0259aec4d1a7a7d09f4300c136175f65c8bb2/ss_b0d0259aec4d1a7a7d09f4300c136175f65c8bb2.1920x1080.jpg?t=1779373435"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2133760/e77ab51f7e9474650861b09f57a6ecd7c00b61f6/ss_e77ab51f7e9474650861b09f57a6ecd7c00b61f6.1920x1080.jpg?t=1779373435"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2133760/d91c492b80f40b8dbc6409e0141cf7d81c5dd395/ss_d91c492b80f40b8dbc6409e0141cf7d81c5dd395.1920x1080.jpg?t=1779373435"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2133760/09bc7809b0dff149f3a42720e152e1dfad153f7c/ss_09bc7809b0dff149f3a42720e152e1dfad153f7c.1920x1080.jpg?t=1779373435"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2133760/aa6856b0c369d50f98835134b96b00c05fc4d1a2/ss_aa6856b0c369d50f98835134b96b00c05fc4d1a2.1920x1080.jpg?t=1779373435"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2133760/e7a472f600e3dbfd1992d15566190544334b6fbc/ss_e7a472f600e3dbfd1992d15566190544334b6fbc.1920x1080.jpg?t=1779373435"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2133760/ab34216c61dfa194eb3b99c9aa1e75755fbc4fce/ss_ab34216c61dfa194eb3b99c9aa1e75755fbc4fce.1920x1080.jpg?t=1779373435"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2133760/97d003c2fd7839ac74b162648913be6b9249e9a3/ss_97d003c2fd7839ac74b162648913be6b9249e9a3.1920x1080.jpg?t=1779373435"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2133760/f5cad6a8558df76a94fe356329a8823dca9e73e8/ss_f5cad6a8558df76a94fe356329a8823dca9e73e8.1920x1080.jpg?t=1779373435"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257147674/71aa6aa16b22a57fe489737d6991e159f0bad3c7/movie_600x337.jpg?t=1754647382",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2133760/1871919734/c7ac10be21bc42aba989a1a78773a6ae16f1f1a7/1754644988/dash_h264.mpd?t=1754647382"
+    },
+    {
+      "name": "Tiny Bookshop Demo Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257029477/movie.293x165.jpg?t=1717862981",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2133760/711139/a411753f8a96b6f737f8b08beddd63bff96d6dcc/1751080176/dash_h264.mpd?t=1717862981"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2133760,
+    "store_url": "https://store.steampowered.com/app/2133760/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Touch Only Option",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Cozy",
+      "Management",
+      "Life Sim",
+      "Relaxing",
+      "Casual",
+      "Collectathon",
+      "Simulation",
+      "Hand-drawn",
+      "Cute",
+      "Trading",
+      "Story Rich",
+      "Inventory Management",
+      "Stylized",
+      "Choices Matter",
+      "Nature",
+      "Resource Management",
+      "RPG",
+      "Character Customization",
+      "Time Management",
+      "Romance"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 7029,
+    "review_negative": 279,
+    "review_total": 7308,
+    "review_positive_percent": 96.18
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "key": "idol-showdown",
+  "name": "Idol Showdown",
+  "description": "Made by hololive fans, for hololive fans. Idol Showdown is the definitive fan-made hololive fighting game experience, powered by rollback netcode. Engage in exciting duels as your favorite hololive talent and prove once and for all who the strongest idol is using the game’s easy-to-learn controls.",
+  "developers": [
+    "Besto Game Team"
+  ],
+  "publishers": [
+    "holo Indie"
+  ],
+  "release_date": "2023-05-06",
+  "website": "",
+  "tags": [
+    "action",
+    "indie",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "2d-fighter",
+    "anime",
+    "arcade",
+    "fighting",
+    "2d",
+    "free-to-play",
+    "pixel-graphics",
+    "combat",
+    "fantasy",
+    "old-school",
+    "1990-s",
+    "singleplayer",
+    "female-protagonist",
+    "local-multiplayer",
+    "cute",
+    "hentai"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "Japanese*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "偶像对决"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Idol Showdown.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "BestoGameStudios/Idol Showdown/Saves",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Idol Showdown"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1742020/142c7777a4dd88804b5a48853479bf5c2de98152.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1742020/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1742020/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1742020/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1742020/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1742020/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1742020/ss_571fc2766457360d22e6a043b054dfa01da6e12a.1920x1080.jpg?t=1782447738"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1742020/57cf82d78b7fdcd07061c506acdffa07145e90cf/ss_57cf82d78b7fdcd07061c506acdffa07145e90cf.1920x1080.jpg?t=1782447738"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1742020/ss_2eca3c9e1857d260a766ceadf278ca44615b7cf5.1920x1080.jpg?t=1782447738"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1742020/ss_f6366fc00f3a3c062c04cadf9bb58828df716106.1920x1080.jpg?t=1782447738"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1742020/ss_8f332d7b476d458a212166ac4ab203a1d37f6499.1920x1080.jpg?t=1782447738"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1742020/ss_60463ae1b754c8b8bbed1a5d335c0d80932a3eab.1920x1080.jpg?t=1782447738"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1742020/ss_a5a674c5697cc01a3c09d8c703c493435cfb3338.1920x1080.jpg?t=1782447738"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1742020/ss_72dbda1ca2ba3bf1b47730ef9fe3c0675aab4aef.1920x1080.jpg?t=1782447738"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1742020/ss_2b7abe420e828c6f67762112fa1b625239a58b5c.1920x1080.jpg?t=1782447738"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Biboo DLC Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257351256/8beb6447433d681c9dc8be5629723a3ad51c5df6/movie_600x337.jpg?t=1780659009",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1742020/610302399/082edf737477874dba8870297f71c9accaea60e2/1780658543/dash_h264.mpd?t=1780659009"
+    },
+    {
+      "name": "holo Indie Publisher Sale Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257169000/a31b8b76632e3e975b0f58d5084272a2ff484338/movie_600x337.jpg?t=1772510182",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1742020/1653372895/838702c28b46d2212bf95ddf81fbf773dc872707/1772509276/dash_h264.mpd?t=1772510182"
+    },
+    {
+      "name": "Koyori DLC Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257151958/f8d53b896c803a741753ddb663fcc18c4e0921a5/movie_600x337.jpg?t=1752579987",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1742020/1570902381/b3b64b3d21667b0e58544027cb61f9e32969dc37/1751026166/dash_h264.mpd?t=1752579987"
+    },
+    {
+      "name": "Ina DLC Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257021061/092355008c1445eeb303dc7a7a5ed7e25b999c24/movie_600x337.jpg?t=1752579989",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1742020/696349/22fdd83b3713356f66c285fda403b9ea9473a6c3/1751026164/dash_h264.mpd?t=1752579989"
+    },
+    {
+      "name": "Idol Showdown Next Fes: Overview Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257021057/2cf67a0c8bc4793ec15b1e16592bc9abc21522a5/movie_600x337.jpg?t=1752579992",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1742020/696342/2de5196f5f3c6672c80119bfd6140643029476ee/1751026163/dash_h264.mpd?t=1752579992"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256945527/movie.293x165.jpg?t=1683357311",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1742020/565289/4cafcfd45bd547bb3c45057974969d88cb3800a9/1751026160/dash_h264.mpd?t=1683357311"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1742020,
+    "store_url": "https://store.steampowered.com/app/1742020/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Shared/Split Screen",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "2D Fighter",
+      "PvP",
+      "Anime",
+      "Action",
+      "Arcade",
+      "Fighting",
+      "2D",
+      "Free to Play",
+      "Pixel Graphics",
+      "Multiplayer",
+      "Combat",
+      "Fantasy",
+      "Indie",
+      "Old School",
+      "1990's",
+      "Singleplayer",
+      "Female Protagonist",
+      "Local Multiplayer",
+      "Cute",
+      "Hentai"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 5479,
+    "review_negative": 352,
+    "review_total": 5831,
+    "review_positive_percent": 93.96
+  }
+}

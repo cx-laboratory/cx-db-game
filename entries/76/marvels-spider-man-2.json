@@ -1,0 +1,266 @@
+{
+  "key": "marvels-spider-man-2",
+  "name": "Marvel's Spider-Man 2",
+  "description": "Be Greater. Together. The incredible power of the symbiote forces Peter Parker and Miles Morales into a desperate fight as they balance their lives, friendships, and their duty to protect in an exciting chapter of the critically acclaimed Spider-Man franchise on PC.",
+  "developers": [
+    "Insomniac Games"
+  ],
+  "publishers": [
+    "PlayStation Publishing LLC"
+  ],
+  "release_date": "2025-01-31",
+  "website": "https://www.playstation.com/games/marvels-spider-man-2/marvels-spider-man-2-pc/",
+  "tags": [
+    "action",
+    "adventure",
+    "open-world",
+    "superhero",
+    "singleplayer",
+    "action-adventure",
+    "story-rich",
+    "third-person",
+    "comic-book",
+    "stealth",
+    "controller",
+    "political",
+    "lgbtq",
+    "great-soundtrack",
+    "atmospheric",
+    "combat",
+    "exploration",
+    "multiplayer",
+    "politics",
+    "beat-em-up"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "hungarian",
+    "czech",
+    "arabic",
+    "brazilian",
+    "greek",
+    "vietnamese",
+    "latam",
+    "indonesian"
+  ],
+  "name_localized": {
+    "russian": "Marvel Человек-Паук 2",
+    "bulgarian": "Spider-Man 2 на Marvel",
+    "koreana": "마블 스파이더맨 2"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Spider-Man2.exe",
+          "description": "Play Marvel's Spider-Man 2",
+          "type": "default"
+        },
+        {
+          "executable": "i30_steam_FinalDM.exe",
+          "description": "Launch Final with Debug menus",
+          "type": "default"
+        },
+        {
+          "executable": "i30_steam_Release.exe",
+          "description": "Launch Release",
+          "type": "default"
+        },
+        {
+          "executable": "Spider-Man.exe",
+          "description": "Play Corn Dog (AMD RT workaround)",
+          "type": "default"
+        },
+        {
+          "executable": "i20_steam_FinalDM.exe",
+          "description": "Launch Final with Debug menus (AMD RT workaround)",
+          "type": "default"
+        },
+        {
+          "executable": "i20_steam_Release.exe",
+          "description": "Launch Release (AMD RT workaround)",
+          "type": "default"
+        },
+        {
+          "executable": "SpiderMan2.exe",
+          "description": "Play Marvel's Spider-Man 2",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Marvel's Spider-Man 2/{64BitSteamID}/",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Marvel's Spider-Man 2",
+    "Spider-Man2",
+    "i30_steam_FinalDM",
+    "i30_steam_Release",
+    "Spider-Man",
+    "i20_steam_FinalDM",
+    "i20_steam_Release",
+    "SpiderMan2",
+    "Marvel Человек-Паук 2",
+    "Spider-Man 2 на Marvel",
+    "마블 스파이더맨 2"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2651280/74853ef20b2cce99818a4732ffb38a1234db2827.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/379bd114fe5c23850555d1eb67fa8ac996bf702b/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/6fa28738ef8cde05390d3f0a9b942185b5763cbd/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/064f792bf6582163f276aa5a648107830f858d5e/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/5e0c4a9a1bbbb06977b4260097671a63f400836e/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_e4b67059ddedaeebd91fce113745f3eb99736f56.1920x1080.jpg?t=1763569811"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_b4be948946130b7e140be82f24f1f9ccefae9117.1920x1080.jpg?t=1763569811"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_f4140ba12158b812d9c1adc86c484d8e84b92e92.1920x1080.jpg?t=1763569811"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_7ef8bc176702470fdc73f62f8e537c3912e70444.1920x1080.jpg?t=1763569811"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_474a7ffe98998719c22025cc99da1f45dfca025e.1920x1080.jpg?t=1763569811"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_aa8346cf207a1e114c5f9e7f6c3086c5dc9c3050.1920x1080.jpg?t=1763569811"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_b34716a6d4505bfe32f83530e46aac5a5728f441.1920x1080.jpg?t=1763569811"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_0fda7c96ee3f16038559fffa8c2cd7b3ac433c2b.1920x1080.jpg?t=1763569811"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_2fb76f7e76dbddf87715d18ae1bcb5cd1dda5747.1920x1080.jpg?t=1763569811"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_74e612eb0ae275bd6e7f69d407dda8b03d83629f.1920x1080.jpg?t=1763569811"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_03d59d4e4a6638b1e0200bc3dde2a0b0d1a43ada.1920x1080.jpg?t=1763569811"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_cde4862328227ea8cfb2981c92b6411b705ed0f4.1920x1080.jpg?t=1763569811"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_c6a0adf568d91d49a5c0f7f5e4df7e1cef71ee28.1920x1080.jpg?t=1763569811"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer (EN-US)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257093509/58694dc4f1ac70bd9bf267ba8a16f57c3ed41b77/movie_600x337.jpg?t=1738262051",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2651280/820778/e9b06e98d15624caa4e550f4a6e54067e1dcc995/1746999933/dash_h264.mpd?t=1738262051"
+    },
+    {
+      "name": "PC Features Trailer (EN-US)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257092975/656295b9e0b1c11fa64b1fb9054a79fd59220444/movie_600x337.jpg?t=1738188503",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2651280/819842/7fa017555ee6681394694c079a20f669611f8aa1/1746999889/dash_h264.mpd?t=1738188503"
+    },
+    {
+      "name": "Reveal Trailer (EN-US)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257066260/88e5d9d63b9dd28b421887f1d2f845aff4460480/movie_600x337.jpg?t=1738188519",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2651280/773600/5b2a7087e9492ac39c684f278d76cf5d3b9dc594/1746999888/dash_h264.mpd?t=1738188519"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2651280,
+    "store_url": "https://store.steampowered.com/app/2651280/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Narrated Game Menus",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Steam Input API Support",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Surround Sound",
+      "Steam Cloud",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Action",
+      "Open World",
+      "Superhero",
+      "Singleplayer",
+      "Adventure",
+      "Action-Adventure",
+      "Story Rich",
+      "Third Person",
+      "Comic Book",
+      "Stealth",
+      "Controller",
+      "Political",
+      "LGBTQ+",
+      "Great Soundtrack",
+      "Atmospheric",
+      "Combat",
+      "Exploration",
+      "Multiplayer",
+      "Politics",
+      "Beat 'em up"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 32676,
+    "review_negative": 6961,
+    "review_total": 39637,
+    "review_positive_percent": 82.44
+  }
+}

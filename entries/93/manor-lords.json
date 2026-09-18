@@ -1,0 +1,208 @@
+{
+  "key": "manor-lords",
+  "name": "Manor Lords",
+  "description": "Manor Lords is a medieval strategy game featuring in-depth city building, large-scale tactical battles, and complex economic and social simulations. Rule your lands as a medieval lord – the seasons pass, the weather changes, and cities rise and fall.",
+  "developers": [
+    "Slavic Magic"
+  ],
+  "publishers": [
+    "Hooded Horse"
+  ],
+  "release_date": "2024-04-26",
+  "website": "http://www.manorlords.com",
+  "tags": [
+    "simulation",
+    "strategy",
+    "early-access",
+    "city-builder",
+    "base-building",
+    "medieval",
+    "grand-strategy",
+    "historical",
+    "management",
+    "sandbox",
+    "building",
+    "economy",
+    "resource-management",
+    "open-world",
+    "survival",
+    "singleplayer",
+    "colony-sim",
+    "moddable",
+    "4x",
+    "diplomacy"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "danish",
+    "dutch",
+    "swedish",
+    "hungarian",
+    "czech",
+    "turkish",
+    "brazilian",
+    "ukrainian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "庄园领主 Manor Lords",
+    "tchinese": "莊園領主 Manor Lords",
+    "japanese": "Manor Lords マナー・ロード",
+    "koreana": "Manor Lords 매너 로드"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ManorLords.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "ManorLords/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "ManorLords/Saved/SaveGames",
+          "pattern": "*.png",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Manor Lords",
+    "ManorLords",
+    "庄园领主 Manor Lords",
+    "莊園領主 Manor Lords",
+    "Manor Lords マナー・ロード",
+    "Manor Lords 매너 로드"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1363080/f0b869c004ddb564f961668130894f335fe04175.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/bffe9f34abaae09855becd6e8ca2ddb9065b2ebb/ss_bffe9f34abaae09855becd6e8ca2ddb9065b2ebb.1920x1080.jpg?t=1783066066"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/2a8486cf95c15af440a4857d6021bb15c057416c/ss_2a8486cf95c15af440a4857d6021bb15c057416c.1920x1080.jpg?t=1783066066"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/e96c54a784a4fa874beb1c21ce0e34ada8eb932f/ss_e96c54a784a4fa874beb1c21ce0e34ada8eb932f.1920x1080.jpg?t=1783066066"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/5111f429dfbd8b65611e0e322dc90f470d015dca/ss_5111f429dfbd8b65611e0e322dc90f470d015dca.1920x1080.jpg?t=1783066066"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/541dce83a952beb779f2221cb107c6557f192439/ss_541dce83a952beb779f2221cb107c6557f192439.1920x1080.jpg?t=1783066066"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/ce313af5e85391c7ebee3b654a35a7ab78a1fe38/ss_ce313af5e85391c7ebee3b654a35a7ab78a1fe38.1920x1080.jpg?t=1783066066"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/478053049caa6a4c55848fb50b548a1bf5824735/ss_478053049caa6a4c55848fb50b548a1bf5824735.1920x1080.jpg?t=1783066066"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/28ac22e5273155aa8a4d907e859a93d191dddb8d/ss_28ac22e5273155aa8a4d907e859a93d191dddb8d.1920x1080.jpg?t=1783066066"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/4b3f53da0b0f28e589399051ac293b93dfa81f1f/ss_4b3f53da0b0f28e589399051ac293b93dfa81f1f.1920x1080.jpg?t=1783066066"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/89792c7ac6f16c06ffc12f22f8dbdcece85f9c7a/ss_89792c7ac6f16c06ffc12f22f8dbdcece85f9c7a.1920x1080.jpg?t=1783066066"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257018065/25b224417f0f9a8dd7c1933321c3884a477eaab7/movie_600x337.jpg?t=1743006020",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1363080/691162/5ba78540b9ae2ccb902067211544d5a5954c73bd/1750678058/dash_h264.mpd?t=1743006020"
+    },
+    {
+      "name": "Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256978207/0ef4a8bea740f42dd4dfb112b41887ae6b287509/movie_600x337.jpg?t=1743006023",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1363080/622565/1a93819824612742bf77fb2da59298532e2966c8/1750678043/dash_h264.mpd?t=1743006023"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1363080,
+    "store_url": "https://store.steampowered.com/app/1363080/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation",
+      "Strategy",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Mouse Only Option",
+      "Save Anytime",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "City Builder",
+      "Strategy",
+      "Simulation",
+      "Base Building",
+      "Medieval",
+      "Grand Strategy",
+      "Historical",
+      "Management",
+      "Sandbox",
+      "Building",
+      "Economy",
+      "Resource Management",
+      "Open World",
+      "Survival",
+      "Singleplayer",
+      "Colony Sim",
+      "Moddable",
+      "4X",
+      "Early Access",
+      "Diplomacy"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 74474,
+    "review_negative": 13931,
+    "review_total": 88405,
+    "review_positive_percent": 84.24
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "key": "injustice-gods-among-us-ultimate-edition",
+  "name": "Injustice: Gods Among Us Ultimate Edition",
+  "description": "Injustice: Gods Among Us Ultimate Edition enhances the bold new franchise to the fighting game genre from NetherRealm Studios. Featuring six new playable characters, over 30 new skins, and 60 new S.T.A.R. Labs missions, this edition packs a punch.",
+  "developers": [
+    "NetherRealm Studios"
+  ],
+  "publishers": [
+    "Warner Bros. Interactive Entertainment"
+  ],
+  "release_date": "2013-11-12",
+  "website": "http://www.injustice.com",
+  "tags": [
+    "action",
+    "multiplayer"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "DiscContentPCG\\Injustice.exe",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "DiscContentPCG\\InjusticeLauncher.exe",
+          "description": "Launcher",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Injustice: Gods Among Us Ultimate Edition",
+    "DiscContentPCG\\Injustice",
+    "DiscContentPCG\\InjusticeLauncher"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/242700/4ea9f28360ca77b2ced5c8ac5545fcfc6ea8ef15.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242700/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242700/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242700/capsule_231x87.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242700/ss_7384337f4885916ed88f4260ca259fdd0718e72c.1920x1080.jpg?t=1780595192"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242700/ss_7c0dbb126a7098f43d716df45e214a86c6cab6ae.1920x1080.jpg?t=1780595192"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242700/ss_0015f0630ed74f9520f134ee43fb3df3b49c7d13.1920x1080.jpg?t=1780595192"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242700/ss_cbc852f97ab877f12d6f55357b3b9afec3a5155f.1920x1080.jpg?t=1780595192"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242700/ss_a22c001f1b3068354415c7d53041d92e06c10dde.1920x1080.jpg?t=1780595192"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242700/ss_3bd350d730f1ef9960d7cd0c21649f77e270ca93.1920x1080.jpg?t=1780595192"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Injustice Ultimate Edition Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2029906/movie.293x165.jpg?t=1592590095",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/242700/14721/4e2e656d7997b2bc2a9eb852df66b6b9355cef24/1750486367/dash_h264.mpd?t=1592590095"
+    }
+  ],
+  "metacritic": {
+    "score": 79,
+    "url": "https://www.metacritic.com/game/pc/injustice-gods-among-us---ultimate-edition?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 242700,
+    "store_url": "https://store.steampowered.com/app/242700/",
+    "required_age": 13,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 17280,
+    "review_negative": 2744,
+    "review_total": 20024,
+    "review_positive_percent": 86.3
+  }
+}

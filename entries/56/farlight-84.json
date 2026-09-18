@@ -1,0 +1,224 @@
+{
+  "key": "farlight-84",
+  "name": "Farlight 84",
+  "description": "Hey Lightcatchers! Are you ready for massive 60-player shootouts? Enjoy fast-paced hero shooter action in Farlight 84!",
+  "developers": [
+    "Farlight Games"
+  ],
+  "publishers": [
+    "Farlight Games"
+  ],
+  "release_date": "2023-09-21",
+  "website": "https://farlight84.farlightgames.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "massively-multiplayer",
+    "free-to-play",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "battle-royale",
+    "hero-shooter",
+    "shooter",
+    "third-person-shooter",
+    "vehicular-combat",
+    "sci-fi",
+    "moba",
+    "third-person",
+    "survival",
+    "3d",
+    "early-access",
+    "post-apocalyptic",
+    "futuristic",
+    "character-customization"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "Simplified Chinese*",
+    "Spanish - Spain",
+    "Japanese*",
+    "Portuguese - Brazil",
+    "Portuguese - Portugal",
+    "Spanish - Latin America*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "远光84"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "start_protected_launcher.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "start_protected_game.exe",
+          "description": "devtest",
+          "type": "default"
+        },
+        {
+          "executable": "WindowsClient/SolarlandClient.exe",
+          "description": "Client",
+          "type": "default"
+        },
+        {
+          "executable": "start_protected_launcher.exe",
+          "description": "protected_launcher",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Farlight 84",
+    "start_protected_launcher",
+    "start_protected_game",
+    "WindowsClient/SolarlandClient",
+    "远光84"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1928420/c2aaf912e0bfd0da705fde5cb713758170633c9d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928420/70ff5e6b298092f6ad33c7bc5c985fcefb162a94/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928420/461dd9b34a992dcaae01c6fac1b5c2ee1405a1c5/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928420/ed0fa38e38af2fba6530a685c0680128a441bece/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928420/e64b04568de60c035433255f2da417fca33f548f/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928420/ff4648aeb563a90edec280f25288f236ac18383e/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928420/c00e84ff15dbd4005ca595b1db09980762419b26/ss_c00e84ff15dbd4005ca595b1db09980762419b26.1920x1080.jpg?t=1776926334"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928420/5e840a5813a2988855e509f4156df78bedc1fe08/ss_5e840a5813a2988855e509f4156df78bedc1fe08.1920x1080.jpg?t=1776926334"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928420/fc2643e87534b14dbb3589a84c6621507762afbe/ss_fc2643e87534b14dbb3589a84c6621507762afbe.1920x1080.jpg?t=1776926334"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928420/f533b3d76f89073f191a47f9edf77280b5dcc61c/ss_f533b3d76f89073f191a47f9edf77280b5dcc61c.1920x1080.jpg?t=1776926334"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928420/87c0d2eb12a83a6e7556eaf734e88713dcc17030/ss_87c0d2eb12a83a6e7556eaf734e88713dcc17030.1920x1080.jpg?t=1776926334"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928420/682879ea17ebbd15afe0d8c9dd89cbb26227cd59/ss_682879ea17ebbd15afe0d8c9dd89cbb26227cd59.1920x1080.jpg?t=1776926334"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928420/51bd0cc3cb6854f3708e935750e25febddb983a7/ss_51bd0cc3cb6854f3708e935750e25febddb983a7.1920x1080.jpg?t=1776926334"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928420/9dc969c9d4363cea0524ec3504a336c6e3f8e3d8/ss_9dc969c9d4363cea0524ec3504a336c6e3f8e3d8.1920x1080.jpg?t=1776926334"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928420/a3a6032ba147f0adcd662d83021b1544feeadfdf/ss_a3a6032ba147f0adcd662d83021b1544feeadfdf.1920x1080.jpg?t=1776926334"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928420/a031206068ec54c34e328da5e5be8c6e97eb9b42/ss_a031206068ec54c34e328da5e5be8c6e97eb9b42.1920x1080.jpg?t=1776926334"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928420/59a2b75bb5c9da8fd7a7a2a3e3e886f28fc9b2fe/ss_59a2b75bb5c9da8fd7a7a2a3e3e886f28fc9b2fe.1920x1080.jpg?t=1776926334"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928420/30c554ecb56181b1076e4f404766910109f9e551/ss_30c554ecb56181b1076e4f404766910109f9e551.1920x1080.jpg?t=1776926334"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928420/c1367a9ecb1db1d893bea9ba2507ddb621192832/ss_c1367a9ecb1db1d893bea9ba2507ddb621192832.1920x1080.jpg?t=1776926334"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928420/659064b9f095ba6c244edd88755a3899755557ca/ss_659064b9f095ba6c244edd88755a3899755557ca.1920x1080.jpg?t=1776926334"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928420/78417f5134c08a32d4a4d5be9c77a22224e9de36/ss_78417f5134c08a32d4a4d5be9c77a22224e9de36.1920x1080.jpg?t=1776926334"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928420/25e169c60b3fb092a131280c0f3143086e6ab387/ss_25e169c60b3fb092a131280c0f3143086e6ab387.1920x1080.jpg?t=1776926334"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928420/0c7e06c06ebf0e34a64ced1e256abe1e5feb34fc/ss_0c7e06c06ebf0e34a64ced1e256abe1e5feb34fc.1920x1080.jpg?t=1776926334"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928420/42afee5b33cc3f8cc5a6aa8da39ee4eedf93e7f2/ss_42afee5b33cc3f8cc5a6aa8da39ee4eedf93e7f2.1920x1080.jpg?t=1776926334"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gameplay Overview",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257215434/ce922827b00da050262c0cd96f8b6770d31652c3/movie_600x337.jpg?t=1760089778",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1928420/1772922411/617ae1aae8e74219e704367358f296069663f5fd/1760078260/dash_h264.mpd?t=1760089778"
+    },
+    {
+      "name": "A Brand New Farlight 84",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257215506/0fdfde8b40dcda69799e279e66d4a763bb974e9c/movie_600x337.jpg?t=1760089780",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1928420/1487523590/82128b6aa07a3b268bc567b937b14e2ba6c803e2/1760086823/dash_h264.mpd?t=1760089780"
+    },
+    {
+      "name": "Global Relaunch",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257215520/b88e346a7db7de66e48dfd0f9920ae79d16be538/movie_600x337.jpg?t=1760089782",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1928420/1181864822/05758809181a699e1f603685803ee1da98ffc560/1760087870/dash_h264.mpd?t=1760089782"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1928420,
+    "store_url": "https://store.steampowered.com/app/1928420/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "Free To Play"
+    ],
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Full controller support",
+      "In-App Purchases",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Battle Royale",
+      "Multiplayer",
+      "Hero Shooter",
+      "Shooter",
+      "Third-Person Shooter",
+      "Vehicular Combat",
+      "Sci-fi",
+      "MOBA",
+      "Third Person",
+      "Massively Multiplayer",
+      "PvP",
+      "Survival",
+      "3D",
+      "Action",
+      "Adventure",
+      "Early Access",
+      "Post-apocalyptic",
+      "Futuristic",
+      "Character Customization"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 42042,
+    "review_negative": 13235,
+    "review_total": 55277,
+    "review_positive_percent": 76.06
+  }
+}

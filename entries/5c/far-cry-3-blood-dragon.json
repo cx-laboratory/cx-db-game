@@ -1,0 +1,121 @@
+{
+  "key": "far-cry-3-blood-dragon",
+  "name": "Far Cry 3 - Blood Dragon",
+  "description": "Far Cry® 3: Blood Dragon is THE Kick-Ass Cyber Shooter.Welcome to an 80’s vision of the future. The year is 2007 and you are Sargent Rex Colt, a Mark IV Cyber Commando. Your mission: get the girl, kill the baddies, and save the world.",
+  "developers": [
+    "Ubisoft Montreal"
+  ],
+  "publishers": [
+    "Ubisoft"
+  ],
+  "release_date": "2013-05-01",
+  "website": "https://far-cry.ubisoft.com",
+  "tags": [
+    "action",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian",
+    "dutch",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "bin/FC3BDUpdaterSteam.exe",
+          "description": "Launch Blood Dragon",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Far Cry 3 - Blood Dragon",
+    "bin/FC3BDUpdaterSteam"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/233270/37ea239abeef5c5b2a90a2f821aaab745633972a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233270/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233270/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233270/capsule_231x87.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233270/ss_4670702422e948a9666c29814ac6cfdb941c5a4a.1920x1080.jpg?t=1752169303"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233270/ss_ec219fdc637cf6e740bcafae01c484bafd6b55bf.1920x1080.jpg?t=1752169303"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233270/ss_032dc44cef8ff4d33bdd53f68bb7358f2173b963.1920x1080.jpg?t=1752169303"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233270/ss_040958f3839e7d1c3ae50c76200d0891c5ca6883.1920x1080.jpg?t=1752169303"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233270/ss_602b7c88ab725ccabfd8ad7c94fb536875c329ad.1920x1080.jpg?t=1752169303"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233270/ss_3210874e1d6e20965cc9c76ac2d7e899ef2b0b9f.1920x1080.jpg?t=1752169303"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233270/ss_e573321fbc00ff4c2385987fbba5cf369b7697e2.1920x1080.jpg?t=1752169303"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Far Cry 3 - Blood Dragon Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028638/movie.293x165.jpg?t=1447357833",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/233270/11400/f7cdedf3ae8c0650e0e4aa2ae6f54c2ce35cad7d/1750496132/dash_h264.mpd?t=1447357833"
+    },
+    {
+      "name": "Far Cry 3 Blood Dragon Trailer - NCSA",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028584/movie.293x165.jpg?t=1447357784",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/233270/11285/814200f805c956964d8e5276bfefecd122d87e7e/1750496121/dash_h264.mpd?t=1447357784"
+    }
+  ],
+  "metacritic": {
+    "score": 81,
+    "url": "https://www.metacritic.com/game/pc/far-cry-3-blood-dragon?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 233270,
+    "store_url": "https://store.steampowered.com/app/233270/",
+    "required_age": 18,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Partial Controller Support"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 17063,
+    "review_negative": 2434,
+    "review_total": 19497,
+    "review_positive_percent": 87.52
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "key": "five-nights-at-freddys-2",
+  "name": "Five Nights at Freddy's 2",
+  "description": "Welcome back to the new and improved Freddy Fazbear's Pizza! As always, Fazbear Entertainment is not responsible for death or dismemberment.",
+  "developers": [
+    "Scott Cawthon"
+  ],
+  "publishers": [
+    "Scott Cawthon"
+  ],
+  "release_date": "2014-11-11",
+  "website": "http://www.scottgames.com/",
+  "tags": [
+    "indie",
+    "horror",
+    "singleplayer",
+    "robots",
+    "difficult",
+    "first-person",
+    "dark",
+    "survival",
+    "point-and-click",
+    "strategy",
+    "atmospheric",
+    "story-rich",
+    "mystery",
+    "fast-paced",
+    "jump-scare",
+    "resource-management",
+    "historical",
+    "perma-death"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "FiveNightsatFreddys2.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Five Nights at Freddy's 2",
+    "FiveNightsatFreddys2"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/332800/94d87ac302559e7742905416bab1cf1af530a974.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332800/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332800/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332800/capsule_231x87.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332800/ss_49915306285cd7c567620c1c10e300a068089e35.1920x1080.jpg?t=1579635993"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332800/ss_ed9a7e583267f5d9ff58a34ab5ff2f1735fb7346.1920x1080.jpg?t=1579635993"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332800/ss_f42e7f094cab8a39322ddb0f14df824ad15865bf.1920x1080.jpg?t=1579635993"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332800/ss_10c3872339fc465663b4fcccca575da6c42f0a80.1920x1080.jpg?t=1579635993"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332800/ss_37ca29be698a27080bcec8a8481d28dd53b43f2a.1920x1080.jpg?t=1579635993"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332800/ss_878eafbf70068bdec37fc672613e5d007f433195.1920x1080.jpg?t=1579635993"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Game Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2035458/movie.293x165.jpg?t=1447364949",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/332800/27365/4473bcdfc1f5da8b8ac25fa3e68f5152c981ac47/1750510026/dash_h264.mpd?t=1447364949"
+    }
+  ],
+  "metacritic": {
+    "score": 62,
+    "url": "https://www.metacritic.com/game/pc/five-nights-at-freddys-2?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 332800,
+    "store_url": "https://store.steampowered.com/app/332800/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Horror",
+      "Singleplayer",
+      "Survival Horror",
+      "Robots",
+      "Psychological Horror",
+      "Difficult",
+      "First-Person",
+      "Indie",
+      "Dark",
+      "Survival",
+      "Point & Click",
+      "Strategy",
+      "Atmospheric",
+      "Story Rich",
+      "Mystery",
+      "Fast-Paced",
+      "Jump Scare",
+      "Resource Management",
+      "Historical",
+      "Perma Death"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 24185,
+    "review_negative": 1630,
+    "review_total": 25815,
+    "review_positive_percent": 93.69
+  }
+}

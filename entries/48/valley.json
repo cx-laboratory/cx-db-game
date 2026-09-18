@@ -1,0 +1,194 @@
+{
+  "key": "valley",
+  "name": "Valley",
+  "description": "Explore the vast and beautiful world of Valley using the power of the L.E.A.F. suit: a fierce exoskeleton that grants exceptional speed and agility along with the phenomenal ability to manipulate the life and death of all living things.",
+  "developers": [
+    "Blue Isle Studios"
+  ],
+  "publishers": [
+    "Blue Isle Publishing"
+  ],
+  "release_date": "2016-08-24",
+  "website": "http://valleythegame.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "first-person",
+    "exploration",
+    "parkour",
+    "singleplayer",
+    "open-world",
+    "atmospheric",
+    "great-soundtrack",
+    "sci-fi",
+    "walking-simulator",
+    "3d-platformer",
+    "story-rich",
+    "horror",
+    "short",
+    "platformer",
+    "magic",
+    "fantasy",
+    "survival"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Valley.exe",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "Valley.exe",
+          "description": "",
+          "type": "config"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Valley.app",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "Valley.app",
+          "description": "",
+          "type": "config"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Valley.x86_64",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "Valley.x86_64",
+          "description": "",
+          "type": "config"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Valley",
+    "Valley.app",
+    "Valley.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/378610/28e8149b20e2f7bff9757c8a7641ff81620d7275.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378610/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378610/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378610/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378610/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378610/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378610/ss_8b7fac1dc6ee926b5f6e871be3eedc26afb7b9b4.1920x1080.jpg?t=1726514352"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378610/ss_ba216c3a072bc3b638ae74eb25e5bcae2c8af021.1920x1080.jpg?t=1726514352"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378610/ss_c2abdeb55b7363d10a1f6673c1792e9015532bb2.1920x1080.jpg?t=1726514352"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378610/ss_1d30e8a6aebc0a443055578ce710f63f71743493.1920x1080.jpg?t=1726514352"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378610/ss_f9a3d12ae20a971ed4bd3aca472b53b7481ecf09.1920x1080.jpg?t=1726514352"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378610/ss_f95c62571a525fa81dc840c8b9248e468dc1d41b.1920x1080.jpg?t=1726514352"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Valley Announce Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256662840/movie.293x165.jpg?t=1472058533",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/378610/56286/3131f485ae49c380fa09f0458cbe7dc63f43e34e/1751272779/dash_h264.mpd?t=1472058533"
+    },
+    {
+      "name": "Narrative Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256669470/movie.293x165.jpg?t=1472058647",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/378610/70110/730026f758d87510e4a56e23b2727e4b48f9eb20/1751272781/dash_h264.mpd?t=1472058647"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256669483/movie.293x165.jpg?t=1472058761",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/378610/70130/954d06d2beb152dec1ded06e80b15daba383c383/1751273457/dash_h264.mpd?t=1472058761"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 378610,
+    "store_url": "https://store.steampowered.com/app/378610/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Adventure",
+      "First-Person",
+      "Exploration",
+      "Parkour",
+      "Singleplayer",
+      "Indie",
+      "Action",
+      "Open World",
+      "Atmospheric",
+      "Great Soundtrack",
+      "Sci-fi",
+      "Walking Simulator",
+      "3D Platformer",
+      "Story Rich",
+      "Horror",
+      "Short",
+      "Platformer",
+      "Magic",
+      "Fantasy",
+      "Survival"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 6122,
+    "review_negative": 571,
+    "review_total": 6693,
+    "review_positive_percent": 91.47
+  }
+}

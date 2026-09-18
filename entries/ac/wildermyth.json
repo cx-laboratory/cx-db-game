@@ -1,0 +1,231 @@
+{
+  "key": "wildermyth",
+  "name": "Wildermyth",
+  "description": "Wildermyth follows heroes over their whole careers, from their pitchfork days to their powerful primes, and on into old age and memory. It’s a party-based procedural storytelling RPG where tactical combat and story decisions will alter your world and reshape your cast of characters.",
+  "developers": [
+    "Worldwalker Games LLC"
+  ],
+  "publishers": [
+    "Worldwalker Games LLC"
+  ],
+  "release_date": "2021-06-16",
+  "website": "http://wildermyth.com",
+  "tags": [
+    "indie",
+    "rpg",
+    "strategy",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "party-based-rpg",
+    "character-customization",
+    "choices-matter",
+    "story-rich",
+    "turn-based-tactics",
+    "procedural-generation",
+    "tactical-rpg",
+    "fantasy",
+    "turn-based-strategy",
+    "roguelike",
+    "roguelite",
+    "hand-drawn",
+    "turn-based",
+    "emotional",
+    "comic-book",
+    "moddable",
+    "singleplayer",
+    "2-5d"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "schinese",
+    "russian",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "漫野奇谭"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "wildermyth.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "players",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "wildermyth.app\\Contents\\MacOS\\wildermyth",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "players",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "wildermyth",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "players",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Wildermyth",
+    "wildermyth",
+    "wildermyth.app\\Contents\\MacOS\\wildermyth",
+    "漫野奇谭"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/763890/d1d7287619c05af415234776315019124fbb032e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/763890/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/763890/47b724b843dd9b85e9aa1bbc114dc96c72d96575/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/763890/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/763890/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/763890/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/763890/ss_3a550445bd69fcd8df3b57227ddac57502407fad.1920x1080.jpg?t=1740520937"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/763890/ss_f5a6c358f0ce9366cd5372c2049fda4370085ede.1920x1080.jpg?t=1740520937"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/763890/ss_13cb73afe38d7d0961360cc7ffe646fec2ab176b.1920x1080.jpg?t=1740520937"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/763890/ss_b717225f5e9a43e98b885c12b448f0c94f7e6374.1920x1080.jpg?t=1740520937"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/763890/ss_d61392e1b74ec8c7a2d0d7515c2dc3f236961808.1920x1080.jpg?t=1740520937"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/763890/ss_42cd194e73bcf9653af5c78aa4f5577c013dc8e0.1920x1080.jpg?t=1740520937"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/763890/ss_53f4116a77a7bd57778769897c535b1747b9e6a6.1920x1080.jpg?t=1740520937"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/763890/ss_e81e1512acd50b1e912b44698646b82269982968.1920x1080.jpg?t=1740520937"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/763890/ss_45986d9ef604ea2977d0f2d11d25e7f0d391a4b1.1920x1080.jpg?t=1740520937"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256839047/movie.293x165.jpg?t=1623807106",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/763890/377425/972cded6a875f7f56407565c8f872a53b2b4e23f/1750581107/dash_h264.mpd?t=1623807106"
+    },
+    {
+      "name": "Early Access Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256764731/movie.293x165.jpg?t=1623775777",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/763890/248233/ed8b29f6bea1e746d39c761b6c44a0cbb2a913c6/1750581099/dash_h264.mpd?t=1623775777"
+    },
+    {
+      "name": "Wildermyth Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256702547/movie.293x165.jpg?t=1516122506",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/763890/136011/9d9a48a0c8748180441da3bc38dfa676d336edeb/1750581095/dash_h264.mpd?t=1516122506"
+    }
+  ],
+  "metacritic": {
+    "score": 86,
+    "url": "https://www.metacritic.com/game/pc/wildermyth?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 763890,
+    "store_url": "https://store.steampowered.com/app/763890/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Includes level editor",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Party-Based RPG",
+      "Character Customization",
+      "Choices Matter",
+      "Story Rich",
+      "Turn-Based Tactics",
+      "Procedural Generation",
+      "Tactical RPG",
+      "Fantasy",
+      "Turn-Based Strategy",
+      "Roguelite",
+      "RPG",
+      "Hand-drawn",
+      "Turn-Based",
+      "Emotional",
+      "Comic Book",
+      "Moddable",
+      "Indie",
+      "Strategy",
+      "Singleplayer",
+      "2.5D"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 17212,
+    "review_negative": 968,
+    "review_total": 18180,
+    "review_positive_percent": 94.68
+  }
+}

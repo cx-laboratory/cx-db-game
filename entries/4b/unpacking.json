@@ -1,0 +1,206 @@
+{
+  "key": "unpacking",
+  "name": "Unpacking",
+  "description": "Unpacking is a zen puzzle game about the familiar experience of pulling possessions out of boxes and fitting them into a new home. Part block-fitting puzzle, part home decoration, you are invited to create a satisfying living space while learning clues about the life you’re unpacking.",
+  "developers": [
+    "Witch Beam"
+  ],
+  "publishers": [
+    "Balor Games"
+  ],
+  "release_date": "2021-11-02",
+  "website": "https://www.unpackinggame.com/",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "relaxing",
+    "cute",
+    "pixel-graphics",
+    "organizing",
+    "puzzle",
+    "story-rich",
+    "singleplayer",
+    "life-sim",
+    "point-and-click",
+    "lgbtq",
+    "atmospheric",
+    "female-protagonist",
+    "isometric",
+    "inventory-management",
+    "colorful",
+    "family-friendly",
+    "2d"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "turkish",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "japanese": "Unpacking アンパッキング",
+    "koreana": "Unpacking 언패킹"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Unpacking.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "unpacking_osx.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "unpacking.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Unpacking",
+    "unpacking_osx.app",
+    "unpacking.x86_64",
+    "Unpacking アンパッキング",
+    "Unpacking 언패킹"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1135690/f6dffe30852176b5c1286e9755d0e5169a3d07d0.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135690/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135690/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135690/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135690/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135690/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135690/ss_b32bfdd3f68e1f9e264bd37e10a464629ca034f8.1920x1080.jpg?t=1773703120"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135690/ss_9b358510285a4b70e446237de5996bc434415c01.1920x1080.jpg?t=1773703120"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135690/ss_8ad1858b98d2a04212a44b65ce2ae199e02a87cd.1920x1080.jpg?t=1773703120"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135690/ss_e0be82259f402c277973c5d0c4f2a22d01d9b1c2.1920x1080.jpg?t=1773703120"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135690/ss_e63c93af0d56632ed0c6ddb0e566725dbb0e9f3a.1920x1080.jpg?t=1773703120"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135690/ss_2066e90763952aac24e03657038977abcf1f7453.1920x1080.jpg?t=1773703120"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256858010/movie.293x165.jpg?t=1635837686",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1135690/412839/1c63f1d588a1925cc567070e0cc1b8ab51943bf3/1750625906/dash_h264.mpd?t=1635837686"
+    },
+    {
+      "name": "Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256864897/movie.293x165.jpg?t=1639478872",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1135690/424527/0e96707327a586dd51cb887c2e48c2e93a05b453/1750625915/dash_h264.mpd?t=1639478872"
+    }
+  ],
+  "metacritic": {
+    "score": 83,
+    "url": "https://www.metacritic.com/game/pc/unpacking?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1135690,
+    "store_url": "https://store.steampowered.com/app/1135690/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Relaxing",
+      "Cute",
+      "Casual",
+      "Pixel Graphics",
+      "Organizing",
+      "Puzzle",
+      "Story Rich",
+      "Singleplayer",
+      "Simulation",
+      "Indie",
+      "Life Sim",
+      "Point & Click",
+      "LGBTQ+",
+      "Atmospheric",
+      "Female Protagonist",
+      "Isometric",
+      "Inventory Management",
+      "Colorful",
+      "Family Friendly",
+      "2D"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 37492,
+    "review_negative": 2729,
+    "review_total": 40221,
+    "review_positive_percent": 93.21
+  }
+}

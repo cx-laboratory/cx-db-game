@@ -1,0 +1,180 @@
+{
+  "key": "feed-and-grow-fish",
+  "name": "Feed and Grow: Fish",
+  "description": "Hunt and eat other fish - simply, grow into larger beasts!",
+  "developers": [
+    "Old B1ood"
+  ],
+  "publishers": [
+    "Greens s.r.o."
+  ],
+  "release_date": "2016-01-09",
+  "website": "http://www.feedandgrow.net",
+  "tags": [
+    "action",
+    "indie",
+    "simulation",
+    "early-access",
+    "multiplayer",
+    "underwater",
+    "survival",
+    "open-world",
+    "singleplayer",
+    "adventure",
+    "colorful",
+    "sandbox",
+    "funny",
+    "fishing",
+    "co-op",
+    "atmospheric",
+    "realistic",
+    "cute",
+    "strategy",
+    "moddable"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Feed and Grow.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "net48/FeedAndGrowFishLauncher.exe",
+          "description": " Launcher",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "SavesDir",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Feed and Grow: Fish",
+    "Feed and Grow",
+    "net48/FeedAndGrowFishLauncher"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/429050/264776c40633d593ee8ffcab6dcac60420c9559f.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429050/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429050/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429050/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429050/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429050/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429050/ss_045add7541edfd19ce15a4fa43c9cf824c3db91c.1920x1080.jpg?t=1615737978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429050/ss_5f0333abcf1355303d8c867e978d332849fe7330.1920x1080.jpg?t=1615737978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429050/ss_7b6fbc80f51f1ac84328e69bf2f5daa0f5727494.1920x1080.jpg?t=1615737978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429050/ss_91b36b11fe69659c2830609f33d1b7d79d4c35ba.1920x1080.jpg?t=1615737978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429050/ss_516a0a81cbb53b7a5518a916cfaf6ce80f69a5a9.1920x1080.jpg?t=1615737978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429050/ss_5db5708d5d433322d92e8908af0a921225794bfb.1920x1080.jpg?t=1615737978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429050/ss_343868d93a823d4b17d8b7443c75d99a3d54fdb2.1920x1080.jpg?t=1615737978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429050/ss_db9362cbb62b6ef022101cbe0ac6828b0e6ee035.1920x1080.jpg?t=1615737978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429050/ss_626e70ad19f56cd145543f81bdb75280d1463616.1920x1080.jpg?t=1615737978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429050/ss_c8d98c20f3027e7282bde49b4297240d0d215a8d.1920x1080.jpg?t=1615737978"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Teaser 21",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256825839/movie.293x165.jpg?t=1615737969",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/429050/354019/bb1e22dc53f97e31a6e944e675f39c2232003458/1750529969/dash_h264.mpd?t=1615737969"
+    },
+    {
+      "name": "Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256683323/movie.293x165.jpg?t=1492359802",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/429050/98426/95043119c37792fcd79b5af03f990696277469d8/1750529957/dash_h264.mpd?t=1492359802"
+    },
+    {
+      "name": "Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256659552/movie.293x165.jpg?t=1452279930",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/429050/49680/b63a4cb823a840d726a8128ec11a0d769ae8090f/1750529942/dash_h264.mpd?t=1452279930"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 429050,
+    "store_url": "https://store.steampowered.com/app/429050/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Underwater",
+      "Survival",
+      "Multiplayer",
+      "Early Access",
+      "Action",
+      "Open World",
+      "Indie",
+      "Singleplayer",
+      "Adventure",
+      "Colorful",
+      "Sandbox",
+      "Funny",
+      "Fishing",
+      "Co-op",
+      "Atmospheric",
+      "Realistic",
+      "Cute",
+      "Strategy",
+      "Moddable"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 16647,
+    "review_negative": 4651,
+    "review_total": 21298,
+    "review_positive_percent": 78.16
+  }
+}

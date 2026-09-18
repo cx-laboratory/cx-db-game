@@ -1,0 +1,259 @@
+{
+  "key": "paint-the-town-red",
+  "name": "Paint the Town Red",
+  "description": "Paint the Town Red is a chaotic first person melee combat game set in different locations and time periods. The voxel-based enemies can be punched, bashed, kicked, stabbed and sliced completely dynamically using almost anything that isn't nailed down.",
+  "developers": [
+    "South East Games"
+  ],
+  "publishers": [
+    "South East Games"
+  ],
+  "release_date": "2021-07-29",
+  "website": "http://southeastgames.com",
+  "tags": [
+    "action",
+    "indie",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "gore",
+    "violent",
+    "fighting",
+    "first-person",
+    "physics",
+    "roguelike",
+    "beat-em-up",
+    "funny",
+    "voxel",
+    "roguelite",
+    "singleplayer",
+    "fps",
+    "adventure",
+    "difficult",
+    "arcade",
+    "sandbox"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Arabic",
+    "Bulgarian",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "Finnish",
+    "Greek",
+    "Hungarian",
+    "Japanese",
+    "Korean",
+    "Norwegian",
+    "Polish",
+    "Portuguese - Portugal",
+    "Portuguese - Brazil",
+    "Romanian",
+    "Russian",
+    "Simplified Chinese",
+    "Swedish",
+    "Thai",
+    "Traditional Chinese",
+    "Turkish",
+    "Ukrainian*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "血染小镇"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "PaintTheTownRed.exe",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "PaintTheTownRed.exe",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "PTTRVR/PaintTheTownRedVR.exe",
+          "description": "Paint the Town Red VR",
+          "type": "openxr"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "PaintTheTownRed.app/Contents/MacOS/Paint The Town Red",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "PaintTheTownRed.app/Contents/MacOS/PaintTheTownRed",
+          "description": "previousversion",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "PaintTheTownRed.x86_64",
+          "description": "Latest Builds",
+          "type": "default"
+        },
+        {
+          "executable": "PaintTheTownRed.exe",
+          "description": "(previousversion)",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Paint the Town Red",
+    "PaintTheTownRed",
+    "PTTRVR/PaintTheTownRedVR",
+    "PaintTheTownRed.app/Contents/MacOS/Paint The Town Red",
+    "PaintTheTownRed.app/Contents/MacOS/PaintTheTownRed",
+    "PaintTheTownRed.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/337320/a14f7287363a4acfed7b8821da25dbd25562bddf.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337320/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337320/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337320/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337320/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337320/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337320/ss_f86a37edd864e52f907d34257ab1493d6d17774d.1920x1080.jpg?t=1747124279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337320/ss_bf376e0149578b1aea6584a025e06fa0a327af61.1920x1080.jpg?t=1747124279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337320/ss_7a97583ae9bcd81fc0331287fae5fc7786705592.1920x1080.jpg?t=1747124279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337320/ss_7974dab2640381b73fe12a29ce3b237f45df1a3e.1920x1080.jpg?t=1747124279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337320/ss_eb24d2854b01f14058a42e18d285b8a637ad2c31.1920x1080.jpg?t=1747124279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337320/ss_27900d31dcaa35719bb6a90cad049534c42d2f1b.1920x1080.jpg?t=1747124279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337320/ss_2c51121b8af18b65d41e884edf94d4f8509a41c1.1920x1080.jpg?t=1747124279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337320/ss_50c9fa5564df19f1c5b25b0d0fd1e0f6f1e6831c.1920x1080.jpg?t=1747124279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337320/ss_0de6b0cd28344c43bc51d12ee57a3cf93db66f2c.1920x1080.jpg?t=1747124279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337320/ss_3dcaeecba6919187b89c01d9a9003b9c1074451d.1920x1080.jpg?t=1747124279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337320/ss_b74164a9fc3f0cd9ec9c8401adaf57d85ae033bf.1920x1080.jpg?t=1747124279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337320/ss_1f2325c54d0fdccc759f649ba098b48e6e6f30e0.1920x1080.jpg?t=1747124279"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Paint the Town Red - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256845079/movie.293x165.jpg?t=1627884140",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/337320/389494/b9a1a7c48c0ca37db30de50465f2d682c34c08a0/1750511307/dash_h264.mpd?t=1627884140"
+    },
+    {
+      "name": "Paint The Town Red - Action Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256779318/movie.293x165.jpg?t=1585290626",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/337320/274488/f6c23f62db0d36a0caf3217977ecea0b0c3c81b0/1750511274/dash_h264.mpd?t=1585290626"
+    },
+    {
+      "name": "Paint the Town - Early Access Trailer 2",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256678779/movie.293x165.jpg?t=1485832579",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/337320/88504/701cfe728418e9dcd728a4daf3815e9fabfcffc2/1750511252/dash_h264.mpd?t=1485832579"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 337320,
+    "store_url": "https://store.steampowered.com/app/337320/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "VR Supported",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Gore",
+      "Violent",
+      "Action",
+      "Fighting",
+      "Multiplayer",
+      "First-Person",
+      "Physics",
+      "Roguelike",
+      "Beat 'em up",
+      "Funny",
+      "Voxel",
+      "Roguelite",
+      "Singleplayer",
+      "Indie",
+      "FPS",
+      "Adventure",
+      "Difficult",
+      "Arcade",
+      "Co-op",
+      "Sandbox"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 30895,
+    "review_negative": 1298,
+    "review_total": 32193,
+    "review_positive_percent": 95.97
+  }
+}

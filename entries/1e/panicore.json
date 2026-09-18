@@ -1,0 +1,216 @@
+{
+  "key": "panicore",
+  "name": "PANICORE",
+  "description": "PANICORE is a survival horror game that mixes permadeath, AI monsters and a co-op experience up to 5 players (4 players in demo). Try to escape and don't get caught, but beware: they don't only hear your steps, but also your voice.",
+  "developers": [
+    "ZTEK Studio"
+  ],
+  "publishers": [
+    "ZTEK Studio"
+  ],
+  "release_date": "2024-05-31",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "horror",
+    "first-person",
+    "pve",
+    "roguelike",
+    "action-roguelike",
+    "stealth",
+    "singleplayer",
+    "action-adventure",
+    "atmospheric",
+    "roguelite",
+    "survival",
+    "psychological",
+    "casual",
+    "dark"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Arabic",
+    "Bulgarian",
+    "Simplified Chinese",
+    "Danish",
+    "Finnish",
+    "Greek",
+    "Indonesian",
+    "Japanese",
+    "Korean",
+    "Dutch",
+    "Norwegian",
+    "Polish",
+    "Portuguese - Portugal",
+    "Romanian",
+    "Russian",
+    "Swedish",
+    "Thai",
+    "Czech",
+    "Turkish",
+    "Ukrainian",
+    "Hungarian",
+    "Vietnamese*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "PANICORE (恐慌)",
+    "japanese": "PANICORE (パニコアー)",
+    "koreana": "PANICORE (패니코어)"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Panicore.exe",
+          "description": "with DirectX 12",
+          "type": "option1"
+        },
+        {
+          "executable": "Panicore.exe",
+          "description": "with DirectX 11",
+          "type": "option1"
+        },
+        {
+          "executable": "Panicore.exe",
+          "description": "with Vulkan",
+          "type": "option1"
+        },
+        {
+          "executable": "Panicore.exe",
+          "description": "with custom argument",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "PANICORE",
+    "Panicore",
+    "PANICORE (恐慌)",
+    "PANICORE (パニコアー)",
+    "PANICORE (패니코어)"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2695940/91923e0838aa798d3a17ccc09949fefae6b4756e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/7ba4bc192562f2fd7267801f965ed93a6f8b61c7/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/a0b7a7a1ff4eb3c6731f2f1adbbc6da5182030e7/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/3cc6eef983e370fbc8b05120097ebd1619c3e55a/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/3d4744d6a78be3abfba65fc4aafa9113c2bf5891/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/404aad32bca01975325e92869b943355b4ed19a0/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/48eeba7241dbcb8edd2ce5f162d8fae37146f379/ss_48eeba7241dbcb8edd2ce5f162d8fae37146f379.1920x1080.jpg?t=1774881329"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/91ff367763ca8f6e97d4593cf43a37be5c8a209d/ss_91ff367763ca8f6e97d4593cf43a37be5c8a209d.1920x1080.jpg?t=1774881329"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/ss_b449bafa0f72b1acb9c4963125cc9e80057a928b.1920x1080.jpg?t=1774881329"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/ss_e15e38107b44a7a8ea13e75f83754ba9849ea089.1920x1080.jpg?t=1774881329"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/010750c95d3d5a04cb1e91d54513297014430092/ss_010750c95d3d5a04cb1e91d54513297014430092.1920x1080.jpg?t=1774881329"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/ss_1c21ddfb73039357e815007af0921d4087d04af0.1920x1080.jpg?t=1774881329"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/ea0565c657be6e1afe801ab265b8c66d77260a36/ss_ea0565c657be6e1afe801ab265b8c66d77260a36.1920x1080.jpg?t=1774881329"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/ss_036d4e32a8c61cd14056651a2cd75f21281bb051.1920x1080.jpg?t=1774881329"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/ss_550a6504aebbbb970f5d01df9f7149746eb9071b.1920x1080.jpg?t=1774881329"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/ef2991f6853dae129c6f8a6e0088c48d21b63b78/ss_ef2991f6853dae129c6f8a6e0088c48d21b63b78.1920x1080.jpg?t=1774881329"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Military Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257216495/e1a146d01810717d6ae6af3c2b1ca266d5d516d9/movie_600x337.jpg?t=1760284557",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2695940/179249239/1a686bb315fa487e6f59f55bfba7b5a9f54e3f43/1760284138/dash_h264.mpd?t=1760284557"
+    },
+    {
+      "name": "Submarine Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257066753/f31f1d7c9f35e4ee45b4203d3fba169f61f3d9b5/movie_600x337.jpg?t=1729356815",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2695940/774365/027444e346aee08044c8e4b9abd38c6ec10c2869/1750818825/dash_h264.mpd?t=1729356815"
+    },
+    {
+      "name": "Game Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257013595/movie.293x165.jpg?t=1712364752",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2695940/683692/f6ebfce2b511600a16ced8d10bf048ce8e737931/1750818824/dash_h264.mpd?t=1712364752"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2695940,
+    "store_url": "https://store.steampowered.com/app/2695940/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Horror",
+      "Online Co-Op",
+      "Multiplayer",
+      "Psychological Horror",
+      "First-Person",
+      "PvE",
+      "Co-op",
+      "Action Roguelike",
+      "Stealth",
+      "Singleplayer",
+      "Action-Adventure",
+      "Action",
+      "Atmospheric",
+      "Roguelite",
+      "Survival",
+      "Psychological",
+      "Casual",
+      "Dark",
+      "Adventure",
+      "Indie"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 10081,
+    "review_negative": 2683,
+    "review_total": 12764,
+    "review_positive_percent": 78.98
+  }
+}

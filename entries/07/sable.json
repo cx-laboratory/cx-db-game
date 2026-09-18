@@ -1,0 +1,189 @@
+{
+  "key": "sable",
+  "name": "Sable",
+  "description": "Embark on an unique and unforgettable journey and guide Sable through her Gliding; a rite of passage that will take her across vast deserts and mesmerizing landscapes, capped by the remains of spaceships and ancient wonders.",
+  "developers": [
+    "Shedworks"
+  ],
+  "publishers": [
+    "Raw Fury"
+  ],
+  "release_date": "2021-09-23",
+  "website": "http://sablegame.com",
+  "tags": [
+    "adventure",
+    "indie",
+    "rpg",
+    "atmospheric",
+    "exploration",
+    "story-rich",
+    "female-protagonist",
+    "open-world",
+    "choose-your-own-adventure",
+    "singleplayer",
+    "multiple-endings",
+    "choices-matter",
+    "puzzle",
+    "stylized",
+    "relaxing",
+    "3d-platformer",
+    "sci-fi",
+    "platformer",
+    "puzzle-platformer",
+    "comic-book",
+    "hand-drawn"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "spanish",
+    "schinese",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Sable.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Shedworks/Sable/SaveData",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Sable"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/757310/99b24f25b351f471e84ac9f3a25498505b679695.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757310/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757310/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757310/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757310/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757310/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757310/ss_f7cf5d40340dfcfc534daff63be314fdbb9e6817.1920x1080.jpg?t=1780992723"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757310/ss_dbe1b07f58393b56c20e9ac031442e1e161fa989.1920x1080.jpg?t=1780992723"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757310/ss_cad83dc56ce2d4e690df7d31eac8346db25baa9d.1920x1080.jpg?t=1780992723"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757310/ss_2a01e59f6610eb3fab65d17bc16f09430009db42.1920x1080.jpg?t=1780992723"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757310/ss_b8cac63ad21d78bbce72255fa607b1a27d3b5228.1920x1080.jpg?t=1780992723"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757310/ss_bb39016e03201f087cf07f6d15cb364577952f00.1920x1080.jpg?t=1780992723"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757310/ss_6132344e1a086e984169123445d637fef3b71a73.1920x1080.jpg?t=1780992723"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757310/ss_e13b29d28b0342943b3ba93d49ddbb86c22d3678.1920x1080.jpg?t=1780992723"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757310/ss_42cda8baa193043bba36e4dd57f965973e41b5e3.1920x1080.jpg?t=1780992723"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757310/ss_ef49b11e14ab919a138a20739d50fd04fdd806ad.1920x1080.jpg?t=1780992723"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757310/ss_efb5438e53ed5463bc89076cc99a3290dc55db85.1920x1080.jpg?t=1780992723"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757310/ss_933ecaca56119bedc696cdf364eed4e7b6b86165.1920x1080.jpg?t=1780992723"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757310/ss_5cfc2f1878f26c368ddb9e11edd91240cb898745.1920x1080.jpg?t=1780992723"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757310/ss_d606b4455cff9dea9ec2fa5ac102277db107455c.1920x1080.jpg?t=1780992723"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757310/ss_621401e6bfeb1895df098cf84435c0ec30de530e.1920x1080.jpg?t=1780992723"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757310/ss_eef53ec54dda09b085b5435c276e9c765250fea0.1920x1080.jpg?t=1780992723"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Sable Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256852595/movie.293x165.jpg?t=1632397783",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/757310/403155/9cc4fb8c7c74bbe2a127df32c4e39d9115723431/1750579351/dash_h264.mpd?t=1632397783"
+    }
+  ],
+  "metacritic": {
+    "score": 76,
+    "url": "https://www.metacritic.com/game/pc/sable?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 757310,
+    "store_url": "https://store.steampowered.com/app/757310/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Atmospheric",
+      "Exploration",
+      "Story Rich",
+      "Adventure",
+      "Female Protagonist",
+      "Open World",
+      "Choose Your Own Adventure",
+      "Singleplayer",
+      "Multiple Endings",
+      "Choices Matter",
+      "Puzzle",
+      "Stylized",
+      "Relaxing",
+      "3D Platformer",
+      "Sci-fi",
+      "Platformer",
+      "Puzzle Platformer",
+      "RPG",
+      "Comic Book",
+      "Hand-drawn"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 5469,
+    "review_negative": 873,
+    "review_total": 6342,
+    "review_positive_percent": 86.23
+  }
+}

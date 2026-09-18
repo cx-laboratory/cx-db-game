@@ -1,0 +1,154 @@
+{
+  "key": "iron-lung",
+  "name": "Iron Lung",
+  "description": "A short horror game where you pilot a tiny submarine through an ocean of blood on an alien moon.",
+  "developers": [
+    "David Szymanski"
+  ],
+  "publishers": [
+    "David Szymanski"
+  ],
+  "release_date": "2022-03-10",
+  "website": "",
+  "tags": [
+    "adventure",
+    "indie",
+    "simulation",
+    "horror",
+    "atmospheric",
+    "submarine",
+    "underwater",
+    "short",
+    "pixel-graphics",
+    "minimalist",
+    "first-person",
+    "sci-fi",
+    "abstract",
+    "3d",
+    "exploration",
+    "walking-simulator",
+    "dark",
+    "mystery",
+    "dystopian",
+    "surreal"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Iron Lung.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "save",
+          "pattern": "*.*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Iron Lung"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1846170/b97486d7e10b938472c3c3d4c4ca7d5e4c0e5f11.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846170/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846170/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846170/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846170/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846170/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846170/ss_8f6028d45627c23f4818e881860aec6ef029fbbf.1920x1080.jpg?t=1770061280"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846170/ss_1c62a35a9022be7973eacaa117f6c5b4a37d71d1.1920x1080.jpg?t=1770061280"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846170/ss_88dfadc6433914520fa9b48c91260bd5a1251c27.1920x1080.jpg?t=1770061280"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846170/ss_2356416dc8749fb2ec956e83b7b714dab974b69a.1920x1080.jpg?t=1770061280"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846170/ss_e17953b908d595b7e9009f426442a5ce21b4130b.1920x1080.jpg?t=1770061280"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846170/ss_d05f13e01909ca215c998fb346b4caba55eef40c.1920x1080.jpg?t=1770061280"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Iron Lung Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256874571/movie.293x165.jpg?t=1683135812",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1846170/441333/141e7debfa679bd9314715314dcfdee8dfd73f00/1750738479/dash_h264.mpd?t=1683135812"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1846170,
+    "store_url": "https://store.steampowered.com/app/1846170/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Camera Comfort",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Horror",
+      "Atmospheric",
+      "Psychological Horror",
+      "Submarine",
+      "Underwater",
+      "Indie",
+      "Short",
+      "Pixel Graphics",
+      "Minimalist",
+      "First-Person",
+      "Adventure",
+      "Sci-fi",
+      "Abstract",
+      "3D",
+      "Exploration",
+      "Walking Simulator",
+      "Dark",
+      "Mystery",
+      "Dystopian ",
+      "Surreal"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 10064,
+    "review_negative": 891,
+    "review_total": 10955,
+    "review_positive_percent": 91.87
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "key": "split-fiction",
+  "name": "Split Fiction",
+  "description": "Embrace mind-blowing moments as you’re pulled deep into the many worlds of Split Fiction, a boundary-pushing co-op adventure.",
+  "developers": [
+    "Hazelight Studios"
+  ],
+  "publishers": [
+    "Electronic Arts"
+  ],
+  "release_date": "2025-03-07",
+  "website": "https://www.ea.com/games/split-fiction/split-fiction",
+  "tags": [
+    "action",
+    "adventure",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "split-screen",
+    "local-multiplayer",
+    "female-protagonist",
+    "action-adventure",
+    "3d-platformer",
+    "fantasy",
+    "sci-fi",
+    "story-rich",
+    "co-op-campaign",
+    "third-person",
+    "puzzle-platformer",
+    "platformer",
+    "funny"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "japanese": "スプリット・フィクション",
+    "schinese": "双影奇境",
+    "tchinese": "雙影奇境",
+    "german": "Split Fiction",
+    "french": "Split Fiction",
+    "italian": "Split Fiction",
+    "koreana": "Split Fiction",
+    "spanish": "Split Fiction",
+    "russian": "Split Fiction",
+    "thai": "Split Fiction",
+    "portuguese": "Split Fiction",
+    "polish": "Split Fiction",
+    "danish": "Split Fiction",
+    "dutch": "Split Fiction",
+    "finnish": "Split Fiction",
+    "norwegian": "Split Fiction",
+    "swedish": "Split Fiction",
+    "czech": "Split Fiction",
+    "turkish": "Split Fiction",
+    "brazilian": "Split Fiction",
+    "ukrainian": "Split Fiction",
+    "latam": "Split Fiction"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Split/Binaries/Win64/SplitFiction.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "SplitFiction",
+          "pattern": "SaveData.Split",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "SplitFiction",
+          "pattern": "Settings.Split",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Split Fiction",
+    "Split/Binaries/Win64/SplitFiction",
+    "スプリット・フィクション",
+    "双影奇境",
+    "雙影奇境"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2001120/a01dc6ea47db8c74964d581fe9f1f8039e0e4f33.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/1988bcdc421d71cbe4c8c07940967e7a0cd752be/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/f9b802097eff97ac7edcc92f864d4b9a91516b67/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/a8332cc05ec2fd0210ba39d19b7e2dc0ba93f135/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/003cfb265a7811b616c66eb97b4e25f96500cdf6/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/5e3f5393e455fad3b5fa3f2fe469d9ad6b519069/ss_5e3f5393e455fad3b5fa3f2fe469d9ad6b519069.1920x1080.jpg?t=1763484567"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/c631eecc779a528b0f5d5eb6c0400f700cc12a79/ss_c631eecc779a528b0f5d5eb6c0400f700cc12a79.1920x1080.jpg?t=1763484567"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/be41de926028f953325b2374fad06b9c8c7abb43/ss_be41de926028f953325b2374fad06b9c8c7abb43.1920x1080.jpg?t=1763484567"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/77070a9b5767e83d8482ab88b6ee7b881734ea8e/ss_77070a9b5767e83d8482ab88b6ee7b881734ea8e.1920x1080.jpg?t=1763484567"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/361876a377c0d42cad396ee08b84d753f28a217c/ss_361876a377c0d42cad396ee08b84d753f28a217c.1920x1080.jpg?t=1763484567"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/eeb30b45cb5f65286d3307b672313781294baed3/ss_eeb30b45cb5f65286d3307b672313781294baed3.1920x1080.jpg?t=1763484567"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/68558ed4d5bcc06d2e46f8fae7e9a3dde23b8170/ss_68558ed4d5bcc06d2e46f8fae7e9a3dde23b8170.1920x1080.jpg?t=1763484567"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/15a4fc0f9c14f8a0389a35e15a358617fcfcc32d/ss_15a4fc0f9c14f8a0389a35e15a358617fcfcc32d.1920x1080.jpg?t=1763484567"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/e68fae81eeef31d9ee97a93ea2a1cbc640dce7b4/ss_e68fae81eeef31d9ee97a93ea2a1cbc640dce7b4.1920x1080.jpg?t=1763484567"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/627b2a6746be0a19c0342751237ebd0f7ed83e01/ss_627b2a6746be0a19c0342751237ebd0f7ed83e01.1920x1080.jpg?t=1763484567"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Split Fiction | Official Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257116893/b4bbd6dc66f4d060be19939f12fa52593c01b5b8/movie_600x337.jpg?t=1742494046",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2001120/854995/3730871b30a32f17510f03e0dc85913eccb0186b/1748810947/dash_h264.mpd?t=1742494046"
+    },
+    {
+      "name": "Friends pass trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257108032/5a8b81959caa7eec1fed0511e30cf6d02081698a/movie_600x337.jpg?t=1741276824",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2001120/841437/db931795862d18d2fe026ebfca8fc10d8a08d5cf/1748810946/dash_h264.mpd?t=1741276824"
+    },
+    {
+      "name": "Official Story Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257108061/2db60a394c25dee702838bb8c9da01bdde37e083/movie_600x337.jpg?t=1741276819",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2001120/841481/86b1f8752faf0fb297dc0abd130bfb68bbceb2a0/1748810947/dash_h264.mpd?t=1741276819"
+    },
+    {
+      "name": "Official Co-Op trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257108038/54e1dcdf47420e4a1ecd2707fd37adf058dc4ba7/movie_600x337.jpg?t=1741276821",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2001120/841445/fc9dbf5e0a3b0981f69e089829c7a227701bb72d/1748810946/dash_h264.mpd?t=1741276821"
+    },
+    {
+      "name": "Official Gameplay Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257108048/b7fcc6fce4d3e61ab450ffb3b906a6d49d6c6808/movie_600x337.jpg?t=1741276826",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2001120/841461/8234f4fe26451d800682cc01874af2624ac8d543/1748810947/dash_h264.mpd?t=1741276826"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2001120,
+    "store_url": "https://store.steampowered.com/app/2001120/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Captions available",
+      "Camera Comfort",
+      "Color Alternatives",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Surround Sound",
+      "Steam Cloud",
+      "Remote Play Together",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Co-op",
+      "Split Screen",
+      "Local Co-Op",
+      "Female Protagonist",
+      "Online Co-Op",
+      "Action-Adventure",
+      "3D Platformer",
+      "Fantasy",
+      "Sci-fi",
+      "Story Rich",
+      "Co-op Campaign",
+      "Third Person",
+      "Multiplayer",
+      "Adventure",
+      "Action",
+      "Local Multiplayer",
+      "Psychological Horror",
+      "Puzzle Platformer",
+      "Platformer",
+      "Funny"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 119003,
+    "review_negative": 3675,
+    "review_total": 122678,
+    "review_positive_percent": 97
+  }
+}

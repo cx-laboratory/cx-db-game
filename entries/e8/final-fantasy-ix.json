@@ -1,0 +1,118 @@
+{
+  "key": "final-fantasy-ix",
+  "name": "FINAL FANTASY IX",
+  "description": "Selling over five million copies since its release in 2000, FINAL FANTASY IX proudly returns on Steam! Now you can relive the adventures of Zidane and his crew on PC !",
+  "developers": [
+    "Square Enix"
+  ],
+  "publishers": [
+    "Square Enix"
+  ],
+  "release_date": "2016-04-14",
+  "website": "http://www.jp.square-enix.com/ff9/en/",
+  "tags": [
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "japanese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "FF9_Launcher.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "FINAL FANTASY IX",
+    "FF9_Launcher"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/377840/5c5cb414b598d8b1a9056f12f625f92a601ad421.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377840/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377840/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377840/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377840/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377840/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377840/ss_a677dfadb3da854598b766705490da6c93a39c2d.1920x1080.jpg?t=1775119109"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377840/ss_6647e64e75874c91bcb797d5d98ddcfea24dd3d6.1920x1080.jpg?t=1775119109"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377840/ss_d89c3500caa9a1f9f213643d31f2074d01532cac.1920x1080.jpg?t=1775119109"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377840/ss_d93c49a0168a25d65c50c3d2efe7ae64a2434c35.1920x1080.jpg?t=1775119109"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377840/ss_6500ff0bfb2092615909e3d2b641c8a92ba15854.1920x1080.jpg?t=1775119109"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377840/ss_c96548607f3fdf5c440b7ebf297e0b09b75ce906.1920x1080.jpg?t=1775119109"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377840/ss_fe4fbd8ac03bd989739f3ccff2a19aba91b4d883.1920x1080.jpg?t=1775119109"
+    }
+  ],
+  "videos": [
+    {
+      "name": "FINAL FANTASY IX 2016 Out Now ESRB ENG",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256662872/movie.293x165.jpg?t=1460617211",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/377840/56343/4a21d2bd168db3b1b6a00b2f4b907cc3e2aa9594/1750520938/dash_h264.mpd?t=1460617211"
+    }
+  ],
+  "metacritic": {
+    "score": 84,
+    "url": "https://www.metacritic.com/game/pc/final-fantasy-ix?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 377840,
+    "store_url": "https://store.steampowered.com/app/377840/",
+    "required_age": 13,
+    "is_free": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Camera Comfort",
+      "Playable without Timed Input",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 13327,
+    "review_negative": 686,
+    "review_total": 14013,
+    "review_positive_percent": 95.1
+  }
+}

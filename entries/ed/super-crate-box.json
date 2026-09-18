@@ -1,0 +1,182 @@
+{
+  "key": "super-crate-box",
+  "name": "Super Crate Box",
+  "description": "Vlambeer's SUPER CRATE BOX is coming to bring back the glory of the golden arcade age, when all that really mattered was getting on that high score list. Grab your baseball cap and loosen your pants, it's time to fight endless hordes of enemies and collect every weapon crate you can.",
+  "developers": [
+    "Vlambeer"
+  ],
+  "publishers": [
+    "Vlambeer"
+  ],
+  "release_date": "2012-08-30",
+  "website": "http://www.vlambeer.com/",
+  "tags": [
+    "action",
+    "indie",
+    "free-to-play",
+    "platformer",
+    "pixel-graphics",
+    "2d",
+    "shooter",
+    "arcade",
+    "multiplayer",
+    "singleplayer",
+    "difficult",
+    "retro",
+    "addictive",
+    "fast-paced",
+    "controller",
+    "co-op",
+    "great-soundtrack",
+    "family-friendly",
+    "roguelike",
+    "online-co-op"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "supercratebox.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": " ",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "SuperCrateBox.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": " ",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "runner",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": " ",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Super Crate Box",
+    "supercratebox",
+    "SuperCrateBox.app",
+    "runner"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/212800/842df7463377f931ce83d5224473b7ae68405d60.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212800/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212800/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212800/capsule_231x87.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212800/ss_0d1862eea07558075d0071135e4c155a5f2a2e6c.1920x1080.jpg?t=1720811087"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212800/ss_80b6c4bc99c00d602f5cf2f689dc2e5d1a24f766.1920x1080.jpg?t=1720811087"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212800/ss_7ad9fb10ee6b82271aa9739f45fdd58d80d749e1.1920x1080.jpg?t=1720811087"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212800/ss_5e49bc051ed7276d993f6c2260692f7fcc332226.1920x1080.jpg?t=1720811087"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212800/ss_8c7392a1d60ca5178ba73e3bdf10e511202f279b.1920x1080.jpg?t=1720811087"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Super Crate Box Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81939/movie.293x165.jpg?t=1447356413",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/212800/8625/2c4c7ffb59ae2149f5106a1b99d72ca3f92f638f/1751259757/dash_h264.mpd?t=1447356413"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 212800,
+    "store_url": "https://store.steampowered.com/app/212800/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Indie",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player"
+    ],
+    "tags": [
+      "Free to Play",
+      "Indie",
+      "Platformer",
+      "Pixel Graphics",
+      "Action",
+      "2D",
+      "Shooter",
+      "Arcade",
+      "Multiplayer",
+      "Singleplayer",
+      "Difficult",
+      "Retro",
+      "Addictive",
+      "Fast-Paced",
+      "Controller",
+      "Co-op",
+      "Great Soundtrack",
+      "Family Friendly",
+      "Roguelike",
+      "Online Co-Op"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 5735,
+    "review_negative": 712,
+    "review_total": 6447,
+    "review_positive_percent": 88.96
+  }
+}

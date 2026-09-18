@@ -1,0 +1,275 @@
+{
+  "key": "night-of-the-dead",
+  "name": "Night of the Dead",
+  "description": "'Night of the Dead' is an open-world game that combines elements of exploration, tower defense, survival, and crafting. Traverse a world dominated by zombies while collecting various resources and powerful equipment. Build a fortress to survive the hordes of zombies that swarm every night!",
+  "developers": [
+    "Jackto Studios"
+  ],
+  "publishers": [
+    "Jackto Studios"
+  ],
+  "release_date": "2024-05-31",
+  "website": "http://jacktostudios.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "simulation",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "open-world-survival-craft",
+    "zombies",
+    "tower-defense",
+    "singleplayer",
+    "open-world",
+    "crafting",
+    "survival",
+    "base-building",
+    "sandbox",
+    "building",
+    "hunting",
+    "third-person",
+    "first-person",
+    "horror",
+    "realistic"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "koreana"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "LF.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "LF.exe",
+          "description": "Previous Version (Under 2.X.X)",
+          "type": "default"
+        },
+        {
+          "executable": "LF.exe",
+          "description": "Previous Version (Under 2.X.X)",
+          "type": "default"
+        },
+        {
+          "executable": "StartGame (No Anti Cheat).bat",
+          "description": "Play Night of the Dead (Non_EasyAntiCheat, Non_Official)",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Saved/SaveGames",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "LF/Saved/SaveGames",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "Saved/Avatars",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "LF/Saved/Avatars",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Night of the Dead",
+    "LF",
+    "StartGame (No Anti Cheat).bat"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1377380/7b9307de9fa2d3fc98b5e56c1f234c0d7f5b1381.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377380/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377380/53e2b07ef36dc347f27248f44a4fc616746fb971/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377380/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377380/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377380/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377380/ss_7bffc46cd2bf8b27e1697abd1b8b31ab59ef3bb6.1920x1080.jpg?t=1760364619"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377380/ss_c98d5907c83cbebd44582ae07d4256807823837a.1920x1080.jpg?t=1760364619"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377380/ss_431316b2c52336fa8489256162cb439fd0db31f2.1920x1080.jpg?t=1760364619"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377380/ss_6436a3d1fdd2be10791a35c3e993af21d9e036ce.1920x1080.jpg?t=1760364619"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377380/ss_feecf1ede2742fdee622c1666eb0b676a094b032.1920x1080.jpg?t=1760364619"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377380/ss_1bf9a77669ae994f3e42c5bdb4db0023965c28e3.1920x1080.jpg?t=1760364619"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377380/ss_80f065558a3b909b45dcae402df2240024280c84.1920x1080.jpg?t=1760364619"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377380/ss_0ff52692b67b68e31e561b128c271513ffdf2ab5.1920x1080.jpg?t=1760364619"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377380/ss_4c2bca5c42de436375d0d086b34fdd3cf3181fe2.1920x1080.jpg?t=1760364619"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377380/ss_a0d1853cc231a5d97e607b8f224cc24c41c3a998.1920x1080.jpg?t=1760364619"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377380/ss_e731907ef65f77948400f96fef9a85d2cac36424.1920x1080.jpg?t=1760364619"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377380/ss_c4c49d5a43d591a57b778ab4552b6bc88a362837.1920x1080.jpg?t=1760364619"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377380/ss_25b71f7884ec0354be91055a11d705d9df98cf61.1920x1080.jpg?t=1760364619"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377380/ss_be7160ec13d3fd8ef6fbcea3f07622634bd3ca30.1920x1080.jpg?t=1760364619"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377380/ss_44e3724e95552032ed5168a8092ec5ada983b7dc.1920x1080.jpg?t=1760364619"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377380/ss_736b2268c64a3f0bd3fbf68b3828faa4ea425477.1920x1080.jpg?t=1760364619"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377380/ss_f243f37446df92252dbaae853535eab55e4a8c33.1920x1080.jpg?t=1760364619"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377380/ss_14ecda9563b39cbeccd73df49876284fb55a6830.1920x1080.jpg?t=1760364619"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377380/ss_ed503e9570e5126957612f0c11269ee2845e554a.1920x1080.jpg?t=1760364619"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377380/ss_b248bae0c807715a8b6a3689ab08e520205a2a54.1920x1080.jpg?t=1760364619"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377380/ss_2f0c0b621782384ef541c27957051154c4af985f.1920x1080.jpg?t=1760364619"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Night of the Dead 'v1.0 Trailer'",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257025192/movie.293x165.jpg?t=1716626037",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1377380/703798/a3a297c493b15aba4fcf59e21bcfc677493ba366/1750681078/dash_h264.mpd?t=1716626037"
+    },
+    {
+      "name": "Night of the Dead '2.2.0 Trailer'",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256970387/movie.293x165.jpg?t=1695451929",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1377380/609143/f751b8c047f045e7ac334ac58856036fa95cdd50/1750681077/dash_h264.mpd?t=1695451929"
+    },
+    {
+      "name": "Night of the Dead '2.0.0 Trailer'",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256920030/movie.293x165.jpg?t=1670846798",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1377380/520325/977189a3955a563fa26f6022f7396f7f3382c033/1750681070/dash_h264.mpd?t=1670846798"
+    },
+    {
+      "name": "Night of the Dead '1.2.0 Trailer'",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256869155/movie.293x165.jpg?t=1642136260",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1377380/431710/f7af2d39432588e61818c38ef9b79a1a44c2b39b/1750681037/dash_h264.mpd?t=1642136260"
+    },
+    {
+      "name": "Night of the Dead '1.1.0 Trailer'",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256840990/movie.293x165.jpg?t=1667195103",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1377380/380978/8be0b0355d54e43cbb42a0eb4630f2933b7ef4d2/1750681035/dash_h264.mpd?t=1667195103"
+    },
+    {
+      "name": "Night of the Dead 'Early-Access Trailer'",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256795621/movie.293x165.jpg?t=1647311732",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1377380/303143/2a1563bf37365dec853d42c3457d7c970e213d1f/1750681021/dash_h264.mpd?t=1647311732"
+    },
+    {
+      "name": "Alpha Gameplay",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256793421/movie.293x165.jpg?t=1596780235",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1377380/299547/0e87fd86a004ff7dcfcd58314ef9f00495ed7ba5/1750681014/dash_h264.mpd?t=1596780235"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1377380,
+    "store_url": "https://store.steampowered.com/app/1377380/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Open World Survival Craft",
+      "Zombies",
+      "Tower Defense",
+      "Multiplayer",
+      "Online Co-Op",
+      "Singleplayer",
+      "Open World",
+      "Crafting",
+      "Survival",
+      "Base Building",
+      "Sandbox",
+      "Building",
+      "Hunting",
+      "RPG",
+      "Simulation",
+      "Third Person",
+      "PvP",
+      "First-Person",
+      "Survival Horror",
+      "Realistic"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 9103,
+    "review_negative": 2713,
+    "review_total": 11816,
+    "review_positive_percent": 77.04
+  }
+}

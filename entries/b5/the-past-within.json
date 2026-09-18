@@ -1,0 +1,213 @@
+{
+  "key": "the-past-within",
+  "name": "The Past Within",
+  "description": "The Past Within is the new co-op experience from Rusty Lake! Play together with someone you deem trustworthy: one in The Past, the other in The Future. Observe and communicate what you see around you. Solve the puzzles and uncover Albert Vanderboom’s plan.",
+  "developers": [
+    "Rusty Lake"
+  ],
+  "publishers": [
+    "Rusty Lake"
+  ],
+  "release_date": "2022-11-02",
+  "website": "http://www.rustylake.com",
+  "tags": [
+    "adventure",
+    "indie",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "puzzle",
+    "escape-room",
+    "horror",
+    "mystery",
+    "point-and-click",
+    "local-multiplayer",
+    "story-rich",
+    "atmospheric",
+    "asynchronous-multiplayer",
+    "thriller",
+    "2d",
+    "3d",
+    "surreal"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Swedish",
+    "Traditional Chinese",
+    "Turkish",
+    "Vietnamese",
+    "Portuguese - Portugal",
+    "Spanish - Latin America",
+    "Romanian",
+    "Finnish",
+    "Ukrainian*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "内在昔日"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "The Past Within.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "RustyLake/The Past Within/Serialization/SaveFiles",
+          "pattern": "*.json",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "ThePastWithin.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "RustyLake/The Past Within/Serialization/SaveFiles",
+          "pattern": "*.json",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The Past Within",
+    "ThePastWithin.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1515210/58a79b1c6fd17926bc2b03668c376ca07ae20858.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/ss_4b841a393b3941fd81b186afe04f503d6b2bb8f4.1920x1080.jpg?t=1740070156"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/ss_41cac8c12c95f4f820e3f6526340d8b86862d9e4.1920x1080.jpg?t=1740070156"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/ss_5c5a0842e7ad3a2c1a44f5ce4346c61073f4903a.1920x1080.jpg?t=1740070156"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/ss_5bacd69d0346af7f895435099f7df4602e2f5d24.1920x1080.jpg?t=1740070156"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/ss_53bc172b51a69cc8d59b845393505abc1561bb7c.1920x1080.jpg?t=1740070156"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/ss_bf5aae2ab9c412dba0bc6aca954d293707a643f3.1920x1080.jpg?t=1740070156"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/ss_20a50404aadcaa0399c0c6875add8fd83196cbf3.1920x1080.jpg?t=1740070156"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515210/ss_d61edb8f567596623c6d7c350a7c6f8b4aaf4c38.1920x1080.jpg?t=1740070156"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Past Within - Official Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256928239/movie.293x165.jpg?t=1675276978",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1515210/535046/9d72be0b4d75df2adfacde4f383ed5e587d00702/1750698332/dash_h264.mpd?t=1675276978"
+    },
+    {
+      "name": "The Past Within - Official Release Date Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256906840/movie.293x165.jpg?t=1663757704",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1515210/497964/5698458be14871dd273305bdb6f80216fe5a3017/1750697129/dash_h264.mpd?t=1663757704"
+    },
+    {
+      "name": "The Past Within - Official Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256914083/movie.293x165.jpg?t=1667390078",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1515210/510218/d1fa9d40650441ee558d2226bf86cf05692bd740/1750697137/dash_h264.mpd?t=1667390078"
+    },
+    {
+      "name": "Teaser Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256819623/movie.293x165.jpg?t=1637072941",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1515210/343130/a01228a7beafa3611de2846479884a5fc3e3c4cf/1750697129/dash_h264.mpd?t=1637072941"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1515210,
+    "store_url": "https://store.steampowered.com/app/1515210/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Co-op",
+      "Puzzle",
+      "Online Co-Op",
+      "Multiplayer",
+      "Escape Room",
+      "Horror",
+      "Mystery",
+      "Point & Click",
+      "Adventure",
+      "Indie",
+      "Psychological Horror",
+      "Local Co-Op",
+      "Story Rich",
+      "Atmospheric",
+      "Asynchronous Multiplayer",
+      "Local Multiplayer",
+      "Thriller",
+      "2D",
+      "3D",
+      "Surreal"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 15696,
+    "review_negative": 882,
+    "review_total": 16578,
+    "review_positive_percent": 94.68
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "key": "pc-building-simulator",
+  "name": "PC Building Simulator",
+  "description": "Build and grow your very own computer repair enterprise as you learn to diagnose, fix and build PCs. With real-world licensed components and comprehensive hardware and software simulation, you can plan and bring your ultimate PC to life.",
+  "developers": [
+    "Claudiu Kiss"
+  ],
+  "publishers": [
+    "The Irregular Corporation"
+  ],
+  "release_date": "2019-01-30",
+  "website": "http://www.pcbuildingsim.com/",
+  "tags": [
+    "indie",
+    "simulation",
+    "education",
+    "immersive-sim",
+    "building",
+    "management",
+    "sandbox",
+    "first-person",
+    "3d",
+    "realistic",
+    "life-sim",
+    "relaxing",
+    "casual",
+    "singleplayer",
+    "hardware",
+    "funny",
+    "modern",
+    "puzzle",
+    "inventory-management",
+    "atmospheric"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {
+    "japanese": "PC Building Simulator",
+    "schinese": "装机模拟器 (PC Building Simulator)",
+    "koreana": "PC 제작 시뮬레이터"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "PCBS.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Saves",
+          "pattern": "*.binary",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Saves/{64BitSteamID}",
+          "pattern": "*.binary",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "PC Building Simulator",
+    "PCBS",
+    "装机模拟器 (PC Building Simulator)",
+    "PC 제작 시뮬레이터"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/621060/156646a1e614512ad36c6ff1c698a2f05783c61b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621060/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621060/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621060/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621060/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621060/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621060/ss_1892565852a14a83465ff6032226b2ecba85eaf0.1920x1080.jpg?t=1653555111"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621060/ss_20744bfd39bbb259a4b1da3a64f0adaff112c9de.1920x1080.jpg?t=1653555111"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621060/ss_cf5069fc35b3e8b45b6bf75e2ea0d65cc2a21fe5.1920x1080.jpg?t=1653555111"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621060/ss_d663a3ff5b14ba7f2afc2290c542fa8b14dc80bd.1920x1080.jpg?t=1653555111"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621060/ss_c53c85636744da76595b452673e450b589dd6d85.1920x1080.jpg?t=1653555111"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621060/ss_8d01a8bbb6fc411f0e54a9ea4914f54879604726.1920x1080.jpg?t=1653555111"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621060/ss_0ce636d46896a59556a48fa84225e02884182861.1920x1080.jpg?t=1653555111"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621060/ss_23384427b8c44ac453007d9361afeaedfe4f2316.1920x1080.jpg?t=1653555111"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621060/ss_ee4654e66133456c7abb08c321aa28879eade334.1920x1080.jpg?t=1653555111"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621060/ss_b813b856217f9eebf428bfc8880bb9b7a4ac7ab9.1920x1080.jpg?t=1653555111"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621060/ss_d9c50bbcf6c7a29a673eb81ddabe65f7472d78df.1920x1080.jpg?t=1653555111"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621060/ss_2e7300ee60f2db716f307e78604f30c8e35dd1f5.1920x1080.jpg?t=1653555111"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621060/ss_3e70451d841e11ea3e66fde5ef366922ff7caa58.1920x1080.jpg?t=1653555111"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621060/ss_57f20a99cc3aaff01577d40527375ea631b2f676.1920x1080.jpg?t=1653555111"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621060/ss_dd2022dc99055c34f5f91441d464f63731188120.1920x1080.jpg?t=1653555111"
+    }
+  ],
+  "videos": [
+    {
+      "name": "v1 Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256741664/movie.293x165.jpg?t=1559904538",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/621060/206846/ff92aa6f1d68f5cdf8fe1600d66bd0c814ec81f1/1750563482/dash_h264.mpd?t=1559904538"
+    },
+    {
+      "name": "IT Expansion Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256857379/movie.293x165.jpg?t=1635412621",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/621060/411809/4f6deed7bebe6ecff70ac16e2150e918d3102ae8/1750563490/dash_h264.mpd?t=1635412621"
+    },
+    {
+      "name": "Community Builds",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256740151/movie.293x165.jpg?t=1548076040",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/621060/204031/e4ae3cc78d92e9c030571be51efc1adb777cf153/1750563476/dash_h264.mpd?t=1548076040"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 621060,
+    "store_url": "https://store.steampowered.com/app/621060/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Education",
+      "Immersive Sim",
+      "Building",
+      "Management",
+      "Sandbox",
+      "First-Person",
+      "3D",
+      "Realistic",
+      "Life Sim",
+      "Relaxing",
+      "Casual",
+      "Singleplayer",
+      "Hardware",
+      "Funny",
+      "Modern",
+      "Puzzle",
+      "Inventory Management",
+      "Atmospheric",
+      "Indie"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 49208,
+    "review_negative": 3415,
+    "review_total": 52623,
+    "review_positive_percent": 93.51
+  }
+}

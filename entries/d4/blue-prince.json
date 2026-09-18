@@ -1,0 +1,202 @@
+{
+  "key": "blue-prince",
+  "name": "Blue Prince",
+  "description": "Welcome to Mt. Holly, where every dawn unveils a new mystery. Navigate through shifting corridors and ever-changing chambers in this genre-defying strategy puzzle adventure. But will your unpredictable path lead you to the rumored Room 46?",
+  "developers": [
+    "Dogubomb"
+  ],
+  "publishers": [
+    "Raw Fury"
+  ],
+  "release_date": "2025-04-10",
+  "website": "http://blueprincegame.com/",
+  "tags": [
+    "adventure",
+    "indie",
+    "strategy",
+    "puzzle",
+    "mystery",
+    "exploration",
+    "investigation",
+    "roguelite",
+    "singleplayer",
+    "story-rich",
+    "first-person",
+    "atmospheric",
+    "roguelike",
+    "escape-room",
+    "3d",
+    "simulation",
+    "nonlinear",
+    "stylized",
+    "replay-value",
+    "level-editor"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "蓝途王子"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "BLUE PRINCE.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Dogubomb/BLUE PRINCE/storage",
+          "pattern": "MtHollyBlueprint.es3",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "BLUE PRINCE.app/Contents/MacOS/BLUE PRINCE",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Dogubomb/BLUE PRINCE/storage",
+          "pattern": "MtHollyBlueprint.es3",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Blue Prince",
+    "BLUE PRINCE",
+    "BLUE PRINCE.app/Contents/MacOS/BLUE PRINCE",
+    "蓝途王子"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1569580/a550431c3163f52ec65f00ddf701f9c0900da45c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/879ac248a3b548a6bbc32771b950756378e7e922/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/4f81a42ebaca088b16d5501914c6885e49f6c411/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/ss_7f4511e2454604568f545436f36674451fed6353.1920x1080.jpg?t=1782825566"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/ss_d04f2e766f538d3680b28574ec97f06b3274aafc.1920x1080.jpg?t=1782825566"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/ss_f35ec2c097bda6d0d1eb2846be6be0cfc4cdfcc8.1920x1080.jpg?t=1782825566"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/ss_03c1b51c07cb85a30470ae5a652ab9a31eb77479.1920x1080.jpg?t=1782825566"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/ss_7ec816e88c44f30e9de7578132091728713d5944.1920x1080.jpg?t=1782825566"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/ss_2d231fd2f1caf3023631afe24d1dc8d2088f1728.1920x1080.jpg?t=1782825566"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/ss_297937f8ad2567f6de682e8e90859c45240c9142.1920x1080.jpg?t=1782825566"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/ss_afd1b2f0f6ef550cdf0052267e4535c0967d5a2e.1920x1080.jpg?t=1782825566"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/ss_d6e0d0317c1014d4ad3d8d7e12acf6f0f983daee.1920x1080.jpg?t=1782825566"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Blue Price mac release trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257206238/149c4d5b8054b0aa4dbe5f59bffe3cb446c5b7d4/movie_600x337.jpg?t=1759164473",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1569580/1697677063/cde24ad38dd96c64bda898184bc9dab9f72281f1/1758811464/dash_h264.mpd?t=1759164473"
+    },
+    {
+      "name": "Accolades trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257157755/f6495dd3d23db3ef311b547db0856e1baccdb5ad/movie_600x337.jpg?t=1750165259",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1569580/1231285992/14734a9cae515158b0338577c7401636f82a6460/1750153999/dash_h264.mpd?t=1750165259"
+    },
+    {
+      "name": "Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257124607/97d989034f12504a4ebd62070cbd1e095fe1a5bf/movie_600x337.jpg?t=1744316089",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1569580/867758/4cf1f84bf9b0233fe666c7f952326c975a2e113f/1748585428/dash_h264.mpd?t=1744316089"
+    },
+    {
+      "name": "Atmospheric Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257081399/0f33ddf947a118061cd7b928323e0decee7d7f4a/movie_600x337.jpg?t=1739897457",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1569580/798984/4369b27e544e40953095b197bd6d33ed90fd72d6/1748585178/dash_h264.mpd?t=1739897457"
+    }
+  ],
+  "metacritic": {
+    "score": 92,
+    "url": "https://www.metacritic.com/game/pc/blue-prince?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1569580,
+    "store_url": "https://store.steampowered.com/app/1569580/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Puzzle",
+      "Mystery",
+      "Exploration",
+      "Investigation",
+      "Roguelite",
+      "Singleplayer",
+      "Story Rich",
+      "First-Person",
+      "Indie",
+      "Adventure",
+      "Atmospheric",
+      "Roguelike",
+      "Escape Room",
+      "3D",
+      "Simulation",
+      "Strategy",
+      "Nonlinear",
+      "Stylized",
+      "Replay Value",
+      "Level Editor"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 16391,
+    "review_negative": 2549,
+    "review_total": 18940,
+    "review_positive_percent": 86.54
+  }
+}

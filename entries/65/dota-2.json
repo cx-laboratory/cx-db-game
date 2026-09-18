@@ -1,0 +1,244 @@
+{
+  "key": "dota-2",
+  "name": "Dota 2",
+  "description": "Every day, millions of players worldwide enter battle as one of over a hundred Dota heroes. And no matter if it's their 10th hour of play or 1,000th, there's always something new to discover. With regular updates that ensure a constant evolution of gameplay, features, and heroes, Dota 2 has taken on a life of its own.",
+  "developers": [
+    "Valve"
+  ],
+  "publishers": [
+    "Valve"
+  ],
+  "release_date": "2013-07-10",
+  "website": "http://www.dota2.com/",
+  "tags": [
+    "action",
+    "strategy",
+    "free-to-play",
+    "multiplayer",
+    "co-op",
+    "moba",
+    "esports",
+    "team-based",
+    "competitive",
+    "online-co-op",
+    "pvp",
+    "difficult",
+    "rts",
+    "rpg",
+    "tower-defense",
+    "fantasy",
+    "character-customization",
+    "replay-value",
+    "action-rpg",
+    "simulation"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "Bulgarian",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "English*",
+    "Finnish",
+    "French",
+    "German",
+    "Greek",
+    "Hungarian",
+    "Italian",
+    "Japanese",
+    "Korean*",
+    "Norwegian",
+    "Polish",
+    "Portuguese - Portugal",
+    "Portuguese - Brazil",
+    "Romanian",
+    "Russian",
+    "Simplified Chinese*",
+    "Spanish - Spain",
+    "Swedish",
+    "Thai",
+    "Traditional Chinese",
+    "Turkish",
+    "Ukrainian",
+    "Spanish - Latin America",
+    "Vietnamese*languages with full audio support"
+  ],
+  "name_localized": {
+    "sc_schinese": "Dota 2 刀塔"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "game\\bin\\win64\\dota2.exe",
+          "description": "Play Dota 2",
+          "type": "default"
+        },
+        {
+          "executable": "game\\bin\\win64\\dota2cfg.exe",
+          "description": "Launch Dota 2 - Tools",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "game/dota.sh",
+          "description": "Play Dota 2",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "game/dota.sh",
+          "description": "Play Dota 2",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Dota 2",
+    "game\\bin\\win64\\dota2",
+    "game\\bin\\win64\\dota2cfg",
+    "game/dota.sh",
+    "Dota 2 刀塔"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/570/0bbb630d63262dd66d2fdd0f7d37e8661a410075.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/6843027380c3bfd0952449fd9174f492ef2e7b40/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/06918d1009cc79ffdee853f1ef789cddf8014226/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_ad8eee787704745ccdecdfde3a5cd2733704898d.1920x1080.jpg?t=1769535998"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_7ab506679d42bfc0c0e40639887176494e0466d9.1920x1080.jpg?t=1769535998"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_c9118375a2400278590f29a3537769c986ef6e39.1920x1080.jpg?t=1769535998"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_f9ebafedaf2d5cfb80ef1f74baa18eb08cad6494.1920x1080.jpg?t=1769535998"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_27b6345f22243bd6b885cc64c5cda74e4bd9c3e8.1920x1080.jpg?t=1769535998"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_b33a65678dc71cc98df4890e22a89601ee56a918.1920x1080.jpg?t=1769535998"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_d0f973ce376ca5b6c08e081cb035e86ced105fa9.1920x1080.jpg?t=1769535998"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_1f3b5f5ccf8b159294914c3fe028128a787304b6.1920x1080.jpg?t=1769535998"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_e0a92f15a6631a8186df79182d0fe28b5e37d8cb.1920x1080.jpg?t=1769535998"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_86d675fdc73ba10462abb8f5ece7791c5047072c.1920x1080.jpg?t=1769535998"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Dota 2 - Join the Battle",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256692021/movie.293x165.jpg?t=1762820639",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/570/116737/313addee2092d0bd6f538d164610061ea8bbe79c/1749859757/dash_h264.mpd?t=1762820639"
+    },
+    {
+      "name": "Dota 2 - Sizzle Reel",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256819789/movie.293x165.jpg?t=1762820641",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/570/343440/a4bddad5bacce0e8395f7458ef4d8d9bad3efca9/1749859790/dash_h264.mpd?t=1762820641"
+    },
+    {
+      "name": "Dota 2 - The Greeviling",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028243/movie.293x165.jpg?t=1762820644",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/570/10127/a886b09aeea73e11d5c7305afa4e68698976808c/1749859753/dash_h264.mpd?t=1762820644"
+    },
+    {
+      "name": "Dota 2 Gamescom Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81026/movie.293x165.jpg?t=1762820645",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/570/5608/1f6692ca2b124c7ebdbea6933d1503172d53efd1/1749859891/dash_h264.mpd?t=1762820645"
+    },
+    {
+      "name": "Dota 2 Reborn - Custom Games Are Here",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2040250/movie.293x165.jpg?t=1762820647",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/570/38097/c214c04b3ebc010db5db67457efc38b5a994d901/1749859753/dash_h264.mpd?t=1762820647"
+    }
+  ],
+  "metacritic": {
+    "score": 90,
+    "url": "https://www.metacritic.com/game/pc/dota-2?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 570,
+    "store_url": "https://store.steampowered.com/app/570/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Strategy",
+      "Free To Play"
+    ],
+    "categories": [
+      "Multi-player",
+      "Co-op",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "SteamVR Collectibles",
+      "In-App Purchases",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Valve Anti-Cheat enabled",
+      "Steam Timeline"
+    ],
+    "tags": [
+      "Free to Play",
+      "MOBA",
+      "Multiplayer",
+      "Strategy",
+      "eSports",
+      "Team-Based",
+      "Competitive",
+      "Action",
+      "Online Co-Op",
+      "PvP",
+      "Difficult",
+      "Co-op",
+      "RTS",
+      "RPG",
+      "Tower Defense",
+      "Fantasy",
+      "Character Customization",
+      "Replay Value",
+      "Action RPG",
+      "Simulation"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 2206114,
+    "review_negative": 527856,
+    "review_total": 2733970,
+    "review_positive_percent": 80.69
+  }
+}

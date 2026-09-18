@@ -1,0 +1,201 @@
+{
+  "key": "the-forgotten-city",
+  "name": "The Forgotten City",
+  "description": "The Forgotten City is a narrative-driven time loop adventure in ancient Rome. Discover the ruins of an ancient underground city, travel 2000 years into the past, and unravel the mystery of who destroyed it by cleverly exploiting the power to wind back time. The fate of the city is in your hands.",
+  "developers": [
+    "Modern Storyteller"
+  ],
+  "publishers": [
+    "Dear Villagers"
+  ],
+  "release_date": "2021-07-28",
+  "website": "http://forgottencitygame.com",
+  "tags": [
+    "adventure",
+    "indie",
+    "rpg",
+    "time-travel",
+    "mystery",
+    "exploration",
+    "choices-matter",
+    "investigation",
+    "story-rich",
+    "first-person",
+    "multiple-endings",
+    "walking-simulator",
+    "atmospheric",
+    "philosophical",
+    "great-soundtrack",
+    "rome",
+    "fantasy",
+    "remake",
+    "open-world",
+    "silent-protagonist"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "German",
+    "French",
+    "Spanish - Spain",
+    "Simplified Chinese",
+    "Russian",
+    "Japanese",
+    "Korean*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "遗忘之城"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ModernStoryteller01.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "ModernStoryteller01.exe",
+          "description": "Option Utomik SteamOS visible ?",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "ModernStoryteller01/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The Forgotten City",
+    "ModernStoryteller01",
+    "遗忘之城"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/874260/809723bab51d8ef0eae0556a48e892d31219bfa2.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/874260/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/874260/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/874260/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/874260/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/874260/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/874260/ss_b7dde47ffbef23c2d5255a676fa7be227248b3e5.1920x1080.jpg?t=1769440598"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/874260/ss_e6d1b75e48ca08e8fd4d7178056db885dcf86279.1920x1080.jpg?t=1769440598"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/874260/ss_fd64e689b7134c61c045beb1c6dce9b170a8fdae.1920x1080.jpg?t=1769440598"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/874260/ss_e76976fc3cac87feee5cbe4d950d7ebf53c814f0.1920x1080.jpg?t=1769440598"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/874260/ss_fb96b0983fcaa27be22257587796d5e6ea60ff20.1920x1080.jpg?t=1769440598"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/874260/ss_10d70c50f7af45086a7df73b19aa99ea82e335b1.1920x1080.jpg?t=1769440598"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/874260/ss_5157d876dbde468318e2074aa5f3583f5d7806ab.1920x1080.jpg?t=1769440598"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/874260/ss_6e918ea1b2c9906cb8abdf2c2b378da3c0f2d1f9.1920x1080.jpg?t=1769440598"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/874260/ss_39f477e8f871099402d94d97d112c7ca1431e291.1920x1080.jpg?t=1769440598"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/874260/ss_b58dc14d2084ff66c0f7cad279a6af6aaac709b1.1920x1080.jpg?t=1769440598"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Accolade Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256849671/movie.293x165.jpg?t=1630422065",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/874260/397630/ad1ed9197735f24a87996e17b4ad40f7424a5c97/1750592367/dash_h264.mpd?t=1630422065"
+    },
+    {
+      "name": "Launch Trailer No Platform",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256844415/movie.293x165.jpg?t=1630422072",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/874260/388304/e10aa49ad76c796d32c29d39070d78bbe7ffd3fe/1750592366/dash_h264.mpd?t=1630422072"
+    },
+    {
+      "name": "Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256830061/movie.293x165.jpg?t=1630422086",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/874260/361282/deb88c2c70301a009bd7c338fc2af35870f4ff6e/1750592347/dash_h264.mpd?t=1630422086"
+    },
+    {
+      "name": "Trailer Walkthrough May 21",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256835259/movie.293x165.jpg?t=1621419201",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/874260/370645/b9bda2ff6b906d69ddc3ea79c1f2844b87acfbc2/1750592354/dash_h264.mpd?t=1621419201"
+    },
+    {
+      "name": "June 2020 trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256788646/movie.293x165.jpg?t=1592381478",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/874260/291531/6d24f998b39449058339cbf82ef5c2922eb5f1e6/1750592344/dash_h264.mpd?t=1592381478"
+    }
+  ],
+  "metacritic": {
+    "score": 85,
+    "url": "https://www.metacritic.com/game/pc/the-forgotten-city?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 874260,
+    "store_url": "https://store.steampowered.com/app/874260/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Adventure",
+      "Time Travel",
+      "Mystery",
+      "Exploration",
+      "Choices Matter",
+      "Investigation",
+      "Story Rich",
+      "Indie",
+      "First-Person",
+      "RPG",
+      "Multiple Endings",
+      "Walking Simulator",
+      "Atmospheric",
+      "Philosophical",
+      "Great Soundtrack",
+      "Rome",
+      "Fantasy",
+      "Remake",
+      "Open World",
+      "Silent Protagonist"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 12824,
+    "review_negative": 549,
+    "review_total": 13373,
+    "review_positive_percent": 95.89
+  }
+}

@@ -1,0 +1,972 @@
+{
+  "key": "retroarch",
+  "name": "RetroArch",
+  "description": "RetroArch is an open source and cross platform frontend/framework for emulators, game engines, video games, media players and other applications",
+  "developers": [
+    "Libretro"
+  ],
+  "publishers": [
+    "Libretro"
+  ],
+  "release_date": "2021-09-14",
+  "website": "https://www.retroarch.com",
+  "tags": [
+    "free-to-play",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "split-screen",
+    "retro",
+    "software",
+    "singleplayer",
+    "arcade",
+    "classic",
+    "local-multiplayer",
+    "simulation",
+    "old-school",
+    "1990-s",
+    "pixel-graphics",
+    "2d",
+    "utilities",
+    "1980s",
+    "controller",
+    "adventure",
+    "rpg",
+    "indie"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Dutch",
+    "Greek",
+    "Japanese",
+    "Korean",
+    "Norwegian",
+    "Polish",
+    "Portuguese - Portugal",
+    "Portuguese - Brazil",
+    "Russian",
+    "Swedish",
+    "Turkish",
+    "Vietnamese",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Spanish - Spain"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "retroarch.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "saves/PSP/SAVEDATA",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "config",
+          "pattern": "*.opt",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.mcr",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.srm",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.dsv",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/fbneo",
+          "pattern": "*.hi",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/fbneo",
+          "pattern": "*.nv",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/User/GC/USA/Card A/",
+          "pattern": "*.gci",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/User/GC/USA/Card B/",
+          "pattern": "*.gci",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/User/GC/JAP/Card A/",
+          "pattern": "*.gci",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/User/GC/JAP/Card B/",
+          "pattern": "*.gci",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/User/GC/EUR/Card A/",
+          "pattern": "*.gci",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/User/GC/EUR/Card B/",
+          "pattern": "*.gci",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state1",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state2",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state3",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state.auto",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state4",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state5",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state6",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state7",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state8",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state9",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/fbneo",
+          "pattern": "*.memcard",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/fbneo",
+          "pattern": "*.fs",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.sav",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.dsv",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.mcd",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.mcr",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.ngf",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "config",
+          "pattern": "*.slangp",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "config",
+          "pattern": "*.glslp",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "config",
+          "pattern": "*.cgp",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.ngf",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "config/remaps/",
+          "pattern": "*.rmp",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/",
+          "pattern": "*.bin",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/",
+          "pattern": "*.png",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/",
+          "pattern": "*.sfo",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/PPSSPP/PSP/SAVEDATA",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/",
+          "pattern": "*.gci",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/",
+          "pattern": "*.zip",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "RetroArch.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "saves/PSP/SAVEDATA",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "config",
+          "pattern": "*.opt",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.mcr",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.srm",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.dsv",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/fbneo",
+          "pattern": "*.hi",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/fbneo",
+          "pattern": "*.nv",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/User/GC/USA/Card A/",
+          "pattern": "*.gci",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/User/GC/USA/Card B/",
+          "pattern": "*.gci",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/User/GC/JAP/Card A/",
+          "pattern": "*.gci",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/User/GC/JAP/Card B/",
+          "pattern": "*.gci",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/User/GC/EUR/Card A/",
+          "pattern": "*.gci",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/User/GC/EUR/Card B/",
+          "pattern": "*.gci",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state1",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state2",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state3",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state.auto",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state4",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state5",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state6",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state7",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state8",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state9",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/fbneo",
+          "pattern": "*.memcard",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/fbneo",
+          "pattern": "*.fs",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.sav",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.dsv",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.mcd",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.mcr",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.ngf",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "config",
+          "pattern": "*.slangp",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "config",
+          "pattern": "*.glslp",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "config",
+          "pattern": "*.cgp",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.ngf",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "config/remaps/",
+          "pattern": "*.rmp",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/",
+          "pattern": "*.bin",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/",
+          "pattern": "*.png",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/",
+          "pattern": "*.sfo",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/PPSSPP/PSP/SAVEDATA",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/",
+          "pattern": "*.gci",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/",
+          "pattern": "*.zip",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "retroarch.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "saves/PSP/SAVEDATA",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "config",
+          "pattern": "*.opt",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.mcr",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.srm",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.dsv",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/fbneo",
+          "pattern": "*.hi",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/fbneo",
+          "pattern": "*.nv",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/User/GC/USA/Card A/",
+          "pattern": "*.gci",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/User/GC/USA/Card B/",
+          "pattern": "*.gci",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/User/GC/JAP/Card A/",
+          "pattern": "*.gci",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/User/GC/JAP/Card B/",
+          "pattern": "*.gci",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/User/GC/EUR/Card A/",
+          "pattern": "*.gci",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/User/GC/EUR/Card B/",
+          "pattern": "*.gci",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state1",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state2",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state3",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state.auto",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state4",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state5",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state6",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state7",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state8",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "states",
+          "pattern": "*.state9",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/fbneo",
+          "pattern": "*.memcard",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/fbneo",
+          "pattern": "*.fs",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.sav",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.dsv",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.mcd",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.mcr",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.ngf",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "config",
+          "pattern": "*.slangp",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "config",
+          "pattern": "*.glslp",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "config",
+          "pattern": "*.cgp",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "*.ngf",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "config/remaps/",
+          "pattern": "*.rmp",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/",
+          "pattern": "*.bin",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/",
+          "pattern": "*.png",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/",
+          "pattern": "*.sfo",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/PPSSPP/PSP/SAVEDATA",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/",
+          "pattern": "*.gci",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "saves/",
+          "pattern": "*.zip",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "RetroArch",
+    "retroarch",
+    "RetroArch.app",
+    "retroarch.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1118310/6fd9f265a163a4228d1d2bff2a8fdff6ce78270f.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118310/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118310/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118310/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118310/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118310/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118310/ss_7d22920f44e8e06aa8b652235219db9a548cbeab.1920x1080.jpg?t=1717271255"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118310/ss_46b57ccd4e0f9720bd5aa70a7d1d81eb37953da2.1920x1080.jpg?t=1717271255"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118310/ss_2fc57b0a052a628a1d836bd874d4a2b6924858f9.1920x1080.jpg?t=1717271255"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118310/ss_fbf9d575f278b354cf49b439a8b323f08f1bbe33.1920x1080.jpg?t=1717271255"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118310/ss_e5a84e63acb80385b81d5a4fe8642c0bd2121aea.1920x1080.jpg?t=1717271255"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118310/ss_8478c6e576c3ed6fce1910d5d74f1a50a3939037.1920x1080.jpg?t=1717271255"
+    }
+  ],
+  "videos": [
+    {
+      "name": "RetroArch",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256836358/movie.293x165.jpg?t=1622149735",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1118310/372800/51cd111cda140728fc8c990185d057ae144ac1f7/1751190954/dash_h264.mpd?t=1622149735"
+    },
+    {
+      "name": "RetroArch Intro",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256789070/movie.293x165.jpg?t=1592034480",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1118310/292120/8084f28a1151f6c2b6969d9eff5f72fbfcdfae06/1751190952/dash_h264.mpd?t=1592034480"
+    },
+    {
+      "name": "RetroArch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256756030/movie.293x165.jpg?t=1563066062",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1118310/232870/37121a427973cfc2a8756a7e10f920578cfbb9b5/1751190948/dash_h264.mpd?t=1563066062"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1118310,
+    "store_url": "https://store.steampowered.com/app/1118310/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Full controller support",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Retro",
+      "Software",
+      "Singleplayer",
+      "Arcade",
+      "Multiplayer",
+      "Classic",
+      "Local Multiplayer",
+      "Simulation",
+      "Old School",
+      "1990's",
+      "Pixel Graphics",
+      "2D",
+      "Utilities",
+      "1980s",
+      "Co-op",
+      "Controller",
+      "Adventure",
+      "RPG",
+      "Indie"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8521,
+    "review_negative": 1042,
+    "review_total": 9563,
+    "review_positive_percent": 89.1
+  }
+}

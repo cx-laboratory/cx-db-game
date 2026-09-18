@@ -1,0 +1,219 @@
+{
+  "key": "ready-or-not",
+  "name": "Ready or Not",
+  "description": "Become an elite SWAT commander and bring order to a city overwhelmed by chaos and corruption.",
+  "developers": [
+    "VOID Interactive"
+  ],
+  "publishers": [
+    "VOID Interactive"
+  ],
+  "release_date": "2023-12-14",
+  "website": "https://voidinteractive.net",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "tactical",
+    "realistic",
+    "fps",
+    "shooter",
+    "singleplayer",
+    "horror",
+    "first-person",
+    "violent",
+    "gun-customization",
+    "combat",
+    "crime",
+    "gore",
+    "modern",
+    "atmospheric",
+    "co-op-campaign",
+    "vr"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "German",
+    "Korean",
+    "Simplified Chinese",
+    "Italian",
+    "Spanish - Spain",
+    "Japanese",
+    "Polish",
+    "Portuguese - Portugal",
+    "Turkish",
+    "Russian*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ReadyOrNot.exe",
+          "description": "Ready or Not (DirectX 12)",
+          "type": "option2"
+        },
+        {
+          "executable": "ReadyOrNot.exe",
+          "description": "Ready or Not (DirectX 11)",
+          "type": "option2"
+        },
+        {
+          "executable": "ReadyOrNot.exe",
+          "description": "Safe Mode (No Mods)",
+          "type": "option3"
+        },
+        {
+          "executable": "ReadyOrNot.exe",
+          "description": "Ready or Not (Localisation Testing)",
+          "type": "option2"
+        },
+        {
+          "executable": "Engine\\\\Binaries\\\\Win64\\\\CrashReporter.exe",
+          "description": "Clean Mods / Save Data",
+          "type": "config"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Ready or Not",
+    "ReadyOrNot",
+    "Engine\\\\Binaries\\\\Win64\\\\CrashReporter"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1144200/2ff04d6677a45dd95f0add718d646185539a82d8.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2f6ca7ad511531beb421122efb376141f068ebbb/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/13940ca73353102aaa286cedb06515efd37f12e5/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/a10f8fa7840976fd8a54749100dd6e28ba98778a/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/464e454e3a80914e8a19060f41a9be1a2a01ea6e/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/88aec4ee3fba8860070370032495e0c9ff87a607/ss_88aec4ee3fba8860070370032495e0c9ff87a607.1920x1080.jpg?t=1781703931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/8003fd0791fbaaef24bb3da768603eca92449a4d/ss_8003fd0791fbaaef24bb3da768603eca92449a4d.1920x1080.jpg?t=1781703931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/ss_795edc39907b6c6aba8db40fcb34cc0eb27f5547.1920x1080.jpg?t=1781703931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/29c4fc0ed7925fb34a32cbc95c4519311420f439/ss_29c4fc0ed7925fb34a32cbc95c4519311420f439.1920x1080.jpg?t=1781703931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/bbcb0ea9c2d360a3492af71ce3a4f07df2eb5b6e/ss_bbcb0ea9c2d360a3492af71ce3a4f07df2eb5b6e.1920x1080.jpg?t=1781703931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/ss_f0e0b11fa6f1bf6b436f1e17cd3f72f956180405.1920x1080.jpg?t=1781703931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/ss_873f74f54ca8ce5f4ac7d675563129417a1fd0c9.1920x1080.jpg?t=1781703931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/ss_4b928ab5fa37af0ef9d0cf0727e76d1a2cd5d6c1.1920x1080.jpg?t=1781703931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/987e58774c746af82402934262e23c887977ebe9/ss_987e58774c746af82402934262e23c887977ebe9.1920x1080.jpg?t=1781703931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/21c748dc43e90596677fac5e690ca2679c94bc7d/ss_21c748dc43e90596677fac5e690ca2679c94bc7d.1920x1080.jpg?t=1781703931"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/819d4272f95196ae9be6f1571fe03d9edccff17f/ss_819d4272f95196ae9be6f1571fe03d9edccff17f.1920x1080.jpg?t=1781703931"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Are you Ready?",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256987629/movie.293x165.jpg?t=1702510541",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1144200/638244/12f8bb50a5d59521ffec9607bd2b6df0ae6b16a5/1750627363/dash_h264.mpd?t=1702510541"
+    },
+    {
+      "name": "Streamer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256956326/movie.293x165.jpg?t=1688390709",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1144200/584012/a50e981798bfcaf98d7952e79e497f99c90f4756/1750628437/dash_h264.mpd?t=1688390709"
+    },
+    {
+      "name": "Neon Tomb",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256923857/movie.293x165.jpg?t=1688390713",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1144200/526990/4f0ee613d625e8ec4939251d6299e99480c4b56a/1750627336/dash_h264.mpd?t=1688390713"
+    },
+    {
+      "name": "AI Update Teaser 2",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256894227/movie.293x165.jpg?t=1656646873",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1144200/476073/383fde27bb726787c64cd146b86b7e736fede00c/1750627316/dash_h264.mpd?t=1656646873"
+    },
+    {
+      "name": "ADAM Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256920171/movie.293x165.jpg?t=1688390717",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1144200/520545/e63e098eef2a34b02ab93aef160a3cc31fd59e1c/1750627330/dash_h264.mpd?t=1688390717"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1144200,
+    "store_url": "https://store.steampowered.com/app/1144200/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud"
+    ],
+    "tags": [
+      "Tactical",
+      "Realistic",
+      "FPS",
+      "Shooter",
+      "Multiplayer",
+      "Singleplayer",
+      "Co-op",
+      "Horror",
+      "First-Person",
+      "Action",
+      "Psychological Horror",
+      "Violent",
+      "Gun Customization",
+      "Combat",
+      "Crime",
+      "Gore",
+      "Modern",
+      "Atmospheric",
+      "Co-op Campaign",
+      "VR"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 263015,
+    "review_negative": 73006,
+    "review_total": 336021,
+    "review_positive_percent": 78.27
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "key": "space-hulk-deathwing-enhanced-edition",
+  "name": "Space Hulk: Deathwing - Enhanced Edition",
+  "description": "Space Hulk: Deathwing - Enhanced Edition is a First-Person Shooter based on Games Workshop’s cult classic board game set in Warhammer 40,000 universe. Expanding upon the original game, and featuring a host of new content, new features and a richer multiplayer mode.",
+  "developers": [
+    "Streum On Studio"
+  ],
+  "publishers": [
+    "Focus Entertainment"
+  ],
+  "release_date": "2018-05-22",
+  "website": "https://www.focus-home.com/games/space-hulk-deathwing-enhanced-edition",
+  "tags": [
+    "action",
+    "adventure",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "fps",
+    "shooter",
+    "first-person",
+    "violent",
+    "atmospheric",
+    "sci-fi",
+    "horror",
+    "gore",
+    "singleplayer",
+    "aliens",
+    "space",
+    "rpg",
+    "difficult",
+    "dating-sim",
+    "hack-and-slash"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "spanish",
+    "schinese",
+    "russian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SpaceHulkGame.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "SpaceHulkGame\\Binaries\\Win64\\SpaceHulkGame-Win64-Test.exe",
+          "description": "Test",
+          "type": "option1"
+        },
+        {
+          "executable": "SpaceHulkGame\\Binaries\\Win64\\SpaceHulkGame.exe",
+          "description": "Dev version (use for debug only)",
+          "type": "option1"
+        },
+        {
+          "executable": "SpaceHulkGame.exe",
+          "description": "Space Hulk: Deathwing - Enhanced Edition - Twitch Mode",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Space Hulk: Deathwing - Enhanced Edition",
+    "SpaceHulkGame",
+    "SpaceHulkGame\\Binaries\\Win64\\SpaceHulkGame-Win64-Test",
+    "SpaceHulkGame\\Binaries\\Win64\\SpaceHulkGame"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/816090/86232cd08fab0432c4d20ce16ea2dadd0e619fff.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/816090/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/816090/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/816090/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/816090/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/816090/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/816090/ss_536208610a885dea07f783754ab7dbb059de2627.1920x1080.jpg?t=1757163044"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/816090/ss_b905032bce19abcf28c9657a9a1039883178936a.1920x1080.jpg?t=1757163044"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/816090/ss_52ce2d5b26cbb8d71f56c7fbe2e86d1a4161cd61.1920x1080.jpg?t=1757163044"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/816090/ss_d6003190ee103afb4e3112df9999fd5982bf9c68.1920x1080.jpg?t=1757163044"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/816090/ss_058900c61b9fe58228357f5131275a7993c4381b.1920x1080.jpg?t=1757163044"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/816090/ss_90ff5262ac91f11ff3b1f51d74f3c54728fb632e.1920x1080.jpg?t=1757163044"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/816090/ss_19e92f342d7a58de58a1bfcb937ae6020ae3172d.1920x1080.jpg?t=1757163044"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/816090/ss_fb69cd6aafad883d047b8fdbf96441ae9b75f2ea.1920x1080.jpg?t=1757163044"
+    }
+  ],
+  "videos": [
+    {
+      "name": "SHDEE - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256717417/movie.293x165.jpg?t=1526976135",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/816090/163911/832d1d6a6d759f87a2aebd0161b084e9e324dd0a/1751148209/dash_h264.mpd?t=1526976135"
+    },
+    {
+      "name": "SHDEE - Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256714114/movie.293x165.jpg?t=1526976145",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/816090/157794/040052cfdc21a2181bdb74c6c80440f056cbd305/1751148206/dash_h264.mpd?t=1526976145"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 816090,
+    "store_url": "https://store.steampowered.com/app/816090/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Action",
+      "Co-op",
+      "FPS",
+      "Shooter",
+      "Online Co-Op",
+      "Adventure",
+      "Multiplayer",
+      "First-Person",
+      "Violent",
+      "Atmospheric",
+      "Sci-fi",
+      "Horror",
+      "Gore",
+      "Singleplayer",
+      "Aliens",
+      "Space",
+      "RPG",
+      "Difficult",
+      "Dating Sim",
+      "Hack and Slash"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 7787,
+    "review_negative": 3001,
+    "review_total": 10788,
+    "review_positive_percent": 72.18
+  }
+}

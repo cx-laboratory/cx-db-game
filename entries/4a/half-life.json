@@ -1,0 +1,203 @@
+{
+  "key": "half-life",
+  "name": "Half-Life",
+  "description": "Named Game of the Year by over 50 publications, Valve's debut title blends action and adventure with award-winning technology to create a frighteningly realistic world where players must think to survive. Also includes an exciting multiplayer mode that allows you to play against friends and enemies around the world.",
+  "developers": [
+    "Valve"
+  ],
+  "publishers": [
+    "Valve"
+  ],
+  "release_date": "1998-11-19",
+  "website": "http://www.half-life.com/",
+  "tags": [
+    "action",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "fps",
+    "classic",
+    "1990-s",
+    "sci-fi",
+    "singleplayer",
+    "shooter",
+    "first-person",
+    "aliens",
+    "silent-protagonist",
+    "story-rich",
+    "atmospheric",
+    "gore",
+    "retro",
+    "moddable",
+    "adventure",
+    "action-adventure",
+    "difficult"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English*",
+    "French*",
+    "German*",
+    "Italian*",
+    "Spanish - Spain*",
+    "Simplified Chinese*",
+    "Traditional Chinese*",
+    "Korean**languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "半衰期 (游戏)"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "hl.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "hl.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "hl.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Half-Life",
+    "hl",
+    "hl.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/70/95be6d131fc61f145797317ca437c9765f24b41c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/25bee0c9572a4f0dc4de6c773c54d067a4204760/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002354.1920x1080.jpg?t=1745368462"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002343.1920x1080.jpg?t=1745368462"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002342.1920x1080.jpg?t=1745368462"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002344.1920x1080.jpg?t=1745368462"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002345.1920x1080.jpg?t=1745368462"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002352.1920x1080.jpg?t=1745368462"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002347.1920x1080.jpg?t=1745368462"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002348.1920x1080.jpg?t=1745368462"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002349.1920x1080.jpg?t=1745368462"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002350.1920x1080.jpg?t=1745368462"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/0000002351.1920x1080.jpg?t=1745368462"
+    }
+  ],
+  "videos": [],
+  "metacritic": {
+    "score": 96,
+    "url": "https://www.metacritic.com/game/pc/half-life?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 70,
+    "store_url": "https://store.steampowered.com/app/70/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Full controller support",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Keyboard Only Option",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "FPS",
+      "Classic",
+      "1990's",
+      "Sci-fi",
+      "Singleplayer",
+      "Multiplayer",
+      "Shooter",
+      "Action",
+      "First-Person",
+      "Aliens",
+      "Silent Protagonist",
+      "Story Rich",
+      "Atmospheric",
+      "Gore",
+      "Retro",
+      "Moddable",
+      "Adventure",
+      "Action-Adventure",
+      "Difficult",
+      "PvP"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 156370,
+    "review_negative": 5660,
+    "review_total": 162030,
+    "review_positive_percent": 96.51
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "key": "ratchet-clank-rift-apart",
+  "name": "Ratchet & Clank: Rift Apart",
+  "description": "Blast your way through an interdimensional adventure with Ratchet and Clank – now on PC! Help them take on an evil emperor from another reality as you jump between action-packed worlds and beyond at hyper-speed!",
+  "developers": [
+    "Insomniac Games"
+  ],
+  "publishers": [
+    "PlayStation Publishing LLC"
+  ],
+  "release_date": "2023-07-26",
+  "website": "https://www.playstation.com/games/ratchet-and-clank-rift-apart/pc/",
+  "tags": [
+    "action",
+    "adventure",
+    "singleplayer",
+    "3d-platformer",
+    "action-adventure",
+    "third-person",
+    "family-friendly",
+    "third-person-shooter",
+    "sci-fi",
+    "platformer",
+    "cartoony",
+    "funny",
+    "shooter",
+    "story-rich",
+    "cute",
+    "colorful",
+    "open-world",
+    "female-protagonist",
+    "space",
+    "co-op"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "hungarian",
+    "czech",
+    "romanian",
+    "turkish",
+    "brazilian",
+    "greek",
+    "latam"
+  ],
+  "name_localized": {
+    "japanese": "ラチェット＆クランク パラレル・トラブル",
+    "portuguese": "Ratchet & Clank: Uma Dimensão à Parte",
+    "brazilian": "Ratchet & Clank: Em Uma Outra Dimensão",
+    "russian": "Ratchet & Clank: Сквозь миры",
+    "latam": "Ratchet & Clank: Una dimensión aparte",
+    "spanish": "Ratchet & Clank: Una dimensión aparte",
+    "turkish": "Ratchet & Clank: Ayrı Dünyalar",
+    "schinese": "瑞奇与叮当 时空跳转"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "RiftApart.exe",
+          "description": "Launch Ratchet & Clank: Rift Apart",
+          "type": "default"
+        },
+        {
+          "executable": "i29_steam_FinalDM.exe",
+          "description": "Launch Final with Debug menus",
+          "type": "default"
+        },
+        {
+          "executable": "i29_steam_Release.exe",
+          "description": "Launch Release",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Ratchet & Clank - Rift Apart/{64BitSteamID}/",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Ratchet & Clank: Rift Apart",
+    "RiftApart",
+    "i29_steam_FinalDM",
+    "i29_steam_Release",
+    "ラチェット＆クランク パラレル・トラブル",
+    "Ratchet & Clank: Uma Dimensão à Parte",
+    "Ratchet & Clank: Em Uma Outra Dimensão",
+    "Ratchet & Clank: Сквозь миры",
+    "Ratchet & Clank: Una dimensión aparte",
+    "Ratchet & Clank: Ayrı Dünyalar",
+    "瑞奇与叮当 时空跳转"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1895880/fb45bd6f3ddb7ff6c63af3387ac76b7c898ba791.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895880/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895880/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895880/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895880/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895880/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895880/ss_852202ce40cd9c558f7f732a9c2e23a6980bca6f.1920x1080.jpg?t=1750956328"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895880/ss_31b29f38b6c97cf8c4cd80936f2defd347a62091.1920x1080.jpg?t=1750956328"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895880/ss_5d2c999ecdccbc200121318b479bf0bdeb16b9b9.1920x1080.jpg?t=1750956328"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895880/ss_ba3c36a6efab13bae80058565deec546d8962594.1920x1080.jpg?t=1750956328"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895880/ss_4f1e2e27800876729f9656d52bcce1703d9c9418.1920x1080.jpg?t=1750956328"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895880/ss_13372af67343a2f2fc1332bc0b7a8e67db4a336b.1920x1080.jpg?t=1750956328"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895880/ss_e888821c56e93040c16524536a3ac496c116e504.1920x1080.jpg?t=1750956328"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895880/ss_d0d9b14098e8368c33f6e0b720de56944b56a2bc.1920x1080.jpg?t=1750956328"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer (EN-US)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256959863/movie.293x165.jpg?t=1690383390",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1895880/590492/d48d35f066a7eecee44530b4991ba8a276f2714d/1750740363/dash_h264.mpd?t=1690383390"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1895880,
+    "store_url": "https://store.steampowered.com/app/1895880/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Input API Support",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Adventure",
+      "Singleplayer",
+      "3D Platformer",
+      "Action-Adventure",
+      "Third Person",
+      "Family Friendly",
+      "Action",
+      "Third-Person Shooter",
+      "Sci-fi",
+      "Platformer",
+      "Cartoony",
+      "Funny",
+      "Shooter",
+      "Story Rich",
+      "Cute",
+      "Colorful",
+      "Open World",
+      "Female Protagonist",
+      "Space",
+      "Co-op"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 15899,
+    "review_negative": 1650,
+    "review_total": 17549,
+    "review_positive_percent": 90.6
+  }
+}

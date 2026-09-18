@@ -1,0 +1,225 @@
+{
+  "key": "surgeon-simulator",
+  "name": "Surgeon Simulator",
+  "description": "Surgeon Simulator is an over-the-top operation sim, stitching together pitch-black humour with life-saving surgery. Become Dr. Burke, a would-be surgeon with a less than conventional toolkit, as he performs procedures on patients including the Heavy from TF2! ...is that a hammer?",
+  "developers": [
+    "Bossa Studios"
+  ],
+  "publishers": [
+    "Infogrames"
+  ],
+  "release_date": "2013-04-20",
+  "website": "https://www.surgeonsim.com",
+  "tags": [
+    "action",
+    "indie",
+    "simulation",
+    "funny",
+    "physics",
+    "comedy",
+    "medical-sim",
+    "dark-humor",
+    "difficult",
+    "intentionally-awkward-controls",
+    "puzzle",
+    "vr",
+    "first-person",
+    "casual",
+    "aliens",
+    "singleplayer",
+    "dark",
+    "gore",
+    "great-soundtrack",
+    "multiplayer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ss2013.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "ss2013.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "ss2013.bin",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Surgeon Simulator",
+    "ss2013",
+    "ss2013.app",
+    "ss2013.bin"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/233720/77e5bb562902be4a5a49b114d7370138696b1595.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233720/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233720/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233720/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233720/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233720/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233720/ss_2649ec090dbd500cc561a1dce6d844a6068ce242.1920x1080.jpg?t=1773072184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233720/ss_02ee2afbc5c87558de81f440fd2cb0ef42139cb2.1920x1080.jpg?t=1773072184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233720/ss_1ae93f9b4ded474826a87dc024b7868a8a438941.1920x1080.jpg?t=1773072184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233720/ss_a9bbeb6fd23fcf73e71c090f4244ceeeb4f57699.1920x1080.jpg?t=1773072184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233720/ss_83f256e89834b86dbd8fcb9c30e67cdd20bd41fd.1920x1080.jpg?t=1773072184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233720/ss_f0664d17257794cd504d4cc85ffdbbd1a73e9f48.1920x1080.jpg?t=1773072184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233720/ss_a351431c011036b74c33d81747543743e89d4120.1920x1080.jpg?t=1773072184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233720/ss_f2343e0de5a72c826b736db2fc833102cb403c42.1920x1080.jpg?t=1773072184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233720/ss_d93919ad25d61c009a7674cb56b2aa708c097da6.1920x1080.jpg?t=1773072184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233720/ss_9eb216814ada2dd8b61855aac7b09c48e614263a.1920x1080.jpg?t=1773072184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233720/ss_d47d4762d04dc5bd1554d09005a0e0ba01e4b90c.1920x1080.jpg?t=1773072184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233720/ss_bf7243a6dc888758acfbcc2aced0a5bbf11601e6.1920x1080.jpg?t=1773072184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233720/ss_fd1f6447b72589bad832d6a3840deb5dad92b3f8.1920x1080.jpg?t=1773072184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233720/ss_c743ef9eb291d4fab4471b9c0a5250497a1be948.1920x1080.jpg?t=1773072184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233720/ss_bc664aedcdd0a6c94c9dbe5f05cc005e83de8c02.1920x1080.jpg?t=1773072184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233720/ss_fd9beca030922031fa223ca13fc34c49006a3046.1920x1080.jpg?t=1773072184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233720/ss_16b6a6b89d02e63c5544b30487da676d8d420dcf.1920x1080.jpg?t=1773072184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233720/ss_e2c12b99bc4140aad28d9e4a54bf7a8c608d4d73.1920x1080.jpg?t=1773072184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233720/ss_1ee75a32b703c822b893cfe6a07dc3c877624330.1920x1080.jpg?t=1773072184"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233720/ss_929565490602b11177c0733ef01cd663fa2951d4.1920x1080.jpg?t=1773072184"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Surgeon - Trailer Refresh 16.12.15",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256659208/movie.293x165.jpg?t=1450719122",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/233720/48904/a36c8f5bb61216128be3bd26828a178e61d4937a/1750491231/dash_h264.mpd?t=1450719122"
+    }
+  ],
+  "metacritic": {
+    "score": 71,
+    "url": "https://www.metacritic.com/game/pc/surgeon-simulator-2013?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 233720,
+    "store_url": "https://store.steampowered.com/app/233720/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Funny",
+      "Physics",
+      "Comedy",
+      "Medical Sim",
+      "Dark Humor",
+      "Indie",
+      "Difficult",
+      "Intentionally Awkward Controls",
+      "Puzzle",
+      "VR",
+      "First-Person",
+      "Casual",
+      "Aliens",
+      "Singleplayer",
+      "Dark",
+      "Action",
+      "Gore",
+      "Great Soundtrack",
+      "Multiplayer"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 13811,
+    "review_negative": 3056,
+    "review_total": 16867,
+    "review_positive_percent": 81.88
+  }
+}

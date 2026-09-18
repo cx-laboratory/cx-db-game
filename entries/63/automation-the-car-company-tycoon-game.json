@@ -1,0 +1,297 @@
+{
+  "key": "automation-the-car-company-tycoon-game",
+  "name": "Automation - The Car Company Tycoon Game",
+  "description": "Make your dream cars a reality with Automation’s unparalleled car and engine design tools. Gain a competitive edge through smart engineering and business decisions to help you build an automotive empire. Will you become an industry leader, or just a footnote in automotive history?",
+  "developers": [
+    "Camshaft Software Ltd"
+  ],
+  "publishers": [
+    "Camshaft Software Ltd"
+  ],
+  "release_date": "2015-03-13",
+  "website": "http://automationgame.com",
+  "tags": [
+    "indie",
+    "racing",
+    "simulation",
+    "strategy",
+    "early-access",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "management",
+    "building",
+    "sandbox",
+    "automobile-sim",
+    "realistic",
+    "crafting",
+    "moddable",
+    "education",
+    "automation",
+    "economy",
+    "science",
+    "singleplayer",
+    "physics",
+    "replay-value",
+    "immersive-sim"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Polish",
+    "Italian",
+    "Japanese",
+    "Portuguese - Brazil",
+    "Portuguese - Portugal",
+    "Russian",
+    "Simplified Chinese",
+    "Turkish",
+    "Indonesian*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "自动化：汽车公司大亨"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Automation_Shipping_Steam.exe",
+          "description": "Play Legacy Automation (Kee Version)",
+          "type": "default"
+        },
+        {
+          "executable": "UE424/AutomationGame/Binaries/Win64/AutomationGame-Win64-Shipping.exe",
+          "description": "Play Legacy Version",
+          "type": "default"
+        },
+        {
+          "executable": "UE424/AutomationGame/Binaries/Win32/AutomationGame-Win32-Shipping.exe",
+          "description": "Play Legacy Version",
+          "type": "default"
+        },
+        {
+          "executable": "UE427/AutomationGame/Binaries/Win64/AutomationGame-Win64-Shipping.exe",
+          "description": "Play Automation",
+          "type": "default"
+        },
+        {
+          "executable": "Automation Launcher Steam.exe",
+          "description": "Troubleshooting Tool",
+          "type": "default"
+        },
+        {
+          "executable": "UE421/AutomationGame/Binaries/Win64/AutomationGame-Win64-Shipping.exe",
+          "description": "Launch UE421",
+          "type": "default"
+        },
+        {
+          "executable": "Automation Launcher Steam.exe",
+          "description": "Launcher UE421",
+          "type": "default"
+        },
+        {
+          "executable": "TrackBuilder/TrackBuilder.exe",
+          "description": "Track Builder",
+          "type": "default"
+        },
+        {
+          "executable": "TrackBuilder/TrackBuilder.exe",
+          "description": "Track Builder",
+          "type": "default"
+        },
+        {
+          "executable": "WindowsNoEditor/AutomationGame/Binaries/Win64/AutomationGame.exe",
+          "description": "Development Build Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Automation - The Car Company Tycoon Game",
+    "Automation_Shipping_Steam",
+    "UE424/AutomationGame/Binaries/Win64/AutomationGame-Win64-Shipping",
+    "UE424/AutomationGame/Binaries/Win32/AutomationGame-Win32-Shipping",
+    "UE427/AutomationGame/Binaries/Win64/AutomationGame-Win64-Shipping",
+    "Automation Launcher Steam",
+    "UE421/AutomationGame/Binaries/Win64/AutomationGame-Win64-Shipping",
+    "TrackBuilder/TrackBuilder",
+    "WindowsNoEditor/AutomationGame/Binaries/Win64/AutomationGame"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/293760/122c5b0d86f1c5eb80243d63abb22999061dc414.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/02f9dd0ca23ad63eb9db71527abafd3a3833e19a/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/924f877c652326f568c8ef9d59fbd690f02d9bec/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/e37600388902c0f7c316b5873280d0ed9c3290c9/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/95a3164efdadcef9005dda7d7eb7b0173fe992e1/ss_95a3164efdadcef9005dda7d7eb7b0173fe992e1.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/3ef3a25c534cd2517b04d2019af55b281a489b10/ss_3ef3a25c534cd2517b04d2019af55b281a489b10.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/13ae97ca68d8d3ad3925f5a70701bfdebebc4497/ss_13ae97ca68d8d3ad3925f5a70701bfdebebc4497.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/8a24f450838dbeb1fee705ada2a60e5c47514d08/ss_8a24f450838dbeb1fee705ada2a60e5c47514d08.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/0178e3c9a820db950d9a24b70cafa0a157919055/ss_0178e3c9a820db950d9a24b70cafa0a157919055.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/48167743fbc67a1031c623676427ae1e0baff31f/ss_48167743fbc67a1031c623676427ae1e0baff31f.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/ss_c3a373c036c8270d1fdea32a447bc1305449fdcb.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/ss_7bb6238f4d618101fa4e0e1b206f3d8a627cc1fc.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/9e51b2c900483a85333f7425a3f9119d1250251e/ss_9e51b2c900483a85333f7425a3f9119d1250251e.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/50d0e2800f19d820a4b312df5a08dbbd02341927/ss_50d0e2800f19d820a4b312df5a08dbbd02341927.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/929199ff136260ed4a646cd9ff29cfbe09a60ddd/ss_929199ff136260ed4a646cd9ff29cfbe09a60ddd.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/6904e459f2d57b072431cb7a007fa032a845787e/ss_6904e459f2d57b072431cb7a007fa032a845787e.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/436291f868b2e61aae67aaea87c198ebc7d3a3b3/ss_436291f868b2e61aae67aaea87c198ebc7d3a3b3.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/ea9c77b7932ec8d516663da210b43f60d9714e97/ss_ea9c77b7932ec8d516663da210b43f60d9714e97.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/b27796125607a63cc761c7870d1a4689acb3dce8/ss_b27796125607a63cc761c7870d1a4689acb3dce8.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/ca16cb4a410b6800a9688dc6879a41e70a40b93c/ss_ca16cb4a410b6800a9688dc6879a41e70a40b93c.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/fa9cc067494e1561b21739db1becfc3625d5fa2b/ss_fa9cc067494e1561b21739db1becfc3625d5fa2b.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/a53a9b74f598729c929a3e5dda03fb1e9eaa34a3/ss_a53a9b74f598729c929a3e5dda03fb1e9eaa34a3.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/37e4ddbd2c441aced280b73678c32a364bc4532f/ss_37e4ddbd2c441aced280b73678c32a364bc4532f.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/7f71b3d7a4a86586ee67baf3d617fe7faac3ec4b/ss_7f71b3d7a4a86586ee67baf3d617fe7faac3ec4b.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/a4e7b0f1b69a8c7d9d8ee62008d8f7dc7ed1f991/ss_a4e7b0f1b69a8c7d9d8ee62008d8f7dc7ed1f991.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/5f46163b129a2f2df75f2505478f814cb4be9667/ss_5f46163b129a2f2df75f2505478f814cb4be9667.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/7b49110299c844c77932d48d02ddea49e064e39e/ss_7b49110299c844c77932d48d02ddea49e064e39e.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/7da42bf8325fe622947ee665c1279b13439ec54c/ss_7da42bf8325fe622947ee665c1279b13439ec54c.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/47453410b2fd935b0af34b056f2eff65943f58b2/ss_47453410b2fd935b0af34b056f2eff65943f58b2.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/48b4a3490b32247f0256a02009f2cdf3c9119424/ss_48b4a3490b32247f0256a02009f2cdf3c9119424.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/12af66c4056b1ce8f1fbb351523c4f4264ffb258/ss_12af66c4056b1ce8f1fbb351523c4f4264ffb258.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/8ca627b935639cb8a3e3c969b9ae5c5a315fd8ff/ss_8ca627b935639cb8a3e3c969b9ae5c5a315fd8ff.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/42ac8f4bb25e405a9a14027c0a64130ae1069d56/ss_42ac8f4bb25e405a9a14027c0a64130ae1069d56.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/37c3f848f9e0db29ef80fec1928b35645a8c3ad9/ss_37c3f848f9e0db29ef80fec1928b35645a8c3ad9.1920x1080.jpg?t=1766012305"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/30a2961a3c2b338e4886b626da058d3f8d974aca/ss_30a2961a3c2b338e4886b626da058d3f8d974aca.1920x1080.jpg?t=1766012305"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Engine and Car Design Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256729572/movie.293x165.jpg?t=1687309524",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/293760/185743/f793f303b9b543c5e8177f331f1affc965e5a89e/1750502913/dash_h264.mpd?t=1687309524"
+    },
+    {
+      "name": "Drive Your Cars in BeamNG.drive",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256723648/movie.293x165.jpg?t=1687309519",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/293760/175065/f561925878d64909aff2320e68d0d2331c6a07e8/1750502896/dash_h264.mpd?t=1687309519"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 293760,
+    "store_url": "https://store.steampowered.com/app/293760/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Racing",
+      "Simulation",
+      "Strategy",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Management",
+      "Building",
+      "Sandbox",
+      "Automobile Sim",
+      "Realistic",
+      "Crafting",
+      "Strategy",
+      "Early Access",
+      "Moddable",
+      "Education",
+      "Racing",
+      "Indie",
+      "Automation",
+      "Economy",
+      "Science",
+      "Singleplayer",
+      "Physics",
+      "Replay Value",
+      "Immersive Sim"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 16476,
+    "review_negative": 1081,
+    "review_total": 17557,
+    "review_positive_percent": 93.84
+  }
+}

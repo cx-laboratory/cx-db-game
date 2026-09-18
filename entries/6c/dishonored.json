@@ -1,0 +1,118 @@
+{
+  "key": "dishonored",
+  "name": "Dishonored",
+  "description": "Dishonored is an immersive first-person action game that casts you as a supernatural assassin driven by revenge. With Dishonored’s flexible combat system, creatively eliminate your targets as you combine the supernatural abilities, weapons and unusual gadgets at your disposal.",
+  "developers": [
+    "Arkane Studios"
+  ],
+  "publishers": [
+    "Bethesda Softworks"
+  ],
+  "release_date": "2012-10-12",
+  "website": "http://www.dishonored.com",
+  "tags": [
+    "action",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Binaries/Win32/Dishonored.exe",
+          "description": "Dishonored",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Dishonored",
+    "Binaries/Win32/Dishonored"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/205100/74f8ee1ba536e0759e64a9bf801fc013e16c8dd1.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/ss_409bb8591d4c8278815510d9be737b57dfc57e06.1920x1080.jpg?t=1783183937"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/ss_32d76a6ff4b216410b90ff2cdb7107a28a1baed2.1920x1080.jpg?t=1783183937"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/ss_fd7613fa1b8f19674cc0b4cd53db39c9618641fd.1920x1080.jpg?t=1783183937"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/ss_8d26f4f83fb598eed36bdb0c6ecb41962a64ccf7.1920x1080.jpg?t=1783183937"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/ss_e6f960fda9132baa23aca305359064dbc1b6f507.1920x1080.jpg?t=1783183937"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/ss_30e0328295a5d208283e69eb382fac2fa94809a8.1920x1080.jpg?t=1783183937"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Dishonored Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81912/movie.293x165.jpg?t=1447356365",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/205100/8530/d405a06b8713b1cce35c8d970f32cfc5730e915a/1750492833/dash_h264.mpd?t=1447356365"
+    }
+  ],
+  "metacritic": {
+    "score": 91,
+    "url": "https://www.metacritic.com/game/pc/dishonored?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 205100,
+    "store_url": "https://store.steampowered.com/app/205100/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Color Alternatives",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Surround Sound",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 84514,
+    "review_negative": 2054,
+    "review_total": 86568,
+    "review_positive_percent": 97.63
+  }
+}

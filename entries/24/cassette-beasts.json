@@ -1,0 +1,292 @@
+{
+  "key": "cassette-beasts",
+  "name": "Cassette Beasts",
+  "description": "Collect awesome monsters to use during turn-based battles in this open-world RPG, now with online multiplayer mode. Combine any two monster forms using Cassette Beasts’ Fusion System to create unique and powerful new ones!",
+  "developers": [
+    "Bytten Studio"
+  ],
+  "publishers": [
+    "Raw Fury"
+  ],
+  "release_date": "2023-04-26",
+  "website": "https://www.cassettebeasts.com",
+  "tags": [
+    "indie",
+    "rpg",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "split-screen",
+    "creature-collector",
+    "turn-based-combat",
+    "party-based-rpg",
+    "jrpg",
+    "adventure",
+    "exploration",
+    "3d",
+    "comedy",
+    "lore-rich",
+    "story-rich",
+    "collectathon",
+    "pixel-graphics",
+    "tactical-rpg",
+    "anime",
+    "colorful",
+    "open-world",
+    "relaxing",
+    "retro"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "japanese",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "Cassette Beasts 磁带妖怪",
+    "tchinese": "Cassette Beasts 磁帶怪獸",
+    "japanese": "Cassette Beasts カセット ビースト",
+    "koreana": "Cassette Beasts 카세트 비스트"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "CassetteBeasts.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "CassetteBeasts.exe",
+          "description": "Cassette Beasts With Mods",
+          "type": "option1"
+        },
+        {
+          "executable": "WorkshopUtility.exe",
+          "description": "",
+          "type": "editor"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "LinuxXdgDataHome",
+          "path": "CassetteBeasts",
+          "pattern": "*.png",
+          "recursive": false
+        },
+        {
+          "root": "LinuxXdgDataHome",
+          "path": "CassetteBeasts",
+          "pattern": "*.json.gz.gcpf",
+          "recursive": false
+        },
+        {
+          "root": "LinuxXdgDataHome",
+          "path": "CassetteBeasts",
+          "pattern": "*.json.gz.gcpf1",
+          "recursive": false
+        },
+        {
+          "root": "LinuxXdgDataHome",
+          "path": "CassetteBeasts",
+          "pattern": "*.json.gz.gcpf2",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "CassetteBeasts.x86_64",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "CassetteBeasts.x86_64",
+          "description": "Cassette Beasts With Mods",
+          "type": "option1"
+        },
+        {
+          "executable": "WorkshopUtility.x86_64",
+          "description": "",
+          "type": "editor"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "LinuxXdgDataHome",
+          "path": "CassetteBeasts",
+          "pattern": "*.png",
+          "recursive": false
+        },
+        {
+          "root": "LinuxXdgDataHome",
+          "path": "CassetteBeasts",
+          "pattern": "*.json.gz.gcpf",
+          "recursive": false
+        },
+        {
+          "root": "LinuxXdgDataHome",
+          "path": "CassetteBeasts",
+          "pattern": "*.json.gz.gcpf1",
+          "recursive": false
+        },
+        {
+          "root": "LinuxXdgDataHome",
+          "path": "CassetteBeasts",
+          "pattern": "*.json.gz.gcpf2",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Cassette Beasts",
+    "CassetteBeasts",
+    "WorkshopUtility",
+    "CassetteBeasts.x86_64",
+    "WorkshopUtility.x86_64",
+    "Cassette Beasts 磁带妖怪",
+    "Cassette Beasts 磁帶怪獸",
+    "Cassette Beasts カセット ビースト",
+    "Cassette Beasts 카세트 비스트"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1321440/025b36a9292a681265ffd1313d6041510d899db1.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321440/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321440/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321440/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321440/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321440/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321440/ss_8c6d904950b675f8cb2e0255a1f5b06d7898bc5b.1920x1080.jpg?t=1782455608"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321440/ss_580f8e3d83ab9357cface16e0272eb541f51984e.1920x1080.jpg?t=1782455608"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321440/ss_aaa30fb9959b16d8026ac1e83a3bb0e8c591ed8b.1920x1080.jpg?t=1782455608"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321440/ss_4b4231e199091054d443b319f97811646fbab9d4.1920x1080.jpg?t=1782455608"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321440/ss_e06730aacd65dbeb420adbc7dcdb71226ea979aa.1920x1080.jpg?t=1782455608"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321440/ss_ab46d3e31213f572e72b7284ef7fad1fc1bcf8d1.1920x1080.jpg?t=1782455608"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321440/ss_bc1c98e4072a2eb8460f5c79dd7e98fcd97d2452.1920x1080.jpg?t=1782455608"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321440/ss_4827bdcc9c85974fed63970ef4677e3ab14ef217.1920x1080.jpg?t=1782455608"
+    }
+  ],
+  "videos": [
+    {
+      "name": "1.8 The Sunshine Update - Now Available",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257123015/797b0dad0db3889735899f159b03479f63fa1c79/movie_600x337.jpg?t=1744030730",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1321440/865040/21766e903f81fbf21aecbe44f60fd4d53b2703ee/1750672163/dash_h264.mpd?t=1744030730"
+    },
+    {
+      "name": "The Gauntlet Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257067401/9af176fd5578f2c9ef26e320224090a09ceba3d6/movie_600x337.jpg?t=1730990527",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1321440/775529/9d523b768b81880dba085745e06e96e6b2435f4b/1750672139/dash_h264.mpd?t=1730990527"
+    },
+    {
+      "name": "Multiplayer Out Now Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257023235/movie.293x165.jpg?t=1716210606",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1321440/700199/bc8e45337fb28bdf972edf18424af3d82976f72f/1750672133/dash_h264.mpd?t=1716210606"
+    },
+    {
+      "name": "Cassette Beasts | Launch trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256943017/movie.293x165.jpg?t=1682521206",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1321440/561173/4b143f1d5abe76632d87f1b02030aa3d02f5f684/1750671962/dash_h264.mpd?t=1682521206"
+    },
+    {
+      "name": "Cassette Beasts | How to record",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256938364/movie.293x165.jpg?t=1682521213",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1321440/552904/e9ae9419d3961d1d84cdc962ecfbe1d324a5c71c/1750671955/dash_h264.mpd?t=1682521213"
+    },
+    {
+      "name": "Cassette Beasts | Fusion System Highlight",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256891006/movie.293x165.jpg?t=1682521220",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1321440/470727/9ed7de961da99bc9386515bea8204c234bafcef4/1750671951/dash_h264.mpd?t=1682521220"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1321440,
+    "store_url": "https://store.steampowered.com/app/1321440/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Creature Collector",
+      "Turn-Based Combat",
+      "Party-Based RPG",
+      "JRPG",
+      "Adventure",
+      "Exploration",
+      "RPG",
+      "3D",
+      "Comedy",
+      "Lore-Rich",
+      "Story Rich",
+      "Collectathon",
+      "Pixel Graphics",
+      "Tactical RPG",
+      "Anime",
+      "Colorful",
+      "Co-op",
+      "Open World",
+      "Relaxing",
+      "Retro"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 10219,
+    "review_negative": 636,
+    "review_total": 10855,
+    "review_positive_percent": 94.14
+  }
+}

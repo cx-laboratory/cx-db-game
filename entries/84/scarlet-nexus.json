@@ -1,0 +1,208 @@
+{
+  "key": "scarlet-nexus",
+  "name": "SCARLET NEXUS",
+  "description": "Choose between Yuito and Kasane, elite psionics each armed with a talent in psychokinesis and their own reason to fight. Complete both of their stories to unlock all the mysteries of a Brain Punk future caught between technology and psychic abilities.",
+  "developers": [
+    "BANDAI NAMCO Studios Inc."
+  ],
+  "publishers": [
+    "BANDAI NAMCO Entertainment"
+  ],
+  "release_date": "2021-06-25",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure",
+    "rpg",
+    "anime",
+    "jrpg",
+    "action-rpg",
+    "sci-fi",
+    "action-adventure",
+    "combat",
+    "character-action-game",
+    "open-world",
+    "fighting",
+    "fantasy",
+    "interactive-fiction",
+    "futuristic",
+    "character-customization",
+    "singleplayer",
+    "strategy-rpg",
+    "hack-and-slash",
+    "souls-like"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "tchinese": "緋紅結繫",
+    "schinese": "绯红结系",
+    "koreana": "스칼렛 스트링스"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ScarletNexus.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "BANDAI NAMCO Entertainment/SCARLET NEXUS/Saved/SaveGames/{Steam3AccountID}/",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "SCARLET NEXUS",
+    "ScarletNexus",
+    "緋紅結繫",
+    "绯红结系",
+    "스칼렛 스트링스"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/775500/f4ef5c4520ae18b98acd229ae84f1fb4d4efdc72.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775500/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775500/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775500/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775500/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775500/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775500/ss_19a0a0a12d89ce5156aab7a748af036c6083fd49.1920x1080.jpg?t=1703662938"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775500/ss_1120f94885d497869ad027f248b57eb8d277ccc1.1920x1080.jpg?t=1703662938"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775500/ss_16d428525362bcd1c4d3900ecad83e043b67cea8.1920x1080.jpg?t=1703662938"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775500/ss_2ad08a0b32971ef1d86d77a846721a79ec84cc48.1920x1080.jpg?t=1703662938"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775500/ss_09aac908454440a65de7469ce9b4054fa72d5b1c.1920x1080.jpg?t=1703662938"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775500/ss_4be8a6f55ae219d610bf172cff362508c80022a7.1920x1080.jpg?t=1703662938"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775500/ss_f66893243d81d15beb468be34fa95a503f7e40f7.1920x1080.jpg?t=1703662938"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775500/ss_158122b6673bf8bb6f8da853191096375685134d.1920x1080.jpg?t=1703662938"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775500/ss_7b0df509656ccd798b7f5aebde47a7c087c51827.1920x1080.jpg?t=1703662938"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775500/ss_90f7e83e600fbf3c51a1171ac6c1e998bd669b30.1920x1080.jpg?t=1703662938"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775500/ss_cb6ad65e710f494aa32a155e77750a224a058560.1920x1080.jpg?t=1703662938"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775500/ss_edd81e1d09d0ca344e2137634fc0647fe1624683.1920x1080.jpg?t=1703662938"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775500/ss_a0e759f1cc4681c4b82f212dcadae34a13e67d8b.1920x1080.jpg?t=1703662938"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775500/ss_96ed9441aefce6f3678e005822c1a8a13c9a5940.1920x1080.jpg?t=1703662938"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775500/ss_9d262f27d774a504015864c59389a17b74cd0ef8.1920x1080.jpg?t=1703662938"
+    }
+  ],
+  "videos": [
+    {
+      "name": "SNX_Accolades_ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256854654/movie.293x165.jpg?t=1633485494",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/775500/406869/089739c56add840371b1bbc57e2a6e36ba86b1b0/1751143342/dash_h264.mpd?t=1633485494"
+    },
+    {
+      "name": "Scarlet Nexus - Trailer [ESRB]",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256803355/movie.293x165.jpg?t=1616116456",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/775500/316456/66b22f3a43c1e9d807392c0c703606fa746d4137/1751143342/dash_h264.mpd?t=1616116456"
+    }
+  ],
+  "metacritic": {
+    "score": 78,
+    "url": "https://www.metacritic.com/game/pc/scarlet-nexus?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 775500,
+    "store_url": "https://store.steampowered.com/app/775500/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Anime",
+      "Action",
+      "RPG",
+      "JRPG",
+      "Action RPG",
+      "Adventure",
+      "Sci-fi",
+      "Action-Adventure",
+      "Combat",
+      "Character Action Game",
+      "Open World",
+      "Fighting",
+      "Fantasy",
+      "Interactive Fiction",
+      "Futuristic",
+      "Character Customization",
+      "Singleplayer",
+      "Strategy RPG",
+      "Hack and Slash",
+      "Souls-like"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 14544,
+    "review_negative": 3544,
+    "review_total": 18088,
+    "review_positive_percent": 80.41
+  }
+}

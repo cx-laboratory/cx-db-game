@@ -1,0 +1,235 @@
+{
+  "key": "forts",
+  "name": "Forts",
+  "description": "Unleash your creativity and strategic prowess in Forts, the exhilarating physics-based RTS! Design, construct, and customize imposing fortresses, bristling with devastating firepower, and blast your opponent’s buildings to rubble!",
+  "developers": [
+    "EarthWork Games"
+  ],
+  "publishers": [
+    "EarthWork Games"
+  ],
+  "release_date": "2017-04-19",
+  "website": "http://www.earthworkgames.com",
+  "tags": [
+    "action",
+    "indie",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "base-building",
+    "physics",
+    "destruction",
+    "building",
+    "sandbox",
+    "moddable",
+    "military",
+    "2d",
+    "tactical",
+    "memes",
+    "singleplayer",
+    "funny",
+    "level-editor",
+    "retro",
+    "pixel-graphics",
+    "lemmings"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "hungarian",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "要塞"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Forts.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "users/{64BitSteamID}",
+          "pattern": "settings.lua",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "users/{64BitSteamID}",
+          "pattern": "keys.lua",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "users/{64BitSteamID}/campaigns",
+          "pattern": "*.lua",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "users/{64BitSteamID}/campaigns",
+          "pattern": "*.fgs",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "users/{64BitSteamID}/campaigns",
+          "pattern": "*.rkf",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "users/{64BitSteamID}/campaigns",
+          "pattern": "*.bak",
+          "recursive": true
+        },
+        {
+          "root": "gameinstall",
+          "path": "users/{64BitSteamID}",
+          "pattern": "trainingMapProgress.lua",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Forts"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/410900/6f66ef3d1d16c7ce05df792b879f9a799221e3da.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410900/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410900/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410900/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410900/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410900/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410900/ss_9a9d74dd4328d836d8a57d12896e5901e51d78b5.1920x1080.jpg?t=1781628271"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410900/ss_0b80e2fd2aba26da62f70b7a4f1ed6bb426c5a04.1920x1080.jpg?t=1781628271"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410900/ss_8e5ef34600fa1d546ca45d39e8d6793356b827fc.1920x1080.jpg?t=1781628271"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410900/ss_0b136f4a5d18d17a6b6411677e3d149921b833de.1920x1080.jpg?t=1781628271"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410900/ss_89cd3eefae8c780525cc13e0844bd3212ba5954f.1920x1080.jpg?t=1781628271"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410900/ss_0083c0568df3642ff0cea7011438c34cbd929ee0.1920x1080.jpg?t=1781628271"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410900/ss_09edc7550241c1f31a35700a57a58c031db866c9.1920x1080.jpg?t=1781628271"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410900/ss_bdcce731efd3af9bca1cb8862f26d06f19dd2699.1920x1080.jpg?t=1781628271"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410900/ss_d018f5af2b82e180d8a2c742325a0c265a68761a.1920x1080.jpg?t=1781628271"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410900/ss_d6371cf0758ab9d55683c49ae2dc497caa9d32e9.1920x1080.jpg?t=1781628271"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410900/ss_1b1a1627397563165fe1e1559f5ac2c571aca165.1920x1080.jpg?t=1781628271"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Forts Trailer 2023",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256952533/623dbffaa0c99afa6041a87059403049d91766db/movie_600x337.jpg?t=1756650833",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/410900/853232179/486072830e9cfd0fe3cc174fcbd4e88a60fb87ab/1756649462/dash_h264.mpd?t=1756650833"
+    }
+  ],
+  "metacritic": {
+    "score": 74,
+    "url": "https://www.metacritic.com/game/pc/forts?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 410900,
+    "store_url": "https://store.steampowered.com/app/410900/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Base Building",
+      "Multiplayer",
+      "Strategy",
+      "Physics",
+      "Destruction",
+      "Building",
+      "Sandbox",
+      "Moddable",
+      "Military",
+      "2D",
+      "Action",
+      "Tactical",
+      "Memes",
+      "Singleplayer",
+      "Funny",
+      "Level Editor",
+      "Indie",
+      "Retro",
+      "Pixel Graphics",
+      "Lemmings"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 22989,
+    "review_negative": 2021,
+    "review_total": 25010,
+    "review_positive_percent": 91.92
+  }
+}

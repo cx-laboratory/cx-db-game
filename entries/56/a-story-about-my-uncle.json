@@ -1,0 +1,191 @@
+{
+  "key": "a-story-about-my-uncle",
+  "name": "A Story About My Uncle",
+  "description": "A Story About My Uncle is a first person platforming adventure game about a boy who searches for his lost uncle, and ends up in a world he couldn’t imagine existed. The movement is a crucial part of the games core gameplay – focusing on swinging through the world with a grappling hook that gives the player a wonderful sense of speed and...",
+  "developers": [
+    "Gone North Games"
+  ],
+  "publishers": [
+    "Coffee Stain Publishing"
+  ],
+  "release_date": "2014-05-29",
+  "website": "http://gonenorthgames.com/games/a-story-about-my-uncle/",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "first-person",
+    "parkour",
+    "singleplayer",
+    "atmospheric",
+    "platformer",
+    "story-rich",
+    "3d-platformer",
+    "puzzle",
+    "fantasy",
+    "short",
+    "sci-fi",
+    "relaxing",
+    "action",
+    "family-friendly",
+    "difficult",
+    "great-soundtrack",
+    "multiplayer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "polish"
+  ],
+  "name_localized": {
+    "schinese": "叔叔的故事"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Binaries/Win32/ASAMU-Win32-Shipping.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "A Story About My Uncle.app/Contents/MacOS/ASAMU",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Binaries/linux-x86/ASAMU",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "/Binaries/linux-amd64/ASAMU",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "A Story About My Uncle",
+    "Binaries/Win32/ASAMU-Win32-Shipping",
+    "A Story About My Uncle.app/Contents/MacOS/ASAMU",
+    "Binaries/linux-x86/ASAMU",
+    "/Binaries/linux-amd64/ASAMU"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/278360/feb33a53334222c82aaf0545e00913bd92bcd3d9.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/278360/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/278360/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/278360/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/278360/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/278360/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/278360/ss_c1e028877064894a0d11f4825cf63fb41d912699.1920x1080.jpg?t=1589403981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/278360/ss_bf2d7726b9def889c8c1aeb661fc7989f9dfeffe.1920x1080.jpg?t=1589403981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/278360/ss_24afe989170ee7f81787ae20d114ff27ac383dae.1920x1080.jpg?t=1589403981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/278360/ss_95f408e9978a237b93b8440b5415cbcfa222f456.1920x1080.jpg?t=1589403981"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/278360/ss_712129527b63bfa578f73d10b0c89a583d68d858.1920x1080.jpg?t=1589403981"
+    }
+  ],
+  "videos": [
+    {
+      "name": "A Story About My Uncle - Official Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2032356/movie.293x165.jpg?t=1447361857",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/278360/20778/eeaaefe81c40a822f73ed7a6373bf312826a7fea/1750488607/dash_h264.mpd?t=1447361857"
+    },
+    {
+      "name": "A Story About My Uncle - Teaser Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2032141/movie.293x165.jpg?t=1447361682",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/278360/20329/40b78d20c784b1458592ccd199823bdd14020cd5/1750488593/dash_h264.mpd?t=1447361682"
+    },
+    {
+      "name": "A Story About My Uncle - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2032619/movie.293x165.jpg?t=1447362137",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/278360/21430/f54cf7364555f9a689a9c9f76bb667a38a16bc04/1750488618/dash_h264.mpd?t=1447362137"
+    }
+  ],
+  "metacritic": {
+    "score": 73,
+    "url": "https://www.metacritic.com/game/pc/a-story-about-my-uncle?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 278360,
+    "store_url": "https://store.steampowered.com/app/278360/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Adventure",
+      "First-Person",
+      "Parkour",
+      "Singleplayer",
+      "Indie",
+      "Atmospheric",
+      "Platformer",
+      "Story Rich",
+      "3D Platformer",
+      "Puzzle",
+      "Fantasy",
+      "Casual",
+      "Short",
+      "Sci-fi",
+      "Relaxing",
+      "Action",
+      "Family Friendly",
+      "Difficult",
+      "Great Soundtrack",
+      "Multiplayer"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 26739,
+    "review_negative": 2477,
+    "review_total": 29216,
+    "review_positive_percent": 91.52
+  }
+}

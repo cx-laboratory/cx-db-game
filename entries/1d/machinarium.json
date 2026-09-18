@@ -1,0 +1,241 @@
+{
+  "key": "machinarium",
+  "name": "Machinarium",
+  "description": "Machinarium is the award-winning independent adventure game developed by the makers of Samorost series, Botanicula and CHUCHEL. Help Josef the robot save his girlfriend Berta kidnapped by the Black Cap Brotherhood gang!",
+  "developers": [
+    "Amanita Design"
+  ],
+  "publishers": [
+    "Amanita Design"
+  ],
+  "release_date": "2009-10-16",
+  "website": "http://amanita-design.net/games/machinarium.html",
+  "tags": [
+    "adventure",
+    "indie",
+    "point-and-click",
+    "puzzle",
+    "hand-drawn",
+    "robots",
+    "steampunk",
+    "2d",
+    "atmospheric",
+    "story-rich",
+    "casual",
+    "cute",
+    "family-friendly",
+    "surreal",
+    "stylized",
+    "sci-fi",
+    "linear",
+    "singleplayer",
+    "great-soundtrack",
+    "touch-friendly"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "hungarian",
+    "czech",
+    "turkish",
+    "arabic",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "机械迷城 (Machinarium)",
+    "tchinese": "機械迷城 (Machinarium)",
+    "japanese": "Machinarium  (マシナリウム)",
+    "koreana": "Machinarium (머시나리움)"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Machinarium.exe",
+          "description": "Play with OpenGL (Default)",
+          "type": "default"
+        },
+        {
+          "executable": "Machinarium Art Book\\Machinarium Art Book.pdf",
+          "description": "View Machinarium Art Book (DLC)",
+          "type": "none"
+        },
+        {
+          "executable": "Machinarium Soundtrack + Bonus EP MP3\\Tomas Dvorak - Machinarium Soundtrack + Bonus EP.m3u",
+          "description": "Play Machinarium Soundtrack + Bonus EP (DLC)",
+          "type": "none"
+        },
+        {
+          "executable": "Machinarium_old_32bit_DX9.exe",
+          "description": "Play with DirectX 9",
+          "type": "default"
+        },
+        {
+          "executable": "Machinarium.exe",
+          "description": "Play with DirectX 12",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Machinarium.app",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "OSX_Open-ArtBook.sh",
+          "description": "View Machinarium Art Book (DLC)",
+          "type": "none"
+        },
+        {
+          "executable": "OSX_Play-Soundtrack.sh",
+          "description": "Play Machinarium Soundtrack + Bonus EP (DLC)",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Machinarium",
+    "Machinarium Art Book\\Machinarium Art Book.pdf",
+    "Machinarium Soundtrack + Bonus EP MP3\\Tomas Dvorak - Machinarium Soundtrack + Bonus EP.m3u",
+    "Machinarium_old_32bit_DX9",
+    "Machinarium.app",
+    "OSX_Open-ArtBook.sh",
+    "OSX_Play-Soundtrack.sh",
+    "机械迷城 (Machinarium)",
+    "機械迷城 (Machinarium)",
+    "Machinarium  (マシナリウム)",
+    "Machinarium (머시나리움)"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/40700/33e11d52f0a2335671d7bf73341c14ae6e596809.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/f44684bc76b27d5b2b2ad4b9d5a02f50ce95da70/ss_f44684bc76b27d5b2b2ad4b9d5a02f50ce95da70.1920x1080.jpg?t=1779498950"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/d3d083f8514e6298a164e0a3fe03a76f619942ea/ss_d3d083f8514e6298a164e0a3fe03a76f619942ea.1920x1080.jpg?t=1779498950"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/80f825bcb9c71fcfef60ab6847b545b7b4928a21/ss_80f825bcb9c71fcfef60ab6847b545b7b4928a21.1920x1080.jpg?t=1779498950"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/4e977c41d3e5b2b9e2e7d045c8b9768e0031d38f/ss_4e977c41d3e5b2b9e2e7d045c8b9768e0031d38f.1920x1080.jpg?t=1779498950"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/b9653237bc75083e9d599b1945dd91d1b938b951/ss_b9653237bc75083e9d599b1945dd91d1b938b951.1920x1080.jpg?t=1779498950"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/bab9cb5d40e409ecd42979c49e7caafdd6113c7e/ss_bab9cb5d40e409ecd42979c49e7caafdd6113c7e.1920x1080.jpg?t=1779498950"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/151a535da3e9d80a9c1f1409477b3afafb4cf606/ss_151a535da3e9d80a9c1f1409477b3afafb4cf606.1920x1080.jpg?t=1779498950"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/9a736ac6d241a1728de68cd324ae3026716e0450/ss_9a736ac6d241a1728de68cd324ae3026716e0450.1920x1080.jpg?t=1779498950"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/7de079dc63f800b643b45e7eb0d097af039d61cf/ss_7de079dc63f800b643b45e7eb0d097af039d61cf.1920x1080.jpg?t=1779498950"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/4c80c59942ec093ef0377e7f885a91f900ed601c/ss_4c80c59942ec093ef0377e7f885a91f900ed601c.1920x1080.jpg?t=1779498950"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Machinarium Short Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257145642/276ae94f9e20e73e453552fc0d706af1aabf4ede/movie_600x337.jpg?t=1748253073",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/40700/389370408/10e89c200a802f127294239f4dd2fdfe436fbfc8/1750485470/dash_h264.mpd?t=1748253073"
+    },
+    {
+      "name": "Machinarium Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256718460/movie.293x165.jpg?t=1748253075",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/40700/165758/8fcc6d92a0bfe156629282cc0dadaedb3fcbe9d7/1750485468/dash_h264.mpd?t=1748253075"
+    }
+  ],
+  "metacritic": {
+    "score": 85,
+    "url": "https://www.metacritic.com/game/pc/machinarium?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 40700,
+    "store_url": "https://store.steampowered.com/app/40700/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Point & Click",
+      "Puzzle",
+      "Hand-drawn",
+      "Robots",
+      "Steampunk",
+      "2D",
+      "Atmospheric",
+      "Story Rich",
+      "Adventure",
+      "Casual",
+      "Cute",
+      "Family Friendly",
+      "Surreal",
+      "Stylized",
+      "Sci-fi",
+      "Linear",
+      "Singleplayer",
+      "Indie",
+      "Great Soundtrack",
+      "Touch-Friendly"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 19331,
+    "review_negative": 950,
+    "review_total": 20281,
+    "review_positive_percent": 95.32
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "key": "move-or-die",
+  "name": "Move or Die",
+  "description": "Move or Die is an absurdly fast-paced 4-player local and online party game where the mechanics change every 20 seconds! It's THE friendship-ruining game.",
+  "developers": [
+    "Xelu"
+  ],
+  "publishers": [
+    "Those Awesome Guys"
+  ],
+  "release_date": "2016-01-22",
+  "website": "http://www.moveordiegame.com",
+  "tags": [
+    "action",
+    "indie",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "split-screen",
+    "funny",
+    "local-multiplayer",
+    "fast-paced",
+    "2d",
+    "4-player-local",
+    "platformer",
+    "casual",
+    "competitive",
+    "arcade",
+    "great-soundtrack",
+    "party-game",
+    "memes",
+    "party",
+    "singleplayer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "schinese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "MoveOrDie.exe",
+          "description": "Launch Game",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Mods",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Levels\\EditorLevels",
+          "pattern": "*.level",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "start_linux32.sh",
+          "description": "Launch Game",
+          "type": "default"
+        },
+        {
+          "executable": "start_linux32.sh",
+          "description": "Move or Die Editor",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Mods",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Levels\\EditorLevels",
+          "pattern": "*.level",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Move or Die",
+    "MoveOrDie",
+    "start_linux32.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/323850/3998d6f23592638da8d080825cc5da2e6cd4ffa3.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323850/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323850/f553be88d481782edadd94f8f46d9d330eb655e3/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323850/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323850/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323850/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323850/ss_45559ced90267540ae7c3fa6796b1af155428fc9.1920x1080.jpg?t=1728465590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323850/ss_143048d360508522352bfdd8e2dd527c80560391.1920x1080.jpg?t=1728465590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323850/ss_917ed6578d434f623b0b3b7bb6b95f4c9e4a6744.1920x1080.jpg?t=1728465590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323850/ss_392bfa30c069c826f341679bec95071d891b94f2.1920x1080.jpg?t=1728465590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323850/ss_114e5ed9d0c4080d3035ea180af2e211b87aa9a5.1920x1080.jpg?t=1728465590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323850/ss_4e5b2c6b8bafe998dca44ce5610b0465530e7bfc.1920x1080.jpg?t=1728465590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323850/ss_0b27b8b9f55c49266a79889adfe1e574178a5979.1920x1080.jpg?t=1728465590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323850/ss_8facd29a52cd3a8c27b11a1f517c662313a681b1.1920x1080.jpg?t=1728465590"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323850/ss_28939717c59f198dd28dfc047f82df54119765ec.1920x1080.jpg?t=1728465590"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Friendship Ruining Game",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256659999/movie.293x165.jpg?t=1498652224",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/323850/50674/3e36ffff683353aad484b9016a58d85843292ade/1750508544/dash_h264.mpd?t=1498652224"
+    },
+    {
+      "name": "Viewers vs Streamers Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256663627/movie.293x165.jpg?t=1498652238",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/323850/57678/66b7662c907d189563f1d22a79b3b58b720d80bd/1750508526/dash_h264.mpd?t=1498652238"
+    },
+    {
+      "name": "Mutators Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256661613/movie.293x165.jpg?t=1498652246",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/323850/54084/d7a41598b0894c973e4f79894a263be497d3b80f/1750508513/dash_h264.mpd?t=1498652246"
+    }
+  ],
+  "metacritic": {
+    "score": 80,
+    "url": "https://www.metacritic.com/game/pc/move-or-die?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 323850,
+    "store_url": "https://store.steampowered.com/app/323850/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Stats",
+      "Includes level editor",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Funny",
+      "Local Multiplayer",
+      "Action",
+      "Fast-Paced",
+      "2D",
+      "4 Player Local",
+      "Indie",
+      "Online Co-Op",
+      "Platformer",
+      "Casual",
+      "Competitive",
+      "Co-op",
+      "Local Co-Op",
+      "Arcade",
+      "Great Soundtrack",
+      "Party Game",
+      "Memes",
+      "Party",
+      "Singleplayer"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 20780,
+    "review_negative": 2509,
+    "review_total": 23289,
+    "review_positive_percent": 89.23
+  }
+}

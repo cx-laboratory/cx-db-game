@@ -1,0 +1,170 @@
+{
+  "key": "manifold-garden",
+  "name": "Manifold Garden",
+  "description": "Rediscover gravity and explore an Escher-esque world of impossible architecture. Witness infinity in first-person and master its rules to solve physics-defying puzzles. Cultivate a garden to open new paths forward, where an eternal expanse awaits.",
+  "developers": [
+    "William Chyr Studio"
+  ],
+  "publishers": [
+    "William Chyr Studio"
+  ],
+  "release_date": "2020-10-21",
+  "website": "http://manifold.garden/",
+  "tags": [
+    "adventure",
+    "indie",
+    "puzzle",
+    "surreal",
+    "abstract",
+    "first-person",
+    "exploration",
+    "psychedelic",
+    "puzzle-platformer",
+    "experimental",
+    "atmospheric",
+    "minimalist",
+    "relaxing",
+    "philosophical",
+    "nonlinear",
+    "difficult",
+    "singleplayer",
+    "mystery",
+    "colorful",
+    "multiple-endings"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ManifoldGarden.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "William Chyr Studio/Manifold Garden/Saves",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Manifold Garden",
+    "ManifoldGarden"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/473950/38a8e9fa49b0fb938f8d45049c520a612470d81e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/473950/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/473950/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/473950/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/473950/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/473950/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/473950/ss_1b3cb13f0969b365821a884f0be6c8f616061385.1920x1080.jpg?t=1603220474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/473950/ss_7751cdc646a4a596d3e568fc6cce5fda1334f152.1920x1080.jpg?t=1603220474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/473950/ss_44e2f962e262a5773c6ffe2ba69dc96843171b47.1920x1080.jpg?t=1603220474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/473950/ss_3e156148e13921611c3715a57dc6e3d72355fc2a.1920x1080.jpg?t=1603220474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/473950/ss_e54d5a60472bfbc7c1f008f73fdae6731298cec2.1920x1080.jpg?t=1603220474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/473950/ss_2bbb566ef595c703701ce93c3b82345a762156de.1920x1080.jpg?t=1603220474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/473950/ss_e5a860f327b17815b6f937640ecdab102e420206.1920x1080.jpg?t=1603220474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/473950/ss_a5bca65bfc680c2a2482bfeaf23e41333a135967.1920x1080.jpg?t=1603220474"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Manifold Garden - Gameplay Trailer (10/20)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256803952/movie.293x165.jpg?t=1602099599",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/473950/317619/9c1e45b8d0078a90d9fbd88627e6a05dd70a7b26/1750535111/dash_h264.mpd?t=1602099599"
+    }
+  ],
+  "metacritic": {
+    "score": 85,
+    "url": "https://www.metacritic.com/game/pc/manifold-garden?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 473950,
+    "store_url": "https://store.steampowered.com/app/473950/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Puzzle",
+      "Surreal",
+      "Abstract",
+      "First-Person",
+      "Exploration",
+      "Psychedelic",
+      "Puzzle Platformer",
+      "Experimental",
+      "Atmospheric",
+      "Minimalist",
+      "Relaxing",
+      "Philosophical",
+      "Nonlinear",
+      "Difficult",
+      "Indie",
+      "Singleplayer",
+      "Mystery",
+      "Adventure",
+      "Colorful",
+      "Multiple Endings"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 7971,
+    "review_negative": 396,
+    "review_total": 8367,
+    "review_positive_percent": 95.27
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "key": "frostpunk-2",
+  "name": "Frostpunk 2",
+  "description": "Develop, expand, and advance your city in a society survival game set 30 years after an apocalyptic blizzard ravaged Earth. In Frostpunk 2, you face not only the perils of never-ending winter, but also the powerful factions that watch your every step inside the Council Hall.",
+  "developers": [
+    "11 bit studios"
+  ],
+  "publishers": [
+    "11 bit studios"
+  ],
+  "release_date": "2024-09-21",
+  "website": "http://www.frostpunk2.com/",
+  "tags": [
+    "simulation",
+    "strategy",
+    "city-builder",
+    "survival",
+    "resource-management",
+    "post-apocalyptic",
+    "singleplayer",
+    "steampunk",
+    "management",
+    "base-building",
+    "atmospheric",
+    "sequel",
+    "choices-matter",
+    "political-sim",
+    "colony-sim",
+    "politics",
+    "great-soundtrack",
+    "violent",
+    "snow"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "turkish",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "冰汽时代2",
+    "tchinese": "冰汽時代2",
+    "japanese": "フロストパンク2",
+    "koreana": "프로스트펑크2"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Frostpunk2.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "11bitstudios/Frostpunk2/Steam/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Frostpunk2.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "11bitstudios/Frostpunk2/Steam/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Frostpunk 2",
+    "Frostpunk2",
+    "Frostpunk2.app",
+    "冰汽时代2",
+    "冰汽時代2",
+    "フロストパンク2",
+    "프로스트펑크2"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1601580/5e66161686d4e2503a8a42aab9e8bc1c46c68fc1.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/2c5b053c630a9cb57fa71e6eb018c2a0b008c05b/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/5fcef70d6bc626f4c0cfc74826c3a27125bd1376/ss_5fcef70d6bc626f4c0cfc74826c3a27125bd1376.1920x1080.jpg?t=1782220270"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/c6ef7c158fb7021f840c9ef00331265b9a34ecf1/ss_c6ef7c158fb7021f840c9ef00331265b9a34ecf1.1920x1080.jpg?t=1782220270"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/672ff9b24ea49282857a311e0c86c94d60c311fb/ss_672ff9b24ea49282857a311e0c86c94d60c311fb.1920x1080.jpg?t=1782220270"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/623b84b461383a8d8c6e3b71edd05c5ad84a92cb/ss_623b84b461383a8d8c6e3b71edd05c5ad84a92cb.1920x1080.jpg?t=1782220270"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/99dcf7983e5e1a67f38923505049fcf176d29c6f/ss_99dcf7983e5e1a67f38923505049fcf176d29c6f.1920x1080.jpg?t=1782220270"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/679506d1908ea6ca52b29f59e708be2b8eea4fb2/ss_679506d1908ea6ca52b29f59e708be2b8eea4fb2.1920x1080.jpg?t=1782220270"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/ss_f4e245bf6ec85b5306c789c27aadf56fe98cc1d6.1920x1080.jpg?t=1782220270"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/ss_6f2482822403b80bc3f310278cc33a103d908ee6.1920x1080.jpg?t=1782220270"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/4067317ba974c84492ae53d23f6a8457cad6434b/ss_4067317ba974c84492ae53d23f6a8457cad6434b.1920x1080.jpg?t=1782220270"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/0bda4771da832581b951c803b451e3e8412f8e76/ss_0bda4771da832581b951c803b451e3e8412f8e76.1920x1080.jpg?t=1782220270"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/ss_a61f90216ab7b217a3d8faec25d3d0ba7a5683bc.1920x1080.jpg?t=1782220270"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/ss_e49eb8f86431cf685d4123d8c2ab22710f74e5cd.1920x1080.jpg?t=1782220270"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/ss_51f7f50c29eed365ba48b1e603ed8aaa7ee354fb.1920x1080.jpg?t=1782220270"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/ss_59e20f3f919c8ba8d436779163be1961c2ad136f.1920x1080.jpg?t=1782220270"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/ss_21886ea6b26b288b970cccbc3ef46ed4f3e0a256.1920x1080.jpg?t=1782220270"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/f2d667d6e44e32cb3de863071fcf6fecbc3a96c6/ss_f2d667d6e44e32cb3de863071fcf6fecbc3a96c6.1920x1080.jpg?t=1782220270"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/975c658ff799bd2637559e34713c23babdd4aff9/ss_975c658ff799bd2637559e34713c23babdd4aff9.1920x1080.jpg?t=1782220270"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/ae20b93b5733c26756b019b84947a78fa5063b66/ss_ae20b93b5733c26756b019b84947a78fa5063b66.1920x1080.jpg?t=1782220270"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/ss_2d866745c23d9ec66a2c15f623ce2f943be350a0.1920x1080.jpg?t=1782220270"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/ss_c2391d269fdc6f870ef1803bff648732653de272.1920x1080.jpg?t=1782220270"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/ss_099f137def66645be13d5f0d3c91b7500d5893b7.1920x1080.jpg?t=1782220270"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/ss_92c7f0b645b60bd79bcb1d6578776a891a19b046.1920x1080.jpg?t=1782220270"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/ss_e7d0e727afbf64c1e403720aca43b1600203a8c3.1920x1080.jpg?t=1782220270"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/ss_ec88aca19ea5aa264502a846831f3e03ca71ef8d.1920x1080.jpg?t=1782220270"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Final Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257139670/0b3978fb0ff523f0efd8076fcd604bf7d485c33a/movie_600x337.jpg?t=1747236650",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1601580/2081179672/a51d6a89ce7cb594bf01d5c08904b3888a8593a0/1750709792/dash_h264.mpd?t=1747236650"
+    },
+    {
+      "name": "Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257056906/movie.293x165.jpg?t=1727165569",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1601580/758764/4b8f07ec321d17e8999e44f3eb022062639ff186/1750709781/dash_h264.mpd?t=1727165569"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257056631/movie.293x165.jpg?t=1727165577",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1601580/758297/a71dfcf0388a84c597984a1017a1473a02afe40d/1750709750/dash_h264.mpd?t=1727165577"
+    }
+  ],
+  "metacritic": {
+    "score": 85,
+    "url": "https://www.metacritic.com/game/pc/frostpunk-2?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1601580,
+    "store_url": "https://store.steampowered.com/app/1601580/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Adjustable Text Size",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Steam Input API Support",
+      "Stereo Sound",
+      "Surround Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "City Builder",
+      "Strategy",
+      "Survival",
+      "Resource Management",
+      "Post-apocalyptic",
+      "Simulation",
+      "Singleplayer",
+      "Steampunk",
+      "Management",
+      "Base Building",
+      "Atmospheric",
+      "Sequel",
+      "Choices Matter",
+      "Political Sim",
+      "Colony Sim",
+      "Politics",
+      "Great Soundtrack",
+      "Violent",
+      "Snow",
+      "Psychological Horror"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 19813,
+    "review_negative": 6641,
+    "review_total": 26454,
+    "review_positive_percent": 74.9
+  }
+}

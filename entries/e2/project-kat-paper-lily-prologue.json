@@ -1,0 +1,173 @@
+{
+  "key": "project-kat-paper-lily-prologue",
+  "name": "Project Kat - Paper Lily Prologue",
+  "description": "Project Kat is a short, unconventional RPG horror game in which there is always another way. Solve puzzles, make friends (or not), and guide Kat as she attempts to uncover the mystery behind a strange golden letter.",
+  "developers": [
+    "Leef 6010"
+  ],
+  "publishers": [
+    "Leef 6010"
+  ],
+  "release_date": "2021-10-16",
+  "website": "",
+  "tags": [
+    "adventure",
+    "indie",
+    "rpg",
+    "free-to-play",
+    "pixel-graphics",
+    "anime",
+    "story-rich",
+    "puzzle",
+    "exploration",
+    "choices-matter",
+    "multiple-endings",
+    "cute",
+    "horror",
+    "2d",
+    "mystery",
+    "supernatural",
+    "female-protagonist",
+    "top-down",
+    "atmospheric",
+    "funny",
+    "dark"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "french"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "ProjectKat.exe",
+          "description": "Play Project Kat",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Paper Lily",
+          "pattern": "*.sav",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Paper Lily",
+          "pattern": "*.bak",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Project Kat - Paper Lily Prologue",
+    "ProjectKat"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1698960/6ffb4b45e82d88aaf1db207e42eee33b13b3d695.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1698960/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1698960/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1698960/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1698960/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1698960/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1698960/ss_3231a316b7cb626f7669f0830471969d5bd15694.1920x1080.jpg?t=1732153789"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1698960/ss_1c39166d9566a4c1a5fcda49ad667ea7378b07cb.1920x1080.jpg?t=1732153789"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1698960/ss_045af99913db3ba2320f678e9598b62e1fa2cee5.1920x1080.jpg?t=1732153789"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1698960/ss_4edb8e2da5ddd39a522d5219ad91a4e39dd14dc5.1920x1080.jpg?t=1732153789"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1698960/ss_e8110432b3636e3e8c0318c4d996f3cc885123dc.1920x1080.jpg?t=1732153789"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1698960/ss_e4f1a197759e9bce8f36c2c42029381a7d13ce5f.1920x1080.jpg?t=1732153789"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1698960/ss_d0216716ec907028183a840c49e4c5452da928b9.1920x1080.jpg?t=1732153789"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1698960/ss_2800954cb140b2107297cbb37eb169465a67977e.1920x1080.jpg?t=1732153789"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1698960/ss_7aa7ad7c7138d525d3bbfb9744615a8ee2462c54.1920x1080.jpg?t=1732153789"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1698960/ss_c5472afb4a663babe7d8ac4fdc49aa2de7cf940d.1920x1080.jpg?t=1732153789"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Paper Lily - Project Kat Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256852095/movie.293x165.jpg?t=1633048356",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1698960/402252/6e93d4af3072ca576101122f1425d3ec6bb4b320/1751021131/dash_h264.mpd?t=1633048356"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1698960,
+    "store_url": "https://store.steampowered.com/app/1698960/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Psychological Horror",
+      "Pixel Graphics",
+      "Anime",
+      "Story Rich",
+      "RPG",
+      "Adventure",
+      "Puzzle",
+      "Exploration",
+      "Choices Matter",
+      "Multiple Endings",
+      "Cute",
+      "Horror",
+      "2D",
+      "Mystery",
+      "Supernatural",
+      "Female Protagonist",
+      "Top-Down",
+      "Atmospheric",
+      "Funny",
+      "Dark"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 5822,
+    "review_negative": 43,
+    "review_total": 5865,
+    "review_positive_percent": 99.27
+  }
+}

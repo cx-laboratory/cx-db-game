@@ -1,0 +1,180 @@
+{
+  "key": "antichamber",
+  "name": "Antichamber",
+  "description": "Antichamber is a mind-bending psychological exploration game where nothing can be taken for granted. Discover an Escher-like world where hallways wrap around upon each other, spaces reconfigure themselves, and accomplishing the impossible may just be the only way forward.",
+  "developers": [
+    "Alexander Bruce"
+  ],
+  "publishers": [
+    "Demruth"
+  ],
+  "release_date": "2013-02-01",
+  "website": "http://www.antichamber-game.com",
+  "tags": [
+    "adventure",
+    "indie",
+    "puzzle",
+    "first-person",
+    "surreal",
+    "exploration",
+    "singleplayer",
+    "abstract",
+    "nonlinear",
+    "minimalist",
+    "difficult",
+    "atmospheric",
+    "psychedelic",
+    "psychological",
+    "colorful",
+    "great-soundtrack",
+    "metroidvania",
+    "replay-value",
+    "sci-fi",
+    "platformer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Binaries/Win32/UDK.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Antichamber.app/Contents/MacOS/UDKGame",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Binaries\\Linux\\UDKGame-Linux",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Antichamber",
+    "Binaries/Win32/UDK",
+    "Antichamber.app/Contents/MacOS/UDKGame",
+    "Binaries\\Linux\\UDKGame-Linux"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/219890/1c3afe41623c51172ef1dc96427bf23bb940748b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219890/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219890/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219890/capsule_231x87.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219890/ss_c02435ac01bff1e3af6c69e9ddeb77f6bf40caf2.1920x1080.jpg?t=1525832559"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219890/ss_8604088893b9d0ea42d41c741619e740e92fcee0.1920x1080.jpg?t=1525832559"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219890/ss_fe2278241777765a73f5cc1567c17307d92ec6bb.1920x1080.jpg?t=1525832559"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219890/ss_62a1e3085fee312cf6c1025ec89018fa98821d99.1920x1080.jpg?t=1525832559"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219890/ss_1bf5f04ea4ffb1aaf3e77bef5e31793486f789ae.1920x1080.jpg?t=1525832559"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219890/ss_aa83543c053ccc413d8b7b5389bffb845ae84068.1920x1080.jpg?t=1525832559"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219890/ss_167e0de7713d2d1d8ee613ef078af986fb3212ef.1920x1080.jpg?t=1525832559"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219890/ss_459f60bad31ce52596e9a7c01e39bbfd9ee7daa6.1920x1080.jpg?t=1525832559"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219890/ss_4072c2f1de75d8abe76cbf328fa4b41adce27e0c.1920x1080.jpg?t=1525832559"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219890/ss_a3b3678597f075e22b347d70ab546e81e5a570c3.1920x1080.jpg?t=1525832559"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Antichamber Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028342/movie.293x165.jpg?t=1447357349",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/219890/10465/2153cd0a3f04e5668ef28d4bb5a6cad4789318be/1750481497/dash_h264.mpd?t=1447357349"
+    }
+  ],
+  "metacritic": {
+    "score": 82,
+    "url": "https://www.metacritic.com/game/pc/antichamber?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 219890,
+    "store_url": "https://store.steampowered.com/app/219890/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Trading Cards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Puzzle",
+      "First-Person",
+      "Indie",
+      "Surreal",
+      "Exploration",
+      "Singleplayer",
+      "Abstract",
+      "Nonlinear",
+      "Adventure",
+      "Minimalist",
+      "Difficult",
+      "Atmospheric",
+      "Psychedelic",
+      "Psychological",
+      "Colorful",
+      "Great Soundtrack",
+      "Metroidvania",
+      "Replay Value",
+      "Sci-fi",
+      "Platformer"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 16826,
+    "review_negative": 862,
+    "review_total": 17688,
+    "review_positive_percent": 95.13
+  }
+}

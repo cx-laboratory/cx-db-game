@@ -1,0 +1,178 @@
+{
+  "key": "content-warning",
+  "name": "Content Warning",
+  "description": "Film your friends doing scary things to become SpöökTube famous! (strongly advised to not go alone)",
+  "developers": [
+    "Zorro"
+  ],
+  "publishers": [
+    "Evil Landfall?"
+  ],
+  "release_date": "2024-04-01",
+  "website": "http://landfall.se",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "horror",
+    "procedural-generation",
+    "exploration",
+    "roguelike",
+    "action-roguelike",
+    "comedy",
+    "physics",
+    "funny",
+    "first-person",
+    "atmospheric",
+    "post-apocalyptic",
+    "3d",
+    "time-management",
+    "investigation",
+    "mystery"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "swedish",
+    "brazilian",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "schinese": "前方高能"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Content Warning.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Landfall Games/Content Warning/Saves",
+          "pattern": "*.bin",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Landfall Games/Content Warning/Saves",
+          "pattern": "*.m",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Content Warning",
+    "前方高能"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2881650/513cf7f2e22c94f4372369e29bffccc4c239e9c0.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_5df7377699e11b22ffbb604f2b3cc74d39d9bb2f.1920x1080.jpg?t=1775640428"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_0639604a881c0a0c9e02960b61d108c1f643809d.1920x1080.jpg?t=1775640428"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_f7f450f42db587f4e143ad1178500ad786c965a3.1920x1080.jpg?t=1775640428"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_ae459a02056e53665b20270b3b2c2ec74e6c4963.1920x1080.jpg?t=1775640428"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_86404e1606ca67a485e20c71cddd3cffdc511c71.1920x1080.jpg?t=1775640428"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_35c0fbe15af6816fd0d53156f0330e78a73c533d.1920x1080.jpg?t=1775640428"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/ss_371cb06f9f6a6bc9e5273b4d6b8168ce00f4ff34.1920x1080.jpg?t=1775640428"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Content Warning Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257012412/movie.293x165.jpg?t=1711987141",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2881650/681656/73819bb7ec815170d38d53a7c0267441852bc4c5/1750821037/dash_h264.mpd?t=1711987141"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2881650,
+    "store_url": "https://store.steampowered.com/app/2881650/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Horror",
+      "Online Co-Op",
+      "Procedural Generation",
+      "Exploration",
+      "Action Roguelike",
+      "Multiplayer",
+      "Comedy",
+      "Physics",
+      "Co-op",
+      "Funny",
+      "First-Person",
+      "Psychological Horror",
+      "Survival Horror",
+      "Atmospheric",
+      "Post-apocalyptic",
+      "Adventure",
+      "3D",
+      "Time Management",
+      "Investigation",
+      "Mystery"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 151076,
+    "review_negative": 9722,
+    "review_total": 160798,
+    "review_positive_percent": 93.95
+  }
+}

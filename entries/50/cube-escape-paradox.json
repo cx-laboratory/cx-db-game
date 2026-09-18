@@ -1,0 +1,166 @@
+{
+  "key": "cube-escape-paradox",
+  "name": "Cube Escape: Paradox",
+  "description": "The tenth Cube Escape follows the story of detective Dale Vandermeer who finds himself trapped in two different universes and needs to escape. Cube Escape: Paradox will be released together with the accompanying Paradox: A Rusty Lake Film.",
+  "developers": [
+    "Rusty Lake"
+  ],
+  "publishers": [
+    "Rusty Lake"
+  ],
+  "release_date": "2018-09-20",
+  "website": "http://www.rustylake.com",
+  "tags": [
+    "adventure",
+    "free-to-play",
+    "indie",
+    "puzzle",
+    "point-and-click",
+    "mystery",
+    "singleplayer",
+    "escape-room",
+    "multiplayer",
+    "horror",
+    "atmospheric",
+    "story-rich",
+    "detective",
+    "2d",
+    "dark",
+    "surreal",
+    "great-soundtrack",
+    "co-op",
+    "hand-drawn"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Portuguese - Brazil",
+    "Simplified Chinese",
+    "Danish",
+    "Japanese",
+    "Korean",
+    "Dutch",
+    "Polish",
+    "Russian",
+    "Turkish*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "逃离方块：悖论"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "CubeEscapeParadox.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "CubeEscapeParadox.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Cube Escape: Paradox",
+    "CubeEscapeParadox",
+    "CubeEscapeParadox.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/909080/d6c5912e9c059f073e2705665f6ded6afa0a579c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/909080/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/909080/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/909080/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/909080/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/909080/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/909080/ss_5276dcc33ab2773f85193af67c8704f5341e3a46.1920x1080.jpg?t=1667254447"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/909080/ss_c5fd284bfeb48a4e13a849beae118fa9afae1263.1920x1080.jpg?t=1667254447"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/909080/ss_7bbfa3807c25694c2c8db8167813b1749285870a.1920x1080.jpg?t=1667254447"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/909080/ss_4882cdd697640dc5a84cd8a8a8530f87ffe1e963.1920x1080.jpg?t=1667254447"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/909080/ss_b064c3cf9e9ce1dfa71cc05431c04d864ee82f80.1920x1080.jpg?t=1667254447"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Official Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256726967/movie.293x165.jpg?t=1535661244",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/909080/181318/a7dd57d16b023845846f660d4748dcc0bc7b4c7c/1750595333/dash_h264.mpd?t=1535661244"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 909080,
+    "store_url": "https://store.steampowered.com/app/909080/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Adventure",
+      "Free To Play",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Puzzle",
+      "Free to Play",
+      "Psychological Horror",
+      "Point & Click",
+      "Mystery",
+      "Singleplayer",
+      "Escape Room",
+      "Indie",
+      "Multiplayer",
+      "Horror",
+      "Adventure",
+      "Atmospheric",
+      "Story Rich",
+      "Detective",
+      "2D",
+      "Dark",
+      "Surreal",
+      "Great Soundtrack",
+      "Co-op",
+      "Hand-drawn"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 11593,
+    "review_negative": 354,
+    "review_total": 11947,
+    "review_positive_percent": 97.04
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "key": "cossacks-3",
+  "name": "Cossacks 3",
+  "description": "Cossacks 3 is the return of RTS classics. Obtain resources, build cities and research technologies while taking command of great armies, crushing enemies in grand historical warfares on land and sea!",
+  "developers": [
+    "GSC Game World"
+  ],
+  "publishers": [
+    "GSC Game World"
+  ],
+  "release_date": "2016-09-21",
+  "website": "http://www.cossacks3.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "rts",
+    "war",
+    "historical",
+    "singleplayer",
+    "resource-management",
+    "base-building",
+    "action-rts",
+    "pve",
+    "3d",
+    "city-builder",
+    "isometric",
+    "open-world",
+    "economy",
+    "replay-value",
+    "real-time-with-pause"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "russian",
+    "ukrainian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "cossacks.exe",
+          "description": "Game",
+          "type": "default"
+        },
+        {
+          "executable": "config.exe",
+          "description": "Config",
+          "type": "config"
+        },
+        {
+          "executable": "editor.exe",
+          "description": "Editor",
+          "type": "editor"
+        },
+        {
+          "executable": "modman.exe",
+          "description": "Mod Manager",
+          "type": "default"
+        },
+        {
+          "executable": "bin\\win64\\cossacks.exe",
+          "description": "Game",
+          "type": "default"
+        },
+        {
+          "executable": "bin\\win64\\config.exe",
+          "description": "Config",
+          "type": "config"
+        },
+        {
+          "executable": "bin\\win64\\editor.exe",
+          "description": "Editor",
+          "type": "editor"
+        },
+        {
+          "executable": "bin\\win64\\modman.exe",
+          "description": "Mod Manager",
+          "type": "none"
+        },
+        {
+          "executable": "bin\\win32\\cossacks.exe",
+          "description": "Game",
+          "type": "default"
+        },
+        {
+          "executable": "bin\\win32\\config.exe",
+          "description": "Config",
+          "type": "config"
+        },
+        {
+          "executable": "bin\\win32\\editor.exe",
+          "description": "Editor",
+          "type": "editor"
+        },
+        {
+          "executable": "bin\\win32\\modman.exe",
+          "description": "Mod Manager",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "cossacks.app/Contents/MacOS/cossacks",
+          "description": "Game",
+          "type": "default"
+        },
+        {
+          "executable": "cossacks.app/Contents/MacOS/config",
+          "description": "Config",
+          "type": "config"
+        },
+        {
+          "executable": "cossacks.app/Contents/MacOS/editor",
+          "description": "Editor",
+          "type": "editor"
+        },
+        {
+          "executable": "cossacks.app/Contents/MacOS/modman",
+          "description": "Mod Manager",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "cossacks",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "config",
+          "description": "",
+          "type": "config"
+        },
+        {
+          "executable": "editor",
+          "description": "",
+          "type": "editor"
+        },
+        {
+          "executable": "modman",
+          "description": "Mod Manager",
+          "type": "default"
+        },
+        {
+          "executable": "bin/gnu64/cossacks",
+          "description": "Game",
+          "type": "default"
+        },
+        {
+          "executable": "bin/gnu64/config",
+          "description": "Config",
+          "type": "config"
+        },
+        {
+          "executable": "bin/gnu64/editor",
+          "description": "Editor",
+          "type": "editor"
+        },
+        {
+          "executable": "bin/gnu64/modman",
+          "description": "Mod Manager",
+          "type": "none"
+        },
+        {
+          "executable": "bin/gnu32/cossacks",
+          "description": "Game",
+          "type": "default"
+        },
+        {
+          "executable": "bin/gnu32/config",
+          "description": "Config",
+          "type": "config"
+        },
+        {
+          "executable": "bin/gnu32/editor",
+          "description": "Editor",
+          "type": "editor"
+        },
+        {
+          "executable": "bin/gnu32/modman",
+          "description": "Mod Manager",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Cossacks 3",
+    "cossacks",
+    "config",
+    "editor",
+    "modman",
+    "bin\\win64\\cossacks",
+    "bin\\win64\\config",
+    "bin\\win64\\editor",
+    "bin\\win64\\modman",
+    "bin\\win32\\cossacks",
+    "bin\\win32\\config",
+    "bin\\win32\\editor",
+    "bin\\win32\\modman",
+    "cossacks.app/Contents/MacOS/cossacks",
+    "cossacks.app/Contents/MacOS/config",
+    "cossacks.app/Contents/MacOS/editor",
+    "cossacks.app/Contents/MacOS/modman",
+    "bin/gnu64/cossacks",
+    "bin/gnu64/config",
+    "bin/gnu64/editor",
+    "bin/gnu64/modman",
+    "bin/gnu32/cossacks",
+    "bin/gnu32/config",
+    "bin/gnu32/editor",
+    "bin/gnu32/modman"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/333420/7613db27bfc85fdd767782eb6e53ba19d8bd028d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333420/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333420/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333420/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333420/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333420/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333420/ss_c1a629170774b517b027366cbf83bc951b066608.1920x1080.jpg?t=1678808308"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333420/ss_30e8eaa5376ea20039882ebc9f5d1e4208b62da8.1920x1080.jpg?t=1678808308"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333420/ss_d00e39353e44352693a96f587868ea136c7f43c3.1920x1080.jpg?t=1678808308"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333420/ss_8ee78a76314fbecf33619031d34866582b2caf49.1920x1080.jpg?t=1678808308"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333420/ss_e673441b6c7a9e48a55e7f2eb717f30fdf178374.1920x1080.jpg?t=1678808308"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333420/ss_1a62b4a86b9bac112ed33fda0ed7b98dbc4cae86.1920x1080.jpg?t=1678808308"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333420/ss_f4a8f15b8dd9439554ee5c679e14a35df2f860ea.1920x1080.jpg?t=1678808308"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333420/ss_f8d884b261c0b7b3c2dcbde3622446757e6cec5e.1920x1080.jpg?t=1678808308"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333420/ss_a3280465fe97739c5ede821cf782bc164364e3d2.1920x1080.jpg?t=1678808308"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333420/ss_2b869dcc4c32745095d9d3946e3cfbd732663c5c.1920x1080.jpg?t=1678808308"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333420/ss_935396b3224f5c80a9f5e1ab7ab1ec56b7cba7d8.1920x1080.jpg?t=1678808308"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333420/ss_f2d3a7d48253b76c2b1850c7d778fc5a7c47f1a7.1920x1080.jpg?t=1678808308"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/333420/ss_e01a4e44bf468db1ddaed2842b6afefb9d5dbbf3.1920x1080.jpg?t=1678808308"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Official Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256671070/movie.293x165.jpg?t=1474413180",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/333420/73319/36c55054a25fc04e77c16a27b95e4880e548cef1/1750510084/dash_h264.mpd?t=1474413180"
+    },
+    {
+      "name": "Prussia on the defensive!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256666413/movie.293x165.jpg?t=1469014392",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/333420/63867/00e3887204157b87a7722c62b2557bcfa56d60c4/1750510060/dash_h264.mpd?t=1469014392"
+    },
+    {
+      "name": "Playable nation: France",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256666491/movie.293x165.jpg?t=1469014403",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/333420/63995/20dcc3772574a6a809c64c23adf22e21f194411f/1750510077/dash_h264.mpd?t=1469014403"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 333420,
+    "store_url": "https://store.steampowered.com/app/333420/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Includes level editor",
+      "Commentary available",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "RTS",
+      "War",
+      "Multiplayer",
+      "Historical",
+      "Singleplayer",
+      "Resource Management",
+      "Base Building",
+      "Action RTS",
+      "PvP",
+      "PvE",
+      "3D",
+      "City Builder",
+      "Action",
+      "Isometric",
+      "Open World",
+      "Co-op",
+      "Economy",
+      "Replay Value",
+      "Real-Time with Pause"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 13163,
+    "review_negative": 2834,
+    "review_total": 15997,
+    "review_positive_percent": 82.28
+  }
+}

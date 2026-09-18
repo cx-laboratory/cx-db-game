@@ -1,0 +1,213 @@
+{
+  "key": "waterpark-simulator",
+  "name": "Waterpark Simulator",
+  "description": "Build and run your own waterpark. Design slides, send guests flying with ragdoll physics, manage staff, and fully customize your park. Turn total madness into a five-star empire in this first-person management simulator!",
+  "developers": [
+    "CayPlay"
+  ],
+  "publishers": [
+    "CayPlay"
+  ],
+  "release_date": "2025-08-23",
+  "website": "https://waterparksimulator.com/",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "early-access",
+    "immersive-sim",
+    "management",
+    "singleplayer",
+    "economy",
+    "sandbox",
+    "building",
+    "capitalism",
+    "base-building",
+    "life-sim",
+    "funny",
+    "crafting",
+    "first-person",
+    "comedy",
+    "inventory-management",
+    "physics",
+    "open-world",
+    "3d"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "schinese",
+    "tchinese"
+  ],
+  "name_localized": {
+    "tchinese": "水上樂園模擬器",
+    "schinese": "水上乐园模拟器"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "WaterparkSimulator.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "CayPlay/WaterparkSimulator/",
+          "pattern": "*.es3",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Waterpark Simulator",
+    "WaterparkSimulator",
+    "水上樂園模擬器",
+    "水上乐园模拟器"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3293260/748bc3c1e0c66dd914345c3c0f59226cf0ed0294.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/db6c96f1fdbf940a4e0ee727513511892ff9e706/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/fc855abfaaf001fc197f30c07d9c59fcf42fba3b/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/d23d9cebbd87c8d76de7ede3b7fc0bfb085e4d18/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/b30a99265f701f99f51f4316ef25ff3881901639/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/747982799c024633af1547bfc10867c040909898/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/00f6f9dfed15594ceedc63385803288458a5c17e/ss_00f6f9dfed15594ceedc63385803288458a5c17e.1920x1080.jpg?t=1782323576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/d76b8e4f825f4bf4e43d3b05f34156ae64aba1ff/ss_d76b8e4f825f4bf4e43d3b05f34156ae64aba1ff.1920x1080.jpg?t=1782323576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/8f31242a77f1bc084edd895bcbf67354ca64184b/ss_8f31242a77f1bc084edd895bcbf67354ca64184b.1920x1080.jpg?t=1782323576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/8ca9c7fb98a99ed56636118592bc6761a9cff66d/ss_8ca9c7fb98a99ed56636118592bc6761a9cff66d.1920x1080.jpg?t=1782323576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/e57d3af960c81b9ae7f0e2af278c151a084a04ee/ss_e57d3af960c81b9ae7f0e2af278c151a084a04ee.1920x1080.jpg?t=1782323576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/a0ac4fa85f579d54f1dded0947f37fbcfbee87d2/ss_a0ac4fa85f579d54f1dded0947f37fbcfbee87d2.1920x1080.jpg?t=1782323576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/5d2aeed2ef41e4a3520627f647bb79f639ef74b5/ss_5d2aeed2ef41e4a3520627f647bb79f639ef74b5.1920x1080.jpg?t=1782323576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/3416f1cb421fe5e228a4a5299a48903fba15e9b1/ss_3416f1cb421fe5e228a4a5299a48903fba15e9b1.1920x1080.jpg?t=1782323576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/ce9e561bed768949a4036213e16d4e7f60f6558d/ss_ce9e561bed768949a4036213e16d4e7f60f6558d.1920x1080.jpg?t=1782323576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/446b101deb38d47f60056dc6fa6c0395b567be32/ss_446b101deb38d47f60056dc6fa6c0395b567be32.1920x1080.jpg?t=1782323576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/17639a0153418b112e4fb16d5b490823eb214a93/ss_17639a0153418b112e4fb16d5b490823eb214a93.1920x1080.jpg?t=1782323576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/1ede35778cec950ff267be0ca552cdbceef5d7f3/ss_1ede35778cec950ff267be0ca552cdbceef5d7f3.1920x1080.jpg?t=1782323576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/ce513bef142af471d5246e934f499c9be4cb9762/ss_ce513bef142af471d5246e934f499c9be4cb9762.1920x1080.jpg?t=1782323576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/fe5aefc5f6c9d9d7a524f084b41875ed8d1a3f37/ss_fe5aefc5f6c9d9d7a524f084b41875ed8d1a3f37.1920x1080.jpg?t=1782323576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/bc8363dc8f4eedc185df2facbb2cf4829a74a77a/ss_bc8363dc8f4eedc185df2facbb2cf4829a74a77a.1920x1080.jpg?t=1782323576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/c38175f05e78ca44530950caea6b5da1e28a335f/ss_c38175f05e78ca44530950caea6b5da1e28a335f.1920x1080.jpg?t=1782323576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/69e16440b393e4cb9cf6caae80d99b2a3904014d/ss_69e16440b393e4cb9cf6caae80d99b2a3904014d.1920x1080.jpg?t=1782323576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/7f447ecaaa9227ab73616720e88567ffa755f3fb/ss_7f447ecaaa9227ab73616720e88567ffa755f3fb.1920x1080.jpg?t=1782323576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293260/6f240a7d0287b7c3c4c782aa396d427c6470ee7b/ss_6f240a7d0287b7c3c4c782aa396d427c6470ee7b.1920x1080.jpg?t=1782323576"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Waterpark Simulator | EA Release Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257179994/4c962ed941a861682a5f56faacf332b5f6624d5b/movie_600x337.jpg?t=1755881143",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3293260/1669703419/fbacee6eb1b5d9d93d5e3ac5d2c8a3bb694e1e1f/1754601483/dash_h264.mpd?t=1755881143"
+    },
+    {
+      "name": "Waterpark Simulator | Official Cinematic Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257187326/fa53dbf8283e55a119c2401647e12c995eeb5914/movie_600x337.jpg?t=1755887183",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3293260/892870923/c031ad2a2dabc82680079a0771689bad174b2a1b/1755883738/dash_h264.mpd?t=1755887183"
+    },
+    {
+      "name": "Waterpark Simulator | Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257147418/8684d8ef5b40e34a4be893bdab57bb9101fff397/movie_600x337.jpg?t=1748472145",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3293260/1536734887/a64815ae11850bc599512343a6a735ffea6695d1/1750976478/dash_h264.mpd?t=1748472145"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3293260,
+    "store_url": "https://store.steampowered.com/app/3293260/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Early Access",
+      "Immersive Sim",
+      "Simulation",
+      "Management",
+      "Singleplayer",
+      "Economy",
+      "Sandbox",
+      "Building",
+      "Capitalism",
+      "Base Building",
+      "Life Sim",
+      "Funny",
+      "Crafting",
+      "First-Person",
+      "Comedy",
+      "Inventory Management",
+      "Physics",
+      "Casual",
+      "Open World",
+      "3D"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 10224,
+    "review_negative": 417,
+    "review_total": 10641,
+    "review_positive_percent": 96.08
+  }
+}

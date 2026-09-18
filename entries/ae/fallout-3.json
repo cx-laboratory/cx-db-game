@@ -1,0 +1,169 @@
+{
+  "key": "fallout-3",
+  "name": "Fallout 3",
+  "description": "Vault-Tec engineers have worked around the clock on an interactive reproduction of Wasteland life for you to enjoy from the comfort of your own vault. Included is an expansive world, unique combat, shockingly realistic visuals, tons of player choice, and an incredible cast of dynamic characters.",
+  "developers": [
+    "Bethesda Game Studios"
+  ],
+  "publishers": [
+    "Bethesda Softworks"
+  ],
+  "release_date": "2008-10-29",
+  "website": "http://fallout.bethsoft.com",
+  "tags": [
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Fallout3Launcher.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "FalloutLauncherSteam.exe",
+          "description": "Test Branch",
+          "type": "none"
+        },
+        {
+          "executable": "Fallout3Launcher.exe",
+          "description": "Test Branch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games\\Fallout3\\Saves",
+          "pattern": "*.fos",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games\\Fallout3",
+          "pattern": "FalloutPrefs.ini",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Fallout 3",
+    "Fallout3Launcher",
+    "FalloutLauncherSteam"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/22300/21d7090bdea8f6685ca730850b7b55acfdb92732.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/0000006107.1920x1080.jpg?t=1732208474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/0000006108.1920x1080.jpg?t=1732208474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/0000006109.1920x1080.jpg?t=1732208474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/0000006110.1920x1080.jpg?t=1732208474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/0000006111.1920x1080.jpg?t=1732208474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/0000006112.1920x1080.jpg?t=1732208474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/0000006113.1920x1080.jpg?t=1732208474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/0000006114.1920x1080.jpg?t=1732208474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/0000006115.1920x1080.jpg?t=1732208474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/0000006116.1920x1080.jpg?t=1732208474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/0000006117.1920x1080.jpg?t=1732208474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/0000006118.1920x1080.jpg?t=1732208474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/0000006119.1920x1080.jpg?t=1732208474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/0000006120.1920x1080.jpg?t=1732208474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/0000006121.1920x1080.jpg?t=1732208474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/0000006122.1920x1080.jpg?t=1732208474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/0000006123.1920x1080.jpg?t=1732208474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/0000006124.1920x1080.jpg?t=1732208474"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22300/0000006125.1920x1080.jpg?t=1732208474"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Fallout 3 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256696704/movie.293x165.jpg?t=1506541243",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/22300/125399/5217e2ec2f236e2b7643a3d7d8a12430a3bd811c/1750484711/dash_h264.mpd?t=1506541243"
+    }
+  ],
+  "metacritic": {
+    "score": 91,
+    "url": "https://www.metacritic.com/game/pc/fallout-3?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 22300,
+    "store_url": "https://store.steampowered.com/app/22300/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Partial Controller Support"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 17965,
+    "review_negative": 4080,
+    "review_total": 22045,
+    "review_positive_percent": 81.49
+  }
+}

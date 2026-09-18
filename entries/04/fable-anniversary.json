@@ -1,0 +1,177 @@
+{
+  "key": "fable-anniversary",
+  "name": "Fable Anniversary",
+  "description": "FOR EVERY CHOICE, A CONSEQUENCE.Fully re-mastered with HD visuals and audio, Fable Anniversary is a stunning rendition of the original game that will delight faithful fans and new players alike! The all new Heroic difficulty setting will test the mettle of even the most hardcore Fable fan.",
+  "developers": [
+    "Lionhead Studios"
+  ],
+  "publishers": [
+    "Xbox Game Studios"
+  ],
+  "release_date": "2014-09-13",
+  "website": "http://www.lionhead.com/games/fable-anniversary/",
+  "tags": [
+    "rpg",
+    "open-world",
+    "fantasy",
+    "singleplayer",
+    "adventure",
+    "classic",
+    "choices-matter",
+    "remake",
+    "action-rpg",
+    "atmospheric",
+    "third-person",
+    "story-rich",
+    "character-customization",
+    "action",
+    "comedy",
+    "great-soundtrack",
+    "medieval",
+    "magic",
+    "sandbox",
+    "funny"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "tchinese",
+    "russian",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "binaries\\Win32\\Fable Anniversary.exe",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "binaries\\Win32\\Fable Anniversary.exe",
+          "description": "Launch MODDED GAME",
+          "type": "default"
+        },
+        {
+          "executable": "binaries\\Win32\\Editor.exe",
+          "description": "Launch Editor",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "my games/FableHD",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Fable Anniversary",
+    "binaries\\Win32\\Fable Anniversary",
+    "binaries\\Win32\\Editor"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/288470/cf33f0a1796aabd7d0ce63af3acda1d81861ce5f.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/288470/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/288470/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/288470/library_600x900.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/288470/ss_5bbac59718c99529bfa8b79364b8bf89268228da.1920x1080.jpg?t=1742377409"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/288470/ss_d9e0637ee3f125befd682a0c622e3612b134fa50.1920x1080.jpg?t=1742377409"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/288470/ss_8178d3a0321f97f4e3b40b89c8138e945e971ae3.1920x1080.jpg?t=1742377409"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/288470/ss_918bc463c2de0cedf4e04d04b774c3e9247a2af5.1920x1080.jpg?t=1742377409"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/288470/ss_5ef72f8546b982d7e589a981175041bfdc1c694a.1920x1080.jpg?t=1742377409"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/288470/ss_43b8d59f1be5b11f702690352c255fc919d6976d.1920x1080.jpg?t=1742377409"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/288470/ss_fbb2308d1b961ed2f812f83c6942360dbbb07bb4.1920x1080.jpg?t=1742377409"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Fable Anniversary Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2034310/movie.293x165.jpg?t=1447363519",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/288470/24845/3ed767307173887a8afc9cfc67d6c3a420dc263b/1750500565/dash_h264.mpd?t=1447363519"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 288470,
+    "store_url": "https://store.steampowered.com/app/288470/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "RPG",
+      "Open World",
+      "Fantasy",
+      "Singleplayer",
+      "Adventure",
+      "Classic",
+      "Choices Matter",
+      "Remake",
+      "Action RPG",
+      "Atmospheric",
+      "Third Person",
+      "Story Rich",
+      "Character Customization",
+      "Action",
+      "Comedy",
+      "Great Soundtrack",
+      "Medieval",
+      "Magic",
+      "Sandbox",
+      "Funny"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 14000,
+    "review_negative": 2289,
+    "review_total": 16289,
+    "review_positive_percent": 85.95
+  }
+}

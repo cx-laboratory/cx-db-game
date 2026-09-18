@@ -1,0 +1,208 @@
+{
+  "key": "mini-metro",
+  "name": "Mini Metro",
+  "description": "Mini Metro is a strategy simulation game about designing a subway map for a growing city. Draw lines between stations and start your trains running. As new stations open, redraw your lines to keep them efficient. Decide where to use your limited resources. How long can you keep the city moving?",
+  "developers": [
+    "Dinosaur Polo Club"
+  ],
+  "publishers": [
+    "Dinosaur Polo Club"
+  ],
+  "release_date": "2015-11-07",
+  "website": "https://dinopoloclub.com/minimetro",
+  "tags": [
+    "indie",
+    "simulation",
+    "strategy",
+    "puzzle",
+    "minimalist",
+    "trains",
+    "singleplayer",
+    "casual",
+    "management",
+    "2d",
+    "relaxing",
+    "transportation",
+    "building",
+    "mouse-only",
+    "touch-friendly",
+    "difficult",
+    "great-soundtrack",
+    "addictive",
+    "replay-value",
+    "top-down"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "turkish",
+    "arabic",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "MiniMetro.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "MiniMetro.app/Contents/MacOS/MiniMetro",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "launchscript",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Mini Metro",
+    "MiniMetro",
+    "MiniMetro.app/Contents/MacOS/MiniMetro",
+    "launchscript"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/287980/1b389229474bb7112d0f0b8189b1cbe4ff8f14b5.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287980/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287980/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287980/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287980/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287980/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287980/ss_c7bc5df7e606504709e9f53ff9c7584ac4c01b18.1920x1080.jpg?t=1724386220"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287980/ss_540acc2e1e630b059c20e2887a22ca61eb323afe.1920x1080.jpg?t=1724386220"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287980/ss_f9561e067cc583fb8d39e8504aa94fecb2c1da21.1920x1080.jpg?t=1724386220"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287980/ss_0cf32a8483e4fa24b0953d80b778c915558a2a7f.1920x1080.jpg?t=1724386220"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287980/ss_a79dc2d5abc1c0f23cd83deb603da33e41a09e86.1920x1080.jpg?t=1724386220"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287980/ss_92bdb33bfa98412f6fe4a4e82a9ee769a6e0518f.1920x1080.jpg?t=1724386220"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287980/ss_dfab06581648248960ecf1390f7f5fac54c23d58.1920x1080.jpg?t=1724386220"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287980/ss_3274bd6ef4f2ea44a02f517f60d6332048f5a058.1920x1080.jpg?t=1724386220"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287980/ss_eb5bd99e2757aac961cc0774ca88cd1738fce79a.1920x1080.jpg?t=1724386220"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287980/ss_59eb8258fcfe32686ec98d5ac9fc922cacaca412.1920x1080.jpg?t=1724386220"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256657129/movie.293x165.jpg?t=1447378393",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/287980/44376/93d25312b56bb11d2461437f1fd17f90c05145a2/1750500518/dash_h264.mpd?t=1447378393"
+    }
+  ],
+  "metacritic": {
+    "score": 77,
+    "url": "https://www.metacritic.com/game/pc/mini-metro?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 287980,
+    "store_url": "https://store.steampowered.com/app/287980/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "Puzzle",
+      "Minimalist",
+      "Simulation",
+      "Trains",
+      "Indie",
+      "Singleplayer",
+      "Casual",
+      "Management",
+      "2D",
+      "Relaxing",
+      "Transportation",
+      "Building",
+      "Mouse Only",
+      "Touch-Friendly",
+      "Difficult",
+      "Great Soundtrack",
+      "Addictive",
+      "Replay Value",
+      "Top-Down"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 15937,
+    "review_negative": 656,
+    "review_total": 16593,
+    "review_positive_percent": 96.05
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "key": "dark-souls-remastered",
+  "name": "DARK SOULS™: REMASTERED",
+  "description": "Then, there was fire. Re-experience the critically acclaimed, genre-defining game that started it all. Beautifully remastered, return to Lordran in stunning high-definition detail running at 60fps.",
+  "developers": [
+    "QLOC"
+  ],
+  "publishers": [
+    "FromSoftware, Inc."
+  ],
+  "release_date": "2018-05-24",
+  "website": "",
+  "tags": [
+    "action",
+    "multiplayer"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "黑暗之魂：重制版"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "DarkSoulsRemastered.exe",
+          "description": "Default",
+          "type": "default"
+        },
+        {
+          "executable": "FRPG_x64_ReleaseBEST.exe",
+          "description": "Release_build",
+          "type": "option1"
+        },
+        {
+          "executable": "FRPG_x64_MasterBEST.exe",
+          "description": "Master_build",
+          "type": "option1"
+        },
+        {
+          "executable": "FRPG_x64_ReleaseBEST.exe",
+          "description": "Release_build",
+          "type": "option1"
+        },
+        {
+          "executable": "FRPG_x64_MasterBEST.exe",
+          "description": "Master_build",
+          "type": "option1"
+        },
+        {
+          "executable": "FRPG_x64_ReleaseBEST.exe",
+          "description": "Release_build",
+          "type": "option1"
+        },
+        {
+          "executable": "DarkSoulsRemastered.exe",
+          "description": "Master_build",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "NBGI/570940/{Steam3AccountID}",
+          "pattern": "*.sl2",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "NBGI/DARK SOULS REMASTERED/{Steam3AccountID}",
+          "pattern": "*.sl2",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "FromSoftware/DARK SOULS REMASTERED/{Steam3AccountID}",
+          "pattern": "*.sl2",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "DARK SOULS™: REMASTERED",
+    "DarkSoulsRemastered",
+    "FRPG_x64_ReleaseBEST",
+    "FRPG_x64_MasterBEST"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/570940/d74cfa4f3a2070f45ad8ce44e5f61a6507ee00b6.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/ss_3a71463e4ccaf28c5c27f6cf8d32a3a125f45404.1920x1080.jpg?t=1778518110"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/ss_92b2ba470cbfdb8839b649b3f478e5531dd81a17.1920x1080.jpg?t=1778518110"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/ss_626cc310dc9ac7fb146011582c864a35e5f3e381.1920x1080.jpg?t=1778518110"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/ss_f1617a419eb3b0cd877ec71230c59aa2672b62dc.1920x1080.jpg?t=1778518110"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/ss_f60f54e58b13d0744853672ccd35810397e3fa26.1920x1080.jpg?t=1778518110"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/ss_b4a80bd6e828a81db09ecbef5694e5d0cddb2caf.1920x1080.jpg?t=1778518110"
+    }
+  ],
+  "videos": [
+    {
+      "name": "DARK SOULS: REMASTERED - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257244237/14d7b9caf0961fe394903fdbe7b5d7aa3d2cc6bd/movie_600x337.jpg?t=1764975650",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/570940/630464638/1e50fce9cb5c144f01d5ca9ba26f67edd159ee69/1764973946/dash_h264.mpd?t=1764975650"
+    }
+  ],
+  "metacritic": {
+    "score": 84,
+    "url": "https://www.metacritic.com/game/pc/dark-souls-remastered?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 570940,
+    "store_url": "https://store.steampowered.com/app/570940/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 141006,
+    "review_negative": 11533,
+    "review_total": 152539,
+    "review_positive_percent": 92.44
+  }
+}

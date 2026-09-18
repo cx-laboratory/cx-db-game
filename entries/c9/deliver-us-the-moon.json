@@ -1,0 +1,204 @@
+{
+  "key": "deliver-us-the-moon",
+  "name": "Deliver Us The Moon",
+  "description": "Deliver Us The Moon is a Sci-Fi thriller set in an apocalyptic near future where Earth's natural resources are depleted. In an effort to solve the energy crisis, global powers created the World Space Agency and secured a promising new source of energy on the moon.",
+  "developers": [
+    "KeokeN Interactive"
+  ],
+  "publishers": [
+    "Wired Productions"
+  ],
+  "release_date": "2019-10-10",
+  "website": "http://www.deliverusthemoon.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "space",
+    "sci-fi",
+    "atmospheric",
+    "singleplayer",
+    "story-rich",
+    "puzzle",
+    "mystery",
+    "space-sim",
+    "exploration",
+    "simulation",
+    "short",
+    "walking-simulator",
+    "action-adventure",
+    "survival",
+    "third-person",
+    "multiplayer",
+    "first-person"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "MoonMan.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "MoonMan/Saved",
+          "pattern": "DUTM_SaveData",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Deliver Us The Moon",
+    "MoonMan"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/428660/737f90da99e2df766b94cb9a8f8b5a800f744075.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428660/e7b4937585969091d5a986edb8aaa0d191c1fca3/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428660/4564544dce6e735517b80aad86b752de1358ef8f/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428660/31ff218f831b55349df070ca440c155cbab10ced/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428660/ce4f2da77cdbef5ceddc2de112d361385d082533/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428660/0e23fc839bf8605a749cbebed736998303d01bbf/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428660/54002ad675072403dd9fbab805c9fc2cc76a22fd/ss_54002ad675072403dd9fbab805c9fc2cc76a22fd.1920x1080.jpg?t=1782220662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428660/ss_f28616e27f6093717e42e18b6793b14b597414ad.1920x1080.jpg?t=1782220662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428660/ss_39a5f0281840495fef2589ad0914f74300fc9e16.1920x1080.jpg?t=1782220662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428660/ss_c92035d34be90aa9b4e3b0bbfe3a32d96c8c6236.1920x1080.jpg?t=1782220662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428660/ss_bc075f8f78673c070b5883e03491364e3e94eada.1920x1080.jpg?t=1782220662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428660/ss_c7c82630d09281e8a03aea8df9a366dc6ac8ef15.1920x1080.jpg?t=1782220662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428660/ss_35bb95f203869418b98da8fc9e707ef1cca600c6.1920x1080.jpg?t=1782220662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428660/ss_89ea36ebd4f4a366e59af23ceecbbafb8fa6b25d.1920x1080.jpg?t=1782220662"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428660/ss_1e76e79d099afc32bd735d832ac68ff438e0ea0f.1920x1080.jpg?t=1782220662"
+    }
+  ],
+  "videos": [
+    {
+      "name": "RTX Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256770580/movie.293x165.jpg?t=1576764051",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/428660/258450/fd37a9349bca2e5a554dce4404837f70ef34c2af/1751282976/dash_h264.mpd?t=1576764051"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256764112/movie.293x165.jpg?t=1570715487",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/428660/246928/ff65e246807cbb620311562f00e53c620f1e4a20/1751282975/dash_h264.mpd?t=1570715487"
+    },
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256761775/movie.293x165.jpg?t=1568288975",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/428660/242693/6ebe50d456ba26aecc00ca9d7107d0a51f4491ea/1751282974/dash_h264.mpd?t=1568288975"
+    },
+    {
+      "name": "Dare to Leap! | Deliver Us The Moon [2019]",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256755093/movie.293x165.jpg?t=1562332269",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/428660/231067/6ead670f5fe353bcd5a25cca4b3928b8e9646e67/1751282973/dash_h264.mpd?t=1562332269"
+    },
+    {
+      "name": "Deliver Us The Moon - The Mission Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256730132/movie.293x165.jpg?t=1562332274",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/428660/186642/2f0eec4fe01fe8c40bc77abcbe1ed425e6d05260/1751282971/dash_h264.mpd?t=1562332274"
+    },
+    {
+      "name": "Deliver Us The Moon - Goodbye Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256729379/movie.293x165.jpg?t=1562332281",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/428660/185410/ca708538c069b8b547c39c1ef91f4e781cca7d14/1751282971/dash_h264.mpd?t=1562332281"
+    },
+    {
+      "name": "Deliver Us The Moon - The Blackout Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256729380/movie.293x165.jpg?t=1562332285",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/428660/185411/408aac2a5f158f57d28fda6ece86aa8fccf2b7d3/1751282971/dash_h264.mpd?t=1562332285"
+    }
+  ],
+  "metacritic": {
+    "score": 68,
+    "url": "https://www.metacritic.com/game/pc/deliver-us-the-moon?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 428660,
+    "store_url": "https://store.steampowered.com/app/428660/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Adventure",
+      "Indie",
+      "Action",
+      "Space",
+      "Sci-fi",
+      "Atmospheric",
+      "Singleplayer",
+      "Story Rich",
+      "Puzzle",
+      "Mystery",
+      "Space Sim",
+      "Exploration",
+      "Simulation",
+      "Short",
+      "Walking Simulator",
+      "Action-Adventure",
+      "Survival",
+      "Third Person",
+      "Multiplayer",
+      "First-Person"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8316,
+    "review_negative": 1107,
+    "review_total": 9423,
+    "review_positive_percent": 88.25
+  }
+}

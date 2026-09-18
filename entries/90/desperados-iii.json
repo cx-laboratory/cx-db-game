@@ -1,0 +1,231 @@
+{
+  "key": "desperados-iii",
+  "name": "Desperados III",
+  "description": "Desperados III is a story-driven, hardcore tactical stealth game, set in a ruthless Wild West scenario. Play smart if you want to succeed. A good plan can make the difference between survival and finding yourself at the business end of a pistol.",
+  "developers": [
+    "Mimimi Games"
+  ],
+  "publishers": [
+    "THQ Nordic"
+  ],
+  "release_date": "2020-06-17",
+  "website": "https://desperadosgame.com",
+  "tags": [
+    "strategy"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Desperados III.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Desperados III.exe",
+          "description": "Taskforce Testing",
+          "type": "default"
+        },
+        {
+          "executable": "Kartoffel.exe",
+          "description": "Legacy",
+          "type": "default"
+        },
+        {
+          "executable": "Desperados III.exe",
+          "description": "Desperados III with unlocked DLCs",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Desperados III/user_steam_{64BitSteamID}",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Desperados III/user",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Desperados III.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Desperados III/user_steam_{64BitSteamID}",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Desperados III/user",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Desperados III.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Desperados III/user_steam_{64BitSteamID}",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Desperados III/user",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Desperados III",
+    "Kartoffel",
+    "Desperados III.app",
+    "Desperados III.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/610370/3f8d3ff835397cb30ee44693757456060946de63.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610370/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610370/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610370/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610370/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610370/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610370/ss_0278ff2c4d3a7bc4b2e2968f27b07db332d81edf.1920x1080.jpg?t=1725010859"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610370/ss_63e3744aef636d584b7d4cd8dc98b2e6629192b2.1920x1080.jpg?t=1725010859"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610370/ss_f6460db130b27d95f8fc883045a648c256db40c6.1920x1080.jpg?t=1725010859"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610370/ss_94bf6cd34055f7219290e6191a124eaa9c40f6e3.1920x1080.jpg?t=1725010859"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610370/ss_e772cbea173029c7a4182a70e3f13de6a7f26e16.1920x1080.jpg?t=1725010859"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610370/ss_e8801324396415f38b134a0c33a2ef624bb2b84e.1920x1080.jpg?t=1725010859"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610370/ss_dc960514c254cf00555eb60bc65eaf85759ce128.1920x1080.jpg?t=1725010859"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610370/ss_85c798308bf1ca4583b6be1ad1fedec0568fba2c.1920x1080.jpg?t=1725010859"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256791353/movie.293x165.jpg?t=1604430438",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/610370/295872/c4076aad4878d3495fddee39af929a6e7998ffe1/1750562306/dash_h264.mpd?t=1604430438"
+    },
+    {
+      "name": "Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256789524/movie.293x165.jpg?t=1604430447",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/610370/292831/2b238301f88f2796d39f80aaaf34f8a867ef6849/1750562262/dash_h264.mpd?t=1604430447"
+    },
+    {
+      "name": "Characters Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256789824/movie.293x165.jpg?t=1604430454",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/610370/293245/1b9d9702fac6d57c5b4939f586fcf9db574cd460/1750562289/dash_h264.mpd?t=1604430454"
+    },
+    {
+      "name": "Explanation trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256786109/movie.293x165.jpg?t=1604430462",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/610370/287163/55b40e573d6523f8b7c1791cffff3a1f55745371/1750562257/dash_h264.mpd?t=1604430462"
+    },
+    {
+      "name": "announcement",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256725839/movie.293x165.jpg?t=1604430470",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/610370/179366/bdd2ca35805582015d1176db27cf963bb0e2d250/1750562242/dash_h264.mpd?t=1604430470"
+    },
+    {
+      "name": "John Cooper",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256782629/movie.293x165.jpg?t=1604430477",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/610370/280166/0ab8b35b0e4af55c7bff1c22d4479cd85175a714/1750562253/dash_h264.mpd?t=1604430477"
+    },
+    {
+      "name": "Isabelle Moreau reveal trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256760272/movie.293x165.jpg?t=1604430485",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/610370/240201/e137ba4165a03cab4028b9b67ee332b0230b3696/1750562242/dash_h264.mpd?t=1604430485"
+    }
+  ],
+  "metacritic": {
+    "score": 86,
+    "url": "https://www.metacritic.com/game/pc/desperados-iii?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 610370,
+    "store_url": "https://store.steampowered.com/app/610370/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 15873,
+    "review_negative": 572,
+    "review_total": 16445,
+    "review_positive_percent": 96.52
+  }
+}

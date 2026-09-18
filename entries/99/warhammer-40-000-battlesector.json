@@ -1,0 +1,234 @@
+{
+  "key": "warhammer-40-000-battlesector",
+  "name": "Warhammer 40,000: Battlesector",
+  "description": "Warhammer 40,000: Battlesector is a fast-paced turn-based strategy game set in the grimdark universe of the 41st Millennium. Pick your force, develop your army, field mighty heroes and fight for victory using superior strategy, awesome abilities, and devastating weaponry.",
+  "developers": [
+    "Slitherine Ltd."
+  ],
+  "publishers": [
+    "Slitherine Ltd."
+  ],
+  "release_date": "2021-07-22",
+  "website": "https://www.slitherine.com/game/warhammer-40000-battlesector",
+  "tags": [
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "turn-based-tactics",
+    "turn-based-strategy",
+    "3d",
+    "isometric",
+    "tactical",
+    "sci-fi",
+    "turn-based-combat",
+    "singleplayer",
+    "asynchronous-multiplayer",
+    "violent",
+    "combat",
+    "war",
+    "turn-based",
+    "space",
+    "replay-value",
+    "rts"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Polish",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Korean*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "战锤40,000：战区"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Launcher.exe",
+          "description": "Launcher",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "Black Lab Games/Warhammer 40,000 Battlesector/Saves",
+          "pattern": "*.bssave",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Black Lab Games/Warhammer 40,000 Battlesector/Skirmish",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Black Lab Games/Warhammer 40,000 Battlesector",
+          "pattern": "*.txt",
+          "recursive": false
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Black Lab Games/Warhammer 40,000 Battlesector/Maps",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "Black Lab Games/Warhammer 40,000 Battlesector/Campaigns",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Warhammer 40,000: Battlesector",
+    "Launcher",
+    "战锤40,000：战区"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1295500/da834f752b2aa0ad3a3567ccec96372cc4a890ce.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295500/73c10d272df29344752e2f42b8d18f6e85626147/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295500/744ea86b022c27955e961f98a1c0e17c14e7d2d5/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295500/106ef2a4d8e8d1807d24d626b629a3707d15fa89/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295500/e887ec632057713d8da6fd72360c12a5763909c9/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295500/b96bcfa30bee8c4e3a762a6d2dd698df28083d27/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295500/ss_c221d5d1759ba0778bf334145e3d9cf805057657.1920x1080.jpg?t=1780562381"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295500/ss_fd387cf6a17010d7c24a189a2187e41e5723986a.1920x1080.jpg?t=1780562381"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295500/ss_fbd361c8f27929d2e1d6fcb3a8846e62b35f2fb8.1920x1080.jpg?t=1780562381"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295500/ss_6ec0c0480a913deadfdbdd26bae629bc931a4464.1920x1080.jpg?t=1780562381"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295500/ss_d56f7d6a2d401f22ff7f46df663f5907a5b22730.1920x1080.jpg?t=1780562381"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295500/ss_7f218ebf05c06de838bba4c0347c7696f1eae808.1920x1080.jpg?t=1780562381"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Battlesector - Cinematic Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256843839/movie.293x165.jpg?t=1770209809",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1295500/386950/cd48e30c30c7cb85ffe4c9ee6244142c0229d9a0/1750670003/dash_h264.mpd?t=1770209809"
+    },
+    {
+      "name": "Battlesector - 2min",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256843833/movie.293x165.jpg?t=1770209811",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1295500/386941/2130ffe14eb14bd45dc6c38dd2208bebafa92c13/1750669985/dash_h264.mpd?t=1770209811"
+    },
+    {
+      "name": "Warhammer 40,000: Battlesector - Skulls 2025 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257143211/3429655abd1e84cca7d150bc5b58c3559b9d09d8/movie_600x337.jpg?t=1747933159",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1295500/1404424629/fbd31863a11ff3e07b48e26481bfd264ce352a7f/1750670022/dash_h264.mpd?t=1747933159"
+    },
+    {
+      "name": "Slitherine Next 2024 | Warhammer 40,000: Battlesector – Developers Talk",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257080536/f827e8ffbd152546d98f2012dcf9c35e6e29e368/movie_600x337.jpg?t=1733852553",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1295500/797653/81a3b87a29ee7f72f8a6d7b26afa44dae4253a4d/1750670021/dash_h264.mpd?t=1733852553"
+    },
+    {
+      "name": "Warhammer 40,000: Battlesector - Skulls 2024 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257024012/movie.293x165.jpg?t=1716482866",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1295500/701632/82019ee0823e748a5a4906a1c98f47e8e7627958/1750670012/dash_h264.mpd?t=1716482866"
+    },
+    {
+      "name": "Battlesector - Tyranids",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256842068/movie.293x165.jpg?t=1625744467",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1295500/383106/0cf9606342b14c6a881126798804e5fada987510/1750669977/dash_h264.mpd?t=1625744467"
+    },
+    {
+      "name": "Battlesector - Librarian Dreadnought & Aggressors",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256836150/movie.293x165.jpg?t=1622033176",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1295500/372405/c59c353fffde85fc91de4bf2c51a3855444f86d1/1750669973/dash_h264.mpd?t=1622033176"
+    },
+    {
+      "name": "Pre-order Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256834142/movie.293x165.jpg?t=1620664592",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1295500/368572/9559328a1feae8c46516dc5c54be2fc36f12116f/1750670276/dash_h264.mpd?t=1620664592"
+    },
+    {
+      "name": "Battlesector - Assault Marines and Inceptors",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256831160/movie.293x165.jpg?t=1618821971",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1295500/362953/fbaf0a80aa05dc4a4424e566849d15356f239fa1/1750669954/dash_h264.mpd?t=1618821971"
+    },
+    {
+      "name": "Battlesector - Intercessors and Hellblasters",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256828493/movie.293x165.jpg?t=1617371086",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1295500/358427/51e078d90eebac2661cda36f2434d7ac53befc5d/1750670682/dash_h264.mpd?t=1617371086"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1295500,
+    "store_url": "https://store.steampowered.com/app/1295500/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "Turn-Based Tactics",
+      "Turn-Based Strategy",
+      "3D",
+      "Isometric",
+      "Tactical",
+      "Sci-fi",
+      "Turn-Based Combat",
+      "Singleplayer",
+      "Asynchronous Multiplayer",
+      "Multiplayer",
+      "PvP",
+      "Violent",
+      "Combat",
+      "War",
+      "Turn-Based",
+      "Space",
+      "Replay Value",
+      "RTS"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 5848,
+    "review_negative": 879,
+    "review_total": 6727,
+    "review_positive_percent": 86.93
+  }
+}

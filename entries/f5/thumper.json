@@ -1,0 +1,199 @@
+{
+  "key": "thumper",
+  "name": "Thumper",
+  "description": "Thumper is rhythm violence: classic rhythm-action, blistering speed, and brutal physicality. You are a space beetle. Brave the hellish void and confront a maniacal giant head from the future.",
+  "developers": [
+    "Drool"
+  ],
+  "publishers": [
+    "Drool"
+  ],
+  "release_date": "2016-10-11",
+  "website": "http://thumpergame.com",
+  "tags": [
+    "action",
+    "indie",
+    "rhythm",
+    "psychedelic",
+    "great-soundtrack",
+    "difficult",
+    "music",
+    "vr",
+    "atmospheric",
+    "fast-paced",
+    "singleplayer",
+    "horror",
+    "dark",
+    "arcade",
+    "lovecraftian",
+    "racing",
+    "dark-fantasy",
+    "fantasy",
+    "controller"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "swedish",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "THUMPER_win8.exe",
+          "description": "Thumper",
+          "type": "option1"
+        },
+        {
+          "executable": "THUMPER_win8.exe",
+          "description": "Thumper",
+          "type": "vr"
+        },
+        {
+          "executable": "THUMPER_win8.exe",
+          "description": "Thumper",
+          "type": "othervr"
+        },
+        {
+          "executable": "THUMPER_dx9.exe",
+          "description": "Thumper DX9 legacy mode",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "savedata/{64BitSteamID}",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Thumper",
+    "THUMPER_win8",
+    "THUMPER_dx9"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/356400/207978b33c398b8d0995d4e885b7b2d15ce1cf50.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356400/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356400/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356400/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356400/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356400/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356400/ss_26cfa006225969a9fde35b60687d588eea40948b.1920x1080.jpg?t=1677622045"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356400/ss_7a756585fc622452e686b46ee27709702a48274a.1920x1080.jpg?t=1677622045"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356400/ss_1913cc1bf6abe7c757343362cecbd27f36a27e7b.1920x1080.jpg?t=1677622045"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356400/ss_5ebfb95c6c457c3aa5ef6187679f0ace2d47f7ee.1920x1080.jpg?t=1677622045"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356400/ss_47584f60fbb08b48ed6a8e79797392cba23a1e33.1920x1080.jpg?t=1677622045"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356400/ss_7fa9d22b355a9bf18e1e3d7c96469069250d2e40.1920x1080.jpg?t=1677622045"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356400/ss_e0eb8f376637fb7d16110dd2c2878d95f72f579e.1920x1080.jpg?t=1677622045"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356400/ss_f498f7d0b2d5bb0b33bf1b98c7be9efba3776426.1920x1080.jpg?t=1677622045"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356400/ss_4f185fcb24090e4f2cd4cfa49ac71867c73694d5.1920x1080.jpg?t=1677622045"
+    }
+  ],
+  "videos": [
+    {
+      "name": "release trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256672271/movie.293x165.jpg?t=1481955450",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/356400/75884/3dcf68903184fb87633f83872a97d6956fbadb25/1751269570/dash_h264.mpd?t=1481955450"
+    }
+  ],
+  "metacritic": {
+    "score": 86,
+    "url": "https://www.metacritic.com/game/pc/thumper?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 356400,
+    "store_url": "https://store.steampowered.com/app/356400/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "VR Supported",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Rhythm",
+      "Indie",
+      "Action",
+      "Psychedelic",
+      "Great Soundtrack",
+      "Difficult",
+      "Music",
+      "VR",
+      "Atmospheric",
+      "Fast-Paced",
+      "Singleplayer",
+      "Horror",
+      "Dark",
+      "Arcade",
+      "Psychological Horror",
+      "Lovecraftian",
+      "Racing",
+      "Dark Fantasy",
+      "Fantasy",
+      "Controller"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 4013,
+    "review_negative": 364,
+    "review_total": 4377,
+    "review_positive_percent": 91.68
+  }
+}

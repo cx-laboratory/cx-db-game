@@ -1,0 +1,208 @@
+{
+  "key": "bug-fables-the-everlasting-sapling",
+  "name": "Bug Fables: The Everlasting Sapling",
+  "description": "Follow Vi, Kabbu, and Leif as they uncover the secrets of the Land of Bugaria! Explore and combine your team's abilities to solve puzzles, defeat powerful enemies and find ancient treasures!",
+  "developers": [
+    "Moonsprout Games"
+  ],
+  "publishers": [
+    "DANGEN Entertainment"
+  ],
+  "release_date": "2019-11-22",
+  "website": "https://bugfables.dangenentertainment.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "party-based-rpg",
+    "exploration",
+    "turn-based",
+    "jrpg",
+    "2-5d",
+    "cute",
+    "funny",
+    "story-rich",
+    "turn-based-combat",
+    "character-customization",
+    "team-based",
+    "colorful",
+    "anime",
+    "fantasy",
+    "family-friendly",
+    "comedy",
+    "singleplayer",
+    "crafting"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "japanese",
+    "portuguese",
+    "latam"
+  ],
+  "name_localized": {
+    "japanese": "バグ・フェイブルズ ～ムシたちとえいえんの若木～",
+    "brazilian": "Bug Fables: O Broto da Eternidade",
+    "russian": "Жучиные истории: Легенда о бессмертнике",
+    "koreana": "곤충우화: 영생의 묘목",
+    "schinese": "虫虫寓言:永恆之树苗",
+    "tchinese": "蟲蟲寓言:永恆之樹苗",
+    "german": "Bug Fables: Der immerwährende Sprössling"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Bug Fables.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": ".",
+          "pattern": "save0.dat",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": ".",
+          "pattern": "save1.dat",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": ".",
+          "pattern": "save2.dat",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Bug Fables: The Everlasting Sapling",
+    "Bug Fables",
+    "バグ・フェイブルズ ～ムシたちとえいえんの若木～",
+    "Bug Fables: O Broto da Eternidade",
+    "Жучиные истории: Легенда о бессмертнике",
+    "곤충우화: 영생의 묘목",
+    "虫虫寓言:永恆之树苗",
+    "蟲蟲寓言:永恆之樹苗",
+    "Bug Fables: Der immerwährende Sprössling"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1082710/8b5b87de36b26c7181970f9299cadf6ec18f9d55.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1082710/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1082710/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1082710/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1082710/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1082710/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1082710/ss_18070b8482e104807816492af62c306f6abcb193.1920x1080.jpg?t=1772596493"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1082710/ss_ae349225eaf9dda16cfa8fb94f2591b23bba3ef1.1920x1080.jpg?t=1772596493"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1082710/ss_b7c5f851f6824c639f256e7dac5ad7340c4bb06b.1920x1080.jpg?t=1772596493"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1082710/ss_4ea54c3b9a2b2e524fcca354b5b982e1c1a8b977.1920x1080.jpg?t=1772596493"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1082710/ss_471c15a5b84810e15ae396dbc469d76437e2661c.1920x1080.jpg?t=1772596493"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1082710/ss_df45db6740f47b58031fe10b0675d71673fe0f54.1920x1080.jpg?t=1772596493"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1082710/ss_fd0e132cfd198eafbc7b3d11cafec51da4db8787.1920x1080.jpg?t=1772596493"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1082710/ss_21400f8fa81e63d2ae95538ddfbf7f23e1c0c270.1920x1080.jpg?t=1772596493"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Update 1.2 Trailer (EN)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257075420/0ce2f5c66f5a2e5330a81a6d1ff6c48d7bb948f6/movie_600x337.jpg?t=1732197579",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1082710/789037/35b8914a13c9166c217a3e2e2ffce9a996a8a999/1750613636/dash_h264.mpd?t=1732197579"
+    },
+    {
+      "name": "Update 1.1 Trailer (English)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256816003/movie.293x165.jpg?t=1608610534",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1082710/336487/99dbe73ca640dc9a1d20011a162cc26e8464c3e4/1750613596/dash_h264.mpd?t=1608610534"
+    },
+    {
+      "name": "Bug Fables PC Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256767834/movie.293x165.jpg?t=1574340185",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1082710/253769/c097fe6ce2c80cf894bb16501783970d0d4de276/1750613585/dash_h264.mpd?t=1574340185"
+    },
+    {
+      "name": "Bitsummit Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256752175/movie.293x165.jpg?t=1560200258",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1082710/225836/88b78142276ab85accea9161bcf710c7ebff347b/1750613568/dash_h264.mpd?t=1560200258"
+    }
+  ],
+  "metacritic": {
+    "score": 86,
+    "url": "https://www.metacritic.com/game/pc/bug-fables-the-everlasting-sapling?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1082710,
+    "store_url": "https://store.steampowered.com/app/1082710/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Party-Based RPG",
+      "Exploration",
+      "Turn-Based",
+      "RPG",
+      "JRPG",
+      "2.5D",
+      "Cute",
+      "Funny",
+      "Story Rich",
+      "Turn-Based Combat",
+      "Character Customization",
+      "Team-Based",
+      "Colorful",
+      "Anime",
+      "Fantasy",
+      "Family Friendly",
+      "Comedy",
+      "Singleplayer",
+      "Indie",
+      "Crafting"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 5779,
+    "review_negative": 177,
+    "review_total": 5956,
+    "review_positive_percent": 97.03
+  }
+}

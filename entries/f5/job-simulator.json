@@ -1,0 +1,186 @@
+{
+  "key": "job-simulator",
+  "name": "Job Simulator",
+  "description": "In a world where robots have replaced all human jobs, step into the &quot;Job Simulator&quot; to learn what it was like 'to job'.",
+  "developers": [
+    "Owlchemy Labs"
+  ],
+  "publishers": [
+    "Owlchemy Labs"
+  ],
+  "release_date": "2016-04-05",
+  "website": "http://jobsimulatorgame.com",
+  "tags": [
+    "action",
+    "casual",
+    "indie",
+    "simulation",
+    "vr",
+    "horror",
+    "funny",
+    "first-person",
+    "singleplayer",
+    "robots",
+    "comedy",
+    "physics",
+    "job-simulator",
+    "family-friendly",
+    "memes",
+    "sandbox",
+    "sci-fi",
+    "atmospheric",
+    "realistic"
+  ],
+  "supported_platforms": [
+    "windows",
+    "android"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "JobSimulator.exe",
+          "description": "Job Simulator",
+          "type": "vr"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Owlchemy Labs/Job Simulator/User/",
+          "pattern": "*.save",
+          "recursive": false
+        }
+      ]
+    },
+    "android": {
+      "launch": [
+        {
+          "executable": "JobSimulator.apk",
+          "description": "Job Simulator",
+          "type": "openxr"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Owlchemy Labs/Job Simulator/User/",
+          "pattern": "*.save",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Job Simulator",
+    "JobSimulator",
+    "JobSimulator.apk"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/448280/ce403508316392c8ed1322c2dffdaaa486b463aa.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448280/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448280/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448280/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448280/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448280/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448280/ss_ff7151cab14752f2b6501c31c3c79235b79cc45a.1920x1080.jpg?t=1781645339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448280/ss_a1cd6f60b87da82ac6e92dee02dcb0b3aa8f5919.1920x1080.jpg?t=1781645339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448280/ss_9e1beefe47e4950f97a8f917ae856f983795102b.1920x1080.jpg?t=1781645339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448280/ss_711e504b52d3cb37db9fdb7d572f3994424963c7.1920x1080.jpg?t=1781645339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448280/ss_2598b244c665edaee010ec853ba88e806e8d2017.1920x1080.jpg?t=1781645339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448280/ss_8f66ed76e8841d1dcdff6efdbae1e0ccc0c47954.1920x1080.jpg?t=1781645339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448280/ss_4194c9a11c4a5923727155bd33932982b6a9e6cf.1920x1080.jpg?t=1781645339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448280/ss_a0cbfa2615c99c77204c6aa01732f9cb65323dc5.1920x1080.jpg?t=1781645339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448280/ss_b962304b95689cd762870d72d153c79ec64a24a5.1920x1080.jpg?t=1781645339"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/448280/ss_2fc95abbbd2e5430c137f78fbed9dd6647c9bb22.1920x1080.jpg?t=1781645339"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Job Simulator Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256662581/movie.293x165.jpg?t=1459863054",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/448280/55809/080d4adb1f824d0d39550d6a06e3d5943c671410/1750532013/dash_h264.mpd?t=1459863054"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 448280,
+    "store_url": "https://store.steampowered.com/app/448280/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Tracked Controller Support",
+      "VR Only",
+      "Steam Trading Cards",
+      "Captions available",
+      "VR Support",
+      "SteamVR Collectibles",
+      "Family Sharing"
+    ],
+    "tags": [
+      "VR",
+      "Simulation",
+      "Horror",
+      "Psychological Horror",
+      "Funny",
+      "First-Person",
+      "Singleplayer",
+      "Robots",
+      "Comedy",
+      "Physics",
+      "Job Simulator",
+      "Family Friendly",
+      "Memes",
+      "Casual",
+      "Sandbox",
+      "Sci-fi",
+      "Indie",
+      "Action",
+      "Atmospheric",
+      "Realistic"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 4929,
+    "review_negative": 471,
+    "review_total": 5400,
+    "review_positive_percent": 91.28
+  }
+}

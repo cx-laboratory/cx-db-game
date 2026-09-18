@@ -1,0 +1,170 @@
+{
+  "key": "quantum-break",
+  "name": "Quantum Break",
+  "description": "From Remedy Entertainment, the masters of cinematic action games, comes Quantum Break, a time-amplified suspenseful blockbuster. The Quantum Break experience is part game, part live action show—where decisions in one dramatically affect the other.",
+  "developers": [
+    "Remedy Entertainment"
+  ],
+  "publishers": [
+    "Xbox Game Studios"
+  ],
+  "release_date": "2016-09-29",
+  "website": "http://www.quantumbreak.com/",
+  "tags": [
+    "action",
+    "story-rich",
+    "time-manipulation",
+    "sci-fi",
+    "singleplayer",
+    "cinematic",
+    "third-person",
+    "third-person-shooter",
+    "choices-matter",
+    "atmospheric",
+    "time-travel",
+    "episodic",
+    "adventure",
+    "shooter",
+    "bullet-time",
+    "great-soundtrack",
+    "controller",
+    "fmv",
+    "open-world",
+    "stealth"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "tchinese",
+    "russian",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "dx11\\QuantumBreak.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "QuantumBreak/{Steam3AccountID}/savegames",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "QuantumBreak/{Steam3AccountID}",
+          "pattern": "config",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Quantum Break",
+    "dx11\\QuantumBreak"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/474960/68c50addc599af219e4e135a81733a867c2986c2.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/474960/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/474960/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/474960/library_600x900.jpg",
+    "hero_1920x620_url": "",
+    "logo_640x324_url": ""
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/474960/ss_70f6a0bda2048d02f923244e46634c995a529a03.1920x1080.jpg?t=1773351175"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/474960/ss_72b6160576d81ac4a6e526954f0a87838bf7af66.1920x1080.jpg?t=1773351175"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/474960/ss_a5501cff76671066df183949d96e4587a387fdf8.1920x1080.jpg?t=1773351175"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/474960/ss_57a4aa5f00cce706fb9ec78e8d699bb00e39b6f7.1920x1080.jpg?t=1773351175"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/474960/ss_8ef2e72ab325c7c5a6d81d673ebbc78f59cf4873.1920x1080.jpg?t=1773351175"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Quantum Break Steam Trailer ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256686491/movie.293x165.jpg?t=1496661560",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/474960/106053/182fc680f1a3bb1b1777eea3627c25c844346f03/1750535223/dash_h264.mpd?t=1496661560"
+    },
+    {
+      "name": "Cemetery Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256668460/movie.293x165.jpg?t=1470870458",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/474960/67699/037e66b3c876aa24c7dd508a66572380f892ff4f/1750535193/dash_h264.mpd?t=1470870458"
+    }
+  ],
+  "metacritic": {
+    "score": 66,
+    "url": "https://www.metacritic.com/game/pc/quantum-break?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 474960,
+    "store_url": "https://store.steampowered.com/app/474960/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Story Rich",
+      "Action",
+      "Time Manipulation",
+      "Sci-fi",
+      "Singleplayer",
+      "Cinematic",
+      "Third Person",
+      "Third-Person Shooter",
+      "Choices Matter",
+      "Atmospheric",
+      "Time Travel",
+      "Episodic",
+      "Adventure",
+      "Shooter",
+      "Bullet Time",
+      "Great Soundtrack",
+      "Controller",
+      "FMV",
+      "Open World",
+      "Stealth"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 26179,
+    "review_negative": 4391,
+    "review_total": 30570,
+    "review_positive_percent": 85.64
+  }
+}

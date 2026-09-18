@@ -1,0 +1,156 @@
+{
+  "key": "the-werecleaner",
+  "name": "The WereCleaner",
+  "description": "Kyle is a Janitor. He's also a Werewolf. And now he's got the night shift. Try not to kill anyone while working to get your paycheck - in a stealth-comedy game with surprises around every corner.",
+  "developers": [
+    "Howlin' Hugs"
+  ],
+  "publishers": [
+    "USC Games"
+  ],
+  "release_date": "2024-05-08",
+  "website": "https://linktr.ee/thewerecleaner",
+  "tags": [
+    "action",
+    "casual",
+    "indie",
+    "strategy",
+    "free-to-play",
+    "stealth",
+    "cartoony",
+    "dark-humor",
+    "cute",
+    "arcade",
+    "singleplayer",
+    "tactical",
+    "retro",
+    "action-adventure",
+    "colorful",
+    "werewolves",
+    "comedy",
+    "3d",
+    "top-down",
+    "controller"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "The WereCleaner.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "USCGames/The WereCleaner/SavesDir",
+          "pattern": "*.txt",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The WereCleaner"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2795000/4be12126f4ed5d74addfca7e854acff3d716b09e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2795000/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2795000/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2795000/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2795000/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2795000/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2795000/ss_c63ab1fcf282e6cfdbe756925a2534edcef25156.1920x1080.jpg?t=1743640867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2795000/ss_df67ec55b05f960df448e60cabfac5ab7eafecfc.1920x1080.jpg?t=1743640867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2795000/ss_031ce977f2f23f50d49efc0014d9e1edcb2e0966.1920x1080.jpg?t=1743640867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2795000/ss_e72bbef9495b6cf56a5c2cc674b9261129df6427.1920x1080.jpg?t=1743640867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2795000/ss_8592fb5d26aa009bf666efe86bada251504ae536.1920x1080.jpg?t=1743640867"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2795000/ss_2b9d416752db990cc8a3ebc362d41c4fd5e08b49.1920x1080.jpg?t=1743640867"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257017576/movie.293x165.jpg?t=1715718904",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2795000/690308/9ed6875e0224b162f0de49d359aa48137f1c219d/1750900840/dash_h264.mpd?t=1715718904"
+    },
+    {
+      "name": "Intro Cutscene",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257015653/movie.293x165.jpg?t=1712953414",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2795000/686960/05557acccae2d41cd68480ca929997a41112fb80/1750900839/dash_h264.mpd?t=1712953414"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2795000,
+    "store_url": "https://store.steampowered.com/app/2795000/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Strategy",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Stealth",
+      "Casual",
+      "Cartoony",
+      "Dark Humor",
+      "Cute",
+      "Strategy",
+      "Arcade",
+      "Singleplayer",
+      "Free to Play",
+      "Tactical",
+      "Retro",
+      "Action-Adventure",
+      "Colorful",
+      "Werewolves",
+      "Comedy",
+      "3D",
+      "Indie",
+      "Top-Down",
+      "Action",
+      "Controller"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 12815,
+    "review_negative": 75,
+    "review_total": 12890,
+    "review_positive_percent": 99.42
+  }
+}

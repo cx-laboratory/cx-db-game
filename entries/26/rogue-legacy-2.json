@@ -1,0 +1,245 @@
+{
+  "key": "rogue-legacy-2",
+  "name": "Rogue Legacy 2",
+  "description": "Rogue Legacy 2 is what you'd get if you mashed Rogue Legacy and a sequel together. Every time you die, your children will succeed you, and each child is unique. Your daughter might be a Colourblind Archer, and your son could be a Pacifistic Chef. Either way, one of them is getting conscripted.",
+  "developers": [
+    "Cellar Door Games"
+  ],
+  "publishers": [
+    "Cellar Door Games"
+  ],
+  "release_date": "2022-04-28",
+  "website": "https://www.roguelegacy2.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "rpg",
+    "arcade",
+    "metroidvania",
+    "platformer",
+    "roguelite",
+    "difficult",
+    "singleplayer",
+    "2d",
+    "roguelike",
+    "side-scroller",
+    "procedural-generation",
+    "cartoony",
+    "2d-platformer",
+    "great-soundtrack",
+    "action-roguelike",
+    "replay-value",
+    "pixel-graphics"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Rogue Legacy 2.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Cellar Door Games/Rogue Legacy 2/Saves/Steam/{64BitSteamID}",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "RogueLegacy2.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Cellar Door Games/Rogue Legacy 2/Saves/Steam/{64BitSteamID}",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "./RogueLegacy2.x86_64",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "./RogueLegacy2",
+          "description": "Play (Updated SDL)",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Cellar Door Games/Rogue Legacy 2/Saves/Steam/{64BitSteamID}",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Rogue Legacy 2",
+    "RogueLegacy2.app",
+    "./RogueLegacy2.x86_64",
+    "./RogueLegacy2"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1253920/26b5893433c0983aa19ec4403465f7616a46e5cb.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1253920/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1253920/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1253920/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1253920/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1253920/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1253920/ss_38e3dcba9ad2a6c8d6defb69ae1b3137f9eb2907.1920x1080.jpg?t=1710829748"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1253920/ss_21e41442a39177a8785cb4bce39ff65f0f74672c.1920x1080.jpg?t=1710829748"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1253920/ss_387ee5bf5e2faffadfb7b6925b90ca9e767ee595.1920x1080.jpg?t=1710829748"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1253920/ss_0371a24285fb03b09b40e595773dd243222128df.1920x1080.jpg?t=1710829748"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1253920/ss_46a4a19ec64f5c7b06faa6614f9de2f3e1fd657b.1920x1080.jpg?t=1710829748"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1253920/ss_ef42f4012a6ed6ccda423d5460f083823dcd8148.1920x1080.jpg?t=1710829748"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1253920/ss_64fb14cba2f9f4b168e0017ff5f71b3b4329693d.1920x1080.jpg?t=1710829748"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1253920/ss_a488133e129fae275974d7ead6de11c4f28491cb.1920x1080.jpg?t=1710829748"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1253920/ss_77ef01bb46a7cfa4d9d2c2e8db96dac7bcf597ad.1920x1080.jpg?t=1710829748"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1253920/ss_fb6424d1395263ffb9878b649ea5b521746e769c.1920x1080.jpg?t=1710829748"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1253920/ss_1f94558c66d95e615a1d0c44c02f63412f333479.1920x1080.jpg?t=1710829748"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1253920/ss_e9033ac115bf6739a479f06dae474f7f990b3e6b.1920x1080.jpg?t=1710829748"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1253920/ss_0288a11ccf13cbeaa298ba807034edf117289d19.1920x1080.jpg?t=1710829748"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1253920/ss_1dbff9ec7ff75a45a5c0b61368ffb693e6830598.1920x1080.jpg?t=1710829748"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1253920/ss_608cd48c6d08d0e65a7f67bb4a1d67169eddd33e.1920x1080.jpg?t=1710829748"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1253920/ss_9b2f114d1c8eb953e262225136e96b18b007159f.1920x1080.jpg?t=1710829748"
+    }
+  ],
+  "videos": [
+    {
+      "name": "v.1.0 Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256884105/movie.293x165.jpg?t=1661800361",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1253920/458510/63e8c2ce6bbd6f5e77ae23e474a7967a111320c1/1750651780/dash_h264.mpd?t=1661800361"
+    }
+  ],
+  "metacritic": {
+    "score": 88,
+    "url": "https://www.metacritic.com/game/pc/rogue-legacy-2?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1253920,
+    "store_url": "https://store.steampowered.com/app/1253920/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Arcade",
+      "Metroidvania",
+      "Platformer",
+      "Action",
+      "Indie",
+      "Adventure",
+      "Roguelite",
+      "RPG",
+      "Difficult",
+      "Singleplayer",
+      "2D",
+      "Roguelike",
+      "Side Scroller",
+      "Procedural Generation",
+      "Cartoony",
+      "2D Platformer",
+      "Great Soundtrack",
+      "Action Roguelike",
+      "Replay Value",
+      "Pixel Graphics"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 13664,
+    "review_negative": 1374,
+    "review_total": 15038,
+    "review_positive_percent": 90.86
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "key": "lyne",
+  "name": "LYNE",
+  "description": "Deceptively simple. Infinitely complex. LYNE is a minimalist puzzle game that will knot your brain as it calms your soul. Connect the shapes. Fill the board. Lose yourself in the interflowing paths of LYNE.",
+  "developers": [
+    "Thomas Bowker"
+  ],
+  "publishers": [
+    "Thomas Bowker"
+  ],
+  "release_date": "2014-03-17",
+  "website": "http://www.lynegame.com",
+  "tags": [
+    "casual",
+    "indie",
+    "puzzle",
+    "logic",
+    "minimalist",
+    "relaxing",
+    "difficult",
+    "procedural-generation",
+    "abstract",
+    "mouse-only",
+    "touch-friendly",
+    "atmospheric",
+    "singleplayer",
+    "arcade",
+    "adventure",
+    "2d",
+    "great-soundtrack",
+    "strategy",
+    "action"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English*",
+    "French*",
+    "Italian*",
+    "German*",
+    "Spanish - Spain*",
+    "Dutch*",
+    "Japanese*",
+    "Korean*",
+    "Portuguese - Brazil*",
+    "Russian*",
+    "Simplified Chinese*",
+    "Traditional Chinese**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "LYNE.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "lyne.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "LYNE.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "lyne.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "LYNE.x64",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "saves",
+          "pattern": "lyne.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "LYNE",
+    "LYNE.app",
+    "LYNE.x64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/266010/791128c6560d94d6871e40bc17a20b418e366123.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266010/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266010/dea39ac5f2dd65bfb82cd91f37fde9350acc8e13/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266010/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266010/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266010/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266010/ss_711beffb090b3da7fdc81d8e1740097501c95d2b.1920x1080.jpg?t=1724979609"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266010/ss_b315fcabe4efd15ba60ae4f1f68b4c5eee5ae556.1920x1080.jpg?t=1724979609"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266010/ss_a29f964ec36af3fedfad85050e565a2fb493c425.1920x1080.jpg?t=1724979609"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266010/ss_9443fc7a9d08b49e4592766bb192857e841f37d9.1920x1080.jpg?t=1724979609"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266010/ss_bb6366f5c798a8b3d001a7458ba59592b4991809.1920x1080.jpg?t=1724979609"
+    }
+  ],
+  "videos": [
+    {
+      "name": "LYNE 003",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257050174/movie.293x165.jpg?t=1724832693",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/266010/747257/900a2b89c596702ade85306c9061637d0e5b42dc/1751269425/dash_h264.mpd?t=1724832693"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 266010,
+    "store_url": "https://store.steampowered.com/app/266010/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Puzzle",
+      "Logic",
+      "Minimalist",
+      "Relaxing",
+      "Difficult",
+      "Casual",
+      "Procedural Generation",
+      "Abstract",
+      "Mouse Only",
+      "Touch-Friendly",
+      "Indie",
+      "Atmospheric",
+      "Singleplayer",
+      "Arcade",
+      "Adventure",
+      "2D",
+      "Great Soundtrack",
+      "Strategy",
+      "Action"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 7878,
+    "review_negative": 364,
+    "review_total": 8242,
+    "review_positive_percent": 95.58
+  }
+}

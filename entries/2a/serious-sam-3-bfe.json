@@ -1,0 +1,264 @@
+{
+  "key": "serious-sam-3-bfe",
+  "name": "Serious Sam 3: BFE",
+  "description": "Serious Sam 3: BFE is a prequel to the original indie fast action FPS and Game of the Year sensation - Serious Sam: The First Encounter!",
+  "developers": [
+    "Croteam"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "release_date": "2011-11-23",
+  "website": "http://www.croteam.com",
+  "tags": [
+    "action",
+    "indie",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "split-screen",
+    "fps",
+    "gore",
+    "comedy",
+    "first-person",
+    "shooter",
+    "aliens",
+    "old-school",
+    "local-multiplayer",
+    "singleplayer",
+    "funny",
+    "difficult",
+    "adventure",
+    "sci-fi"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "bulgarian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Bin\\Sam3.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Bin\\Sam3_Unrestricted.exe",
+          "description": "Play moddable version",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Bin/Sam3",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Bin/Sam3_Unrestricted",
+          "description": "Play moddable version",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Bin/Sam3",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Bin/Sam3_Unrestricted",
+          "description": "Play moddable version",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Serious Sam 3: BFE",
+    "Bin\\Sam3",
+    "Bin\\Sam3_Unrestricted",
+    "Bin/Sam3",
+    "Bin/Sam3_Unrestricted"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/41070/2e7a17d4b345ffb13ef3d9e39257c2659fe4a86b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41070/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41070/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41070/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41070/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41070/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41070/ss_7b281512d67a5220d4eef494234943771ddca71b.1920x1080.jpg?t=1728688460"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41070/ss_7c27d177655d862036f028d0975a1e5b89916bda.1920x1080.jpg?t=1728688460"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41070/ss_63713b15a386bfe26f9d363f14b77cfe9ef4104f.1920x1080.jpg?t=1728688460"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41070/ss_2f3400682e6387d3a1f14ead5b8598013be3e791.1920x1080.jpg?t=1728688460"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41070/ss_fbcbf87ac76aaad5f9a6948cd2ec055b0d0d18d1.1920x1080.jpg?t=1728688460"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41070/ss_ddfc10669e8c4fc401b1252343bc5b9d1ca458ce.1920x1080.jpg?t=1728688460"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41070/ss_bc5d5bab949346b0e1511e2b4e1d5eb536c3d57e.1920x1080.jpg?t=1728688460"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41070/ss_4ad3d5a2123c1e02d308a5c01f2857ece55ee12a.1920x1080.jpg?t=1728688460"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41070/ss_02c659fad6a20d4c5e31d308cbf8a3809bc1b8b9.1920x1080.jpg?t=1728688460"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41070/ss_d4674370a08e3325f22a29f2e9fcbdf94e50c2da.1920x1080.jpg?t=1728688460"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41070/ss_9b2c8a18f9a507a60e40e007a65a957d355e5472.1920x1080.jpg?t=1728688460"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41070/ss_28ce64d01a617bb5279855965cf0c8c891e9f9d6.1920x1080.jpg?t=1728688460"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41070/ss_dd482c5f03270100a400a9aa1410943f18db5e08.1920x1080.jpg?t=1728688460"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41070/ss_297d8ad2b24eea07012c733200618b8b4b7c21e8.1920x1080.jpg?t=1728688460"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Serious Sam 3: BFE Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81294/movie.293x165.jpg?t=1447355067",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/41070/6390/b39e0537ac8f31a70b7d960581e80c95aa935f0e/1751246326/dash_h264.mpd?t=1447355067"
+    },
+    {
+      "name": "Serious Sam 3 BFE Teaser Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80888/movie.293x165.jpg?t=1447354293",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/41070/5238/438712190130fe1af3e4b252018bdb11b173fbc9/1751246322/dash_h264.mpd?t=1447354293"
+    },
+    {
+      "name": "Serious Sam 3: Headless Kamikaze Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80959/movie.293x165.jpg?t=1447354455",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/41070/5488/60103eec261d38473959077a579ca8ce9f9ffd39/1751246323/dash_h264.mpd?t=1447354455"
+    },
+    {
+      "name": "Serious Sam 3 - Serious Chaos Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81059/movie.293x165.jpg?t=1447354596",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/41070/5674/9a14f9d9b69cae3f35ea5fd32bc424bbb5943de2/1751246323/dash_h264.mpd?t=1447354596"
+    },
+    {
+      "name": "Serious Sam 3: BFE Weapons Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81269/movie.293x165.jpg?t=1447355020",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/41070/6312/dfffcb0d1d3e03785d3e01cdaf1480ffb13260d7/1751246325/dash_h264.mpd?t=1447355020"
+    },
+    {
+      "name": "Serious Sam 3: BFE Melee Attacks Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81270/movie.293x165.jpg?t=1447355020",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/41070/6313/414701719ae55ab6628177d02e71defdefa84f5e/1751246325/dash_h264.mpd?t=1447355020"
+    },
+    {
+      "name": "Serious Sam A Retrospective",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81439/movie.293x165.jpg?t=1447355426",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/41070/6929/eeccbfea0bfffcce8936751e74871c49653c527a/1751246326/dash_h264.mpd?t=1447355426"
+    }
+  ],
+  "metacritic": {
+    "score": 72,
+    "url": "https://www.metacritic.com/game/pc/serious-sam-3-bfe?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 41070,
+    "store_url": "https://store.steampowered.com/app/41070/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Includes level editor",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "FPS",
+      "Action",
+      "Gore",
+      "Co-op",
+      "Comedy",
+      "Online Co-Op",
+      "Multiplayer",
+      "First-Person",
+      "Shooter",
+      "Aliens",
+      "Old School",
+      "Local Co-Op",
+      "Indie",
+      "Split Screen",
+      "Singleplayer",
+      "Funny",
+      "Difficult",
+      "Adventure",
+      "Sci-fi",
+      "Local Multiplayer"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 25171,
+    "review_negative": 3371,
+    "review_total": 28542,
+    "review_positive_percent": 88.19
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "key": "in-stars-and-time",
+  "name": "In Stars And Time",
+  "description": "Live with the ever-present burden of being trapped in a time loop only you can know about in this turn-based RPG. Create a better future for you and your friends. Find hope where there is none left. Pray to the stars and free yourself from time.",
+  "developers": [
+    "insertdisc5"
+  ],
+  "publishers": [
+    "Armor Games Studios"
+  ],
+  "release_date": "2023-11-20",
+  "website": "https://www.instarsandtime.com/",
+  "tags": [
+    "rpg",
+    "story-rich",
+    "lgbtq",
+    "emotional",
+    "party-based-rpg",
+    "turn-based-combat",
+    "2d",
+    "lore-rich",
+    "time-travel",
+    "singleplayer",
+    "fantasy",
+    "pixel-graphics",
+    "stylized",
+    "hand-drawn",
+    "atmospheric",
+    "indie",
+    "choices-matter",
+    "cartoon",
+    "anime"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "japanese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Game.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "www/save",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "In Stars And Time",
+    "Game"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1677310/b6841de26b9e69207ccf1ea54b500fec8ddcbd1b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677310/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677310/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677310/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677310/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677310/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677310/ss_20590487b283bd4b1b2cfd93d4ef0f8a0de3f72b.1920x1080.jpg?t=1782854558"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677310/ss_43e29219da65be7ecd5c7100188b850327a0d89b.1920x1080.jpg?t=1782854558"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677310/ss_95615d3ecd0208cee36de271554084e298dba037.1920x1080.jpg?t=1782854558"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677310/ss_c61d4315a71b437bab0e49791099e40e69a4b9c2.1920x1080.jpg?t=1782854558"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677310/ss_c310f0af4602f7132b299bb2ff33d90e60ad9564.1920x1080.jpg?t=1782854558"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677310/ss_4ec759f63faa9f42ace00db6c740f40d44b2f78a.1920x1080.jpg?t=1782854558"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677310/ss_64140df581ded25520e7c5814116cba7a7259bf1.1920x1080.jpg?t=1782854558"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677310/ss_aa0ebdc62761cd5fd8610a7da1f3b7bdadf18a0b.1920x1080.jpg?t=1782854558"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677310/ss_afb14a58392d14f3503cef0b26336a5a66c3c328.1920x1080.jpg?t=1782854558"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677310/ss_eb47bb2eda755321c6eaeef6027176d029ce90a6.1920x1080.jpg?t=1782854558"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677310/ss_403ee26fb6c64c01d71dbd814cdae88401210138.1920x1080.jpg?t=1782854558"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677310/ss_129788c9e3c8779b002f967d18f9017d59218d03.1920x1080.jpg?t=1782854558"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677310/ss_97be68c6074909b7dccdceaff09abb00250a15d9.1920x1080.jpg?t=1782854558"
+    }
+  ],
+  "videos": [
+    {
+      "name": "In Stars and Time - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256983684/movie.293x165.jpg?t=1700498241",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1677310/631676/78960077d04bbf731ad878438003bec9068acca2/1750724356/dash_h264.mpd?t=1700498241"
+    },
+    {
+      "name": "In Stars and Time - Accolade Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257075290/999a8e3a2682115ab3ea42003ab717e30b25a3db/movie_600x337.jpg?t=1732125797",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1677310/788800/84c13a49bb64a8d5d24b65554ee376f7085fa2bd/1750724373/dash_h264.mpd?t=1732125797"
+    },
+    {
+      "name": "September 2022 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256905895/movie.293x165.jpg?t=1663166254",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1677310/496341/e51e238e17058cc32ac406dc129f537028f645fc/1750724356/dash_h264.mpd?t=1663166254"
+    },
+    {
+      "name": "In Stars and Time - Game Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256874181/movie.293x165.jpg?t=1697033306",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1677310/440621/8ea80894f25340af420bcb6f5214e623afd3d8de/1750724346/dash_h264.mpd?t=1697033306"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1677310,
+    "store_url": "https://store.steampowered.com/app/1677310/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Story Rich",
+      "RPG",
+      "LGBTQ+",
+      "Emotional",
+      "Party-Based RPG",
+      "Psychological Horror",
+      "Turn-Based Combat",
+      "2D",
+      "Lore-Rich",
+      "Time Travel",
+      "Singleplayer",
+      "Fantasy",
+      "Pixel Graphics",
+      "Stylized",
+      "Hand-drawn",
+      "Atmospheric",
+      "Indie",
+      "Choices Matter",
+      "Cartoon",
+      "Anime"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 8266,
+    "review_negative": 245,
+    "review_total": 8511,
+    "review_positive_percent": 97.12
+  }
+}

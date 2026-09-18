@@ -1,0 +1,224 @@
+{
+  "key": "loop-hero",
+  "name": "Loop Hero",
+  "description": "The Lich has thrown the world into a timeless loop and plunged its inhabitants into never ending chaos. Wield an expanding deck of mystical cards to place enemies, buildings, and terrain along each unique expedition loop for the brave hero.",
+  "developers": [
+    "Four Quarters"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "release_date": "2021-03-05",
+  "website": "http://loophero.com",
+  "tags": [
+    "indie",
+    "rpg",
+    "strategy",
+    "tactical",
+    "roguelike",
+    "pixel-graphics",
+    "deckbuilding",
+    "roguelite",
+    "choices-matter",
+    "resource-management",
+    "card-game",
+    "strategy-rpg",
+    "dark-fantasy",
+    "2d",
+    "old-school",
+    "story-rich",
+    "fantasy",
+    "time-management",
+    "turn-based-tactics",
+    "minimalist",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "dutch",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "循环勇士"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Loop Hero.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Loop_hero",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Loop_Hero.app",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Loop_hero",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "run.sh",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Loop_hero",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Loop Hero",
+    "Loop_Hero.app",
+    "run.sh",
+    "循环勇士"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1282730/103175f4adb08d82a9937d252629e0a91dce84d5.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282730/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282730/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282730/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282730/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282730/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282730/ss_500e7212653fa6586f7a84c89b4c60be4e425fbb.1920x1080.jpg?t=1751489185"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282730/ss_455789884ed94fd20410ac5a139e8c3bb8f6f369.1920x1080.jpg?t=1751489185"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282730/ss_d6cf090e7c644756cc66443c0740f5497e6afbba.1920x1080.jpg?t=1751489185"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282730/ss_6a416c70c8f1bc80c84a02a0627d2050061b0e39.1920x1080.jpg?t=1751489185"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282730/ss_d03a4b7460d5da83d7a208c7500d73861922664b.1920x1080.jpg?t=1751489185"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282730/ss_58039fc526fe3f2006826a8ea11ca64c145b7a24.1920x1080.jpg?t=1751489185"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282730/ss_bcb21a8fc92d2931befe3a6dd67c835e47b9e479.1920x1080.jpg?t=1751489185"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282730/ss_bd22017edf5191f2bd8051e7ad0d8da4d0a6e172.1920x1080.jpg?t=1751489185"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282730/ss_535cb6f102a0a421f6b50ccb509e10074067bb89.1920x1080.jpg?t=1751489185"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282730/ss_1f2aad0cf9e2476a780e5c347b40af6268c9d958.1920x1080.jpg?t=1751489185"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256824602/movie.293x165.jpg?t=1614878571",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1282730/351820/b4ffa99deb4fdd0043224654e1d5e13df2c21906/1750662520/dash_h264.mpd?t=1614878571"
+    },
+    {
+      "name": "Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256821038/movie.293x165.jpg?t=1612452011",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1282730/345614/47f01df696f83aa72fa87f5c9b2fb1aae9e8c6a8/1750662511/dash_h264.mpd?t=1612452011"
+    }
+  ],
+  "metacritic": {
+    "score": 82,
+    "url": "https://www.metacritic.com/game/pc/loop-hero?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1282730,
+    "store_url": "https://store.steampowered.com/app/1282730/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Tactical",
+      "Roguelike",
+      "Pixel Graphics",
+      "Deckbuilding",
+      "Roguelite",
+      "Choices Matter",
+      "Indie",
+      "Resource Management",
+      "Card Game",
+      "Strategy RPG",
+      "Dark Fantasy",
+      "2D",
+      "Old School",
+      "Story Rich",
+      "Fantasy",
+      "Time Management",
+      "RPG",
+      "Turn-Based Tactics",
+      "Minimalist",
+      "Adventure"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 33741,
+    "review_negative": 2646,
+    "review_total": 36387,
+    "review_positive_percent": 92.73
+  }
+}

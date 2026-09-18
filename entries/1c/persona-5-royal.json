@@ -1,0 +1,149 @@
+{
+  "key": "persona-5-royal",
+  "name": "Persona 5 Royal",
+  "description": "Lead the Phantom Thieves of Hearts in this award winning, stylish turn-based RPG filled with dungeon crawling, party customization, strategic combat, and Persona fusion. Explore Tokyo, build relationships, battle Shadows, and infiltrate the minds of the corrupt to make them change their ways!",
+  "developers": [
+    "ATLUS"
+  ],
+  "publishers": [
+    "SEGA"
+  ],
+  "release_date": "2022-10-21",
+  "website": "https://www.atlus.com/p5r",
+  "tags": [
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "japanese": "ペルソナ５ ザ・ロイヤル",
+    "koreana": "페르소나 5 더 로열",
+    "tchinese": "女神異聞錄5皇家版",
+    "schinese": "女神异闻录5皇家版"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "P5R.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "P5RReleaseDebug.exe",
+          "description": "Release + minimum Debug",
+          "type": "default"
+        },
+        {
+          "executable": "P5ROptimize.exe",
+          "description": "Develop version",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Persona 5 Royal",
+    "P5R",
+    "P5RReleaseDebug",
+    "P5ROptimize",
+    "ペルソナ５ ザ・ロイヤル",
+    "페르소나 5 더 로열",
+    "女神異聞錄5皇家版",
+    "女神异闻录5皇家版"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1687950/2f868d8c16fc357dc7122d440b9de3916e36e6fa.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/ss_663171dc3afce8fe987e57e8659f91b69faa39bc.1920x1080.jpg?t=1782353605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/ss_a3258aba84ae2f2ff13a02a160f7495bfc152adb.1920x1080.jpg?t=1782353605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/ss_ddcc016b8e5c434ccbd1a89c0157ce73acf905ae.1920x1080.jpg?t=1782353605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/ss_c665872b4c5cb3a4e4fd3a4abde97ee60fe51e33.1920x1080.jpg?t=1782353605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/ss_63d2164bf39a43905e9602381f43a9ad4ab46dea.1920x1080.jpg?t=1782353605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/ss_38d09e40dd56df43a1bb083dc94e27cb1360b526.1920x1080.jpg?t=1782353605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/ss_56f354736174fdb01b7b295b587ca72ca9254df7.1920x1080.jpg?t=1782353605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/ss_cfa96c0c9a983689b48cc679ddc63cfe373c2b9a.1920x1080.jpg?t=1782353605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/ss_ed4f15d50417a60b5d4b712c8eb0ea1d8ba876bc.1920x1080.jpg?t=1782353605"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer (Unrated)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256911919/movie.293x165.jpg?t=1722428147",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1687950/506609/4ee1371464ce2149f69f89c36b9f906e369db2f1/1750725763/dash_h264.mpd?t=1722428147"
+    },
+    {
+      "name": "Pre-Purchase Trailer (Unrated)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256901688/movie.293x165.jpg?t=1663167631",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1687950/489147/4fcaa04edfbb3489dcda45a463851fe76e216736/1750725734/dash_h264.mpd?t=1663167631"
+    }
+  ],
+  "metacritic": {
+    "score": 95,
+    "url": "https://www.metacritic.com/game/pc/persona-5-royal?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1687950,
+    "store_url": "https://store.steampowered.com/app/1687950/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 128645,
+    "review_negative": 4815,
+    "review_total": 133460,
+    "review_positive_percent": 96.39
+  }
+}

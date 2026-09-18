@@ -1,0 +1,270 @@
+{
+  "key": "terra-nil",
+  "name": "Terra Nil",
+  "description": "Terra Nil is an intricate environmental strategy game about transforming a barren wasteland into a thriving, balanced ecosystem. Bring life back to a lifeless world by purifying soil, cleaning oceans, planting trees, and reintroducing wildlife, then leave without a trace.",
+  "developers": [
+    "Free Lives"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "release_date": "2023-03-28",
+  "website": "https://freelives.net/",
+  "tags": [
+    "casual",
+    "indie",
+    "strategy",
+    "nature",
+    "relaxing",
+    "puzzle",
+    "city-builder",
+    "procedural-generation",
+    "atmospheric",
+    "isometric",
+    "turn-based-strategy",
+    "singleplayer",
+    "2-5d",
+    "colorful",
+    "resource-management",
+    "emotional",
+    "cute",
+    "family-friendly",
+    "stylized",
+    "instrumental-music",
+    "post-apocalyptic"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "polish",
+    "swedish",
+    "turkish",
+    "arabic",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "伊始之地"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Terra Nil.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Free Lives/Terra Nil",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Terra Nil.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Free Lives/Terra Nil",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Terra Nil.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Free Lives/Terra Nil",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Terra Nil",
+    "Terra Nil.app",
+    "Terra Nil.x86_64",
+    "伊始之地"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1593030/6b8a5c3c7592a157236e34edd26edd7b3bf761a1.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/60d7b58280ba8d126365e4d5186ae497f6c10b39/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/00a4a23856608848cf5e41d9fc4fa94582cdb642/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/b85acb04aac6e03589bfa63a40f5c54f759bd2bb/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/4c574207da8e341da4e8a7acc3f0ec7278402f02/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/4d95889298b9b7b60e045e7d961c3669d19c4a54/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_6cd1cb55eaa724b291f669f8d9d17b88ecb1f2e9.1920x1080.jpg?t=1776447714"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_f0d9c194f5889a0c2f4a847dd74ed8a229706662.1920x1080.jpg?t=1776447714"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_14c9c35fca02d892c1279f904dcd2806a6429932.1920x1080.jpg?t=1776447714"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_8b51d705d39e7c910484d8bf1176e1978d822dcc.1920x1080.jpg?t=1776447714"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_8f514c29e5d93da9366a2a68199eb1ca69a98fb3.1920x1080.jpg?t=1776447714"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_065eec4af801201fbcbc522876f3ddbe02ac875d.1920x1080.jpg?t=1776447714"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_b53dbcc0689719d564036ca2250b6343d030e6ab.1920x1080.jpg?t=1776447714"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_a32ef41734f009758224e4b58258653ce1c12a14.1920x1080.jpg?t=1776447714"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_9b49dd52aa9896991e1d5b5e3ae07068c18c7de1.1920x1080.jpg?t=1776447714"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_bf71213bb309a9ee897cfe0e2c49c87501c0d0da.1920x1080.jpg?t=1776447714"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_586d1a2ef80bcf7e18d1d91afa284eb5245d4bd7.1920x1080.jpg?t=1776447714"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_8f8c06217a40ce535ff4da474d3587acc37612ee.1920x1080.jpg?t=1776447714"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_8acfa28df197fff359880f894754b7d1a19297c8.1920x1080.jpg?t=1776447714"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_d38258aeac2379c3485912bf7b6f47f566f4ff6c.1920x1080.jpg?t=1776447714"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Heatwave",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257177988/988133cea205c11eaa45a3198fe792f3a797ea41/movie_600x337.jpg?t=1754581992",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1593030/1855271503/1f12f88c077e2f9fa7d958ba47a311b54f929a3a/1754318526/dash_h264.mpd?t=1754581992"
+    },
+    {
+      "name": "Vita Nova",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257033409/movie.293x165.jpg?t=1719244047",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1593030/717928/c47c351bc244b639b6631e14ad6c0694dffd018b/1750708204/dash_h264.mpd?t=1719244047"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256938202/movie.293x165.jpg?t=1680021589",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1593030/552643/1930281b41e7f545557baf254387896a27527f8b/1750708200/dash_h264.mpd?t=1680021589"
+    },
+    {
+      "name": "A Beginner's Guide to Ecosystem Restoration",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256934950/movie.293x165.jpg?t=1678464008",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1593030/546885/46ca9cac9e0c819b884e64b32efd6fe62d7405a4/1750708199/dash_h264.mpd?t=1678464008"
+    },
+    {
+      "name": "Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256931649/movie.293x165.jpg?t=1680021593",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1593030/540924/05fd302c3729c8832751c03b9d506e67682f41da/1750708197/dash_h264.mpd?t=1680021593"
+    },
+    {
+      "name": "Satisfaction in Reclamation",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256930284/movie.293x165.jpg?t=1679175895",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1593030/538668/2fc6499889cd818cdc2c031dd0694ec5c0ca96c7/1750708193/dash_h264.mpd?t=1679175895"
+    },
+    {
+      "name": "Wholesome Direct",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256891502/movie.293x165.jpg?t=1655111288",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1593030/471473/5194a6c83cd1a59aeb4ddbb53cca62cfc3237cc8/1750708184/dash_h264.mpd?t=1655111288"
+    },
+    {
+      "name": "Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256837454/movie.293x165.jpg?t=1623077177",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1593030/374676/bd52c45a236d44917d1748c0c282abb6f3f5feab/1750708179/dash_h264.mpd?t=1623077177"
+    }
+  ],
+  "metacritic": {
+    "score": 79,
+    "url": "https://www.metacritic.com/game/pc/terra-nil?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1593030,
+    "store_url": "https://store.steampowered.com/app/1593030/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Nature",
+      "Strategy",
+      "Relaxing",
+      "Puzzle",
+      "City Builder",
+      "Procedural Generation",
+      "Atmospheric",
+      "Casual",
+      "Isometric",
+      "Turn-Based Strategy",
+      "Singleplayer",
+      "2.5D",
+      "Colorful",
+      "Resource Management",
+      "Emotional",
+      "Cute",
+      "Family Friendly",
+      "Stylized",
+      "Instrumental Music",
+      "Post-apocalyptic"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7529,
+    "review_negative": 1075,
+    "review_total": 8604,
+    "review_positive_percent": 87.51
+  }
+}

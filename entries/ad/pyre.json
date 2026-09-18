@@ -1,0 +1,275 @@
+{
+  "key": "pyre",
+  "name": "Pyre",
+  "description": "Pyre is a party-based RPG from the creators of Bastion and Transistor. Lead your band of exiles to freedom through a series of mystical competitions in the Campaign, or challenge a friend to a fast-paced ritual showdown in the head-to-head Versus Mode.",
+  "developers": [
+    "Supergiant Games"
+  ],
+  "publishers": [
+    "Supergiant Games"
+  ],
+  "release_date": "2017-07-25",
+  "website": "https://www.supergiantgames.com/games/pyre",
+  "tags": [
+    "action",
+    "indie",
+    "rpg",
+    "multiplayer",
+    "pvp",
+    "great-soundtrack",
+    "story-rich",
+    "visual-novel",
+    "atmospheric",
+    "fantasy",
+    "hand-drawn",
+    "choices-matter",
+    "singleplayer",
+    "colorful",
+    "adventure",
+    "party-based-rpg",
+    "local-multiplayer",
+    "lore-rich",
+    "multiple-endings",
+    "interactive-fiction",
+    "stylized",
+    "music"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Russian",
+    "Simplified Chinese*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "x64\\Pyre.exe",
+          "description": "Launch 64-bit",
+          "type": "option1"
+        },
+        {
+          "executable": "x86\\Pyre.exe",
+          "description": "Launch 32-bit",
+          "type": "option2"
+        },
+        {
+          "executable": "Debug\\x86\\Pyre.exe",
+          "description": "SP Campaign",
+          "type": "option2"
+        },
+        {
+          "executable": "Debug\\x64\\Pyre.exe",
+          "description": "SP Campaign",
+          "type": "option2"
+        },
+        {
+          "executable": "Debug\\x64\\Pyre.exe",
+          "description": "Local MP",
+          "type": "option3"
+        },
+        {
+          "executable": "Debug\\x86\\Pyre.exe",
+          "description": "Local MP",
+          "type": "option3"
+        },
+        {
+          "executable": "Debug\\x64\\Pyre.exe",
+          "description": "Debug",
+          "type": "option1"
+        },
+        {
+          "executable": "Debug\\x86\\Pyre.exe",
+          "description": "Debug",
+          "type": "option1"
+        },
+        {
+          "executable": "Debug\\x64\\Pyre.exe",
+          "description": "French",
+          "type": "option2"
+        },
+        {
+          "executable": "Debug\\x64\\Pyre.exe",
+          "description": "Spanish",
+          "type": "option2"
+        },
+        {
+          "executable": "Debug\\x64\\Pyre.exe",
+          "description": "Russian",
+          "type": "option2"
+        },
+        {
+          "executable": "Debug\\x64\\Pyre.exe",
+          "description": "Simplified Chinese",
+          "type": "option2"
+        },
+        {
+          "executable": "Debug\\x64\\Pyre.exe",
+          "description": "German",
+          "type": "option2"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "./Pyre.app/Contents/MacOS/Pyre",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "./Pyre",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Pyre",
+    "x64\\Pyre",
+    "x86\\Pyre",
+    "Debug\\x86\\Pyre",
+    "Debug\\x64\\Pyre",
+    "./Pyre.app/Contents/MacOS/Pyre",
+    "./Pyre"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/462770/75ed6f3b5fe1413ff42c21d2493a0e99c704ef2e.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/462770/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/462770/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/462770/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/462770/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/462770/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/462770/ss_2107ff862d576593c794b3bd53a2916b44ca03bb.1920x1080.jpg?t=1729114062"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/462770/ss_07ec2b0ca26795d393f6e479b629f99e2f960cb1.1920x1080.jpg?t=1729114062"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/462770/ss_135d50dc1f4ce620a92eb960a0649980a9c33990.1920x1080.jpg?t=1729114062"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/462770/ss_e75dee64ea44780e246ad7a144b38f1df555fd1e.1920x1080.jpg?t=1729114062"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/462770/ss_5f12a85b35b24dfa20a0ebfa132d480a8b6dc5fe.1920x1080.jpg?t=1729114062"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/462770/ss_27510b7ddd9a5283345c042f06716191779f25fd.1920x1080.jpg?t=1729114062"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/462770/ss_067b04e883dbb3a42a399e391b2c750adb095317.1920x1080.jpg?t=1729114062"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/462770/ss_64776e928cacd7381e68adaa5776d3c943946821.1920x1080.jpg?t=1729114062"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/462770/ss_7360bde3fe5e614abd80938b9c20193ba684c99f.1920x1080.jpg?t=1729114062"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/462770/ss_80bfecf418f7e8a63f9e1efddb85f5f565ff4291.1920x1080.jpg?t=1729114062"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/462770/ss_639bd6710ee2ebe9d01ebd22494cb7e94c47e96d.1920x1080.jpg?t=1729114062"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Pyre - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256690706/movie.293x165.jpg?t=1500570185",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/462770/114354/7c8ac31a4ccc9ab1b5e92557a41ad8dc9a9fd526/1751289026/dash_h264.mpd?t=1500570185"
+    },
+    {
+      "name": "Pyre - MP Showcase Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256676461/movie.293x165.jpg?t=1481765624",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/462770/83862/e2b76f73050172c9ebbb0ef7707380dfc45a6121/1751289026/dash_h264.mpd?t=1481765624"
+    },
+    {
+      "name": "Pyre - Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256663118/movie.293x165.jpg?t=1461110500",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/462770/56778/ec8cf3471e556753d3234e619871b2e2e525ff40/1751289022/dash_h264.mpd?t=1461110500"
+    }
+  ],
+  "metacritic": {
+    "score": 82,
+    "url": "https://www.metacritic.com/game/pc/pyre?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 462770,
+    "store_url": "https://store.steampowered.com/app/462770/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Shared/Split Screen PvP",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Indie",
+      "RPG",
+      "Great Soundtrack",
+      "Story Rich",
+      "Action",
+      "Visual Novel",
+      "Atmospheric",
+      "Fantasy",
+      "Hand-drawn",
+      "Choices Matter",
+      "Singleplayer",
+      "Colorful",
+      "Adventure",
+      "Party-Based RPG",
+      "Local Multiplayer",
+      "Lore-Rich",
+      "Multiple Endings",
+      "Interactive Fiction",
+      "Stylized",
+      "Music"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8425,
+    "review_negative": 894,
+    "review_total": 9319,
+    "review_positive_percent": 90.41
+  }
+}

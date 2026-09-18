@@ -1,0 +1,426 @@
+{
+  "key": "doom",
+  "name": "DOOM",
+  "description": "Now includes all three premium DLC packs (Unto the Evil, Hell Followed, and Bloodfall), maps, modes, and weapons, as well as all feature updates including Arcade Mode, Photo Mode, and the latest Update 6.66, which brings further multiplayer improvements as well as revamps multiplayer progression.",
+  "developers": [
+    "id Software"
+  ],
+  "publishers": [
+    "Bethesda Softworks"
+  ],
+  "release_date": "2016-05-13",
+  "website": "http://www.doom.com",
+  "tags": [
+    "action",
+    "multiplayer",
+    "co-op"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "毁灭战士 (2016年游戏)"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "DOOMx64.exe",
+          "description": "DOOM",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/",
+          "pattern": "*.cfg",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame/PROFILE/",
+          "pattern": "profile.bin",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame",
+          "pattern": "checkpoint.dat",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame/",
+          "pattern": "checkpoint_alt.dat",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame/",
+          "pattern": "checkpoint_mapstart.dat",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame/",
+          "pattern": "game_duration.dat",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame/",
+          "pattern": "level_duration.dat",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame/",
+          "pattern": "level_duration_alt.dat",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame/",
+          "pattern": "player_inventory.dat",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame/",
+          "pattern": "shell_shared.dat",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame/GAME-AUTOSAVE0/",
+          "pattern": "game.details",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame/GAME-AUTOSAVE1/",
+          "pattern": "game.details",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame/GAME-AUTOSAVE2/",
+          "pattern": "game.details",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame",
+          "pattern": "checkpoint.dat_lvl",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame",
+          "pattern": "checkpoint_mapstart.dat_lvl",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame",
+          "pattern": "game_duration.dat_lvl",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame",
+          "pattern": "level_duration.dat_lvl",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame",
+          "pattern": "player_inventory.dat_lvl",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame",
+          "pattern": "shell_shared.dat_lvl",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame",
+          "pattern": "checkpoint.dat.verify",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame",
+          "pattern": "checkpoint.dat_lvl.verify",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame",
+          "pattern": "checkpoint_alt.dat.verify",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame",
+          "pattern": "checkpoint_mapstart.dat.verify",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame",
+          "pattern": "checkpoint_mapstart.dat_lvl.verify",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame",
+          "pattern": "game_duration.dat.verify",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame",
+          "pattern": "game_duration.dat_lvl.verify",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame",
+          "pattern": "level_duration.dat.verify",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame",
+          "pattern": "level_duration.dat_lvl.verify",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame",
+          "pattern": "level_duration_alt.dat.verify",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame",
+          "pattern": "player_inventory.dat.verify",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame",
+          "pattern": "player_inventory.dat_lvl.verify",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame",
+          "pattern": "shell_shared.dat.verify",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame",
+          "pattern": "shell_shared.dat_lvl.verify",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame/GAME-AUTOSAVE0/",
+          "pattern": "game.details.verify",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame/GAME-AUTOSAVE1/",
+          "pattern": "game.details.verify",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame/GAME-AUTOSAVE2/",
+          "pattern": "game.details.verify",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame.user/{64BitSteamID}/PROFILE/",
+          "pattern": "profile.bin",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame.user/{64BitSteamID}/GAME-AUTOSAVE0/",
+          "pattern": "game.details",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame.user/{64BitSteamID}/GAME-AUTOSAVE1/",
+          "pattern": "game.details",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame.user/{64BitSteamID}/GAME-AUTOSAVE2/",
+          "pattern": "game.details",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame.user/{64BitSteamID}/",
+          "pattern": "migrated.bin",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame.user/{64BitSteamID}/",
+          "pattern": "*.dat",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame.user/{64BitSteamID}/",
+          "pattern": "*.dat_lvl",
+          "recursive": true
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "id Software/DOOM/base/savegame.user/{64BitSteamID}/",
+          "pattern": "*.verify",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "DOOM",
+    "DOOMx64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/379720/b6e72ff47d1990cb644700751eeeff14e0aba6dc.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_f989e793786bf1d6459da1139a484203efef1447.1920x1080.jpg?t=1750784856"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_ac05e086b8f0580bc95970fbb6f18a7e4fe65404.1920x1080.jpg?t=1750784856"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_d7ee83faf64036494e4a817b8be55b044fbe7c6c.1920x1080.jpg?t=1750784856"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_4c0b80e027b1095db40cd49bf889c39ca03ec02f.1920x1080.jpg?t=1750784856"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_e1b5acc7a55d96190fcd3b0ae04dfe2254e7dc6d.1920x1080.jpg?t=1750784856"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_2053c7628ba42fecb8e472f74565f880f93a0b30.1920x1080.jpg?t=1750784856"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_b128c3d62bbee81bc28801019a506235a75a27b3.1920x1080.jpg?t=1750784856"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_f07aca2fbb96e104cc79709c2a512ffba8a5d2c9.1920x1080.jpg?t=1750784856"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_28e126c5530b5f81726501ec73e51c66fd325bc2.1920x1080.jpg?t=1750784856"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_edf8aef8c8648582ff89fab9a456e1b59f6c0621.1920x1080.jpg?t=1750784856"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_7f6e761fbc85bddf6a1155da703dbf546096dbd4.1920x1080.jpg?t=1750784856"
+    }
+  ],
+  "videos": [
+    {
+      "name": "DOOM Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256664074/movie.293x165.jpg?t=1462985736",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/379720/58691/954a3b4e4cfc0e0015a79e5316b66f49a82edd83/1750521227/dash_h264.mpd?t=1462985736"
+    },
+    {
+      "name": "DOOM – Fight Like Hell Cinematic Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256662459/movie.293x165.jpg?t=1533678952",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/379720/55568/fe2d7201a6eeddef4b9528a3d52064242fa2f4c2/1750521216/dash_h264.mpd?t=1533678952"
+    },
+    {
+      "name": "DOOM Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256660478/movie.293x165.jpg?t=1533678958",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/379720/51646/cb352a6a7e5466f4849525e88aefd1ee9f393c74/1750521195/dash_h264.mpd?t=1533678958"
+    },
+    {
+      "name": "DOOM SnapMap Video",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256677412/movie.293x165.jpg?t=1483472556",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/379720/85556/98580ae268cf7e7dc92c0cb92a60e7fe6c0c3f1f/1750521249/dash_h264.mpd?t=1483472556"
+    },
+    {
+      "name": "DOOM Multiplayer Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256661566/movie.293x165.jpg?t=1457539245",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/379720/53998/963bea74e2bc8a9032be61fce035816b0757704f/1750521208/dash_h264.mpd?t=1457539245"
+    }
+  ],
+  "metacritic": {
+    "score": 85,
+    "url": "https://www.metacritic.com/game/pc/doom?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 379720,
+    "store_url": "https://store.steampowered.com/app/379720/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Color Alternatives",
+      "Stereo Sound",
+      "Surround Sound",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 209453,
+    "review_negative": 9837,
+    "review_total": 219290,
+    "review_positive_percent": 95.51
+  }
+}

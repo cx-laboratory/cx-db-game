@@ -1,0 +1,216 @@
+{
+  "key": "hello-neighbor",
+  "name": "Hello Neighbor",
+  "description": "Hello Neighbor is a Stealth Horror Game about sneaking into your neighbor's house and figuring out what he's hiding in the basement. Play against an advanced AI that learns from your actions.",
+  "developers": [
+    "Dynamic Pixels"
+  ],
+  "publishers": [
+    "tinyBuild"
+  ],
+  "release_date": "2017-12-09",
+  "website": "http://helloneighborgame.com",
+  "tags": [
+    "adventure",
+    "indie",
+    "strategy",
+    "horror",
+    "sandbox",
+    "first-person",
+    "story-rich",
+    "stealth",
+    "difficult",
+    "action-adventure",
+    "3d-platformer",
+    "survival",
+    "3d",
+    "funny",
+    "fps",
+    "dark-humor",
+    "puzzle",
+    "family-friendly",
+    "action",
+    "surreal"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Arabic",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "Finnish",
+    "Greek",
+    "Hungarian",
+    "Japanese",
+    "Korean",
+    "Norwegian",
+    "Polish",
+    "Portuguese - Portugal",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Swedish",
+    "Traditional Chinese",
+    "Turkish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "HelloNeighbor.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Helloneighbor.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "HelloNeighborReborn.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "HelloNeighborReborn.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "HelloNeighborReborn.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Hello Neighbor",
+    "HelloNeighbor",
+    "HelloNeighborReborn"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/521890/ff79b480b942f9171d6a7899f19a19118f8e4f66.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/521890/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/521890/308c93929a3f326131688936b7362074fa1548ec/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/521890/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/521890/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/521890/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/521890/ss_f4bf74bcbf51a0d3b5b7a0497018e824f2ec092c.1920x1080.jpg?t=1781538578"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/521890/ss_ac219a7c078de280a6ab21c39d925d3f1c8bb4a8.1920x1080.jpg?t=1781538578"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/521890/ss_462735bb24790570cadc9f6ed9fa5d456c2f8035.1920x1080.jpg?t=1781538578"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/521890/ss_dbd1c56e58f628d7978b2ef8f7f6b7106512366e.1920x1080.jpg?t=1781538578"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/521890/ss_b0df68f6289fe4c8d16b826821c08f8fa6c1fd2b.1920x1080.jpg?t=1781538578"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/521890/ss_9341a234c2bba8b79b724018cc29c770a53200ac.1920x1080.jpg?t=1781538578"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/521890/ss_9857456077fb5baefccd9c134357a1b73901622b.1920x1080.jpg?t=1781538578"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Hello Neighbor Halloween Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256699116/movie.293x165.jpg?t=1508938107",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/521890/129868/c5f2c3129f2e3d136779776d37a330550c1c8003/1750543300/dash_h264.mpd?t=1508938107"
+    },
+    {
+      "name": "Hello Neighbor Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256671243/movie.293x165.jpg?t=1475167521",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/521890/73734/ac9d9d5f19c5794f47a22148c909e1bad649cf9f/1750543248/dash_h264.mpd?t=1475167521"
+    },
+    {
+      "name": "Hello Neighbor E3 2017 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256689508/movie.293x165.jpg?t=1499358305",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/521890/112172/51e3922624f4dbee657bf62a936ad848df3ee880/1750543299/dash_h264.mpd?t=1499358305"
+    },
+    {
+      "name": "Hello Neighbor Trailer 2",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256675207/movie.293x165.jpg?t=1479916672",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/521890/81402/fc17f9f1bf7288fec35122534fdfeb241a54ebe5/1750543257/dash_h264.mpd?t=1479916672"
+    },
+    {
+      "name": "Hello Neighbor Trailer 3",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256675206/movie.293x165.jpg?t=1479916682",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/521890/81401/ae3c3583f9041086e29315beaa83955c22a67335/1750543254/dash_h264.mpd?t=1479916682"
+    },
+    {
+      "name": "Alone With You by Rockin Gaming",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256677140/movie.293x165.jpg?t=1482749989",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/521890/85002/c399d0b6370ab5eb78cb82c8d5e9fb120fa21bec/1750543261/dash_h264.mpd?t=1482749989"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 521890,
+    "store_url": "https://store.steampowered.com/app/521890/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Horror",
+      "Sandbox",
+      "First-Person",
+      "Story Rich",
+      "Stealth",
+      "Survival Horror",
+      "Difficult",
+      "Action-Adventure",
+      "3D Platformer",
+      "Survival",
+      "3D",
+      "Funny",
+      "Strategy",
+      "FPS",
+      "Psychological Horror",
+      "Dark Humor",
+      "Puzzle",
+      "Family Friendly",
+      "Action",
+      "Surreal"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 26737,
+    "review_negative": 4413,
+    "review_total": 31150,
+    "review_positive_percent": 85.83
+  }
+}

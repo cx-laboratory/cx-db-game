@@ -1,0 +1,187 @@
+{
+  "key": "kenshi",
+  "name": "Kenshi",
+  "description": "A free-roaming squad based RPG. Focusing on open-ended sandbox gameplay features rather than a linear story. Be a trader, a thief, a rebel, a warlord, an adventurer, a farmer, a slave, or just food for the cannibals. Train your men up from puny victims to master warriors.",
+  "developers": [
+    "Lo-Fi Games"
+  ],
+  "publishers": [
+    "Lo-Fi Games"
+  ],
+  "release_date": "2018-12-06",
+  "website": "http://www.lofigames.com",
+  "tags": [
+    "action",
+    "indie",
+    "rpg",
+    "simulation",
+    "strategy",
+    "open-world",
+    "immersive-sim",
+    "party-based-rpg",
+    "real-time-tactics",
+    "rts",
+    "base-building",
+    "action-rpg",
+    "strategy-rpg",
+    "sandbox",
+    "swordplay",
+    "stealth",
+    "management",
+    "building",
+    "crafting",
+    "survival",
+    "post-apocalyptic",
+    "character-customization",
+    "samurai"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "Spanish - Spain*",
+    "Portuguese - Brazil*",
+    "Japanese*",
+    "German*",
+    "Russian*",
+    "French*",
+    "Simplified Chinese*",
+    "Korean**languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "kenshi_x64.exe",
+          "description": "Launch 64-bit (recommended)",
+          "type": "default"
+        },
+        {
+          "executable": "kenshi_x32.exe",
+          "description": "Launch 32-bit",
+          "type": "default"
+        },
+        {
+          "executable": "forgotten construction set.exe",
+          "description": "Modding tool",
+          "type": "editor"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Kenshi",
+    "kenshi_x64",
+    "kenshi_x32",
+    "forgotten construction set"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/233860/9e8fa3ef841ba1861b2b8aa1254532bb4eee954b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233860/fa72ac8a032fd876780cd5b554e4c03b4976ef74/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233860/050649252f4e28567deeeb17cf4834e52665db05/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233860/589fd26c9c30421a7472a1b9934098c9affd439b/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233860/5c4345b308a239dbdaa1d237723245afa09aca83/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233860/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233860/933aa89a4d370c1bcb96cb7497287e835b7cff7b/ss_933aa89a4d370c1bcb96cb7497287e835b7cff7b.1920x1080.jpg?t=1779293333"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233860/3a9b3141a14e74bd3c57b811b0d1a895eaf1b412/ss_3a9b3141a14e74bd3c57b811b0d1a895eaf1b412.1920x1080.jpg?t=1779293333"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233860/50f3aee47c4c148944c955328e6e235d32777b8b/ss_50f3aee47c4c148944c955328e6e235d32777b8b.1920x1080.jpg?t=1779293333"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233860/fc0b1146577f0187ab0563ad3f1d9065b4156b4f/ss_fc0b1146577f0187ab0563ad3f1d9065b4156b4f.1920x1080.jpg?t=1779293333"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233860/a46da906067e6f2791a59cb449940cb9ed9609aa/ss_a46da906067e6f2791a59cb449940cb9ed9609aa.1920x1080.jpg?t=1779293333"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233860/ss_d12a3f68e9c440d1fc0035783dc796a52b924482.1920x1080.jpg?t=1779293333"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Kenshi - v1.0 Release Date Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256735688/movie.293x165.jpg?t=1764871280",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/233860/196167/94e2c70a95fc0e7528cd3585f10dfad63735e35a/1750491260/dash_h264.mpd?t=1764871280"
+    },
+    {
+      "name": "Kenshi: Accolades Trailer (English)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256776788/movie.293x165.jpg?t=1583254998",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/233860/269823/0fb8362c2f933cdd22e70f1c5c3d65a42feff4c6/1750491393/dash_h264.mpd?t=1583254998"
+    },
+    {
+      "name": "Kenshi - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256737631/movie.293x165.jpg?t=1764873312",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/233860/199467/8051daa664072b60dba714053730977b1d6ea64c/1750491325/dash_h264.mpd?t=1764873312"
+    },
+    {
+      "name": "Kenshi - Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256736395/movie.293x165.jpg?t=1764873314",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/233860/197335/1799ae1c3f449fdfc8a99036c85c1fddda0959d8/1750491313/dash_h264.mpd?t=1764873314"
+    }
+  ],
+  "metacritic": {
+    "score": 75,
+    "url": "https://www.metacritic.com/game/pc/kenshi?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 233860,
+    "store_url": "https://store.steampowered.com/app/233860/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Open World",
+      "Immersive Sim",
+      "Party-Based RPG",
+      "Real Time Tactics",
+      "RTS",
+      "Base Building",
+      "Action RPG",
+      "Strategy RPG",
+      "Sandbox",
+      "Swordplay",
+      "Stealth",
+      "Management",
+      "Building",
+      "Crafting",
+      "Survival",
+      "Post-apocalyptic",
+      "Character Customization",
+      "Samurai",
+      "RPG",
+      "Simulation"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 109074,
+    "review_negative": 5056,
+    "review_total": 114130,
+    "review_positive_percent": 95.57
+  }
+}

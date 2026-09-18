@@ -1,0 +1,280 @@
+{
+  "key": "darkest-dungeon-ii",
+  "name": "Darkest Dungeon® II",
+  "description": "Darkest Dungeon II is a roguelike road trip of the damned. Form a party, equip your stagecoach, and set off across the decaying landscape on a last gasp quest to avert the apocalypse. The greatest dangers you face, however, may come from within...",
+  "developers": [
+    "Red Hook Studios"
+  ],
+  "publishers": [
+    "Red Hook Studios"
+  ],
+  "release_date": "2023-05-08",
+  "website": "https://www.darkestdungeon.com/",
+  "tags": [
+    "indie",
+    "rpg",
+    "strategy",
+    "turn-based-tactics",
+    "roguelite",
+    "dark-fantasy",
+    "dungeon-crawler",
+    "lovecraftian",
+    "singleplayer",
+    "roguelike",
+    "perma-death",
+    "turn-based",
+    "turn-based-combat",
+    "party-based-rpg",
+    "gothic",
+    "crpg",
+    "story-rich",
+    "2d",
+    "hand-drawn",
+    "turn-based-strategy",
+    "procedural-generation",
+    "stylized"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "czech",
+    "brazilian",
+    "ukrainian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Darkest Dungeon II.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Darkest Dungeon II.exe",
+          "description": "Allow Editor Prefs",
+          "type": "default"
+        },
+        {
+          "executable": "Darkest Dungeon II.exe",
+          "description": "Allow Editor Prefs",
+          "type": "default"
+        },
+        {
+          "executable": "Darkest Dungeon II.exe",
+          "description": "Abomination Automatically Unlocked",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "RedHook/Darkest Dungeon II/SaveFiles/{64BitSteamID}/",
+          "pattern": "*.json",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Darkest Dungeon II.app",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Darkest Dungeon II.exe",
+          "description": "Abomination Automatically Unlocked",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "RedHook/Darkest Dungeon II/SaveFiles/{64BitSteamID}/",
+          "pattern": "*.json",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Darkest Dungeon® II",
+    "Darkest Dungeon II",
+    "Darkest Dungeon II.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1940340/ec502cc4a786955cf7032b70351cf36c4b06114c.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/88bce465a7e3df7d1974f7669ec44b7b07a1e031/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/b4d86cbda11a303b9c70ce2511e8505426a25fa3/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/75ecbdc2293ee0f23b76a9d437cba9ff8df4a452/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/7e0f01e6921dde5719df001e5d744ceac38f0531/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/ss_bc4c7aec5704ed4108a181ec9a790c3fea4a9f12.1920x1080.jpg?t=1759351183"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/ss_254e72f3356e62496b02c1faf7852bb5053e0338.1920x1080.jpg?t=1759351183"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/ss_19b4a3415f5c4167121cb2acd12b7d6d90555e2c.1920x1080.jpg?t=1759351183"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/ss_9fab75b3c27e5dfc4b55a105b457623d0a76f924.1920x1080.jpg?t=1759351183"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/ss_7c63e2d7ec491bf2b4a94209742a75b869b47814.1920x1080.jpg?t=1759351183"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/ss_e25bc022fa98e7b235eb7146a3e54507893f3ab0.1920x1080.jpg?t=1759351183"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/ss_e1e58fd089d3223d6af5e2285ec957ce4fa47601.1920x1080.jpg?t=1759351183"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/ss_d9ace881030b51b9f405198111df391f4573d092.1920x1080.jpg?t=1759351183"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/ss_aa9bc1b0dff5ab82c008e3b944b0ad6487a3f868.1920x1080.jpg?t=1759351183"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/ss_740a7bb85276e21d85f7ed8aec558e9d040be748.1920x1080.jpg?t=1759351183"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/ss_a250419aa699d9676acb374972df287d522305ac.1920x1080.jpg?t=1759351183"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/ss_e45a78cf2c30c0bea63cd7db9c17782cabf82a16.1920x1080.jpg?t=1759351183"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/ss_3a66e8696dcfc049401f5f6ade354c138899f0b3.1920x1080.jpg?t=1759351183"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/ss_fed764604bcb367ccd2411c9540b8754c21e8090.1920x1080.jpg?t=1759351183"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/ss_ea2afe87f9ea89ee9816b3eef48e7eac51f60e13.1920x1080.jpg?t=1759351183"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/ss_ae99a05123bc28caa5c4968ec62b08f7a09f0607.1920x1080.jpg?t=1759351183"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/ss_b6d6ef7bde79ff54c7bfac5ab094ef7d88054e6a.1920x1080.jpg?t=1759351183"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/ss_7e181a480137b5ebe5062842808478e3181d7361.1920x1080.jpg?t=1759351183"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/ss_1e1e63dd8c701371a1b9ff352212ccbdc38db680.1920x1080.jpg?t=1759351183"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940340/ss_e5f532902ce528340bce0735f16a8816f56182d9.1920x1080.jpg?t=1759351183"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Darkest Dungeon II - K3: Curse of the Court",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257189874/4aea74ccc5944ec8fcc5d26009b484d972a1da7d/movie_600x337.jpg?t=1756399584",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1940340/1759492684/47952bdd0690464b9a569704471817234739d74d/1756317346/dash_h264.mpd?t=1756399584"
+    },
+    {
+      "name": "Darkest Dungeon II - K2: Secrets of the Coven",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257125090/98df8c2b11dbc6bd90c6f86b00aa2fee7d1c96fc/movie_600x337.jpg?t=1744648288",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1940340/868626/b9f2dcd41fab936848582f9eda7713dc2389d4f5/1750741979/dash_h264.mpd?t=1744648288"
+    },
+    {
+      "name": "Darkest Dungeon II - Kingdoms Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257092515/3602e3e78d8f632bb1b4c5b021b4f10474beda88/movie_600x337.jpg?t=1737998923",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1940340/819060/de0c40a0d5728b8fb6765da3dc957bbcac070af6/1750741960/dash_h264.mpd?t=1737998923"
+    },
+    {
+      "name": "Darkest Dungeon II - Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256945472/movie.293x165.jpg?t=1683329556",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1940340/565164/376d8b1a918a412e5c6c4c957c3309d8a371da7a/1750741956/dash_h264.mpd?t=1683329556"
+    },
+    {
+      "name": "Darkest Dungeon® II - Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257046002/movie.293x165.jpg?t=1723673753",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1940340/740026/08669d7ef98760ce05e7bbb01fc8cd3c7d419f1e/1750741959/dash_h264.mpd?t=1723673753"
+    },
+    {
+      "name": "Darkest Dungeon II - Chirurgeon's Table",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257034079/movie.293x165.jpg?t=1719593796",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1940340/719106/13953e1e34ee6b25a05e08905c869c0a18d87f3c/1750741957/dash_h264.mpd?t=1719593796"
+    }
+  ],
+  "metacritic": {
+    "score": 81,
+    "url": "https://www.metacritic.com/game/pc/darkest-dungeon-ii?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1940340,
+    "store_url": "https://store.steampowered.com/app/1940340/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Turn-Based Tactics",
+      "Roguelite",
+      "Dark Fantasy",
+      "Dungeon Crawler",
+      "Lovecraftian",
+      "Singleplayer",
+      "Roguelike",
+      "Perma Death",
+      "Turn-Based",
+      "Turn-Based Combat",
+      "Party-Based RPG",
+      "Gothic",
+      "CRPG",
+      "Story Rich",
+      "2D",
+      "Hand-drawn",
+      "RPG",
+      "Turn-Based Strategy",
+      "Procedural Generation",
+      "Stylized"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 19657,
+    "review_negative": 6619,
+    "review_total": 26276,
+    "review_positive_percent": 74.81
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "key": "dune-spice-wars",
+  "name": "Dune: Spice Wars",
+  "description": "A 4X real-time strategy game from the developers of the critically acclaimed Northgard. Set in Frank Herbert’s groundbreaking Dune universe, you must lead your faction and battle for control and dominance over the harsh desert planet of Arrakis.",
+  "developers": [
+    "Shiro Games"
+  ],
+  "publishers": [
+    "Funcom"
+  ],
+  "release_date": "2023-09-14",
+  "website": "https://spicewars.dunegames.com/",
+  "tags": [
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "management",
+    "singleplayer",
+    "sci-fi",
+    "rts",
+    "4x",
+    "grand-strategy",
+    "simulation",
+    "real-time-tactics",
+    "building",
+    "tactical",
+    "economy",
+    "war",
+    "diplomacy",
+    "base-building",
+    "pve",
+    "indie"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Polish",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Italian*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "D4X.exe",
+          "description": "Dune: Spice Wars",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "save",
+          "pattern": "*.sav",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Dune: Spice Wars",
+    "D4X"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1605220/c089b45f04289ae6e9025ec0f6f468e262cd87ca.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605220/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605220/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605220/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605220/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605220/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605220/ss_f7b1dc6b440e9f03bb88e4b6781f00656d92e1c5.1920x1080.jpg?t=1733479296"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605220/ss_284e12dbbdaeefac2bfe001d045e0034e76a512f.1920x1080.jpg?t=1733479296"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605220/ss_0070131fba0320c4a0b550980be0f1d96bd8d107.1920x1080.jpg?t=1733479296"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605220/ss_400303121f0a80a12f805b30a48503356f77925f.1920x1080.jpg?t=1733479296"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605220/ss_00849fe5b8fc621f6eed3f1395cb65f796219cc4.1920x1080.jpg?t=1733479296"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605220/ss_b67aaecc65bb14907ef491f021b1b04b9f355126.1920x1080.jpg?t=1733479296"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605220/ss_2235ceace4cb671bca4b940c2f9376bdefcd72b2.1920x1080.jpg?t=1733479296"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605220/ss_da1a9891101f95addb711a628dc08534b8ed4f95.1920x1080.jpg?t=1733479296"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605220/ss_8be1689a896f5d84a7c2e21d0bc2905690f1fc85.1920x1080.jpg?t=1733479296"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605220/ss_a1cd662a76534ff8fd2efbb94affe536d04e1469.1920x1080.jpg?t=1733479296"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605220/ss_a8428a3918e2c98ce2e7715f020cee462c4a5951.1920x1080.jpg?t=1733479296"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605220/ss_bf9f5286770c80cf9ebc9167f7af1d1ecfcfbb6b.1920x1080.jpg?t=1733479296"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605220/ss_8a00d02a14812e2496ca5c4dbbc0d9b949e61354.1920x1080.jpg?t=1733479296"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605220/ss_1a923b00e653f93f0306579248219993ed1289cb.1920x1080.jpg?t=1733479296"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Dune: Spice Wars | 1.0 Release Date Announcement",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256962988/movie.293x165.jpg?t=1694700091",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1605220/595981/52ccf18386b4d58d767553c81142bde97714a1b9/1750710347/dash_h264.mpd?t=1694700091"
+    },
+    {
+      "name": "Dune: Spice Wars - Conquest Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256954352/movie.293x165.jpg?t=1687443174",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1605220/580531/e7e7a8ed9935d092b8974e9b15608aa3f0dbafeb/1750710333/dash_h264.mpd?t=1687443174"
+    },
+    {
+      "name": "Air & Sand",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256915613/movie.293x165.jpg?t=1668697539",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1605220/512768/dbdc630bfcc9fd71acc9772e3db5837fd0842bfc/1750710315/dash_h264.mpd?t=1668697539"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1605220,
+    "store_url": "https://store.steampowered.com/app/1605220/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Management",
+      "Singleplayer",
+      "Sci-fi",
+      "RTS",
+      "Strategy",
+      "4X",
+      "Grand Strategy",
+      "Simulation",
+      "Real Time Tactics",
+      "Building",
+      "Tactical",
+      "Economy",
+      "War",
+      "Diplomacy",
+      "Multiplayer",
+      "Base Building",
+      "Co-op",
+      "PvP",
+      "PvE",
+      "Indie"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 10650,
+    "review_negative": 2782,
+    "review_total": 13432,
+    "review_positive_percent": 79.29
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "key": "art-of-rally",
+  "name": "art of rally",
+  "description": "Race in the golden era of rally. Drive iconic cars from the 60s to Group B on challenging stages through stylized environments inspired by real worldwide locations. Will you master the art of rally?",
+  "developers": [
+    "Funselektor Labs Inc."
+  ],
+  "publishers": [
+    "Funselektor Labs Inc."
+  ],
+  "release_date": "2020-09-23",
+  "website": "http://artofrally.com/",
+  "tags": [
+    "action",
+    "indie",
+    "racing",
+    "simulation",
+    "sports",
+    "driving",
+    "physics",
+    "top-down",
+    "difficult",
+    "automobile-sim",
+    "arcade",
+    "relaxing",
+    "stylized",
+    "atmospheric",
+    "offroad",
+    "singleplayer",
+    "great-soundtrack",
+    "controller",
+    "soundtrack",
+    "fast-paced"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Portuguese - Portugal",
+    "Portuguese - Brazil",
+    "Russian",
+    "Simplified Chinese",
+    "Spanish - Latin America"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "artofrally.exe",
+          "description": "art of rally",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Funselektor Labs/Art of Rally/cloud",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "artofrally.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Funselektor Labs/Art of Rally/cloud",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "artofrally.x64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Funselektor Labs/Art of Rally/cloud",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "art of rally",
+    "artofrally",
+    "artofrally.app",
+    "artofrally.x64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/550320/3dd3e3e7822c2563066399fa60520e4b820327d2.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550320/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550320/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550320/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550320/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550320/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550320/ss_032d3b8d120b113e1b1cf06da250dff616226ea6.1920x1080.jpg?t=1779356709"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550320/ss_a461baa1a4ae2eefb76ff0826666dc95ed6c6bb9.1920x1080.jpg?t=1779356709"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550320/ss_9e6de963c60552e484d87ebf720ce1f4cf40f441.1920x1080.jpg?t=1779356709"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550320/ss_1b0a054c2dabfa866c07acf0066adcde44501d12.1920x1080.jpg?t=1779356709"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550320/ss_18b1cf8f39f681b90c64089e76e7a65c080849ef.1920x1080.jpg?t=1779356709"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550320/ss_c9c73e7439632d7ad885ccb5c8d8b412eecf3efe.1920x1080.jpg?t=1779356709"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550320/ss_2368337395f716a6a380779ec081d1e294965336.1920x1080.jpg?t=1779356709"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550320/ss_f7fbb0ecc343b3c7346ae88e1b6b22ea8b102c47.1920x1080.jpg?t=1779356709"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550320/ss_225f272dd7877146d09038aca5dd58fa1e9aa649.1920x1080.jpg?t=1779356709"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550320/ss_7fbea5c4d0c323b0a018d09ee63c533cf2c36418.1920x1080.jpg?t=1779356709"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550320/ss_79f9ed5d7fe701de61bacc82f612a187779b8174.1920x1080.jpg?t=1779356709"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550320/ss_c3d1214c35aeb6c054ea77a8ff2617b308dce2bd.1920x1080.jpg?t=1779356709"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550320/ss_fb0d9a2fd1fd2ad9c159ab573b158946c541162c.1920x1080.jpg?t=1779356709"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550320/ss_15c5e9602631a69084475a008133d4f9db1b4afe.1920x1080.jpg?t=1779356709"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256801868/movie.293x165.jpg?t=1600866444",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/550320/313707/7a30bfccc93f3022e491dc272316c5a895ed1c78/1750548845/dash_h264.mpd?t=1600866444"
+    },
+    {
+      "name": "2021 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256845611/movie.293x165.jpg?t=1628726165",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/550320/390468/5dde2fc958619347f8aa76cbf85e99721011dcfc/1750548886/dash_h264.mpd?t=1628726165"
+    },
+    {
+      "name": "Indonesia Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256906933/movie.293x165.jpg?t=1663867383",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/550320/498118/51cb7960d7c0730f4adf08da99cccb1cbd670c3d/1750548887/dash_h264.mpd?t=1663867383"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 550320,
+    "store_url": "https://store.steampowered.com/app/550320/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Stats",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Racing",
+      "Driving",
+      "Physics",
+      "Top-Down",
+      "Sports",
+      "Difficult",
+      "Automobile Sim",
+      "Arcade",
+      "Relaxing",
+      "Stylized",
+      "Atmospheric",
+      "Offroad",
+      "Simulation",
+      "Action",
+      "Singleplayer",
+      "Great Soundtrack",
+      "Controller",
+      "Soundtrack",
+      "Indie",
+      "Fast-Paced"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 5934,
+    "review_negative": 521,
+    "review_total": 6455,
+    "review_positive_percent": 91.93
+  }
+}

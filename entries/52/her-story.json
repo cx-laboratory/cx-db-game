@@ -1,0 +1,158 @@
+{
+  "key": "her-story",
+  "name": "Her Story",
+  "description": "A woman is interviewed seven times by the police. Search the video database and explore hundreds of authentic clips to discover her story in this groundbreaking and award winning narrative game.",
+  "developers": [
+    "Sam Barlow"
+  ],
+  "publishers": [
+    "Sam Barlow"
+  ],
+  "release_date": "2015-06-24",
+  "website": "http://www.herstorygame.com",
+  "tags": [
+    "adventure",
+    "casual",
+    "indie",
+    "simulation",
+    "investigation",
+    "typing",
+    "interactive-fiction",
+    "detective",
+    "choose-your-own-adventure",
+    "puzzle",
+    "exploration",
+    "fmv",
+    "crime",
+    "visual-novel",
+    "point-and-click",
+    "female-protagonist",
+    "dialogue-heavy",
+    "nonlinear",
+    "story-rich",
+    "singleplayer",
+    "realistic"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "japanese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "HerStory.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Her Story.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Her Story",
+    "HerStory",
+    "Her Story.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/368370/116b0c3f9693b9e3f235d22d4269a64c80b763d4.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368370/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368370/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368370/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368370/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368370/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368370/ss_47f0e58df778d9f10b3df40ddce8bba8e592b1fb.1920x1080.jpg?t=1684962832"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368370/ss_0d88d85f2797f769c51a56d236ed4449d103401e.1920x1080.jpg?t=1684962832"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368370/ss_9a5538329a233de7c86e14e331c3894a942b1693.1920x1080.jpg?t=1684962832"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368370/ss_eb901afe41d8680530960809e7a7196288f29793.1920x1080.jpg?t=1684962832"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368370/ss_ace1c258138f39bf3eacbe7a976f765134289cd6.1920x1080.jpg?t=1684962832"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2039903/movie.293x165.jpg?t=1684945729",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/368370/37248/8e1fb104299299f2752a02035548658ea269f7a4/1751271171/dash_h264.mpd?t=1684945729"
+    }
+  ],
+  "metacritic": {
+    "score": 86,
+    "url": "https://www.metacritic.com/game/pc/her-story?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 368370,
+    "store_url": "https://store.steampowered.com/app/368370/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Investigation",
+      "Typing",
+      "Interactive Fiction",
+      "Detective",
+      "Choose Your Own Adventure",
+      "Puzzle",
+      "Exploration",
+      "FMV",
+      "Crime",
+      "Visual Novel",
+      "Point & Click",
+      "Female Protagonist",
+      "Dialogue Heavy",
+      "Nonlinear",
+      "Psychological Horror",
+      "Story Rich",
+      "Simulation",
+      "Casual",
+      "Singleplayer",
+      "Realistic"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 9244,
+    "review_negative": 1098,
+    "review_total": 10342,
+    "review_positive_percent": 89.38
+  }
+}

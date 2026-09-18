@@ -1,0 +1,252 @@
+{
+  "key": "gas-station-simulator",
+  "name": "Gas Station Simulator",
+  "description": "Buy an abandoned gas station and restore it to its full glory. Renovate, upgrade and expand upon the offered services to keep up with your clients demands.",
+  "developers": [
+    "DRAGO entertainment"
+  ],
+  "publishers": [
+    "DRAGO entertainment"
+  ],
+  "release_date": "2021-09-16",
+  "website": "https://gasstationsimulatorthegame.com/",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "economy",
+    "management",
+    "singleplayer",
+    "building",
+    "first-person",
+    "base-building",
+    "realistic",
+    "open-world",
+    "education",
+    "relaxing",
+    "funny",
+    "driving",
+    "design-and-illustration",
+    "physics",
+    "memes",
+    "destruction",
+    "choices-matter"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "japanese"
+  ],
+  "name_localized": {
+    "schinese": "加油站大亨",
+    "tchinese": "加油站大亨",
+    "japanese": "ガスステーションシミュレーター"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "GSS2.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "GSS2.exe",
+          "description": "Gas Station Simulator (DX12 Mode)",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "GSS2/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "GSS2.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "GSS2/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Gas Station Simulator",
+    "GSS2",
+    "GSS2.app",
+    "加油站大亨",
+    "ガスステーションシミュレーター"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1149620/7b57c38b066dfe58882cc358f379060ae36dfe1f.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ba073f748dc99c26ea9bf8e2eacda8ef449802a2/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/bfb3a18c743afda684929759fd8d5ff713c866c6/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/fc2babc20cda608c2a5163172c2b7825fe5cd8d1/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/22075927e04c5e4bef163e30ffc46be144475bbf/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/e3f907ccfc2d97fa22a45dd6660ee99b0f4b4fa8/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_4707569d03521819ff41362e0923c36c58839b26.1920x1080.jpg?t=1781643665"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_94aa6330dab81dc306e55166f002c8840c4408de.1920x1080.jpg?t=1781643665"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_1f470c0c30f67b895c2caed1cae983d0fbb53a54.1920x1080.jpg?t=1781643665"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_33d03da735eb77872c25169e1f3e1d70f4461b59.1920x1080.jpg?t=1781643665"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_76e87c290054a6e7f41913db743c420e401391a3.1920x1080.jpg?t=1781643665"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_12a84e32f0a195efccdc4ab76e7af308b939e0f1.1920x1080.jpg?t=1781643665"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_1e70a6346a33237ad8c5e72ce820ea133eb05d0b.1920x1080.jpg?t=1781643665"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_0f44902e25e8282a375f86ea4543bd592e2887dd.1920x1080.jpg?t=1781643665"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_4fb6ec611395423579da933406a95e4b4e318581.1920x1080.jpg?t=1781643665"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_0ac80a5235772732c09d0eff9aaa0bd9acc3bd15.1920x1080.jpg?t=1781643665"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_419a9921ccdac9cdcc39add83565676bf46bfa9d.1920x1080.jpg?t=1781643665"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_64cdf0eefd186395b17d6f3b51a025222b49ee39.1920x1080.jpg?t=1781643665"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_9d0d83e2f28a7575e0b0952394bfeca2d204fa13.1920x1080.jpg?t=1781643665"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_6f609ffdef7cc4f0558721f288dacb138bcd958c.1920x1080.jpg?t=1781643665"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_53057a8ff80de1702ead6cd9f080cd30c5cdd453.1920x1080.jpg?t=1781643665"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_3c1dcae2ecd8d17e83755903c6317a0cd615fc98.1920x1080.jpg?t=1781643665"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_a1420513411fd2608cbd209a0ffe4a9e2dc7a795.1920x1080.jpg?t=1781643665"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_bbd30db5316e2b969335f76125e3c5531cef8970.1920x1080.jpg?t=1781643665"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_292f30566d236d6a96739d75a85475d3a6a70c3d.1920x1080.jpg?t=1781643665"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_7c72b277c7d27b11f037fffed55a21722bc123f0.1920x1080.jpg?t=1781643665"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_f77145dd0dc120b9c982747e0df702a56e8992c0.1920x1080.jpg?t=1781643665"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_749683550dd306ab07a11332bad7652498cb4bf7.1920x1080.jpg?t=1781643665"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_7af06c355302376321d79c7f998ba5570850a9e3.1920x1080.jpg?t=1781643665"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Gas Station Simulator Accolades",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256887342/movie.293x165.jpg?t=1732727867",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1149620/464411/924ab93b9afb0ff6d96a18955730c3eba6be3afb/1750628590/dash_h264.mpd?t=1732727867"
+    },
+    {
+      "name": "Gas Station Simulator Revamp Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257077025/5cf3bcf5cd76054838bb944b07d51db568795d95/movie_600x337.jpg?t=1732727863",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1149620/791812/f7d8667af2eaafeea34e3589111ef63637ec4518/1750628597/dash_h264.mpd?t=1732727863"
+    },
+    {
+      "name": "GSS_SteamReleaseDateRevealTrailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256846349/movie.293x165.jpg?t=1732727870",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1149620/391896/40a8283833248b201419cd11dc1d306102e4ccf2/1750628573/dash_h264.mpd?t=1732727870"
+    },
+    {
+      "name": "GSS_CarWash",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256871012/movie.293x165.jpg?t=1732727875",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1149620/435125/5af2cf903ed738e440c08247a9789d04e2b34dfa/1750628583/dash_h264.mpd?t=1732727875"
+    }
+  ],
+  "metacritic": {
+    "score": 72,
+    "url": "https://www.metacritic.com/game/pc/gas-station-simulator?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1149620,
+    "store_url": "https://store.steampowered.com/app/1149620/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Simulation",
+      "Economy",
+      "Management",
+      "Singleplayer",
+      "Building",
+      "Casual",
+      "First-Person",
+      "Base Building",
+      "Realistic",
+      "Open World",
+      "Education",
+      "Relaxing",
+      "Funny",
+      "Driving",
+      "Design & Illustration",
+      "Physics",
+      "Indie",
+      "Memes",
+      "Destruction",
+      "Choices Matter"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 23953,
+    "review_negative": 3280,
+    "review_total": 27233,
+    "review_positive_percent": 87.96
+  }
+}

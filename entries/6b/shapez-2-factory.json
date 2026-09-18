@@ -1,0 +1,349 @@
+{
+  "key": "shapez-2-factory",
+  "name": "shapez 2 - Factory",
+  "description": "Dive into a factory-building game with the focus on just that – building huge space factories! Design sprawling multi-level factories and satisfying production lines without limits. Tackle progressively challenging automation goals at your own pace, without the threat of enemies.",
+  "developers": [
+    "tobspr Games"
+  ],
+  "publishers": [
+    "tobspr Games"
+  ],
+  "release_date": "2026-04-23",
+  "website": "https://shapez2.com/",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "strategy",
+    "automation",
+    "management",
+    "building",
+    "futuristic",
+    "puzzle",
+    "sandbox",
+    "crafting",
+    "base-building",
+    "transportation",
+    "logic",
+    "3d",
+    "sci-fi",
+    "procedural-generation",
+    "singleplayer",
+    "moddable",
+    "exploration"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "polish",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "异形工厂2",
+    "tchinese": "異形工廠2",
+    "japanese": "shapez 2"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "shapez 2.exe",
+          "description": "Launch shapez 2 (DirectX 11)",
+          "type": "default"
+        },
+        {
+          "executable": "shapez 2.exe",
+          "description": "Launch shapez 2 (Vulkan - experimental)",
+          "type": "default"
+        },
+        {
+          "executable": "shapez 2.exe",
+          "description": "Launch shapez 2 (DirectX 12 - experimental)",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "tobspr Games/shapez 2/savegames",
+          "pattern": "*.spz2",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "tobspr Games/shapez 2/blueprints",
+          "pattern": "*.spz2bp",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "tobspr Games/shapez 2/blueprints",
+          "pattern": "toolbar.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "tobspr Games/shapez 2",
+          "pattern": "achievements.bin",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "tobspr Games/shapez 2/Shared",
+          "pattern": "*.json",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "shapez 2.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "tobspr Games/shapez 2/savegames",
+          "pattern": "*.spz2",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "tobspr Games/shapez 2/blueprints",
+          "pattern": "*.spz2bp",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "tobspr Games/shapez 2/blueprints",
+          "pattern": "toolbar.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "tobspr Games/shapez 2",
+          "pattern": "achievements.bin",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "tobspr Games/shapez 2/Shared",
+          "pattern": "*.json",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "shapez 2.x86_64",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "tobspr Games/shapez 2/savegames",
+          "pattern": "*.spz2",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "tobspr Games/shapez 2/blueprints",
+          "pattern": "*.spz2bp",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "tobspr Games/shapez 2/blueprints",
+          "pattern": "toolbar.json",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "tobspr Games/shapez 2",
+          "pattern": "achievements.bin",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "tobspr Games/shapez 2/Shared",
+          "pattern": "*.json",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "shapez 2 - Factory",
+    "shapez 2",
+    "shapez 2.app",
+    "shapez 2.x86_64",
+    "异形工厂2",
+    "異形工廠2"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2162800/dd6461c16cbd15289e07a69da97c45025ab91fc0.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/680ac087db67c922e0340548103235a7529ec5df/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/5cdaa9e8359c7c39de9b96aeba814616c59641cb/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/444d1d719a15ecb16f7d255a8257deeafc30de27/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/8edee1b9aba40f488ac17fea76fbbf0f0b403e96/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/20c83d954fa993e1a5a191fa836c4ee8a964eeb0/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/59577f5efa6411e1acc46a045d9d0108e95aae06/ss_59577f5efa6411e1acc46a045d9d0108e95aae06.1920x1080.jpg?t=1783116690"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/0aa87879900b062d7cdda1594d58ecb1cdb4a389/ss_0aa87879900b062d7cdda1594d58ecb1cdb4a389.1920x1080.jpg?t=1783116690"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/16462abda91738df594156d4b2f0a3869bb03d49/ss_16462abda91738df594156d4b2f0a3869bb03d49.1920x1080.jpg?t=1783116690"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/ec7e9bd126c7c18cb01226c1ef9d9adaa0e20a9b/ss_ec7e9bd126c7c18cb01226c1ef9d9adaa0e20a9b.1920x1080.jpg?t=1783116690"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/af77852cd55b1f86d66492d9b109c374c0644ea8/ss_af77852cd55b1f86d66492d9b109c374c0644ea8.1920x1080.jpg?t=1783116690"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/a9b59d405541bbe546f03a033c40a08dc95e76c3/ss_a9b59d405541bbe546f03a033c40a08dc95e76c3.1920x1080.jpg?t=1783116690"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/ad16234f44ef4642ec3540f9222575a742ee3c8b/ss_ad16234f44ef4642ec3540f9222575a742ee3c8b.1920x1080.jpg?t=1783116690"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/5609368cd2855de78db569aaf2ffe26096c976bd/ss_5609368cd2855de78db569aaf2ffe26096c976bd.1920x1080.jpg?t=1783116690"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/8206b44836a09f1e25a4fec73bb8bd0cb22f81ba/ss_8206b44836a09f1e25a4fec73bb8bd0cb22f81ba.1920x1080.jpg?t=1783116690"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/c4210793f6920800c3bb44025b0c00f1683aed15/ss_c4210793f6920800c3bb44025b0c00f1683aed15.1920x1080.jpg?t=1783116690"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/de313a3fb9d6a853e5dedaaed4850d1e8130fe82/ss_de313a3fb9d6a853e5dedaaed4850d1e8130fe82.1920x1080.jpg?t=1783116690"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/1899e97cbdf9322af757616096c0ddb2a327d33c/ss_1899e97cbdf9322af757616096c0ddb2a327d33c.1920x1080.jpg?t=1783116690"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/2922173ed79a421ce763091fc88183b2d5ff70ef/ss_2922173ed79a421ce763091fc88183b2d5ff70ef.1920x1080.jpg?t=1783116690"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/de8f103e076dcdb5023a7d5e7f28145f9498cdc6/ss_de8f103e076dcdb5023a7d5e7f28145f9498cdc6.1920x1080.jpg?t=1783116690"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/a6e066db3c53a35ba4e3e416c346e6a586f9ae13/ss_a6e066db3c53a35ba4e3e416c346e6a586f9ae13.1920x1080.jpg?t=1783116690"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/4dcdb66b239e9f4831dd10cc4a98bb14ff9560f2/ss_4dcdb66b239e9f4831dd10cc4a98bb14ff9560f2.1920x1080.jpg?t=1783116690"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/811ca0845791f99b76ed7ce2879e7cdbe5a1b34d/ss_811ca0845791f99b76ed7ce2879e7cdbe5a1b34d.1920x1080.jpg?t=1783116690"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/d02b7e8045918d264a0c5fe9aa2934e842d0e445/ss_d02b7e8045918d264a0c5fe9aa2934e842d0e445.1920x1080.jpg?t=1783116690"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/1ba7749d9889d525f67091412c02e05b475d9867/ss_1ba7749d9889d525f67091412c02e05b475d9867.1920x1080.jpg?t=1783116690"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/0be3c9044e9b9b1bc512336bd35e3b1a39c2b16e/ss_0be3c9044e9b9b1bc512336bd35e3b1a39c2b16e.1920x1080.jpg?t=1783116690"
+    }
+  ],
+  "videos": [
+    {
+      "name": "1.0 Gameplay Trailer [EN]",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257312662/b88492b67468bddc915b3017a87eb2fdc06ee792/movie_600x337.jpg?t=1776943002",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2162800/569876129/f6028330fbbcc95e545d1ccc7e48fde2cea8a47d/1776432126/dash_h264.mpd?t=1776943002"
+    },
+    {
+      "name": "1.0 Reveal Trailer [EN]",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257294952/d339b11396ac537982e726e3eec3728d7f559e96/movie_600x337.jpg?t=1776928345",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2162800/1758220731/61032b8f4c20a8b76463b07d417da41c9307baf8/1772118437/dash_h264.mpd?t=1776928345"
+    }
+  ],
+  "metacritic": {
+    "score": 80,
+    "url": "https://www.metacritic.com/game/pc/shapez-2---factory?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 2162800,
+    "store_url": "https://store.steampowered.com/app/2162800/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Automation",
+      "Management",
+      "Strategy",
+      "Building",
+      "Futuristic",
+      "Simulation",
+      "Puzzle",
+      "Sandbox",
+      "Crafting",
+      "Base Building",
+      "Transportation",
+      "Logic",
+      "3D",
+      "Casual",
+      "Sci-fi",
+      "Procedural Generation",
+      "Singleplayer",
+      "Indie",
+      "Moddable",
+      "Exploration"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 14296,
+    "review_negative": 414,
+    "review_total": 14710,
+    "review_positive_percent": 97.19
+  }
+}

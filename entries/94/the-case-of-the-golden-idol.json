@@ -1,0 +1,305 @@
+{
+  "key": "the-case-of-the-golden-idol",
+  "name": "The Case of the Golden Idol",
+  "description": "A new kind of detective game that allows you to think and investigate freely. Discover clues surrounding 12 strange and gruesome deaths and build your own theory. Pick your suspect, deduce the motive, unmask the awful truth.",
+  "developers": [
+    "Color Gray Games"
+  ],
+  "publishers": [
+    "Playstack"
+  ],
+  "release_date": "2022-10-13",
+  "website": "https://www.thegoldenidol.com/",
+  "tags": [
+    "adventure",
+    "indie",
+    "mystery",
+    "detective",
+    "investigation",
+    "puzzle",
+    "conspiracy",
+    "point-and-click",
+    "story-rich",
+    "2d",
+    "thriller",
+    "interactive-fiction",
+    "dark",
+    "pixel-graphics",
+    "atmospheric",
+    "singleplayer",
+    "historical",
+    "choices-matter",
+    "crime",
+    "narrative",
+    "exploration"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese - Brazil",
+    "Spanish - Latin America",
+    "Traditional Chinese",
+    "Turkish*languages with full audio support"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "game.exe",
+          "description": "The Case of the Golden Idol",
+          "type": "option3"
+        },
+        {
+          "executable": "windows/The Case of the Golden Idol.exe",
+          "description": "The Case of the Golden Idol Redux",
+          "type": "option1"
+        },
+        {
+          "executable": "game.exe",
+          "description": "The Case of the Golden Idol",
+          "type": "option3"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Godot/app_userdata/The Case of The Golden Idol",
+          "pattern": "*.save",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Godot/app_userdata/The Case of The Golden Idol",
+          "pattern": "*.cfg",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "PlayStack/The Case of the Golden Idol",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "SavesDir",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "The Case of the Golden Idol.app\\Contents\\MacOS\\The Case of the Golden Idol",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Godot/app_userdata/The Case of The Golden Idol",
+          "pattern": "*.save",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Godot/app_userdata/The Case of The Golden Idol",
+          "pattern": "*.cfg",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "PlayStack/The Case of the Golden Idol",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "SavesDir",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "linux/game.x86_64",
+          "description": "The Case of the Golden Idol - Steam Deck Version",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Godot/app_userdata/The Case of The Golden Idol",
+          "pattern": "*.save",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "Godot/app_userdata/The Case of The Golden Idol",
+          "pattern": "*.cfg",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "PlayStack/The Case of the Golden Idol",
+          "pattern": "*.dat",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "SavesDir",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "The Case of the Golden Idol",
+    "game",
+    "windows/The Case of the Golden Idol",
+    "The Case of the Golden Idol.app\\Contents\\MacOS\\The Case of the Golden Idol",
+    "linux/game.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1677770/64fd010f49793095093a832926a856fe2848aac9.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_d817a8158f79e7881241f0d4470cd010f2fbe44f.1920x1080.jpg?t=1782893605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_e9593cf60f8e7fd96d205f5be6b45a487365fa29.1920x1080.jpg?t=1782893605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_ca307de7f24032327368d7d1718833331e481cc8.1920x1080.jpg?t=1782893605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_14f8ca6a582b71760770efdfac6cb38f7fcf4a98.1920x1080.jpg?t=1782893605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_003c853ecd98156ac5cc7378c16385fe5a677efd.1920x1080.jpg?t=1782893605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_3755a62c7635f1923350d31e302f9ed943d82f14.1920x1080.jpg?t=1782893605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_c576a9ea758a8ec341e71226a04c1d9a816f6da8.1920x1080.jpg?t=1782893605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_649570093b41419b15482dd6667b0a74c4a8cfb2.1920x1080.jpg?t=1782893605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_0333ce1fe9501a56b71bd2d626efd9a03f781f2d.1920x1080.jpg?t=1782893605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_8f2a212b0de03ff276c36f800395a5d44251246c.1920x1080.jpg?t=1782893605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_5b3113b1542ea72c022be7490dd76b4349dcfb85.1920x1080.jpg?t=1782893605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_ecc62852c4cb6cd620998e37f9a2cc42e91a7cfc.1920x1080.jpg?t=1782893605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_b6c206b00af1a50e0fab259e8ad23449ce76c4ad.1920x1080.jpg?t=1782893605"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677770/ss_468b69b6b489e564e0a1f87674f01f01ce4cee86.1920x1080.jpg?t=1782893605"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Case of the Golden Idol Gameplay",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256910694/movie.293x165.jpg?t=1684338125",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1677770/504469/fc7854729ce68dfcf7645508b2e28339414bbc6a/1750724476/dash_h264.mpd?t=1684338125"
+    },
+    {
+      "name": "Golden Idol Mysteries: The Lemurian Vampire DLC",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256967035/movie.293x165.jpg?t=1693497058",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1677770/603067/3998332c236345416d26cdfdb063ac1fff21f862/1750724519/dash_h264.mpd?t=1693497058"
+    },
+    {
+      "name": "Golden Idol Mysteries: The Spider of Lanka DLC",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256945165/movie.293x165.jpg?t=1693497062",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1677770/564616/61fafc46a4601e51a00bb14a510376f808367806/1750724501/dash_h264.mpd?t=1693497062"
+    },
+    {
+      "name": "The Case of the Golden Idol Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256910701/movie.293x165.jpg?t=1684338121",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1677770/504479/c9732fc16eba36ad49b9bc5f44d71be7a7928f5b/1750724497/dash_h264.mpd?t=1684338121"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1677770,
+    "store_url": "https://store.steampowered.com/app/1677770/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Mystery",
+      "Detective",
+      "Investigation",
+      "Puzzle",
+      "Conspiracy",
+      "Point & Click",
+      "Story Rich",
+      "2D",
+      "Thriller",
+      "Interactive Fiction",
+      "Dark",
+      "Pixel Graphics",
+      "Atmospheric",
+      "Singleplayer",
+      "Historical",
+      "Choices Matter",
+      "Adventure",
+      "Crime",
+      "Narrative",
+      "Exploration"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 10413,
+    "review_negative": 228,
+    "review_total": 10641,
+    "review_positive_percent": 97.86
+  }
+}

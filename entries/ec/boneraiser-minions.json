@@ -1,0 +1,186 @@
+{
+  "key": "boneraiser-minions",
+  "name": "Boneraiser Minions",
+  "description": "Amass an army of undead to fight endless waves of heroes intent to end your boneraising ways! In this gothic auto-battler rogue-lite Survivor-like, use the bones of slain heroes to raise your minions, collect relics and spells, and unlock meta upgrades, all to survive King Gigald's crusade!",
+  "developers": [
+    "caiys"
+  ],
+  "publishers": [
+    "caiysware"
+  ],
+  "release_date": "2023-03-09",
+  "website": "http://caiysware.com",
+  "tags": [
+    "action",
+    "casual",
+    "indie",
+    "rpg",
+    "vampires",
+    "action-roguelike",
+    "bullet-hell",
+    "pixel-graphics",
+    "roguelite",
+    "2d",
+    "bullet-heaven",
+    "singleplayer",
+    "arcade",
+    "roguelike",
+    "controller",
+    "retro",
+    "score-attack",
+    "dark-fantasy",
+    "action-rpg",
+    "1980s"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Boneraiser Minions.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Boneraiser_Minions/{64BitSteamID}",
+          "pattern": "save.dat",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Boneraiser_Minions/{64BitSteamID}",
+          "pattern": "save_meta.dat",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Boneraiser_Minions/{64BitSteamID}",
+          "pattern": "save_stats.dat",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Boneraiser_Minions/{64BitSteamID}",
+          "pattern": "save_compendium.dat",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "Boneraiser_Minions/{64BitSteamID}",
+          "pattern": "mirror.dat",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Boneraiser Minions"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1944570/ef2c57b71a334c6e86a87284b58d059dc98c104a.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1944570/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1944570/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1944570/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1944570/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1944570/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1944570/ss_08ff1e53a4b84baa09ed745562aa816ab2c48abe.1920x1080.jpg?t=1733234278"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1944570/ss_fe254df02963df8cd81ad4ce88fc6cf5462afcb3.1920x1080.jpg?t=1733234278"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1944570/ss_2b74ab356590098d97c2205e72ad82a791f5b951.1920x1080.jpg?t=1733234278"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1944570/ss_3f2a6a48efc1d5efab15dfc55fe37a269061e62b.1920x1080.jpg?t=1733234278"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1944570/ss_c6291f03a423f95031b81129bee2827cec993808.1920x1080.jpg?t=1733234278"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1944570/ss_3e8156e6c990e6e65a885df9721c59a38f934e48.1920x1080.jpg?t=1733234278"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1944570/ss_81e4e696f8013cd91ed790c7bac26d7f2eac42ab.1920x1080.jpg?t=1733234278"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1944570/ss_3ca80fc73584aa1cc389a28ab613d3522c4f5a02.1920x1080.jpg?t=1733234278"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256884781/movie.293x165.jpg?t=1693917932",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1944570/459666/389b3104e1e7b76b09f93d93aacdef1ace8a9936/1751051540/dash_h264.mpd?t=1693917932"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1944570,
+    "store_url": "https://store.steampowered.com/app/1944570/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Vampires",
+      "Action Roguelike",
+      "Bullet Hell",
+      "Pixel Graphics",
+      "Roguelite",
+      "2D",
+      "Bullet Heaven",
+      "Indie",
+      "Singleplayer",
+      "Casual",
+      "Arcade",
+      "Action",
+      "RPG",
+      "Roguelike",
+      "Controller",
+      "Retro",
+      "Score Attack",
+      "Dark Fantasy",
+      "Action RPG",
+      "1980s"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 5131,
+    "review_negative": 204,
+    "review_total": 5335,
+    "review_positive_percent": 96.18
+  }
+}

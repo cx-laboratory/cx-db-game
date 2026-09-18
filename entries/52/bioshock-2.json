@@ -1,0 +1,126 @@
+{
+  "key": "bioshock-2",
+  "name": "BioShock 2",
+  "description": "Set approximately 10 years after the events of the original BioShock, the halls of Rapture once again echo with sins of the past. Along the Atlantic coastline, a monster has been snatching little girls and bringing them back to the undersea city of Rapture.",
+  "developers": [
+    "2K Marin"
+  ],
+  "publishers": [
+    "2K"
+  ],
+  "release_date": "2010-02-09",
+  "website": "http://www.bioshockgame.com",
+  "tags": [
+    "action",
+    "multiplayer"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "SP\\Builds\\Binaries\\Bioshock2Launcher.exe",
+          "description": "BioShock 2 Single Player",
+          "type": "default"
+        },
+        {
+          "executable": "MP\\Builds\\Binaries\\Bioshock2Launcher.exe",
+          "description": "BioShock 2 Multiplayer",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "BioShock 2.app",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "BioShock 2",
+    "SP\\Builds\\Binaries\\Bioshock2Launcher",
+    "MP\\Builds\\Binaries\\Bioshock2Launcher",
+    "BioShock 2.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/8850/f5eda925c0e57373aaea4cae17b6f175115a8d54.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8850/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8850/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8850/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8850/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8850/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8850/ss_6bb369bee2bfb08d7486f39c4bb6e242375a6442.1920x1080.jpg?t=1730174099"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8850/ss_c5a491a8211f060b5de8988b1fe10ecf49e53f87.1920x1080.jpg?t=1730174099"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8850/ss_87a0cd2245cbe6d8462e1ff4df6bba5838e1dfe0.1920x1080.jpg?t=1730174099"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8850/ss_b8021f110086fae1090ff64be9ebbdaffceee0bd.1920x1080.jpg?t=1730174099"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8850/ss_202cdf1a67cab25a0d2c9c28270b0d683cd91f05.1920x1080.jpg?t=1730174099"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8850/ss_3c1a818a8b75e8d95f1160cc5105ed12964b1cf2.1920x1080.jpg?t=1730174099"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8850/ss_677bdcd40948e68e4c8e2a6675429660a448b9ce.1920x1080.jpg?t=1730174099"
+    }
+  ],
+  "videos": [],
+  "metacritic": {
+    "score": 88,
+    "url": "https://www.metacritic.com/game/pc/bioshock-2?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 8850,
+    "store_url": "https://store.steampowered.com/app/8850/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 13216,
+    "review_negative": 1681,
+    "review_total": 14897,
+    "review_positive_percent": 88.72
+  }
+}

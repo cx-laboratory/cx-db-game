@@ -1,0 +1,213 @@
+{
+  "key": "blood-bowl-2",
+  "name": "Blood Bowl 2",
+  "description": "Blood Bowl 2 smashes Warhammer and American football together, in an explosive cocktail of turn-based strategy, humour and brutality, adapted from Games Workshop’s famous boardgame.",
+  "developers": [
+    "Cyanide Studios"
+  ],
+  "publishers": [
+    "Slitherine Ltd."
+  ],
+  "release_date": "2015-09-23",
+  "website": "",
+  "tags": [
+    "sports",
+    "strategy",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "fantasy",
+    "board-game",
+    "singleplayer",
+    "turn-based",
+    "turn-based-strategy",
+    "tactical",
+    "rpg",
+    "funny",
+    "dark-fantasy",
+    "action",
+    "turn-based-tactics",
+    "violent",
+    "football-american",
+    "gore",
+    "dark-humor",
+    "tabletop"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "spanish",
+    "russian",
+    "polish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "BloodBowl2.exe",
+          "description": "Launch",
+          "type": "none"
+        },
+        {
+          "executable": "SteamWorkshop/SteamWorkshop.exe",
+          "description": "",
+          "type": "editor"
+        },
+        {
+          "executable": "launcher.bat",
+          "description": "Blood Bowl: Death Zone",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "BloodBowl2/Campaign",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "BloodBowl2/Profiles",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Launcher.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "BloodBowl2/Campaign",
+          "pattern": "*",
+          "recursive": true
+        },
+        {
+          "root": "WinMyDocuments",
+          "path": "BloodBowl2/Profiles",
+          "pattern": "*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Blood Bowl 2",
+    "BloodBowl2",
+    "SteamWorkshop/SteamWorkshop",
+    "launcher.bat",
+    "Launcher.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/236690/2ce1b080d91a0f3af333409fb9e0a2968bdae804.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236690/7ff74c284221ca140ee780d427df2afcc9b7aecf/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236690/0b9cc5cebb9a3fc792f7dff85f1b62041889853f/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236690/5f9d38374b3d27e0ebef1945839aa540fd5c2e22/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236690/3d36a40546064a221643d2160762a764ecda7255/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236690/cc2449eed17181dd0b1884b1ce6f2c2e871a435a/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236690/ss_b5c8ad83e1eaf4743a00d28a362ff32c4bda9701.1920x1080.jpg?t=1782895240"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236690/ss_c29e6ef245977f7501f679b0f5935a288fc670a6.1920x1080.jpg?t=1782895240"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236690/ss_d15d506fa163f9ec980bb4ef33df8a0639a834dc.1920x1080.jpg?t=1782895240"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236690/ss_8ca27cad1f15f924bf8190c9c185024e925530e7.1920x1080.jpg?t=1782895240"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236690/ss_f3de27d3c5c46edbc950e4dc8c8ed3438486c603.1920x1080.jpg?t=1782895240"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236690/ss_51e0bcac52a2c0ff49debed37a48c7935ba14cc9.1920x1080.jpg?t=1782895240"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236690/ss_02f261fa5a57bbba2d0cfe6cde8e3856a1171532.1920x1080.jpg?t=1782895240"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236690/ss_27a2894fe6bb8e717f5d173125582242dcb2b150.1920x1080.jpg?t=1782895240"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236690/ss_8ec8f83a67ca322242d51e604ac658aa3bda626a.1920x1080.jpg?t=1782895240"
+    }
+  ],
+  "videos": [],
+  "metacritic": {
+    "score": 76,
+    "url": "https://www.metacritic.com/game/pc/blood-bowl-2?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 236690,
+    "store_url": "https://store.steampowered.com/app/236690/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Sports",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Strategy",
+      "Multiplayer",
+      "Fantasy",
+      "Board Game",
+      "Singleplayer",
+      "Turn-Based",
+      "Turn-Based Strategy",
+      "Tactical",
+      "RPG",
+      "PvP",
+      "Funny",
+      "Dark Fantasy",
+      "Action",
+      "Turn-Based Tactics",
+      "Violent",
+      "Sports",
+      "Football (American)",
+      "Gore",
+      "Dark Humor",
+      "Tabletop"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 7178,
+    "review_negative": 1962,
+    "review_total": 9140,
+    "review_positive_percent": 78.53
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "key": "stray",
+  "name": "Stray",
+  "description": "Lost, alone and separated from family, a stray cat must untangle an ancient mystery to escape a long-forgotten cybercity and find their way home.",
+  "developers": [
+    "BlueTwelve Studio"
+  ],
+  "publishers": [
+    "Annapurna Interactive"
+  ],
+  "release_date": "2022-07-19",
+  "website": "https://stray.game",
+  "tags": [
+    "adventure",
+    "indie",
+    "cats",
+    "atmospheric",
+    "cyberpunk",
+    "singleplayer",
+    "cute",
+    "exploration",
+    "robots",
+    "puzzle",
+    "beautiful",
+    "third-person",
+    "horror",
+    "sci-fi",
+    "dystopian",
+    "open-world",
+    "mystery",
+    "action",
+    "colorful",
+    "stealth"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "dutch",
+    "turkish",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Stray.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Hk_project\\Saved\\SaveGames\\{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Stray.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "Hk_project\\Saved\\SaveGames\\{64BitSteamID}",
+          "pattern": "*.sav",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Stray",
+    "Stray.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1332010/7794cc0b4e70bd3e4b9a0d07e2570ab8668c5f0b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/71daca1910d664d31240b9623a495e0c0828807f/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/01489897d641b7f2e734a436dfabdd74afd4c677/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/9c1bae81b2603c25ccf2a8f4944b3b58227005d7/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/7ae44e45f5a81726a84c71a69cf8ab0fc5102c84/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/ss_88e209a90c2039fa76bca6fa08c641365be38d50.1920x1080.jpg?t=1779927784"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/ss_e8f0cbd5efdba352e89c4cfcee3fe991a1e1be8a.1920x1080.jpg?t=1779927784"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/ss_2221af260c64362fdc835a9dca65f6f1d1192b25.1920x1080.jpg?t=1779927784"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/ss_3fdd04a5418293864bf82d33c75f833121e63804.1920x1080.jpg?t=1779927784"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/ss_90f8a99d0d1454bc77f46542f00f9ae5043c4268.1920x1080.jpg?t=1779927784"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/ss_a697971e484b3deef50153a13f2afd0539347d23.1920x1080.jpg?t=1779927784"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/ss_f6f6ba009971ff21867d5d8f96a3feb503f787b8.1920x1080.jpg?t=1779927784"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/ss_95ead64e0d31147f47f27ce828e8d5f52939dcf6.1920x1080.jpg?t=1779927784"
+    }
+  ],
+  "videos": [
+    {
+      "name": "STRAY | Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256896952/movie.293x165.jpg?t=1658250380",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1332010/480740/52e229bcff026b75925b610c8304660aba39c33a/1750673003/dash_h264.mpd?t=1658250380"
+    },
+    {
+      "name": "STRAY | Gameplay Walkthrough",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256844882/movie.293x165.jpg?t=1627683959",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1332010/389159/b5d308eaeb5c3bd1a767298bd0cdf568c0bfca09/1750672999/dash_h264.mpd?t=1627683959"
+    },
+    {
+      "name": "STRAY | Teaser Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256786641/movie.293x165.jpg?t=1591910393",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1332010/288130/d56f8905a47af83a69a8db610e88c5be4768dcee/1750672980/dash_h264.mpd?t=1591910393"
+    },
+    {
+      "name": "STRAY | Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256889643/movie.293x165.jpg?t=1654392393",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1332010/468493/9ef6af171f8b0f75473ae2ba8f20f592ccf2603d/1750673003/dash_h264.mpd?t=1654392393"
+    }
+  ],
+  "metacritic": {
+    "score": 82,
+    "url": "https://www.metacritic.com/game/pc/stray?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1332010,
+    "store_url": "https://store.steampowered.com/app/1332010/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Cats",
+      "Adventure",
+      "Atmospheric",
+      "Cyberpunk",
+      "Singleplayer",
+      "Cute",
+      "Exploration",
+      "Robots",
+      "Puzzle",
+      "Beautiful",
+      "Third Person",
+      "Horror",
+      "Indie",
+      "Sci-fi",
+      "Dystopian ",
+      "Open World",
+      "Mystery",
+      "Action",
+      "Colorful",
+      "Stealth"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 169623,
+    "review_negative": 4860,
+    "review_total": 174483,
+    "review_positive_percent": 97.21
+  }
+}

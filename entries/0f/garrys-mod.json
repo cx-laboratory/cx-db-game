@@ -1,0 +1,308 @@
+{
+  "key": "garrys-mod",
+  "name": "Garry's Mod",
+  "description": "Garry's Mod is a physics sandbox. There aren't any predefined aims or goals. We give you the tools and leave you to play.",
+  "developers": [
+    "Facepunch Studios"
+  ],
+  "publishers": [
+    "Valve"
+  ],
+  "release_date": "2006-11-29",
+  "website": "https://gmod.facepunch.com",
+  "tags": [
+    "casual",
+    "indie",
+    "simulation",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "lan-multiplayer",
+    "sandbox",
+    "moddable",
+    "physics",
+    "building",
+    "funny",
+    "first-person",
+    "singleplayer",
+    "fps",
+    "comedy",
+    "shooter",
+    "action",
+    "realistic",
+    "exploration"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "spanish",
+    "schinese",
+    "russian",
+    "norwegian",
+    "turkish"
+  ],
+  "name_localized": {
+    "schinese": "盖瑞模组"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "gmod.exe",
+          "description": "Play Garry's Mod",
+          "type": "default"
+        },
+        {
+          "executable": "bin/gmod.exe",
+          "description": "Launch Garry's Mod (32-bit)",
+          "type": "none"
+        },
+        {
+          "executable": "bin/win64/gmod.exe",
+          "description": "Launch Garry's Mod (64-bit)",
+          "type": "none"
+        },
+        {
+          "executable": "gmod_win64.exe",
+          "description": "Launch Garry's Mod (64-bit)",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "garrysmod/saves/",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "garrysmod/dupes/",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "garrysmod/demos/",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "hl2_osx",
+          "description": "Play Garry's Mod",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "garrysmod/saves/",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "garrysmod/dupes/",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "garrysmod/demos/",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "hl2.sh",
+          "description": "Play Garry's Mod",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "garrysmod/saves/",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "garrysmod/dupes/",
+          "pattern": "*",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "garrysmod/demos/",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Garry's Mod",
+    "gmod",
+    "bin/gmod",
+    "bin/win64/gmod",
+    "gmod_win64",
+    "hl2_osx",
+    "hl2.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4000/4a6f25cfa2426445d0d9d6e233408de4d371ce8b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_af060d0a9aeb6598e154c9704ce250b0e63b2266.1920x1080.jpg?t=1776868682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_d314d7dba0987b3e7f49154964bda0ae74ee5161.1920x1080.jpg?t=1776868682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_3d320f333fb74413911cbc2bffae9bdda683e2ec.1920x1080.jpg?t=1776868682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_12741a4344b5cfee33726ae219476c8634517f7d.1920x1080.jpg?t=1776868682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_74a181b4584a04c88ee316df31a850ab2810fb79.1920x1080.jpg?t=1776868682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_a6133770663ff34d535adf050f2af64ab47a6974.1920x1080.jpg?t=1776868682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_ff27d52a103d1685e4981673c4f700b860cb23de.1920x1080.jpg?t=1776868682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000826.1920x1080.jpg?t=1776868682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_65ec9828538eac8db20efc8149990060911fefc4.1920x1080.jpg?t=1776868682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_c13ffded1d71bedfa7ede94c11cbd21fbd21a32c.1920x1080.jpg?t=1776868682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_d85d19db885f233a4790960978f362b556ec37be.1920x1080.jpg?t=1776868682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000824.1920x1080.jpg?t=1776868682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_4162b10390d84aa600e5ed895fdc885482eb2e71.1920x1080.jpg?t=1776868682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000822.1920x1080.jpg?t=1776868682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_6196ec6e5ad47ef40b27099cc77a3bf60b64b38c.1920x1080.jpg?t=1776868682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000829.1920x1080.jpg?t=1776868682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000828.1920x1080.jpg?t=1776868682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000827.1920x1080.jpg?t=1776868682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000825.1920x1080.jpg?t=1776868682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000830.1920x1080.jpg?t=1776868682"
+    }
+  ],
+  "videos": [],
+  "metacritic": null,
+  "steam": {
+    "appid": 4000,
+    "store_url": "https://store.steampowered.com/app/4000/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Workshop",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled",
+      "Includes level editor",
+      "Includes Source SDK",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Sandbox",
+      "Moddable",
+      "Multiplayer",
+      "Physics",
+      "Building",
+      "Casual",
+      "Funny",
+      "First-Person",
+      "Singleplayer",
+      "FPS",
+      "Simulation",
+      "Comedy",
+      "Online Co-Op",
+      "Shooter",
+      "Co-op",
+      "Action",
+      "Indie",
+      "PvP",
+      "Realistic",
+      "Exploration"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 1207735,
+    "review_negative": 39072,
+    "review_total": 1246807,
+    "review_positive_percent": 96.87
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "key": "inzoi",
+  "name": "inZOI",
+  "description": "&quot;Every life becomes a story&quot; Create your unique story by controlling and observing the lives of 'Zois'. Customize characters and build houses using inZOI's easy-to-use tools to live the life of your dreams and experience the different emotions of life created by its deep and detailed simulation.",
+  "developers": [
+    "inZOI Studio"
+  ],
+  "publishers": [
+    "KRAFTON, Inc."
+  ],
+  "release_date": "2025-03-28",
+  "website": "https://playinzoi.com",
+  "tags": [
+    "adventure",
+    "casual",
+    "simulation",
+    "early-access",
+    "life-sim",
+    "character-customization",
+    "realistic",
+    "singleplayer",
+    "building",
+    "family-friendly",
+    "romance",
+    "sandbox",
+    "immersive-sim",
+    "dating-sim",
+    "sexual-content",
+    "modern",
+    "cats",
+    "city-builder",
+    "relaxing",
+    "moddable",
+    "cute"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "Korean",
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Russian",
+    "Japanese",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Portuguese - Brazil",
+    "Portuguese - Portugal",
+    "Polish",
+    "Dutch",
+    "Turkish"
+  ],
+  "name_localized": {
+    "koreana": "inZOI (인조이)",
+    "japanese": "inZOI (インゾイ)",
+    "schinese": "inZOI (云族裔)"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "inZOI.exe",
+          "description": "Default",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "inZOI/SaveGames",
+          "pattern": "*.usvx",
+          "recursive": true
+        },
+        {
+          "root": "MacDocuments",
+          "path": "inZOI/SaveGames",
+          "pattern": "*.usvx",
+          "recursive": true
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "inZOI.app",
+          "description": "Default-macOS",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "inZOI/SaveGames",
+          "pattern": "*.usvx",
+          "recursive": true
+        },
+        {
+          "root": "MacDocuments",
+          "path": "inZOI/SaveGames",
+          "pattern": "*.usvx",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "inZOI",
+    "inZOI.app",
+    "inZOI (인조이)",
+    "inZOI (インゾイ)",
+    "inZOI (云族裔)"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2456740/91593017a96a23af849781d6a68e9599cf250b4d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/89acee5c3d965af802002617d6c130e5e03bd240/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/db7e09bed342057b3ae057d5a2fcfb94a37f0762/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/6ee1710c233c350ea906404b8988646ad94457da/ss_6ee1710c233c350ea906404b8988646ad94457da.1920x1080.jpg?t=1777449358"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/7dd4827582e1c766ebd0b76798a0d42b1211f0fa/ss_7dd4827582e1c766ebd0b76798a0d42b1211f0fa.1920x1080.jpg?t=1777449358"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/95024ed2d889050a756df058d12f4f9a1b8bd304/ss_95024ed2d889050a756df058d12f4f9a1b8bd304.1920x1080.jpg?t=1777449358"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/a0785450c79eb14a1e32a8b5d9b73c0c70cd4071/ss_a0785450c79eb14a1e32a8b5d9b73c0c70cd4071.1920x1080.jpg?t=1777449358"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/b8c5598b2a12e3467160f17696c716d3d47108d7/ss_b8c5598b2a12e3467160f17696c716d3d47108d7.1920x1080.jpg?t=1777449358"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/9f8a0b5df28f3fbd7a355260123a8eaa906f9349/ss_9f8a0b5df28f3fbd7a355260123a8eaa906f9349.1920x1080.jpg?t=1777449358"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/03b1b9667843a7ca735a202d108aa693f7622d71/ss_03b1b9667843a7ca735a202d108aa693f7622d71.1920x1080.jpg?t=1777449358"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/51e74bcb79d352b758d642482a47832ed7685ee8/ss_51e74bcb79d352b758d642482a47832ed7685ee8.1920x1080.jpg?t=1777449358"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/fa6126fb4eef5fa62fb9b37db6d51b54e8d222b0/ss_fa6126fb4eef5fa62fb9b37db6d51b54e8d222b0.1920x1080.jpg?t=1777449358"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/e5f37340e17b20bd1f65960bb7d3b1cbe05d3907/ss_e5f37340e17b20bd1f65960bb7d3b1cbe05d3907.1920x1080.jpg?t=1777449358"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/00df5446646ee578b44193e39f148979dafb2d5b/ss_00df5446646ee578b44193e39f148979dafb2d5b.1920x1080.jpg?t=1777449358"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/d4f96df4bbf01335e37aa52eb26450971a03c75a/ss_d4f96df4bbf01335e37aa52eb26450971a03c75a.1920x1080.jpg?t=1777449358"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/e18a2b5d7375d88e32d35c955d634286d2b912c0/ss_e18a2b5d7375d88e32d35c955d634286d2b912c0.1920x1080.jpg?t=1777449358"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/b87f0e98d4affed5bc66c230874c1b1612660a2e/ss_b87f0e98d4affed5bc66c230874c1b1612660a2e.1920x1080.jpg?t=1777449358"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/278f002e85643f6d3b903d68727219d08838fa93/ss_278f002e85643f6d3b903d68727219d08838fa93.1920x1080.jpg?t=1777449358"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/a55c14656d906e7665375bab21f097f30f2f9469/ss_a55c14656d906e7665375bab21f097f30f2f9469.1920x1080.jpg?t=1777449358"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/ce8c450d37a0bd4e92152722fc771389cc861d06/ss_ce8c450d37a0bd4e92152722fc771389cc861d06.1920x1080.jpg?t=1777449358"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/b658f5b5fdcad9b588b1fee845aac15a17eca5f9/ss_b658f5b5fdcad9b588b1fee845aac15a17eca5f9.1920x1080.jpg?t=1777449358"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/ffc6948f2e2f93cc0a498b2f33901833f03b138f/ss_ffc6948f2e2f93cc0a498b2f33901833f03b138f.1920x1080.jpg?t=1777449358"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/ce3fbd584bd1b63f50fa6f2881612844dc39dabb/ss_ce3fbd584bd1b63f50fa6f2881612844dc39dabb.1920x1080.jpg?t=1777449358"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/ea6450cb078d3474f14d175d93ef2afb779182b2/ss_ea6450cb078d3474f14d175d93ef2afb779182b2.1920x1080.jpg?t=1777449358"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/fd119117896799cb5599294476f46c1e74c0848f/ss_fd119117896799cb5599294476f46c1e74c0848f.1920x1080.jpg?t=1777449358"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/0d6e581af2b9943acfb9107d48a59f5a43a691b7/ss_0d6e581af2b9943acfb9107d48a59f5a43a691b7.1920x1080.jpg?t=1777449358"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/b109572dc1cd3929e32fe498c8f7486e44b23dce/ss_b109572dc1cd3929e32fe498c8f7486e44b23dce.1920x1080.jpg?t=1777449358"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/1754360cc5782aab4eadf9b0a8535e01f8f5ac23/ss_1754360cc5782aab4eadf9b0a8535e01f8f5ac23.1920x1080.jpg?t=1777449358"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Early Access Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257118578/8d6126d482d3fcaf5e739135f50cf4860450e650/movie_600x337.jpg?t=1742964710",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2456740/857836/8ef65cd3b80f0f449bb3cee56514eecd83da2619/1750815254/dash_h264.mpd?t=1742964710"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2456740,
+    "store_url": "https://store.steampowered.com/app/2456740/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Simulation",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Life Sim",
+      "Character Customization",
+      "Simulation",
+      "Realistic",
+      "Singleplayer",
+      "Building",
+      "Family Friendly",
+      "Romance",
+      "Sandbox",
+      "Immersive Sim",
+      "Dating Sim",
+      "Sexual Content",
+      "Modern",
+      "Cats",
+      "City Builder",
+      "Relaxing",
+      "Moddable",
+      "Casual",
+      "Early Access",
+      "Cute"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 24440,
+    "review_negative": 7318,
+    "review_total": 31758,
+    "review_positive_percent": 76.96
+  }
+}

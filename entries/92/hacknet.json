@@ -1,0 +1,203 @@
+{
+  "key": "hacknet",
+  "name": "Hacknet",
+  "description": "Hacknet is an immersive, terminal-based hacking simulator for PC. Dive down a rabbit hoIe as you follow the instructions of a recently deceased hacker, whose death may not have been the accident the media reports.",
+  "developers": [
+    "Team Fractal Alligator"
+  ],
+  "publishers": [
+    "Fellow Traveller"
+  ],
+  "release_date": "2015-08-13",
+  "website": "http://www.hacknet-os.com/",
+  "tags": [
+    "indie",
+    "simulation",
+    "hacking",
+    "programming",
+    "typing",
+    "story-rich",
+    "singleplayer",
+    "great-soundtrack",
+    "choices-matter",
+    "crime",
+    "atmospheric",
+    "detective",
+    "cyberpunk",
+    "logic",
+    "education",
+    "2d",
+    "difficult",
+    "adventure",
+    "sci-fi",
+    "dystopian"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "spanish",
+    "russian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Hacknet.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Hacknet.app",
+          "description": "OSX Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "Hacknet",
+          "description": "Linux Launch",
+          "type": "none"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Hacknet",
+    "Hacknet.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/365450/2445c4ead6ee47784a326922271ec1c0b41d64e2.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365450/1e29fd71c7868652cee45ba70c1575087c5dbe55/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365450/d804e605ff11ded917f7049f29a32a6894100cd7/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365450/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365450/b97f57ab0b04b1795a6ce4fb9f0e4b48b35863d1/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365450/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365450/ss_182ebf5aa570fc0ad0d1d974d43137e858ddeb54.1920x1080.jpg?t=1758156718"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365450/ss_cb37cc7d09a1b4439a7799cc9ceb407a99731069.1920x1080.jpg?t=1758156718"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365450/ss_f8e81ad1a729fc61689fee1c3f12d69853fdd32c.1920x1080.jpg?t=1758156718"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365450/ss_7ce55309743e48c5468dbc8fe402bdec01a20589.1920x1080.jpg?t=1758156718"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365450/ss_5f7d861ef3f817a9c91e2c9a4be10897eca2b4b4.1920x1080.jpg?t=1758156718"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365450/ss_8f137b6ced4ca2e770ceca1e018d1afae378debf.1920x1080.jpg?t=1758156718"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365450/ss_d6f994b6e8007c8c35586fc178f49b25087a6a95.1920x1080.jpg?t=1758156718"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365450/ss_05473845b95bb947a6c4d4acc7a3aa83b7046748.1920x1080.jpg?t=1758156718"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365450/ss_2e1431ffb153024cf3e0080e6c1ce7b856c76aa7.1920x1080.jpg?t=1758156718"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365450/ss_8f137b6ced4ca2e770ceca1e018d1afae378debf.1920x1080.jpg?t=1758156718"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365450/ss_05473845b95bb947a6c4d4acc7a3aa83b7046748.1920x1080.jpg?t=1758156718"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365450/ss_2e1431ffb153024cf3e0080e6c1ce7b856c76aa7.1920x1080.jpg?t=1758156718"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365450/ss_d6f994b6e8007c8c35586fc178f49b25087a6a95.1920x1080.jpg?t=1758156718"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365450/ss_98b53bc0ef70fd90a4410ac5d03a29d14789fcc8.1920x1080.jpg?t=1758156718"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Hacknet Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256654872/movie.293x165.jpg?t=1532385499",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/365450/39496/9a0fbabffd419ca5983102eb6d2621a00af58396/1750516645/dash_h264.mpd?t=1532385499"
+    }
+  ],
+  "metacritic": {
+    "score": 82,
+    "url": "https://www.metacritic.com/game/pc/hacknet?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 365450,
+    "store_url": "https://store.steampowered.com/app/365450/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Workshop",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Playable without Timed Input",
+      "Steam Cloud",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Hacking",
+      "Simulation",
+      "Programming",
+      "Typing",
+      "Story Rich",
+      "Singleplayer",
+      "Great Soundtrack",
+      "Choices Matter",
+      "Crime",
+      "Atmospheric",
+      "Detective",
+      "Cyberpunk",
+      "Logic",
+      "Education",
+      "2D",
+      "Difficult",
+      "Adventure",
+      "Sci-fi",
+      "Dystopian ",
+      "Indie"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 24272,
+    "review_negative": 1674,
+    "review_total": 25946,
+    "review_positive_percent": 93.55
+  }
+}

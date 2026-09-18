@@ -1,0 +1,122 @@
+{
+  "key": "yakuza-6-the-song-of-life",
+  "name": "Yakuza 6: The Song of Life",
+  "description": "Step into Japan's criminal underworld in this explosive action brawler starring legendary yakuza, Kazuma Kiryu, who is hellbent on unraveling the truth around his daughter's tragic accident.",
+  "developers": [
+    "RGG Studio"
+  ],
+  "publishers": [
+    "SEGA"
+  ],
+  "release_date": "2021-03-26",
+  "website": "https://yakuza.sega.com/yakuza6/home.html",
+  "tags": [
+    "action",
+    "adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "japanese": "龍が如く６　命の詩。",
+    "schinese": "人中之龙６　生命诗篇。",
+    "tchinese": "人中之龍６　生命詩篇。"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Yakuza6.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "Yakuza 6: The Song of Life",
+    "Yakuza6",
+    "龍が如く６　命の詩。",
+    "人中之龙６　生命诗篇。",
+    "人中之龍６　生命詩篇。"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1388590/c50ac73856c541e2d6bab955369a12b1c8dceeae.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388590/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388590/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388590/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388590/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388590/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388590/ss_ef1d13688594fc3abb30293a978898e6a00ceab1.1920x1080.jpg?t=1781263976"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388590/ss_8b9c41d15a8210ed5347b2ceafd39a43a955eee2.1920x1080.jpg?t=1781263976"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388590/ss_a85ae0fdc5c38a1cb73b2ff0425e0109bd72e77d.1920x1080.jpg?t=1781263976"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388590/ss_a11e87a5d52f6524e0ec46d2c8938638bfd23599.1920x1080.jpg?t=1781263976"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388590/ss_d889488199992b85573636f25f6d5a9670492339.1920x1080.jpg?t=1781263976"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388590/ss_a7df948ad81f1e698a942df3c84df70722349cf0.1920x1080.jpg?t=1781263976"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388590/ss_d6b56425a0f2c950cc2d5b37569d39891978ea6e.1920x1080.jpg?t=1781263976"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388590/ss_ebb6b35cd3bb2fd7c575194f2711194b0e7fd76a.1920x1080.jpg?t=1781263976"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer 1 ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256825143/movie.293x165.jpg?t=1616688246",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1388590/352851/cbe68bcd4c6f056f75b6a39efbd31965479e5625/1750682998/dash_h264.mpd?t=1616688246"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1388590,
+    "store_url": "https://store.steampowered.com/app/1388590/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 7566,
+    "review_negative": 593,
+    "review_total": 8159,
+    "review_positive_percent": 92.73
+  }
+}

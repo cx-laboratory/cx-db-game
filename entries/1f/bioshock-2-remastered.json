@@ -1,0 +1,175 @@
+{
+  "key": "bioshock-2-remastered",
+  "name": "BioShock 2 Remastered",
+  "description": "In BioShock 2, you step into the boots of the most iconic denizen of Rapture, the Big Daddy, as you explore through the decrepit and beautiful fallen city, chasing an unseen foe in search of answers and your own survival.",
+  "developers": [
+    "2K Marin"
+  ],
+  "publishers": [
+    "2K"
+  ],
+  "release_date": "2016-09-16",
+  "website": "http://www.bioshockgame.com/",
+  "tags": [
+    "action",
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "japanese": "バイオショック 2 リマスター",
+    "schinese": "生化奇兵2 重制版",
+    "tchinese": "生化奇兵2 重製版",
+    "koreana": "바이오쇼크 2 리마스터"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Build\\Final\\Bioshock2HD.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Build\\FinalWithLogging\\Bioshock2HD.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Build\\FinalWithLogging\\Bioshock2HD.exe",
+          "description": "Final With Logging configuration",
+          "type": "default"
+        },
+        {
+          "executable": "Build\\Final\\Bioshock2HD.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Build\\Final\\Bioshock2HD.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "2KLauncher\\LauncherPatcher.exe",
+          "description": "Launch With 2KLauncher",
+          "type": "default"
+        },
+        {
+          "executable": "2KLauncher\\LauncherPatcher.exe",
+          "description": "Launch With 2KLauncher",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "BioshockHD/BioShock2/SaveGames",
+          "pattern": "*.bsb",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "BioShock 2 Remastered.app",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "BioshockHD/BioShock2/SaveGames",
+          "pattern": "*.bsb",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "BioShock 2 Remastered",
+    "Build\\Final\\Bioshock2HD",
+    "Build\\FinalWithLogging\\Bioshock2HD",
+    "2KLauncher\\LauncherPatcher",
+    "BioShock 2 Remastered.app",
+    "バイオショック 2 リマスター",
+    "生化奇兵2 重制版",
+    "生化奇兵2 重製版",
+    "바이오쇼크 2 리마스터"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/409720/97527a02b36f8ac4aba21005c2d953cc908a08e1.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409720/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409720/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409720/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409720/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409720/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409720/ss_133a154f26c5eaee7dd7bd8dbfab9c9d21795db3.1920x1080.jpg?t=1740443705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409720/ss_90a5fa1f5755d1dfb54b68c58ca415bbb9aff52e.1920x1080.jpg?t=1740443705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409720/ss_56165cef2c36be96d1ea97fd7c12a9840a8f9229.1920x1080.jpg?t=1740443705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409720/ss_14e14d74f4475ec437b33c075f1502821d070edc.1920x1080.jpg?t=1740443705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409720/ss_ebe3e8df863f6f97d40daa84dfad0973c8e78ad8.1920x1080.jpg?t=1740443705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409720/ss_3f935c58be95b6b2a932d7b4558c09a4dc9e503c.1920x1080.jpg?t=1740443705"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409720/ss_7b386dadfa1c8d32550c6e843c32109d7f41d7d5.1920x1080.jpg?t=1740443705"
+    }
+  ],
+  "videos": [],
+  "metacritic": null,
+  "steam": {
+    "appid": 409720,
+    "store_url": "https://store.steampowered.com/app/409720/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 21343,
+    "review_negative": 8352,
+    "review_total": 29695,
+    "review_positive_percent": 71.87
+  }
+}

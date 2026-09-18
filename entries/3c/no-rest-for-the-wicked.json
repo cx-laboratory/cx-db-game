@@ -1,0 +1,238 @@
+{
+  "key": "no-rest-for-the-wicked",
+  "name": "No Rest for the Wicked",
+  "description": "From Moon Studios, the award-winning creators of Ori and the Blind Forest and Ori and the Will of the Wisps, comes No Rest for the Wicked, a unique, visceral Action RPG set in a hand-crafted world with Souls-like combat. Featuring co-op for up to four players.",
+  "developers": [
+    "Moon Studios GmbH"
+  ],
+  "publishers": [
+    "Moon Studios GmbH"
+  ],
+  "release_date": "2024-04-19",
+  "website": "http://norestforthewicked.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "rpg",
+    "early-access",
+    "multiplayer",
+    "co-op",
+    "online-co-op"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Korean",
+    "Polish",
+    "Portuguese - Brazil",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Russian*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "《恶意不息》",
+    "tchinese": "《永無寧日》",
+    "japanese": "ノー レスト フォー ザ ウィケッド",
+    "koreana": "노 레스트 포 더 위키드"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "NoRestForTheWicked.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Moon Studios/NoRestForTheWicked/DataStore",
+          "pattern": "*.dat",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Moon Studios/NoRestForTheWicked/DataStore",
+          "pattern": "*.cerimal",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "SavesDirMoon Studios/NoRestForTheWicked/DataStorePTR",
+          "pattern": "*.cerimal",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "No Rest for the Wicked",
+    "NoRestForTheWicked",
+    "《恶意不息》",
+    "《永無寧日》",
+    "ノー レスト フォー ザ ウィケッド",
+    "노 레스트 포 더 위키드"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1371980/8b383999493fa60adbbda2a5a5714805d9d7c913.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/331de7e745f43867f0a220339153ac6019822ea4/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/9d2efe7754b0843dddbf7c495fe55ccc69e99b6c/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/724aaa4dc89ecf5902276d3ae24f4f11d600f9f0/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/f926b12112b2ce4206a9de291d3ade7377188f73/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/ae03fa5bf2124ddcd896f5b8b42a30a903159c22/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/079327abaf4866604f9f77200ded37da18d7089e/ss_079327abaf4866604f9f77200ded37da18d7089e.1920x1080.jpg?t=1780442295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/56066f44f29e8b042c482e0b0680bc101bf1ecd5/ss_56066f44f29e8b042c482e0b0680bc101bf1ecd5.1920x1080.jpg?t=1780442295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/1163c9191d2261d845aa96cbc011ed6490182ae8/ss_1163c9191d2261d845aa96cbc011ed6490182ae8.1920x1080.jpg?t=1780442295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/ss_01a87d9ec6cef10244eb5dd8d3f55047060da954.1920x1080.jpg?t=1780442295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/5b7da66aa69e175a215b52a4461c1d3748ec571e/ss_5b7da66aa69e175a215b52a4461c1d3748ec571e.1920x1080.jpg?t=1780442295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/5ced8490a4743651afb3fe68e480ab5422e56e74/ss_5ced8490a4743651afb3fe68e480ab5422e56e74.1920x1080.jpg?t=1780442295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/2b72a451d97d92ad5db27bcffae8b9ab99653099/ss_2b72a451d97d92ad5db27bcffae8b9ab99653099.1920x1080.jpg?t=1780442295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/ss_bfeabbf586f43725d270b0fec654864576726edf.1920x1080.jpg?t=1780442295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/ss_75b0b19d4b2daeba7734bd543d167978da8c4797.1920x1080.jpg?t=1780442295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/ss_ba6d507f9ffba16c5fff2f89d2c6b9312ffdfdf6.1920x1080.jpg?t=1780442295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/ss_7e83a3fed72fd34d36744eadfdc4190d235f13bb.1920x1080.jpg?t=1780442295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/ss_0535494faeaa235eb4def6bb83408e61a335c222.1920x1080.jpg?t=1780442295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/ss_8533050c266fea833bed9d0567b7185abd87fc33.1920x1080.jpg?t=1780442295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/ss_5a3b7e5a6288017c452361525476a2534f30b431.1920x1080.jpg?t=1780442295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/ss_faf1d0f0dada08330faabf46dfeb48ebd2a1821c.1920x1080.jpg?t=1780442295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/ss_280eb7b4c8793f49bb702498fc0cde893f029694.1920x1080.jpg?t=1780442295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/ss_4302f82abde85b0d9ee44b6edabc96fc6e401471.1920x1080.jpg?t=1780442295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/ss_8a09af4ea4a31d834ae843aa76ffd95d01d12957.1920x1080.jpg?t=1780442295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/ss_39be9821e7bf337341f4049f0918188e8d42781c.1920x1080.jpg?t=1780442295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/ss_64f0cd4f9c807159d58aebc9975e3994aee05edd.1920x1080.jpg?t=1780442295"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371980/ss_169c9432da1079d70ee5cdbdd1b2c72839969c42.1920x1080.jpg?t=1780442295"
+    }
+  ],
+  "videos": [
+    {
+      "name": "1.0 Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257348939/96c1bf101822ace6b3d18d77497e915d7dbccf4a/movie_600x337.jpg?t=1780442293",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1371980/944988818/8efd3fe51fc1f5687f3d963ab887b1837ca76bff/1780441920/dash_h264.mpd?t=1780442293"
+    },
+    {
+      "name": "Co-op | No Rest for the Wicked Together | Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257264916/94794d1e331edd7bda7315830a12f6bafd95dae7/movie_600x337.jpg?t=1769102963",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1371980/545459110/d8dd038670395f6cd5ee2f6a5901af488374bcff/1768418347/dash_h264.mpd?t=1769102963"
+    },
+    {
+      "name": "Wicked Inside Showcase - Together / Co-op",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257252723/ed71b44516b6f2825a07e15acfa35a36b196e6e2/movie_600x337.jpg?t=1766151276",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1371980/891335451/4d95905e18fc9b6c4c9fb676a1c25cf0adf6655e/1766142724/dash_h264.mpd?t=1766151276"
+    },
+    {
+      "name": "The Breach | Official trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257129364/7d8f55424f6649d3de0bfcebcc772adb048bb9f5/movie_600x337.jpg?t=1745341590",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1371980/875569/efb806130c19b936873b6842655e3a6537c69fe5/1750679796/dash_h264.mpd?t=1745341590"
+    },
+    {
+      "name": "Wicked Inside 2 - The Breach",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257113029/b268f97f521684e376f13510cf0e602a7fc175d7/movie_600x337.jpg?t=1742222472",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1371980/849131/d1ae737009a3f64f58a1879a6ccdc8261a004501/1750837071/dash_h264.mpd?t=1742222472"
+    },
+    {
+      "name": "NRFTW Launch ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257016039/movie.293x165.jpg?t=1713186188",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1371980/687597/e5f9716f642895dbc5699967cbaf12b1357aca6c/1750679782/dash_h264.mpd?t=1713186188"
+    },
+    {
+      "name": "NRFTW ESRB",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256985512/movie.293x165.jpg?t=1701999471",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1371980/634918/426126018e86263302104faecdac427b16301ef6/1750679777/dash_h264.mpd?t=1701999471"
+    },
+    {
+      "name": "The Breach Refined | Wicked Inside",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257163837/9cdc4a1ade8cbe63303f4d5cb9eb821512fbda09/movie_600x337.jpg?t=1751374454",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1371980/1906239113/e81f69c7c30e9d095c548c37ca1fa7a912f109f4/1751367677/dash_h264.mpd?t=1751374454"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1371980,
+    "store_url": "https://store.steampowered.com/app/1371980/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Gamepad Recommended",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 63403,
+    "review_negative": 15573,
+    "review_total": 78976,
+    "review_positive_percent": 80.28
+  }
+}

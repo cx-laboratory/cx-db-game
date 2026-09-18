@@ -1,0 +1,243 @@
+{
+  "key": "zombie-panic-source",
+  "name": "Zombie Panic! Source",
+  "description": "Dive into the zombie apocalypse with Zombie Panic! Source: a cooperative, survival-horror first-person-shooter. A fast-paced standalone modification.",
+  "developers": [
+    "Zombie Panic! Team"
+  ],
+  "publishers": [
+    "Zombie Panic! Team"
+  ],
+  "release_date": "2008-10-03",
+  "website": "https://zombiepanicsource.com",
+  "tags": [
+    "action",
+    "adventure",
+    "casual",
+    "indie",
+    "free-to-play",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "zombies",
+    "horror",
+    "survival",
+    "fps",
+    "mod",
+    "first-person",
+    "shooter",
+    "team-based",
+    "gore",
+    "post-apocalyptic"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "russian",
+    "portuguese",
+    "danish",
+    "dutch",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "zps.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "zps/cfg",
+          "pattern": "config.cfg",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "zps.sh",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "zps/cfg",
+          "pattern": "config.cfg",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Zombie Panic! Source",
+    "zps",
+    "zps.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/17500/e74eb496df79432ed99a45644ed54d1572f3e385.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17500/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17500/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17500/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17500/084b3141426ba7df933155728e6249c54663ec5c/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17500/3707ce971d9b6923fdddb5897b87dd7418df746d/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17500/ss_562f31ea194fc5fc458f93b18b5f0263141bc66e.1920x1080.jpg?t=1773108957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17500/ss_811388091608125c160cbbfb51d75ad3d74d98a1.1920x1080.jpg?t=1773108957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17500/ss_8ca5d9ef422f6217cf5ecae6a0531cb4b5cb198b.1920x1080.jpg?t=1773108957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17500/ss_13ca455f4f4216d18f280848fbf4c161dd9a9e01.1920x1080.jpg?t=1773108957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17500/ss_0665bf570759e96cf0b8dbec0af0a65aefaed78f.1920x1080.jpg?t=1773108957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17500/ss_73e2c7e7fc64e15857cd679cae02a3f16bca850b.1920x1080.jpg?t=1773108957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17500/ss_3d63c32f944b84c666c14524de6fb363179598d6.1920x1080.jpg?t=1773108957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17500/ss_ea6f98d6bf09a778e335399a3ea06c5cfa1c02f6.1920x1080.jpg?t=1773108957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17500/ss_4ca36849dfb2d503a07efb0b255c91f9dffd8e74.1920x1080.jpg?t=1773108957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17500/ss_f893586d9e5018a375a5220e2db50c070c834ee0.1920x1080.jpg?t=1773108957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17500/ss_c2655429992150269e727385873fc91f14c0d0cb.1920x1080.jpg?t=1773108957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17500/ss_494acfd9c3790d751575967c1dd69085590eda85.1920x1080.jpg?t=1773108957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17500/ss_60ccdf996402adffa99268c2300233b811df4bae.1920x1080.jpg?t=1773108957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17500/ss_be5856f20bf6f8a28a59fb0ee1a2c3662c624e78.1920x1080.jpg?t=1773108957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17500/ss_da65edf68b879c3d4b96d88e6ae2ab6ebc33e52f.1920x1080.jpg?t=1773108957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17500/ss_7169ea727d8bd475860b77712a8f319d446dc37e.1920x1080.jpg?t=1773108957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17500/ss_eb7f6d40c687d5163fbdd6e4721be57cb2a37438.1920x1080.jpg?t=1773108957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17500/ss_862ab6dfd4d56cdc6973e4f3a2795e2201cf20da.1920x1080.jpg?t=1773108957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17500/ss_fd80f214836cff56fb2ad4b545a07d03f26f1fd9.1920x1080.jpg?t=1773108957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17500/ss_770a8d398395a076e3949b3ccbe44af0280f3eda.1920x1080.jpg?t=1773108957"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Zombie Panic! Source Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256666956/movie.293x165.jpg?t=1683072385",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/17500/64943/36bbd058d20064edb073a96a043fe97185d80b3a/1751245960/dash_h264.mpd?t=1683072385"
+    },
+    {
+      "name": "Zombie Panic! Source Survival Guide",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256667748/movie.293x165.jpg?t=1683072392",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/17500/66367/ff7f54dd9a407accb20385d7db66199b981c2132/1751526432/dash_h264.mpd?t=1683072392"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 17500,
+    "store_url": "https://store.steampowered.com/app/17500/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Free To Play"
+    ],
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Mods",
+      "Mods (require HL2)",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Camera Comfort",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Surround Sound",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled",
+      "Includes level editor",
+      "Includes Source SDK",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Free to Play",
+      "Zombies",
+      "Multiplayer",
+      "Action",
+      "Horror",
+      "Survival",
+      "FPS",
+      "Mod",
+      "Co-op",
+      "Indie",
+      "Online Co-Op",
+      "First-Person",
+      "Shooter",
+      "Survival Horror",
+      "Team-Based",
+      "Gore",
+      "Casual",
+      "Adventure",
+      "Post-apocalyptic",
+      "PvP"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 6661,
+    "review_negative": 1194,
+    "review_total": 7855,
+    "review_positive_percent": 84.8
+  }
+}

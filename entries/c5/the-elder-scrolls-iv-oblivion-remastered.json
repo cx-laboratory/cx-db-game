@@ -1,0 +1,130 @@
+{
+  "key": "the-elder-scrolls-iv-oblivion-remastered",
+  "name": "The Elder Scrolls IV: Oblivion Remastered",
+  "description": "Explore Cyrodiil like never before with stunning new visuals and refined gameplay in The Elder Scrolls IV: Oblivion™ Remastered.",
+  "developers": [
+    "Bethesda Game Studios"
+  ],
+  "publishers": [
+    "Bethesda Softworks"
+  ],
+  "release_date": "2025-04-22",
+  "website": "http://www.elderscrolls.com",
+  "tags": [
+    "rpg"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "schinese",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Altar\\Binaries\\Win64\\Altar-Win64-Shipping.exe",
+          "description": "Beige Binary",
+          "type": "option1"
+        },
+        {
+          "executable": "Altar\\Binaries\\Win64\\Altar.exe",
+          "description": "Loose Binary",
+          "type": "option2"
+        },
+        {
+          "executable": "OblivionRemastered.exe",
+          "description": "Retail",
+          "type": "default"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "The Elder Scrolls IV: Oblivion Remastered",
+    "Altar\\Binaries\\Win64\\Altar-Win64-Shipping",
+    "Altar\\Binaries\\Win64\\Altar",
+    "OblivionRemastered"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2623190/bad7d3e3c722ffc68af54cbe545dcc5978d87638.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/a7cee9165bb1bfc092c390c5cff215ce0e381dfc/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/4efc3257aabd776d4624da40146fb021d1ef5b38/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/b52322f78cbdc7e6c267d873056abba7916f7ff3/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/86e12b26cd1eeadc774886061a67ca8c7db836e4/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/1507cb98b36badb1735fbdf19df0c1eb15acd1ed/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/3cfe517f1464aa4d77df744c1e3d96e506da378d/ss_3cfe517f1464aa4d77df744c1e3d96e506da378d.1920x1080.jpg?t=1761681073"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/27619a5ffb8d3b41d807a0387dc0a3d3616d4b48/ss_27619a5ffb8d3b41d807a0387dc0a3d3616d4b48.1920x1080.jpg?t=1761681073"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/5d342842ed33010aac7dfa9e04b350a3a8911ef3/ss_5d342842ed33010aac7dfa9e04b350a3a8911ef3.1920x1080.jpg?t=1761681073"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/c715d8ef2d024bd4ec0d75a7721f71ddeab9a00e/ss_c715d8ef2d024bd4ec0d75a7721f71ddeab9a00e.1920x1080.jpg?t=1761681073"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/5b7d3079d983cd40a8f0b676b164e6c0fbf3edd2/ss_5b7d3079d983cd40a8f0b676b164e6c0fbf3edd2.1920x1080.jpg?t=1761681073"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/84171997a07f3429636b518ae4246a7ab5e07d6e/ss_84171997a07f3429636b518ae4246a7ab5e07d6e.1920x1080.jpg?t=1761681073"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257127524/ce882792e273145c5491a75d19c9c4ea817dad99/movie_600x337.jpg?t=1745342198",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2623190/872641/f7d60c0dfadccc089788d3370c224f90cd7fa80f/1750817509/dash_h264.mpd?t=1745342198"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2623190,
+    "store_url": "https://store.steampowered.com/app/2623190/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Custom Volume Controls",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Stereo Sound",
+      "Surround Sound",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 52388,
+    "review_negative": 16551,
+    "review_total": 68939,
+    "review_positive_percent": 75.99
+  }
+}

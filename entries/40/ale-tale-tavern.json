@@ -1,0 +1,234 @@
+{
+  "key": "ale-tale-tavern",
+  "name": "Ale & Tale Tavern",
+  "description": "Get ready for a thrilling mix of genres: a cooperative, first-person, open-world fantasy tavern simulator, action, fishing, hunting, exploration, and completing fun and diverse quests. And, of course, COOKING! Play with friends, feed and quench the thirst of the entire world!",
+  "developers": [
+    "Scienart Games"
+  ],
+  "publishers": [
+    "GrabTheGames"
+  ],
+  "release_date": "2024-09-05",
+  "website": "",
+  "tags": [
+    "action",
+    "adventure",
+    "casual",
+    "indie",
+    "simulation",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "cooking",
+    "management",
+    "fantasy",
+    "first-person",
+    "building",
+    "economy",
+    "sandbox",
+    "3d",
+    "exploration",
+    "family-friendly",
+    "party-game",
+    "action-adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "Russian",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Hungarian",
+    "Traditional Chinese",
+    "Simplified Chinese",
+    "Korean",
+    "Polish",
+    "Portuguese - Portugal",
+    "Romanian",
+    "Thai",
+    "Turkish",
+    "Ukrainian",
+    "Czech",
+    "Japanese",
+    "Vietnamese",
+    "Portuguese - Brazil",
+    "Spanish - Latin America*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "传说酒馆",
+    "tchinese": "傳說酒館"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Ale and Tale Tavern.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Ale and Tale Tavern.exe",
+          "description": "Offline",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "Ale and Tale Tavern_Data/saves",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "gameinstall",
+          "path": "Ale and Tale Tavern_Data/saves",
+          "pattern": "*.bk",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Ale & Tale Tavern",
+    "Ale and Tale Tavern",
+    "传说酒馆",
+    "傳說酒館"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2683150/6e1038bd3486fc5a82752c9e4580b8bda8f98945.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/2c88381f5697bb0d925a44c0db17f7778bac6a88/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/1ae28c376e828bfbce1a5f7ba44cbe5664c11b45/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/694ff14140dda9b7fb8621675fcd80ef205eba7f/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/d03d5424821ba179c1fab24f535323c80011b1be/ss_d03d5424821ba179c1fab24f535323c80011b1be.1920x1080.jpg?t=1782405919"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/a0552a568e8e85e20ace3a012ac89ea2745f43a6/ss_a0552a568e8e85e20ace3a012ac89ea2745f43a6.1920x1080.jpg?t=1782405919"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/9d1266bc30e41024049adec71b4d88a878742b42/ss_9d1266bc30e41024049adec71b4d88a878742b42.1920x1080.jpg?t=1782405919"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/d9fd5c09c56e9c8e72cb173bcc8b286a0d2ffb31/ss_d9fd5c09c56e9c8e72cb173bcc8b286a0d2ffb31.1920x1080.jpg?t=1782405919"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/ss_359f5019c12103b18cf2bb87226440b093ee3ebe.1920x1080.jpg?t=1782405919"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/e12bf896d0295f321b97e4c0eb9732513b9da727/ss_e12bf896d0295f321b97e4c0eb9732513b9da727.1920x1080.jpg?t=1782405919"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/ss_641bf293a0e96661074fefb67515b7bf58f542b6.1920x1080.jpg?t=1782405919"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/daa11242d04bec0bcdc9a10a73f8d6ff4cc6b3cd/ss_daa11242d04bec0bcdc9a10a73f8d6ff4cc6b3cd.1920x1080.jpg?t=1782405919"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/c9b1aa5822e8eef949cfa32227d5d715a9465b8f/ss_c9b1aa5822e8eef949cfa32227d5d715a9465b8f.1920x1080.jpg?t=1782405919"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/ce723f88f275ccedf6438f009aff8855dc9fc6e7/ss_ce723f88f275ccedf6438f009aff8855dc9fc6e7.1920x1080.jpg?t=1782405919"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/bb64f193fe49144304b174da814e2ba6db6a33e8/ss_bb64f193fe49144304b174da814e2ba6db6a33e8.1920x1080.jpg?t=1782405919"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/91904b4c1ae23dd36ddcfc9fe7e8c9db6819c033/ss_91904b4c1ae23dd36ddcfc9fe7e8c9db6819c033.1920x1080.jpg?t=1782405919"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683150/b89e87f7d94aad2931a5285ffda3c094da665c89/ss_b89e87f7d94aad2931a5285ffda3c094da665c89.1920x1080.jpg?t=1782405919"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Final trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257046283/movie.293x165.jpg?t=1723654642",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2683150/740498/a77959e63337c0d7d2d10e15824b2226d959c386/1750818632/dash_h264.mpd?t=1723654642"
+    },
+    {
+      "name": "Dungeon Feast update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257348289/07cbba6a5ffca97d9bbf9a68dae00e96e07c741a/movie_600x337.jpg?t=1780388451",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2683150/1797684988/efc7786a65fb8d1145ab0cc21e94b186700dcab9/1780387698/dash_h264.mpd?t=1780388451"
+    },
+    {
+      "name": "Inn update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257112600/d297fe62e32b0049d55e2b7d1147189b1ef58024/movie_600x337.jpg?t=1749674585",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2683150/527131724/f5c0fcbeecf4e8640e6b7f0ba8dab1240ce26260/1750818632/dash_h264.mpd?t=1749674585"
+    },
+    {
+      "name": "Teaser trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256980002/movie.293x165.jpg?t=1714733614",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2683150/625725/434d1f3d9f531e1886eb13797fcb0498af1f33e0/1750818625/dash_h264.mpd?t=1714733614"
+    },
+    {
+      "name": "Gameplay trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257004004/movie.293x165.jpg?t=1709035189",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2683150/667652/e12b19978d093f38c5217c484876af09757bce28/1750818632/dash_h264.mpd?t=1709035189"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2683150,
+    "store_url": "https://store.steampowered.com/app/2683150/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Online Co-Op",
+      "Simulation",
+      "Adventure",
+      "Cooking",
+      "Management",
+      "Fantasy",
+      "Co-op",
+      "First-Person",
+      "Action",
+      "Building",
+      "Economy",
+      "Sandbox",
+      "3D",
+      "Casual",
+      "Indie",
+      "Exploration",
+      "Family Friendly",
+      "Party Game",
+      "Multiplayer",
+      "Action-Adventure"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 9006,
+    "review_negative": 1081,
+    "review_total": 10087,
+    "review_positive_percent": 89.28
+  }
+}

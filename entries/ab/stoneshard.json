@@ -1,0 +1,257 @@
+{
+  "key": "stoneshard",
+  "name": "Stoneshard",
+  "description": "Stoneshard is a hardcore turn-based RPG about the harsh life of a medieval mercenary: travel with your own caravan, descend into procedurally generated dungeons, learn new skills, survive hunger and injuries - and remember, every mistake can mean death and loss of progress.",
+  "developers": [
+    "Ink Stains Games"
+  ],
+  "publishers": [
+    "HypeTrain Digital"
+  ],
+  "release_date": "2020-02-07",
+  "website": "http://stoneshard.com/",
+  "tags": [
+    "adventure",
+    "indie",
+    "rpg",
+    "strategy",
+    "early-access",
+    "roguelike",
+    "pixel-graphics",
+    "survival",
+    "open-world-survival-craft",
+    "turn-based",
+    "procedural-generation",
+    "2d",
+    "singleplayer",
+    "dungeon-crawler",
+    "turn-based-combat",
+    "dark-fantasy",
+    "medieval",
+    "difficult",
+    "sandbox",
+    "replay-value",
+    "open-world"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "turkish",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "紫色晶石",
+    "tchinese": "紫色晶石"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "StoneShard.exe",
+          "description": "",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "StoneShard/characters_v1",
+          "pattern": "*.map",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "StoneShard/characters_v1",
+          "pattern": "*.sav",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "StoneShard/characters_v1",
+          "pattern": "*.png",
+          "recursive": true
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "StoneShard",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocal",
+          "path": "StoneShard/characters_v1",
+          "pattern": "*.map",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "StoneShard/characters_v1",
+          "pattern": "*.sav",
+          "recursive": true
+        },
+        {
+          "root": "WinAppDataLocal",
+          "path": "StoneShard/characters_v1",
+          "pattern": "*.png",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Stoneshard",
+    "StoneShard",
+    "紫色晶石"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/625960/552aefd08671b2d55291d70f1ad91e63834456fb.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/1603548a766b4cd4f94239cf3d4bd7d3616f2d2a/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/ss_9caa6d135cd5dd6ac0414bcf972a987769d2a8c9.1920x1080.jpg?t=1780385918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/f6b292392054a3284c2fa4a72b26b715ef934073/ss_f6b292392054a3284c2fa4a72b26b715ef934073.1920x1080.jpg?t=1780385918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/ss_1e19e70e4575c58f4dc78b625b0a8ce2eec4ef37.1920x1080.jpg?t=1780385918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/ss_c6c710708ebea41f91abc69875e9d533203951e5.1920x1080.jpg?t=1780385918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/db4bc6e3a2f6dcd92e7f0c07981797a875c8840a/ss_db4bc6e3a2f6dcd92e7f0c07981797a875c8840a.1920x1080.jpg?t=1780385918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/ss_1944c338f0764bd3b9ce05577310ce57b8e74f45.1920x1080.jpg?t=1780385918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/30474ff167de5da4e0082e382b9d03bd8b8f5fcb/ss_30474ff167de5da4e0082e382b9d03bd8b8f5fcb.1920x1080.jpg?t=1780385918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/ss_6a9bf21988762a737d394eee3f82daef00537663.1920x1080.jpg?t=1780385918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/ss_3a0996c145da6c22af5b9b63a7f72b6fe7c84325.1920x1080.jpg?t=1780385918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/ss_df7697c8504aa737ed8e0cb29625661039f94551.1920x1080.jpg?t=1780385918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/ss_a3ebe0f71751c989f8b511df16b57f03eb40fece.1920x1080.jpg?t=1780385918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/ss_8c8b3fc573da500000ca3eefdf4c7c41df68ea53.1920x1080.jpg?t=1780385918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/ss_c708d2a968fcc5864b6cf0dda7cac9e601426d81.1920x1080.jpg?t=1780385918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/ss_ba7483b99f592d75fd9070fac113dca3b8d3474e.1920x1080.jpg?t=1780385918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/ss_7c7287ecee812c5a6bee74613c81295243fb0885.1920x1080.jpg?t=1780385918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/ss_dc4efc400c6b0d6ce3b4235e2b51ccc1c590574e.1920x1080.jpg?t=1780385918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/ss_7bdd9e8bd480a3355825665b018fc5ee3437899b.1920x1080.jpg?t=1780385918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/ss_62474cab7e7dd30f944562d32afbb78afbbcf8ae.1920x1080.jpg?t=1780385918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/ss_aed6fe61888d87387cc32e2275ff5aff07ce7b99.1920x1080.jpg?t=1780385918"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625960/ss_d7dd1faff7c6cc34c43b998fa10f67f2147605eb.1920x1080.jpg?t=1780385918"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Stoneshard Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257093781/1b5f09f8c38375ea2efd9374f2570d0f613f1cb2/movie_600x337.jpg?t=1738343436",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/625960/821258/1593aaa81242df3c0ce32b6442ed2f31a899c605/1750563776/dash_h264.mpd?t=1738343436"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 625960,
+    "store_url": "https://store.steampowered.com/app/625960/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy",
+      "Early Access"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Captions available",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "RPG",
+      "Roguelike",
+      "Pixel Graphics",
+      "Strategy",
+      "Survival",
+      "Open World Survival Craft",
+      "Turn-Based",
+      "Procedural Generation",
+      "2D",
+      "Singleplayer",
+      "Dungeon Crawler",
+      "Turn-Based Combat",
+      "Dark Fantasy",
+      "Medieval",
+      "Difficult",
+      "Indie",
+      "Sandbox",
+      "Replay Value",
+      "Open World",
+      "Early Access"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 25978,
+    "review_negative": 8848,
+    "review_total": 34826,
+    "review_positive_percent": 74.59
+  }
+}

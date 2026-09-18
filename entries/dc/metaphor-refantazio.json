@@ -1,0 +1,293 @@
+{
+  "key": "metaphor-refantazio",
+  "name": "Metaphor: ReFantazio",
+  "description": "After his assassination, the will of the late king decrees the next monarch to be elected by the people. Forge bonds and win over a kingdom divided in this award-winning fantasy RPG with turn-based and action combat, party customization with powerful Archetypes, and hours of exploration.",
+  "developers": [
+    "ATLUS"
+  ],
+  "publishers": [
+    "SEGA"
+  ],
+  "release_date": "2024-10-11",
+  "website": "https://metaphor.atlus.com/",
+  "tags": [
+    "action",
+    "adventure",
+    "rpg",
+    "jrpg",
+    "anime",
+    "turn-based-combat",
+    "story-rich",
+    "singleplayer",
+    "time-management",
+    "turn-based-strategy",
+    "dark-fantasy",
+    "party-based-rpg",
+    "fantasy",
+    "action-rpg",
+    "third-person",
+    "colorful",
+    "strategy-rpg",
+    "strategy",
+    "choose-your-own-adventure",
+    "turn-based-tactics",
+    "3d"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "japanese": "メタファー：リファンタジオ",
+    "koreana": "메타포: 리판타지오",
+    "tchinese": "暗喻幻想：ReFantazio",
+    "schinese": "暗喻幻想：ReFantazio"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "METAPHOR.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Artbook/book/metaphor_book.exe",
+          "description": "Metaphor: ReFantazio - Digital Artbook",
+          "type": "default"
+        },
+        {
+          "executable": "Artbook/sound/metaphor_sound.exe",
+          "description": "Metaphor: ReFantazio - Digital Soundtrack",
+          "type": "default"
+        },
+        {
+          "executable": "Artbook/book35th/metaphor_book35th.exe",
+          "description": "Metaphor: ReFantazio - Atlus 35th Digital History Book",
+          "type": "default"
+        },
+        {
+          "executable": "Artbook/sound35th/metaphor_sound35th.exe",
+          "description": "Metaphor: ReFantazio - Atlus 35th Digital All-Time Best Soundtrack",
+          "type": "default"
+        },
+        {
+          "executable": "Artbook/guide/metaphor_guide.exe",
+          "description": "Metaphor: ReFantazio - Essential Digital Strategy Guide",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataRoaming",
+          "path": "SEGA/METAPHOR/Steam/{64BitSteamID}",
+          "pattern": "save****.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "SEGA/METAPHOR/Steam/{64BitSteamID}",
+          "pattern": "system.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinAppDataRoaming",
+          "path": "SEGA/METAPHOR/Steam/{64BitSteamID}",
+          "pattern": "system_demo.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Metaphor: ReFantazio",
+    "METAPHOR",
+    "Artbook/book/metaphor_book",
+    "Artbook/sound/metaphor_sound",
+    "Artbook/book35th/metaphor_book35th",
+    "Artbook/sound35th/metaphor_sound35th",
+    "Artbook/guide/metaphor_guide",
+    "メタファー：リファンタジオ",
+    "메타포: 리판타지오",
+    "暗喻幻想：ReFantazio"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2679460/76497828e18653273818f428323bd2a5684e689d.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/ss_9809b4bfb257dc3e4f39f3f54fad1768234c03ad.1920x1080.jpg?t=1764776325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/ss_ec0825cd3ecfa6c74e3041c5842bcb3453e7cb45.1920x1080.jpg?t=1764776325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/ss_292f6c637e0c0e81b225aa055c4a348f821cbd48.1920x1080.jpg?t=1764776325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/ss_de16693b88cfb65a20157ddd41925b3ce80e96f1.1920x1080.jpg?t=1764776325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/ss_dea9ff5f1572b5d4efb4d33b4d1d3decb1e8ce48.1920x1080.jpg?t=1764776325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/ss_dd1158073d02bf6afcbbac46dc8378bdf80f5fa4.1920x1080.jpg?t=1764776325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/ss_edd0ac6a3973c14a6ea5f05c2db0756fdeb7adfd.1920x1080.jpg?t=1764776325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/ss_bfa3b19d302ec11f4d6c50af7797ef91e4f3dc32.1920x1080.jpg?t=1764776325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/ss_64dd7245f188f90eb7f40028be1c91fece2acdac.1920x1080.jpg?t=1764776325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/ss_8635de07eb9101375ebfdf3d2a540c82bb3f8e98.1920x1080.jpg?t=1764776325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/ss_14b0282fc50b7181f0567523234989f96f246717.1920x1080.jpg?t=1764776325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/ss_508f318eca41537a561d0c999b881b3e03dbd965.1920x1080.jpg?t=1764776325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/ss_d7b6ce25211a2900b4158afbecc7ff3b5184f377.1920x1080.jpg?t=1764776325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/ss_6956a6d6ff1745101aa0cd4a8445ff2d19853bfa.1920x1080.jpg?t=1764776325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/ss_a699bceead9874800283b97ad11a43adc06c07f3.1920x1080.jpg?t=1764776325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/ss_d0106273af8a5acd59f71831a10797067032df1f.1920x1080.jpg?t=1764776325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/ss_667af3287102fe2785ca1e827bdfc670b4044a59.1920x1080.jpg?t=1764776325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/ss_527790d51f418e98fb04819221a348103c85a69b.1920x1080.jpg?t=1764776325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/ss_62807dd926c98c9f4a2f5a4cc11cb59a391d2c14.1920x1080.jpg?t=1764776325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/ss_58ae2c81cdfa30f7db92a97399defad437b5eb26.1920x1080.jpg?t=1764776325"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/ss_2906368aef3534eece3a0515ed5fcdfe6f22dbb9.1920x1080.jpg?t=1764776325"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257074572/17bf5c7891f32d05e09aea68fb312de1b5b3fe34/movie_600x337.jpg?t=1735810889",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2679460/787521/3da79b23beb00e761ad08aa9be6887a7078dd064/1750818567/dash_h264.mpd?t=1735810889"
+    },
+    {
+      "name": "Demo Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257064847/6540177f0d879ee2c2d3e7bf8cfb48638a62cd0e/movie_600x337.jpg?t=1728896378",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2679460/771472/e2a6f6d01ae6715b9f2178300071eee134a12a1a/1750818567/dash_h264.mpd?t=1728896378"
+    },
+    {
+      "name": "Gamescom Trailer (EN)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257049907/movie.293x165.jpg?t=1724753024",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2679460/746745/48dd9b3e814544b556acba147f724ed7935dd34a/1750818557/dash_h264.mpd?t=1724753024"
+    },
+    {
+      "name": "Awaken Trailer (EN)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257038481/movie.293x165.jpg?t=1721220956",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2679460/727154/be01bb8b47d5e7870c5f401cbec593e5eda8f9a4/1750818556/dash_h264.mpd?t=1721220956"
+    },
+    {
+      "name": "Trailer 01 (EN)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257004756/movie.293x165.jpg?t=1709310265",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2679460/669064/bfce22fc855da75f7758697b82431a6d40ce4557/1750818550/dash_h264.mpd?t=1709310265"
+    }
+  ],
+  "metacritic": {
+    "score": 92,
+    "url": "https://www.metacritic.com/game/pc/metaphor-refantazio?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 2679460,
+    "store_url": "https://store.steampowered.com/app/2679460/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Camera Comfort",
+      "Adjustable Difficulty",
+      "Keyboard Only Option",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Input API Support",
+      "Stereo Sound",
+      "Surround Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [
+      "RPG",
+      "JRPG",
+      "Anime",
+      "Turn-Based Combat",
+      "Story Rich",
+      "Adventure",
+      "Singleplayer",
+      "Time Management",
+      "Turn-Based Strategy",
+      "Dark Fantasy",
+      "Party-Based RPG",
+      "Fantasy",
+      "Action RPG",
+      "Third Person",
+      "Colorful",
+      "Strategy RPG",
+      "Strategy",
+      "Choose Your Own Adventure",
+      "Turn-Based Tactics",
+      "3D"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 37462,
+    "review_negative": 4261,
+    "review_total": 41723,
+    "review_positive_percent": 89.79
+  }
+}

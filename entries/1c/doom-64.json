@@ -1,0 +1,133 @@
+{
+  "key": "doom-64",
+  "name": "DOOM 64",
+  "description": "Play the enhanced version of the original game released on the Nintendo 64 in 1997. Years have passed since you stopped Hell’s invasion of Earth. Quarantined for humanity’s safety, the UAC research facilities on Mars were abandoned and forgotten...until now.",
+  "developers": [
+    "id Software"
+  ],
+  "publishers": [
+    "Bethesda Softworks"
+  ],
+  "release_date": "2020-03-20",
+  "website": "",
+  "tags": [
+    "action"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "DOOM64_x64.exe",
+          "description": "",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinSavedGames",
+          "path": "Nightdive Studios/DOOM 64/saves",
+          "pattern": "*.sav",
+          "recursive": false
+        },
+        {
+          "root": "WinSavedGames",
+          "path": "Nightdive Studios/DOOM 64/saves",
+          "pattern": "*.sig",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "DOOM 64",
+    "DOOM64_x64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1148590/420b8488badd2d6d1b853307df7a550b2d2c33e2.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148590/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148590/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148590/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148590/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148590/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148590/ss_5e2fb3fab7a02e11feed02038f08a62f00d8bb70.1920x1080.jpg?t=1750784988"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148590/ss_1d2be70580110a285cd24329f0411def0f3ead5c.1920x1080.jpg?t=1750784988"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148590/ss_7ad3f7138fa57b1a3aadf78e70607937af7a3616.1920x1080.jpg?t=1750784988"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148590/ss_1658630f97a8858ec95d9bf214662a111e926bb3.1920x1080.jpg?t=1750784988"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148590/ss_dd2e8dfa0a9fbfff1bd65e560f0e673504e692bd.1920x1080.jpg?t=1750784988"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148590/ss_94dd2528c082797a09d2ff13c14c5dd78816b031.1920x1080.jpg?t=1750784988"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148590/ss_8b55a3cb562173993f16f54af868a3c93045a156.1920x1080.jpg?t=1750784988"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148590/ss_0d9f813d3dc42bc51385d91c384fb435c33a74a7.1920x1080.jpg?t=1750784988"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148590/ss_9ab67dd5035256d61d4df67ad6a440e4e484949f.1920x1080.jpg?t=1750784988"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Trailer EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256893445/movie.293x165.jpg?t=1656074780",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1148590/474619/c835f55048b035f8833f16909e4a90b4250bd72f/1750628345/dash_h264.mpd?t=1656074780"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1148590,
+    "store_url": "https://store.steampowered.com/app/1148590/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Keyboard Only Option",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Stereo Sound",
+      "Surround Sound",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 8012,
+    "review_negative": 610,
+    "review_total": 8622,
+    "review_positive_percent": 92.93
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "key": "underrail",
+  "name": "Underrail",
+  "description": "UnderRail is an old-school turn-based isometric role-playing game that features a large open post-apocalyptic world, deep and challenging combat and an intricate storyline.",
+  "developers": [
+    "Stygian Software"
+  ],
+  "publishers": [
+    "Stygian Software"
+  ],
+  "release_date": "2015-12-18",
+  "website": "http://www.underrail.com",
+  "tags": [
+    "indie",
+    "rpg",
+    "post-apocalyptic",
+    "isometric",
+    "crpg",
+    "turn-based",
+    "turn-based-combat",
+    "singleplayer",
+    "sci-fi",
+    "open-world",
+    "crafting",
+    "atmospheric",
+    "old-school",
+    "cyberpunk",
+    "difficult",
+    "pixel-graphics",
+    "adventure",
+    "exploration",
+    "sandbox",
+    "2d"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "underrail.exe",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinMyDocuments",
+          "path": "My Games\\Underrail\\Saves",
+          "pattern": "*.*",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Underrail",
+    "underrail"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/250520/b87d5d6184f9de157be1675bbf50f412fdced5ff.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/eb39cbd546717c8035eb214a4286bffa0ecaaa55/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/07af5988661707427809a3777f75b306f1e631c9/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/818117f8706649c58016f94611073381cabbf08d/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/09bd29c005732e96088b2049464fbcb3d035a1af/ss_09bd29c005732e96088b2049464fbcb3d035a1af.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/ba4ba5883fd807577b4ca87d97310abdca604a27/ss_ba4ba5883fd807577b4ca87d97310abdca604a27.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/55e83539bafef5cd5814aaba316007282ef07739/ss_55e83539bafef5cd5814aaba316007282ef07739.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/cf07436ff105774d8ac5fe93a69c75e4cfd47742/ss_cf07436ff105774d8ac5fe93a69c75e4cfd47742.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/fce4cb70eef98c970999c7ef41089d32e75b6fc3/ss_fce4cb70eef98c970999c7ef41089d32e75b6fc3.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/ss_b29a23e4ee21d3399e0cda33a127ae288a20574c.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/ss_1b7ef46a9148d7c4903c43e5ba5340eef747c557.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/ss_ca8a3aee407a30179469b09081781edb96520e01.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/c3a1cd79fa54389627fe654db8df2b1dcaab3cce/ss_c3a1cd79fa54389627fe654db8df2b1dcaab3cce.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/ss_56f68d9a5885e19689fdc6d5cf812719ed745692.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/09058dbfcbe1df913c28daed077b3b603dc3e1e4/ss_09058dbfcbe1df913c28daed077b3b603dc3e1e4.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/b767b4f315a6763f401a72b1bb9bef920f28bf37/ss_b767b4f315a6763f401a72b1bb9bef920f28bf37.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/77e2814a266488d4410c0cc11ce5f3a29b884b04/ss_77e2814a266488d4410c0cc11ce5f3a29b884b04.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/775a4a4afe6715e2f8de26f219a62fed3171eda8/ss_775a4a4afe6715e2f8de26f219a62fed3171eda8.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/33645c1afec1719d4a6c94f277ea4fa04f341646/ss_33645c1afec1719d4a6c94f277ea4fa04f341646.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/69d0d7ff23fb32423a88604d64e5b28cd9f8bb25/ss_69d0d7ff23fb32423a88604d64e5b28cd9f8bb25.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/708897f328e559b130c886ad70e33b1ef4bc0b3e/ss_708897f328e559b130c886ad70e33b1ef4bc0b3e.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/8870dfb850eb79d6a72ecafdf7ac010cbc16f9d5/ss_8870dfb850eb79d6a72ecafdf7ac010cbc16f9d5.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/2dcae4d6d88b6cdd207c7c57c9c8e981fbe2e4ae/ss_2dcae4d6d88b6cdd207c7c57c9c8e981fbe2e4ae.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/b5d24a8fbdb5532be72fdfffc6d6f7ae389a2e01/ss_b5d24a8fbdb5532be72fdfffc6d6f7ae389a2e01.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/da2775f6ccc545712676cf26e11786b308794fd7/ss_da2775f6ccc545712676cf26e11786b308794fd7.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/e09195fc6d42e5687b32fac25fe1a668a9360912/ss_e09195fc6d42e5687b32fac25fe1a668a9360912.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/6effa0ff302ccd2a7ca3d08013ab94a131cc3b1f/ss_6effa0ff302ccd2a7ca3d08013ab94a131cc3b1f.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/234ffd96659fe61cf8bbb411a9674cfccde40649/ss_234ffd96659fe61cf8bbb411a9674cfccde40649.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/1c6cbb01e06034da44835d608c058cef9ccc4e92/ss_1c6cbb01e06034da44835d608c058cef9ccc4e92.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/81058e3afaa6faea58f677074486af2f37e9046f/ss_81058e3afaa6faea58f677074486af2f37e9046f.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/83e1cea4e619d054970afd735cbf1ac68b0200e2/ss_83e1cea4e619d054970afd735cbf1ac68b0200e2.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/1cd429c4d75f362ef6ee0d8a7e69976d4dea4a7f/ss_1cd429c4d75f362ef6ee0d8a7e69976d4dea4a7f.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/cfc69c859e0c9a9bc134621fba32873da7bd0ff2/ss_cfc69c859e0c9a9bc134621fba32873da7bd0ff2.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/3e4d34911aaaceda00d280f18aaaf6f6a9bdf45e/ss_3e4d34911aaaceda00d280f18aaaf6f6a9bdf45e.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/9a909118a6c2476dc5c39590e605c0d93425e0ac/ss_9a909118a6c2476dc5c39590e605c0d93425e0ac.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/2a4c862b129be70c46598aea18da52c4acdb2377/ss_2a4c862b129be70c46598aea18da52c4acdb2377.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/6095596b791bef2755786b8bcfe7025209b0f447/ss_6095596b791bef2755786b8bcfe7025209b0f447.1920x1080.jpg?t=1766066755"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/ss_737c47ecf9f104a5d456bc2d8b9dc7c35926fe7e.1920x1080.jpg?t=1766066755"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Underrail Trailer (2025)",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257251477/e3462cb1027621f9744266aa2f470c5f450baf80/movie_600x337.jpg?t=1766066752",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/250520/1069304796/1711327ff1e504101bcdee24f18ec9a09f161a2e/1765980874/dash_h264.mpd?t=1766066752"
+    }
+  ],
+  "metacritic": {
+    "score": 72,
+    "url": "https://www.metacritic.com/game/pc/underrail?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 250520,
+    "store_url": "https://store.steampowered.com/app/250520/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "RPG"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Family Sharing"
+    ],
+    "tags": [
+      "RPG",
+      "Post-apocalyptic",
+      "Isometric",
+      "CRPG",
+      "Turn-Based",
+      "Turn-Based Combat",
+      "Indie",
+      "Singleplayer",
+      "Sci-fi",
+      "Open World",
+      "Crafting",
+      "Atmospheric",
+      "Old School",
+      "Cyberpunk",
+      "Difficult",
+      "Pixel Graphics",
+      "Adventure",
+      "Exploration",
+      "Sandbox",
+      "2D"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 6164,
+    "review_negative": 981,
+    "review_total": 7145,
+    "review_positive_percent": 86.27
+  }
+}

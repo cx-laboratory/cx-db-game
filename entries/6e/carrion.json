@@ -1,0 +1,291 @@
+{
+  "key": "carrion",
+  "name": "CARRION",
+  "description": "CARRION is a reverse horror game in which you assume the role of an amorphous creature of unknown origins, stalking and consuming those that imprisoned you.",
+  "developers": [
+    "Phobia Game Studio"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "release_date": "2020-07-23",
+  "website": "https://www.devolverdigital.com/games/carrion",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "gore",
+    "villain-protagonist",
+    "pixel-graphics",
+    "metroidvania",
+    "horror",
+    "violent",
+    "2d",
+    "singleplayer",
+    "puzzle",
+    "physics",
+    "lovecraftian",
+    "sci-fi",
+    "atmospheric",
+    "platformer",
+    "great-soundtrack",
+    "stealth",
+    "cute"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "红怪"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Carrion.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "CarrionComicBook/CarrionComicBook.exe",
+          "description": "CARRION Comic Book",
+          "type": "none"
+        },
+        {
+          "executable": "CarrionArtBook/CarrionComicBook.exe",
+          "description": "The Art of CARRION",
+          "type": "none"
+        },
+        {
+          "executable": "Prototypes/1/Game210617.exe",
+          "description": "Prototype #1",
+          "type": "none"
+        },
+        {
+          "executable": "Prototypes/2/Game210617.exe",
+          "description": "Prototype #2",
+          "type": "none"
+        },
+        {
+          "executable": "Prototypes/3/Game210617.exe",
+          "description": "Prototype #3",
+          "type": "none"
+        },
+        {
+          "executable": "Prototypes/4/Game210617.exe",
+          "description": "Prototype #4",
+          "type": "none"
+        },
+        {
+          "executable": "Prototypes/5/build/Game210617.exe",
+          "description": "Prototype #5",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Phobia/Carrion/_steam_{64BitSteamID}/saves",
+          "pattern": "*.crn",
+          "recursive": false
+        }
+      ]
+    },
+    "macos": {
+      "launch": [
+        {
+          "executable": "Carrion.app/Contents/Resources/Carrion",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "CarrionComicBook/CarrionComicBook.app/Contents/Resources/CarrionComicBook",
+          "description": "CARRION Comic Book",
+          "type": "none"
+        },
+        {
+          "executable": "CarrionArtBook/CarrionComicBook.app/Contents/Resources/CarrionComicBook",
+          "description": "The Art of CARRION",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Phobia/Carrion/_steam_{64BitSteamID}/saves",
+          "pattern": "*.crn",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "carrion_steam.sh",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "carrion_steam.sh",
+          "description": "CARRION Comic Book",
+          "type": "default"
+        },
+        {
+          "executable": "carrion_steam.sh",
+          "description": "The Art of CARRION",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Phobia/Carrion/_steam_{64BitSteamID}/saves",
+          "pattern": "*.crn",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "CARRION",
+    "Carrion",
+    "CarrionComicBook/CarrionComicBook",
+    "CarrionArtBook/CarrionComicBook",
+    "Prototypes/1/Game210617",
+    "Prototypes/2/Game210617",
+    "Prototypes/3/Game210617",
+    "Prototypes/4/Game210617",
+    "Prototypes/5/build/Game210617",
+    "Carrion.app/Contents/Resources/Carrion",
+    "CarrionComicBook/CarrionComicBook.app/Contents/Resources/CarrionComicBook",
+    "CarrionArtBook/CarrionComicBook.app/Contents/Resources/CarrionComicBook",
+    "carrion_steam.sh",
+    "红怪"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/953490/e6f76f606f82cdadbdac5cc829410eac3ab029ac.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/953490/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/953490/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/953490/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/953490/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/953490/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/953490/ss_c1b99767813054012175e6dccfc1a13a04f01f8c.1920x1080.jpg?t=1760015957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/953490/ss_1c428122c4097b4f40cbf058444d34aeaceb84d1.1920x1080.jpg?t=1760015957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/953490/ss_b4856724be6c68d0826ba09dd14f19e65df6d856.1920x1080.jpg?t=1760015957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/953490/ss_bc3a3b3c8e037420b8dec8fbac29770041845247.1920x1080.jpg?t=1760015957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/953490/ss_5f53d9ba6f95568c6ce39dad483a0e0d5a5dd457.1920x1080.jpg?t=1760015957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/953490/ss_c3e32b7d65be51f55818d441b983fe3b42015edb.1920x1080.jpg?t=1760015957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/953490/ss_462e2e8b586b8ca5901111a95cc126f007d98843.1920x1080.jpg?t=1760015957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/953490/ss_a86a9b8e5910f2f3f884b53bf51a6eeb3b646e08.1920x1080.jpg?t=1760015957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/953490/ss_8b6e12215364e7cb4e401bfdbb9709f72bb4aa22.1920x1080.jpg?t=1760015957"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/953490/ss_85bfec758850d3942981ce6a64eba6e25c98e37d.1920x1080.jpg?t=1760015957"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256793612/movie.293x165.jpg?t=1595426760",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/953490/299866/53f1de1d90c44388fc8ad92b194b6bbe4ecc0d9b/1750600306/dash_h264.mpd?t=1595426760"
+    },
+    {
+      "name": "Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256752693/movie.293x165.jpg?t=1594494959",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/953490/226813/ad20f9b3a27281a31cc50d69b0a4f39d98725298/1750600304/dash_h264.mpd?t=1594494959"
+    }
+  ],
+  "metacritic": {
+    "score": 75,
+    "url": "https://www.metacritic.com/game/pc/carrion?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 953490,
+    "store_url": "https://store.steampowered.com/app/953490/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Gore",
+      "Villain Protagonist",
+      "Pixel Graphics",
+      "Metroidvania",
+      "Action",
+      "Horror",
+      "Indie",
+      "Violent",
+      "2D",
+      "Singleplayer",
+      "Adventure",
+      "Puzzle",
+      "Physics",
+      "Lovecraftian",
+      "Sci-fi",
+      "Atmospheric",
+      "Platformer",
+      "Great Soundtrack",
+      "Stealth",
+      "Cute"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 31267,
+    "review_negative": 1797,
+    "review_total": 33064,
+    "review_positive_percent": 94.57
+  }
+}

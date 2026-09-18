@@ -1,0 +1,538 @@
+{
+  "key": "deep-rock-galactic",
+  "name": "Deep Rock Galactic",
+  "description": "Deep Rock Galactic is a 1-4 player co-op FPS featuring dwarven space miners, procedurally-generated destructible environments, and endless hordes of alien monsters. Explore cave systems, mine for minerals, and work together to survive!",
+  "developers": [
+    "Ghost Ship Games"
+  ],
+  "publishers": [
+    "Coffee Stain Publishing"
+  ],
+  "release_date": "2020-05-13",
+  "website": "http://deeprockgalactic.com",
+  "tags": [
+    "action",
+    "multiplayer",
+    "co-op",
+    "online-co-op",
+    "dwarves",
+    "pve",
+    "fps",
+    "procedural-generation",
+    "class-based",
+    "shooter",
+    "exploration",
+    "first-person",
+    "loot",
+    "sci-fi",
+    "space",
+    "atmospheric",
+    "looter-shooter",
+    "combat",
+    "survival",
+    "horror",
+    "dark",
+    "roguelike",
+    "action-roguelike"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "swedish",
+    "hungarian",
+    "czech",
+    "romanian",
+    "turkish",
+    "arabic",
+    "brazilian",
+    "bulgarian",
+    "greek",
+    "ukrainian",
+    "vietnamese",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "深岩银河"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "FSD.exe",
+          "description": "",
+          "type": "default"
+        },
+        {
+          "executable": "Legacy/FSD.exe",
+          "description": "2018 Legacy Edition",
+          "type": "option1"
+        },
+        {
+          "executable": "FSD.exe",
+          "description": "Deep Rock Galactic (DirectX 12)",
+          "type": "option2"
+        },
+        {
+          "executable": "FSD.exe",
+          "description": "Deep Rock Galactic (DirectX 11)",
+          "type": "option3"
+        },
+        {
+          "executable": "FSD.exe",
+          "description": "Deep Rock Galactic (Safe Mode)",
+          "type": "option3"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "FSD/Saved/SaveGames",
+          "pattern": "*.sav",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Deep Rock Galactic",
+    "FSD",
+    "Legacy/FSD",
+    "深岩银河"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/548430/e033e23c29a192a17c16a7645a2b423ac64ff447.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/37b58a6c4816ee60b0ca97cb6724d6e904c58c41/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/1a881a724266fff7af201e18b1af3d2f4d6f4290/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/35c4a38067592e934fbb389098eccb0d8a8de000/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/49a57d16c55b74a6f835c590421d299d417af4f8/ss_49a57d16c55b74a6f835c590421d299d417af4f8.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/5ffa803484da48da16db9006d7f4313db8999c2a/ss_5ffa803484da48da16db9006d7f4313db8999c2a.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/cf8c347fac940f99a9a256730aca3cb647cb563f/ss_cf8c347fac940f99a9a256730aca3cb647cb563f.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/9fad579c755e0c3ed249f581537da3c634d141bb/ss_9fad579c755e0c3ed249f581537da3c634d141bb.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/5de4ec4baa28c5df1cecb676be0f399f470beb75/ss_5de4ec4baa28c5df1cecb676be0f399f470beb75.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/03ac295f55defe10866d07a6f81329751c5abfb7/ss_03ac295f55defe10866d07a6f81329751c5abfb7.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/16b75c6d2a231b45b56328abe335fde8cee9ebe4/ss_16b75c6d2a231b45b56328abe335fde8cee9ebe4.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/5be477305106e6849cd4dab968fa38f87f5cb46c/ss_5be477305106e6849cd4dab968fa38f87f5cb46c.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/28d7b3cf3cfa15081a5b71849ba82e001f94db3d/ss_28d7b3cf3cfa15081a5b71849ba82e001f94db3d.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/19e8e5d9434de9de3343a8273833cf40e22e4239/ss_19e8e5d9434de9de3343a8273833cf40e22e4239.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/97de4f0997deec98bd6ba05c2a98fda3c0c09efc/ss_97de4f0997deec98bd6ba05c2a98fda3c0c09efc.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/01a5988bf2d486e4ce0300c88654fcb3601bbd5c/ss_01a5988bf2d486e4ce0300c88654fcb3601bbd5c.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/0dce67e3e3fa9d6a39f692d2fc3e0d34058a3876/ss_0dce67e3e3fa9d6a39f692d2fc3e0d34058a3876.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/913b717769f73ef0a72fc67599f1e26ed5ae35a2/ss_913b717769f73ef0a72fc67599f1e26ed5ae35a2.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/a4d79e50fbb47f3fb30bd4a40e180de6704965d9/ss_a4d79e50fbb47f3fb30bd4a40e180de6704965d9.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_6f3428f0225ab1568e6d02f203dfa283d1f92257.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_2441f382d8eca3dd652494d2dde000879eeb3f8f.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_cd02d27565f44fed132f96ceebb76755dd7f9363.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_c11c8e34b6b6a175e3f102aacc8500af86a6878b.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_09fd19c37d50c03632dff09ec34f1ec93a68bdb8.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_1bc5367dbc85a91a08ec2846508c65a960dbd479.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_2a51e8670de7cb0358d0a1d2c866446cbc3778c5.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_6e61e97a8b5d198491bbc244613d7a75d5f64c0b.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_5d41a7c4b219d60ab4463721352bd019adfb396c.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_b11afc39875ac894b5730b93f84c094cc0a276ac.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_32dee8467e457e1c347dae117ac497170e5bf803.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_fa0c98eeec32a837d97052755355dccbaf1b7b0c.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_7147719ab8d23032c3db20161bb7edc3927c68d0.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_123a3f452ce026213270cafba02dad7eb8ac5d60.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_12b8e517120caeb3198103e8fb6880dc05a05959.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_d5a9335cb1c95b512723c2b0bd4b38b98f0693f7.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_15ad99b647b0b237e9e24547403940cf42a10207.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_922f02c039dff6d61dcc3680621d6129d6ff974f.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_b093791894a05cb26d4098d06cace1630d2c2bc7.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_9b5878a2bb648c3af543f595580dca8898d7a409.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_9d9c504ccfa6c5c19105a2b1a1deaf40d1135717.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_26b2cccd46ccad8ef27ab8bac041011b30b7c514.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_c01ce5571294903b6e3489b6f7ca5f7745b2c6e0.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_c64b9f592d54fe69f75f73d9e69602c048c62554.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_59c9a51206ea4bc22e24e8235cee28d55d6bac05.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_060da7d24ad594da3ddb1dccfa7ea7e728966b4d.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_5aed8cee16e98552f4a36cc079e1387e158662a5.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_841a0b91ec00596fed5e44c5e269d203b5101b93.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_a7db62883008aa5cd239efcab1cb717e6f7f8642.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_dd922c52202b1d3b2f988952f4b556f5a3af0b68.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_3deee0ea62581f47e67f87528c7ad38a5225b88d.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_26cf4171270888160d98dc4c63ba839c19e62161.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_d4a11ef3f45634e9260c379a8770714827a0a245.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_fb70f0b3d83595c90c225a20f36a871583f25486.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_356897a714a410cc03a178824c4955b3e6d6331a.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_9ece49e998dd661e61eaf621e94c03e5b85b57f8.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_bfecba27dcf45a751638e76c1745eab5e744ebd2.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_4cac98f49fde6e994a64e813baaf7b34a195d2cc.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_1b0c5a4e2fd0ab1a12a59274e3b7c706507b95f9.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_b4fff9963828e4628b6318fa53c9d54500dc0950.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_444544bc1e45aca9e7b7a66bccaaa77ed9e035a3.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_faae18607909fb9cd5cc73c5078bf8bf0578e0c2.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_38c83068454c997082f3f3c60fe2564e77814d29.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_40ce888565444b789c4f0d15236ea03c444511a4.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_ce893e738183d1332afd4493b9ee3f28eb6153c5.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_e1badaf8dd8d1ddc91731ecedcaaebe6baeaab3a.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_b7a314bd0534cd373b913a009ed6243868c29097.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_b60176e028e0629141709ab023292c7a0c9ba5af.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_99d2490fb73385516fdb28469649386fdf0dad07.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_82bae16c1411fad6a4a09c8c9f62cdf86bd6e8c9.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_c450b3836f94ae5def5cd402b70d8a05ca4be1dc.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_79e622a554ff2362d6d0f914f7da0b84af0acbed.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_4e30d3f9f1885a0af4d9ca7048bb7c25ad101ca0.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_3fff97072bf18e192b0bc99f59209d357c62d624.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_e6e1d97ee0a5fc8b82c5a9a1aacba178206e3522.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_72a64017d059fb584cd0c5977886f2d935be8170.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_d93c676ba296854f7b9261520e0262477c787820.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_f4444adc34648598e17a90ccaca79232395b3027.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_f7021d5ac1017dbfdef0762e8572e28ca7b6ad6c.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_47a04438ce5388fb854bd14828fc4a4797aea8ea.1920x1080.jpg?t=1782116973"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/ss_47dfb094023993edd6d2fd7f33ad7f907ef43c79.1920x1080.jpg?t=1782116973"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Season 06 - Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257274503/ec01dd9ef60548cf523dccbc407eacd472eae374/movie_600x337.jpg?t=1769688641",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/548430/1912821037/a9a4174ee3e32773076b9f64e2f27cd7627bdbed/1769597323/dash_h264.mpd?t=1769688641"
+    },
+    {
+      "name": "Season 06 - Narrated Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257273689/404e4a01ac75368461e139272c7c9f40859cca72/movie_600x337.jpg?t=1769510392",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/548430/1959556252/59bacc9b1b7a5b2fb26f22598cdd3ab18b2c6711/1769506161/dash_h264.mpd?t=1769510392"
+    },
+    {
+      "name": "Season 05 - Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257031000/movie.293x165.jpg?t=1718276246",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/548430/713453/bd140ea8a7f291d5980f9a83d0f107ccd2081278/1750548761/dash_h264.mpd?t=1718276246"
+    },
+    {
+      "name": "Season 05 - Narrated Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257028126/movie.293x165.jpg?t=1717499526",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/548430/709009/a589da61b047684cf818adc6caa8480d6848ba0a/1750548746/dash_h264.mpd?t=1717499526"
+    },
+    {
+      "name": "1.0 Launch Trailer with Quotes",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256800421/movie.293x165.jpg?t=1599719181",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/548430/311163/dd315b18a00dbb0ca9ca27bdf28a7e855db3d007/1750548663/dash_h264.mpd?t=1599719181"
+    },
+    {
+      "name": "Season 04 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256954361/movie.293x165.jpg?t=1687789236",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/548430/580550/262b272e56d41bf68faf28b4d6bf46e15313e45a/1750548740/dash_h264.mpd?t=1687789236"
+    },
+    {
+      "name": "Season 04 - Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256953013/movie.293x165.jpg?t=1686826756",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/548430/578439/97b55fb2a657360910fbcf4dc56fa06ad40b6013/1750548736/dash_h264.mpd?t=1686826756"
+    },
+    {
+      "name": "Season 04 - Narrated Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256950265/movie.293x165.jpg?t=1685629317",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/548430/573786/39d6201644ad2e2c96f8e8de99771d9ac3b6046b/1750548715/dash_h264.mpd?t=1685629317"
+    },
+    {
+      "name": "Season 03 - Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256914352/movie.293x165.jpg?t=1667477058",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/548430/510655/0ed96e1035d6e4ab75563d90fefe360908b4ce8a/1750548707/dash_h264.mpd?t=1667477058"
+    },
+    {
+      "name": "Season 03 - Narrated Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256914354/movie.293x165.jpg?t=1667477054",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/548430/510657/251f2e9f2794f914b1a2e706228ac3c58576270c/1750548714/dash_h264.mpd?t=1667477054"
+    },
+    {
+      "name": "Season 02 - Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256884378/movie.293x165.jpg?t=1651143704",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/548430/458935/57f41b2ed2dff64efd5682b09284ca53c2fdcbe9/1750548695/dash_h264.mpd?t=1651143704"
+    },
+    {
+      "name": "Season 02 - Narrated Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256881810/movie.293x165.jpg?t=1651143708",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/548430/454569/f1cbf63a333aa605bc28ab5ed4e5e537620f227a/1750548691/dash_h264.mpd?t=1651143708"
+    },
+    {
+      "name": "Season 01 - Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256858709/movie.293x165.jpg?t=1636025521",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/548430/414069/9ff6d89180a046464140c48619ce9c0b072ea023/1750548687/dash_h264.mpd?t=1636025521"
+    },
+    {
+      "name": "Season 01 - Narrated Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256856971/movie.293x165.jpg?t=1636025529",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/548430/411013/23c9ac9b0edb2589e4175e35f7a5de4a9be52760/1750548679/dash_h264.mpd?t=1636025529"
+    },
+    {
+      "name": "Update 33 trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256820784/movie.293x165.jpg?t=1612439352",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/548430/345201/46ebb49723018cc56ccd8153f2999dd2a0303643/1750548679/dash_h264.mpd?t=1612439352"
+    },
+    {
+      "name": "Launch Day Narrated Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256783673/movie.293x165.jpg?t=1588226844",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/548430/282168/e2fd93dbdc47c0e19fbf33b2965ad4a9028588bd/1750548577/dash_h264.mpd?t=1588226844"
+    },
+    {
+      "name": "Update 32 Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256806044/movie.293x165.jpg?t=1603380614",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/548430/321050/21a4f4927bc65ec738e2ecd3dd9e271b631aa379/1750548671/dash_h264.mpd?t=1603380614"
+    },
+    {
+      "name": "Fan Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256785114/movie.293x165.jpg?t=1589374877",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/548430/285153/d24569763fc2a5f362d387c09ebd39d630fe6e96/1750548631/dash_h264.mpd?t=1589374877"
+    },
+    {
+      "name": "Update 27 Status Report Subbed",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256770590/movie.293x165.jpg?t=1603365780",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/548430/258465/195fcf94d836692e60585b84c6dcdadf44d97a5a/1750548562/dash_h264.mpd?t=1603365780"
+    },
+    {
+      "name": "Update 26 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256767878/movie.293x165.jpg?t=1574355387",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/548430/253829/63af8cb035e228f8962a70d230d138a62f377e6a/1750548553/dash_h264.mpd?t=1574355387"
+    },
+    {
+      "name": "Update 23 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256745930/movie.293x165.jpg?t=1588170749",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/548430/214468/3ecf8fac318c808c5dc3c03a3c107c360a6bbef6/1750548520/dash_h264.mpd?t=1588170749"
+    },
+    {
+      "name": "Update 21 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256742394/movie.293x165.jpg?t=1568296075",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/548430/208194/9e666775a15cdff590d85cde191d6c2ad0da7917/1750548491/dash_h264.mpd?t=1568296075"
+    },
+    {
+      "name": "Update 19 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256736980/movie.293x165.jpg?t=1543505350",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/548430/198319/124af8ace62755dd5b2f8e970cf8e8f78c10462d/1750548437/dash_h264.mpd?t=1543505350"
+    }
+  ],
+  "metacritic": {
+    "score": 85,
+    "url": "https://www.metacritic.com/game/pc/deep-rock-galactic?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 548430,
+    "store_url": "https://store.steampowered.com/app/548430/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Captions available",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Dwarves",
+      "Co-op",
+      "PvE",
+      "FPS",
+      "Procedural Generation",
+      "Class-Based",
+      "Shooter",
+      "Exploration",
+      "First-Person",
+      "Loot",
+      "Sci-fi",
+      "Action",
+      "Space",
+      "Atmospheric",
+      "Looter Shooter",
+      "Combat",
+      "Survival",
+      "Horror",
+      "Dark",
+      "Action Roguelike"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 366743,
+    "review_negative": 10773,
+    "review_total": 377516,
+    "review_positive_percent": 97.15
+  }
+}

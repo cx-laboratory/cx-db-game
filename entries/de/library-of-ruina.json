@@ -1,0 +1,140 @@
+{
+  "key": "library-of-ruina",
+  "name": "Library Of Ruina",
+  "description": "&quot;May you find your book in this place.&quot; Combat between the guests and the librarians breaks out as if it were on a stage. Defeated guests turn into books, and the Library grows onward. And eventually, get your hands on… The one singular, perfect book.",
+  "developers": [
+    "ProjectMoon"
+  ],
+  "publishers": [
+    "ProjectMoon"
+  ],
+  "release_date": "2021-08-11",
+  "website": "https://twitter.com/ProjMoonStudio",
+  "tags": [
+    "indie",
+    "rpg",
+    "strategy"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "koreana",
+    "schinese",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "LibraryOfRuina.exe",
+          "description": "",
+          "type": "none"
+        },
+        {
+          "executable": "LibraryOfRuina.exe",
+          "description": "LOR With Mods",
+          "type": "none"
+        },
+        {
+          "executable": "LibraryOfRuina.exe",
+          "description": "LOR Invitaion Editor",
+          "type": "none"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "WinAppDataLocalLow",
+          "path": "Project Moon/LibraryOfRuina",
+          "pattern": "*.dat",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Library Of Ruina",
+    "LibraryOfRuina"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1256670/57587a476ea5cc23ace386db50a6bfc9547a9b4b.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_43f3c74028922a9e0a80be23b52e90c9cb727417.1920x1080.jpg?t=1670980516"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_707fb2b0bbceecc4d4ea8517ebc709b69cca35fc.1920x1080.jpg?t=1670980516"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_338843763e782212597ec2979c2ff496d5dc61d4.1920x1080.jpg?t=1670980516"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_31224734740c90faf7e9d9986962c1133e0dd2c3.1920x1080.jpg?t=1670980516"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_21d9365859cac3056a64424ea468ad1f577096a9.1920x1080.jpg?t=1670980516"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_066a77defb90217f60742ad8d706d3d12d95aac1.1920x1080.jpg?t=1670980516"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_a4c12d440fe293eaa48f31688905372d1be7aa1a.1920x1080.jpg?t=1670980516"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_c80e2ea36a79f73d87e9740f470054199a1f5e55.1920x1080.jpg?t=1670980516"
+    }
+  ],
+  "videos": [
+    {
+      "name": "LOR OP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256785550/movie.293x165.jpg?t=1589550542",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1256670/286090/6eb48e9d62e84cb05b901f98797a84c530576d7c/1750652311/dash_h264.mpd?t=1589550542"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256846241/movie.293x165.jpg?t=1628622202",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1256670/391676/1bf9e130200b7e2e2b4ed22c8907ecb41aac4f0b/1750652315/dash_h264.mpd?t=1628622202"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1256670,
+    "store_url": "https://store.steampowered.com/app/1256670/",
+    "required_age": 17,
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 40781,
+    "review_negative": 2389,
+    "review_total": 43170,
+    "review_positive_percent": 94.47
+  }
+}

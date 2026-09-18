@@ -1,0 +1,199 @@
+{
+  "key": "king-of-crabs",
+  "name": "King of Crabs",
+  "description": "Battle Royale with crabs! Intense multiplayer action, with up to 100 players! Scrap, scavenge and slaughter your way to becoming the King of Crabs!",
+  "developers": [
+    "Robot Squid"
+  ],
+  "publishers": [
+    "Robot Squid"
+  ],
+  "release_date": "2023-09-26",
+  "website": "https://robotsquid.com",
+  "tags": [
+    "action",
+    "casual",
+    "massively-multiplayer",
+    "free-to-play",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "co-op",
+    "online-co-op",
+    "exploration",
+    "pve",
+    "hack-and-slash",
+    "top-down-shooter",
+    "battle-royale",
+    "shooter",
+    "controller",
+    "arcade",
+    "dark-humor",
+    "realistic",
+    "character-customization",
+    "funny",
+    "3d",
+    "colorful",
+    "family-friendly",
+    "nature",
+    "survival"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "portuguese",
+    "turkish",
+    "vietnamese"
+  ],
+  "name_localized": {},
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "King of Crabs.exe",
+          "description": "Launch King of Crabs",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "SavesDir",
+          "pattern": "*.sav",
+          "recursive": true
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "King of Crabs"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1273710/ee2469b799c84eca9681baf6fdabd1fef8979164.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273710/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273710/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273710/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273710/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273710/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273710/ss_1518fd7d6b76825e39b32c53d9fe3da7ff18bcbf.1920x1080.jpg?t=1725016149"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273710/ss_e22e0af28047f76eb1945b3b3975bdc1307d51e9.1920x1080.jpg?t=1725016149"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273710/ss_a2ffa8393e91ab6b3e42c868cf6634db847da55d.1920x1080.jpg?t=1725016149"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273710/ss_cf0ff799460dd63ebd13f3d39023c66057e5d7ab.1920x1080.jpg?t=1725016149"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273710/ss_c7749aef5ab75b2f72098906cf8ab44341d93132.1920x1080.jpg?t=1725016149"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273710/ss_3b0cb843daa18707cc03fc51de6607b8945750ae.1920x1080.jpg?t=1725016149"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273710/ss_f0b6a0fdf6eb159ba7d874ad3f8aa5e275d0d140.1920x1080.jpg?t=1725016149"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256828804/movie.293x165.jpg?t=1695673740",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1273710/358953/288b666e617f92541d877416bc4d8496479179d3/1750659340/dash_h264.mpd?t=1695673740"
+    },
+    {
+      "name": "Season 5 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256970657/movie.293x165.jpg?t=1695673747",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1273710/609541/252163cec5bc98d682027a6f462fdd4379c4b7b9/1750659350/dash_h264.mpd?t=1695673747"
+    },
+    {
+      "name": "Halloween",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256805809/movie.293x165.jpg?t=1695673751",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1273710/320620/aebb5512892da4f7068384335470099071628de3/1750659324/dash_h264.mpd?t=1695673751"
+    },
+    {
+      "name": "1.10 Upadate",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256804005/movie.293x165.jpg?t=1695673755",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1273710/317705/c1eba0c779ac75d7a012f076c0b5cee80b59e542/1750659300/dash_h264.mpd?t=1695673755"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1273710,
+    "store_url": "https://store.steampowered.com/app/1273710/",
+    "required_age": 0,
+    "is_free": true,
+    "genres": [
+      "Action",
+      "Casual",
+      "Massively Multiplayer",
+      "Free To Play"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "In-App Purchases",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Exploration",
+      "PvE",
+      "Hack and Slash",
+      "Top-Down Shooter",
+      "PvP",
+      "Battle Royale",
+      "Shooter",
+      "Controller",
+      "Arcade",
+      "Dark Humor",
+      "Realistic",
+      "Character Customization",
+      "Funny",
+      "3D",
+      "Casual",
+      "Colorful",
+      "Family Friendly",
+      "Action",
+      "Nature",
+      "Survival"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "full",
+    "review_score": 6,
+    "review_score_desc": "Mostly Positive",
+    "review_positive": 7174,
+    "review_negative": 1924,
+    "review_total": 9098,
+    "review_positive_percent": 78.85
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "key": "a-hat-in-time",
+  "name": "A Hat in Time",
+  "description": "A Hat in Time is a cute-as-heck 3D platformer featuring a little girl who stitches hats for wicked powers! Freely explore giant worlds and recover Time Pieces to travel to new heights!",
+  "developers": [
+    "Gears for Breakfast"
+  ],
+  "publishers": [
+    "Gears for Breakfast"
+  ],
+  "release_date": "2017-10-06",
+  "website": "http://hatintime.com/",
+  "tags": [
+    "adventure",
+    "indie",
+    "multiplayer",
+    "co-op",
+    "split-screen",
+    "cute",
+    "3d-platformer",
+    "collectathon",
+    "great-soundtrack",
+    "funny",
+    "female-protagonist",
+    "platformer",
+    "colorful",
+    "exploration",
+    "third-person",
+    "singleplayer",
+    "moddable",
+    "open-world",
+    "comedy",
+    "family-friendly",
+    "action",
+    "atmospheric"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "koreana",
+    "schinese",
+    "tchinese"
+  ],
+  "name_localized": {
+    "schinese": "时光之帽"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "Binaries/Win64/HatinTimeGame.exe",
+          "description": "Launch",
+          "type": "default"
+        },
+        {
+          "executable": "Binaries/Win64/HatinTimeGame-Win64-Debug.exe",
+          "description": "Debug",
+          "type": "option1"
+        }
+      ],
+      "savefiles": []
+    }
+  },
+  "search_terms": [
+    "A Hat in Time",
+    "Binaries/Win64/HatinTimeGame",
+    "Binaries/Win64/HatinTimeGame-Win64-Debug"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/253230/7b934282eeb45507669ed7c08378c51bb902721f.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/ss_eb442a7301b8a0d8e94c4064575ebe68d77deb12.1920x1080.jpg?t=1770044525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/ss_b9a71f27ac4c7428666490065b872087c9d8cacb.1920x1080.jpg?t=1770044525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/ss_b02afa3ea6adafefdcead6db5b022350cb07ac56.1920x1080.jpg?t=1770044525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/ss_8484e41ad2dd4507b3025b52e9ec46a3d1ff9c73.1920x1080.jpg?t=1770044525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/ss_40164f47cf9968dca15a1e70547bf286b32b93c1.1920x1080.jpg?t=1770044525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/ss_b53ce2961bf920347518950a2726b93f48a10606.1920x1080.jpg?t=1770044525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/ss_a70784fe0519c1465d185872ec66efe92fdb6c15.1920x1080.jpg?t=1770044525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/ss_5e6bc903ae4875e8faaa9f7ea21d68383a73bbc9.1920x1080.jpg?t=1770044525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/ss_1b984b79fb64d3b91a79c185d760c90f9f7ff60a.1920x1080.jpg?t=1770044525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/ss_5ffcb224a75988f726106866eb790ef79e453fe6.1920x1080.jpg?t=1770044525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/ss_24648d05f16fe1cdb50965d8ccc8d029dbb70512.1920x1080.jpg?t=1770044525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/ss_c37d9302c20cf1e2a0f286eb7444483a76689b1c.1920x1080.jpg?t=1770044525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/ss_e873385538d4355506977b13c145dafdcc44fdd6.1920x1080.jpg?t=1770044525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/ss_9ecb1b8dae3de8cdd518350462a51bad1f277caf.1920x1080.jpg?t=1770044525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/ss_52ff637b35d676a88f5853542b34644a526ce248.1920x1080.jpg?t=1770044525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/ss_4dfcb4aaca9a064893cd3bd988e6e13d9a04ec49.1920x1080.jpg?t=1770044525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/ss_88ea21213a4c788a1736dd45a70ae0f85ae4746d.1920x1080.jpg?t=1770044525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/ss_6c4cd183a85ba42f93eb4d39743ed0e43c164351.1920x1080.jpg?t=1770044525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/ss_9b0146cf588d665e29bb9250c44abd9aec658103.1920x1080.jpg?t=1770044525"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/ss_6453e79583a08067dca7ed933628b3f6ff102bf6.1920x1080.jpg?t=1770044525"
+    }
+  ],
+  "videos": [
+    {
+      "name": "A Hat in Time - Cute-As-Heck Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256702075/movie.293x165.jpg?t=1512136366",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/253230/135184/0021a7eb54ed82263d0094a19f123d8d1a44422d/1750487831/dash_h264.mpd?t=1512136366"
+    },
+    {
+      "name": "A Hat in Time - PS4 and XBOX One Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256691322/movie.293x165.jpg?t=1501105468",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/253230/115446/ba1aab59e7b2ad49b51a355dffec60937a18a73a/1750487825/dash_h264.mpd?t=1501105468"
+    },
+    {
+      "name": "A Hat in Time - Murder on the Owl Express",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256685596/movie.293x165.jpg?t=1495634737",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/253230/104613/97fa384a4c84861b449aa7dbdb649802601e2fcc/1750489191/dash_h264.mpd?t=1495634737"
+    }
+  ],
+  "metacritic": {
+    "score": 79,
+    "url": "https://www.metacritic.com/game/pc/a-hat-in-time?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 253230,
+    "store_url": "https://store.steampowered.com/app/253230/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Stats",
+      "Steam Leaderboards",
+      "Includes level editor",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "tags": [
+      "Cute",
+      "3D Platformer",
+      "Collectathon",
+      "Great Soundtrack",
+      "Funny",
+      "Female Protagonist",
+      "Adventure",
+      "Indie",
+      "Platformer",
+      "Colorful",
+      "Exploration",
+      "Third Person",
+      "Singleplayer",
+      "Co-op",
+      "Moddable",
+      "Open World",
+      "Comedy",
+      "Family Friendly",
+      "Action",
+      "Atmospheric"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_score": 9,
+    "review_score_desc": "Overwhelmingly Positive",
+    "review_positive": 52036,
+    "review_negative": 1160,
+    "review_total": 53196,
+    "review_positive_percent": 97.82
+  }
+}

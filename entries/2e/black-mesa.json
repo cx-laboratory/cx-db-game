@@ -1,0 +1,287 @@
+{
+  "key": "black-mesa",
+  "name": "Black Mesa",
+  "description": "Relive Half-Life.",
+  "developers": [
+    "Crowbar Collective"
+  ],
+  "publishers": [
+    "Crowbar Collective"
+  ],
+  "release_date": "2020-03-07",
+  "website": "http://www.blackmesagame.com",
+  "tags": [
+    "action",
+    "adventure",
+    "indie",
+    "multiplayer",
+    "pvp",
+    "online-pvp",
+    "fps",
+    "remake",
+    "sci-fi",
+    "first-person",
+    "singleplayer",
+    "shooter",
+    "atmospheric",
+    "classic",
+    "story-rich",
+    "great-soundtrack",
+    "aliens",
+    "zombies",
+    "horror",
+    "mod",
+    "gore",
+    "early-access"
+  ],
+  "supported_platforms": [
+    "windows",
+    "linux"
+  ],
+  "supported_languages": [
+    "English*",
+    "German",
+    "Spanish - Spain",
+    "Finnish",
+    "Norwegian",
+    "French",
+    "Portuguese - Portugal",
+    "Russian",
+    "Italian",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "Hungarian",
+    "Korean",
+    "Polish",
+    "Romanian",
+    "Simplified Chinese",
+    "Swedish",
+    "Traditional Chinese",
+    "Turkish",
+    "Ukrainian",
+    "Greek",
+    "Japanese",
+    "Portuguese - Brazil",
+    "Spanish - Latin America",
+    "Vietnamese",
+    "Croatian",
+    "Georgian",
+    "Indonesian",
+    "Lithuanian*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "黑山基地"
+  },
+  "platforms": {
+    "windows": {
+      "launch": [
+        {
+          "executable": "bms.exe",
+          "description": "Default",
+          "type": "option1"
+        },
+        {
+          "executable": "bms.exe",
+          "description": "No Workshop",
+          "type": "option1"
+        },
+        {
+          "executable": "bms.exe",
+          "description": "DXVK",
+          "type": "option1"
+        },
+        {
+          "executable": "bms.exe",
+          "description": "Direct3D 9 Fallback",
+          "type": "option1"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "/bms/save",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    },
+    "linux": {
+      "launch": [
+        {
+          "executable": "bms.sh",
+          "description": "Launch",
+          "type": "default"
+        }
+      ],
+      "savefiles": [
+        {
+          "root": "gameinstall",
+          "path": "/bms/save",
+          "pattern": "*",
+          "recursive": false
+        }
+      ]
+    }
+  },
+  "search_terms": [
+    "Black Mesa",
+    "bms",
+    "bms.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.akamai.steamstatic.com/community_assets/images/apps/362890/51182b6a74035eb913b353d5d60e596c3804daf6.jpg",
+    "header_460x215_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/674b9a0e7b31996efd5032dc15e695dbf457d71d/header.jpg",
+    "capsule_231x87_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/626cc060e15a64a2a268b597b9556772ad5ce486/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/958210cdb8b6ac68597579f015f7fc6675f1a2f8/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/739f89b50b68ccd3f20f9d311e0a8735957f7782/library_hero.jpg",
+    "logo_640x324_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/ss_b106c27ff03bb3162a6875dd22c4ce440e9694c4.1920x1080.jpg?t=1780943994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/ss_9857cad0e29e5cd905f1f9b6be3e20357a6ecb92.1920x1080.jpg?t=1780943994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/ss_f4da0074a24b8c21c53929f429c26834fe8d07ae.1920x1080.jpg?t=1780943994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/ss_9c9ce8a803b06375d46e58204e6554facdd30543.1920x1080.jpg?t=1780943994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/ss_41e0d8fada425daa4ecb6bbaa51fd9b40d71ee4b.1920x1080.jpg?t=1780943994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/ss_0b3c1d1ebdc7367d8e76d22c82ce58063bbff457.1920x1080.jpg?t=1780943994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/ss_b78559dbd291dce3f1ff0848c2301080a16e498e.1920x1080.jpg?t=1780943994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/ss_9d4eba7e8e75ab9ecdfe73cbaf5a242d16959226.1920x1080.jpg?t=1780943994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/ss_86e55de27ecbe56f8a34bf06e828a423cb3ab0b4.1920x1080.jpg?t=1780943994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/ss_aac6aba64cf77c11ea5dfc772fd6237a96c2d9be.1920x1080.jpg?t=1780943994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/ss_4378559440788cedbdb07f917dbf9715ea0c6e8d.1920x1080.jpg?t=1780943994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/ss_67cf814753c0ae7b78892210f13a6ed31aee7f9a.1920x1080.jpg?t=1780943994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/ss_12ad422c6adc8607a95f38b5b741855e2cbaf092.1920x1080.jpg?t=1780943994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/ss_1728c45d939bdfe68623a91932504d1cc809332a.1920x1080.jpg?t=1780943994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/ss_337bc214546d50bebae5a066cbd4539eefd4861d.1920x1080.jpg?t=1780943994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/ss_0ab1bfaa70d45604843d814232ef18334aacd3a7.1920x1080.jpg?t=1780943994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/ss_0642f7e5ad6401ea465f18b998ee18c02f512894.1920x1080.jpg?t=1780943994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/ss_20ea4da4776751576716e66ffb323231c6b9f004.1920x1080.jpg?t=1780943994"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362890/ss_26f4b6938dffa03055395a199736672a8d5d6dc2.1920x1080.jpg?t=1780943994"
+    }
+  ],
+  "videos": [
+    {
+      "name": "1.0 Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256777178/movie.293x165.jpg?t=1583517821",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/362890/270609/74929ca65b6e654d8ce1d5ee361b218d940f8603/1750516090/dash_h264.mpd?t=1583517821"
+    },
+    {
+      "name": "2018 Xen Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256754362/movie.293x165.jpg?t=1561449228",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/362890/229811/ee56d8e55e4d046ba867b8c28c483e2703adebf2/1750516084/dash_h264.mpd?t=1561449228"
+    },
+    {
+      "name": "Steam Release Trailer 2015",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2038996/movie.293x165.jpg?t=1561449604",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/362890/35179/662e77ec6f181baaf217305c2195812134b4f687/1750516035/dash_h264.mpd?t=1561449604"
+    },
+    {
+      "name": "Black Mesa Trailer 2009 Edited",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2039018/movie.293x165.jpg?t=1561449596",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/362890/35215/30d25c055c6098e49cfe4905125661a219a78d25/1750516058/dash_h264.mpd?t=1561449596"
+    }
+  ],
+  "metacritic": {
+    "score": 84,
+    "url": "https://www.metacritic.com/game/pc/black-mesa?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 362890,
+    "store_url": "https://store.steampowered.com/app/362890/",
+    "required_age": 0,
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Workshop",
+      "Steam Input API Support",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Includes level editor",
+      "Includes Source SDK",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "tags": [
+      "FPS",
+      "Remake",
+      "Action",
+      "Sci-fi",
+      "First-Person",
+      "Singleplayer",
+      "Shooter",
+      "Atmospheric",
+      "Classic",
+      "Story Rich",
+      "Great Soundtrack",
+      "Aliens",
+      "Zombies",
+      "Adventure",
+      "Horror",
+      "Multiplayer",
+      "Indie",
+      "Mod",
+      "Gore",
+      "Early Access"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "review_positive": 136107,
+    "review_negative": 7204,
+    "review_total": 143311,
+    "review_positive_percent": 94.97
+  }
+}
